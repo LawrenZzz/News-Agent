@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Mar 2026 05:53:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Mar 2026 05:53:44 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 09:04:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 09:05:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Partners Group sounds alarm on private credit default rates</title>
-      <link>https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e</link>
-      <description>&lt;![CDATA[Partners Group sounds alarm on private credit default rates]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7ebf581b-3a29-4dda-967c-2abe5a1cd53e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>BlackRock, L&amp;G and UBS among 60 ESG funds holding BP despite pivot</title>
-      <link>https://www.ft.com/content/6b17766b-d85a-474c-acca-6c1c3bf510a8</link>
-      <description>&lt;![CDATA[BlackRock, L&amp;G and UBS among 60 ESG funds holding BP despite pivot]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/6b17766b-d85a-474c-acca-6c1c3bf510a8</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oil back at $100 after ships hit in Gulf</title>
-      <link>https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4</link>
-      <description>&lt;![CDATA[Oil back at $100 after ships hit in Gulf]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 05:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Which chokepoint wins in a game of geoeconomic Top Trumps?</title>
-      <link>https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc</link>
-      <description>&lt;![CDATA[Which chokepoint wins in a game of geoeconomic Top Trumps?]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/b9f1b5ed-3bd4-4e03-9f11-a9681127befc</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock</title>
-      <link>https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock]]&gt;</description>
-      <pubDate>Thu, 12 Mar 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories</guid>
+      <title>Investors trying to make money on the Iran conflict are gambling blind. Don’t even try.</title>
+      <link>https://www.marketwatch.com/story/investors-trying-to-make-money-on-the-iran-conflict-are-gambling-blind-dont-even-try-dd0dd00b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors trying to make money on the Iran conflict are gambling blind. Don’t even try.]]&gt;</description>
+      <pubDate>Thu, 12 Mar 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-trying-to-make-money-on-the-iran-conflict-are-gambling-blind-dont-even-try-dd0dd00b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

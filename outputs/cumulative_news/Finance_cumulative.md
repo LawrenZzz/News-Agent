@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 08:47
+**最后更新时间**: 2026-03-12 09:04
+
+---
+
+## 🆕 最新更新 (2026-03-12 09:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Investors trying to make money on the Iran conflict are gambling blind. Don’t even try.](https://www.marketwatch.com/story/investors-trying-to-make-money-on-the-iran-conflict-are-gambling-blind-dont-even-try-dd0dd00b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-12 09:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iraq: the shadow front in the war](https://www.ft.com/content/d848b651-a010-4cfe-9ef7-5bb63d3be73d)
+**发布时间**: 2026-03-12 05:00
 
 ---
 
