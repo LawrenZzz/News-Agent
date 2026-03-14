@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Mar 2026 08:30:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2026 08:30:56 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 23:25:00 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 23:25:34 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>宁德时代不想只卖电池了：722亿利润背后的转型信号</title>
-      <link>https://www.tmtpost.com/7914219.html</link>
-      <description>&lt;![CDATA[宁德时代不想只卖电池了：722亿利润背后的转型信号]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914219.html</guid>
+      <title>Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制</title>
+      <link>https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 23:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持</title>
-      <link>https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺</title>
-      <link>https://www.tmtpost.com/7914242.html</link>
-      <description>&lt;![CDATA[大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914242.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Science｜“免疫-生殖”轴新发现！西班牙科学家发现大脑免疫细胞是生育调控的关键</title>
-      <link>https://www.tmtpost.com/7913920.html</link>
-      <description>&lt;![CDATA[Science｜“免疫-生殖”轴新发现！西班牙科学家发现大脑免疫细胞是生育调控的关键]]&gt;</description>
+      <title>数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？</title>
+      <link>https://www.tmtpost.com/7914134.html</link>
+      <description>&lt;![CDATA[数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？]]&gt;</description>
       <pubDate>Sat, 14 Mar 2026 12:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7913920.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914134.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nat子刊：田波/张培团队揭示VTA-ACC多巴胺环路调控观察性社交回避的机制</title>
-      <link>https://www.tmtpost.com/7913919.html</link>
-      <description>&lt;![CDATA[Nat子刊：田波/张培团队揭示VTA-ACC多巴胺环路调控观察性社交回避的机制]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 11:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7913919.html</guid>
+      <title>第一批养虾人开始卸载龙虾！账单三天三千，全盘权限沦为黑客“自助餐”</title>
+      <link>https://www.tmtpost.com/7914258.html</link>
+      <description>&lt;![CDATA[第一批养虾人开始卸载龙虾！账单三天三千，全盘权限沦为黑客“自助餐”]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 19:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914258.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Block员工拒绝加薪留任：AI是吞噬岗位的反乌托邦</title>
+      <link>https://www.tmtpost.com/7914244.html</link>
+      <description>&lt;![CDATA[Block员工拒绝加薪留任：AI是吞噬岗位的反乌托邦]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914244.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>理想汽车的变革方向，被严重误解了</title>
+      <link>https://www.tmtpost.com/7913944.html</link>
+      <description>&lt;![CDATA[理想汽车的变革方向，被严重误解了]]&gt;</description>
+      <pubDate>Sat, 14 Mar 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7913944.html</guid>
       <category>Technology</category>
     </item>
   </channel>
