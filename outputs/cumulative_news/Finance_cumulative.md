@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-16 06:19
+**最后更新时间**: 2026-03-16 09:10
+
+---
+
+## 🆕 最新更新 (2026-03-16 09:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [UniCredit $40 billion offer for Germany’s number-two bank comes with unusual twist — it expects to fail](https://www.marketwatch.com/story/unicredit-40-billion-offer-for-germanys-number-two-bank-comes-with-unusual-twist-it-expects-to-fail-f765e37e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 09:04
+
+#### [Nicolas Cage just bought a new 2-unit luxury condo for $6.5 million in a coveted Manhattan building](https://www.marketwatch.com/story/nicolas-cage-just-bought-a-new-2-unit-luxury-condo-for-6-5-million-in-a-coveted-manhattan-building-139d15a6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 09:02
+
+#### [Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO](https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-16 08:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Belgian prime minister calls for EU to normalise ties with Russia](https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01)
+**发布时间**: 2026-03-16 08:51
+
+#### [Retail investors pull billions from private capital’s credit gold mine](https://www.ft.com/content/3103e960-5e54-4cff-a439-b61a77ab21bd)
+**发布时间**: 2026-03-16 05:00
+
+#### [Canadian pension funds count cost of private equity slump](https://www.ft.com/content/1dcd44b2-e08c-4d95-99b1-065c84852528)
+**发布时间**: 2026-03-16 05:00
+
+#### [Dubai-bound flights forced to turn back after drone sparks airport fire](https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4)
+**发布时间**: 2026-03-16 01:09
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 06:19:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 06:19:50 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 09:10:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 09:10:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,45 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7915544.html</link>
-      <description>&lt;![CDATA[AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915544.html</guid>
+      <title>“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮</title>
+      <link>https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊</title>
-      <link>https://www.tmtpost.com/7915179.html</link>
-      <description>&lt;![CDATA[央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915179.html</guid>
+      <title>OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”</title>
+      <link>https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径</title>
-      <link>https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报</title>
+      <link>https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
-粮”的⼯程实验</title>
-      <link>https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
-粮”的⼯程实验]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>大模型时代之后，AI正在寻找真实场景</title>
+      <link>https://www.tmtpost.com/7914291.html</link>
+      <description>&lt;![CDATA[大模型时代之后，AI正在寻找真实场景]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7914291.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多</title>
-      <link>https://www.tmtpost.com/7915293.html</link>
-      <description>&lt;![CDATA[1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915293.html</guid>
+      <title>从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间</title>
+      <link>https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
