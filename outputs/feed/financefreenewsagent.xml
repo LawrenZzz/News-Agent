@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 09:10:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 09:10:50 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:29:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UniCredit $40 billion offer for Germany’s number-two bank comes with unusual twist — it expects to fail</title>
-      <link>https://www.marketwatch.com/story/unicredit-40-billion-offer-for-germanys-number-two-bank-comes-with-unusual-twist-it-expects-to-fail-f765e37e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[UniCredit $40 billion offer for Germany’s number-two bank comes with unusual twist — it expects to fail]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/unicredit-40-billion-offer-for-germanys-number-two-bank-comes-with-unusual-twist-it-expects-to-fail-f765e37e?mod=mw_rss_topstories</guid>
+      <title>Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years</title>
+      <link>https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0</link>
+      <description>&lt;![CDATA[Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 22:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Nicolas Cage just bought a new 2-unit luxury condo for $6.5 million in a coveted Manhattan building</title>
-      <link>https://www.marketwatch.com/story/nicolas-cage-just-bought-a-new-2-unit-luxury-condo-for-6-5-million-in-a-coveted-manhattan-building-139d15a6?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nicolas Cage just bought a new 2-unit luxury condo for $6.5 million in a coveted Manhattan building]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nicolas-cage-just-bought-a-new-2-unit-luxury-condo-for-6-5-million-in-a-coveted-manhattan-building-139d15a6?mod=mw_rss_topstories</guid>
+      <title>Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks</title>
+      <link>https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 22:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO</title>
-      <link>https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories</guid>
+      <title>US diesel prices soar to almost $5 as Iran war pinches global supplies</title>
+      <link>https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c</link>
+      <description>&lt;![CDATA[US diesel prices soar to almost $5 as Iran war pinches global supplies]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 21:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Belgian prime minister calls for EU to normalise ties with Russia</title>
-      <link>https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01</link>
-      <description>&lt;![CDATA[Belgian prime minister calls for EU to normalise ties with Russia]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01</guid>
+      <title>Close Brothers plunges as short seller claims it understated UK car finance risks</title>
+      <link>https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d</link>
+      <description>&lt;![CDATA[Close Brothers plunges as short seller claims it understated UK car finance risks]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Hormuz will haunt us long after this war ends</title>
+      <link>https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1</link>
+      <description>&lt;![CDATA[Why Hormuz will haunt us long after this war ends]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1</guid>
       <category>Finance</category>
     </item>
   </channel>

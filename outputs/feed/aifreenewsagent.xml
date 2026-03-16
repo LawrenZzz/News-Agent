@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 06:18:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 06:20:05 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:29:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-16日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-16/</link>
-      <description>&lt;![CDATA[2026-03-16日刊]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-16/</guid>
+      <title>315曝光的“AI投毒”原理：GEO这样操控大模型推荐</title>
+      <link>https://www.qbitai.com/2026/03/388387.html</link>
+      <description>&lt;![CDATA[315曝光的“AI投毒”原理：GEO这样操控大模型推荐]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388387.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Testing LLMs on superconductivity research questions</title>
+      <link>https://research.google/blog/testing-llms-on-superconductivity-research-questions/</link>
+      <description>&lt;![CDATA[Testing LLMs on superconductivity research questions]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/testing-llms-on-superconductivity-research-questions/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>天下苦「调参」久矣！MIT师生推出全新RandOpt算法</title>
+      <link>https://www.qbitai.com/2026/03/388054.html</link>
+      <description>&lt;![CDATA[天下苦「调参」久矣！MIT师生推出全新RandOpt算法]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388054.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发</title>
+      <link>https://www.qbitai.com/2026/03/388352.html</link>
+      <description>&lt;![CDATA[一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388352.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格</title>
+      <link>https://www.qbitai.com/2026/03/387990.html</link>
+      <description>&lt;![CDATA[不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 06:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387990.html</guid>
       <category>Ai</category>
     </item>
   </channel>
