@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "82e7179af8f3ac43928bcf2d4a4e7314ed7ada84b7db4fb98fa8f9bf32e42c3c": {
-        "title": "挖走OpenClaw创始人，OpenAI赌上AI代理时代的先手棋",
-        "link": "https://www.tmtpost.com/7882015.html",
-        "published_date": "Mon, 16 Feb 2026 10:21:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414710"
-      },
-      "cf704e1881dd1fbe6cf82d942d77ca05533ea0a661e6603c23e866b8de64816f": {
-        "title": "前荣耀CEO赵明「复出」，搭档印奇再造一个自动驾驶巨头？",
-        "link": "https://www.tmtpost.com/7882141.html",
-        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414723"
-      },
-      "cce554c5eadf34a7cf004c66bafb32aa63f314128124b609c6dcf0134ae1122f": {
-        "title": "Kimi 版的 OpenClaw 来了！支持 5000+ Skills 太给力了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531449&idx=1&sn=894beeca3897c7ba9b269b59e12cb649",
-        "published_date": "Mon, 16 Feb 2026 12:36:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414726"
-      },
-      "1031b6e622b1eda631f5dc0ac7c59bd699bba531f93643852ed70392ddb15f89": {
-        "title": "漫剧“暴力”进化，AI与大厂联手开启洗牌元年",
-        "link": "https://www.tmtpost.com/7881785.html",
-        "published_date": "Mon, 16 Feb 2026 09:39:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414728"
-      },
-      "790039afb6750483ff92c4233e320a6ff57122d6acd1a4b25becef428705aa38": {
-        "title": "一周就告吹，宁德时代最后宣布不入股永太科技",
-        "link": "https://www.tmtpost.com/7881777.html",
-        "published_date": "Mon, 16 Feb 2026 15:33:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.414730"
-      },
       "0bea05d1104633633ed55857a40edd3cf7ec82ab46d03aa9e01168b8477a4a21": {
         "title": "小鹏为什么这么“烦”L3",
         "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
@@ -2725,15 +2695,39 @@
         "link": "https://www.tmtpost.com/7918802.html",
         "published_date": "Wed, 18 Mar 2026 16:03:00 GMT",
         "first_seen": "2026-03-18T08:44:17.708776"
+      },
+      "4bc81bd39e3ee2cc7ca1187027ff2c9f444e3755fc06dbabf85b48eb42baa5c6": {
+        "title": "微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点",
+        "link": "https://www.tmtpost.com/7919963.html",
+        "published_date": "Thu, 19 Mar 2026 07:02:00 GMT",
+        "first_seen": "2026-03-18T23:29:44.579660"
+      },
+      "17458c74e7b37e3575b1d21a5592d4b065854a8fbbfef7fcb0d63225d2f510ab": {
+        "title": "Alibaba Aims to Become a “Token Factory” in the AI Agent Era",
+        "link": "https://www.tmtpost.com/7919772.html",
+        "published_date": "Wed, 18 Mar 2026 20:59:00 GMT",
+        "first_seen": "2026-03-18T23:29:44.579670"
+      },
+      "f95eaec0ef2b672e76bbca674aa2e6b86f6100d49466940724dbb0a20525d6bb": {
+        "title": "每天审200个PR、每月3000个Issue？智能体开始并行写代码，人类可能成最薄弱环节",
+        "link": "https://www.infoq.cn/article/zujYMf0JwMxe2wLv6gaa?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 18 Mar 2026 15:13:00 GMT",
+        "first_seen": "2026-03-18T23:29:44.579672"
+      },
+      "72652bc2529de675737ee46d107f426db262fe5625160beba33690f4225df4db": {
+        "title": "中国AI出海的“商业化时刻” ｜ 出海参考",
+        "link": "https://www.tmtpost.com/7919082.html",
+        "published_date": "Wed, 18 Mar 2026 21:02:00 GMT",
+        "first_seen": "2026-03-18T23:29:44.579675"
+      },
+      "6668b9f17e2626b934e83bf436c5bf38633c60a0478f0a8bbc37a032b9ea8a9b": {
+        "title": "国产手机集体涨价：性价比时代，彻底落幕",
+        "link": "https://www.tmtpost.com/7919506.html",
+        "published_date": "Wed, 18 Mar 2026 19:25:00 GMT",
+        "first_seen": "2026-03-18T23:29:44.579676"
       }
     },
     "Finance": {
-      "c1411abbbc871e3e2739281fce54d9fe8777778a891c6f4002359b59ce416031": {
-        "title": "The great rotation: Why this fund manager is pivoting from the U.S. toward Europe",
-        "link": "https://www.marketwatch.com/story/the-great-rotation-why-this-fund-manager-is-pivoting-from-the-u-s-toward-europe-e63bb005?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Feb 2026 08:50:00 GMT",
-        "first_seen": "2026-02-16T08:52:35.448551"
-      },
       "fde63bb040d3ede143cb661357791c9121a59310ea1f85cc55c8f6b2ca3bc098": {
         "title": "Fund managers take most bearish stance on dollar for a decade",
         "link": "https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2",
@@ -4653,6 +4647,36 @@
         "link": "https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d",
         "published_date": "Wed, 18 Mar 2026 07:49:00 GMT",
         "first_seen": "2026-03-18T08:44:17.743066"
+      },
+      "470d240f495ed894e6174b6266f0970871c502788bc6f072bbaac26893ea5b2b": {
+        "title": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market",
+        "link": "https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories",
+        "published_date": "Wed, 18 Mar 2026 21:46:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.220328"
+      },
+      "c79c8b567822d5d9541abf277ff43c1ac09560afd4bdc3804e33c28b16a05ecd": {
+        "title": "Powell warns of ‘new inflation’ from the Iran conflict as gas prices jump 30%",
+        "link": "https://www.marketwatch.com/story/powell-warns-of-new-inflation-from-the-iran-conflict-as-gas-prices-jump-30-ca445981?mod=mw_rss_topstories",
+        "published_date": "Wed, 18 Mar 2026 21:41:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.220335"
+      },
+      "ed600f7649214ea45db2e98f0f9d5036238a12bd14e73947ffe710687aa126fd": {
+        "title": "U.S. stocks have reached a critical line in the sand. Why the next move could be a 10% drop.",
+        "link": "https://www.marketwatch.com/story/u-s-stocks-have-reached-a-critical-line-in-the-sand-why-the-next-move-could-be-a-10-drop-c9451111?mod=mw_rss_topstories",
+        "published_date": "Wed, 18 Mar 2026 22:13:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.220337"
+      },
+      "f5feee42cc7335a012d7ffddfad94a039968ca77b194920d15f0e737ccbff1ce": {
+        "title": "Powell offers his clearest statement yet on staying at the Fed even as leadership shifts",
+        "link": "https://www.marketwatch.com/story/powell-delivers-his-most-definitive-answer-yet-on-how-long-hell-stay-on-as-fed-chair-1b2a5787?mod=mw_rss_topstories",
+        "published_date": "Wed, 18 Mar 2026 22:25:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.220338"
+      },
+      "d56be4d402a6f8f0e0c83f47b818fe9907dd978f1c6c4ca1ca92f2bc3a8188bd": {
+        "title": "Unilever and Kraft Heinz held talks over food merger uniting ketchup and mayo",
+        "link": "https://www.ft.com/content/e7e66622-50c9-493f-9076-6914f247247f",
+        "published_date": "Wed, 18 Mar 2026 18:40:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.220340"
       }
     },
     "Ai": {
@@ -5939,13 +5963,37 @@
         "link": "https://www.qbitai.com/2026/03/388815.html",
         "published_date": "Wed, 18 Mar 2026 00:31:00 GMT",
         "first_seen": "2026-03-18T06:02:58.010726"
+      },
+      "177a828e7c7c91246e2d092ffd284931cbae5906a04c65170ba62ce2d3505f40": {
+        "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
+        "link": "https://www.qbitai.com/2026/03/389024.html",
+        "published_date": "Wed, 18 Mar 2026 13:25:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.364110"
+      },
+      "a9b0a68260150becb2f58a5ecdbb63e82d9a32a0d873e3ede74fd00be82712cf": {
+        "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
+        "link": "https://www.qbitai.com/2026/03/389004.html",
+        "published_date": "Wed, 18 Mar 2026 11:35:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.364117"
+      },
+      "28b794a34a0d445904e013f4787236458a664fed205a83eef860c482ec813aa0": {
+        "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
+        "link": "https://www.qbitai.com/2026/03/388980.html",
+        "published_date": "Wed, 18 Mar 2026 09:39:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.364119"
+      },
+      "e70b185576fe6618fe5b71a8a3f851a3da05786184d1e39eb8c184c0f5bd90b1": {
+        "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
+        "link": "https://www.qbitai.com/2026/03/388972.html",
+        "published_date": "Wed, 18 Mar 2026 08:55:00 GMT",
+        "first_seen": "2026-03-18T23:29:59.364120"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-18T08:44:17.708778",
-    "Finance": "2026-03-18T08:44:17.743074",
-    "Ai": "2026-03-18T06:02:58.010728"
+    "Technology": "2026-03-18T23:29:44.579678",
+    "Finance": "2026-03-18T23:29:59.220343",
+    "Ai": "2026-03-18T23:29:59.364122"
   }
 }
