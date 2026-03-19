@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b8106a192e6b6a997def6a686017a500ee904f25d504d1dfc908beacd77f00b5": {
-        "title": "微软AI掌门放狠话：12-18个月，多数白领工作将被AI彻底替代？",
-        "link": "https://www.tmtpost.com/7882684.html",
-        "published_date": "Tue, 17 Feb 2026 11:47:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527260"
-      },
-      "d03ad4526b1bff93368572dffa49825e62eb35d6372af5bbe76b489d8a1c2510": {
-        "title": "Shadcn 发布可视化项目构建工具",
-        "link": "https://www.infoq.cn/article/cGvFLF4et1Jc68h5T7Sg?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Feb 2026 12:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527268"
-      },
-      "b2b563a733f3476a49af67b76da5637c531ddb4bea51f039cb986329262701f7": {
-        "title": "资本押注未来：睿舒科技天使轮融资，锚定环境智能3.0时代",
-        "link": "https://www.tmtpost.com/7881005.html",
-        "published_date": "Tue, 17 Feb 2026 09:19:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527270"
-      },
-      "116906affffefa153754267ef53efa500e9d47d8f6acf6a7c6314f8684d33350": {
-        "title": "从蔡明扮机器人，到机器人陪蔡明，春晚走了30年",
-        "link": "https://www.tmtpost.com/7882691.html",
-        "published_date": "Tue, 17 Feb 2026 10:40:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527272"
-      },
-      "d45c0c535e489c23a73b7b1a9a76e83e24fae4db892675c8460a15fbc3b2d4d0": {
-        "title": "春晚被机器人全面入侵的那一夜",
-        "link": "https://www.tmtpost.com/7882580.html",
-        "published_date": "Tue, 17 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:33.527274"
-      },
       "d036b1874b212331c37927b6de8623e37e852ef16698d629a1ccf73265909644": {
         "title": "四家同台，春晚成了中国机器人产业“年检”",
         "link": "https://www.tmtpost.com/7882798.html",
@@ -2725,39 +2695,39 @@
         "link": "https://www.tmtpost.com/7919981.html",
         "published_date": "Thu, 19 Mar 2026 07:01:00 GMT",
         "first_seen": "2026-03-19T05:56:42.532263"
+      },
+      "e795134c6ca6a9c15a1dd009af3bdee9c83cf2dc06ec6f4bb837b17bac360e7b": {
+        "title": "全球推理计算量暴涨一万倍背后",
+        "link": "https://www.tmtpost.com/7920955.html",
+        "published_date": "Thu, 19 Mar 2026 15:33:00 GMT",
+        "first_seen": "2026-03-19T08:38:39.996585"
+      },
+      "6422ad7b831254a7304527ecfaa024a6398e6e6c7f0ffca0ab3f570e7de4cf3e": {
+        "title": "“养龙虾”狂热背后：中国AI应用诚可贵，底层创新价更高",
+        "link": "https://www.tmtpost.com/7920897.html",
+        "published_date": "Thu, 19 Mar 2026 15:14:00 GMT",
+        "first_seen": "2026-03-19T08:38:39.996598"
+      },
+      "4e5bcbaed407f186c36607387cb10c87245c2c1ad0febc415864481a5ff12e45": {
+        "title": "从“聪明的废物”到“数字员工”，智能体落地如何破局",
+        "link": "https://www.tmtpost.com/7920695.html",
+        "published_date": "Thu, 19 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-19T08:38:39.996601"
+      },
+      "fe9ef3bc45ac193b3084b28b1eca6e0ad4b13ea47837f84e6882a68a947bfd6f": {
+        "title": "算力告急，Token 暴涨：Agent时代的阿里云如何估值？",
+        "link": "https://www.tmtpost.com/7920576.html",
+        "published_date": "Thu, 19 Mar 2026 11:46:00 GMT",
+        "first_seen": "2026-03-19T08:38:39.996603"
+      },
+      "99a0e11782078d7fd02ab55aea42a60a79580b482585808cefbb26bab8a21c73": {
+        "title": "腾讯、字节、阿里，为何同时抢跑Skill市场？",
+        "link": "https://www.tmtpost.com/7920854.html",
+        "published_date": "Thu, 19 Mar 2026 15:09:00 GMT",
+        "first_seen": "2026-03-19T08:38:39.996605"
       }
     },
     "Finance": {
-      "63a53f1ab3f13823aac1d55f902251dce82ce1b8050bae5c7be1b14e19263533": {
-        "title": "U.S. stock futures slump as investors digest ongoing tech selloff",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Feb 2026 04:01:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571357"
-      },
-      "f8f42674ac11a14e1a831e8d546fffea84b4cef3a914b5bd554f4369b87e942f": {
-        "title": "Big Oil executives under pressure to spell out growth plans",
-        "link": "https://www.ft.com/content/f0a90353-811a-48c5-b6c7-12d8091e897e",
-        "published_date": "Tue, 17 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571363"
-      },
-      "d05b6638d6290c02377e115fc78330d597ecbc638bdf336b60ac77c6c0915151": {
-        "title": "UK quietly shelves £110mn frictionless post-Brexit trade border project",
-        "link": "https://www.ft.com/content/186f4975-40fc-471f-86bb-fe2b7607793d",
-        "published_date": "Tue, 17 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571365"
-      },
-      "e587a028bc44a4968b9e1ab26e429a7695567042d6759dddb84b4ead4148d02b": {
-        "title": "Thomas Pritzker steps down as Hyatt executive chair over Epstein ties",
-        "link": "https://www.ft.com/content/83c61aea-9e5d-482f-bf41-e4b89518c5ec",
-        "published_date": "Mon, 16 Feb 2026 23:56:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571367"
-      },
-      "c0bb79fdf0805fba842fcbce041549d8205e0ec4b630a02a8dc68eabaa2d8182": {
-        "title": "Macron arrives in India as blockbuster fighter jet deal nears",
-        "link": "https://www.ft.com/content/7e02fbc4-11db-4407-8fbd-a18f9cf9871b",
-        "published_date": "Tue, 17 Feb 2026 04:18:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.571369"
-      },
       "fdb5da2adf87e408b12b5360783c93e34db44672c23616eb320dd1cdce1f90f1": {
         "title": "Gold prices tumble below $5,000  as China holidays dent support",
         "link": "https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories",
@@ -4680,18 +4650,6 @@
       }
     },
     "Ai": {
-      "2cb3dbb085b16a3e61ffccf5ad4222e7e938c7f12a9182447db3f038389fb82d": {
-        "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
-        "link": "https://www.qbitai.com/2026/02/380771.html",
-        "published_date": "Tue, 17 Feb 2026 04:58:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.716431"
-      },
-      "f337681d4afc28f88e59ee87c050a495d4cf6efe0212a428747e7cb4286d0d95": {
-        "title": "2026-02-17日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-17/",
-        "published_date": "Tue, 17 Feb 2026 07:23:00 GMT",
-        "first_seen": "2026-02-17T05:59:42.716440"
-      },
       "2b680247306aff3fcafd6fab4cb7899870ab792acab4c4ec9c8a373b86edd648": {
         "title": "ICLR 2026 | SEINT：高效的跨空间刚体不变度量",
         "link": "https://www.jiqizhixin.com/articles/2026-02-17-3",
@@ -5969,13 +5927,19 @@
         "link": "https://www.qbitai.com/2026/03/389038.html",
         "published_date": "Thu, 19 Mar 2026 01:18:00 GMT",
         "first_seen": "2026-03-19T05:56:56.022375"
+      },
+      "6a0b7e2dc2340a9931edc2a3b81883675784c5dff102c608e89ce37ff0a34f27": {
+        "title": "刚刚，全球视频模型新王诞生了！",
+        "link": "https://www.qbitai.com/2026/03/389146.html",
+        "published_date": "Thu, 19 Mar 2026 06:55:00 GMT",
+        "first_seen": "2026-03-19T08:38:40.188333"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-19T05:56:42.532265",
+    "Technology": "2026-03-19T08:38:39.996607",
     "Finance": "2026-03-19T05:56:55.876719",
-    "Ai": "2026-03-19T05:56:56.022378"
+    "Ai": "2026-03-19T08:38:40.188343"
   }
 }
