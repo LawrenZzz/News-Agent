@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0bea05d1104633633ed55857a40edd3cf7ec82ab46d03aa9e01168b8477a4a21": {
-        "title": "小鹏为什么这么“烦”L3",
-        "link": "http://www.huxiu.com/article/4835440.html?f=wangzhan",
-        "published_date": "Mon, 16 Feb 2026 15:57:00 GMT",
-        "first_seen": "2026-02-16T23:31:46.690588"
-      },
-      "a1ebed531fea793755fe8982a13c772a754784ac02285e712466f2452f5fbb20": {
-        "title": "OpenClaw背后的男人，被奥特曼“招安了”",
-        "link": "https://www.tmtpost.com/7882178.html",
-        "published_date": "Mon, 16 Feb 2026 15:26:00 GMT",
-        "first_seen": "2026-02-16T23:31:46.690599"
-      },
-      "b7ab0c74fcc1ade0dec45e4430b822861242bc80d563e6d39a68cfb36055673a": {
-        "title": "火山引擎的野心，藏在Seed2.0里",
-        "link": "https://www.tmtpost.com/7882249.html",
-        "published_date": "Mon, 16 Feb 2026 20:00:00 GMT",
-        "first_seen": "2026-02-16T23:31:46.690602"
-      },
-      "297a18d0d256fddeafe995b6fa833dca81ace68847e1b382a00b78eedef84462": {
-        "title": "群核，十年家装换取AI船票",
-        "link": "https://www.tmtpost.com/7882275.html",
-        "published_date": "Mon, 16 Feb 2026 19:55:00 GMT",
-        "first_seen": "2026-02-16T23:31:46.690604"
-      },
-      "578829fff113f9cd72f8d88b4a830fd984167e10409ea6c4ad91e4ae3bcca5cd": {
-        "title": "Seedance2.0震撼破圈，影剧综行业如何“应用”？",
-        "link": "https://www.tmtpost.com/7881782.html",
-        "published_date": "Mon, 16 Feb 2026 09:27:00 GMT",
-        "first_seen": "2026-02-16T23:31:46.690606"
-      },
       "b8106a192e6b6a997def6a686017a500ee904f25d504d1dfc908beacd77f00b5": {
         "title": "微软AI掌门放狠话：12-18个月，多数白领工作将被AI彻底替代？",
         "link": "https://www.tmtpost.com/7882684.html",
@@ -2725,39 +2695,39 @@
         "link": "https://www.tmtpost.com/7919506.html",
         "published_date": "Wed, 18 Mar 2026 19:25:00 GMT",
         "first_seen": "2026-03-18T23:29:44.579676"
+      },
+      "1338bdf63e72241d127be1b6432eb7a5f9c302e165fdec8ee46d270ff4c53ed3": {
+        "title": "英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”",
+        "link": "https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Mar 2026 12:05:00 GMT",
+        "first_seen": "2026-03-19T05:56:42.532248"
+      },
+      "3a48c25e85698b0b5d9c7a6805182b3f315ff2252cca9409a4de74e1b689170d": {
+        "title": "黄仁勋与全球最火AI初创公司CEO们，都聊了什么",
+        "link": "https://www.tmtpost.com/7920735.html",
+        "published_date": "Thu, 19 Mar 2026 13:22:00 GMT",
+        "first_seen": "2026-03-19T05:56:42.532256"
+      },
+      "f7d509028482c8481ff96a8b271fcaecdfc46f51cb0ab63c4c1e137cb05d2f47": {
+        "title": "美光 MU：AI 带动存储 “疯涨”，能破周期 “紧箍咒” 吗？",
+        "link": "https://www.tmtpost.com/7920688.html",
+        "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-19T05:56:42.532259"
+      },
+      "945c8c4c28f8615b9cd48f687ccb8e82ce2ad270a9f81739fada7891d4f74ec0": {
+        "title": "固态电池产业化提速，2026年成半固态电池量产元年",
+        "link": "https://www.tmtpost.com/7920519.html",
+        "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
+        "first_seen": "2026-03-19T05:56:42.532261"
+      },
+      "a73ca04e0239ee3112e16fe6683740c179e2b7ae8e6dc421eaf5e99e53261a99": {
+        "title": "在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌",
+        "link": "https://www.tmtpost.com/7919981.html",
+        "published_date": "Thu, 19 Mar 2026 07:01:00 GMT",
+        "first_seen": "2026-03-19T05:56:42.532263"
       }
     },
     "Finance": {
-      "fde63bb040d3ede143cb661357791c9121a59310ea1f85cc55c8f6b2ca3bc098": {
-        "title": "Fund managers take most bearish stance on dollar for a decade",
-        "link": "https://www.ft.com/content/18a8c7e6-c3d5-4f57-ad0f-58463ede2bd2",
-        "published_date": "Mon, 16 Feb 2026 12:49:00 GMT",
-        "first_seen": "2026-02-16T23:32:00.460283"
-      },
-      "5e1d429e59712700edae0c1cd7dd80b7b11817f561fcccc808d6aec284562c52": {
-        "title": "EVs must be 70% made in the EU to qualify for state support, Brussels says",
-        "link": "https://www.ft.com/content/02beec7f-9c29-4743-8041-ea5685fa0ae0",
-        "published_date": "Mon, 16 Feb 2026 20:36:00 GMT",
-        "first_seen": "2026-02-16T23:32:00.460289"
-      },
-      "898c93aba803f3a65b1569ad177a6506063309160531c2839eb9bc5af1cada8b": {
-        "title": "Shipping industry set to consolidate as Hapag-Lloyd to buy Israeli firm for 58% premium",
-        "link": "https://www.marketwatch.com/story/shipping-industry-set-to-consolidate-as-hapag-lloyd-to-buy-israeli-firm-for-58-premium-35839cf0?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Feb 2026 15:02:00 GMT",
-        "first_seen": "2026-02-16T23:32:00.460291"
-      },
-      "483bb7255fab971db2b44426df27d9f90e3ce14f22643897801e0500d5ee7ad5": {
-        "title": "These might be the winners from the latest round of Chinese new year AI launches",
-        "link": "https://www.marketwatch.com/story/these-might-be-the-winners-from-the-latest-round-of-chinese-new-year-ai-launches-06779445?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Feb 2026 14:27:00 GMT",
-        "first_seen": "2026-02-16T23:32:00.460293"
-      },
-      "8b905825ceb643f085db1863ea7d2777462a6f3cabb8b19dd40061c56ba5e2a9": {
-        "title": "Buying stocks everyone admires is a recipe for underperformance — but Apple breaks the rule",
-        "link": "https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Feb 2026 22:57:00 GMT",
-        "first_seen": "2026-02-16T23:32:00.460294"
-      },
       "63a53f1ab3f13823aac1d55f902251dce82ce1b8050bae5c7be1b14e19263533": {
         "title": "U.S. stock futures slump as investors digest ongoing tech selloff",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories",
@@ -4677,39 +4647,39 @@
         "link": "https://www.ft.com/content/e7e66622-50c9-493f-9076-6914f247247f",
         "published_date": "Wed, 18 Mar 2026 18:40:00 GMT",
         "first_seen": "2026-03-18T23:29:59.220340"
+      },
+      "2a9e6babcdb0ca2e2f16e4005be8898ec16e5186eaf2ed7f234e466f6dee0ee3": {
+        "title": "Bank of Japan postpones rate rise after Middle East war erupts",
+        "link": "https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2",
+        "published_date": "Thu, 19 Mar 2026 03:57:00 GMT",
+        "first_seen": "2026-03-19T05:56:55.876704"
+      },
+      "d369ffc8521ec8ee12564dfdd63d35e1295b8f8f2109d9fc1a5ae0f47c2fe809": {
+        "title": "Oil above $110 as Trump says US could ‘massively’ blow up Iran gasfield",
+        "link": "https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86",
+        "published_date": "Wed, 18 Mar 2026 23:37:00 GMT",
+        "first_seen": "2026-03-19T05:56:55.876711"
+      },
+      "ad830281835aca865590be3afced4f0c0d52867284daf3127fa4219b33edd7f6": {
+        "title": "US explored tying naval escorts in Strait of Hormuz to government insurance",
+        "link": "https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1",
+        "published_date": "Thu, 19 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-19T05:56:55.876714"
+      },
+      "7c1867035e1c83c2c19202d10d631cc689bd4600d69599d2d63e7db8942e1fc3": {
+        "title": "Trump sails into battle with Lloyd’s of London",
+        "link": "https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6",
+        "published_date": "Thu, 19 Mar 2026 05:00:00 GMT",
+        "first_seen": "2026-03-19T05:56:55.876715"
+      },
+      "8bc9eb29b24112ae7d7a76133da02e4078d2ef7efca233098c288fb107d91379": {
+        "title": "PwC US boss says partners who resist AI have no place at the firm",
+        "link": "https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125",
+        "published_date": "Thu, 19 Mar 2026 04:00:00 GMT",
+        "first_seen": "2026-03-19T05:56:55.876717"
       }
     },
     "Ai": {
-      "71472a8d9e0e7b230db84877e099c41f675588810b64b331bc8f93372554e274": {
-        "title": "最强开源大模型除夕登场！397B参数千问3.5超越Gemini 3，百万Tokens低至8毛",
-        "link": "https://www.qbitai.com/2026/02/380433.html",
-        "published_date": "Mon, 16 Feb 2026 11:15:00 GMT",
-        "first_seen": "2026-02-16T23:32:13.671080"
-      },
-      "62004aae463296fe1e7410165c9c44f41f214659242639ad7c0e54048ac865d1": {
-        "title": "除夕迎「源神」？Qwen3.5以小胜大，捅破性价比天花板，大模型竞赛下半场开始了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-4",
-        "published_date": "Mon, 16 Feb 2026 18:19:00 GMT",
-        "first_seen": "2026-02-16T23:32:13.671088"
-      },
-      "3fc6a132d2fb5a8663e2d224c85295f8298ede4ec5c860fbb34876dfedf37288": {
-        "title": "Seed 2.0刷新Arena榜单，国产模型排名最高",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-3",
-        "published_date": "Mon, 16 Feb 2026 18:13:00 GMT",
-        "first_seen": "2026-02-16T23:32:13.671090"
-      },
-      "7cb91496af33cf3d26794b997678ac039e879f975441c7ac09d7bff50ada78b1": {
-        "title": "鲁棒RL赋能AI编程！破局企业数据噪声难题，同等算力训出更好模型",
-        "link": "https://www.qbitai.com/2026/02/380742.html",
-        "published_date": "Mon, 16 Feb 2026 11:30:00 GMT",
-        "first_seen": "2026-02-16T23:32:13.671092"
-      },
-      "bdb559767c261f1590dce00cd54ab9a8b7f24f8bbda2e10e72cffc1e3454683d": {
-        "title": "春晚极限验证，魔法原子秀出中国智造新高度",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-16-6",
-        "published_date": "Mon, 16 Feb 2026 22:27:00 GMT",
-        "first_seen": "2026-02-16T23:32:13.671094"
-      },
       "2cb3dbb085b16a3e61ffccf5ad4222e7e938c7f12a9182447db3f038389fb82d": {
         "title": "春晚张杰《驭风歌》背后的马，是Seedance 2.0做的！",
         "link": "https://www.qbitai.com/2026/02/380771.html",
@@ -5987,13 +5957,25 @@
         "link": "https://www.qbitai.com/2026/03/388972.html",
         "published_date": "Wed, 18 Mar 2026 08:55:00 GMT",
         "first_seen": "2026-03-18T23:29:59.364120"
+      },
+      "b043051f0aee4c1415f8c35bc1bade2b6a9f27683c9eea2eaee4a51c3efd19e3": {
+        "title": "2026-03-19日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-19/",
+        "published_date": "Thu, 19 Mar 2026 09:37:00 GMT",
+        "first_seen": "2026-03-19T05:56:56.022368"
+      },
+      "03350dfdb85064bc03118d3bb04262863bc60f0c7fdc38b108b8a337af45c26b": {
+        "title": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
+        "link": "https://www.qbitai.com/2026/03/389038.html",
+        "published_date": "Thu, 19 Mar 2026 01:18:00 GMT",
+        "first_seen": "2026-03-19T05:56:56.022375"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-18T23:29:44.579678",
-    "Finance": "2026-03-18T23:29:59.220343",
-    "Ai": "2026-03-18T23:29:59.364122"
+    "Technology": "2026-03-19T05:56:42.532265",
+    "Finance": "2026-03-19T05:56:55.876719",
+    "Ai": "2026-03-19T05:56:56.022378"
   }
 }
