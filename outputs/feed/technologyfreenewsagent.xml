@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Mar 2026 08:36:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Mar 2026 08:37:17 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2026 23:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2026 23:27:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战</title>
-      <link>https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&amp;utm_medium=article</guid>
+      <title>为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营</title>
+      <link>https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为应对“AI垃圾”满天飞，arXiv脱离康奈尔大学单独运营]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Z791iXT2AhuA0Fiz0pcs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通</title>
-      <link>https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor自研新模型反超Opus 4.6，价格还“打一折”！网友实测：只有它写完应用能一次跑通]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 16:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sbMemGzadMeYDRuwZSWi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI推出“超级应用”，开抢Anthropic的企业客户</title>
+      <link>https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI推出“超级应用”，开抢Anthropic的企业客户]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/l7LKI978i4PjYLAhabiZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌BigQuery提供了分布式数据跨区域SQL查询的预览功能</title>
-      <link>https://www.infoq.cn/article/HW8wlQbkssMqgE5B00uQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌BigQuery提供了分布式数据跨区域SQL查询的预览功能]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HW8wlQbkssMqgE5B00uQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话丽天智能王士涛：光伏安装机器人，隐秘的千亿蓝海｜AI Founder 请回答</title>
+      <link>https://www.tmtpost.com/7923048.html</link>
+      <description>&lt;![CDATA[对话丽天智能王士涛：光伏安装机器人，隐秘的千亿蓝海｜AI Founder 请回答]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 20:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7923048.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话易点天下：Agent与过去有本质区别，安全风险不在于模型微调，而在于模型选择</title>
-      <link>https://www.tmtpost.com/7921199.html</link>
-      <description>&lt;![CDATA[对话易点天下：Agent与过去有本质区别，安全风险不在于模型微调，而在于模型选择]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7921199.html</guid>
+      <title>ASML股价因AI受挫而下跌，为什么这反而让它成了一个“非常有吸引力”的芯片投资标的</title>
+      <link>https://www.tmtpost.com/7923146.html</link>
+      <description>&lt;![CDATA[ASML股价因AI受挫而下跌，为什么这反而让它成了一个“非常有吸引力”的芯片投资标的]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 22:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7923146.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一手实测钉钉“悟空”：AI总算从聊天进化到干活！</title>
-      <link>https://www.tmtpost.com/7922228.html</link>
-      <description>&lt;![CDATA[一手实测钉钉“悟空”：AI总算从聊天进化到干活！]]&gt;</description>
-      <pubDate>Fri, 20 Mar 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7922228.html</guid>
+      <title>阿里惊魂：电商触顶，AI成“全村的希望”</title>
+      <link>https://www.tmtpost.com/7922891.html</link>
+      <description>&lt;![CDATA[阿里惊魂：电商触顶，AI成“全村的希望”]]&gt;</description>
+      <pubDate>Fri, 20 Mar 2026 19:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7922891.html</guid>
       <category>Technology</category>
     </item>
   </channel>
