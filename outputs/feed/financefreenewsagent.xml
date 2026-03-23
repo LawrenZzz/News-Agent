@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Mar 2026 08:51:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 08:51:29 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 23:29:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:30:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Flights disrupted after crash at NY’s LaGuardia airport kills two people</title>
-      <link>https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38</link>
-      <description>&lt;![CDATA[Flights disrupted after crash at NY’s LaGuardia airport kills two people]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38</guid>
+      <title>Apollo caps investor withdrawals from flagship private credit fund</title>
+      <link>https://www.ft.com/content/d315cb1c-1e1e-479c-a6d4-b3a817fead3e</link>
+      <description>&lt;![CDATA[Apollo caps investor withdrawals from flagship private credit fund]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 21:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d315cb1c-1e1e-479c-a6d4-b3a817fead3e</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Gilt rout deepens as traders bet on four BoE rate rises this year</title>
-      <link>https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e</link>
-      <description>&lt;![CDATA[Gilt rout deepens as traders bet on four BoE rate rises this year]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e</guid>
+      <title>Markets wrong on UK interest rate rises, say economists</title>
+      <link>https://www.ft.com/content/a34164e7-e110-4845-8907-16a5722ece12</link>
+      <description>&lt;![CDATA[Markets wrong on UK interest rate rises, say economists]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/a34164e7-e110-4845-8907-16a5722ece12</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>London ambulances set on fire in suspected antisemitic incident</title>
-      <link>https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4</link>
-      <description>&lt;![CDATA[London ambulances set on fire in suspected antisemitic incident]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 06:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4</guid>
+      <title>Trump plays up prospect of diplomatic end to Iran war</title>
+      <link>https://www.ft.com/content/3301675e-97c6-4904-a434-0be4aa3bf615</link>
+      <description>&lt;![CDATA[Trump plays up prospect of diplomatic end to Iran war]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 22:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3301675e-97c6-4904-a434-0be4aa3bf615</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Gilts: blame the hedge funds?</title>
-      <link>https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d</link>
-      <description>&lt;![CDATA[Gilts: blame the hedge funds?]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d</guid>
+      <title>Pakistan steps up as go-between in Trump’s Iran crisis</title>
+      <link>https://www.ft.com/content/dc7ba7ef-9e45-48ee-8ba6-88dfab66b2c1</link>
+      <description>&lt;![CDATA[Pakistan steps up as go-between in Trump’s Iran crisis]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/dc7ba7ef-9e45-48ee-8ba6-88dfab66b2c1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Can Trump do a deal with Iran?</title>
+      <link>https://www.ft.com/content/8c43c8f0-b6df-4807-a688-4643bc7a8746</link>
+      <description>&lt;![CDATA[Can Trump do a deal with Iran?]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8c43c8f0-b6df-4807-a688-4643bc7a8746</guid>
       <category>Finance</category>
     </item>
   </channel>
