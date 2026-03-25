@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5419f1f0d121fa98ab596ded6521ac8e461aef6962aecb8878ec4377bd3a800a": {
-        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
-        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208791"
-      },
-      "a462572de57160e3977e8a0c9d12bc93e5f999a413e80442bebe535f28c540ef": {
-        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
-        "link": "https://www.tmtpost.com/7887138.html",
-        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208799"
-      },
-      "2cef4fb083d1b6035f4abba2c2d8c92014c7a3bc014e05840179de0372e19eea": {
-        "title": "炒股2025总结：低频次出手，如何一年翻三倍？",
-        "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208801"
-      },
-      "8a0d2dca6c11b4d6a576dc6b9bebab5c79ab7783e4c80151f861ae981db024d4": {
-        "title": "一代人有一代人的《我爱我家》",
-        "link": "https://www.tmtpost.com/7887008.html",
-        "published_date": "Mon, 23 Feb 2026 11:04:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208802"
-      },
-      "885447399dc36a4b6fbf7456526365c22388d1b0e7288c84a461590ad7e78c6a": {
-        "title": "没有“哪吒”的春节档，退回八年前",
-        "link": "https://www.tmtpost.com/7886942.html",
-        "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.208804"
-      },
       "7790ea6348d70bfa1382a6d637a125be57aedec926ec4888bd9c1c6154c7a891": {
         "title": "“邪修”AI芯片的Taalas，成色如何？｜AGI焦点",
         "link": "https://www.tmtpost.com/7887595.html",
@@ -2731,15 +2701,39 @@
         "link": "https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 25 Mar 2026 15:53:00 GMT",
         "first_seen": "2026-03-25T08:46:36.578110"
+      },
+      "4db19357ae1bf6d11d837ac2f8c8afc1cf4430190406fe9902011256928b2896": {
+        "title": "2026中国企业AI应用场景报告",
+        "link": "https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 25 Mar 2026 14:32:00 GMT",
+        "first_seen": "2026-03-25T23:32:36.480979"
+      },
+      "b4d5c5e22519fcb7cb4d1351635e3cfc231a75a8677eda402e82fd9b28c6ac04": {
+        "title": "中国通用大模型十强争霸：谁配得上“第一”这个称号？",
+        "link": "https://www.tmtpost.com/7928697.html",
+        "published_date": "Wed, 25 Mar 2026 19:19:00 GMT",
+        "first_seen": "2026-03-25T23:32:36.480987"
+      },
+      "31aa7d5848ecd1e3ac65afa516c3c608062c59c13ec42bc02d7514a6e32801cc": {
+        "title": "整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」",
+        "link": "https://sspai.com/post/107800",
+        "published_date": "Wed, 25 Mar 2026 17:42:00 GMT",
+        "first_seen": "2026-03-25T23:32:36.480990"
+      },
+      "694abcddf2b50f7ae244e87a63256a3817e0059f892f14e0cb3e30df87c84fc9": {
+        "title": "Meta收购AI社交平台Moltbook，扎克伯格要做什么？",
+        "link": "https://www.tmtpost.com/7928106.html",
+        "published_date": "Wed, 25 Mar 2026 11:22:00 GMT",
+        "first_seen": "2026-03-25T23:32:36.480992"
+      },
+      "e1cc6a8f64bfb9211322f712da340c7e43fb035dcd7448dba4a8bde28353eb85": {
+        "title": "Practical Playbooks for Putting AI into Action at IBM and Schneider Electric in China",
+        "link": "https://www.tmtpost.com/7929217.html",
+        "published_date": "Wed, 25 Mar 2026 21:19:00 GMT",
+        "first_seen": "2026-03-25T23:32:36.480993"
       }
     },
     "Finance": {
-      "78e058a223343ebfbd0ee3d3377f10c5e5fb4e6e0865cb77f2a4ed3257fe4de5": {
-        "title": "Gold jumps and dollar slides as global trade faces new Trump tariff threat",
-        "link": "https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769",
-        "published_date": "Mon, 23 Feb 2026 08:07:00 GMT",
-        "first_seen": "2026-02-23T08:53:32.016640"
-      },
       "9f6288dd0e51875aa3cc8c8860d2def5b5572352c708a27825a0f90a5b21883f": {
         "title": "Jobs and CPI reports are not being politically manipulated, government’s statistics chief says",
         "link": "https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories",
@@ -4695,6 +4689,36 @@
         "link": "https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8",
         "published_date": "Wed, 25 Mar 2026 06:30:00 GMT",
         "first_seen": "2026-03-25T08:46:36.614782"
+      },
+      "fb22c394d9c1ac4b114a5f2bac14c54fb206bacf8dc65dfa6bf185452305bbbc": {
+        "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
+        "link": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1",
+        "published_date": "Wed, 25 Mar 2026 22:17:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.488980"
+      },
+      "132579e4ad2524dddf53bd7ea4461c583f7e9410ee1b948610d29da67581ca08": {
+        "title": "Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it",
+        "link": "https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:26:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.488987"
+      },
+      "d93de22a654be5030e078599b226e614d6761c9934500b0e34d171ce577665ef": {
+        "title": "Meta and Google liable for harm to children’s mental health in landmark US case",
+        "link": "https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a",
+        "published_date": "Wed, 25 Mar 2026 22:05:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.488989"
+      },
+      "380c4eb2153a27190b1dfeea35c8b528fd6ac3078e379d3046f0d1a0584d97c7": {
+        "title": "Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting",
+        "link": "https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:48:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.488991"
+      },
+      "2924e6b529e5ed99c07d35efa0b3e9b8d95e3725e05a2c24002ccbd472023839": {
+        "title": "Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix",
+        "link": "https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories",
+        "published_date": "Wed, 25 Mar 2026 21:00:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.488992"
       }
     },
     "Ai": {
@@ -5981,13 +6005,31 @@
         "link": "https://www.qbitai.com/2026/03/391890.html",
         "published_date": "Wed, 25 Mar 2026 06:20:00 GMT",
         "first_seen": "2026-03-25T08:46:36.770832"
+      },
+      "5e2089a4d3261bc0d2ed97f9a42bef0742cb4a5ccce437132cc27230607b9eb8": {
+        "title": "第一批“首席龙虾官”，月薪6万",
+        "link": "https://www.qbitai.com/2026/03/392128.html",
+        "published_date": "Wed, 25 Mar 2026 11:53:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.635510"
+      },
+      "78b5487087bfcde7fb5fa673d647be03db692cb03715fbd07ed3624d537c5ddc": {
+        "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
+        "link": "https://www.qbitai.com/2026/03/392121.html",
+        "published_date": "Wed, 25 Mar 2026 11:31:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.635518"
+      },
+      "1d3c225902250bf322ec59ef2ff106c37e054006737f61d2ef1c1a761a509790": {
+        "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
+        "link": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
+        "published_date": "Wed, 25 Mar 2026 09:14:00 GMT",
+        "first_seen": "2026-03-25T23:32:56.635520"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-25T08:46:36.578112",
-    "Finance": "2026-03-25T08:46:36.614785",
-    "Ai": "2026-03-25T08:46:36.770834"
+    "Technology": "2026-03-25T23:32:36.480996",
+    "Finance": "2026-03-25T23:32:56.488996",
+    "Ai": "2026-03-25T23:32:56.635522"
   }
 }

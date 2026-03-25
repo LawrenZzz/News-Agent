@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Mar 2026 08:46:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 08:46:36 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:32:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单</title>
-      <link>https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[35 年只卖设计，今天亲自下场造芯！Arm 首款自研芯片发布，Meta 抢下首单]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SKhCim03Cgu5QvflVoba?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026中国企业AI应用场景报告</title>
+      <link>https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026中国企业AI应用场景报告]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/minibook/4c1lsTMm8kO4XAJuYpfz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法</title>
-      <link>https://www.tmtpost.com/7927102.html</link>
-      <description>&lt;![CDATA[AI进入产业融合深水区：IBM和施耐德电气的AI落地实战心法]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 14:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7927102.html</guid>
+      <title>中国通用大模型十强争霸：谁配得上“第一”这个称号？</title>
+      <link>https://www.tmtpost.com/7928697.html</link>
+      <description>&lt;![CDATA[中国通用大模型十强争霸：谁配得上“第一”这个称号？]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 19:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7928697.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f</link>
-      <description>&lt;![CDATA[一条命令让 AI Agent 接管任何软件，港大开源了 CLI-Anything。]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532500&amp;idx=1&amp;sn=c7cd8fb8b1c8e26111ba72c54bdf214f</guid>
+      <title>整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」</title>
+      <link>https://sspai.com/post/107800</link>
+      <description>&lt;![CDATA[整合管理与协作能力，Apple 推出企业服务平台「Apple 商务」]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/107800</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系｜QCon北京</title>
-      <link>https://www.infoq.cn/article/7aAHoPVD5XlR7oVxO4el?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系｜QCon北京]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7aAHoPVD5XlR7oVxO4el?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta收购AI社交平台Moltbook，扎克伯格要做什么？</title>
+      <link>https://www.tmtpost.com/7928106.html</link>
+      <description>&lt;![CDATA[Meta收购AI社交平台Moltbook，扎克伯格要做什么？]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7928106.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Sora关停背后：为啥它没跑成“视频版ChatGPT”？</title>
-      <link>https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Sora关停背后：为啥它没跑成“视频版ChatGPT”？]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/55ia8EuUuAxA6MlqVD5D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Practical Playbooks for Putting AI into Action at IBM and Schneider Electric in China</title>
+      <link>https://www.tmtpost.com/7929217.html</link>
+      <description>&lt;![CDATA[Practical Playbooks for Putting AI into Action at IBM and Schneider Electric in China]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 21:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7929217.html</guid>
       <category>Technology</category>
     </item>
   </channel>

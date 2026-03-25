@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Mar 2026 08:46:00 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2026 08:46:36 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 23:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:32:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>UK inflation held steady at 3% in February before energy shock</title>
-      <link>https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b</link>
-      <description>&lt;![CDATA[UK inflation held steady at 3% in February before energy shock]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 07:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/88372f6d-4a02-4c13-8814-0a0384b8c06b</guid>
+      <title>SpaceX boosts IPO ambition with plans to raise $75bn</title>
+      <link>https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1</link>
+      <description>&lt;![CDATA[SpaceX boosts IPO ambition with plans to raise $75bn]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>What’s moving long-term interest rates?</title>
-      <link>https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8</link>
-      <description>&lt;![CDATA[What’s moving long-term interest rates?]]&gt;</description>
-      <pubDate>Wed, 25 Mar 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f213194f-9764-4367-89c3-e157b51e41a8</guid>
+      <title>Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it</title>
+      <link>https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Six years away from Social Security’s insolvency and lawmakers still can’t agree on how to fix it]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 21:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/six-years-away-from-social-securitys-insolvency-and-lawmakers-still-cant-agree-on-how-to-fix-it-4bf1ac97?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Meta and Google liable for harm to children’s mental health in landmark US case</title>
+      <link>https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a</link>
+      <description>&lt;![CDATA[Meta and Google liable for harm to children’s mental health in landmark US case]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 22:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting</title>
+      <link>https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Arm’s stock shoots to best day in a year as an Nvidia-like chapter may be starting]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 21:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/arms-stock-shoots-toward-best-day-in-a-year-as-an-nvidia-like-chapter-may-be-starting-03f0ff60?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix</title>
+      <link>https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix]]&gt;</description>
+      <pubDate>Wed, 25 Mar 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
