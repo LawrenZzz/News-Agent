@@ -2701,6 +2701,36 @@
         "link": "https://www.infoq.cn/article/PqlJ5b0GKCC9771Eby8G?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-26T06:12:11.618305"
+      },
+      "69fb65b22ec0f46d7d9ee70c601afdd9f301b3e8675a3cfd5437525c40939fcc": {
+        "title": "OpenAI关停Sora，AI开始“算账”",
+        "link": "https://www.tmtpost.com/7929286.html",
+        "published_date": "Thu, 26 Mar 2026 09:12:00 GMT",
+        "first_seen": "2026-03-26T08:49:40.335132"
+      },
+      "7e076f71f1a81a6f22d379a47686f4f19e98c1a3426080afc242725cf962eb2a": {
+        "title": "缩减6倍AI内存、闪迪美光下挫：拆解谷歌TurboQuant背后的软硬件博弈",
+        "link": "https://www.tmtpost.com/7929978.html",
+        "published_date": "Thu, 26 Mar 2026 16:06:00 GMT",
+        "first_seen": "2026-03-26T08:49:40.335143"
+      },
+      "b11cff0cf639aefbf5ab6471d06de19907596c550380a8ab1148a1fb7df2c2b9": {
+        "title": "让推理引擎可被“看见”：大模型推理端到端 Token 级可观测工程实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/UsmUkC9hH5FDdmkofO1b?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
+        "first_seen": "2026-03-26T08:49:40.335145"
+      },
+      "a44fb9d097863bc19e7eae3470a711b395731c508ce51fc0db632ecd5041c3ab": {
+        "title": "AI读研记：哈佛教授用两周把Claude培养成物理“研二学生”，但它总想“抄近道”",
+        "link": "https://www.tmtpost.com/7928810.html",
+        "published_date": "Thu, 26 Mar 2026 10:38:00 GMT",
+        "first_seen": "2026-03-26T08:49:40.335147"
+      },
+      "b747dc0fdc30c1471bf1f6043a19e7bdcb310c33823631b44e3d053e6327d9a2": {
+        "title": "华为AI软件工程实践：30年专业经验沉淀打造企业级确定性的高质量软件",
+        "link": "https://www.infoq.cn/article/IPk1UBNeqdj88ZlEWFsk?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 26 Mar 2026 15:50:00 GMT",
+        "first_seen": "2026-03-26T08:49:40.335149"
       }
     },
     "Finance": {
@@ -5921,13 +5951,19 @@
         "link": "https://www.qbitai.com/2026/03/392137.html",
         "published_date": "Thu, 26 Mar 2026 02:53:00 GMT",
         "first_seen": "2026-03-26T06:12:24.968154"
+      },
+      "4e515094ab90de6f074a1e289282333eddb916ea4a2e61468b5fb95f7f7b0413": {
+        "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
+        "link": "https://www.qbitai.com/2026/03/392281.html",
+        "published_date": "Thu, 26 Mar 2026 07:48:00 GMT",
+        "first_seen": "2026-03-26T08:49:40.520744"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-26T06:12:11.618307",
+    "Technology": "2026-03-26T08:49:40.335151",
     "Finance": "2026-03-26T06:12:24.819743",
-    "Ai": "2026-03-26T06:12:24.968155"
+    "Ai": "2026-03-26T08:49:40.520752"
   }
 }
