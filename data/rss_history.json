@@ -2701,6 +2701,36 @@
         "link": "https://www.infoq.cn/article/bdHrWhvKqigAAd3ldh53?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 27 Mar 2026 13:36:00 GMT",
         "first_seen": "2026-03-27T06:13:10.229329"
+      },
+      "76fbe2ff64bed51cd5ae840d180d0be860436f6ce4b4c244175f069a82ab7a4d": {
+        "title": "堆推理链全错了！林俊旸离职首曝：曾在阿里 Qwen 踩中一个“致命”技术误区",
+        "link": "https://www.infoq.cn/article/NeJgB71rOXr8XvCYUTML?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 14:14:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.247651"
+      },
+      "b6b9a148c5350391642d4c71f9d0d270b21376b98922b46e91bcf344e728eb6b": {
+        "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
+        "link": "https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 16:37:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.247658"
+      },
+      "7ded0d2648a426505db853c0c620b57d377d5d89ea8b012f05e635409a2f967c": {
+        "title": "当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考",
+        "link": "https://www.infoq.cn/article/9OKvpT7uHXxYJBkKYyrf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 16:14:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.247661"
+      },
+      "f1970d08daa2cbeb50814924657c95180093d3f790417008c996c060eafaa4f9": {
+        "title": "AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌",
+        "link": "https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 16:20:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.247663"
+      },
+      "c8bf06b2cb16572b043e9ec2996d38614e0e9f9d5cbb2dcd3363d04909a514ec": {
+        "title": "拒绝向量打补丁：TiDB CTO 黄东旭如何给龙虾装上“私有大脑”？",
+        "link": "https://www.infoq.cn/article/7u80RIHFM2hMO5rFrBFA?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 27 Mar 2026 15:39:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.247665"
       }
     },
     "Finance": {
@@ -4653,6 +4683,18 @@
         "link": "https://www.ft.com/content/27a2614a-fc21-41ab-af43-3e1bbeb1c81e",
         "published_date": "Fri, 27 Mar 2026 05:00:00 GMT",
         "first_seen": "2026-03-27T06:13:25.423748"
+      },
+      "45319204cde1f400822de0706f805ba9c7eaedd6cb83cfc4c9a9998e4185296d": {
+        "title": "Brown-Forman’s stock soared on deal talks. Its valuation had tumbled to financial-crisis levels.",
+        "link": "https://www.marketwatch.com/story/brown-formans-stock-is-soaring-has-it-finally-gotten-cheap-enough-to-attract-a-suitor-8c6fa847?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Mar 2026 08:09:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.282461"
+      },
+      "39c6d20f16e715da86add45295db914600aa3273dbcf72a800cca3bc55bc1eaf": {
+        "title": "U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE",
+        "link": "https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories",
+        "published_date": "Fri, 27 Mar 2026 07:35:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.282466"
       }
     },
     "Ai": {
@@ -5867,13 +5909,31 @@
         "link": "https://www.qbitai.com/2026/03/392697.html",
         "published_date": "Fri, 27 Mar 2026 03:46:00 GMT",
         "first_seen": "2026-03-27T06:13:36.824737"
+      },
+      "2e154b770e752ea26dd7583595a9427ad2f3af8a5608f41418a473361da829fc": {
+        "title": "企业软件底层逻辑脱胎换骨：从席位订阅到决策订阅，下一个万亿公司属于这类玩家",
+        "link": "https://www.qbitai.com/2026/03/392779.html",
+        "published_date": "Fri, 27 Mar 2026 07:23:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.426232"
+      },
+      "c1154ec04097cbce037a567076e92a2f5efd6db87e22cbf4350dfbf88234b3a0": {
+        "title": "林俊旸离职后首次发声！复盘千问的弯路，指出AI的新路",
+        "link": "https://www.qbitai.com/2026/03/392770.html",
+        "published_date": "Fri, 27 Mar 2026 06:19:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.426240"
+      },
+      "96b8e64857f1c256e01695ac304202251d8851a421c8ff3eb31f921699f83c3f": {
+        "title": "2026-03-27日刊",
+        "link": "https://ai.hubtoday.app//2026-03/2026-03-27/",
+        "published_date": "Fri, 27 Mar 2026 10:39:00 GMT",
+        "first_seen": "2026-03-27T08:46:35.426242"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-27T06:13:10.229331",
-    "Finance": "2026-03-27T06:13:25.423751",
-    "Ai": "2026-03-27T06:13:36.824739"
+    "Technology": "2026-03-27T08:46:35.247668",
+    "Finance": "2026-03-27T08:46:35.282469",
+    "Ai": "2026-03-27T08:46:35.426244"
   }
 }
