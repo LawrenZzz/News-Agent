@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 28 Mar 2026 23:29:00 GMT</pubDate>
-    <lastBuildDate>Sat, 28 Mar 2026 23:30:15 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Mar 2026 06:12:00 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Mar 2026 06:13:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>哈萨比斯为何能率领谷歌DeepMind反超OpenAI？</title>
-      <link>https://www.tmtpost.com/7933116.html</link>
-      <description>&lt;![CDATA[哈萨比斯为何能率领谷歌DeepMind反超OpenAI？]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 20:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933116.html</guid>
+      <title>面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋为什么停不下来？</title>
-      <link>https://www.tmtpost.com/7932377.html</link>
-      <description>&lt;![CDATA[黄仁勋为什么停不下来？]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7932377.html</guid>
+      <title>AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突</title>
+      <link>https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AWS S3 推出账户级区域命名空间，结束存在长达 18 年之久的全局存储桶名称冲突]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/pcPNtvFz4qWfdDdMwEpe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；</title>
-      <link>https://www.tmtpost.com/7933091.html</link>
-      <description>&lt;![CDATA[【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933091.html</guid>
+      <title>飞书、钉钉开源CLI，Agent开放路径走向分岔</title>
+      <link>https://www.tmtpost.com/7933400.html</link>
+      <description>&lt;![CDATA[飞书、钉钉开源CLI，Agent开放路径走向分岔]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933400.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当规模不再是护城河，中国车企还要拼什么？｜钛度车库</title>
-      <link>https://www.tmtpost.com/7933009.html</link>
-      <description>&lt;![CDATA[当规模不再是护城河，中国车企还要拼什么？｜钛度车库]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 14:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7933009.html</guid>
+      <title>140万亿Token之后：中国AI亟待从规模领先到价值跃迁</title>
+      <link>https://www.tmtpost.com/7933402.html</link>
+      <description>&lt;![CDATA[140万亿Token之后：中国AI亟待从规模领先到价值跃迁]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7933402.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Uber 推出流式优先数据湖 IngestionNext ，将延迟和计算量降低 25%</title>
-      <link>https://www.infoq.cn/article/cVKUGhBJrUTyumX4iHf8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Uber 推出流式优先数据湖 IngestionNext ，将延迟和计算量降低 25%]]&gt;</description>
-      <pubDate>Sat, 28 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cVKUGhBJrUTyumX4iHf8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Rust 的独特之处不只内存安全：来自自主机器人的启示</title>
+      <link>https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Rust 的独特之处不只内存安全：来自自主机器人的启示]]&gt;</description>
+      <pubDate>Sun, 29 Mar 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
