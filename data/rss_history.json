@@ -2701,6 +2701,36 @@
         "link": "https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 29 Mar 2026 11:00:00 GMT",
         "first_seen": "2026-03-29T06:13:17.174206"
+      },
+      "9b4cda0a15fc1560038296c10a5834f85c390e05898f96f9c230fb4131c5d011": {
+        "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+        "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-29T08:38:51.889872"
+      },
+      "2a540ad9d5c2914d5c0dfbe52f22a72188abc70133e13ba976c3ca53a2f2a54b": {
+        "title": "手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局",
+        "link": "https://www.tmtpost.com/7933060.html",
+        "published_date": "Sun, 29 Mar 2026 09:47:00 GMT",
+        "first_seen": "2026-03-29T08:38:51.889889"
+      },
+      "0d2bc8ac7e0ec2d776b693f214f1b6cfe3d76f2927720f7810b25218057c42e9": {
+        "title": "月之暗面冲刺IPO：大模型竞争进入“定价阶段”",
+        "link": "https://www.tmtpost.com/7933267.html",
+        "published_date": "Sun, 29 Mar 2026 08:48:00 GMT",
+        "first_seen": "2026-03-29T08:38:51.889892"
+      },
+      "9727dddb0ca1b6cc2c1733bb304d4c65ad8c48f92dbd66cc0f29e5a8c0bdc97f": {
+        "title": "腾讯的AI慢战略，能跑通吗？",
+        "link": "https://www.tmtpost.com/7933507.html",
+        "published_date": "Sun, 29 Mar 2026 10:50:00 GMT",
+        "first_seen": "2026-03-29T08:38:51.889895"
+      },
+      "35e5854c813e5c9a6da82cdec1b9a2095c6f72e952e7b3e12120ee6a2f85fb1d": {
+        "title": "推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532554&idx=1&sn=f2df86423107972a43379890bb5e94ff",
+        "published_date": "Sun, 29 Mar 2026 11:06:00 GMT",
+        "first_seen": "2026-03-29T08:38:51.889897"
       }
     },
     "Finance": {
@@ -5860,7 +5890,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-29T06:13:17.174208",
+    "Technology": "2026-03-29T08:38:51.889900",
     "Finance": "2026-03-29T06:13:27.880635",
     "Ai": "2026-03-29T06:13:28.033975"
   }
