@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bb7be0d7065106607a7e1f086f6a1240386e8768f46495db7829aa603bb8744b": {
-        "title": "吴恩达复盘百度岁月：我带过的自动驾驶、智能音箱都成了！Altman我也带过，但 Gemini 3 比 ChatGPT 强",
-        "link": "https://www.infoq.cn/article/rMpEkDCLZ4cfIWaERi1B?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 03 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099944"
-      },
-      "f9902223bb09c751a730fb4358cbc37e6b90a7663e11e5c77a8c4382e31b907d": {
-        "title": "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
-        "link": "https://www.tmtpost.com/7897592.html",
-        "published_date": "Tue, 03 Mar 2026 15:03:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099955"
-      },
-      "dfd23f095ae9c16d8ea4f1143a77c9d925c8bd510c40303ddaff06b83320991f": {
-        "title": "OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531831&idx=1&sn=a6e1e5211f8455fe1d91e1361abf4c9c",
-        "published_date": "Tue, 03 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099958"
-      },
-      "15353cff073f5aed2738f633cce1241001979cb7fce1f7e4ac6bee9211a3ad0c": {
-        "title": "拥抱美国军方后，ChatGPT 为什么会被卸载？",
-        "link": "https://www.tmtpost.com/7897007.html",
-        "published_date": "Tue, 03 Mar 2026 11:15:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099960"
-      },
-      "01f7be736819db687e8c62a6db1d29a29fd0d2801823491de6fa59b52ce48682": {
-        "title": "人形机器人卖不动，只能靠租？",
-        "link": "https://www.tmtpost.com/7896333.html",
-        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.099962"
-      },
       "9eb1b286979f8380e770c1bec6cbcdcc950e8881078c5200a1c2b7ed5d713281": {
         "title": "【钛晨报】“三桶油”领衔，A股多家油气公司紧急提示风险；交易所出手，对原油等期货连发风控措施；A股半导体公司集体发涨价函，最高涨80%",
         "link": "https://www.tmtpost.com/7898664.html",
@@ -2701,6 +2671,36 @@
         "link": "https://www.tmtpost.com/7938838.html",
         "published_date": "Thu, 02 Apr 2026 12:19:00 GMT",
         "first_seen": "2026-04-02T06:11:59.775429"
+      },
+      "c25ccba9acdc08792ca94a5478a0107213e5455af7ea5a843bd1feee195c0e9e": {
+        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
+        "link": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
+        "first_seen": "2026-04-02T08:54:00.079285"
+      },
+      "16a160b2026be7ce6dd0d0cc082311ea9daab314c8f1bb81e213085094dc227f": {
+        "title": "智谱首份财报背后，新故事难讲",
+        "link": "https://www.tmtpost.com/7939356.html",
+        "published_date": "Thu, 02 Apr 2026 14:55:00 GMT",
+        "first_seen": "2026-04-02T08:54:00.079300"
+      },
+      "8334cb14ab1f7753e6bd9b25fcfcc15c972448ad5ef75327ae4a6092e5a35af2": {
+        "title": "错上加错，Anthropic一刀切掉8100仓库",
+        "link": "https://www.tmtpost.com/7939368.html",
+        "published_date": "Thu, 02 Apr 2026 14:46:00 GMT",
+        "first_seen": "2026-04-02T08:54:00.079303"
+      },
+      "6ba41144e0a4f7b3247a7780a5f287765dc107a8aa05190dda5e80f3661ef9cc": {
+        "title": "Robotaxi，离盈利又近了一步",
+        "link": "https://www.tmtpost.com/7939406.html",
+        "published_date": "Thu, 02 Apr 2026 14:47:00 GMT",
+        "first_seen": "2026-04-02T08:54:00.079306"
+      },
+      "abb5b164f4d461bfdeca4e8aad9e794b958a1bdb6c0cd95ee05e73e070009cdb": {
+        "title": "淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京",
+        "link": "https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 02 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-02T08:54:00.079307"
       }
     },
     "Finance": {
@@ -4698,18 +4698,6 @@
       }
     },
     "Ai": {
-      "a39878728fc8922d8a68c33641d9220390bb28604ad5d1b307e97baabf82b626": {
-        "title": "钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群",
-        "link": "https://www.qbitai.com/2026/03/383349.html",
-        "published_date": "Tue, 03 Mar 2026 06:42:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.284882"
-      },
-      "eed41176c0d916a22425e8eae268f0b3b6fae21bfd43da1fa7419c3404050c57": {
-        "title": "英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹",
-        "link": "https://www.qbitai.com/2026/03/383329.html",
-        "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
-        "first_seen": "2026-03-03T08:43:48.284890"
-      },
       "27358350690e60a154412b940ad8c877ff83e633bac1f45e078c150f2aeea411": {
         "title": "GPT-5.4意外泄露！OpenAI最新模型瞄准这2大能力突围",
         "link": "https://www.qbitai.com/2026/03/383592.html",
@@ -6035,13 +6023,43 @@
         "link": "https://www.qbitai.com/2026/04/394570.html",
         "published_date": "Thu, 02 Apr 2026 02:07:00 GMT",
         "first_seen": "2026-04-02T06:12:16.073999"
+      },
+      "1e66060e9f5fb373e95c11ec94e73ccd1df2b4b440131144eee1588e90c76e28": {
+        "title": "中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
+        "link": "https://www.qbitai.com/2026/04/394704.html",
+        "published_date": "Thu, 02 Apr 2026 07:08:00 GMT",
+        "first_seen": "2026-04-02T08:54:11.858606"
+      },
+      "8d4cfa384c101fc5c660b706cc899d5fc3a8234fbd3c7bac2e8870351ccb3d83": {
+        "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
+        "link": "https://www.qbitai.com/2026/04/394641.html",
+        "published_date": "Thu, 02 Apr 2026 06:28:00 GMT",
+        "first_seen": "2026-04-02T08:54:11.858616"
+      },
+      "a5d09db05a93116be68128e3855f5d88e38f3f61da876707d447dafbaff5e6c3": {
+        "title": "全尺寸具身人形销量全球第一之后，优必选再迎资本投票：花旗上调目标价至190港元",
+        "link": "https://www.qbitai.com/2026/04/395151.html",
+        "published_date": "Thu, 02 Apr 2026 08:23:00 GMT",
+        "first_seen": "2026-04-02T08:54:11.858618"
+      },
+      "7d3ca45bebc43e297c13f46c0caf4aabafbe4363a1e615d432b4461fb5fe03e8": {
+        "title": "再融20亿！星海图把具身智能头部门槛抬到了200亿",
+        "link": "https://www.qbitai.com/2026/04/394626.html",
+        "published_date": "Thu, 02 Apr 2026 06:15:00 GMT",
+        "first_seen": "2026-04-02T08:54:11.858620"
+      },
+      "0a488c664bfc30f38b964a080dcf1a20de5821918927c4f92cdf60a73ceba2c9": {
+        "title": "开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码",
+        "link": "https://www.qbitai.com/2026/04/395091.html",
+        "published_date": "Thu, 02 Apr 2026 07:22:00 GMT",
+        "first_seen": "2026-04-02T08:54:11.858622"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-02T06:11:59.775431",
+    "Technology": "2026-04-02T08:54:00.079310",
     "Finance": "2026-04-02T06:12:15.936816",
-    "Ai": "2026-04-02T06:12:16.074001"
+    "Ai": "2026-04-02T08:54:11.858624"
   }
 }
