@@ -2701,6 +2701,36 @@
         "link": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
         "first_seen": "2026-04-03T08:49:44.705882"
+      },
+      "d1a4202523a101a674c3877bca66f8e8f2f4cdbb9c5fc6a640b43be50006cd28": {
+        "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Apr 2026 18:00:00 GMT",
+        "first_seen": "2026-04-03T23:31:50.668128"
+      },
+      "6780d0b7059dbcbd16d93053b28371c5c8b2a7527a0f8044a359bcfb91dfb623": {
+        "title": "AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？",
+        "link": "https://www.tmtpost.com/7940661.html",
+        "published_date": "Fri, 03 Apr 2026 18:29:00 GMT",
+        "first_seen": "2026-04-03T23:31:50.668137"
+      },
+      "1613790d67c963c108df973a64e2e2179d1ff8c394dd708fb37b50c268958341": {
+        "title": "奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活",
+        "link": "https://www.tmtpost.com/7939738.html",
+        "published_date": "Fri, 03 Apr 2026 16:50:00 GMT",
+        "first_seen": "2026-04-03T23:31:50.668140"
+      },
+      "580106af48ceb95fcb9317e9774bd004ad1d5caebe8594e8081873d144d6ea53": {
+        "title": "AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报",
+        "link": "https://www.tmtpost.com/7940019.html",
+        "published_date": "Fri, 03 Apr 2026 10:19:00 GMT",
+        "first_seen": "2026-04-03T23:31:50.668142"
+      },
+      "ea4763e30621902da52da975dbc6a48b7b65ea557e23e5b18a6709c85383c3d0": {
+        "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
+        "link": "https://www.tmtpost.com/7940798.html",
+        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
+        "first_seen": "2026-04-03T23:31:50.668144"
       }
     },
     "Finance": {
@@ -4695,6 +4725,36 @@
         "link": "https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd",
         "published_date": "Fri, 03 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-03T06:12:38.532798"
+      },
+      "ba1aba2eb1fcc5bfbf678e3dd98c5ff246ace6c0e6cfc2d48bec96d9c5b3982e": {
+        "title": "US judge upholds block of subpoenas in criminal investigation of Jay Powell",
+        "link": "https://www.ft.com/content/4741ed38-61c0-4f49-89f3-def3c3e18ced",
+        "published_date": "Fri, 03 Apr 2026 18:40:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.292430"
+      },
+      "b96688e46bfc3aa3546f0dcbb0e1be5951c3fd7433374ee1022d8d32c57ee1fd": {
+        "title": "US economy beats expectations to add 178,000 jobs in March",
+        "link": "https://www.ft.com/content/82c1795b-704a-4da3-82ec-2f9cd52de01e",
+        "published_date": "Fri, 03 Apr 2026 13:36:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.292436"
+      },
+      "13b0bcf86dc992b6e5baf4c565e04bf8b8f0561222cf2506bc112ef5d8fef645": {
+        "title": "Meta-backed data centre seeks $3bn for campus with novel financing",
+        "link": "https://www.ft.com/content/390545d7-148d-4e88-a56a-ade079a9ed5e",
+        "published_date": "Fri, 03 Apr 2026 21:14:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.292438"
+      },
+      "898bbe07c6458678a5a0b9785f7c34f9554a2e1457fff7a8b9c630f14b07f50c": {
+        "title": "Jobs data, Iran war add to inflation fears for retirees",
+        "link": "https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories",
+        "published_date": "Fri, 03 Apr 2026 18:54:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.292440"
+      },
+      "06b88253d9a8513d781a45f9c162d6ce8fa11dab1c02456e0f90e953a24dc049": {
+        "title": "Investors are betting on AI chaos. History suggests otherwise",
+        "link": "https://www.ft.com/content/76ea6878-d11c-4118-ad98-3b361fcdbb01",
+        "published_date": "Fri, 03 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.292442"
       }
     },
     "Ai": {
@@ -6059,13 +6119,43 @@
         "link": "https://www.qbitai.com/2026/04/395216.html",
         "published_date": "Fri, 03 Apr 2026 06:24:00 GMT",
         "first_seen": "2026-04-03T08:49:44.893851"
+      },
+      "74f39b7dbc97d4b8e9d1fa6c5a9b3407f1dbed20090a86a784964f13aa460fa5": {
+        "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
+        "link": "https://www.qbitai.com/2026/04/395916.html",
+        "published_date": "Fri, 03 Apr 2026 12:57:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.440633"
+      },
+      "d1471cd555eed1f123fd43626705a8e96c594ea96bd112aa042dbbff6a987eeb": {
+        "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+        "link": "https://www.qbitai.com/2026/04/395477.html",
+        "published_date": "Fri, 03 Apr 2026 12:54:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.440641"
+      },
+      "678d6a5e86b2a35dd8fed443e4efd1b41eedd6fb89bcaab06b5d4392fe789fda": {
+        "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕",
+        "link": "https://www.qbitai.com/2026/04/395447.html",
+        "published_date": "Fri, 03 Apr 2026 10:24:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.440644"
+      },
+      "716cfc06e557c434ac451c4e7d645e94d188dee94df5793c6c2c55ce61f2db5a": {
+        "title": "OpenAI收购了一家脱口秀公司",
+        "link": "https://www.qbitai.com/2026/04/395316.html",
+        "published_date": "Fri, 03 Apr 2026 09:25:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.440645"
+      },
+      "01f0d96c61980e8a66e32f650ee35f00cffdb06a924a857f66e1336e5f340f03": {
+        "title": "企业玩不转龙虾，是人的思维出错了",
+        "link": "https://www.qbitai.com/2026/04/395307.html",
+        "published_date": "Fri, 03 Apr 2026 08:54:00 GMT",
+        "first_seen": "2026-04-03T23:32:05.440647"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-03T08:49:44.705884",
-    "Finance": "2026-04-03T06:12:38.532807",
-    "Ai": "2026-04-03T08:49:44.893855"
+    "Technology": "2026-04-03T23:31:50.668147",
+    "Finance": "2026-04-03T23:32:05.292445",
+    "Ai": "2026-04-03T23:32:05.440649"
   }
 }
