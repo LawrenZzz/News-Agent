@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Apr 2026 23:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2026 23:31:50 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2026 05:56:00 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2026 05:57:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型</title>
-      <link>https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京</title>
+      <link>https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？</title>
-      <link>https://www.tmtpost.com/7940661.html</link>
-      <description>&lt;![CDATA[AI的「第一杯咖啡」：当具身智能走进工厂，人机协作的边界在哪里？]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 18:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940661.html</guid>
+      <title>Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具</title>
+      <link>https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes自动扩展功能需要新的可观测性关注点，而不局限于供应商工具]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/BfJYpQWfUjc9jIHk1iiJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活</title>
-      <link>https://www.tmtpost.com/7939738.html</link>
-      <description>&lt;![CDATA[奥特曼预言与现实相差几何？12个顶级模型“创业”一年，仅3个存活]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 16:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7939738.html</guid>
+      <title>57k Star霸榜GitHub！字节这款超级智能体，凭何让全球AI圈真香？</title>
+      <link>https://www.tmtpost.com/7939926.html</link>
+      <description>&lt;![CDATA[57k Star霸榜GitHub！字节这款超级智能体，凭何让全球AI圈真香？]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7939926.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报</title>
-      <link>https://www.tmtpost.com/7940019.html</link>
-      <description>&lt;![CDATA[AI开始给美的印钞了！2025年“省”出7个亿，还要砸600亿搞科研丨看财报]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940019.html</guid>
+      <title>聊聊MiniMax和智谱财报：谁先跑通盈利模型？</title>
+      <link>https://www.tmtpost.com/7941412.html</link>
+      <description>&lt;![CDATA[聊聊MiniMax和智谱财报：谁先跑通盈利模型？]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941412.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌推出最强手机端开源模型Gemma4 E2B/E4B</title>
-      <link>https://www.tmtpost.com/7940798.html</link>
-      <description>&lt;![CDATA[谷歌推出最强手机端开源模型Gemma4 E2B/E4B]]&gt;</description>
-      <pubDate>Fri, 03 Apr 2026 16:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7940798.html</guid>
+      <title>从价格洼地到价值高地：中国储能凭什么席卷全球？</title>
+      <link>https://www.tmtpost.com/7941406.html</link>
+      <description>&lt;![CDATA[从价格洼地到价值高地：中国储能凭什么席卷全球？]]&gt;</description>
+      <pubDate>Sat, 04 Apr 2026 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941406.html</guid>
       <category>Technology</category>
     </item>
   </channel>
