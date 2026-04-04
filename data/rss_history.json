@@ -2701,6 +2701,36 @@
         "link": "https://www.tmtpost.com/7941406.html",
         "published_date": "Sat, 04 Apr 2026 08:36:00 GMT",
         "first_seen": "2026-04-04T05:57:15.677483"
+      },
+      "7f05f02b9560318d65966c44008475c48bedfb7aa9b148906d8c6a6c26a6480d": {
+        "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
+        "link": "https://www.tmtpost.com/7941741.html",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.071963"
+      },
+      "38840465c7f9066e2d9e51dfbaabb9f9cf58bc611a5767db78b89b6f47d653e8": {
+        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
+        "link": "https://www.tmtpost.com/7941760.html",
+        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.071971"
+      },
+      "265ddb95503c3e0a47678be1742f13713a02e017c4f26cc4c8814d15a59d5764": {
+        "title": "拆解商汤十二年，一家老牌 AI 公司的真实处境",
+        "link": "https://www.tmtpost.com/7941390.html",
+        "published_date": "Sat, 04 Apr 2026 11:29:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.071974"
+      },
+      "f12c5001bb6520e819b9c4e535ce0d989f54b68d923b20b2e65bbe17744267c9": {
+        "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
+        "link": "https://www.tmtpost.com/7941464.html",
+        "published_date": "Sat, 04 Apr 2026 08:23:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.071977"
+      },
+      "217c8c977b9e5b35d45c9cfee4f64c461020a8c85a024c15a48860de414ecdc7": {
+        "title": "智能体 AI 模式强化软件工程规范性",
+        "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.071978"
       }
     },
     "Finance": {
@@ -6065,13 +6095,31 @@
         "link": "https://www.qbitai.com/2026/04/395307.html",
         "published_date": "Fri, 03 Apr 2026 08:54:00 GMT",
         "first_seen": "2026-04-03T23:32:05.440647"
+      },
+      "8c9f666bce5b7294e4798e1a579e66bdd8cb743b46e98ba76f66d92f3c4d204d": {
+        "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "link": "https://www.qbitai.com/2026/04/396069.html",
+        "published_date": "Sat, 04 Apr 2026 08:24:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.248069"
+      },
+      "fb54d4972b382ab91cfefd1aa3dfd5021478522f06f39011813b3054b7633ade": {
+        "title": "联想重新定义“龙虾”",
+        "link": "https://www.qbitai.com/2026/04/396015.html",
+        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.248076"
+      },
+      "01e35cda20b5e2135b691edcf2977ee4446225e015f2cef5e9784595d691f25a": {
+        "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "link": "https://www.qbitai.com/2026/04/395995.html",
+        "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
+        "first_seen": "2026-04-04T08:40:10.248078"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-04T05:57:15.677486",
+    "Technology": "2026-04-04T08:40:10.071981",
     "Finance": "2026-04-04T05:57:15.714851",
-    "Ai": "2026-04-03T23:32:05.440649"
+    "Ai": "2026-04-04T08:40:10.248081"
   }
 }
