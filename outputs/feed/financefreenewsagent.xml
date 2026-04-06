@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Apr 2026 09:06:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2026 09:06:56 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:34:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness</title>
-      <link>https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/hugh-jackman-relists-29-million-new-york-apartment-a-year-after-divorce-from-deborra-lee-furness-6d93a85e?mod=mw_rss_topstories</guid>
+      <title>Jamie Dimon warns private credit losses will be larger than feared</title>
+      <link>https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3</link>
+      <description>&lt;![CDATA[Jamie Dimon warns private credit losses will be larger than feared]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home</title>
-      <link>https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home]]&gt;</description>
-      <pubDate>Mon, 06 Apr 2026 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories</guid>
+      <title>US health insurance shares jump as Trump administration boosts Medicare payments</title>
+      <link>https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb</link>
+      <description>&lt;![CDATA[US health insurance shares jump as Trump administration boosts Medicare payments]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 23:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts</title>
+      <link>https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 22:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Sales of used EVs surge in US as petrol prices pass $4 a gallon</title>
+      <link>https://www.ft.com/content/5436f549-52da-4d6d-85ba-955203f5c2f2</link>
+      <description>&lt;![CDATA[Sales of used EVs surge in US as petrol prices pass $4 a gallon]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 11:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5436f549-52da-4d6d-85ba-955203f5c2f2</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter</title>
+      <link>https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter]]&gt;</description>
+      <pubDate>Mon, 06 Apr 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
