@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Apr 2026 23:36:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 23:37:17 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2026 06:21:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:22:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>碳基向下，硅基向上：我们正在供养一台「失控的增长机器」</title>
-      <link>https://www.tmtpost.com/7944241.html</link>
-      <description>&lt;![CDATA[碳基向下，硅基向上：我们正在供养一台「失控的增长机器」]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7944241.html</guid>
+      <title>Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本</title>
+      <link>https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华裔领衔神秘小队，护航Anthropic“玻璃之翼”</title>
-      <link>https://www.tmtpost.com/7945693.html</link>
-      <description>&lt;![CDATA[华裔领衔神秘小队，护航Anthropic“玻璃之翼”]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7945693.html</guid>
+      <title>大前端性能优化新范式：AI 火焰图在亿级 App 中的落地｜QCon北京</title>
+      <link>https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大前端性能优化新范式：AI 火焰图在亿级 App 中的落地｜QCon北京]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xJZRwpf2uuMA3UaS2SWm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当具身智能走进工厂：没有星辰大海，只有一本算不清的账</title>
-      <link>https://www.tmtpost.com/7946012.html</link>
-      <description>&lt;![CDATA[当具身智能走进工厂：没有星辰大海，只有一本算不清的账]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7946012.html</guid>
+      <title>Swift 6.3 来了：不止 Android，C 互操作能力也更进一步</title>
+      <link>https://www.infoq.cn/article/LgQEaumUJuPpdlAdYwHN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Swift 6.3 来了：不止 Android，C 互操作能力也更进一步]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 09:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LgQEaumUJuPpdlAdYwHN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>芯片出海，征服日本汽车？</title>
-      <link>https://www.tmtpost.com/7945622.html</link>
-      <description>&lt;![CDATA[芯片出海，征服日本汽车？]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 22:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7945622.html</guid>
+      <title>算力经济学的逻辑，在Agent时代彻底改写了</title>
+      <link>https://www.tmtpost.com/7946437.html</link>
+      <description>&lt;![CDATA[算力经济学的逻辑，在Agent时代彻底改写了]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 11:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946437.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型</title>
-      <link>https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型]]&gt;</description>
-      <pubDate>Wed, 08 Apr 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>定价权VS消耗战：大模型下半场的续命法则</title>
+      <link>https://www.tmtpost.com/7946394.html</link>
+      <description>&lt;![CDATA[定价权VS消耗战：大模型下半场的续命法则]]&gt;</description>
+      <pubDate>Thu, 09 Apr 2026 11:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7946394.html</guid>
       <category>Technology</category>
     </item>
   </channel>
