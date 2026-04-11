@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Apr 2026 23:33:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Apr 2026 23:34:23 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Apr 2026 06:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:01:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？</title>
-      <link>https://www.tmtpost.com/7947757.html</link>
-      <description>&lt;![CDATA[AI 终极瓶颈：算力狂奔遇 “超级电荒”，燃气轮机成幕后大 Boss？]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 12:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7947757.html</guid>
+      <title>哈萨比斯：ChatGPT把AI带上了“邪路”</title>
+      <link>https://www.tmtpost.com/7949224.html</link>
+      <description>&lt;![CDATA[哈萨比斯：ChatGPT把AI带上了“邪路”]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949224.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作</title>
-      <link>https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[没有KPI，也能领先OpenAI？从“内部观察者”视角看顶级AI实验室如何运作]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UeZ4cvw5hl06J0vFEJck?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 推出多代理 Harness，重构长时 AI 编程流程</title>
+      <link>https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 推出多代理 Harness，重构长时 AI 编程流程]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从大模型到Agent的跨越难度，正被整个行业严重低估</title>
-      <link>https://www.tmtpost.com/7948137.html</link>
-      <description>&lt;![CDATA[从大模型到Agent的跨越难度，正被整个行业严重低估]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7948137.html</guid>
+      <title>大模型厂商，是时候告别Token狂欢了</title>
+      <link>https://www.tmtpost.com/7949554.html</link>
+      <description>&lt;![CDATA[大模型厂商，是时候告别Token狂欢了]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949554.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>前英伟达高管吴夏清创办机器人数据服务公司，Calder瞄准世界模型底座</title>
-      <link>https://www.tmtpost.com/7948964.html</link>
-      <description>&lt;![CDATA[前英伟达高管吴夏清创办机器人数据服务公司，Calder瞄准世界模型底座]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 20:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7948964.html</guid>
+      <title>AI救活了一家马桶公司，也点燃了存储芯片超级周期</title>
+      <link>https://www.tmtpost.com/7949623.html</link>
+      <description>&lt;![CDATA[AI救活了一家马桶公司，也点燃了存储芯片超级周期]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949623.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京</title>
-      <link>https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从云原生到 Agent Engineering：AI 时代的软件架构跃迁｜QCon北京]]&gt;</description>
-      <pubDate>Fri, 10 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/DXzhsW63lQ5IoohR1uDD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨</title>
+      <link>https://www.tmtpost.com/7949632.html</link>
+      <description>&lt;![CDATA[星际之门三高管同时出走，奥特曼屋漏偏逢连夜雨]]&gt;</description>
+      <pubDate>Sat, 11 Apr 2026 12:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7949632.html</guid>
       <category>Technology</category>
     </item>
   </channel>
