@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c27a016c7683ad8c4de7c8bbcf5c53f2089ee67e8b71e82398a345baa0077cfa": {
-        "title": "模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架",
-        "link": "https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 16:12:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.738750"
-      },
-      "92d06b3721eafaffd00ac693bdb72e94ae455ff55ba673d131f519592fa8c62d": {
-        "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
-        "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 14:53:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.738758"
-      },
-      "312d4bc06e0b0788c3079f74834d359ec15abd72091096d7fda6a17161b1617d": {
-        "title": "实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表",
-        "link": "https://www.tmtpost.com/7912730.html",
-        "published_date": "Fri, 13 Mar 2026 14:19:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.738761"
-      },
-      "9875d2cf6d81b16a4dd180deecba7802565a07f2792ead3336646585f220a936": {
-        "title": "最新一篇博客背后，黄仁勋的深度思考",
-        "link": "https://www.tmtpost.com/7912387.html",
-        "published_date": "Fri, 13 Mar 2026 11:21:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.738763"
-      },
-      "be67c43fdc60bba26c2fa1e440d2710b9ad03055ba81cd5a05875c6dc1678713": {
-        "title": "派早报：Apple 宣布下调中国区 App Store 佣金率",
-        "link": "https://sspai.com/post/107158",
-        "published_date": "Fri, 13 Mar 2026 08:46:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.738765"
-      },
       "913bebce007b6e3b5898d668c24dc08affb19537bd2382be6f3a673b0b21d810": {
         "title": "从概念到产线：具身智能真正卡在哪？",
         "link": "https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&utm_medium=article",
@@ -2671,15 +2641,39 @@
         "link": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 12 Apr 2026 08:00:00 GMT",
         "first_seen": "2026-04-12T06:25:24.183695"
+      },
+      "21e124bcf111830ce51791a376cb212a06d53ee85d2beea27e8c078c5a7514e9": {
+        "title": "Aspire 13.2 正式发布，带来扩展版 CLI、预览版 TypeScript AppHost 及仪表盘改进",
+        "link": "https://www.infoq.cn/article/gXDZZmbAobi5TfwKUxLH?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-12T08:44:56.672891"
+      },
+      "5cc5b5fa1bbf9981792b6069936b5d8f15800b11a3549c88c426b66421cdb199": {
+        "title": "奥特曼家门口那把火，烧出了AI时代的分配矛盾",
+        "link": "https://www.tmtpost.com/7950006.html",
+        "published_date": "Sun, 12 Apr 2026 16:26:00 GMT",
+        "first_seen": "2026-04-12T08:44:56.672901"
+      },
+      "293329ff42dbf0cd7def65378d2a6210ee004469b5fd610a0b646cdd117c8ef1": {
+        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
+        "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-12T08:44:56.672904"
+      },
+      "d5589698ffc5a2a67ffd293b033009cd135e12037447f647d862c68b0ad783f2": {
+        "title": "5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532957&idx=1&sn=8f27a513c9db4fb19a2a432937c634b4",
+        "published_date": "Sun, 12 Apr 2026 12:38:00 GMT",
+        "first_seen": "2026-04-12T08:44:56.672906"
+      },
+      "41a0c54c43742eadddebaf461d69b980ca1c9a4073fe390c012ca88c65435157": {
+        "title": "首席工程师之路：培养领导力",
+        "link": "https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-12T08:44:56.672908"
       }
     },
     "Finance": {
-      "9f4ddafcb2c5e436b5532919b8538b382cdaa5a4438a537379baf933de8bbcac": {
-        "title": "UK economy unexpectedly failed to grow in January",
-        "link": "https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90",
-        "published_date": "Fri, 13 Mar 2026 07:15:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.773709"
-      },
       "77b9b849716d9bbcbf34255842a24682dc465d4e736ed1d71df8c7a2f4e24dbf": {
         "title": "US judge throws out justice department subpoenas to Fed, citing ‘thin’ evidence",
         "link": "https://www.ft.com/content/e4da6f70-6f68-4d95-aa7b-fef90ab90d82",
@@ -4731,27 +4725,21 @@
         "link": "https://www.ft.com/content/9a5294cf-0b64-4201-b88c-12ba586bb4fd",
         "published_date": "Sun, 12 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-12T06:25:07.386168"
+      },
+      "4dc262c8179f6f064d94cb5b6d60cc88f478708dff6deb91a30326b887233431": {
+        "title": "Vance says US and Iran fail to reach deal",
+        "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
+        "published_date": "Sun, 12 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-12T08:44:28.327998"
+      },
+      "18da0927dd37c002f0c2dd7f37f2623d1647bf9698dcf68eec98bdf49adf096e": {
+        "title": "Robinhood excludes some prediction markets over manipulation fears",
+        "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
+        "published_date": "Sun, 12 Apr 2026 06:57:00 GMT",
+        "first_seen": "2026-04-12T08:44:28.328013"
       }
     },
     "Ai": {
-      "9f56e663b5f41eaec34a5bfd4024526d34c8b4fcf6fb03ee9ef8ba9122938b1f": {
-        "title": "我用10块钱的「熟虾」，搞了个AI编辑部！",
-        "link": "https://www.qbitai.com/2026/03/387116.html",
-        "published_date": "Fri, 13 Mar 2026 06:54:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.918839"
-      },
-      "2bbfcccfe35a71f970886b084baeb1a1b0647cce0641103fea446fc8ee6cb69e": {
-        "title": "统计学最高荣誉回归华人！苏炜杰：AI需要一门新的数学语言",
-        "link": "https://www.qbitai.com/2026/03/387102.html",
-        "published_date": "Fri, 13 Mar 2026 06:02:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.918847"
-      },
-      "8477f1383fec0d8732534283f020b13369863f9b6323122c1cdeba883d0e0055": {
-        "title": "华人博士4个月干出具身独角兽！斯坦福家务机器人再融11亿，开建中国团队",
-        "link": "https://www.qbitai.com/2026/03/387072.html",
-        "published_date": "Fri, 13 Mar 2026 05:59:00 GMT",
-        "first_seen": "2026-03-13T08:37:04.918849"
-      },
       "93af80f1bd105edcbf5cec7734428b4604e43a8e8509557d2b0ecc1356ba4872": {
         "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
         "link": "https://www.qbitai.com/2026/03/387750.html",
@@ -6191,13 +6179,25 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-12/",
         "published_date": "Sun, 12 Apr 2026 12:10:00 GMT",
         "first_seen": "2026-04-12T06:25:07.531601"
+      },
+      "404b625e565ef1d177567fffe722163c5617ee940d27e67f742a7c667ffee96b": {
+        "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
+        "link": "https://www.qbitai.com/2026/04/399975.html",
+        "published_date": "Sun, 12 Apr 2026 07:21:00 GMT",
+        "first_seen": "2026-04-12T08:44:28.511561"
+      },
+      "46a7fa687c6df9e991272fbaa626247a60c63bb834454d29c7e08b2bf627b888": {
+        "title": "Claude复活30年前传奇游戏，仅用一个周末",
+        "link": "https://www.qbitai.com/2026/04/399903.html",
+        "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
+        "first_seen": "2026-04-12T08:44:28.511571"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-12T06:25:24.183697",
-    "Finance": "2026-04-12T06:25:07.386170",
-    "Ai": "2026-04-12T06:25:07.531609"
+    "Technology": "2026-04-12T08:44:56.672910",
+    "Finance": "2026-04-12T08:44:28.328016",
+    "Ai": "2026-04-12T08:44:28.511575"
   }
 }
