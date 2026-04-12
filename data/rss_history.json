@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "913bebce007b6e3b5898d668c24dc08affb19537bd2382be6f3a673b0b21d810": {
-        "title": "从概念到产线：具身智能真正卡在哪？",
-        "link": "https://www.infoq.cn/video/GyuIyxiBGSz4WkUeeK9u?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 16:38:00 GMT",
-        "first_seen": "2026-03-13T23:25:49.357871"
-      },
-      "df1e2e485a5196a0344b50a6f1cd506349f6617d85c03c51e02806b76402d86a": {
-        "title": "核聚变发电倒计时：国家队刚排到2045，民企凭什么敢喊2033？",
-        "link": "https://www.tmtpost.com/7913403.html",
-        "published_date": "Fri, 13 Mar 2026 19:26:00 GMT",
-        "first_seen": "2026-03-13T23:25:49.357882"
-      },
-      "ef38bb95a889a4f816b5e074d8249c17e82e7ae061ba09aa02a33629c8ad7481": {
-        "title": "这场战争对AI数据中心的长期影响，可能被低估了？",
-        "link": "https://www.tmtpost.com/7912340.html",
-        "published_date": "Fri, 13 Mar 2026 11:11:00 GMT",
-        "first_seen": "2026-03-13T23:25:49.357885"
-      },
-      "0871f25d48efeedf0906a752158c4a252ac3f82a117dd12244f54ae69c10b383": {
-        "title": "“龙虾”风暴：AI不拼智商拼动手，市场不炒概念看落地",
-        "link": "https://www.tmtpost.com/7912013.html",
-        "published_date": "Fri, 13 Mar 2026 11:19:00 GMT",
-        "first_seen": "2026-03-13T23:25:49.357887"
-      },
-      "b7a56add6d0b8ea7f99456793dfe648a809146af9ba2ce415a0aa10fab15824e": {
-        "title": "AI制药的技术奇点与产业拐点",
-        "link": "https://www.tmtpost.com/7912241.html",
-        "published_date": "Fri, 13 Mar 2026 11:18:00 GMT",
-        "first_seen": "2026-03-13T23:25:49.357889"
-      },
       "11f0d5372af5cf611800132224c770c3ca76a26c05aae768fbac86d51eee9d70": {
         "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
         "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/Bbmfyay4kg5Hx2ATMdMC?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 12 Apr 2026 14:00:00 GMT",
         "first_seen": "2026-04-12T08:44:56.672908"
+      },
+      "17497f86d80887875c0f7e27b8009a18de25a021a0b5c78f2c9dbd1afd4ba6ae": {
+        "title": "数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”",
+        "link": "https://www.tmtpost.com/7950419.html",
+        "published_date": "Sun, 12 Apr 2026 22:54:00 GMT",
+        "first_seen": "2026-04-12T23:33:32.030634"
+      },
+      "b6a2aba5f988b66ee1fbef4a08cd9023c1665994bf652b77478c6e93698def70": {
+        "title": "阿里HappyHorse，一场关于“Token经济”的阳谋",
+        "link": "https://www.tmtpost.com/7949938.html",
+        "published_date": "Sun, 12 Apr 2026 12:25:00 GMT",
+        "first_seen": "2026-04-12T23:33:32.030640"
+      },
+      "002825057d6b82d18b7c7c5350bfccb1a9c159f3327a7cca945c8dd6e4c913ba": {
+        "title": "AI打榜，打的是什么？",
+        "link": "https://www.tmtpost.com/7949939.html",
+        "published_date": "Sun, 12 Apr 2026 09:25:00 GMT",
+        "first_seen": "2026-04-12T23:33:32.030642"
+      },
+      "a31ad468c5311ed828c896eb2aec6dafb781cfc6aefb33566512df4aecf169c1": {
+        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "link": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-12T23:33:32.030644"
+      },
+      "8bcc369d816ef811b1df6c3922174f1fd7c32bbd8c8d9128f60c06916eb04ab6": {
+        "title": "139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察",
+        "link": "https://www.tmtpost.com/7950387.html",
+        "published_date": "Sun, 12 Apr 2026 21:23:00 GMT",
+        "first_seen": "2026-04-12T23:33:32.030646"
       }
     },
     "Finance": {
-      "77b9b849716d9bbcbf34255842a24682dc465d4e736ed1d71df8c7a2f4e24dbf": {
-        "title": "US judge throws out justice department subpoenas to Fed, citing ‘thin’ evidence",
-        "link": "https://www.ft.com/content/e4da6f70-6f68-4d95-aa7b-fef90ab90d82",
-        "published_date": "Fri, 13 Mar 2026 20:03:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.070354"
-      },
-      "456563aac2505143848715b46e6f694f88a3030446edd578ebe71bcd8ab79332": {
-        "title": "Investors are shunning U.S. debt as a haven play during the Iran conflict",
-        "link": "https://www.marketwatch.com/story/investors-are-shunning-u-s-debt-as-a-haven-play-during-the-iran-conflict-f84c9f4e?mod=mw_rss_topstories",
-        "published_date": "Fri, 13 Mar 2026 20:04:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.070360"
-      },
-      "d157ed37466bed15dd6c5d4fd11eaf22d2c837c00ffdd76b61d33d1c46859b12": {
-        "title": "Warren Buffett’s sage advice about fear and greed is a trap in this market",
-        "link": "https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories",
-        "published_date": "Fri, 13 Mar 2026 21:08:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.070363"
-      },
-      "7ab1145836b63b2d519adbcb3087d94504e1c7901f167a6c3327932f085c5152": {
-        "title": "Nvidia prepares AI ‘inference’ chip launch to counter rising challengers",
-        "link": "https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf",
-        "published_date": "Fri, 13 Mar 2026 21:00:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.070365"
-      },
-      "dba62c0f74499a0c731a9ce45d04c3ccced0554c54d98a9249ec6ad80728d5e6": {
-        "title": "Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals.",
-        "link": "https://www.marketwatch.com/story/think-russian-oil-will-calm-the-iran-conflicts-supply-panic-heres-what-the-math-reveals-e392c4be?mod=mw_rss_topstories",
-        "published_date": "Fri, 13 Mar 2026 20:20:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.070366"
-      },
       "dafc0a218d7d2df3eef73a16b1a81bb3d5336d5535425b7ada13a0d16ba44cfe": {
         "title": "Trump says US has ‘obliterated’ military assets on Iran’s Kharg Island",
         "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
@@ -4737,39 +4707,39 @@
         "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
         "published_date": "Sun, 12 Apr 2026 06:57:00 GMT",
         "first_seen": "2026-04-12T08:44:28.328013"
+      },
+      "c9d15098b3c8b625e1361d70219c0f57ddd8a9324b1e5703c9e4e968c5618172": {
+        "title": "Trump announces naval blockade of Strait of Hormuz as Iran peace talks fail",
+        "link": "https://www.ft.com/content/49fb7745-e938-4fd2-a1a5-924a8e80782c",
+        "published_date": "Sun, 12 Apr 2026 21:54:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.290662"
+      },
+      "e4e39573a83877592d68380121e2d7bee30bc90b0656fa879757ffd797740318": {
+        "title": "Global economic outlook darkens as policymakers count cost of Iran war",
+        "link": "https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383",
+        "published_date": "Sun, 12 Apr 2026 17:00:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.290670"
+      },
+      "af5fdc9f47fdb22a5cab054345d2fb1acb2d48b2999310416584080dded88dc2": {
+        "title": "UK households’ living standards to fall after energy price shock",
+        "link": "https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749",
+        "published_date": "Sun, 12 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.290673"
+      },
+      "6ae27af7ea61afd797b8819a8d957917f01039388ac4a65947eeefd3b9ca0f10": {
+        "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock",
+        "link": "https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.290675"
+      },
+      "c4550077e139b4fbb80979c732a1bdcaa8a31987620b4cd7e9abf03d992c61e0": {
+        "title": "UK Treasury to profit from final year of student loan scheme, says analysis",
+        "link": "https://www.ft.com/content/184f97b0-275b-4d28-9ed6-bdb15ae0c69f",
+        "published_date": "Sun, 12 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.290676"
       }
     },
     "Ai": {
-      "93af80f1bd105edcbf5cec7734428b4604e43a8e8509557d2b0ecc1356ba4872": {
-        "title": "阿里云发布手机“一键养虾”产品JVS Claw：3分钟实现养虾自由",
-        "link": "https://www.qbitai.com/2026/03/387750.html",
-        "published_date": "Fri, 13 Mar 2026 11:30:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.225618"
-      },
-      "c76919e0aa63d86cb6b76cc049ae890b5f525f393e1490f43a351b0429b41211": {
-        "title": "刚刚，腾讯电脑“龙虾管家”重磅上线",
-        "link": "https://www.qbitai.com/2026/03/387739.html",
-        "published_date": "Fri, 13 Mar 2026 11:08:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.225626"
-      },
-      "73f727cbd1c5e1b5b1c74a58df9e888677e0ff6df218999bcc4fb4a8acac8251": {
-        "title": "滴滴Q4再创新高 日订单峰值超6500万单",
-        "link": "https://www.qbitai.com/2026/03/387736.html",
-        "published_date": "Fri, 13 Mar 2026 09:18:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.225628"
-      },
-      "821a92e8226f4b346e1e8c2942e0621cd8c2513de74570060d33b007ebbf67c4": {
-        "title": "多家资本参投，杨立昆AMI获超10亿美元种子融资",
-        "link": "https://www.qbitai.com/2026/03/387734.html",
-        "published_date": "Fri, 13 Mar 2026 09:05:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.225630"
-      },
-      "f3e8aa15d2e0674a043954d55e135ea523b0f5bdf89032a845ac329de8c30d2d": {
-        "title": "吃够了全自动的龙虾，我决定把AI的方向盘抢回来",
-        "link": "https://www.qbitai.com/2026/03/387405.html",
-        "published_date": "Fri, 13 Mar 2026 08:59:00 GMT",
-        "first_seen": "2026-03-13T23:26:10.225632"
-      },
       "87d416b0416d1d90972ec8630e6a764dbe020220a2dee8c5ca5506b39aa2dcc4": {
         "title": "2026-03-14日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-14/",
@@ -6191,13 +6161,31 @@
         "link": "https://www.qbitai.com/2026/04/399903.html",
         "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
         "first_seen": "2026-04-12T08:44:28.511571"
+      },
+      "a0878856e41e0a49298db58b094306de107fa7b5407fff7b6d0f4fe972bdc7e1": {
+        "title": "「Claude Code之父」其实是野路子来的……",
+        "link": "https://www.qbitai.com/2026/04/400306.html",
+        "published_date": "Sun, 12 Apr 2026 14:11:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.436522"
+      },
+      "783f9ff0c3d72facbd8d93ead685690b621fa4f9b531d8340f522cba0d0bcfa5": {
+        "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
+        "link": "https://www.qbitai.com/2026/04/400197.html",
+        "published_date": "Sun, 12 Apr 2026 14:06:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.436529"
+      },
+      "e9751faae3362205e516177fc5353802827b55ccc7c30e8fba53a106942ebcb0": {
+        "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
+        "link": "https://www.qbitai.com/2026/04/399996.html",
+        "published_date": "Sun, 12 Apr 2026 14:02:00 GMT",
+        "first_seen": "2026-04-12T23:33:16.436531"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-12T08:44:56.672910",
-    "Finance": "2026-04-12T08:44:28.328016",
-    "Ai": "2026-04-12T08:44:28.511575"
+    "Technology": "2026-04-12T23:33:32.030648",
+    "Finance": "2026-04-12T23:33:16.290678",
+    "Ai": "2026-04-12T23:33:16.436534"
   }
 }
