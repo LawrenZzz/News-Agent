@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Apr 2026 09:54:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2026 09:54:38 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:41:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris</title>
-      <link>https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场</title>
+      <link>https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么现有的反无人机系统，连一架改装无人机都拦不住？｜AI Founder 请回答</title>
-      <link>https://www.tmtpost.com/7950938.html</link>
-      <description>&lt;![CDATA[为什么现有的反无人机系统，连一架改装无人机都拦不住？｜AI Founder 请回答]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950938.html</guid>
+      <title>从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了</title>
+      <link>https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蓝驰创投募资39亿元，重仓AI与硬科技早期项目</title>
-      <link>https://www.tmtpost.com/7951047.html</link>
-      <description>&lt;![CDATA[蓝驰创投募资39亿元，重仓AI与硬科技早期项目]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7951047.html</guid>
+      <title>让Token融入服务：阿里为何押注“智能体经济”</title>
+      <link>https://www.tmtpost.com/7951332.html</link>
+      <description>&lt;![CDATA[让Token融入服务：阿里为何押注“智能体经济”]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 19:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7951332.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这些芯片供应商，深陷降价泥潭</title>
-      <link>https://www.tmtpost.com/7950674.html</link>
-      <description>&lt;![CDATA[这些芯片供应商，深陷降价泥潭]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950674.html</guid>
+      <title>奥特曼“四面楚歌”</title>
+      <link>https://www.tmtpost.com/7951338.html</link>
+      <description>&lt;![CDATA[奥特曼“四面楚歌”]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 19:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7951338.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智驾芯片，更卷了</title>
-      <link>https://www.tmtpost.com/7950683.html</link>
-      <description>&lt;![CDATA[智驾芯片，更卷了]]&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7950683.html</guid>
+      <title>美国电池喊了三年去中国化，结果自己人先破产了</title>
+      <link>https://www.tmtpost.com/7950770.html</link>
+      <description>&lt;![CDATA[美国电池喊了三年去中国化，结果自己人先破产了]]&gt;</description>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7950770.html</guid>
       <category>Technology</category>
     </item>
   </channel>
