@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2afbda8a4d4dc6ff711020c8fd5be1177a73941bb6d94c77bc634f91d0e0d564": {
-        "title": "宁德时代不想只卖电池了：722亿利润背后的转型信号",
-        "link": "https://www.tmtpost.com/7914219.html",
-        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.481257"
-      },
-      "8c3e892f89d8c3914c2fec816cfb85854bb99b3194f88e2d79ab9b2e6a0104c0": {
-        "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
-        "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.481264"
-      },
-      "a762ba3248ef082e5a600f029da779d93ae233c9ca0fd72d0477c6e2fadb5e17": {
-        "title": "大裁员20%，新模型难产，Meta AI这团乱麻仍然没理顺",
-        "link": "https://www.tmtpost.com/7914242.html",
-        "published_date": "Sat, 14 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.481267"
-      },
-      "ef5fa2d3091a4d4f39e9b208885c63907ab958911382e1a91b8ae4a179c162c8": {
-        "title": "Science｜“免疫-生殖”轴新发现！西班牙科学家发现大脑免疫细胞是生育调控的关键",
-        "link": "https://www.tmtpost.com/7913920.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.481269"
-      },
-      "74fc53ef89a55ce71a2d2c4ac35fcdba7b74aa6b6ad1439b9e8e393fa1f3713d": {
-        "title": "Nat子刊：田波/张培团队揭示VTA-ACC多巴胺环路调控观察性社交回避的机制",
-        "link": "https://www.tmtpost.com/7913919.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.481271"
-      },
       "af126e08b4870774a2914e5a5f05210f202f7032da4f08dee1a685d187aab20f": {
         "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
         "link": "https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&utm_medium=article",
@@ -2671,15 +2641,39 @@
         "link": "https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 13 Apr 2026 11:00:00 GMT",
         "first_seen": "2026-04-13T07:15:43.974060"
+      },
+      "d5ccecc40d63bb8a65648c56a522248db857f5d6e6175676e762fc50dbecb2f6": {
+        "title": "写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris",
+        "link": "https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 17:42:00 GMT",
+        "first_seen": "2026-04-13T09:54:38.827724"
+      },
+      "22bd0420a13cb09c5d80b93d7ea986e50c3586b3976441b80cadbd6e967856bf": {
+        "title": "为什么现有的反无人机系统，连一架改装无人机都拦不住？｜AI Founder 请回答",
+        "link": "https://www.tmtpost.com/7950938.html",
+        "published_date": "Mon, 13 Apr 2026 17:32:00 GMT",
+        "first_seen": "2026-04-13T09:54:38.827732"
+      },
+      "c8119a3ca6dc1fd79dafa44bbacc3138293309ab9baa6fce33ec439b227e2253": {
+        "title": "蓝驰创投募资39亿元，重仓AI与硬科技早期项目",
+        "link": "https://www.tmtpost.com/7951047.html",
+        "published_date": "Mon, 13 Apr 2026 17:01:00 GMT",
+        "first_seen": "2026-04-13T09:54:38.827734"
+      },
+      "0391ae95ac4422fce0a385bc2e6dd727d412ff292ed96d830e99c8f0f7c3f8e6": {
+        "title": "这些芯片供应商，深陷降价泥潭",
+        "link": "https://www.tmtpost.com/7950674.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T09:54:38.827736"
+      },
+      "6ac8f1f6bde7c0a8990f744790174564a890f66f44ac9bc194cbec1d900cfe25": {
+        "title": "智驾芯片，更卷了",
+        "link": "https://www.tmtpost.com/7950683.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T09:54:38.827737"
       }
     },
     "Finance": {
-      "e71bdcf7ada01bfa47081149950b13ecda5bfb27f4ed82ba794c61a4028d1aa3": {
-        "title": "Israel calls for Iranian factory evacuation, suggesting attack imminent",
-        "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
-        "published_date": "Sat, 14 Mar 2026 07:24:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.514893"
-      },
       "b329b35f9e8e7db45723a90cd9bf5dde01378c96245863f0a4be2154ab6c61b3": {
         "title": "US oil groups in line for $63bn windfall from Gulf disruption",
         "link": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204",
@@ -4755,21 +4749,39 @@
         "link": "https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f",
         "published_date": "Mon, 13 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-13T07:14:58.817351"
+      },
+      "5c1cd1692eb903ebe737db22eaa7becc1b53b73d1f97b5de92fa6b0ce75d14ad": {
+        "title": "Populism lost in Hungary but still may win the war, one strategist argues",
+        "link": "https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-13T09:54:16.876782"
+      },
+      "4de77073c170f76f71578d828bcbea049abffef83e0293e92e9907ad2d4f5c0b": {
+        "title": "Oil prices rise as failed deal between U.S. and Iran raises risk of prolonged war",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:09:00 GMT",
+        "first_seen": "2026-04-13T09:54:16.876792"
+      },
+      "84a5cf31920f96506814f91f7cb63ce523d5002ccb9a954b2d3d1a6f8c447cd3": {
+        "title": "Keep calm and carry on buying the dip, says JPMorgan",
+        "link": "https://www.marketwatch.com/story/keep-calm-and-carry-on-buying-the-dip-says-jpmorgan-9eaafd2c?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:03:00 GMT",
+        "first_seen": "2026-04-13T09:54:16.876795"
+      },
+      "89dba6002c3c01a820221f797dc74e3261eae0acadf4d70ee29a7a348830f6ab": {
+        "title": "Mariah Carey lists ‘MTV Cribs’ penthouse in New York City for a whopping $27 million",
+        "link": "https://www.marketwatch.com/story/mariah-carey-lists-mtv-cribs-penthouse-in-new-york-city-for-a-whopping-27-million-902f19c3?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-13T09:54:16.876797"
+      },
+      "70838474b80c34280521d4eadd65bc9acc02ac0faf9b8f841b329d1202801850": {
+        "title": "Watch out for more tax cuts — or even tax hikes — as Republicans try for another budget bill",
+        "link": "https://www.marketwatch.com/story/watch-out-for-more-tax-cuts-or-even-tax-hikes-as-republicans-try-for-another-budget-bill-90177955?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:00:00 GMT",
+        "first_seen": "2026-04-13T09:54:16.876798"
       }
     },
     "Ai": {
-      "acf3a260c730f21232ca1b984786829eed5dfbfc0b7c099c67e4e77fb1a8be08": {
-        "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
-        "link": "https://www.qbitai.com/2026/03/387832.html",
-        "published_date": "Sat, 14 Mar 2026 06:34:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.655672"
-      },
-      "972c204f89f475280ba557f5052e52add950ca1bf24b33729dc34b85165a1d6a": {
-        "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
-        "link": "https://www.qbitai.com/2026/03/387756.html",
-        "published_date": "Sat, 14 Mar 2026 06:25:00 GMT",
-        "first_seen": "2026-03-14T08:30:56.655679"
-      },
       "f314da8891dba7fb0c95db5ac2fdc18b69005dfd93710babc79131fb5a3d16b0": {
         "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
         "link": "https://www.qbitai.com/2026/03/387921.html",
@@ -6209,13 +6221,25 @@
         "link": "https://www.qbitai.com/2026/04/400350.html",
         "published_date": "Mon, 13 Apr 2026 05:21:00 GMT",
         "first_seen": "2026-04-13T07:14:58.969462"
+      },
+      "c44b6ebec2ee7fbbed1cf7f6dc8515356781b7a91abc468f8feb60c48b4401f8": {
+        "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+        "link": "https://www.qbitai.com/2026/04/401002.html",
+        "published_date": "Mon, 13 Apr 2026 09:09:00 GMT",
+        "first_seen": "2026-04-13T09:54:17.032252"
+      },
+      "8f02cc61473b82f3272101bc788a6c72e5bcc9cc1ba5e01214f274c3d7161a6e": {
+        "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
+        "link": "https://www.qbitai.com/2026/04/400567.html",
+        "published_date": "Mon, 13 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-13T09:54:17.032259"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-13T07:15:43.974062",
-    "Finance": "2026-04-13T07:14:58.817353",
-    "Ai": "2026-04-13T07:14:58.969465"
+    "Technology": "2026-04-13T09:54:38.827739",
+    "Finance": "2026-04-13T09:54:16.876801",
+    "Ai": "2026-04-13T09:54:17.032262"
   }
 }
