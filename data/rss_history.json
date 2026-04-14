@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "15e5ff9f09ee7cf768050f7c5949c92ab30b96befd039acae1a89df00c294e10": {
-        "title": "【数智周报】OpenClaw引发权威机构连续预警；腾讯云涨价，部分AI模型涨幅超400%；Anthropic起诉美国政府",
-        "link": "https://www.tmtpost.com/7914449.html",
-        "published_date": "Sun, 15 Mar 2026 12:19:00 GMT",
-        "first_seen": "2026-03-15T06:04:35.958882"
-      },
-      "fb96696787960f263d71434d626c91a4ae2d3cde44418259cfb00b5f3bd9eb9b": {
-        "title": "AI购物争夺战：巨头抢的不是卖货，是入口",
-        "link": "https://www.tmtpost.com/7914457.html",
-        "published_date": "Sun, 15 Mar 2026 09:24:00 GMT",
-        "first_seen": "2026-03-15T06:04:35.958892"
-      },
-      "0435f548723b952773c781124a8d69667737c27c1b3a718eb6582f04415fb455": {
-        "title": "10分钟装好一只“龙虾”，周鸿祎亲自动手！360推出国内首个“安全龙虾”，内置百款大模型",
-        "link": "https://www.infoq.cn/article/XgX3qjd9RZ0aOaFjqbZQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 15 Mar 2026 12:47:00 GMT",
-        "first_seen": "2026-03-15T06:04:35.958895"
-      },
-      "4cf65f97ea20dde1e2739ca72681bbe767667c0da5258b909f77f0581eb8c146": {
-        "title": "对话TCL实业卢春水：AI家电不是蹭热度，回归本质是穿越周期关键 | AWE 2026",
-        "link": "https://www.tmtpost.com/7914512.html",
-        "published_date": "Sun, 15 Mar 2026 10:35:00 GMT",
-        "first_seen": "2026-03-15T06:04:35.958897"
-      },
-      "a435e1d7a88eb880ef374e798a70c88ea638766a0013864034e9e269e7200d06": {
-        "title": "Cloudflare发布AI辅助开发的实验性Next.js替代方案",
-        "link": "https://www.infoq.cn/article/9bFq7FJUQSXANWqtf8fQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 15 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-15T06:04:35.958898"
-      },
       "f7067252ac00a9185e45609e3460486a5899ff61d31e56745da479c0c340b0d6": {
         "title": "Adv Sci：北京脑所团队发现AD治疗新策略，抑制它或可逆转认知缺陷",
         "link": "https://www.tmtpost.com/7914495.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7950770.html",
         "published_date": "Mon, 13 Apr 2026 12:00:00 GMT",
         "first_seen": "2026-04-13T23:41:48.725867"
+      },
+      "25db71053aef35c92df3d0dbed750b9b2d6af0d4611185635e3d0dc7d97a1667": {
+        "title": "2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了",
+        "link": "https://www.tmtpost.com/7952122.html",
+        "published_date": "Tue, 14 Apr 2026 11:51:00 GMT",
+        "first_seen": "2026-04-14T06:32:58.257505"
+      },
+      "97ffb711aa11321e8639160f44d19fde9bf3c46cc13ef8f931c8939e2c9029a1": {
+        "title": "大模型吞噬Word",
+        "link": "https://www.tmtpost.com/7952338.html",
+        "published_date": "Tue, 14 Apr 2026 13:27:00 GMT",
+        "first_seen": "2026-04-14T06:32:58.257512"
+      },
+      "a5ffc446cacf13ff097da172cf044b23e23fbc9809cb35512c075537a8d31985": {
+        "title": "L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4",
+        "link": "https://www.tmtpost.com/7952170.html",
+        "published_date": "Tue, 14 Apr 2026 11:59:00 GMT",
+        "first_seen": "2026-04-14T06:32:58.257514"
+      },
+      "a47dad03a18eb9137d54974e049d0513e2d2fbe3dfeccf92a2d4bd0b265b7ddc": {
+        "title": "卸任米哈游董事长后，蔡浩宇在新加坡造“活人”",
+        "link": "https://www.tmtpost.com/7952418.html",
+        "published_date": "Tue, 14 Apr 2026 13:37:00 GMT",
+        "first_seen": "2026-04-14T06:32:58.257516"
+      },
+      "f07261ecf0583f115af9e67e33598c347ec3e9b4ee77e983766df0396b7329d2": {
+        "title": "大疆二十年：从产品神话到组织命题",
+        "link": "https://www.tmtpost.com/7951482.html",
+        "published_date": "Tue, 14 Apr 2026 13:27:00 GMT",
+        "first_seen": "2026-04-14T06:32:58.257518"
       }
     },
     "Finance": {
-      "ee353900dfe206c6681f6bb17d0eb50ed898fa64e2fa04df5cc33b5e2cd5c989": {
-        "title": "Trump urges China and UK to send warships to reopen Strait of Hormuz",
-        "link": "https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68",
-        "published_date": "Sat, 14 Mar 2026 23:48:00 GMT",
-        "first_seen": "2026-03-15T06:04:48.515708"
-      },
-      "318bd8f98ce2b6dad3a3d8d720fea47c636649aaed67853bce6927e28ebd49e2": {
-        "title": "Military briefing: How mines could tighten Iran’s Gulf chokehold",
-        "link": "https://www.ft.com/content/8e45328d-2d15-47c7-b1ea-4b7751bc2669",
-        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-15T06:04:48.515715"
-      },
-      "0a7b0283bee430fde1f7481b0e34f7e98d94b4c41087b5fd41790303f8451f17": {
-        "title": "Trump’s ‘shock and war’ makes this economic crisis different",
-        "link": "https://www.ft.com/content/bd7a2d03-6df0-4212-aa67-95160bae9db6",
-        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-15T06:04:48.515717"
-      },
-      "84deeebcd26b9abe7b1e3ff2b5a2954d9fa24365e74e61b1f099c3696d73e294": {
-        "title": "Retail traders rush into oil bets as Iran war drives wild price swings",
-        "link": "https://www.ft.com/content/04ff96ba-90bb-4111-8a8b-cc5bcd05d0db",
-        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-15T06:04:48.515719"
-      },
-      "f3bf2dd8eaed52e1ca2a32c6deea97962ea2513efa7d20e16f297e2d4069cb02": {
-        "title": "‘Firing off 10 to 15 applications a day’: how UK’s hiring slump hits the young",
-        "link": "https://www.ft.com/content/377fd9fb-0e92-4b59-afd0-dfabf93b59b6",
-        "published_date": "Sun, 15 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-15T06:04:48.515720"
-      },
       "208b1b6e20e60d43daa3a81af06299cb258d87cf003259299d0d3743591281af": {
         "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?",
         "link": "https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories",
@@ -4779,15 +4749,39 @@
         "link": "https://www.ft.com/content/e73ddecf-8c41-4ecb-ada3-77a163c8d69f",
         "published_date": "Mon, 13 Apr 2026 19:02:00 GMT",
         "first_seen": "2026-04-13T23:41:28.145745"
+      },
+      "c50160cd1c9212ef1ac715cc3aa142083fd83c6100ef1acddee9685db4a82ab5": {
+        "title": "China shock 2.0: the flood of high-tech goods that will change the world",
+        "link": "https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a",
+        "published_date": "Tue, 14 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.377888"
+      },
+      "47a859663a099d3028ad1f8818ad63e52c77623dc75d0ece6107d0deee99e443": {
+        "title": "Private credit not only won’t spark a financial crisis — it may be more stable than your bank",
+        "link": "https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 23:54:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.377900"
+      },
+      "00ae615bdb7bf18b8422dca85e74b21aea0476f8ac3f64eaeb21640689da42ed": {
+        "title": "OpenAI investors question $852bn valuation as strategy shifts",
+        "link": "https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982",
+        "published_date": "Tue, 14 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.377904"
+      },
+      "1d2ed3cf2d2f92d3f91d85afe5acd767fe405ac094c9bee0764c14e7bb6192e2": {
+        "title": "Geopolitical upheaval spurs family offices to open global branches",
+        "link": "https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f",
+        "published_date": "Tue, 14 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.377906"
+      },
+      "71e78e97dfafb7a976c49b1454496b93d22ceec683251d07cffc696e1cabe98a": {
+        "title": "BP hails ‘exceptional’ quarter for oil traders as Iran war stokes volatility",
+        "link": "https://www.ft.com/content/936125bc-4b95-4daf-9c1d-a1f690984e9a",
+        "published_date": "Tue, 14 Apr 2026 06:19:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.377908"
       }
     },
     "Ai": {
-      "fcd2c7eb7ae003dda64b8b4cf5822f1ae7e15ba3d90e68fb5a8cf0372466fe1c": {
-        "title": "2026-03-15日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-15/",
-        "published_date": "Sun, 15 Mar 2026 11:45:00 GMT",
-        "first_seen": "2026-03-15T06:04:48.659018"
-      },
       "e0b048d63bae53631690ac37a3cf6a72c398cd4f1fee069ec3ef5da3404935e2": {
         "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
         "link": "https://www.qbitai.com/2026/03/387935.html",
@@ -6215,13 +6209,31 @@
         "link": "https://www.qbitai.com/2026/04/401011.html",
         "published_date": "Mon, 13 Apr 2026 10:35:00 GMT",
         "first_seen": "2026-04-13T23:41:28.297098"
+      },
+      "247a5c7bb8837ec4d78d03d142d8cb95b5f288632d464d9a6c2521e509a61d5c": {
+        "title": "2026-04-14日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-14/",
+        "published_date": "Tue, 14 Apr 2026 10:38:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.534282"
+      },
+      "f940066846c1e35d211d90fdd8cb8fcc93286f3e4ff9c22a0f1b2998345d46e9": {
+        "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+        "link": "https://www.qbitai.com/2026/04/401047.html",
+        "published_date": "Tue, 14 Apr 2026 04:31:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.534291"
+      },
+      "8facbd809fd81c050aa427d7b96d8354fd20bcc1bacf781b96fa4c0c67f31ecb": {
+        "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
+        "link": "https://www.qbitai.com/2026/04/401041.html",
+        "published_date": "Tue, 14 Apr 2026 02:48:00 GMT",
+        "first_seen": "2026-04-14T06:32:08.534293"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-13T23:41:48.725868",
-    "Finance": "2026-04-13T23:41:28.145747",
-    "Ai": "2026-04-13T23:41:28.297101"
+    "Technology": "2026-04-14T06:32:58.257520",
+    "Finance": "2026-04-14T06:32:08.377911",
+    "Ai": "2026-04-14T06:32:08.534296"
   }
 }
