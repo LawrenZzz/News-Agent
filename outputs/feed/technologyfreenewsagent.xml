@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Apr 2026 09:15:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2026 09:16:54 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 23:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 23:41:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk</title>
-      <link>https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 11:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千亿诉讼，马斯克能否阻断OpenAI商业化？</title>
+      <link>https://www.tmtpost.com/7952620.html</link>
+      <description>&lt;![CDATA[千亿诉讼，马斯克能否阻断OpenAI商业化？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952620.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京</title>
-      <link>https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI伴侣的“成人礼”：监管重锤落下，谁是真正的行业幸存者？</title>
+      <link>https://www.tmtpost.com/7952727.html</link>
+      <description>&lt;![CDATA[AI伴侣的“成人礼”：监管重锤落下，谁是真正的行业幸存者？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952727.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开源安全工具 Trivy 遭供应链攻击，引发行业紧急响应</title>
-      <link>https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[开源安全工具 Trivy 遭供应链攻击，引发行业紧急响应]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识</title>
+      <link>https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MiniMax修改开源授权被骂疯了！限制M2.7商用、强制标注来源，却没完全撤下MIT标识]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UGpjbIzIbbxbZ3XyWeRL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践</title>
-      <link>https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 14:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>疯狂囤光刻机，DRAM双雄在怕什么？</title>
+      <link>https://www.tmtpost.com/7952962.html</link>
+      <description>&lt;![CDATA[疯狂囤光刻机，DRAM双雄在怕什么？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 18:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7952962.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全</title>
-      <link>https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Q1AI漫剧抢人潮：70K高薪疯抢AI人才，大厂跨界布局？</title>
+      <link>https://www.tmtpost.com/7940730.html</link>
+      <description>&lt;![CDATA[Q1AI漫剧抢人潮：70K高薪疯抢AI人才，大厂跨界布局？]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 19:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7940730.html</guid>
       <category>Technology</category>
     </item>
   </channel>
