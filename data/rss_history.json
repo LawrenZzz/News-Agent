@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f7067252ac00a9185e45609e3460486a5899ff61d31e56745da479c0c340b0d6": {
-        "title": "Adv Sci：北京脑所团队发现AD治疗新策略，抑制它或可逆转认知缺陷",
-        "link": "https://www.tmtpost.com/7914495.html",
-        "published_date": "Sun, 15 Mar 2026 08:43:00 GMT",
-        "first_seen": "2026-03-15T08:32:23.120699"
-      },
-      "f487f346c2c66cdd69d719a40ed54eec8d2769a8cf87e801c12678302a52f2e5": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:32:23.120709"
-      },
-      "6be7f33c62a3eab8557a07b7d06f2f194d6b566d141adf06f7208c1d11eaa3c3": {
-        "title": "营收破千亿，净利却缩水85%，理想汽车进入“最危险的一年”",
-        "link": "https://www.tmtpost.com/7912445.html",
-        "published_date": "Sun, 15 Mar 2026 10:34:00 GMT",
-        "first_seen": "2026-03-15T08:32:23.120711"
-      },
-      "4097611ececfaf514e7fb8e574c79d566e4937476be7d2d2c6938d0fc8b55ffd": {
-        "title": "GitLab：AI 能发现漏洞，但风险治理才是关键",
-        "link": "https://www.infoq.cn/article/SkoHHJPpp6bpctKdbFws?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 15 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-15T08:32:23.120713"
-      },
-      "ddf66d3e5b06e3b951fab8080604b791650ca7f8971c698d965ab702d4ce61a5": {
-        "title": "玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗",
-        "link": "http://www.huxiu.com/article/4842120.html?f=wangzhan",
-        "published_date": "Sun, 15 Mar 2026 10:30:00 GMT",
-        "first_seen": "2026-03-15T08:32:23.120715"
-      },
       "39d84de04a28488914f54d1d36d503889177d6b0da472bb7e2c32373796d58a1": {
         "title": "AI将省出5300亿、淘汰一半人，“生死存亡”时刻，腾爱优芒红果提出什么新需求？",
         "link": "https://www.tmtpost.com/7914747.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7951482.html",
         "published_date": "Tue, 14 Apr 2026 13:27:00 GMT",
         "first_seen": "2026-04-14T06:32:58.257518"
+      },
+      "0ec375f80e250c3a2e839cab90515f32664b615da6f0120071c42db1c3cd5940": {
+        "title": "TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk",
+        "link": "https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 11:15:00 GMT",
+        "first_seen": "2026-04-14T09:16:54.949008"
+      },
+      "c06005853609ebd8370120985ce83e58635c4c8c6fa538b6210bbdaf58f235e4": {
+        "title": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+        "link": "https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-14T09:16:54.949016"
+      },
+      "03ee5639ce3e7329663b91e598d404e29976c18db3676e9e305b53c431e42f2d": {
+        "title": "开源安全工具 Trivy 遭供应链攻击，引发行业紧急响应",
+        "link": "https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-14T09:16:54.949018"
+      },
+      "9aab58f639b8b703c3102b29d5b1e9c710765112c8e3ec9f8c45f28dd171a5a1": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:16:54.949020"
+      },
+      "5ab80d9b18f83655a545a1b0bd0a2e285a1920cc57b976adc038bc7e64f31491": {
+        "title": "CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全",
+        "link": "https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-14T09:16:54.949021"
       }
     },
     "Finance": {
@@ -4779,15 +4779,33 @@
         "link": "https://www.ft.com/content/936125bc-4b95-4daf-9c1d-a1f690984e9a",
         "published_date": "Tue, 14 Apr 2026 06:19:00 GMT",
         "first_seen": "2026-04-14T06:32:08.377908"
+      },
+      "3a55864656b93244b109721866e755da2ba09b5a003d6906d86ec7e32995320f": {
+        "title": "March saw the largest increase in global energy inflation in 25 years",
+        "link": "https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-14T09:15:59.486425"
+      },
+      "9398ecc54180294f9a7d8d16d2c3a8dcb999ab6343ce30bd13b301738b302142": {
+        "title": "Pink buys striking Greenwich Village townhouse for $21 million: ‘A piece of New York City history’",
+        "link": "https://www.marketwatch.com/story/pink-buys-striking-greenwich-village-townhouse-for-21-million-a-piece-ofnew-yorkcity-history-92810655?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:03:00 GMT",
+        "first_seen": "2026-04-14T09:15:59.486439"
+      },
+      "ff4174cfc362078d1a178222147e2c83f39a1ad4ffbd6fe93e27d90f6a1a599b": {
+        "title": "Kenneth Cole is asking $16 million for his longtime upstate New York home once rented by George Clooney",
+        "link": "https://www.marketwatch.com/story/kenneth-cole-is-asking-16-million-for-his-longtime-upstate-new-york-home-once-rented-by-george-clooney-0575ef8e?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-14T09:15:59.486442"
+      },
+      "abf004f240b855cec581711db50a7e4b54fd4c6b80fd75abc978d576664b6836": {
+        "title": "United Airlines reportedly pitched government on American Airlines deal. What a combination would look like.",
+        "link": "https://www.marketwatch.com/story/united-airlines-reportedly-pitched-government-on-american-airlines-deal-what-the-deal-would-look-like-b745939a?mod=mw_rss_topstories",
+        "published_date": "Tue, 14 Apr 2026 08:39:00 GMT",
+        "first_seen": "2026-04-14T09:15:59.486444"
       }
     },
     "Ai": {
-      "e0b048d63bae53631690ac37a3cf6a72c398cd4f1fee069ec3ef5da3404935e2": {
-        "title": "科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%",
-        "link": "https://www.qbitai.com/2026/03/387935.html",
-        "published_date": "Sun, 15 Mar 2026 06:06:00 GMT",
-        "first_seen": "2026-03-15T08:32:23.293705"
-      },
       "6ed6a6aec64d58b558cd6ac4427b8891f340bdc97f264b02a14d97008a1cc8b6": {
         "title": "2026-03-16日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-16/",
@@ -6232,8 +6250,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-14T06:32:58.257520",
-    "Finance": "2026-04-14T06:32:08.377911",
+    "Technology": "2026-04-14T09:16:54.949024",
+    "Finance": "2026-04-14T09:15:59.486446",
     "Ai": "2026-04-14T06:32:08.534296"
   }
 }

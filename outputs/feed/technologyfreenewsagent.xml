@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Apr 2026 06:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2026 06:32:58 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2026 09:15:00 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:16:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了</title>
-      <link>https://www.tmtpost.com/7952122.html</link>
-      <description>&lt;![CDATA[2026斯坦福AI指数报告：美国AI投资规模是中国的23倍，但AI模型基本没差距了]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 11:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7952122.html</guid>
+      <title>TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk</title>
+      <link>https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TDSQL-C AI 查询优化器：LLM 重塑 SQL 调优与计划管理 | 腾讯云数据库 DBTalk]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/Ls3KiEqAqY58Qvsp1cXD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型吞噬Word</title>
-      <link>https://www.tmtpost.com/7952338.html</link>
-      <description>&lt;![CDATA[大模型吞噬Word]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7952338.html</guid>
+      <title>构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京</title>
+      <link>https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4</title>
-      <link>https://www.tmtpost.com/7952170.html</link>
-      <description>&lt;![CDATA[L3能不能跳过？华为死磕必经之路，小鹏带头直扑L4]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7952170.html</guid>
+      <title>开源安全工具 Trivy 遭供应链攻击，引发行业紧急响应</title>
+      <link>https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源安全工具 Trivy 遭供应链攻击，引发行业紧急响应]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TO5Qtp6GDufPrNOsoeMx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卸任米哈游董事长后，蔡浩宇在新加坡造“活人”</title>
-      <link>https://www.tmtpost.com/7952418.html</link>
-      <description>&lt;![CDATA[卸任米哈游董事长后，蔡浩宇在新加坡造“活人”]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7952418.html</guid>
+      <title>AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践</title>
+      <link>https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大疆二十年：从产品神话到组织命题</title>
-      <link>https://www.tmtpost.com/7951482.html</link>
-      <description>&lt;![CDATA[大疆二十年：从产品神话到组织命题]]&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7951482.html</guid>
+      <title>CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全</title>
+      <link>https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[CNCF 与 Kusari 合作，共同加强云原生项目的软件供应链安全]]&gt;</description>
+      <pubDate>Tue, 14 Apr 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZkMveTm0GrGqNOCxTQit?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
