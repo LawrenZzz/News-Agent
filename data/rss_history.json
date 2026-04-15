@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1f4f4eb3734633d6149b32013316f0514747be8581d22d4fc085d5c7673f795d": {
-        "title": "【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元",
-        "link": "https://www.tmtpost.com/7916294.html",
-        "published_date": "Tue, 17 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-16T23:28:56.588478"
-      },
-      "711ef4b10b821a59c716dab4a0f4f92c464a7ec52c5629ebb9e38a2f8172f156": {
-        "title": "当AI进入真实世界：Hitch Open在F1赛道开启物理智能时代",
-        "link": "https://www.tmtpost.com/7916266.html",
-        "published_date": "Mon, 16 Mar 2026 21:04:00 GMT",
-        "first_seen": "2026-03-16T23:28:56.588486"
-      },
-      "9b12f35dce75b1e7d4594e6d7371ee055d3a4f22fc3c4d3688408006f9b34a96": {
-        "title": "AI 2.0 时代的大模型推理：从模型到硬件的协同优化",
-        "link": "https://www.infoq.cn/article/7ivxUvwB4G48DQHllaml?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 17:26:00 GMT",
-        "first_seen": "2026-03-16T23:28:56.588488"
-      },
-      "d768532c4891ae3c9ad286f7385d31810fe902f70c8cbf8606dd54b33112135d": {
-        "title": "洗牌与破局：手术机器人陷行业内卷与定价失衡，收费新政如何唤醒市场？｜行业风向标",
-        "link": "https://www.tmtpost.com/7916081.html",
-        "published_date": "Mon, 16 Mar 2026 19:12:00 GMT",
-        "first_seen": "2026-03-16T23:28:56.588491"
-      },
-      "07b47f8d018e91c5ecc787606bbfb38fb662bc09554701bbce1208d3917b96ad": {
-        "title": "从业者讲述：被315曝光的GEO，如何精准“忽悠”AI？",
-        "link": "https://www.tmtpost.com/7915165.html",
-        "published_date": "Mon, 16 Mar 2026 09:45:00 GMT",
-        "first_seen": "2026-03-16T23:28:56.588492"
-      },
       "007c4006a5be895226d7fc6a19751f39c4fc79dd35675386d3162378833af3f1": {
         "title": "黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；",
         "link": "https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 15 Apr 2026 13:00:00 GMT",
         "first_seen": "2026-04-15T09:17:37.098836"
+      },
+      "0603cdf7b5a180cc6eba913143a6e2347c4417e3742532f91109c7e0d0b9523e": {
+        "title": "雪藏背后：Anthropic的技术、商业与伦理困境",
+        "link": "https://www.tmtpost.com/7953898.html",
+        "published_date": "Wed, 15 Apr 2026 17:38:00 GMT",
+        "first_seen": "2026-04-15T23:41:35.714149"
+      },
+      "db7ff156be8f64fb677b2c80ae48978b300fe5f62df734691c5582a2daa676bb": {
+        "title": "国产AI芯片崛起：三大门派、瓜分英伟达",
+        "link": "https://www.tmtpost.com/7954297.html",
+        "published_date": "Wed, 15 Apr 2026 18:18:00 GMT",
+        "first_seen": "2026-04-15T23:41:35.714155"
+      },
+      "16d4c49d8b517b3fac77d59222287837970de3bc4fbe89f75de3d1d452c915c3": {
+        "title": "人类能管住AI吗？Anthropic用千问做了个实验",
+        "link": "https://www.tmtpost.com/7954227.html",
+        "published_date": "Wed, 15 Apr 2026 18:18:00 GMT",
+        "first_seen": "2026-04-15T23:41:35.714157"
+      },
+      "d032095a0e96fcf7f1164622e8cd020fcbb93439ba468af9b4462b2c69cb3a0c": {
+        "title": "AI算力不能总为爱发电",
+        "link": "https://www.tmtpost.com/7954394.html",
+        "published_date": "Wed, 15 Apr 2026 19:01:00 GMT",
+        "first_seen": "2026-04-15T23:41:35.714159"
+      },
+      "24659130c9866208047e1ee4f35cf3b2787ee3c0256e4bb7d90f3cc4a84d0238": {
+        "title": "营收破13亿净利增超42%，国产数据库龙头的“质变”时刻",
+        "link": "https://www.tmtpost.com/7952862.html",
+        "published_date": "Wed, 15 Apr 2026 11:18:00 GMT",
+        "first_seen": "2026-04-15T23:41:35.714160"
       }
     },
     "Finance": {
-      "6219dded21a63e014fba5e9e21aaab0c0d656ffff489289385a29eacb9e44e72": {
-        "title": "Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years",
-        "link": "https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0",
-        "published_date": "Mon, 16 Mar 2026 22:51:00 GMT",
-        "first_seen": "2026-03-16T23:29:12.808436"
-      },
-      "66f9771a4fffcdf0522b3d67e9dc9f56843209271008b718a893c5d720eaddf6": {
-        "title": "Moody’s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks",
-        "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Mar 2026 22:01:00 GMT",
-        "first_seen": "2026-03-16T23:29:12.808442"
-      },
-      "04fecb001680a16606952d12f01130581fc2ff49b0f5125062ce4d763d2217a0": {
-        "title": "US diesel prices soar to almost $5 as Iran war pinches global supplies",
-        "link": "https://www.ft.com/content/978ce866-76a3-47b2-9219-9ee8ec0e587c",
-        "published_date": "Mon, 16 Mar 2026 21:20:00 GMT",
-        "first_seen": "2026-03-16T23:29:12.808444"
-      },
-      "dd4a465d9616e6db3440b33d00c1769044a28b97d2bcb3b6cc83a6e159cdf231": {
-        "title": "Close Brothers plunges as short seller claims it understated UK car finance risks",
-        "link": "https://www.ft.com/content/e2386fb4-c8a9-44b5-9086-eb156d07dc7d",
-        "published_date": "Mon, 16 Mar 2026 19:07:00 GMT",
-        "first_seen": "2026-03-16T23:29:12.808446"
-      },
-      "f6bdf569bb64a2efca9ade0caef0d1a77d329d6b69097155c7023c7008c03d0d": {
-        "title": "Why Hormuz will haunt us long after this war ends",
-        "link": "https://www.ft.com/content/175a9a69-4026-4680-9d9f-14ead972f5b1",
-        "published_date": "Mon, 16 Mar 2026 11:12:00 GMT",
-        "first_seen": "2026-03-16T23:29:12.808448"
-      },
       "fe1d7da6f85e5ef802905db59a481044c25186588f5e6112be5adeeb5f595ceb": {
         "title": "Blue Owl tipped UK mortgage lender into insolvency after uncovering ‘irregularities’",
         "link": "https://www.ft.com/content/32fd18b0-83d6-400e-94f7-f9a0a141c5f0",
@@ -4809,39 +4779,39 @@
         "link": "https://www.ft.com/content/ffb02bd6-fd48-4abc-b568-8353c495cd1e",
         "published_date": "Wed, 15 Apr 2026 08:44:00 GMT",
         "first_seen": "2026-04-15T09:16:52.678808"
+      },
+      "b237c26e9d8909a7a6a477446abd0834438708f385b098907de51c23bf2adc42": {
+        "title": "U.S. businesses hit the brakes on hiring and spending as Iran war dims optimism over economy, Fed report finds",
+        "link": "https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 22:12:00 GMT",
+        "first_seen": "2026-04-15T23:41:03.501594"
+      },
+      "c6f17dc202218beb2b6a65b4437c55034627470f89a578a82e55ab37a1a17db1": {
+        "title": "Rate setters face ‘double danger’ from Iran war and tariffs, Fed official warns",
+        "link": "https://www.ft.com/content/345e5dbc-d60a-4c78-a781-63c3b624a451",
+        "published_date": "Wed, 15 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-15T23:41:03.501606"
+      },
+      "b540871cbec6b78972031e10383a94c39e49e20a9326b845cbc391edb2b87740": {
+        "title": "Goldman president warns private credit funds are not marketed properly",
+        "link": "https://www.ft.com/content/3e91f018-d9c1-4ef4-a416-f80c97d930d8",
+        "published_date": "Wed, 15 Apr 2026 22:52:00 GMT",
+        "first_seen": "2026-04-15T23:41:03.501609"
+      },
+      "ff941bc27e3d845890ccf56894f0f6a9ad481ae42946b21a31fb9491026b8fac": {
+        "title": "Live Nation stock falls as jury finds ticketing giant acted as an illegal monopoly. Here’s what happens next.",
+        "link": "https://www.marketwatch.com/story/live-nation-stock-falls-as-jury-finds-ticketing-giant-acted-as-an-illegal-monopoly-1f21ac77?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 22:46:00 GMT",
+        "first_seen": "2026-04-15T23:41:03.501611"
+      },
+      "b377f454cddf5439cf1009b7986dadb4df1aa45c8ba42852fce22ef7b8b7bb02": {
+        "title": "Allbirds’ AI pivot sends its stock soaring nearly 600%. We’ve seen this movie before.",
+        "link": "https://www.marketwatch.com/story/allbirds-ai-pivot-sends-its-stock-soaring-300-weve-seen-this-film-before-04665b32?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 21:57:00 GMT",
+        "first_seen": "2026-04-15T23:41:03.501612"
       }
     },
     "Ai": {
-      "b9b5f800236ffe41f260f7b9c640e0c922378e42a2bae47963d2266925bcad5e": {
-        "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-        "link": "https://www.qbitai.com/2026/03/388387.html",
-        "published_date": "Mon, 16 Mar 2026 11:48:00 GMT",
-        "first_seen": "2026-03-16T23:29:24.645502"
-      },
-      "a7ac004cfc42e3425960f19b5e765b4a133c64ccf2060258034cb977387d5f17": {
-        "title": "Testing LLMs on superconductivity research questions",
-        "link": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/",
-        "published_date": "Mon, 16 Mar 2026 17:31:00 GMT",
-        "first_seen": "2026-03-16T23:29:24.645508"
-      },
-      "a6a4d8840531d423ef4f474ac292b744b646327d5f6ccf7c4119a6c18e3b6ff1": {
-        "title": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
-        "link": "https://www.qbitai.com/2026/03/388054.html",
-        "published_date": "Mon, 16 Mar 2026 07:12:00 GMT",
-        "first_seen": "2026-03-16T23:29:24.645510"
-      },
-      "a293ffa26fcfddd91470d9326bf8d238f783bec4b297ddf75f65de8118371e54": {
-        "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
-        "link": "https://www.qbitai.com/2026/03/388352.html",
-        "published_date": "Mon, 16 Mar 2026 07:39:00 GMT",
-        "first_seen": "2026-03-16T23:29:24.645512"
-      },
-      "9241ad1f13bcf007b8faa8a9f4ddd2643cf7d672a56ffc9dfb956de9c12d4a8b": {
-        "title": "不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格",
-        "link": "https://www.qbitai.com/2026/03/387990.html",
-        "published_date": "Mon, 16 Mar 2026 06:50:00 GMT",
-        "first_seen": "2026-03-16T23:29:24.645514"
-      },
       "819c1e0c5a6fe4f5b52bf9a1c49ecc007335d810fdf68ae2ef8346834482da7f": {
         "title": "2026-03-17日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-17/",
@@ -6305,13 +6275,19 @@
         "link": "https://www.qbitai.com/2026/04/401479.html",
         "published_date": "Wed, 15 Apr 2026 07:42:00 GMT",
         "first_seen": "2026-04-15T09:16:52.813900"
+      },
+      "513512ee1616148c1365880867b34d900b4b28970b2446152be78095f3f138e8": {
+        "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
+        "link": "https://www.qbitai.com/2026/04/401512.html",
+        "published_date": "Wed, 15 Apr 2026 13:28:00 GMT",
+        "first_seen": "2026-04-15T23:41:03.654971"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-15T09:17:37.098838",
-    "Finance": "2026-04-15T09:16:52.678810",
-    "Ai": "2026-04-15T09:16:52.813902"
+    "Technology": "2026-04-15T23:41:35.714162",
+    "Finance": "2026-04-15T23:41:03.501615",
+    "Ai": "2026-04-15T23:41:03.654979"
   }
 }
