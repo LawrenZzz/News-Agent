@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fbbc225825d27ab2da968188046014e51eeddaac5e91b4d3738cbc2384eea843": {
-        "title": "“为了让工程师用 AI，公司会裁掉一半人！”硅谷顶级大佬直言，AI 一天 3 小时搞定工作，还搞 996 的公司必垮",
-        "link": "https://www.infoq.cn/article/JSj5hNXIOBmDXD1jpZDa?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 16:37:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.389776"
-      },
-      "5ccca67907e2228793a5fa0cc3bfbc86a15180e6bf9f8270156026996f3f66c7": {
-        "title": "OpenClaw 之父惊叹中国速度！大厂集体杀入新战场：用AI 批量制造“一人公司”",
-        "link": "https://www.infoq.cn/article/9qY0o9CYOdkQAz6k6YCG?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 16:34:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.389786"
-      },
-      "2ad31a0dccb82a3341c58cbf92809ad6eb2996d6151a202958a593f308d1d128": {
-        "title": "字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报",
-        "link": "https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 16:23:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.389789"
-      },
-      "1a13aaf3d7272b5f0361f0c9d0be6ff66ae2a87ac52253ba5dc0432e51bcc79e": {
-        "title": "大模型时代之后，AI正在寻找真实场景",
-        "link": "https://www.tmtpost.com/7914291.html",
-        "published_date": "Mon, 16 Mar 2026 13:21:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.389790"
-      },
-      "666c4c17b46369729da6aa523825e78d341de4b7052778adf082500e1e7e0e10": {
-        "title": "从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间",
-        "link": "https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.389792"
-      },
       "1f4f4eb3734633d6149b32013316f0514747be8581d22d4fc085d5c7673f795d": {
         "title": "【钛晨报】工信部：适度超前布局建设5G、智算等新型信息基础设施；阿里成立Token Hub事业群，由CEO吴泳铭直接负责；Meta：计划在未来五年内，向AI公司Nebius投入高达270亿美元",
         "link": "https://www.tmtpost.com/7916294.html",
@@ -2671,33 +2641,39 @@
         "link": "https://www.infoq.cn/article/BFfOpHfuRzyMGE4ZL7lU?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 15 Apr 2026 11:11:00 GMT",
         "first_seen": "2026-04-15T06:56:18.555156"
+      },
+      "46a40d6101e0a1449681062460e08c41b08e4ee5560a8319cddd127f2d3a36d6": {
+        "title": "智元联合北大、智源实现人形机器人自主打乒乓",
+        "link": "https://www.infoq.cn/article/tdHRjhHFIPYA3X7c0ji1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 15:44:00 GMT",
+        "first_seen": "2026-04-15T09:17:37.098824"
+      },
+      "aae0f6784d99ae4c92aa75af68e0fe8961c8345c64d08e639ee35e66345f7aeb": {
+        "title": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "link": "https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 16:27:00 GMT",
+        "first_seen": "2026-04-15T09:17:37.098831"
+      },
+      "409edef65af01cc6679bad19a8edbca663394b2a6ce02198811fd2a2da74b6e4": {
+        "title": "网易智企发布企业级 AI Agent 管理平台：一人指挥一整支“龙虾军团”",
+        "link": "https://www.infoq.cn/article/wSpS6icWMeyHS7jmYGbK?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-15T09:17:37.098833"
+      },
+      "2f39417d63e2e7b849626582e265ee2597af5783869df353bf56037ee865b687": {
+        "title": "金融级 Al Coding 落地实践：从“氛围”编程到“严谨”开发｜QCon北京",
+        "link": "https://www.infoq.cn/article/w0YZvXhyz3CjRPFO0VE3?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-15T09:17:37.098834"
+      },
+      "f182e25385c1f70af51470d0a02d28eb998c9e6622ce19a3f0ab579fd8744906": {
+        "title": "Etsy 将拥有 1000 个分片、425 TB 数据的 MySQL 分片架构迁移至 Vitess",
+        "link": "https://www.infoq.cn/article/ZCHjdm7EEHQJaZr7aPxz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Apr 2026 13:00:00 GMT",
+        "first_seen": "2026-04-15T09:17:37.098836"
       }
     },
     "Finance": {
-      "af38deb2794a9fc5b93fce85a30e165eecc4685dca19155428e47ac373c96619": {
-        "title": "UniCredit $40 billion offer for Germany’s number-two bank comes with unusual twist — it expects to fail",
-        "link": "https://www.marketwatch.com/story/unicredit-40-billion-offer-for-germanys-number-two-bank-comes-with-unusual-twist-it-expects-to-fail-f765e37e?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Mar 2026 09:04:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.424871"
-      },
-      "ab23f84df343c3e1245497e42ebf4aadf21d2e5b747aa7fe380278a824f7b458": {
-        "title": "Nicolas Cage just bought a new 2-unit luxury condo for $6.5 million in a coveted Manhattan building",
-        "link": "https://www.marketwatch.com/story/nicolas-cage-just-bought-a-new-2-unit-luxury-condo-for-6-5-million-in-a-coveted-manhattan-building-139d15a6?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Mar 2026 09:02:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.424878"
-      },
-      "3eaa5b4ebfa6ffc6874d4107e7482a9a5bf46e36c5a17d86c8927bdb5d5ab720": {
-        "title": "Billionaire Google founder Sergey Brin reportedly buys $51 million Miami mansion from LVMH CEO",
-        "link": "https://www.marketwatch.com/story/billionaire-google-founder-sergey-brin-reportedly-buys-51-million-miami-mansion-from-lvmh-ceo-e6447e8e?mod=mw_rss_topstories",
-        "published_date": "Mon, 16 Mar 2026 08:57:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.424880"
-      },
-      "81e0a74d5313335406c9d51055b8a0f0dddd62d5dcf36ed011b394c1a7e8e770": {
-        "title": "Belgian prime minister calls for EU to normalise ties with Russia",
-        "link": "https://www.ft.com/content/4ce01938-a671-4433-83a7-dada2b3bac01",
-        "published_date": "Mon, 16 Mar 2026 08:51:00 GMT",
-        "first_seen": "2026-03-16T09:10:50.424881"
-      },
       "6219dded21a63e014fba5e9e21aaab0c0d656ffff489289385a29eacb9e44e72": {
         "title": "Nvidia’s Huang predicts $1tn in AI chip revenue over 2 years",
         "link": "https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0",
@@ -4803,6 +4779,36 @@
         "link": "https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736",
         "published_date": "Wed, 15 Apr 2026 00:45:00 GMT",
         "first_seen": "2026-04-15T06:55:54.784301"
+      },
+      "d23a84f9e0d8f1b08a3bfe8b52aa3277b54e03db3101fbd1a9a5bb2bb6f8d53d": {
+        "title": "Oil futures hold to tight range as hopes of peace deal between U.S. and Iran grow",
+        "link": "https://www.marketwatch.com/story/oil-futures-hold-to-tight-range-as-hopes-of-peace-deal-between-u-s-and-iran-grow-2d8733b4?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 09:14:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.678791"
+      },
+      "0be394b00a4c10b12dd8f7af78a8b33573802b12160634bd144d16054344d61f": {
+        "title": "How film producer and Arizona developer Anita Verma-Lallian built a $1.5 billion real estate portfolio",
+        "link": "https://www.marketwatch.com/story/how-film-producer-and-arizona-developer-anita-verma-lallian-built-a-1-5-billion-real-estate-portfolio-0da42d29?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.678802"
+      },
+      "383119d3686b50c8f3e1f2cb2c1d631273287fc63e1c68a5f376330d7296e4e0": {
+        "title": "Daniel Craig and Rachel Weisz sell their elegant Brooklyn townhouse for $11.8 million",
+        "link": "https://www.marketwatch.com/story/daniel-craig-and-rachel-weisz-sell-their-elegant-brooklyn-townhouse-for-11-8-million-eebe1d3b?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 08:58:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.678804"
+      },
+      "f6d7f015413bc40a4570686d246a4a6761ca5e9838701bf445f85da67e6b2d4c": {
+        "title": "Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised.",
+        "link": "https://www.marketwatch.com/story/hermes-and-gucci-sales-fall-short-on-middle-east-turmoil-investors-were-surprised-12ac51fc?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Apr 2026 08:51:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.678806"
+      },
+      "d8bbdbf42f5686dbd13f69104ec964e4f6cbfd259677cf651616418aff88125e": {
+        "title": "European airports warn new border system causes up to three-hour delays",
+        "link": "https://www.ft.com/content/ffb02bd6-fd48-4abc-b568-8353c495cd1e",
+        "published_date": "Wed, 15 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.678808"
       }
     },
     "Ai": {
@@ -6287,13 +6293,25 @@
         "link": "https://www.qbitai.com/2026/04/401333.html",
         "published_date": "Wed, 15 Apr 2026 03:22:00 GMT",
         "first_seen": "2026-04-15T06:55:54.946091"
+      },
+      "6f1b12d368be149def3627fd27c465e595e485eafeee228fa5dcf811389b4d62": {
+        "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "link": "https://www.qbitai.com/2026/04/401484.html",
+        "published_date": "Wed, 15 Apr 2026 07:59:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.813891"
+      },
+      "7622b33008ebec218993bae4f1f4e310d0e68d82e8765397cdba4d1a2d097b69": {
+        "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "link": "https://www.qbitai.com/2026/04/401479.html",
+        "published_date": "Wed, 15 Apr 2026 07:42:00 GMT",
+        "first_seen": "2026-04-15T09:16:52.813900"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-15T06:56:18.555158",
-    "Finance": "2026-04-15T06:55:54.784304",
-    "Ai": "2026-04-15T06:55:54.946093"
+    "Technology": "2026-04-15T09:17:37.098838",
+    "Finance": "2026-04-15T09:16:52.678810",
+    "Ai": "2026-04-15T09:16:52.813902"
   }
 }
