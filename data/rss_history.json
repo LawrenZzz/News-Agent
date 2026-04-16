@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "007c4006a5be895226d7fc6a19751f39c4fc79dd35675386d3162378833af3f1": {
-        "title": "黄仁勋 GTC 2026 演讲实录：所有SaaS公司都将消失；Token 成本全球最低；2027 营收将到 1 万亿；Feynman 架构已在路上；",
-        "link": "https://www.infoq.cn/article/MSc2PuVcBuYd1afpAGC1?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 08:52:00 GMT",
-        "first_seen": "2026-03-17T05:59:24.661794"
-      },
-      "7c508d2b210995ec50cc4ae6a168dd3ddd815535c2bf6490f39befba0dc583bf": {
-        "title": "Claude Opus 4.6 推出自适应推理与上下文压缩特性",
-        "link": "https://www.infoq.cn/article/WJRPWcSugWQgC7coY49h?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-17T05:59:24.661803"
-      },
-      "1cddcb5c4a370b61d7d6c6eef28005e3a6c762c8892c88f98c59be2129c38a88": {
-        "title": "阿里成立ATH：是破局之钥，还是大中台2.0？",
-        "link": "https://www.tmtpost.com/7916269.html",
-        "published_date": "Tue, 17 Mar 2026 12:47:00 GMT",
-        "first_seen": "2026-03-17T05:59:24.661806"
-      },
-      "536f8ae5c282f2b7d54143d63f090d9349fd99c1b5c87a4fea992d5972dbf314": {
-        "title": "非对称竞争：数字空间与物理空间的缝隙间博弈",
-        "link": "https://www.tmtpost.com/7916462.html",
-        "published_date": "Tue, 17 Mar 2026 12:54:00 GMT",
-        "first_seen": "2026-03-17T05:59:24.661808"
-      },
-      "65c5a0b2ccd5ef3d1d019452f940625fe5fd32f989c07d388c6809a697677a5f": {
-        "title": "马斯克亲自点赞，Kimi动了十一年没人敢碰的东西",
-        "link": "https://www.tmtpost.com/7916944.html",
-        "published_date": "Tue, 17 Mar 2026 12:26:00 GMT",
-        "first_seen": "2026-03-17T05:59:24.661810"
-      },
       "5c51c981182ea8c001c8dd71c26ec86c5e9e4c8924c67e9a62bb8db1328eff44": {
         "title": "两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查",
         "link": "https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7952862.html",
         "published_date": "Wed, 15 Apr 2026 11:18:00 GMT",
         "first_seen": "2026-04-15T23:41:35.714160"
+      },
+      "12107c860c5f3f94fd4ce188e53db762c4bf25fef88d362da72e1b451cefecf0": {
+        "title": "中国AI正在绕过大模型，直奔Agent时代",
+        "link": "https://www.tmtpost.com/7955163.html",
+        "published_date": "Thu, 16 Apr 2026 13:07:00 GMT",
+        "first_seen": "2026-04-16T06:58:32.991360"
+      },
+      "0f0aec14f10f02f707a64b9315f4062acabb94fe4a79c604e911ddee5d88dc63": {
+        "title": "具身智能赛道迎来年度最大单笔融资，它石智航获4.55亿美金Pre-A轮融资",
+        "link": "https://www.tmtpost.com/7954674.html",
+        "published_date": "Thu, 16 Apr 2026 10:48:00 GMT",
+        "first_seen": "2026-04-16T06:58:32.991366"
+      },
+      "ebbf7a4335441d227049dc3ca2ae706743dc50f1114734380d0eb5e17a102da9": {
+        "title": "神秘模型排名超 Gemma 4 31B：不跟 Qwen 硬刚，主打“快”和“省 token”",
+        "link": "https://www.infoq.cn/article/t9ZBwRdLF4cRKqIMNYXY?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 16 Apr 2026 14:48:00 GMT",
+        "first_seen": "2026-04-16T06:58:32.991369"
+      },
+      "91462fe33080b7439d8228a4aec6ae7f3d874198c41389ae7b416153f4201353": {
+        "title": "Airbnb 将高吞吐指标采集管道迁移至 OpenTelemetry",
+        "link": "https://www.infoq.cn/article/PegogtX4txhVdQmex0Og?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 16 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-16T06:58:32.991370"
+      },
+      "85cb83ef09c2de484e070e1d04eed14af1e0b4fe8c011941bf3cbce03efdaaef": {
+        "title": "亚马逊云科技推出可持续发展控制台，支持 API 访问及 Scope 1-3 碳排放报告",
+        "link": "https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 16 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-16T06:58:32.991372"
       }
     },
     "Finance": {
-      "fe1d7da6f85e5ef802905db59a481044c25186588f5e6112be5adeeb5f595ceb": {
-        "title": "Blue Owl tipped UK mortgage lender into insolvency after uncovering ‘irregularities’",
-        "link": "https://www.ft.com/content/32fd18b0-83d6-400e-94f7-f9a0a141c5f0",
-        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-17T05:59:36.151646"
-      },
-      "4d4e9a022349c15b518f1be60e4c7764d0a5af2846d9f9e1ffdce7da29751cfb": {
-        "title": "Naval escorts will not guarantee safe passage through Strait of Hormuz, says IMO chief",
-        "link": "https://www.ft.com/content/5a4742a9-2be1-41ce-8058-c034512b20c0",
-        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-17T05:59:36.151652"
-      },
-      "7a1e162d5bc1dd1f491d54e8990078b49cef964cb126839572db42eb1d03d002": {
-        "title": "This biotech is working on a GLP-1 pill that could be better than the Wegovy version",
-        "link": "https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Mar 2026 00:31:00 GMT",
-        "first_seen": "2026-03-17T05:59:36.151655"
-      },
-      "2a25ccb20789cbc8f2c9931308ef85d57577394bc1b88fcdf411a0b8f0627260": {
-        "title": "UK drone interceptor start-up in funding talks at $1bn-plus valuation",
-        "link": "https://www.ft.com/content/78a9fc2c-24f1-47ac-9c4b-e0bd67bc6ace",
-        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-17T05:59:36.151657"
-      },
-      "209b7b5b6b4d7d91ea30402ad5c99bdd371204bac4b8785f5c4e0fb569b2e8d2": {
-        "title": "Who is winning the Middle East war?",
-        "link": "https://www.ft.com/content/587cd030-459a-4340-abe6-59c4b27f2071",
-        "published_date": "Tue, 17 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-17T05:59:36.151659"
-      },
       "82f43212a27439e4e462934d306d66a9cdf2b915a3acb1d7c19df368c04e1b54": {
         "title": "Oil jumps as Iran steps up attacks on infrastructure",
         "link": "https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911",
@@ -4809,15 +4779,39 @@
         "link": "https://www.marketwatch.com/story/allbirds-ai-pivot-sends-its-stock-soaring-300-weve-seen-this-film-before-04665b32?mod=mw_rss_topstories",
         "published_date": "Wed, 15 Apr 2026 21:57:00 GMT",
         "first_seen": "2026-04-15T23:41:03.501612"
+      },
+      "582e6c831dcab44b631130ffda7b1ccee2b3a74023ce7714badf14408c0fdbe5": {
+        "title": "The tax-focused hedge fund craze taking over Wall Street",
+        "link": "https://www.ft.com/content/fad9d0ca-0b7a-4c22-8cfe-fb26fea9219b",
+        "published_date": "Thu, 16 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-16T06:57:53.255969"
+      },
+      "d24b856bfcb070c4695e8f34883b759bc2c64f56b786f2e8117d1969443a8e6c": {
+        "title": "Pensions drawdown: can the 4 Per Cent Rule survive stagflation?",
+        "link": "https://www.ft.com/content/d6a0aaca-949c-420d-9431-ec9c170e6a05",
+        "published_date": "Thu, 16 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-16T06:57:53.255978"
+      },
+      "243384765d40b815db07e2a9dc49fecb3700bd18d26a01feab326c28c7fe5651": {
+        "title": "Gulf states turn to private deals in $10bn wartime borrowing spree",
+        "link": "https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7",
+        "published_date": "Thu, 16 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-16T06:57:53.255982"
+      },
+      "efc2ea4251d016981d352adc8505c09db42f34a45dceb945624e863c4c84c00d": {
+        "title": "UK economy beat expectations to grow by 0.5% in February",
+        "link": "https://www.ft.com/content/06ba79d2-8e7b-45fa-bc3d-4602c4520fe5",
+        "published_date": "Thu, 16 Apr 2026 06:21:00 GMT",
+        "first_seen": "2026-04-16T06:57:53.255984"
+      },
+      "d1b1996a3b0e7708e7a2f0c2e862475a73e4a253a6b88634940adfb0d023d9d2": {
+        "title": "Is Tesla a chip stock now? Investors are cheering a semiconductor milestone.",
+        "link": "https://www.marketwatch.com/story/is-tesla-a-chip-stock-now-investors-are-cheering-a-semiconductor-milestone-56341cf8?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 02:42:00 GMT",
+        "first_seen": "2026-04-16T06:57:53.255986"
       }
     },
     "Ai": {
-      "819c1e0c5a6fe4f5b52bf9a1c49ecc007335d810fdf68ae2ef8346834482da7f": {
-        "title": "2026-03-17日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-17/",
-        "published_date": "Tue, 17 Mar 2026 09:53:00 GMT",
-        "first_seen": "2026-03-17T05:59:36.293932"
-      },
       "eb05a190a897b31c6e63e4148c43b7536812f74578908c50988e494d88ea67c7": {
         "title": "零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块",
         "link": "https://www.qbitai.com/2026/03/388527.html",
@@ -6281,13 +6275,43 @@
         "link": "https://www.qbitai.com/2026/04/401512.html",
         "published_date": "Wed, 15 Apr 2026 13:28:00 GMT",
         "first_seen": "2026-04-15T23:41:03.654971"
+      },
+      "08c0f67773beedec88dd8d5fe5e69239eaa8cbf67e95048079bd56abae548773": {
+        "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
+        "link": "https://www.qbitai.com/2026/04/401554.html",
+        "published_date": "Thu, 16 Apr 2026 03:03:00 GMT",
+        "first_seen": "2026-04-16T06:58:07.019822"
+      },
+      "e1c841f4811619265e77ea8c07e81f94f5ea87a1598f722bde36afa78c2bee7c": {
+        "title": "Claude实名认证引众怒！强制验证是为了更精准封号",
+        "link": "https://www.qbitai.com/2026/04/401655.html",
+        "published_date": "Thu, 16 Apr 2026 04:28:00 GMT",
+        "first_seen": "2026-04-16T06:58:07.019828"
+      },
+      "de4a294a4c423d2ff4bda828685178efd23350ba8ac616213585bb0cfa0612c7": {
+        "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
+        "link": "https://www.qbitai.com/2026/04/401541.html",
+        "published_date": "Thu, 16 Apr 2026 02:41:00 GMT",
+        "first_seen": "2026-04-16T06:58:07.019831"
+      },
+      "b47bacb8135ad2a1d75c74b002acecca9c8baf96914bb0c8123012c1ec9ec00f": {
+        "title": "短短3个月，高德已拿下具身智能领域15项世界第一",
+        "link": "https://www.qbitai.com/2026/04/401649.html",
+        "published_date": "Thu, 16 Apr 2026 03:45:00 GMT",
+        "first_seen": "2026-04-16T06:58:07.019832"
+      },
+      "2ab09760cc06dfeb620dad1998c206c33e5cd4a9f2ee87392ab4caa9a87450d5": {
+        "title": "我用1分钟开发了个上线应用，有阿里Meoo谁还学编程啊",
+        "link": "https://www.qbitai.com/2026/04/401553.html",
+        "published_date": "Thu, 16 Apr 2026 03:16:00 GMT",
+        "first_seen": "2026-04-16T06:58:07.019834"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-15T23:41:35.714162",
-    "Finance": "2026-04-15T23:41:03.501615",
-    "Ai": "2026-04-15T23:41:03.654979"
+    "Technology": "2026-04-16T06:58:32.991374",
+    "Finance": "2026-04-16T06:57:53.255988",
+    "Ai": "2026-04-16T06:58:07.019837"
   }
 }
