@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5c51c981182ea8c001c8dd71c26ec86c5e9e4c8924c67e9a62bb8db1328eff44": {
-        "title": "两天推翻Karpathy 20年工作习惯！百行代码开源项目“封神”，AI替你通宵肝研究、战绩可查",
-        "link": "https://www.infoq.cn/article/hioSraQHDw53VwP9glyq?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 10:01:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.010070"
-      },
-      "bba790f85d7ac568f7f43397b9f382b068d4496af16858ecb8faf7eebd2dce46": {
-        "title": "融资 1200亿后 Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱",
-        "link": "https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.010083"
-      },
-      "52e82522bf5e104d5020490a34035364321f879dada708e749613ad34fccd2ee": {
-        "title": "GTC 2026发布：矩阵起源 Memoria项目开源——业内首个“Git for Memory” Agent可信记忆框架",
-        "link": "https://www.infoq.cn/article/NqADgMKW7KUgBBWO3eQ9?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 16:30:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.010086"
-      },
-      "a127b1711f4967e57b9fe3ffdcab4829399d7bc3b012f56efa475f6b5136a240": {
-        "title": "清华团队开源！1 键生成多 Agent 智能体 AI 课堂。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532259&idx=1&sn=26ba5941f3d0e70383861553027cf251",
-        "published_date": "Tue, 17 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.010088"
-      },
-      "6f4ffb0fc69919c11f5f27ed674485248b3293b8ea9c21258455ba08c1dffc5e": {
-        "title": "清华教授领衔，成立不到2年的AI医疗公司正在筹备IPO",
-        "link": "https://www.tmtpost.com/7916747.html",
-        "published_date": "Tue, 17 Mar 2026 15:12:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.010090"
-      },
       "219388b08396010b10bcb128c7744d32c6a1ea810650619d2c108d6dc831cfc8": {
         "title": "估值1200亿后Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱",
         "link": "https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&utm_medium=article",
@@ -2671,21 +2641,39 @@
         "link": "https://www.infoq.cn/article/jtag5PHWAQaMbR1aeyLh?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 16 Apr 2026 11:00:00 GMT",
         "first_seen": "2026-04-16T06:58:32.991372"
+      },
+      "3df73e550e4adb81c19d8e23a7e7882a3142b18d5f0bc6d8f46a789edba6c226": {
+        "title": "“猎头”张文之后：壁仞科技更需要“技术”张文？",
+        "link": "https://www.tmtpost.com/7955633.html",
+        "published_date": "Thu, 16 Apr 2026 16:54:00 GMT",
+        "first_seen": "2026-04-16T09:17:17.228824"
+      },
+      "53d8ca6c50e99143a14a951cd93f91ad70a64c58d1bd5d21da16ccaf3d3b788a": {
+        "title": "挑战闭源格局！腾讯混元3D 2.0开源发布，性能对标商业级模型",
+        "link": "https://www.tmtpost.com/7955800.html",
+        "published_date": "Thu, 16 Apr 2026 16:57:00 GMT",
+        "first_seen": "2026-04-16T09:17:17.228832"
+      },
+      "25766ce2200acdd8902001fbcae492aa09c71e795ba165c55499bfa236730d61": {
+        "title": "暖哇科技二次冲港股，“保险AI第一股”成色几何？",
+        "link": "https://www.tmtpost.com/7955666.html",
+        "published_date": "Thu, 16 Apr 2026 16:17:00 GMT",
+        "first_seen": "2026-04-16T09:17:17.228835"
+      },
+      "f57344f0f8166d17b136ec38181c868b85aeb932a42c65465d4d50468b6a7d2b": {
+        "title": "压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md",
+        "link": "https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 16 Apr 2026 16:51:00 GMT",
+        "first_seen": "2026-04-16T09:17:17.228836"
+      },
+      "81d3dfcbd6ab0655414cfdf5bab04af7589e4aae8943c586af57eb1eb2c14c09": {
+        "title": "Claude变蠢了，新模型发布前的黑暗时刻？",
+        "link": "https://www.tmtpost.com/7955428.html",
+        "published_date": "Thu, 16 Apr 2026 12:38:00 GMT",
+        "first_seen": "2026-04-16T09:17:17.228838"
       }
     },
     "Finance": {
-      "82f43212a27439e4e462934d306d66a9cdf2b915a3acb1d7c19df368c04e1b54": {
-        "title": "Oil jumps as Iran steps up attacks on infrastructure",
-        "link": "https://www.ft.com/content/3b4fd03c-e416-4cbd-bf5c-adca908e6911",
-        "published_date": "Tue, 17 Mar 2026 06:35:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.044767"
-      },
-      "4fba8b479c411c2e1c247953548c2090b6ef479381b6b6de6f15b3f4adf904ce": {
-        "title": "Oil producers: buy the peace, not the war",
-        "link": "https://www.ft.com/content/7d38769f-332a-4b23-8df0-ff859f1d851d",
-        "published_date": "Tue, 17 Mar 2026 06:30:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.044776"
-      },
       "7d8e07682a4dcec0da78f92be3599e5cffb7ca6353eafc3501f449044814c952": {
         "title": "The era of US dominance in economic warfare is over",
         "link": "https://www.ft.com/content/ae458591-5941-45f1-bf7b-7110bc35eb88",
@@ -4809,33 +4797,27 @@
         "link": "https://www.marketwatch.com/story/is-tesla-a-chip-stock-now-investors-are-cheering-a-semiconductor-milestone-56341cf8?mod=mw_rss_topstories",
         "published_date": "Thu, 16 Apr 2026 02:42:00 GMT",
         "first_seen": "2026-04-16T06:57:53.255986"
+      },
+      "9c99f935e294e0904c725714657a10ce4230aa878a0bcff69ae0022173db82b2": {
+        "title": "SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million",
+        "link": "https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-16T09:16:51.514434"
+      },
+      "5bac350d46ec120577ee0055e2c4086d142a864c882e6c1227f1bf3bdf5c1cb2": {
+        "title": "Ceasefire with Israel expected ‘soon’, say Lebanese officials",
+        "link": "https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81",
+        "published_date": "Thu, 16 Apr 2026 08:37:00 GMT",
+        "first_seen": "2026-04-16T09:16:51.514443"
+      },
+      "57001370781ce2522596db8253d7a969d458c6c35136ec53640bcddfd6f0733b": {
+        "title": "Taiwan overtakes UK in stock market value on AI chip boom",
+        "link": "https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc",
+        "published_date": "Thu, 16 Apr 2026 07:03:00 GMT",
+        "first_seen": "2026-04-16T09:16:51.514446"
       }
     },
     "Ai": {
-      "eb05a190a897b31c6e63e4148c43b7536812f74578908c50988e494d88ea67c7": {
-        "title": "零跑“抠”出5亿盈利：单车均价10万，每辆仅赚905块",
-        "link": "https://www.qbitai.com/2026/03/388527.html",
-        "published_date": "Tue, 17 Mar 2026 07:14:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.201813"
-      },
-      "6c77b0d718050da7e81dcd0d36d18862d9167f194013520e79cb0f8775ed633b": {
-        "title": "企业级靠谱龙虾升级，拒绝失控",
-        "link": "https://www.qbitai.com/2026/03/388519.html",
-        "published_date": "Tue, 17 Mar 2026 07:07:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.201821"
-      },
-      "40fc41115804f216d614a97c812d05e0e950cad03aedf47dad37fc0047d6bf7d": {
-        "title": "Kimi新架构让马斯克叹服！17岁高中生作者一战成名",
-        "link": "https://www.qbitai.com/2026/03/388493.html",
-        "published_date": "Tue, 17 Mar 2026 06:51:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.201824"
-      },
-      "4f6737ab5fdd08fda8cb759517bf61aa78730620adc2db82a0caf26ed8d5e276": {
-        "title": "GPT-5.4一周狂赚10亿美元ARR！一句嗨烧掉80刀，效率却飙升32倍",
-        "link": "https://www.qbitai.com/2026/03/388443.html",
-        "published_date": "Tue, 17 Mar 2026 06:07:00 GMT",
-        "first_seen": "2026-03-17T08:48:09.201826"
-      },
       "0e8cc508c6331a508fd082e70bff35cdd8561d336cdeb8943521764febbf101e": {
         "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
         "link": "https://www.qbitai.com/2026/03/388720.html",
@@ -6305,13 +6287,31 @@
         "link": "https://www.qbitai.com/2026/04/401553.html",
         "published_date": "Thu, 16 Apr 2026 03:16:00 GMT",
         "first_seen": "2026-04-16T06:58:07.019834"
+      },
+      "18fa18ffdfe679aa8287b30a4581405aeec993b74d3c987cdaaa4a7b1bb1743d": {
+        "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
+        "link": "https://www.qbitai.com/2026/04/401719.html",
+        "published_date": "Thu, 16 Apr 2026 08:25:00 GMT",
+        "first_seen": "2026-04-16T09:16:51.665326"
+      },
+      "d765e4cb91c2a100a3ff52934560f2b45e7856059a871ab3b75e8fa22d13c1d9": {
+        "title": "它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投",
+        "link": "https://www.qbitai.com/2026/04/401714.html",
+        "published_date": "Thu, 16 Apr 2026 07:38:00 GMT",
+        "first_seen": "2026-04-16T09:16:51.665333"
+      },
+      "81f65d5ff17a032fb3c87a8ff97421069abae697babdb3eb682e2dcd7a01dc32": {
+        "title": "2026-04-16日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-16/",
+        "published_date": "Thu, 16 Apr 2026 10:14:00 GMT",
+        "first_seen": "2026-04-16T09:16:51.665335"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-16T06:58:32.991374",
-    "Finance": "2026-04-16T06:57:53.255988",
-    "Ai": "2026-04-16T06:58:07.019837"
+    "Technology": "2026-04-16T09:17:17.228840",
+    "Finance": "2026-04-16T09:16:51.514448",
+    "Ai": "2026-04-16T09:16:51.665337"
   }
 }
