@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "219388b08396010b10bcb128c7744d32c6a1ea810650619d2c108d6dc831cfc8": {
-        "title": "估值1200亿后Kimi 再扔王牌，新架构爆改 Transformer 老配件，比 DeepSeek 同款还省钱",
-        "link": "https://www.infoq.cn/article/lOhlt6d7hSfigIopjx9L?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-17T23:29:49.719116"
-      },
-      "d2c7e0a81dda0f7e8d44ac9019ec1c2d0c5b99ed53b910ce58cf1aa0e430a8ee": {
-        "title": "Moltbook 新规太狠了：Agent闯祸全算人类头上，免责条款拉满！",
-        "link": "https://www.infoq.cn/article/KddlCtYXelOyzM6wIVxm?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 17 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-17T23:29:49.719126"
-      },
-      "28d97efc9cf80ac373c6d2dad1864c4f38c63023c60416cfa39a3cb9c95b77eb": {
-        "title": "阿里抛出“悟空”，B端AI之争告别“养龙虾”竞赛",
-        "link": "https://www.tmtpost.com/7917661.html",
-        "published_date": "Tue, 17 Mar 2026 18:53:00 GMT",
-        "first_seen": "2026-03-17T23:29:49.719129"
-      },
-      "9e160585b9ec1a230261fb4e2f46230b713bdddcb3b942bf1ea5ab2e925c148f": {
-        "title": "雷诺futuREady战略背后：欧洲车企开始接受新规则",
-        "link": "https://www.tmtpost.com/7918444.html",
-        "published_date": "Tue, 17 Mar 2026 23:20:00 GMT",
-        "first_seen": "2026-03-17T23:29:49.719131"
-      },
-      "928c192efce1c0ff554bb66067979b2264f19a0c45b4f4f77879c46f7ee75b91": {
-        "title": "20%员工或被裁、1.6万人离开：Meta酝酿史上最大规模裁员",
-        "link": "https://www.tmtpost.com/7917530.html",
-        "published_date": "Tue, 17 Mar 2026 15:15:00 GMT",
-        "first_seen": "2026-03-17T23:29:49.719133"
-      },
       "be83254d817c9fd4cebc309e9b4dc3b378bee161c7fc6d9cf27673942ebb5f77": {
         "title": "英伟达出手，SRAM重回C位",
         "link": "https://www.tmtpost.com/7918304.html",
@@ -2671,39 +2641,39 @@
         "link": "https://www.tmtpost.com/7955428.html",
         "published_date": "Thu, 16 Apr 2026 12:38:00 GMT",
         "first_seen": "2026-04-16T09:17:17.228838"
+      },
+      "4c905fc69a90d3f2647cd75e9f7851fe753b756fac7e8f504a5dd5c474b6fd0c": {
+        "title": "与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟",
+        "link": "https://www.tmtpost.com/7956626.html",
+        "published_date": "Thu, 16 Apr 2026 22:37:00 GMT",
+        "first_seen": "2026-04-16T23:40:21.147848"
+      },
+      "3146e18cc1370969c43e4ab7d157f897079d1a740d8ad228ee0f6fd84af694d5": {
+        "title": "黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达",
+        "link": "https://www.tmtpost.com/7955519.html",
+        "published_date": "Thu, 16 Apr 2026 16:19:00 GMT",
+        "first_seen": "2026-04-16T23:40:21.147854"
+      },
+      "7b390bd688749b794fcfbbbb7dcd075b7b0e67a8054e3b606e4b55be9de99bbd": {
+        "title": "台积电：AI 界 “真霸主”，谁能撼动？",
+        "link": "https://www.tmtpost.com/7956315.html",
+        "published_date": "Thu, 16 Apr 2026 18:59:00 GMT",
+        "first_seen": "2026-04-16T23:40:21.147856"
+      },
+      "d7c0c22900f44a8f79d807f57c16d2f9458a3e38a0a6d5c3ec655e6c4eff360a": {
+        "title": "从超算到超智融合，中科曙光6万卡集群重构算力产业格局",
+        "link": "https://www.tmtpost.com/7956398.html",
+        "published_date": "Thu, 16 Apr 2026 19:32:00 GMT",
+        "first_seen": "2026-04-16T23:40:21.147858"
+      },
+      "3a7f11fb0e8d42e093a9b3c8b10eafbd93634c32f8e48cc6ef05b5f263d8b108": {
+        "title": "世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背",
+        "link": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 16 Apr 2026 16:42:00 GMT",
+        "first_seen": "2026-04-16T23:40:21.147860"
       }
     },
     "Finance": {
-      "7d8e07682a4dcec0da78f92be3599e5cffb7ca6353eafc3501f449044814c952": {
-        "title": "The era of US dominance in economic warfare is over",
-        "link": "https://www.ft.com/content/ae458591-5941-45f1-bf7b-7110bc35eb88",
-        "published_date": "Tue, 17 Mar 2026 15:22:00 GMT",
-        "first_seen": "2026-03-17T23:30:07.213377"
-      },
-      "46233f40b6c9861b787dcc82428066d97d94709d5deef4db5da0e1246fb0971c": {
-        "title": "Nvidia restarts manufacturing of AI chips for China",
-        "link": "https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f",
-        "published_date": "Tue, 17 Mar 2026 20:38:00 GMT",
-        "first_seen": "2026-03-17T23:30:07.213384"
-      },
-      "6acda4c032dd5695006ab365883355de8ae39812a3c0ca099c1216965523fd8b": {
-        "title": "3 signals will reveal if the Iran oil shock is just a blip — or the new normal",
-        "link": "https://www.marketwatch.com/story/3-signals-that-reveal-if-the-iran-oil-shock-is-just-a-blip-or-the-new-normal-3202c511?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Mar 2026 21:07:00 GMT",
-        "first_seen": "2026-03-17T23:30:07.213386"
-      },
-      "6b57672618276e06fc7236dc5d948c451b73bff5e004e63c1ad2b8b0a1aa004c": {
-        "title": "Nebius’s stock falls as investors get a wake-up call on the cost of competing in AI",
-        "link": "https://www.marketwatch.com/story/nebiuss-stock-falls-on-a-bond-offering-heres-why-investors-are-sobering-up-b3392d06?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Mar 2026 22:29:00 GMT",
-        "first_seen": "2026-03-17T23:30:07.213387"
-      },
-      "f58d9595a170a8bff985cbac7d0e8eb00c84c18534f0aa61e644024d05f273be": {
-        "title": "Lilly gets rare downgrade as analysts question hype over GLP-1 pills and Zepbound’s cash sales",
-        "link": "https://www.marketwatch.com/story/lilly-gets-rare-downgrade-as-analysts-question-hype-over-glp-1-pills-and-zepbounds-cash-sales-60b231f4?mod=mw_rss_topstories",
-        "published_date": "Tue, 17 Mar 2026 22:27:00 GMT",
-        "first_seen": "2026-03-17T23:30:07.213389"
-      },
       "3d8f4bd1767d234a79fd1825c6edf2b0e301bf863e4e2cca88a8ff1c8d79953f": {
         "title": "Oil price surge will hurt US growth and fuel inflation, say economists",
         "link": "https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346",
@@ -4815,39 +4785,39 @@
         "link": "https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc",
         "published_date": "Thu, 16 Apr 2026 07:03:00 GMT",
         "first_seen": "2026-04-16T09:16:51.514446"
+      },
+      "687b32fda1da01cf11f5c8e9d409217289d089bdd5391e3ffad38f1310adcfcf": {
+        "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses",
+        "link": "https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 20:39:00 GMT",
+        "first_seen": "2026-04-16T23:39:17.843862"
+      },
+      "22b37d40ec2f706c54dd0c9a64f2b841d85a13a9193d74eaf056b1c6127682dd": {
+        "title": "This ‘hidden’ price of oil is at record highs — and it’ll hit your electric bill next",
+        "link": "https://www.marketwatch.com/story/this-hidden-oil-price-is-ripping-the-hull-out-of-the-global-economy-89ff8e54?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 20:40:00 GMT",
+        "first_seen": "2026-04-16T23:39:17.843870"
+      },
+      "24777ea7f362a07e87b8921139d8a9bd1bbce9d877645ea5032358bc2ce715f9": {
+        "title": "The Mythos cyber scare signals the economics of AI scarcity",
+        "link": "https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f",
+        "published_date": "Thu, 16 Apr 2026 17:05:00 GMT",
+        "first_seen": "2026-04-16T23:39:17.843873"
+      },
+      "164bd09145845c43058a13b23516c3b517bf6541ceb455b6ef63444ee5b15700": {
+        "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say",
+        "link": "https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-16T23:39:17.843875"
+      },
+      "ca7cda8ae5a39f5e3e8317036bddd0901cb77e9fa6cedfb297869f8a7d63facc": {
+        "title": "Tesla, IBM and Intel report earnings next week — here’s the best way to play a volatile market",
+        "link": "https://www.marketwatch.com/story/the-s-p-500s-record-high-may-be-an-illusion-and-this-rally-is-a-warning-893b81e5?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Apr 2026 21:26:00 GMT",
+        "first_seen": "2026-04-16T23:39:17.843876"
       }
     },
     "Ai": {
-      "0e8cc508c6331a508fd082e70bff35cdd8561d336cdeb8943521764febbf101e": {
-        "title": "黄仁勋：龙虾就是新操作系统！英伟达7种芯片拼出算力怪兽，放话2027营收万亿美元",
-        "link": "https://www.qbitai.com/2026/03/388720.html",
-        "published_date": "Tue, 17 Mar 2026 13:08:00 GMT",
-        "first_seen": "2026-03-17T23:30:19.430169"
-      },
-      "2dde70462a00e0f585b5d406152c6ed94656e13af907d60d0841d107a94dc08b": {
-        "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
-        "link": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/",
-        "published_date": "Tue, 17 Mar 2026 19:47:00 GMT",
-        "first_seen": "2026-03-17T23:30:19.430175"
-      },
-      "918b882243eb39a5241556312e7b8f42cd5d7312e1a08fdae94a14b9a535dac5": {
-        "title": "达卯科技与云南电力技术，助力云南“绿电+智算”融合发展",
-        "link": "https://www.qbitai.com/2026/03/388668.html",
-        "published_date": "Tue, 17 Mar 2026 11:55:00 GMT",
-        "first_seen": "2026-03-17T23:30:19.430177"
-      },
-      "c0f0f0812a8c8a42b45dd9a1b64c5c06e142a84edf8e0d9ee9b9742e8e62b52b": {
-        "title": "Improving breast cancer screening workflows with machine learning",
-        "link": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/",
-        "published_date": "Tue, 17 Mar 2026 16:57:00 GMT",
-        "first_seen": "2026-03-17T23:30:19.430179"
-      },
-      "9cbfbcf645cb9437dc4bc7073b23423d1475c491a58d93865474cf74cd5bef62": {
-        "title": "从“打到车”到“打到对的车”：AI小滴打开服务消费新空间",
-        "link": "https://www.qbitai.com/2026/03/388608.html",
-        "published_date": "Tue, 17 Mar 2026 11:02:00 GMT",
-        "first_seen": "2026-03-17T23:30:19.430181"
-      },
       "3bb15ab756fe4cd0427e466b00f095db1cfef84a938e19d68f877181a67a809f": {
         "title": "2026-03-18日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-18/",
@@ -6305,13 +6275,43 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-16/",
         "published_date": "Thu, 16 Apr 2026 10:14:00 GMT",
         "first_seen": "2026-04-16T09:16:51.665335"
+      },
+      "6ce3141e70340c0514f6003f0924a13ffcfddd9131eb43293bac66e0e5058020": {
+        "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+        "link": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
+        "published_date": "Thu, 16 Apr 2026 14:41:00 GMT",
+        "first_seen": "2026-04-16T23:39:32.274395"
+      },
+      "4d2a2ec8b26876724690510217d85f1ffd936c9a82469fe44da822d0698ca7a1": {
+        "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
+        "link": "https://www.qbitai.com/2026/04/402063.html",
+        "published_date": "Thu, 16 Apr 2026 12:51:00 GMT",
+        "first_seen": "2026-04-16T23:39:32.274401"
+      },
+      "beece13820f42d885b2b5bbbbc9a7b50545550b9c256ad8d80a26ddec7fff947": {
+        "title": "AI-generated synthetic neurons speed up brain mapping",
+        "link": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/",
+        "published_date": "Thu, 16 Apr 2026 12:18:00 GMT",
+        "first_seen": "2026-04-16T23:39:32.274404"
+      },
+      "5c23ab114199e5f631922a61d148a57f473b7fceeac673f374c0854bf6bf350d": {
+        "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
+        "link": "https://www.qbitai.com/2026/04/401743.html",
+        "published_date": "Thu, 16 Apr 2026 12:33:00 GMT",
+        "first_seen": "2026-04-16T23:39:32.274405"
+      },
+      "aaeef43934c2bb011b9c924b6e5e8276a85bc0fff775b11f0262f88d9305c895": {
+        "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
+        "link": "https://www.qbitai.com/2026/04/401741.html",
+        "published_date": "Thu, 16 Apr 2026 13:04:00 GMT",
+        "first_seen": "2026-04-16T23:39:32.274407"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-16T09:17:17.228840",
-    "Finance": "2026-04-16T09:16:51.514448",
-    "Ai": "2026-04-16T09:16:51.665337"
+    "Technology": "2026-04-16T23:40:21.147862",
+    "Finance": "2026-04-16T23:39:17.843878",
+    "Ai": "2026-04-16T23:39:32.274409"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Apr 2026 09:16:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 09:17:17 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2026 23:38:00 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:40:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“猎头”张文之后：壁仞科技更需要“技术”张文？</title>
-      <link>https://www.tmtpost.com/7955633.html</link>
-      <description>&lt;![CDATA[“猎头”张文之后：壁仞科技更需要“技术”张文？]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955633.html</guid>
+      <title>与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟</title>
+      <link>https://www.tmtpost.com/7956626.html</link>
+      <description>&lt;![CDATA[与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 22:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956626.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>挑战闭源格局！腾讯混元3D 2.0开源发布，性能对标商业级模型</title>
-      <link>https://www.tmtpost.com/7955800.html</link>
-      <description>&lt;![CDATA[挑战闭源格局！腾讯混元3D 2.0开源发布，性能对标商业级模型]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955800.html</guid>
+      <title>黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达</title>
+      <link>https://www.tmtpost.com/7955519.html</link>
+      <description>&lt;![CDATA[黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7955519.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>暖哇科技二次冲港股，“保险AI第一股”成色几何？</title>
-      <link>https://www.tmtpost.com/7955666.html</link>
-      <description>&lt;![CDATA[暖哇科技二次冲港股，“保险AI第一股”成色几何？]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955666.html</guid>
+      <title>台积电：AI 界 “真霸主”，谁能撼动？</title>
+      <link>https://www.tmtpost.com/7956315.html</link>
+      <description>&lt;![CDATA[台积电：AI 界 “真霸主”，谁能撼动？]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956315.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md</title>
-      <link>https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从超算到超智融合，中科曙光6万卡集群重构算力产业格局</title>
+      <link>https://www.tmtpost.com/7956398.html</link>
+      <description>&lt;![CDATA[从超算到超智融合，中科曙光6万卡集群重构算力产业格局]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 19:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7956398.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude变蠢了，新模型发布前的黑暗时刻？</title>
-      <link>https://www.tmtpost.com/7955428.html</link>
-      <description>&lt;![CDATA[Claude变蠢了，新模型发布前的黑暗时刻？]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 12:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955428.html</guid>
+      <title>世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背</title>
+      <link>https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背]]&gt;</description>
+      <pubDate>Thu, 16 Apr 2026 16:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
