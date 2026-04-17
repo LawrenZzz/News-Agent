@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Apr 2026 23:38:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2026 23:40:21 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Apr 2026 13:03:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:05:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟</title>
-      <link>https://www.tmtpost.com/7956626.html</link>
-      <description>&lt;![CDATA[与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 22:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956626.html</guid>
+      <title>瑞士医疗科技公司Clee Medical研发面向脑外科的实时术中成像与导航设备，提升手术精准度</title>
+      <link>https://www.tmtpost.com/7957345.html</link>
+      <description>&lt;![CDATA[瑞士医疗科技公司Clee Medical研发面向脑外科的实时术中成像与导航设备，提升手术精准度]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957345.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达</title>
-      <link>https://www.tmtpost.com/7955519.html</link>
-      <description>&lt;![CDATA[黄仁勋最新访谈实录：输入电子，输出Token，中间就是英伟达]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7955519.html</guid>
+      <title>智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>台积电：AI 界 “真霸主”，谁能撼动？</title>
-      <link>https://www.tmtpost.com/7956315.html</link>
-      <description>&lt;![CDATA[台积电：AI 界 “真霸主”，谁能撼动？]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956315.html</guid>
+      <title>“杭州六小龙”第一股、空间智能与AI的下一步：对话群核科技创始人黄晓煌</title>
+      <link>https://www.tmtpost.com/7957342.html</link>
+      <description>&lt;![CDATA[“杭州六小龙”第一股、空间智能与AI的下一步：对话群核科技创始人黄晓煌]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957342.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从超算到超智融合，中科曙光6万卡集群重构算力产业格局</title>
-      <link>https://www.tmtpost.com/7956398.html</link>
-      <description>&lt;![CDATA[从超算到超智融合，中科曙光6万卡集群重构算力产业格局]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 19:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956398.html</guid>
+      <title>海底捞杨利娟执掌红石榴计划；若羽臣3亿元收购高端护肤品牌Erno Laszlo奥伦纳素；茉莉奶白推出首款咖啡系列产品｜消研所周报</title>
+      <link>https://www.tmtpost.com/7957436.html</link>
+      <description>&lt;![CDATA[海底捞杨利娟执掌红石榴计划；若羽臣3亿元收购高端护肤品牌Erno Laszlo奥伦纳素；茉莉奶白推出首款咖啡系列产品｜消研所周报]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7957436.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背</title>
-      <link>https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[世界变了、Linus妥协了？AI代码可以进Linux内核，但出了事人来背]]&gt;</description>
-      <pubDate>Thu, 16 Apr 2026 16:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&amp;utm_medium=article</guid>
+      <title>借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Fri, 17 Apr 2026 19:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

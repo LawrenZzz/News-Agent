@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "be83254d817c9fd4cebc309e9b4dc3b378bee161c7fc6d9cf27673942ebb5f77": {
-        "title": "英伟达出手，SRAM重回C位",
-        "link": "https://www.tmtpost.com/7918304.html",
-        "published_date": "Wed, 18 Mar 2026 13:09:00 GMT",
-        "first_seen": "2026-03-18T06:02:42.462100"
-      },
-      "963e87372a1a798e37e768fc312b7ca6ee972ca20d49412e39981addefc0a89d": {
-        "title": "黄仁勋2万字演讲，所有人都看漏了同一件事",
-        "link": "https://www.tmtpost.com/7918542.html",
-        "published_date": "Wed, 18 Mar 2026 09:08:00 GMT",
-        "first_seen": "2026-03-18T06:02:42.462111"
-      },
-      "62e57b9cc822aa7040b21b9c73908e2f2902a3d649d188efdd94b6cba8e0a8c3": {
-        "title": "阿里ATH事业群首秀，“悟空”剑指B端AI万亿市场",
-        "link": "https://www.tmtpost.com/7918442.html",
-        "published_date": "Wed, 18 Mar 2026 09:49:00 GMT",
-        "first_seen": "2026-03-18T06:02:42.462114"
-      },
-      "92d61f4f2c8451d6d721461bc943422729e9f258bcd792d4c2d67568d326d558": {
-        "title": "工业级 LLM 数据工程：北京大学 DCAI 团队 DataFlow 框架的架构设计与实践",
-        "link": "https://www.infoq.cn/article/PBAKK1ra3Ymvy1w7eY0b?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Mar 2026 11:32:00 GMT",
-        "first_seen": "2026-03-18T06:02:42.462116"
-      },
-      "051f32edf481845094a0115698be817d9125decc1602a6496299ce611e4dad83": {
-        "title": "Agent 记忆系统在 eBay 支付风控团队的探索与实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/hcWge7FHKmRMBN2NVyD5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Mar 2026 10:04:00 GMT",
-        "first_seen": "2026-03-18T06:02:42.462118"
-      },
-      "d945b5a745843c33aeff1aa021461479ea4a1dfdcb6a54b17a4c35390a49e598": {
-        "title": "杨植麟 GTC 2026 演讲：首次完整披露 Kimi 技术路线图",
-        "link": "https://www.tmtpost.com/7919219.html",
-        "published_date": "Wed, 18 Mar 2026 16:43:00 GMT",
-        "first_seen": "2026-03-18T08:44:17.708757"
-      },
-      "dba49b16c97faf7ff74a715bd8b5a906af13906ce74694bc90cfb2dbf7386085": {
-        "title": "黄仁勋的“万亿美元赌注”与AI革命",
-        "link": "https://www.tmtpost.com/7918785.html",
-        "published_date": "Wed, 18 Mar 2026 16:03:00 GMT",
-        "first_seen": "2026-03-18T08:44:17.708769"
-      },
-      "1363191ee229a7575f22cac5c8a4aa80b2113c8c4ed0c9482d342d30f9e72a18": {
-        "title": "算力军备竞赛升级：从Meta的270亿美金到阿里的Token事业群",
-        "link": "https://www.tmtpost.com/7918323.html",
-        "published_date": "Wed, 18 Mar 2026 13:59:00 GMT",
-        "first_seen": "2026-03-18T08:44:17.708772"
-      },
-      "4d61e7fabc4df98695d066c354add5a2a32f4020f31a67d3dfab1348aa2b3dd2": {
-        "title": "重塑 AI Agent 架构：摒弃“上帝 Prompt”，基于状态驱动与多智能体协作的复杂旅游规划实践",
-        "link": "https://www.infoq.cn/article/w6m9EaDRFLWd4YdCmIM4?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Mar 2026 14:19:00 GMT",
-        "first_seen": "2026-03-18T08:44:17.708774"
-      },
-      "157689e33af305bdfaef1c8788053ae4706e7626891f4b5639e8b5bff4cea57f": {
-        "title": "别追AGI了，这波AI浪潮的核心是流程革命",
-        "link": "https://www.tmtpost.com/7918802.html",
-        "published_date": "Wed, 18 Mar 2026 16:03:00 GMT",
-        "first_seen": "2026-03-18T08:44:17.708776"
-      },
       "4bc81bd39e3ee2cc7ca1187027ff2c9f444e3755fc06dbabf85b48eb42baa5c6": {
         "title": "微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点",
         "link": "https://www.tmtpost.com/7919963.html",
@@ -2671,45 +2611,39 @@
         "link": "https://www.infoq.cn/article/h4WPj7MeydhFDpsOqyCl?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 16 Apr 2026 16:42:00 GMT",
         "first_seen": "2026-04-16T23:40:21.147860"
+      },
+      "882d1a9b8c7cf1a4e3092a3fdd1bc5af85f7890266651f570a666bc8bc93b661": {
+        "title": "瑞士医疗科技公司Clee Medical研发面向脑外科的实时术中成像与导航设备，提升手术精准度",
+        "link": "https://www.tmtpost.com/7957345.html",
+        "published_date": "Fri, 17 Apr 2026 19:23:00 GMT",
+        "first_seen": "2026-04-17T13:05:35.244189"
+      },
+      "5904954e0a7250a04ae942665230c91573cc28fba9e90afb0b99d949ae14f330": {
+        "title": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 19:20:00 GMT",
+        "first_seen": "2026-04-17T13:05:35.244199"
+      },
+      "1a19081d4e995705fc6483ed4ac4cbe366d4794c52e306ccb0b6cd953781fc16": {
+        "title": "“杭州六小龙”第一股、空间智能与AI的下一步：对话群核科技创始人黄晓煌",
+        "link": "https://www.tmtpost.com/7957342.html",
+        "published_date": "Fri, 17 Apr 2026 19:23:00 GMT",
+        "first_seen": "2026-04-17T13:05:35.244202"
+      },
+      "c9ed05711e860dd4856c2b45d53be8ae62d54eb24348ad0e618a7b7b1c8451ce": {
+        "title": "海底捞杨利娟执掌红石榴计划；若羽臣3亿元收购高端护肤品牌Erno Laszlo奥伦纳素；茉莉奶白推出首款咖啡系列产品｜消研所周报",
+        "link": "https://www.tmtpost.com/7957436.html",
+        "published_date": "Fri, 17 Apr 2026 18:22:00 GMT",
+        "first_seen": "2026-04-17T13:05:35.244204"
+      },
+      "b763d5f8e6911a1722459a153bbb658c831e435bde75eb8e8373d2cf32740050": {
+        "title": "借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 19:59:00 GMT",
+        "first_seen": "2026-04-17T13:05:35.244206"
       }
     },
     "Finance": {
-      "3d8f4bd1767d234a79fd1825c6edf2b0e301bf863e4e2cca88a8ff1c8d79953f": {
-        "title": "Oil price surge will hurt US growth and fuel inflation, say economists",
-        "link": "https://www.ft.com/content/d4c3f857-eb50-47c5-a109-050a8c2f2346",
-        "published_date": "Wed, 18 Mar 2026 01:32:00 GMT",
-        "first_seen": "2026-03-18T06:02:57.851600"
-      },
-      "6443ea21cd01fea58918d48e8245895316054bef9178164e9996bbe746e1991c": {
-        "title": "Iran conflict turns shipping market into ‘wild west’",
-        "link": "https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2",
-        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-18T06:02:57.851607"
-      },
-      "450855d6bb79d8cf56b965db1c8b56a762a533f9a1f6f07183f8f325a69bdf20": {
-        "title": "Iran still seen capable of escalating attacks on Gulf’s energy",
-        "link": "https://www.ft.com/content/69226210-a489-45aa-9993-32ed5359fe18",
-        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-18T06:02:57.851610"
-      },
-      "ba35d8e6661cffe41ba5333d005083af9c90d741c671c5c6fbb35baa9c023092": {
-        "title": "UK price gap between first-time properties and bigger homes at record high",
-        "link": "https://www.ft.com/content/d2c3ea11-a462-47ea-aed4-825e9ba55d87",
-        "published_date": "Wed, 18 Mar 2026 00:01:00 GMT",
-        "first_seen": "2026-03-18T06:02:57.851611"
-      },
-      "e79b6c78b3b38c62f8e22958c20299886c667c59bfb3cc27efc204cf63bd3cdb": {
-        "title": "The sum of all fears for Lebanon",
-        "link": "https://www.ft.com/content/9ef95667-0a78-4fcc-b1f1-3e4bdaf25c73",
-        "published_date": "Wed, 18 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-18T06:02:57.851613"
-      },
-      "f1aa1316d10e526ed59abce684150fe7124fef0a0b387e4e132ff759f9cfa649": {
-        "title": "Rayner warns Starmer his government is ‘running out of time’",
-        "link": "https://www.ft.com/content/b614c368-dda0-4623-8bcd-8f7762803d9d",
-        "published_date": "Wed, 18 Mar 2026 07:49:00 GMT",
-        "first_seen": "2026-03-18T08:44:17.743066"
-      },
       "470d240f495ed894e6174b6266f0970871c502788bc6f072bbaac26893ea5b2b": {
         "title": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market",
         "link": "https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories",
@@ -4815,33 +4749,39 @@
         "link": "https://www.marketwatch.com/story/the-s-p-500s-record-high-may-be-an-illusion-and-this-rally-is-a-warning-893b81e5?mod=mw_rss_topstories",
         "published_date": "Thu, 16 Apr 2026 21:26:00 GMT",
         "first_seen": "2026-04-16T23:39:17.843876"
+      },
+      "858af6b44b576a3bc0716c131b49e528c54a9b5469ba21fea51cae92ad4e88c6": {
+        "title": "Even OpenAi’s top economist thinks the AI job apocalypse is overstated. Here’s why.",
+        "link": "https://www.marketwatch.com/story/even-openais-top-economist-thinks-the-ai-job-apocalypse-is-overstated-heres-why-7e920e7a?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 12:58:00 GMT",
+        "first_seen": "2026-04-17T13:04:01.111483"
+      },
+      "1d497d3c1cc84242bd2aaaf1c39ea1821258022563a3fd057c5b2bc5b77b2cf6": {
+        "title": "Lilly’s new GLP-1 pill is off to a ‘robust’ start",
+        "link": "https://www.marketwatch.com/story/lillys-new-glp-1-pill-is-off-to-a-robust-start-b81cfd02?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 12:28:00 GMT",
+        "first_seen": "2026-04-17T13:04:01.111494"
+      },
+      "6bd3ca593775132e1e9bb06fc6ea58ab7b8adebeb6aa5eb8fc8fac19283be07a": {
+        "title": "Think the rally is safe? This elite market-timing indicator says a correction is overdue.",
+        "link": "https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 12:05:00 GMT",
+        "first_seen": "2026-04-17T13:04:01.111497"
+      },
+      "f2d358dc50e7106b113b3cca094099c3cf626e1b6346590172fe435aa2c0d442": {
+        "title": "Signs point to a solid earnings season — and with the S&P 500 topping 7,000, you should believe them",
+        "link": "https://www.marketwatch.com/story/signs-point-to-a-solid-earnings-season-and-with-the-s-p-500-topping-7-000-you-should-believe-them-69cddf67?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 11:55:00 GMT",
+        "first_seen": "2026-04-17T13:04:01.111500"
+      },
+      "500257bb3064f389874ccb748f72590a4aad2c4efe8d5fc3099fc1f4ec51f5d3": {
+        "title": "Oil prices dropping after Trump says Iran war should end ‘pretty soon’",
+        "link": "https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 10:06:00 GMT",
+        "first_seen": "2026-04-17T13:04:01.111502"
       }
     },
     "Ai": {
-      "3bb15ab756fe4cd0427e466b00f095db1cfef84a938e19d68f877181a67a809f": {
-        "title": "2026-03-18日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-18/",
-        "published_date": "Wed, 18 Mar 2026 09:30:00 GMT",
-        "first_seen": "2026-03-18T06:02:58.010714"
-      },
-      "c7d533375e05294fe390606aa55056f708e42880842d05c9e09c361b390a42d4": {
-        "title": "小牛电动举办2026科技新品发布会，开启“造AI好车”新十年",
-        "link": "https://www.qbitai.com/2026/03/388959.html",
-        "published_date": "Wed, 18 Mar 2026 02:45:00 GMT",
-        "first_seen": "2026-03-18T06:02:58.010722"
-      },
-      "229eb71cc9008e19272954700f69c6559dcd3f6c478b8111cc89b1a03e7a9ac9": {
-        "title": "阿里“悟空”上线！钉钉给企业送来龙虾大军",
-        "link": "https://www.qbitai.com/2026/03/388845.html",
-        "published_date": "Wed, 18 Mar 2026 01:53:00 GMT",
-        "first_seen": "2026-03-18T06:02:58.010725"
-      },
-      "a153142c2199163cc0fc427a92c554757af8ded72b309f534677891a2cb6595a": {
-        "title": "英伟达最强B200算力浪费60%！普林斯顿团队出手，利用率升至71%",
-        "link": "https://www.qbitai.com/2026/03/388815.html",
-        "published_date": "Wed, 18 Mar 2026 00:31:00 GMT",
-        "first_seen": "2026-03-18T06:02:58.010726"
-      },
       "177a828e7c7c91246e2d092ffd284931cbae5906a04c65170ba62ce2d3505f40": {
         "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
         "link": "https://www.qbitai.com/2026/03/389024.html",
@@ -6305,13 +6245,43 @@
         "link": "https://www.qbitai.com/2026/04/401741.html",
         "published_date": "Thu, 16 Apr 2026 13:04:00 GMT",
         "first_seen": "2026-04-16T23:39:32.274407"
+      },
+      "b3bdb6f1c1b2e7c2e940ee82732aeb57082a12f8b0a07b18d7a28426067a74c7": {
+        "title": "2026-04-17日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-17/",
+        "published_date": "Fri, 17 Apr 2026 09:55:00 GMT",
+        "first_seen": "2026-04-17T13:04:46.398217"
+      },
+      "67c7c8ec1c311b3e32c2c2a53e5ab9d7b33232469f62b839f650ab091ba71f8b": {
+        "title": "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
+        "link": "https://www.qbitai.com/2026/04/402440.html",
+        "published_date": "Fri, 17 Apr 2026 08:24:00 GMT",
+        "first_seen": "2026-04-17T13:04:46.398226"
+      },
+      "61a26749bbf53745a81eb315a1bcceffda64ba057dc23436231cb09535c32222": {
+        "title": "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑",
+        "link": "https://www.qbitai.com/2026/04/402388.html",
+        "published_date": "Fri, 17 Apr 2026 07:37:00 GMT",
+        "first_seen": "2026-04-17T13:04:46.398229"
+      },
+      "58c5326f753d6a9736f4a0f11068ced704b937a40849afc16b88ff4da4ca1874": {
+        "title": "谷歌最强具身大脑发布！波士顿机器狗瞬间人模人样",
+        "link": "https://www.qbitai.com/2026/04/402329.html",
+        "published_date": "Fri, 17 Apr 2026 07:08:00 GMT",
+        "first_seen": "2026-04-17T13:04:46.398231"
+      },
+      "a997eef355a455940e6b811c0a3496519fafab76f27211214ddb46a15b93fc49": {
+        "title": "π0.7发布，VLA押出了机器人的GPT-3时刻",
+        "link": "https://www.qbitai.com/2026/04/402189.html",
+        "published_date": "Fri, 17 Apr 2026 06:57:00 GMT",
+        "first_seen": "2026-04-17T13:04:46.398233"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-16T23:40:21.147862",
-    "Finance": "2026-04-16T23:39:17.843878",
-    "Ai": "2026-04-16T23:39:32.274409"
+    "Technology": "2026-04-17T13:05:35.244208",
+    "Finance": "2026-04-17T13:04:01.111504",
+    "Ai": "2026-04-17T13:04:46.398236"
   }
 }

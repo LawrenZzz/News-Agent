@@ -1,7 +1,120 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 23:38
+**最后更新时间**: 2026-04-17 13:03
+
+---
+
+## 🆕 最新更新 (2026-04-17 13:03)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [亚马逊GWD正式开放，货代公司的天真的要变了？｜ 出海参考](https://www.tmtpost.com/7957639.html)
+**发布时间**: 2026-04-17 20:03
+
+#### [用不起Token的我，成了AI时代的下沉市场人群](https://www.tmtpost.com/7957564.html)
+**发布时间**: 2026-04-17 19:51
+
+#### [AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局](https://www.tmtpost.com/7957423.html)
+**发布时间**: 2026-04-17 19:50
+
+#### [海信与格力“线上狂怼”背后，空调的“黄金时代”一去不返](https://www.tmtpost.com/7957552.html)
+**发布时间**: 2026-04-17 19:25
+
+#### [张一鸣，信达雅](https://www.tmtpost.com/7956710.html)
+**发布时间**: 2026-04-17 19:24
+
+#### [瑞士医疗科技公司Clee Medical研发面向脑外科的实时术中成像与导航设备，提升手术精准度](https://www.tmtpost.com/7957345.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [“杭州六小龙”第一股、空间智能与AI的下一步：对话群核科技创始人黄晓煌](https://www.tmtpost.com/7957342.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [48小时，高瓴送三家公司去IPO](https://www.tmtpost.com/7957300.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [Sora折戟，即梦涨价，阿里入局：AI视频的下半场怎么打？](https://www.tmtpost.com/7956456.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [AI会投资吗？](https://www.tmtpost.com/7957431.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [美伊战争让二手电车卖爆了](https://www.tmtpost.com/7957556.html)
+**发布时间**: 2026-04-17 19:23
+
+#### [认知觉醒，品牌向上——2026（第四届）CGO品牌增长峰会圆满举行](https://www.tmtpost.com/7957022.html)
+**发布时间**: 2026-04-17 19:09
+
+#### [具身智能"部署态元年"来了，智元内部研判：具身"GPT-3 "进度条已拉升至 30%](https://www.tmtpost.com/7957537.html)
+**发布时间**: 2026-04-17 18:55
+
+#### [海底捞杨利娟执掌红石榴计划；若羽臣3亿元收购高端护肤品牌Erno Laszlo奥伦纳素；茉莉奶白推出首款咖啡系列产品｜消研所周报](https://www.tmtpost.com/7957436.html)
+**发布时间**: 2026-04-17 18:22
+
+#### [不跳舞、不打拳、也不拧螺丝，陈震和他的机器人扎进后厨炸鸡块](https://www.tmtpost.com/7957184.html)
+**发布时间**: 2026-04-17 17:25
+
+#### [阿里1000亿美元赌局：一匹“小马”能否撬动大局](https://www.tmtpost.com/7957236.html)
+**发布时间**: 2026-04-17 16:27
+
+#### [1.6亿老人，困在手机里？](https://www.tmtpost.com/7957163.html)
+**发布时间**: 2026-04-17 16:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [借助 Cortex Code 加速构建：全面开放，轻松应对更复杂任务 ｜ 技术趋势](https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 19:59
+
+#### [试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势](https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 19:35
+
+#### [智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势](https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 19:20
+
+#### [AI 驱动的数据库心脏：如何让云原生「自我进化」](https://www.infoq.cn/article/U4zazqfjWb11OTq7OeP6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 17:27
+
+#### [Karpathy 亲手终结了 RAG 的草莽时代](https://www.infoq.cn/article/5dhOzeriuezQajEPC41Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 17:20
+
+#### [OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核](https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 16:01
+
+#### [星工聚将：从“物理对齐”出发，重新探索具身 AGI 的技术路](https://www.infoq.cn/article/1WMZt5S8lGzM1MkdzR2o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 15:24
+
+#### [Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”](https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 13:00
+
+#### [针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制](https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 11:00
+
+#### [聚焦 Spring Framework 7 与 Spring Boot 4：Spring 团队专访](https://www.infoq.cn/article/z4msV9uzNy7CXYFC4K2J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 10:00
+
+#### [代码通过即拿奖！OpenCloud 40+超热门AI工具等你来贡献](https://xie.infoq.cn/article/4940bd7d8d430c84ad94ca6b4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 18:10
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/108760)
+**发布时间**: 2026-04-17 17:50
+
+#### [TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
+**发布时间**: 2026-04-17 16:22
+
+#### [来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
+**发布时间**: 2026-04-17 11:29
+
+#### [派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
+**发布时间**: 2026-04-17 09:04
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上刚开源的 Skill ，一句话控制你电脑上的软件。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532987&idx=1&sn=28d075abf135fb945972a6b8e8a49b18)
+**发布时间**: 2026-04-17 11:49
+
+#### [在飞书操控你的 Claude Code，这个 GitHub 开源 SKill 好用。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532986&idx=1&sn=d93844d4566df1b9a29ea273078d5151)
+**发布时间**: 2026-04-16 16:06
 
 ---
 

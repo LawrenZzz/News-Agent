@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 23:38
+**最后更新时间**: 2026-04-17 13:03
+
+---
+
+## 🆕 最新更新 (2026-04-17 13:03)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Even OpenAi’s top economist thinks the AI job apocalypse is overstated. Here’s why.](https://www.marketwatch.com/story/even-openais-top-economist-thinks-the-ai-job-apocalypse-is-overstated-heres-why-7e920e7a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 12:58
+
+#### [Lilly’s new GLP-1 pill is off to a ‘robust’ start](https://www.marketwatch.com/story/lillys-new-glp-1-pill-is-off-to-a-robust-start-b81cfd02?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 12:28
+
+#### [Think the rally is safe? This elite market-timing indicator says a correction is overdue.](https://www.marketwatch.com/story/think-the-rally-is-safe-this-elite-market-timing-indicator-says-a-correction-is-overdue-8049c27f?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 12:05
+
+#### [Signs point to a solid earnings season — and with the S&P 500 topping 7,000, you should believe them](https://www.marketwatch.com/story/signs-point-to-a-solid-earnings-season-and-with-the-s-p-500-topping-7-000-you-should-believe-them-69cddf67?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 11:55
+
+#### [The world’s most stable asset is losing its grip — leaving your paycheck and retirement vulnerable to inflation](https://www.marketwatch.com/story/the-worlds-most-stable-asset-is-losing-its-grip-leaving-your-paycheck-and-retirement-vulnerable-to-inflation-9c177b96?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 11:55
+
+#### [These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other.](https://www.marketwatch.com/story/these-two-sectors-have-been-boosted-by-ai-hopes-why-investors-should-buy-one-and-trim-exposure-to-the-other-55f7a34a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 11:00
+
+#### [Oil prices dropping after Trump says Iran war should end ‘pretty soon’](https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 10:06
+
+#### [‘I am the trustee’: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?](https://www.marketwatch.com/story/felony-charges-are-pending-my-mother-set-up-a-trust-for-my-sibling-who-stole-100-000-from-a-bank-can-the-trust-be-seized-ae69dbaf?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 10:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Thousands of Lebanese head home despite warnings](https://www.ft.com/content/e878fae5-447d-4770-83b2-075d03e5202b)
+**发布时间**: 2026-04-17 12:21
+
+#### [The main reason I’ve bought equities again](https://www.ft.com/content/8b98b87e-4c90-41e2-9ee1-7685ec80d990)
+**发布时间**: 2026-04-17 12:00
+
+#### [Richard Desmond loses £1.3bn lawsuit over National Lottery contract](https://www.ft.com/content/f82f1bf3-4a64-4dbd-816d-c0265470ee99)
+**发布时间**: 2026-04-17 11:42
+
+#### [Anthropic’s Dario Amodei: ‘I don’t want AI turned on our own people’](https://www.ft.com/content/9e0e0fc6-ab7d-4b69-a8b1-5a972b82fb06)
+**发布时间**: 2026-04-17 11:30
+
+#### [Olly Robbins’ exit deepens turmoil at Foreign Office](https://www.ft.com/content/c12defbe-6096-439e-8485-96deca5dffbc)
+**发布时间**: 2026-04-17 11:26
+
+#### [Starmer blames ‘unforgivable’ Foreign Office for vetting fiasco](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee)
+**发布时间**: 2026-04-17 10:40
+
+#### [Deutsche Bank alerts regulators to potential Russia sanctions lapses](https://www.ft.com/content/14f5c788-eb64-4033-8df8-ca33174b724e)
+**发布时间**: 2026-04-17 10:15
+
+#### [Mandelson vetting scandal shows Starmer isn’t up to the job](https://www.ft.com/content/9b2d3bb3-b88a-44ff-af6c-ab4702ec03a9)
+**发布时间**: 2026-04-17 08:30
+
+#### [Welcome to the age of hoarding](https://www.ft.com/content/046315f2-d178-41f2-81e7-75fa2d842ada)
+**发布时间**: 2026-04-17 04:00
+
+#### [Why Coutts is making an unexpected play for video games](https://www.ft.com/content/b4cf0513-5508-472d-8ed9-8260315a96e0)
+**发布时间**: 2026-04-17 04:00
+
+#### [Latest AI models could threaten world banking system, financial officials warn](https://www.ft.com/content/5760b56a-ec83-46da-a301-4b0e8c73c238)
+**发布时间**: 2026-04-17 04:00
+
+#### [Trump says Iran war should end ‘pretty soon’ as Lebanon truce begins](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392)
+**发布时间**: 2026-04-17 03:22
+
+#### [UK companies ‘should be worried’ about Anthropic’s latest AI model, minister says](https://www.ft.com/content/450cd25e-a9de-445d-98e3-725ca1092792)
+**发布时间**: 2026-04-16 17:30
 
 ---
 
