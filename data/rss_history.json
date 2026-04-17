@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4bc81bd39e3ee2cc7ca1187027ff2c9f444e3755fc06dbabf85b48eb42baa5c6": {
-        "title": "微信AI大招来了？马化腾：小程序都可能“龙虾化”｜AGI焦点",
-        "link": "https://www.tmtpost.com/7919963.html",
-        "published_date": "Thu, 19 Mar 2026 07:02:00 GMT",
-        "first_seen": "2026-03-18T23:29:44.579660"
-      },
-      "17458c74e7b37e3575b1d21a5592d4b065854a8fbbfef7fcb0d63225d2f510ab": {
-        "title": "Alibaba Aims to Become a “Token Factory” in the AI Agent Era",
-        "link": "https://www.tmtpost.com/7919772.html",
-        "published_date": "Wed, 18 Mar 2026 20:59:00 GMT",
-        "first_seen": "2026-03-18T23:29:44.579670"
-      },
-      "f95eaec0ef2b672e76bbca674aa2e6b86f6100d49466940724dbb0a20525d6bb": {
-        "title": "每天审200个PR、每月3000个Issue？智能体开始并行写代码，人类可能成最薄弱环节",
-        "link": "https://www.infoq.cn/article/zujYMf0JwMxe2wLv6gaa?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 18 Mar 2026 15:13:00 GMT",
-        "first_seen": "2026-03-18T23:29:44.579672"
-      },
-      "72652bc2529de675737ee46d107f426db262fe5625160beba33690f4225df4db": {
-        "title": "中国AI出海的“商业化时刻” ｜ 出海参考",
-        "link": "https://www.tmtpost.com/7919082.html",
-        "published_date": "Wed, 18 Mar 2026 21:02:00 GMT",
-        "first_seen": "2026-03-18T23:29:44.579675"
-      },
-      "6668b9f17e2626b934e83bf436c5bf38633c60a0478f0a8bbc37a032b9ea8a9b": {
-        "title": "国产手机集体涨价：性价比时代，彻底落幕",
-        "link": "https://www.tmtpost.com/7919506.html",
-        "published_date": "Wed, 18 Mar 2026 19:25:00 GMT",
-        "first_seen": "2026-03-18T23:29:44.579676"
-      },
       "1338bdf63e72241d127be1b6432eb7a5f9c302e165fdec8ee46d270ff4c53ed3": {
         "title": "英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”",
         "link": "https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article",
@@ -2641,39 +2611,39 @@
         "link": "https://www.infoq.cn/article/eZmMIRcKHQ9KR791b8lF?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 17 Apr 2026 19:59:00 GMT",
         "first_seen": "2026-04-17T13:05:35.244206"
+      },
+      "bc2cb8d225e494fbacf4096cf14cabb8ffb8396b209cc6a3720252f45aac4f2d": {
+        "title": "OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核",
+        "link": "https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 16:01:00 GMT",
+        "first_seen": "2026-04-17T23:38:35.883481"
+      },
+      "7d9d5de89c2c3a3318b52c8d81799318f9832078b3e55ec67310af20972ff7d5": {
+        "title": "AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局",
+        "link": "https://www.tmtpost.com/7957423.html",
+        "published_date": "Fri, 17 Apr 2026 19:50:00 GMT",
+        "first_seen": "2026-04-17T23:38:35.883487"
+      },
+      "274c77ee0062e3004ac49c8a547b1d477a9f687747875e663b8608a27fbebaa7": {
+        "title": "试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Apr 2026 19:35:00 GMT",
+        "first_seen": "2026-04-17T23:38:35.883490"
+      },
+      "66e350aec56485f90e7e5c427953d357f19a983a238e1d071bbb8d412c976f5e": {
+        "title": "具身智能\"部署态元年\"来了，智元内部研判：具身\"GPT-3 \"进度条已拉升至 30%",
+        "link": "https://www.tmtpost.com/7957537.html",
+        "published_date": "Fri, 17 Apr 2026 18:55:00 GMT",
+        "first_seen": "2026-04-17T23:38:35.883491"
+      },
+      "263b391805efadc8192d37c35a2c6b0e3951a5f8be5971f9387b81c2d59ffff9": {
+        "title": "Sora折戟，即梦涨价，阿里入局：AI视频的下半场怎么打？",
+        "link": "https://www.tmtpost.com/7956456.html",
+        "published_date": "Fri, 17 Apr 2026 19:23:00 GMT",
+        "first_seen": "2026-04-17T23:38:35.883493"
       }
     },
     "Finance": {
-      "470d240f495ed894e6174b6266f0970871c502788bc6f072bbaac26893ea5b2b": {
-        "title": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market",
-        "link": "https://www.marketwatch.com/story/dow-falls-nearly-800-points-after-powell-makes-one-thing-clear-theres-no-rush-to-rescue-the-market-b55a723a?mod=mw_rss_topstories",
-        "published_date": "Wed, 18 Mar 2026 21:46:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.220328"
-      },
-      "c79c8b567822d5d9541abf277ff43c1ac09560afd4bdc3804e33c28b16a05ecd": {
-        "title": "Powell warns of ‘new inflation’ from the Iran conflict as gas prices jump 30%",
-        "link": "https://www.marketwatch.com/story/powell-warns-of-new-inflation-from-the-iran-conflict-as-gas-prices-jump-30-ca445981?mod=mw_rss_topstories",
-        "published_date": "Wed, 18 Mar 2026 21:41:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.220335"
-      },
-      "ed600f7649214ea45db2e98f0f9d5036238a12bd14e73947ffe710687aa126fd": {
-        "title": "U.S. stocks have reached a critical line in the sand. Why the next move could be a 10% drop.",
-        "link": "https://www.marketwatch.com/story/u-s-stocks-have-reached-a-critical-line-in-the-sand-why-the-next-move-could-be-a-10-drop-c9451111?mod=mw_rss_topstories",
-        "published_date": "Wed, 18 Mar 2026 22:13:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.220337"
-      },
-      "f5feee42cc7335a012d7ffddfad94a039968ca77b194920d15f0e737ccbff1ce": {
-        "title": "Powell offers his clearest statement yet on staying at the Fed even as leadership shifts",
-        "link": "https://www.marketwatch.com/story/powell-delivers-his-most-definitive-answer-yet-on-how-long-hell-stay-on-as-fed-chair-1b2a5787?mod=mw_rss_topstories",
-        "published_date": "Wed, 18 Mar 2026 22:25:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.220338"
-      },
-      "d56be4d402a6f8f0e0c83f47b818fe9907dd978f1c6c4ca1ca92f2bc3a8188bd": {
-        "title": "Unilever and Kraft Heinz held talks over food merger uniting ketchup and mayo",
-        "link": "https://www.ft.com/content/e7e66622-50c9-493f-9076-6914f247247f",
-        "published_date": "Wed, 18 Mar 2026 18:40:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.220340"
-      },
       "2a9e6babcdb0ca2e2f16e4005be8898ec16e5186eaf2ed7f234e466f6dee0ee3": {
         "title": "Bank of Japan postpones rate rise after Middle East war erupts",
         "link": "https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2",
@@ -4779,33 +4749,39 @@
         "link": "https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories",
         "published_date": "Fri, 17 Apr 2026 10:06:00 GMT",
         "first_seen": "2026-04-17T13:04:01.111502"
+      },
+      "866e7397dd96ed29896a8c48db3338e54a0ce40b84d17a2d9907fbd753d96fe1": {
+        "title": "Oil slumps as US and Iran declare Strait of Hormuz open to shipping",
+        "link": "https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e",
+        "published_date": "Fri, 17 Apr 2026 20:54:00 GMT",
+        "first_seen": "2026-04-17T23:38:17.813466"
+      },
+      "0e1dfcf1f4925d3cd0b093a84594cdeea8843f23722968d18af2dee30f05e796": {
+        "title": "EU prepares for jet fuel sharing as supplies dwindle",
+        "link": "https://www.ft.com/content/494c1181-7bc3-42f3-b1af-c1dff3f62886",
+        "published_date": "Fri, 17 Apr 2026 14:15:00 GMT",
+        "first_seen": "2026-04-17T23:38:17.813475"
+      },
+      "cba2c231d38746c6160fcc43dc60f8002f468c1d5540154d2552c5f41705c2d7": {
+        "title": "Meta reportedly eyes more layoffs, targeting 10% of staff",
+        "link": "https://www.marketwatch.com/story/meta-reportedly-eyes-more-layoffs-targeting-10-of-staff-c93503b9?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 21:56:00 GMT",
+        "first_seen": "2026-04-17T23:38:17.813478"
+      },
+      "3823a7ee1ee805bc02d88b03e8a6d32e3ece88ef2bbbee09c3bfd6408fab7585": {
+        "title": "Nvidia rival Cerebras is taking another swing at an IPO",
+        "link": "https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 21:42:00 GMT",
+        "first_seen": "2026-04-17T23:38:17.813480"
+      },
+      "a65da98ef9c0be538ec1d014d4879055a5e602c67dbdca7f9daa5b9b1d0efcca": {
+        "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
+        "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Apr 2026 21:35:00 GMT",
+        "first_seen": "2026-04-17T23:38:17.813482"
       }
     },
     "Ai": {
-      "177a828e7c7c91246e2d092ffd284931cbae5906a04c65170ba62ce2d3505f40": {
-        "title": "全行业都在忙着“吃虾”，MiniMax M2.7已经让虾自己拿起筷子了",
-        "link": "https://www.qbitai.com/2026/03/389024.html",
-        "published_date": "Wed, 18 Mar 2026 13:25:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.364110"
-      },
-      "a9b0a68260150becb2f58a5ecdbb63e82d9a32a0d873e3ede74fd00be82712cf": {
-        "title": "担心被曝“于谦门”，57岁的于谦到底用龙虾做了什么？",
-        "link": "https://www.qbitai.com/2026/03/389004.html",
-        "published_date": "Wed, 18 Mar 2026 11:35:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.364117"
-      },
-      "28b794a34a0d445904e013f4787236458a664fed205a83eef860c482ec813aa0": {
-        "title": "求码10天，我终于过上了在微信上使唤🦞的日子",
-        "link": "https://www.qbitai.com/2026/03/388980.html",
-        "published_date": "Wed, 18 Mar 2026 09:39:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.364119"
-      },
-      "e70b185576fe6618fe5b71a8a3f851a3da05786184d1e39eb8c184c0f5bd90b1": {
-        "title": "淘天开启2027届实习生招聘：岗位全面拥抱AI，新增3类AI岗位",
-        "link": "https://www.qbitai.com/2026/03/388972.html",
-        "published_date": "Wed, 18 Mar 2026 08:55:00 GMT",
-        "first_seen": "2026-03-18T23:29:59.364120"
-      },
       "b043051f0aee4c1415f8c35bc1bade2b6a9f27683c9eea2eaee4a51c3efd19e3": {
         "title": "2026-03-19日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-19/",
@@ -6280,8 +6256,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-17T13:05:35.244208",
-    "Finance": "2026-04-17T13:04:01.111504",
+    "Technology": "2026-04-17T23:38:35.883496",
+    "Finance": "2026-04-17T23:38:17.813484",
     "Ai": "2026-04-17T13:04:46.398236"
   }
 }
