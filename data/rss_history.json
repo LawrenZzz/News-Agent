@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1338bdf63e72241d127be1b6432eb7a5f9c302e165fdec8ee46d270ff4c53ed3": {
-        "title": "英伟达改卖Token？黄仁勋GTC后发声：token就是AI新通货，值钱的不是算力，是“每度电的智商”",
-        "link": "https://www.infoq.cn/article/CuY1NfJtV6musRP3sAJJ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 19 Mar 2026 12:05:00 GMT",
-        "first_seen": "2026-03-19T05:56:42.532248"
-      },
-      "3a48c25e85698b0b5d9c7a6805182b3f315ff2252cca9409a4de74e1b689170d": {
-        "title": "黄仁勋与全球最火AI初创公司CEO们，都聊了什么",
-        "link": "https://www.tmtpost.com/7920735.html",
-        "published_date": "Thu, 19 Mar 2026 13:22:00 GMT",
-        "first_seen": "2026-03-19T05:56:42.532256"
-      },
-      "f7d509028482c8481ff96a8b271fcaecdfc46f51cb0ab63c4c1e137cb05d2f47": {
-        "title": "美光 MU：AI 带动存储 “疯涨”，能破周期 “紧箍咒” 吗？",
-        "link": "https://www.tmtpost.com/7920688.html",
-        "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
-        "first_seen": "2026-03-19T05:56:42.532259"
-      },
-      "945c8c4c28f8615b9cd48f687ccb8e82ce2ad270a9f81739fada7891d4f74ec0": {
-        "title": "固态电池产业化提速，2026年成半固态电池量产元年",
-        "link": "https://www.tmtpost.com/7920519.html",
-        "published_date": "Thu, 19 Mar 2026 12:04:00 GMT",
-        "first_seen": "2026-03-19T05:56:42.532261"
-      },
-      "a73ca04e0239ee3112e16fe6683740c179e2b7ae8e6dc421eaf5e99e53261a99": {
-        "title": "在GTC谈基座模型，元戎启行把自己放进了物理AI牌桌",
-        "link": "https://www.tmtpost.com/7919981.html",
-        "published_date": "Thu, 19 Mar 2026 07:01:00 GMT",
-        "first_seen": "2026-03-19T05:56:42.532263"
-      },
       "e795134c6ca6a9c15a1dd009af3bdee9c83cf2dc06ec6f4bb837b17bac360e7b": {
         "title": "全球推理计算量暴涨一万倍背后",
         "link": "https://www.tmtpost.com/7920955.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7956456.html",
         "published_date": "Fri, 17 Apr 2026 19:23:00 GMT",
         "first_seen": "2026-04-17T23:38:35.883493"
+      },
+      "b5ac250f5952b95a7764c98d8daf8bad48c6fa992cf84640f62c8d869b8b01ab": {
+        "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
+        "link": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:41.676040"
+      },
+      "0aa17597405f039260bccb4ecc78d7a5b00316fe5f85c992981a5f801bb51469": {
+        "title": "三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现",
+        "link": "https://www.tmtpost.com/7956493.html",
+        "published_date": "Sat, 18 Apr 2026 10:35:00 GMT",
+        "first_seen": "2026-04-18T06:14:41.676046"
+      },
+      "cb96ebe83a63d41ad2649535c9199f0722cb50653ef689088ba51977dbd336f9": {
+        "title": "DeepSeek 首次融资，AGI 理想向资本低头？",
+        "link": "https://www.tmtpost.com/7958205.html",
+        "published_date": "Sat, 18 Apr 2026 10:45:00 GMT",
+        "first_seen": "2026-04-18T06:14:41.676048"
+      },
+      "3e87f7075fded28c59d44121e4a548b1d05261daad06aa7f0de9fff7293a20b2": {
+        "title": "设计行业的“棺材板”，要被Claude Design盖上了",
+        "link": "https://www.tmtpost.com/7958212.html",
+        "published_date": "Sat, 18 Apr 2026 11:40:00 GMT",
+        "first_seen": "2026-04-18T06:14:41.676050"
+      },
+      "36a11367364258827788205a5031635ea0095d1aa6c653b3f4ca0f2469c10d6f": {
+        "title": "“有了AI，人们却过得越来越累了”",
+        "link": "https://www.tmtpost.com/7957716.html",
+        "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:41.676052"
       }
     },
     "Finance": {
-      "2a9e6babcdb0ca2e2f16e4005be8898ec16e5186eaf2ed7f234e466f6dee0ee3": {
-        "title": "Bank of Japan postpones rate rise after Middle East war erupts",
-        "link": "https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2",
-        "published_date": "Thu, 19 Mar 2026 03:57:00 GMT",
-        "first_seen": "2026-03-19T05:56:55.876704"
-      },
-      "d369ffc8521ec8ee12564dfdd63d35e1295b8f8f2109d9fc1a5ae0f47c2fe809": {
-        "title": "Oil above $110 as Trump says US could ‘massively’ blow up Iran gasfield",
-        "link": "https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86",
-        "published_date": "Wed, 18 Mar 2026 23:37:00 GMT",
-        "first_seen": "2026-03-19T05:56:55.876711"
-      },
-      "ad830281835aca865590be3afced4f0c0d52867284daf3127fa4219b33edd7f6": {
-        "title": "US explored tying naval escorts in Strait of Hormuz to government insurance",
-        "link": "https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1",
-        "published_date": "Thu, 19 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-19T05:56:55.876714"
-      },
-      "7c1867035e1c83c2c19202d10d631cc689bd4600d69599d2d63e7db8942e1fc3": {
-        "title": "Trump sails into battle with Lloyd’s of London",
-        "link": "https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6",
-        "published_date": "Thu, 19 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-19T05:56:55.876715"
-      },
-      "8bc9eb29b24112ae7d7a76133da02e4078d2ef7efca233098c288fb107d91379": {
-        "title": "PwC US boss says partners who resist AI have no place at the firm",
-        "link": "https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125",
-        "published_date": "Thu, 19 Mar 2026 04:00:00 GMT",
-        "first_seen": "2026-03-19T05:56:55.876717"
-      },
       "06f29b70a60b7f9262be5cc3ec9c716040bad1af4c264cc232293026013cdcdc": {
         "title": "ECB holds interest rates at 2% as energy prices soar",
         "link": "https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd",
@@ -4779,21 +4749,39 @@
         "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
         "published_date": "Fri, 17 Apr 2026 21:35:00 GMT",
         "first_seen": "2026-04-17T23:38:17.813482"
+      },
+      "56e6ea33898f58f7cd88a1493bf6d4487a3c33de2515735a63fe14d2158632b1": {
+        "title": "The coming global food crisis",
+        "link": "https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df",
+        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.116999"
+      },
+      "8d109ee0a384a54ef5c7d3bcf89b905e4def2de1419e4efe38c03580c9cf37b2": {
+        "title": "Turkey promotes ‘Middle Corridor’ as Strait of Hormuz alternative",
+        "link": "https://www.ft.com/content/a1ea2038-b4d7-4d94-bd02-bfb65d730f45",
+        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.117010"
+      },
+      "a8177a2919e14aef7beaa18a146730f7e3a724b82500c2e92001787e0f0b4c13": {
+        "title": "Why higher pay hasn’t made young adults feel richer",
+        "link": "https://www.ft.com/content/b61f60a3-d4d7-46d9-aa6f-dd78dffe71f5",
+        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.117013"
+      },
+      "a0a6d752bcdfb979c5c339cd2095c010ad8a0f6a6e9024e8e700aa18ddf65615": {
+        "title": "The return of Londonophobia",
+        "link": "https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6",
+        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.117015"
+      },
+      "9faa7ef4455bfb9bf919250f0545c9b6f43e1bbefdd4cc9d73c3938f250a1b24": {
+        "title": "Boom in UK ‘staycations’ as war puts holidaymakers off overseas travel",
+        "link": "https://www.ft.com/content/bb3a8410-bc2b-4f62-86c1-0fefc181f164",
+        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.117017"
       }
     },
     "Ai": {
-      "b043051f0aee4c1415f8c35bc1bade2b6a9f27683c9eea2eaee4a51c3efd19e3": {
-        "title": "2026-03-19日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-19/",
-        "published_date": "Thu, 19 Mar 2026 09:37:00 GMT",
-        "first_seen": "2026-03-19T05:56:56.022368"
-      },
-      "03350dfdb85064bc03118d3bb04262863bc60f0c7fdc38b108b8a337af45c26b": {
-        "title": "小米神操作！认领榜一神秘模型Hunter Alpha，龙虾之父都忍不住打听",
-        "link": "https://www.qbitai.com/2026/03/389038.html",
-        "published_date": "Thu, 19 Mar 2026 01:18:00 GMT",
-        "first_seen": "2026-03-19T05:56:56.022375"
-      },
       "6a0b7e2dc2340a9931edc2a3b81883675784c5dff102c608e89ce37ff0a34f27": {
         "title": "刚刚，全球视频模型新王诞生了！",
         "link": "https://www.qbitai.com/2026/03/389146.html",
@@ -6251,13 +6239,25 @@
         "link": "https://www.qbitai.com/2026/04/402189.html",
         "published_date": "Fri, 17 Apr 2026 06:57:00 GMT",
         "first_seen": "2026-04-17T13:04:46.398233"
+      },
+      "f8c6b9d49d7cc1302766eeb3b75cb3684cf06fad37c80906f22253852a1bf71d": {
+        "title": "2026-04-18日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-18/",
+        "published_date": "Sat, 18 Apr 2026 09:42:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.283070"
+      },
+      "ef3f3ed82e6b4ab835d5518c59526724b511eeb0ef3b7547167323896d440729": {
+        "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
+        "link": "https://www.qbitai.com/2026/04/402636.html",
+        "published_date": "Sat, 18 Apr 2026 01:10:00 GMT",
+        "first_seen": "2026-04-18T06:14:19.283079"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-17T23:38:35.883496",
-    "Finance": "2026-04-17T23:38:17.813484",
-    "Ai": "2026-04-17T13:04:46.398236"
+    "Technology": "2026-04-18T06:14:41.676055",
+    "Finance": "2026-04-18T06:14:19.117019",
+    "Ai": "2026-04-18T06:14:19.283082"
   }
 }
