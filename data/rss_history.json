@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e795134c6ca6a9c15a1dd009af3bdee9c83cf2dc06ec6f4bb837b17bac360e7b": {
-        "title": "全球推理计算量暴涨一万倍背后",
-        "link": "https://www.tmtpost.com/7920955.html",
-        "published_date": "Thu, 19 Mar 2026 15:33:00 GMT",
-        "first_seen": "2026-03-19T08:38:39.996585"
-      },
-      "6422ad7b831254a7304527ecfaa024a6398e6e6c7f0ffca0ab3f570e7de4cf3e": {
-        "title": "“养龙虾”狂热背后：中国AI应用诚可贵，底层创新价更高",
-        "link": "https://www.tmtpost.com/7920897.html",
-        "published_date": "Thu, 19 Mar 2026 15:14:00 GMT",
-        "first_seen": "2026-03-19T08:38:39.996598"
-      },
-      "4e5bcbaed407f186c36607387cb10c87245c2c1ad0febc415864481a5ff12e45": {
-        "title": "从“聪明的废物”到“数字员工”，智能体落地如何破局",
-        "link": "https://www.tmtpost.com/7920695.html",
-        "published_date": "Thu, 19 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-19T08:38:39.996601"
-      },
-      "fe9ef3bc45ac193b3084b28b1eca6e0ad4b13ea47837f84e6882a68a947bfd6f": {
-        "title": "算力告急，Token 暴涨：Agent时代的阿里云如何估值？",
-        "link": "https://www.tmtpost.com/7920576.html",
-        "published_date": "Thu, 19 Mar 2026 11:46:00 GMT",
-        "first_seen": "2026-03-19T08:38:39.996603"
-      },
-      "99a0e11782078d7fd02ab55aea42a60a79580b482585808cefbb26bab8a21c73": {
-        "title": "腾讯、字节、阿里，为何同时抢跑Skill市场？",
-        "link": "https://www.tmtpost.com/7920854.html",
-        "published_date": "Thu, 19 Mar 2026 15:09:00 GMT",
-        "first_seen": "2026-03-19T08:38:39.996605"
-      },
       "8b8ec10339393912b4caec2b3bba9902982bf13d25ef90835f5ebdf6f4dcf55d": {
         "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
         "link": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5?utm_source=rss&utm_medium=article",
@@ -2641,6 +2611,36 @@
         "link": "https://www.tmtpost.com/7957716.html",
         "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-18T06:14:41.676052"
+      },
+      "e7a8de12f31fed2ba08afe0872daf8c56e3df124eb2c01821daeb37344b081f2": {
+        "title": "AI的真正战场在“黑暗森林”",
+        "link": "https://www.tmtpost.com/7957747.html",
+        "published_date": "Sat, 18 Apr 2026 09:45:00 GMT",
+        "first_seen": "2026-04-18T08:44:57.805869"
+      },
+      "2f51a1cbb2bece340108383cb1745f6741accb36d644198a952503bbe01d65d8": {
+        "title": "V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资",
+        "link": "https://www.tmtpost.com/7958219.html",
+        "published_date": "Sat, 18 Apr 2026 10:20:00 GMT",
+        "first_seen": "2026-04-18T08:44:57.805877"
+      },
+      "1b1310f18caf623f94bacd1126f1c4e2ab38934c9fae9b214cf816dc8590f8c3": {
+        "title": "这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化",
+        "link": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Apr 2026 14:12:00 GMT",
+        "first_seen": "2026-04-18T08:44:57.805880"
+      },
+      "f1f41018ec0ebb2aa7f73f4bcf013096be2109746fed5ad16dfebf1ea28c5e76": {
+        "title": "OpenAI 与 Anthropic，是兄弟就来砍我",
+        "link": "https://www.tmtpost.com/7957973.html",
+        "published_date": "Sat, 18 Apr 2026 09:37:00 GMT",
+        "first_seen": "2026-04-18T08:44:57.805882"
+      },
+      "cc46960b5f83d2a5e8b4050950829535ce6a578624a50c0bf7c84600150c3bfc": {
+        "title": "五城突围80亿氢能试点：谁在为每公斤十元的价差买单",
+        "link": "https://www.tmtpost.com/7958174.html",
+        "published_date": "Sat, 18 Apr 2026 11:40:00 GMT",
+        "first_seen": "2026-04-18T08:44:57.805884"
       }
     },
     "Finance": {
@@ -4782,12 +4782,6 @@
       }
     },
     "Ai": {
-      "6a0b7e2dc2340a9931edc2a3b81883675784c5dff102c608e89ce37ff0a34f27": {
-        "title": "刚刚，全球视频模型新王诞生了！",
-        "link": "https://www.qbitai.com/2026/03/389146.html",
-        "published_date": "Thu, 19 Mar 2026 06:55:00 GMT",
-        "first_seen": "2026-03-19T08:38:40.188333"
-      },
       "3e08beedbcf2c3ce45c26c544cfd403b6128aabb01527460e29fa9e50d6e8dbb": {
         "title": "于骞出席德国慕尼黑汽车论坛：世界模型+强化学习是通向物理AI的必经之路",
         "link": "https://www.qbitai.com/2026/03/389442.html",
@@ -6256,7 +6250,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-18T06:14:41.676055",
+    "Technology": "2026-04-18T08:44:57.805886",
     "Finance": "2026-04-18T06:14:19.117019",
     "Ai": "2026-04-18T06:14:19.283082"
   }
