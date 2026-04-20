@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 09:57:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 09:58:26 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 23:41:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 23:42:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析</title>
-      <link>https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek融资，梁文锋的“现实主义”转身</title>
+      <link>https://www.tmtpost.com/7959921.html</link>
+      <description>&lt;![CDATA[DeepSeek融资，梁文锋的“现实主义”转身]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7959921.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 芯片格局生变：Cerebras 再迎IPO大考，英伟达真正的对手来了｜IPO观察</title>
-      <link>https://www.tmtpost.com/7959992.html</link>
-      <description>&lt;![CDATA[AI 芯片格局生变：Cerebras 再迎IPO大考，英伟达真正的对手来了｜IPO观察]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959992.html</guid>
+      <title>月之暗面IPO，杨植麟不急股东急</title>
+      <link>https://www.tmtpost.com/7959812.html</link>
+      <description>&lt;![CDATA[月之暗面IPO，杨植麟不急股东急]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7959812.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>零门槛AI生成赛道再添新玩家，“灵珠”平台开启第一次内测</title>
-      <link>https://www.infoq.cn/article/ZPWKLMsW3qPTNKEog63r?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[零门槛AI生成赛道再添新玩家，“灵珠”平台开启第一次内测]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 16:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZPWKLMsW3qPTNKEog63r?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实</title>
+      <link>https://www.tmtpost.com/7960107.html</link>
+      <description>&lt;![CDATA[对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960107.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI芯片初创公司，进入“斩杀线”？</title>
-      <link>https://www.tmtpost.com/7959344.html</link>
-      <description>&lt;![CDATA[AI芯片初创公司，进入“斩杀线”？]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 13:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959344.html</guid>
+      <title>具身智能公司开始积极「进厂」打工</title>
+      <link>https://www.tmtpost.com/7959655.html</link>
+      <description>&lt;![CDATA[具身智能公司开始积极「进厂」打工]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 14:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7959655.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资；宇树H1半马被担架抬离赛道；钉钉创始人：全员禁止写文档；Hermes Agent三度否认抄袭｜AI周报</title>
-      <link>https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资；宇树H1半马被担架抬离赛道；钉钉创始人：全员禁止写文档；Hermes Agent三度否认抄袭｜AI周报]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 13:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统</title>
+      <link>https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
