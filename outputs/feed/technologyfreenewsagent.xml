@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 23:41:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 23:42:56 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 06:58:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:59:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek融资，梁文锋的“现实主义”转身</title>
-      <link>https://www.tmtpost.com/7959921.html</link>
-      <description>&lt;![CDATA[DeepSeek融资，梁文锋的“现实主义”转身]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 19:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959921.html</guid>
+      <title>苏度科技发布Sudo R1并完成新一轮融资，估值突破20亿美元｜融资速递</title>
+      <link>https://www.tmtpost.com/7960909.html</link>
+      <description>&lt;![CDATA[苏度科技发布Sudo R1并完成新一轮融资，估值突破20亿美元｜融资速递]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960909.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>月之暗面IPO，杨植麟不急股东急</title>
-      <link>https://www.tmtpost.com/7959812.html</link>
-      <description>&lt;![CDATA[月之暗面IPO，杨植麟不急股东急]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959812.html</guid>
+      <title>平台即产品：平衡相互冲突的优先事项并创造价值</title>
+      <link>https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[平台即产品：平衡相互冲突的优先事项并创造价值]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实</title>
-      <link>https://www.tmtpost.com/7960107.html</link>
-      <description>&lt;![CDATA[对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 19:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960107.html</guid>
+      <title>【钛晨报】李强：进一步优化调整能源结构，强化能源科技创新；“爱奇艺疯了”冲上热搜第一，CEO回应AI争议；抖音副总裁澄清“字节净利下滑70%”传闻</title>
+      <link>https://www.tmtpost.com/7960514.html</link>
+      <description>&lt;![CDATA[【钛晨报】李强：进一步优化调整能源结构，强化能源科技创新；“爱奇艺疯了”冲上热搜第一，CEO回应AI争议；抖音副总裁澄清“字节净利下滑70%”传闻]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960514.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能公司开始积极「进厂」打工</title>
-      <link>https://www.tmtpost.com/7959655.html</link>
-      <description>&lt;![CDATA[具身智能公司开始积极「进厂」打工]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 14:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959655.html</guid>
+      <title>Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了</title>
+      <link>https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统</title>
-      <link>https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？</title>
+      <link>https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

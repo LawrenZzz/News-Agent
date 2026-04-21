@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "57b1eda5033da34c9dbbf50025d8ce36b035e758c216e289ede028af4d7a2a6c": {
-        "title": "【数智周报】黄仁勋豪言2027年AI芯片收入剑指1万亿美元；Cursor承认新模型基于Kimi训练并致歉；“木头姐”：人工智能已经提高了劳动生产率",
-        "link": "https://www.tmtpost.com/7924052.html",
-        "published_date": "Sun, 22 Mar 2026 11:52:00 GMT",
-        "first_seen": "2026-03-22T05:52:45.322225"
-      },
-      "903d8af415364ab02391533391da257a7ea7c10973cdfa5568a691df4e1031a6": {
-        "title": "MCP Gateway：构建下一代 AI Agent 的“中枢网关”｜QCon北京",
-        "link": "https://www.infoq.cn/article/wwu9ccjyS00J9YMgKHI7?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 22 Mar 2026 10:02:00 GMT",
-        "first_seen": "2026-03-22T05:52:45.322237"
-      },
-      "b3e97e14da547206bdc6376f2e8c3c9176cdb7d63d44371564379e1b772ded7b": {
-        "title": "具身智能的故事不好讲了",
-        "link": "https://www.tmtpost.com/7924157.html",
-        "published_date": "Sun, 22 Mar 2026 10:41:00 GMT",
-        "first_seen": "2026-03-22T05:52:45.322240"
-      },
-      "ddc741ce303fae962687e6b9336aa44de0881a25dd92f24cf7c87a63fab955c4": {
-        "title": "我看淘宝闪购这一年，和阿里即时零售野心",
-        "link": "https://www.tmtpost.com/7924040.html",
-        "published_date": "Sun, 22 Mar 2026 10:41:00 GMT",
-        "first_seen": "2026-03-22T05:52:45.322243"
-      },
-      "aa4bc4f4c7777be7380fea37a9444b0cec608df54c29a826f49e67b5af35fbf5": {
-        "title": "Java近期资讯：Apache Solr 10、LangChain4j、Grails、JobRunr、Gradle、Devnexus和Commonhaus",
-        "link": "https://www.infoq.cn/article/ia7cifkMwDqYjd1FsdEQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 22 Mar 2026 08:00:00 GMT",
-        "first_seen": "2026-03-22T05:52:45.322244"
-      },
       "194d2807d144f4a4f9624e1babf2bddafd27acf19666ee311193d8b0f4018db0": {
         "title": "AI狂潮冷思考：当模型沦为水电煤，巨头的真正战场在哪？",
         "link": "https://www.tmtpost.com/7924190.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 20 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-20T23:42:56.666976"
+      },
+      "d26e2bd874ca355ab180ded948b73299c68a53b11fbaf8ba4d80faa11e3e24c9": {
+        "title": "苏度科技发布Sudo R1并完成新一轮融资，估值突破20亿美元｜融资速递",
+        "link": "https://www.tmtpost.com/7960909.html",
+        "published_date": "Tue, 21 Apr 2026 10:09:00 GMT",
+        "first_seen": "2026-04-21T06:59:41.973682"
+      },
+      "9b79b22215360ec99de8285890ed9cbd0f6a57f29d5ca0608ad33ce5a8c7fea7": {
+        "title": "平台即产品：平衡相互冲突的优先事项并创造价值",
+        "link": "https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-21T06:59:41.973691"
+      },
+      "a9b1f87b2a3f836ee0d4e12bbaa6b24a60715f911d48823bca51aea48335ec1e": {
+        "title": "【钛晨报】李强：进一步优化调整能源结构，强化能源科技创新；“爱奇艺疯了”冲上热搜第一，CEO回应AI争议；抖音副总裁澄清“字节净利下滑70%”传闻",
+        "link": "https://www.tmtpost.com/7960514.html",
+        "published_date": "Tue, 21 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-21T06:59:41.973694"
+      },
+      "6d9995737ee242b1e9dfc314a54f6d24f81ab994ae56c6175072bcaaf46217f5": {
+        "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
+        "link": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 14:14:00 GMT",
+        "first_seen": "2026-04-21T06:59:41.973695"
+      },
+      "3d2d77bbec954f73ba1a0ae57850842b7ab9cabbbeeee0521dfe2b5bcd20b041": {
+        "title": "100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？",
+        "link": "https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 21 Apr 2026 09:19:00 GMT",
+        "first_seen": "2026-04-21T06:59:41.973697"
       }
     },
     "Finance": {
-      "15cfbdacebe6f4ec6dd5827b9d2a2ca8eb0f49dd501902a1d3d42f163e0b6f8a": {
-        "title": "World faces gas supply cliff edge as Gulf’s final LNG shipments approach ports",
-        "link": "https://www.ft.com/content/64c5a600-1fc8-4370-b5d6-8a0bc273a33f",
-        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.437320"
-      },
-      "1130d98ac107a348fbc796c49c0e9870cab824e82e64d0a7ef7fe05c95035ec2": {
-        "title": "Collapsed mortgage lender MFS was given all-clear in 2024 FCA review",
-        "link": "https://www.ft.com/content/327a0a05-5565-462a-83cd-5c68c1f805d9",
-        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.437327"
-      },
-      "acc0e2227995ba19c9d95deb782d3056bbdb493848f7203e57c07f9d048932fa": {
-        "title": "Chinese IPOs in US falter amid scrutiny of manipulation schemes",
-        "link": "https://www.ft.com/content/6e972cbf-c8d5-420f-8f7c-9ae26a8c07fe",
-        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.437329"
-      },
-      "e24c0634df35dec6685df55cb342d6cfe62364aef34d08433c3e91b6d132a3ce": {
-        "title": "Global carmakers retreat en masse from electric vehicle plans",
-        "link": "https://www.ft.com/content/1198863d-4974-4c4d-be5f-9e7152045b26",
-        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.437330"
-      },
-      "2df16fc65759e4b7c189b3db1be6e218be677748514d6b21ed31ba7ff241db27": {
-        "title": "How Trump’s attack on Iran risks dragging US into Middle East ‘quagmire’",
-        "link": "https://www.ft.com/content/ba3b9043-29cf-4d48-afc6-c138028d8f2f",
-        "published_date": "Sun, 22 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.437332"
-      },
       "babe178c34a4047193693b072829b5606a8de452ee596b5bd8e27a3674230b74": {
         "title": "China touts itself as ‘harbour of stability’ to global CEOs",
         "link": "https://www.ft.com/content/53f9a706-ec15-4f0c-9b4f-71a6f3fc72e1",
@@ -4797,21 +4767,39 @@
         "link": "https://www.marketwatch.com/story/psychedelic-stocks-rally-with-trumps-support-addafa78?mod=mw_rss_topstories",
         "published_date": "Mon, 20 Apr 2026 20:51:00 GMT",
         "first_seen": "2026-04-20T23:42:00.033524"
+      },
+      "deb10602cd1edd438a798ed7e723d7d4843c924a1b8ac576497fa8572d68240b": {
+        "title": "Anthropic and Amazon agree $100bn AI infrastructure deal",
+        "link": "https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923",
+        "published_date": "Tue, 21 Apr 2026 00:41:00 GMT",
+        "first_seen": "2026-04-21T06:58:40.471642"
+      },
+      "85add42f6c6ff05cb2a43ef5216311c0c75a135c04fb5e8e8dbbb3c1dc30e8c9": {
+        "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
+        "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
+        "published_date": "Tue, 21 Apr 2026 01:46:00 GMT",
+        "first_seen": "2026-04-21T06:58:40.471651"
+      },
+      "01d7cb2e1745bee151aec9c2c0e88cd515656ea070303ba62711681516d5b797": {
+        "title": "‘Kiss of death’: How the US killed a Swiss merchant bank",
+        "link": "https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e",
+        "published_date": "Tue, 21 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-21T06:58:40.471653"
+      },
+      "d25f228c8872bf14a5921eee131b40a8b3b515f391583d488f3655abcd8046ec": {
+        "title": "UK wage growth slowed on eve of Iran war",
+        "link": "https://www.ft.com/content/36ecd045-e15f-4c68-8663-3c5f09d62439",
+        "published_date": "Tue, 21 Apr 2026 06:33:00 GMT",
+        "first_seen": "2026-04-21T06:58:40.471655"
+      },
+      "42bf5fee49b4826d1eed7b8b51c25cfcad0049c4dec00a60f940cb31b6daf228": {
+        "title": "Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction",
+        "link": "https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4",
+        "published_date": "Tue, 21 Apr 2026 04:00:00 GMT",
+        "first_seen": "2026-04-21T06:58:40.471674"
       }
     },
     "Ai": {
-      "b8adae6ad71aa3896bc558cd934ef8b3868ee8667fa4de3ee4d61940b48a3608": {
-        "title": "2026-03-22日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-22/",
-        "published_date": "Sun, 22 Mar 2026 09:40:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.593158"
-      },
-      "bb5acd504810d38d5947c8a4ec97a4b52c197ede2c95b3d4c090789d179f857e": {
-        "title": "上海凭什么敢自封“开发者之城”？看完这场大会议程我悟了",
-        "link": "https://www.qbitai.com/2026/03/390977.html",
-        "published_date": "Sun, 22 Mar 2026 05:26:00 GMT",
-        "first_seen": "2026-03-22T05:52:56.593166"
-      },
       "df02aef32fe0f89b1e6d94f600fa95f005c924f23a8025dffe776a4910602e8b": {
         "title": "浙大团队破解多模态模型「盲目自信」：先校准置信度，再分配算力丨CVPR’26",
         "link": "https://www.qbitai.com/2026/03/391014.html",
@@ -6275,13 +6263,43 @@
         "link": "https://www.qbitai.com/2026/04/403751.html",
         "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
         "first_seen": "2026-04-20T23:42:00.167300"
+      },
+      "4fc11c62fa3b70ee97ec6901a966d2cd257d4ceee7ee54964db137d2b09ddd34": {
+        "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+        "link": "https://www.qbitai.com/2026/04/403859.html",
+        "published_date": "Tue, 21 Apr 2026 04:54:00 GMT",
+        "first_seen": "2026-04-21T06:58:53.230614"
+      },
+      "ebd976f652217fc0a44436f00fa44a88aa33ef0a58d8aff1a5c6e548b0f0329a": {
+        "title": "跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里",
+        "link": "https://www.qbitai.com/2026/04/403777.html",
+        "published_date": "Tue, 21 Apr 2026 00:06:00 GMT",
+        "first_seen": "2026-04-21T06:58:53.230619"
+      },
+      "a541b7e33ebaab7fb8ddf70e2ed463ceeb0d7657ae0d11f727d03334072ac67d": {
+        "title": "这次，库克真的要卸任苹果CEO了！",
+        "link": "https://www.qbitai.com/2026/04/403790.html",
+        "published_date": "Tue, 21 Apr 2026 00:14:00 GMT",
+        "first_seen": "2026-04-21T06:58:53.230622"
+      },
+      "93a74884f58c61366270caa92e60b9c5eb00b3d94bd85acc13e83af86d97bc77": {
+        "title": "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测",
+        "link": "https://www.qbitai.com/2026/04/403867.html",
+        "published_date": "Tue, 21 Apr 2026 04:57:00 GMT",
+        "first_seen": "2026-04-21T06:58:53.230623"
+      },
+      "f9a60b2c739a0a06a67385d386141381b76afbded7caae492916aa05862a313d": {
+        "title": "把人类驾驶员赶出机场，复旦大牛校友要港股IPO了",
+        "link": "https://www.qbitai.com/2026/04/403872.html",
+        "published_date": "Tue, 21 Apr 2026 06:19:00 GMT",
+        "first_seen": "2026-04-21T06:58:53.230625"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-20T23:42:56.666978",
-    "Finance": "2026-04-20T23:42:00.033526",
-    "Ai": "2026-04-20T23:42:00.167308"
+    "Technology": "2026-04-21T06:59:41.973699",
+    "Finance": "2026-04-21T06:58:40.471676",
+    "Ai": "2026-04-21T06:58:53.230628"
   }
 }
