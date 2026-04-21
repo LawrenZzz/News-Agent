@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Apr 2026 09:23:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2026 09:24:34 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Apr 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Apr 2026 23:35:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋访谈“失控”背后：总有一件事必须发生，把电子变成Token</title>
-      <link>https://www.tmtpost.com/7959881.html</link>
-      <description>&lt;![CDATA[黄仁勋访谈“失控”背后：总有一件事必须发生，把电子变成Token]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 08:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7959881.html</guid>
+      <title>智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 17:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图</title>
-      <link>https://www.tmtpost.com/7961404.html</link>
-      <description>&lt;![CDATA[Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 17:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7961404.html</guid>
+      <title>黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？</title>
+      <link>https://www.tmtpost.com/7960426.html</link>
+      <description>&lt;![CDATA[黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 14:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960426.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗</title>
-      <link>https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>构建可信数据智能体的上下文层 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[构建可信数据智能体的上下文层 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 15:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI时代最贵的“布”，到底有多抢手？</title>
-      <link>https://www.tmtpost.com/7961280.html</link>
-      <description>&lt;![CDATA[AI时代最贵的“布”，到底有多抢手？]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 16:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7961280.html</guid>
+      <title>全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官</title>
+      <link>https://www.tmtpost.com/7960077.html</link>
+      <description>&lt;![CDATA[全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7960077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>12人减至1人，物理AI已经开始革工业场景的“命”了</title>
-      <link>https://www.tmtpost.com/7960852.html</link>
-      <description>&lt;![CDATA[12人减至1人，物理AI已经开始革工业场景的“命”了]]&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 10:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7960852.html</guid>
+      <title>安诺其跨界豪赌：解绑佛山国资，算力转租商成色几何 ｜并购一线</title>
+      <link>https://www.tmtpost.com/7961738.html</link>
+      <description>&lt;![CDATA[安诺其跨界豪赌：解绑佛山国资，算力转租商成色几何 ｜并购一线]]&gt;</description>
+      <pubDate>Tue, 21 Apr 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7961738.html</guid>
       <category>Technology</category>
     </item>
   </channel>
