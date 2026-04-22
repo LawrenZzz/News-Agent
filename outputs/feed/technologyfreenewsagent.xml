@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Apr 2026 09:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Apr 2026 09:19:10 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Apr 2026 23:44:00 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:45:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕</title>
-      <link>https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 14:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】事关节能降碳工作，中办、国办重磅文件对外发布；腾讯、阿里等科技巨头洽谈投资DeepSeek，估值超过200亿美元；SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化</title>
+      <link>https://www.tmtpost.com/7963527.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关节能降碳工作，中办、国办重磅文件对外发布；腾讯、阿里等科技巨头洽谈投资DeepSeek，估值超过200亿美元；SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化]]&gt;</description>
+      <pubDate>Thu, 23 Apr 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7963527.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 16:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&amp;utm_medium=article</guid>
+      <title>告别价格战，大模型共迎通胀时代</title>
+      <link>https://www.tmtpost.com/7963024.html</link>
+      <description>&lt;![CDATA[告别价格战，大模型共迎通胀时代]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7963024.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力</title>
-      <link>https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 15:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌真急了，深夜更新Deep Research智能体，支持MCP、原生图表</title>
+      <link>https://www.tmtpost.com/7962067.html</link>
+      <description>&lt;![CDATA[谷歌真急了，深夜更新Deep Research智能体，支持MCP、原生图表]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7962067.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持</title>
-      <link>https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>半导体IP，变得炙手可热</title>
+      <link>https://www.tmtpost.com/7963262.html</link>
+      <description>&lt;![CDATA[半导体IP，变得炙手可热]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 18:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7963262.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查</title>
-      <link>https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查]]&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&amp;utm_medium=article</guid>
+      <title>火药味弥漫的智驾赛道：有人想跨界“屠龙”，有人默默抛弃“亲儿子”</title>
+      <link>https://www.tmtpost.com/7962286.html</link>
+      <description>&lt;![CDATA[火药味弥漫的智驾赛道：有人想跨界“屠龙”，有人默默抛弃“亲儿子”]]&gt;</description>
+      <pubDate>Wed, 22 Apr 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7962286.html</guid>
       <category>Technology</category>
     </item>
   </channel>
