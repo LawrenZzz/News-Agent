@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "44afb32ccda93367cefb5f6a6e1162fb06c2e3ce1a1937fbb71c3c766cf25f92": {
-        "title": "从百度到Meta，科技巨头的 AI 组织战，开打了",
-        "link": "https://www.tmtpost.com/7924829.html",
-        "published_date": "Mon, 23 Mar 2026 16:30:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.575087"
-      },
-      "82d7d30792406e7e391e2c11d13354dce2675589e83ed657f60bf2869f37bd11": {
-        "title": "Meta和苹果都来“借兵”，谷歌Gemini怎么就成了硅谷“托底王”？",
-        "link": "https://www.tmtpost.com/7925419.html",
-        "published_date": "Mon, 23 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.575095"
-      },
-      "5df6ba52687629a0df1b1bad5c43031038941b9e0235757c96f3cb69337d2e74": {
-        "title": "Netflix发现了在现代CPU上扩展容器时的内核级瓶颈",
-        "link": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 23 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.575098"
-      },
-      "36d6c5eebafe51628bf5c6ba687a3f26a38c096d561561274a6d46e545a9a680": {
-        "title": "Kimi用户“被劝退”，都怪中国大模型Token调用量领跑全球？",
-        "link": "https://www.tmtpost.com/7925436.html",
-        "published_date": "Mon, 23 Mar 2026 16:21:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.575100"
-      },
-      "382cc09d3739c412a6408cfe62a25f83dcf94ddffc60911cc811a2da411fd7d6": {
-        "title": "大疆起诉影石专利侵权，涉及多项关键技术领域，多名前核心研发人员或涉案",
-        "link": "https://www.tmtpost.com/7925057.html",
-        "published_date": "Mon, 23 Mar 2026 14:55:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.575102"
-      },
       "f09cc00abae74eb07194a08e6b14a2aaf3d2f8e1d8b762194baef4dca892a1e6": {
         "title": "Cursor被抓包“套壳”再反转：数百亿美元估值的美国AI独角兽，新底牌竟是Kimi",
         "link": "https://www.tmtpost.com/7925673.html",
@@ -2641,33 +2611,39 @@
         "link": "https://www.tmtpost.com/7962442.html",
         "published_date": "Wed, 22 Apr 2026 11:49:00 GMT",
         "first_seen": "2026-04-22T07:00:15.032499"
+      },
+      "ac03db062287999e9bd67f1c29ed3929fbc84f10565f790612429a1ccf50f62a": {
+        "title": "当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕",
+        "link": "https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 14:43:00 GMT",
+        "first_seen": "2026-04-22T09:19:10.520292"
+      },
+      "4b0b3b2b4a0c2cd4d2d241065ee6c3227a9691ecb6c90dc1bffe0498e5dcfb6d": {
+        "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 16:56:00 GMT",
+        "first_seen": "2026-04-22T09:19:10.520299"
+      },
+      "0fb5cac427a4ac969d14e51fa226c14a1589993ba23dac2bedc97668cacd98a4": {
+        "title": "百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力",
+        "link": "https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 15:48:00 GMT",
+        "first_seen": "2026-04-22T09:19:10.520302"
+      },
+      "6d73f072c210df65ed134c0eb0a260841b2f48028fd73d7e2473cc35ec40c699": {
+        "title": "谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持",
+        "link": "https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-22T09:19:10.520303"
+      },
+      "1bf7a53276eb9b4c5501d64b78278b97e45c93705e553632f78268e5462a43f3": {
+        "title": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
+        "link": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 22 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-22T09:19:10.520305"
       }
     },
     "Finance": {
-      "cce3c4588e9a7947190807eebca13f1e7007c131d35073cd15872c064350db31": {
-        "title": "Flights disrupted after crash at NY’s LaGuardia airport kills two people",
-        "link": "https://www.ft.com/content/91af438c-9b87-4ed8-bc51-114cb2de7c38",
-        "published_date": "Mon, 23 Mar 2026 08:45:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.610208"
-      },
-      "a82da2efb43438f03d4b16be86d9e49bbedc2541e221aadde4b17face2a822ee": {
-        "title": "Gilt rout deepens as traders bet on four BoE rate rises this year",
-        "link": "https://www.ft.com/content/28cab6bf-d289-443d-917e-040e96c0717e",
-        "published_date": "Mon, 23 Mar 2026 08:34:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.610213"
-      },
-      "579308786d4eefba2f1bd366df96d7e2914c3165fe91e25519711fa145638d63": {
-        "title": "London ambulances set on fire in suspected antisemitic incident",
-        "link": "https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4",
-        "published_date": "Mon, 23 Mar 2026 06:56:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.610215"
-      },
-      "3ae76e24ac8b54aa3c65f1e67a1c2382865c08df1fbb07cf4d3464b5adaf9fda": {
-        "title": "Gilts: blame the hedge funds?",
-        "link": "https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d",
-        "published_date": "Mon, 23 Mar 2026 06:30:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.610217"
-      },
       "226e5b7a3c8deec5e0cac94478d88c64ec7c61ec37cb609f7d367de549d518d2": {
         "title": "Apollo caps investor withdrawals from flagship private credit fund",
         "link": "https://www.ft.com/content/d315cb1c-1e1e-479c-a6d4-b3a817fead3e",
@@ -4821,27 +4797,39 @@
         "link": "https://www.marketwatch.com/story/what-is-cursor-spacex-could-buy-the-ai-company-for-a-whopping-60-billion-97cc4c16?mod=mw_rss_topstories",
         "published_date": "Wed, 22 Apr 2026 00:01:00 GMT",
         "first_seen": "2026-04-22T06:58:55.217085"
+      },
+      "cfaba517de1b3e00806c583555a8b82c244b4f9b771ead275db5a11409d03b06": {
+        "title": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin",
+        "link": "https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories",
+        "published_date": "Wed, 22 Apr 2026 07:36:00 GMT",
+        "first_seen": "2026-04-22T09:18:43.952647"
+      },
+      "3d1a19e5f5b9db7290c7fdc55af623ad74b8d064e03b3ad4d54ed4dd3b39f64a": {
+        "title": "Moscow to suspend Kazakh oil flows through key pipeline supplying Berlin",
+        "link": "https://www.ft.com/content/3738ba48-b4e2-493d-96b1-0a80b4e2c4b8",
+        "published_date": "Wed, 22 Apr 2026 08:53:00 GMT",
+        "first_seen": "2026-04-22T09:18:43.952656"
+      },
+      "c32d26bd050f296358503b8ff7945d5cfaef1a6d67131f53fd360aa99cd1a04e": {
+        "title": "UK inflation accelerates to 3.3% in March as petrol prices jump",
+        "link": "https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476",
+        "published_date": "Wed, 22 Apr 2026 07:49:00 GMT",
+        "first_seen": "2026-04-22T09:18:43.952659"
+      },
+      "b5cc29ead1b979b94cfb5882c2bace127a9c306e972cebc5000abf771b1ed36d": {
+        "title": "‘The Lord has taken care of me’: I’m 74. I went from working $14 an hour to $3.4 million. Here’s how I did it.",
+        "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
+        "published_date": "Wed, 22 Apr 2026 09:15:00 GMT",
+        "first_seen": "2026-04-22T09:18:43.952661"
+      },
+      "52e5e8819ce81c91912afec4e64429dc9f4f78b86447f3e22528f5fb12e920de": {
+        "title": "Lily Allen and David Harbour sell their quirky Brooklyn townhouse for $7 million, a year after breaking up",
+        "link": "https://www.marketwatch.com/story/lily-allen-and-david-harbour-sell-their-quirky-brooklyn-townhouse-for-7-million-a-year-after-breaking-up-76cf01d7?mod=mw_rss_topstories",
+        "published_date": "Wed, 22 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-22T09:18:43.952663"
       }
     },
     "Ai": {
-      "27d647a2d86bf43979b4c571a58b1867208f5af1449fd867b86f771d93b172a3": {
-        "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
-        "link": "https://www.qbitai.com/2026/03/391361.html",
-        "published_date": "Mon, 23 Mar 2026 08:04:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.754903"
-      },
-      "06b6bf2037d944b2dda2fe3ba179d210cd934717fb173f25304197068c573693": {
-        "title": "寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖",
-        "link": "https://www.qbitai.com/2026/03/391359.html",
-        "published_date": "Mon, 23 Mar 2026 08:02:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.754911"
-      },
-      "69d47a812f35e56b75d3dd500abb8f29854d15bb2bc734d3de0cea576f35c4a1": {
-        "title": "2026-03-23日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-23/",
-        "published_date": "Mon, 23 Mar 2026 09:41:00 GMT",
-        "first_seen": "2026-03-23T08:51:29.754913"
-      },
       "e7b0b29c74698a8475dea3a9138e4028b2a98bfdeae2b031d9d0ec1733355212": {
         "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
         "link": "https://www.qbitai.com/2026/03/391515.html",
@@ -6323,13 +6311,25 @@
         "link": "https://www.qbitai.com/2026/04/404167.html",
         "published_date": "Wed, 22 Apr 2026 02:13:00 GMT",
         "first_seen": "2026-04-22T06:59:25.617802"
+      },
+      "47a457636d14e1efceb8d9cff24171bf9f39d91a0cb3464f98ec68c26eb4952a": {
+        "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
+        "link": "https://www.qbitai.com/2026/04/404604.html",
+        "published_date": "Wed, 22 Apr 2026 07:17:00 GMT",
+        "first_seen": "2026-04-22T09:18:44.104837"
+      },
+      "f6d12719bf8fa929d260bf56b717bfd6719447da7abe105aa2155c0bd5c9a609": {
+        "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
+        "link": "https://www.qbitai.com/2026/04/404481.html",
+        "published_date": "Wed, 22 Apr 2026 07:10:00 GMT",
+        "first_seen": "2026-04-22T09:18:44.104844"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-22T07:00:15.032501",
-    "Finance": "2026-04-22T06:58:55.217088",
-    "Ai": "2026-04-22T06:59:25.617806"
+    "Technology": "2026-04-22T09:19:10.520308",
+    "Finance": "2026-04-22T09:18:43.952665",
+    "Ai": "2026-04-22T09:18:44.104847"
   }
 }
