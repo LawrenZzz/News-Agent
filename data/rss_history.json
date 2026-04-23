@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6ccfe02e5f7f20ac0e40fdcf8c50f1705d356314676fb7690794f914fd703672": {
-        "title": "AI芯片：回望过去一年，展望2026",
-        "link": "https://www.tmtpost.com/7926538.html",
-        "published_date": "Tue, 24 Mar 2026 10:33:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.796021"
-      },
-      "e12bb15fe5a9d6b2080c972aaa102dfb3cf624910cadb9bef247ad61d1c1ad0a": {
-        "title": "英伟达联手 Akamai：AI Grid 背后的 Token 成本与吞吐博弈",
-        "link": "https://www.infoq.cn/article/cBqdxzzI0YOXSUAbsaxz?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 11:15:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.796028"
-      },
-      "9bb308eb6cd21d875e0868f822f674f2fa3b3a3d3d9d8574d7681d14f957c1d4": {
-        "title": "从写文案到盯数据、算 ROI，流量见顶后，AI Agent 正在杀进核心业务",
-        "link": "https://www.infoq.cn/article/P4c8cU7dalmhvWbAsqHL?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 24 Mar 2026 15:18:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.796031"
-      },
-      "002e448d0406061da338ae7883ef4a2f08c0126909dba2f0f0177d8d257c3ca4": {
-        "title": "从“塞班”时代到“iPhone”时刻：AI眼镜进入价值重估期",
-        "link": "https://www.tmtpost.com/7926590.html",
-        "published_date": "Tue, 24 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.796033"
-      },
-      "df48be4cab0146c6aa52edbd71328771391f1cecae97fca268bac61dca438ea0": {
-        "title": "With Meager Spending in R&D, Unitree Robotics Deserves 4.2 Billion Yuan to be Raised in IPO?",
-        "link": "https://www.tmtpost.com/7926780.html",
-        "published_date": "Tue, 24 Mar 2026 14:52:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.796035"
-      },
       "704af406cf5256bd3bd83ffab5f7e6d9d0322f5fb60a3f735cda5b29e62515f8": {
         "title": "英伟达早不靠GPU躺赢！黄仁勋终极预判：10亿程序员时代将至，AI智能彻底廉价",
         "link": "https://www.infoq.cn/article/3ZLmLsMVwD1PzL6s86YO?utm_source=rss&utm_medium=article",
@@ -2641,27 +2611,39 @@
         "link": "https://www.tmtpost.com/7963992.html",
         "published_date": "Thu, 23 Apr 2026 14:29:00 GMT",
         "first_seen": "2026-04-23T07:03:04.570001"
+      },
+      "ca3c9657027c04123eb01fa2d0561d3c25f712bc58086b018d2dfa608bab09b0": {
+        "title": "马斯克600亿吞Cursor，剑指OpenAI",
+        "link": "https://www.tmtpost.com/7963517.html",
+        "published_date": "Thu, 23 Apr 2026 12:02:00 GMT",
+        "first_seen": "2026-04-23T09:25:01.969256"
+      },
+      "8ea34cdf3d0da85db251a62f92e4e95fcce3139d45ce03b0046235c5a13080c5": {
+        "title": "梁文锋的惊险一跃：当DeepSeek撞上算力账单与组织重构",
+        "link": "https://www.tmtpost.com/7963833.html",
+        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
+        "first_seen": "2026-04-23T09:25:01.969263"
+      },
+      "294eeffe50639d40794f1fa79739e5bec31c2c768b4eeab03e9fdb4098964176": {
+        "title": "脑机接口，一场没有硝烟的算法战争",
+        "link": "https://www.tmtpost.com/7964027.html",
+        "published_date": "Thu, 23 Apr 2026 12:42:00 GMT",
+        "first_seen": "2026-04-23T09:25:01.969265"
+      },
+      "24a91e4ce7ac3165e665f7e9986e6bc2f691ee1dbf08a13f0af160c9913d692f": {
+        "title": "腾讯与字节的AI时差：1200天",
+        "link": "https://www.tmtpost.com/7963576.html",
+        "published_date": "Thu, 23 Apr 2026 09:36:00 GMT",
+        "first_seen": "2026-04-23T09:25:01.969267"
+      },
+      "5b8fc34977e94bdd5856db06addee4ccb68a0d5523f80afadddd1262225122e7": {
+        "title": "靠“AI 云”爆红的 Vercel，栽在一个第三方AI工具手里！IPO前夕遭黑，200万美元赎金谈崩？",
+        "link": "https://www.infoq.cn/article/OJN55xPWaVxT2IajEw6G?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 23 Apr 2026 09:58:00 GMT",
+        "first_seen": "2026-04-23T09:25:01.969269"
       }
     },
     "Finance": {
-      "5f60b0df18ee34335e6faaf5eb38d1b887b14e8a852d4dde579f4a2335640584": {
-        "title": "Revolut profits surge to record as it wins market share",
-        "link": "https://www.ft.com/content/58e5d202-2b6c-4521-8c06-c7a0f8ac3e9b",
-        "published_date": "Tue, 24 Mar 2026 07:29:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.830887"
-      },
-      "1ed50eafdcfb610131e61c6656e2797115c448d25911b16dff0ef29037effb4e": {
-        "title": "Japan’s SMFG explores possible takeover of Jefferies",
-        "link": "https://www.ft.com/content/06ada6ab-47bb-4387-bcdf-b9c38417e9b4",
-        "published_date": "Tue, 24 Mar 2026 07:23:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.830893"
-      },
-      "49dce1af8b1565fafb53bfa7837d4dc78c7f1374d9fd18ec7f844350feec1968": {
-        "title": "Apollo agrees biggest Japan deal in $3.7bn rescue of glassmaker NSG",
-        "link": "https://www.ft.com/content/14acd17e-33c6-4c7c-81be-a114bd965797",
-        "published_date": "Tue, 24 Mar 2026 06:12:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.830895"
-      },
       "e2ef2d54569e950bc23958e8692356a6fad6531a8cd91071c782eba77ae32a03": {
         "title": "VW in talks with Israel’s Iron Dome maker to shift from cars to missile defence",
         "link": "https://www.ft.com/content/1e41e6db-792f-4f60-b567-adb6458fb072",
@@ -4827,21 +4809,39 @@
         "link": "https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d",
         "published_date": "Thu, 23 Apr 2026 04:06:00 GMT",
         "first_seen": "2026-04-23T07:03:23.016339"
+      },
+      "b5f6ad96b99ed9436eca4584874618e1b1fc984b5771d2c7aae842ad268c5ec8": {
+        "title": "I’m 56. My home has $400,000 in equity. If I lose my job, should I do a reverse mortgage?",
+        "link": "https://www.marketwatch.com/story/im-56-my-home-has-400-000-in-equity-if-i-lose-my-job-should-i-do-a-reverse-mortgage-593a85f0?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Apr 2026 09:17:00 GMT",
+        "first_seen": "2026-04-23T09:24:27.702881"
+      },
+      "fba48a5bba9d3420575f8e5b38c1ae463abc3274dfbe454a847be4a20d2a99a7": {
+        "title": "Texas Instruments topped Wall Street’s outlook on more than just data-center demand",
+        "link": "https://www.marketwatch.com/story/texas-instruments-topped-wall-streets-outlook-on-more-than-just-data-center-demand-c033d44a?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Apr 2026 08:43:00 GMT",
+        "first_seen": "2026-04-23T09:24:27.702894"
+      },
+      "65d750769c6e3d5b3da109f559040ab54f53ff2dd2efa75add20649208712a92": {
+        "title": "L’Oréal hails ‘lipstick effect’ as war drives sales of small beauty comforts",
+        "link": "https://www.ft.com/content/a1be76ce-3bcf-41d8-ba3f-06f4e938a294",
+        "published_date": "Thu, 23 Apr 2026 08:22:00 GMT",
+        "first_seen": "2026-04-23T09:24:27.702897"
+      },
+      "3eccf99e79f56e463a9c889a69862f79d0c6cd87b310b25a6e36d378183a3100": {
+        "title": "Sainsbury’s and WHSmith warn Middle East war will hit profits",
+        "link": "https://www.ft.com/content/9607fdb9-cf1d-4b2f-9b89-6aa5cde0a371",
+        "published_date": "Thu, 23 Apr 2026 07:35:00 GMT",
+        "first_seen": "2026-04-23T09:24:27.702898"
+      },
+      "08231844ea93c662749a0b2d807334ef762d9009ab5d3c6a12ff29e53c004194": {
+        "title": "Years after he auctioned it off, NSYNC singer Joey Fatone’s former mansion is on the market for $7.9 million",
+        "link": "https://www.marketwatch.com/story/years-after-he-auctioned-it-off-nsync-singer-joey-fatones-former-mansion-is-on-the-market-for-7-9-million-e529701d?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-23T09:24:27.702900"
       }
     },
     "Ai": {
-      "ff715df2ddbd671f37c6ff11afd944ec8eb96b23d3f7d7bed8d659728213c24e": {
-        "title": "LeCun的世界模型单GPU就能跑了",
-        "link": "https://www.qbitai.com/2026/03/391698.html",
-        "published_date": "Tue, 24 Mar 2026 07:00:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.980956"
-      },
-      "2122c8dd3b7c4b4e9fd470ac78ccbc3f7e78a0e15fb7ada54b97f46cb6fff8fc": {
-        "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
-        "link": "https://www.qbitai.com/2026/03/391668.html",
-        "published_date": "Tue, 24 Mar 2026 06:05:00 GMT",
-        "first_seen": "2026-03-24T08:47:47.980964"
-      },
       "e9656800216f7d55f051f14e34d08d593689ca31ba3160b89d346fe6e04b5880": {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
         "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
@@ -6353,13 +6353,19 @@
         "link": "https://www.qbitai.com/2026/04/405299.html",
         "published_date": "Thu, 23 Apr 2026 00:43:00 GMT",
         "first_seen": "2026-04-23T07:03:23.181047"
+      },
+      "9f1c2933fe59bf0d549779fd7841e49fc33e7867d494a104baa3b6a6007d964d": {
+        "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
+        "link": "https://www.qbitai.com/2026/04/405391.html",
+        "published_date": "Thu, 23 Apr 2026 08:04:00 GMT",
+        "first_seen": "2026-04-23T09:24:27.871416"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-23T07:03:04.570003",
-    "Finance": "2026-04-23T07:03:23.016342",
-    "Ai": "2026-04-23T07:03:23.181049"
+    "Technology": "2026-04-23T09:25:01.969270",
+    "Finance": "2026-04-23T09:24:27.702902",
+    "Ai": "2026-04-23T09:24:27.871428"
   }
 }
