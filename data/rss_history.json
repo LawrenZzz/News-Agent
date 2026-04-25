@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f6af06ac82881b9cd958a730e21457706e333339b9354a8a2ef199ae3d850386": {
-        "title": "Token重构科技产业：一场围绕“AI电网”的新基础设施战争",
-        "link": "https://www.tmtpost.com/7929190.html",
-        "published_date": "Thu, 26 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-26T06:12:11.618291"
-      },
-      "58d6b99294e6845f1a092a7137de480ab3a080ac37bdb767fcc565721478d756": {
-        "title": "京东公布最新AI进展：推出“龙虾天团”，首次开源大模型JoyAI-LLM Flash",
-        "link": "https://www.infoq.cn/article/RNszIZY7Ns5tdBAlhyGE?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:20:00 GMT",
-        "first_seen": "2026-03-26T06:12:11.618299"
-      },
-      "e89e3065f8eb7a03988ff37365b538f9d7dcc95faded5ca4757b32afa43131b5": {
-        "title": "技术破题与生态立新，西门子定义工业AI新纪元",
-        "link": "https://www.tmtpost.com/7929728.html",
-        "published_date": "Thu, 26 Mar 2026 13:57:00 GMT",
-        "first_seen": "2026-03-26T06:12:11.618301"
-      },
-      "690d1636ecaff9e17fafcd1fa0560b72660d968520034de9d885adce82e0bb10": {
-        "title": "苹果优化其基础模型的上下文窗口管理能力",
-        "link": "https://www.infoq.cn/article/a3RCQID6a6QukWzeAY8v?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:10:00 GMT",
-        "first_seen": "2026-03-26T06:12:11.618303"
-      },
-      "0c9c1c9838faf150de9720a24536a32c5ba1bfbbc523e273e951a3a3c2de8c0b": {
-        "title": "Stripe工程师部署了自主智能体Minions，每周生成数千个拉取请求",
-        "link": "https://www.infoq.cn/article/PqlJ5b0GKCC9771Eby8G?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 26 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-26T06:12:11.618305"
-      },
       "69fb65b22ec0f46d7d9ee70c601afdd9f301b3e8675a3cfd5437525c40939fcc": {
         "title": "OpenAI关停Sora，AI开始“算账”",
         "link": "https://www.tmtpost.com/7929286.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7966743.html",
         "published_date": "Fri, 24 Apr 2026 23:27:00 GMT",
         "first_seen": "2026-04-24T23:40:11.623572"
+      },
+      "73de13b8c985f6bb50933b08cacd5385af2fd78597eb9867f26341ae01b29d58": {
+        "title": "DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？",
+        "link": "https://www.tmtpost.com/7966538.html",
+        "published_date": "Sat, 25 Apr 2026 10:16:00 GMT",
+        "first_seen": "2026-04-25T06:22:14.366542"
+      },
+      "a13ffd2220420d7182de6c6a4662eddf9d88f5636e2b933e7db3e4b863e5b7dd": {
+        "title": "GPT-5.5实测：更聪明，也更爱“说谎”",
+        "link": "https://www.tmtpost.com/7966667.html",
+        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
+        "first_seen": "2026-04-25T06:22:14.366548"
+      },
+      "3d3c1949a1d1416c27f9c6657fe5b77656837a2c9119abd7ed19b055283b566a": {
+        "title": "AI打倒了英特尔，AI又救了英特尔",
+        "link": "https://www.tmtpost.com/7966888.html",
+        "published_date": "Sat, 25 Apr 2026 09:22:00 GMT",
+        "first_seen": "2026-04-25T06:22:14.366550"
+      },
+      "3734b71d88ec32b16d1463593c80aa85db2a183cfd779678bca10f1e397236c2": {
+        "title": "DeepSeek不想只做大模型了",
+        "link": "https://www.tmtpost.com/7966836.html",
+        "published_date": "Sat, 25 Apr 2026 09:31:00 GMT",
+        "first_seen": "2026-04-25T06:22:14.366552"
+      },
+      "80b40fb5acdc4e63f50de6879ad3003b4ea8c42a5d9cc499eb05810b37800806": {
+        "title": "2026北京车展：从七大黑科技看全球最大车展",
+        "link": "https://www.tmtpost.com/7966574.html",
+        "published_date": "Sat, 25 Apr 2026 10:16:00 GMT",
+        "first_seen": "2026-04-25T06:22:14.366553"
       }
     },
     "Finance": {
-      "3bb961f04bd65d59da22c91406ea3e3a6ee5cd62c452359de801d88aeffd57e0": {
-        "title": "The spectre of stagflation",
-        "link": "https://www.ft.com/content/fe6d2cd9-0e4d-4b84-a882-869a673fcd32",
-        "published_date": "Thu, 26 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.819729"
-      },
-      "36d6f67bc447fa90dc7c0bfd2472b30c36c8005c8e997569304a1e1cb67e41f5": {
-        "title": "Bessent discussed ways to recast ties between Fed and Treasury in BoE’s image",
-        "link": "https://www.ft.com/content/9d1859f0-2f93-4ff1-8cfb-8046342bf9f7",
-        "published_date": "Thu, 26 Mar 2026 05:00:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.819736"
-      },
-      "6b4d537a64db263ddc7b22f53f8eb43f7198dcc6fcb981136ec21d2dfd48d110": {
-        "title": "Israel strikes Iran while Gulf countries intercept drones",
-        "link": "https://www.ft.com/content/1d92ecc5-f810-41f3-9dc1-465acbdd9a5b",
-        "published_date": "Thu, 26 Mar 2026 05:50:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.819738"
-      },
-      "74bd7f05b54081e2b02966ac83da2f2cac87dc85fd4f7850882d29d565d7048c": {
-        "title": "Mortgage rates near 6-month high — but here’s how much worse it would be without Freddie and Fannie’s bond buying",
-        "link": "https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e?mod=mw_rss_topstories",
-        "published_date": "Thu, 26 Mar 2026 02:29:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.819739"
-      },
-      "34e5221007eeaaf2a23d692874c8eea514263769d5598665c4e2ee2d3a05ab8a": {
-        "title": "Hong Kong weighs ‘big bang’ tax cuts for asset managers",
-        "link": "https://www.ft.com/content/b018d802-a7d1-4853-9acd-d3007a61cf72",
-        "published_date": "Thu, 26 Mar 2026 03:32:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.819741"
-      },
       "15812607df0b0e80ca4bdcc12fb65aa582e47e5c2b0a98c4ab1f7e20322419ad": {
         "title": "US bond market shows signs of strain as Iran war sparks Treasury tumult",
         "link": "https://www.ft.com/content/2e0185d1-3229-463c-8391-6dd09fe11886",
@@ -4854,24 +4824,6 @@
       }
     },
     "Ai": {
-      "d0642467090e455de6a09eaab38026a44db9bc4a1375a2b60ab73f048466fa8d": {
-        "title": "2026-03-26日刊",
-        "link": "https://ai.hubtoday.app//2026-03/2026-03-26/",
-        "published_date": "Thu, 26 Mar 2026 09:39:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.968144"
-      },
-      "3ba3848e0f2014a45ddc0cff1d4ff23fa76addd7aee9a2175772288fde05f31d": {
-        "title": "谷歌新论文把内存股价干崩了！KV cache压缩6倍，网友：硅谷成真了 profile-avatar",
-        "link": "https://www.qbitai.com/2026/03/392215.html",
-        "published_date": "Thu, 26 Mar 2026 03:03:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.968152"
-      },
-      "accec0d8e32f371cd053087f15f1947553c644a5a7fea8063e0a410ad1a20b27": {
-        "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
-        "link": "https://www.qbitai.com/2026/03/392137.html",
-        "published_date": "Thu, 26 Mar 2026 02:53:00 GMT",
-        "first_seen": "2026-03-26T06:12:24.968154"
-      },
       "4e515094ab90de6f074a1e289282333eddb916ea4a2e61468b5fb95f7f7b0413": {
         "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
         "link": "https://www.qbitai.com/2026/03/392281.html",
@@ -6353,13 +6305,43 @@
         "link": "https://www.qbitai.com/2026/04/406775.html",
         "published_date": "Fri, 24 Apr 2026 09:45:00 GMT",
         "first_seen": "2026-04-24T23:39:30.497910"
+      },
+      "99b22fd79540caf4dece7d316acf905989e5c09455ac7323b789c621dbeda82e": {
+        "title": "2026-04-25日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-25/",
+        "published_date": "Sat, 25 Apr 2026 09:59:00 GMT",
+        "first_seen": "2026-04-25T06:21:57.893480"
+      },
+      "21864450b36e28a91feed5376da6fb116c70ff1b0239920b3631eeec8d78dae0": {
+        "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+        "link": "https://www.qbitai.com/2026/04/406973.html",
+        "published_date": "Sat, 25 Apr 2026 05:41:00 GMT",
+        "first_seen": "2026-04-25T06:21:57.893488"
+      },
+      "ef218b0372393f76bad6df780cbb23a068845501d837d698a53fe4a78f110c32": {
+        "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+        "link": "https://www.qbitai.com/2026/04/406960.html",
+        "published_date": "Sat, 25 Apr 2026 05:31:00 GMT",
+        "first_seen": "2026-04-25T06:21:57.893491"
+      },
+      "19f29cc14252f46dcd347494d2cb467d20a777681769d7e27c59cc5cc9a77348": {
+        "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+        "link": "https://www.qbitai.com/2026/04/406892.html",
+        "published_date": "Sat, 25 Apr 2026 03:35:00 GMT",
+        "first_seen": "2026-04-25T06:21:57.893493"
+      },
+      "2028541585787f3489273b1422201899f0a21ccf22d4ef35be391be69ddd2885": {
+        "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+        "link": "https://www.qbitai.com/2026/04/406809.html",
+        "published_date": "Sat, 25 Apr 2026 03:27:00 GMT",
+        "first_seen": "2026-04-25T06:21:57.893494"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-24T23:40:11.623574",
+    "Technology": "2026-04-25T06:22:14.366556",
     "Finance": "2026-04-24T23:39:19.692829",
-    "Ai": "2026-04-24T23:39:30.497913"
+    "Ai": "2026-04-25T06:21:57.893496"
   }
 }
