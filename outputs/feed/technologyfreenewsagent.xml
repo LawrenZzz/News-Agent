@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Apr 2026 07:34:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 07:35:37 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 10:13:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:15:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好</title>
-      <link>https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“我把所有模型都换成了DeepSeek V4”：月账单将降 90%，效果还更好]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/e4UXTsCToLXsRVEWNUqW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不是算力，不是电力，这才是中美AI竞争的终极变量</title>
+      <link>https://www.tmtpost.com/7968430.html</link>
+      <description>&lt;![CDATA[不是算力，不是电力，这才是中美AI竞争的终极变量]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？</title>
-      <link>https://www.tmtpost.com/7967849.html</link>
-      <description>&lt;![CDATA[从仓库到工厂，具身智能产业应用的“GPT时刻”还有多远？]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967849.html</guid>
+      <title>从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧</title>
+      <link>https://www.tmtpost.com/7968529.html</link>
+      <description>&lt;![CDATA[从“可用”到“好用”，国产算力跨越了吗？四小龙财报背后的喜与忧]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968529.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast</title>
-      <link>https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&amp;utm_medium=article</guid>
+      <title>等待DeepSeek的145天｜深度</title>
+      <link>https://www.tmtpost.com/7966827.html</link>
+      <description>&lt;![CDATA[等待DeepSeek的145天｜深度]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 12:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966827.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业能把安全交给Agent么？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7968344.html</link>
-      <description>&lt;![CDATA[企业能把安全交给Agent么？丨ToB产业观察]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 12:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7968344.html</guid>
+      <title>三个月600亿美元，为什么中国创新药突然被全球扫货？</title>
+      <link>https://www.tmtpost.com/7968265.html</link>
+      <description>&lt;![CDATA[三个月600亿美元，为什么中国创新药突然被全球扫货？]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 17:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968265.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当云区域失效：地缘动荡环境下的高可用重构</title>
-      <link>https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当云区域失效：地缘动荡环境下的高可用重构]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&amp;utm_medium=article</guid>
+      <title>摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地</title>
+      <link>https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
