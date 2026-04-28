@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9b4cda0a15fc1560038296c10a5834f85c390e05898f96f9c230fb4131c5d011": {
-        "title": "Vercel 发布生成式 UI 框架 JSON-Render",
-        "link": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-29T08:38:51.889872"
-      },
-      "2a540ad9d5c2914d5c0dfbe52f22a72188abc70133e13ba976c3ca53a2f2a54b": {
-        "title": "手握190亿ARR还要急着IPO：Anthropic高光背后的生存赌局",
-        "link": "https://www.tmtpost.com/7933060.html",
-        "published_date": "Sun, 29 Mar 2026 09:47:00 GMT",
-        "first_seen": "2026-03-29T08:38:51.889889"
-      },
-      "0d2bc8ac7e0ec2d776b693f214f1b6cfe3d76f2927720f7810b25218057c42e9": {
-        "title": "月之暗面冲刺IPO：大模型竞争进入“定价阶段”",
-        "link": "https://www.tmtpost.com/7933267.html",
-        "published_date": "Sun, 29 Mar 2026 08:48:00 GMT",
-        "first_seen": "2026-03-29T08:38:51.889892"
-      },
-      "9727dddb0ca1b6cc2c1733bb304d4c65ad8c48f92dbd66cc0f29e5a8c0bdc97f": {
-        "title": "腾讯的AI慢战略，能跑通吗？",
-        "link": "https://www.tmtpost.com/7933507.html",
-        "published_date": "Sun, 29 Mar 2026 10:50:00 GMT",
-        "first_seen": "2026-03-29T08:38:51.889895"
-      },
-      "35e5854c813e5c9a6da82cdec1b9a2095c6f72e952e7b3e12120ee6a2f85fb1d": {
-        "title": "推荐 14 个 3 月份最牛牛牛牛的 GitHub 项目，这一期挺顶的。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532554&idx=1&sn=f2df86423107972a43379890bb5e94ff",
-        "published_date": "Sun, 29 Mar 2026 11:06:00 GMT",
-        "first_seen": "2026-03-29T08:38:51.889897"
-      },
       "8223325eff499d0b69ff7da36cb9c48808ed59602d26a723bdb19c803fc26338": {
         "title": "【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低",
         "link": "https://www.tmtpost.com/7933771.html",
@@ -2641,6 +2611,36 @@
         "link": "https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 28 Apr 2026 15:00:00 GMT",
         "first_seen": "2026-04-28T07:33:49.843516"
+      },
+      "70a55a67d4bf7da93b105f0a0ff2f1a94c04b8636c496a72b98a4ee48fad208e": {
+        "title": "一场谷歌“75%代码由AI生成”引发的焦虑",
+        "link": "https://www.tmtpost.com/7970697.html",
+        "published_date": "Tue, 28 Apr 2026 17:54:00 GMT",
+        "first_seen": "2026-04-28T10:12:57.395521"
+      },
+      "f957c1c16f36a0b127a97e57ad460e4a56dd477885db201e2711b5818b827270": {
+        "title": "Agent 的“记忆断片”困局，该怎么破？",
+        "link": "https://www.infoq.cn/video/AetF3mwIAP5iljCD0iW7?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Apr 2026 09:17:00 GMT",
+        "first_seen": "2026-04-28T10:12:57.395527"
+      },
+      "cc1eaff738f7409e415a690a99d9c5a0914f661ee9e16d9ed4d92875f657c20a": {
+        "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
+        "link": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-28T10:12:57.395529"
+      },
+      "18792186784e0d1743e6dff1b98cb24b39c82f911c3ea77831155659c4e9315c": {
+        "title": "20万字不到1分钱，梁文锋把token价格打骨折了",
+        "link": "https://www.tmtpost.com/7969877.html",
+        "published_date": "Tue, 28 Apr 2026 13:54:00 GMT",
+        "first_seen": "2026-04-28T10:12:57.395532"
+      },
+      "017ee6b2f1392d9d8089ce570c23a33e548b5217a4650c721efc03de7d090a4e": {
+        "title": "向量量化如何影响存储？与RaBitQ两位作者，从与谷歌TurboQuant学术争议聊起",
+        "link": "https://www.tmtpost.com/7969744.html",
+        "published_date": "Tue, 28 Apr 2026 15:50:00 GMT",
+        "first_seen": "2026-04-28T10:12:57.395534"
       }
     },
     "Finance": {
@@ -4875,6 +4875,36 @@
         "link": "https://www.ft.com/content/4bd56a80-948c-4749-a3ce-4cb1ae4ddfc5",
         "published_date": "Tue, 28 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-28T07:31:59.690105"
+      },
+      "86adea5737a150db3083b047bc3821127987ef63073d446cba592879ef800c75": {
+        "title": "Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war",
+        "link": "https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:27:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.615446"
+      },
+      "44c7d5c455a37ae11316405adcf2da3d2045f0addd0dc573ada656f04f9e2dcb": {
+        "title": "A second China shock is hitting Europe. These stocks are most vulnerable, strategist says.",
+        "link": "https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:33:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.615453"
+      },
+      "1fa0abaa0ad9bf7b31400bb75eb89e1be988d895a267c3db6b822e2c98b20bff": {
+        "title": "SoftBank shares dive, U.S. tech stocks under pressure on report of OpenAI missing goals",
+        "link": "https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:40:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.615455"
+      },
+      "33555adc481960d1673fef4fc9f23d63450ccbfb5177d2693ea96b5c8f48367f": {
+        "title": "This chart shows why investors should fear for private equity more than private credit",
+        "link": "https://www.marketwatch.com/story/this-chart-shows-why-investors-should-fear-for-private-equity-more-than-private-credit-4f24ea32?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 09:04:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.615457"
+      },
+      "536491a906a44ee122104f8138ea78714a1151e4d6cc03703da399e1cf7e57de": {
+        "title": "Barclays takes £228mn hit from collapse of UK mortgage lender MFS",
+        "link": "https://www.ft.com/content/2b8ea9d1-2fbe-4fa5-b1b3-4319f5bc02ee",
+        "published_date": "Tue, 28 Apr 2026 08:14:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.615459"
       }
     },
     "Ai": {
@@ -6377,13 +6407,31 @@
         "link": "https://www.qbitai.com/2026/04/409670.html",
         "published_date": "Tue, 28 Apr 2026 04:27:00 GMT",
         "first_seen": "2026-04-28T07:32:36.369009"
+      },
+      "777ecb085bcd6f48f15a9a9f7a9034e03e084a07d9606a84fbf95809a2fa971c": {
+        "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
+        "link": "https://www.qbitai.com/2026/04/410317.html",
+        "published_date": "Tue, 28 Apr 2026 08:54:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.763232"
+      },
+      "f2808b6db693c0a4d8c3f8cb668b4c4d86d64e7c7eef4437b8435ddc3dc69676": {
+        "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
+        "link": "https://www.qbitai.com/2026/04/410314.html",
+        "published_date": "Tue, 28 Apr 2026 08:31:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.763239"
+      },
+      "54733223878722e8765981b6b1ec117f4bb8b4abb68929a1cae16044a7a128b8": {
+        "title": "2026-04-28日刊",
+        "link": "https://ai.hubtoday.app//2026-04/2026-04-28/",
+        "published_date": "Tue, 28 Apr 2026 12:58:00 GMT",
+        "first_seen": "2026-04-28T10:12:37.763242"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-28T07:33:49.843518",
-    "Finance": "2026-04-28T07:31:59.690108",
-    "Ai": "2026-04-28T07:32:36.369012"
+    "Technology": "2026-04-28T10:12:57.395535",
+    "Finance": "2026-04-28T10:12:37.615461",
+    "Ai": "2026-04-28T10:12:37.763244"
   }
 }
