@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8223325eff499d0b69ff7da36cb9c48808ed59602d26a723bdb19c803fc26338": {
-        "title": "【钛晨报】北京启动L2至L4级智能网联新能源汽车商业保险开发应用；中东两大铝厂遇袭，恐影响全球供应链；全国猪价跌破5元，创历史新低",
-        "link": "https://www.tmtpost.com/7933771.html",
-        "published_date": "Mon, 30 Mar 2026 07:20:00 GMT",
-        "first_seen": "2026-03-29T23:30:49.014587"
-      },
-      "2dc65245b0face5b236f3cc2239fff063252e9f2e89fe791c9ae690fcad24fba": {
-        "title": "当王兴说“进攻AI”时，美团在防守什么？",
-        "link": "https://www.tmtpost.com/7933275.html",
-        "published_date": "Sun, 29 Mar 2026 17:53:00 GMT",
-        "first_seen": "2026-03-29T23:30:49.014596"
-      },
-      "4d2701c0284d726232ba9aebc7871016a5d3cfff8bc95d385b012071b0e671e1": {
-        "title": "从电价优势到低成本词元（Token）出海的叙事路径成立吗？",
-        "link": "https://www.tmtpost.com/7933712.html",
-        "published_date": "Sun, 29 Mar 2026 19:06:00 GMT",
-        "first_seen": "2026-03-29T23:30:49.014598"
-      },
-      "bdd0126041469124254bf0cf3f67c4f04c97d3b7d8073058a28be65e2aa50121": {
-        "title": "从霍尔木兹到格陵兰：“极限拉扯”背后的美式新丛林法则与资产重估",
-        "link": "https://www.tmtpost.com/7933541.html",
-        "published_date": "Sun, 29 Mar 2026 14:08:00 GMT",
-        "first_seen": "2026-03-29T23:30:49.014600"
-      },
-      "1061745ade1df5323520c532571e370497d36c98401011a4f79e4f2134105cf6": {
-        "title": "国际硕博学位教育乱象：为何成了劣币的竞技场？",
-        "link": "https://www.tmtpost.com/7933503.html",
-        "published_date": "Sun, 29 Mar 2026 14:03:00 GMT",
-        "first_seen": "2026-03-29T23:30:49.014601"
-      },
       "272df1b0285b92b619ba4a2396b3a9e12e9cfcc1fae664c16cc1891d7535b7ba": {
         "title": "电费只占5%，谁在真正吃掉算力成本？",
         "link": "https://www.tmtpost.com/7934099.html",
@@ -2641,39 +2611,39 @@
         "link": "https://www.tmtpost.com/7969744.html",
         "published_date": "Tue, 28 Apr 2026 15:50:00 GMT",
         "first_seen": "2026-04-28T10:12:57.395534"
+      },
+      "3efed34681f325ebeeb4b9f0f3ca9197604905a23efe6d41cdcc59869ed5c437": {
+        "title": "关于英伟达 L4 和物理 AI，吴新宙回应一切",
+        "link": "https://www.tmtpost.com/7970417.html",
+        "published_date": "Tue, 28 Apr 2026 18:52:00 GMT",
+        "first_seen": "2026-04-29T00:03:27.089798"
+      },
+      "716bdb26121d329dea2d8b31452095f8cbefd4a0aa79d1c3c99c526c580c90a0": {
+        "title": "自动驾驶重卡的“iPhone时刻”来了",
+        "link": "https://www.tmtpost.com/7970665.html",
+        "published_date": "Tue, 28 Apr 2026 20:50:00 GMT",
+        "first_seen": "2026-04-29T00:03:27.089806"
+      },
+      "c07d28224f78d325b0742669d4f9ff3091ab46aaebb09dcd8f265e8466a7d8d9": {
+        "title": "大模型的“保质期”比牛奶还短",
+        "link": "https://www.tmtpost.com/7970694.html",
+        "published_date": "Tue, 28 Apr 2026 18:53:00 GMT",
+        "first_seen": "2026-04-29T00:03:27.089808"
+      },
+      "4aa19405c1407436b4177173054fe6e756e112590cc419a0d60b981e93434033": {
+        "title": "Oracle：AI 算力豪赌，赔率够了吗？",
+        "link": "https://www.tmtpost.com/7969725.html",
+        "published_date": "Tue, 28 Apr 2026 14:34:00 GMT",
+        "first_seen": "2026-04-29T00:03:27.089810"
+      },
+      "5ff6056ba66a5d2aa41789ec46390a584737d576e79e0d82df5d2731c9074410": {
+        "title": "Karpathy 的 AI 知识库 理念，已经有人开源在 GitHub 上了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533334&idx=1&sn=1d33cc0d087234db8d0e20d839b04b97",
+        "published_date": "Tue, 28 Apr 2026 11:59:00 GMT",
+        "first_seen": "2026-04-29T00:03:27.089811"
       }
     },
     "Finance": {
-      "a22dee811c98ce830940f2453105e8ccad2611bf33a981d3256e57bf660e16d6": {
-        "title": "US-Israeli war against Iran escalates as talks prove fruitless",
-        "link": "https://www.ft.com/content/a8dbcf5f-df38-43de-bb4c-de3780cad0ab",
-        "published_date": "Sun, 29 Mar 2026 17:52:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.734349"
-      },
-      "e6152cb69fca45f40b5b3c860f02acbd51d8cd7b7e5f9f79625d52485c32ffdb": {
-        "title": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 23:06:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.734356"
-      },
-      "c6edca9d40c859edafb735f1d7c4579324d9de991fec476eba870ad55445b732": {
-        "title": "Distressed-debt funds target private credit downturn as ‘greatest opportunity’ since 2008",
-        "link": "https://www.ft.com/content/8c3514be-8c7b-4d13-a59a-dd8a23fb8c40",
-        "published_date": "Sun, 29 Mar 2026 20:00:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.734358"
-      },
-      "06c9f95ee12df96b56a73cf9fe17af9cf865006ea6e4791d594ce3f471a3431f": {
-        "title": "Avoid energy protectionism, UK chancellor will tell G7 allies",
-        "link": "https://www.ft.com/content/52541a81-f64d-4eaf-8201-ec2928269aee",
-        "published_date": "Sun, 29 Mar 2026 21:30:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.734360"
-      },
-      "194050f79d8b5641e863563d930968fe025a715f2c0afb021fda94234fc77e02": {
-        "title": "The Iran war will cement China’s superpower status",
-        "link": "https://www.ft.com/content/47edd17c-366f-42e4-b0cf-c20e065210d2",
-        "published_date": "Sun, 29 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.734362"
-      },
       "90bcadf35356dd5c55b529fd46877a2a541fbb5be530d5e32afb0f80baf81b8d": {
         "title": "Donald Trump says US could ‘take the oil in Iran’",
         "link": "https://www.ft.com/content/3bd9fb6c-2985-4d24-b86b-23b7884031f5",
@@ -4905,33 +4875,39 @@
         "link": "https://www.ft.com/content/2b8ea9d1-2fbe-4fa5-b1b3-4319f5bc02ee",
         "published_date": "Tue, 28 Apr 2026 08:14:00 GMT",
         "first_seen": "2026-04-28T10:12:37.615459"
+      },
+      "71596d7888bbe472758a7ee4f9a48cc0924fecf8af7b772626ee12894b95f07d": {
+        "title": "UK ministers gain power to force pension funds to invest in British companies",
+        "link": "https://www.ft.com/content/7beea881-a105-4197-bf58-6719917b448f",
+        "published_date": "Tue, 28 Apr 2026 22:29:00 GMT",
+        "first_seen": "2026-04-29T00:02:52.872639"
+      },
+      "e66cbc1e0fe3956a962e344182e4c6bd243bc3ce3a60d2a5e74ba8068ca285e9": {
+        "title": "Goldman stops bankers using Anthropic’s Claude in Hong Kong",
+        "link": "https://www.ft.com/content/aa3a7a19-ab94-4069-aea4-e192ab9abc41",
+        "published_date": "Tue, 28 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-29T00:02:52.872650"
+      },
+      "f3b70c5d5ce8f19089a0491ead43b37288de3c325aded57216dd96675eb5a258": {
+        "title": "Musk claims Altman ‘stole a charity’ in OpenAI trial testimony",
+        "link": "https://www.ft.com/content/a6a987e0-fd93-49c5-a161-2e217c3817b8",
+        "published_date": "Tue, 28 Apr 2026 23:04:00 GMT",
+        "first_seen": "2026-04-29T00:02:52.872653"
+      },
+      "6676eabb4bd09e9c0c0ce9e02117569cd163cee6803b6111d7c3d9f9f4a69489": {
+        "title": "These two countries are the most likely to leave OPEC’s orbit next",
+        "link": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:17:00 GMT",
+        "first_seen": "2026-04-29T00:02:52.872654"
+      },
+      "45603c4b8f529f9d4b4e8294eaac0980be42a8afd473a9fea0b78efccb994e6e": {
+        "title": "OpenAI expands Amazon deal after Microsoft loosens exclusivity terms",
+        "link": "https://www.ft.com/content/f159dd74-56a5-404b-ae54-ab4bab98b2c3",
+        "published_date": "Tue, 28 Apr 2026 18:37:00 GMT",
+        "first_seen": "2026-04-29T00:02:52.872656"
       }
     },
     "Ai": {
-      "ec330a62f7298d86ccb2672e8080bbff594d70c08e6cfc3302d92e7f7d4c7fb9": {
-        "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
-        "link": "https://www.qbitai.com/2026/03/393186.html",
-        "published_date": "Sun, 29 Mar 2026 16:17:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.881628"
-      },
-      "8de5af67054b4bf7676c93f665b5a00bcc37bb632f3bdd32f3fa17872dd26c26": {
-        "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
-        "link": "https://www.qbitai.com/2026/03/393164.html",
-        "published_date": "Sun, 29 Mar 2026 16:11:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.881636"
-      },
-      "cd46786deeab120549c35910f2515b2e9041cc3458fd05e70d8f4b43f1ff97ad": {
-        "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
-        "link": "https://www.qbitai.com/2026/03/393125.html",
-        "published_date": "Sun, 29 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.881638"
-      },
-      "45b4090f84fdaed80ddfb30c0b1c80491a248663760b6f8c3c6cfd5fe2a62650": {
-        "title": "何同学会玩：让龙虾自己3D打印自己",
-        "link": "https://www.qbitai.com/2026/03/393085.html",
-        "published_date": "Sun, 29 Mar 2026 15:21:00 GMT",
-        "first_seen": "2026-03-29T23:31:05.881639"
-      },
       "83f5949b787e3cd21dd5e19e1bf820a69c64ac8aefa7fc0f88f633a5334ac10f": {
         "title": "国产世界模型登顶全球第一！断层领先谷歌英伟达，3D准确度近满分",
         "link": "https://www.qbitai.com/2026/03/393296.html",
@@ -6430,8 +6406,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-28T10:12:57.395535",
-    "Finance": "2026-04-28T10:12:37.615461",
+    "Technology": "2026-04-29T00:03:27.089815",
+    "Finance": "2026-04-29T00:02:52.872658",
     "Ai": "2026-04-28T10:12:37.763244"
   }
 }
