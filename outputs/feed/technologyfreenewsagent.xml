@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Apr 2026 07:26:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2026 07:27:00 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2026 10:05:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:06:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞</title>
-      <link>https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权</title>
+      <link>https://www.tmtpost.com/7973085.html</link>
+      <description>&lt;![CDATA[马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7973085.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜</title>
-      <link>https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>继往开来：探索 AI 时代新的认知体系</title>
+      <link>https://www.tmtpost.com/7971741.html</link>
+      <description>&lt;![CDATA[继往开来：探索 AI 时代新的认知体系]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7971741.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一张68亿采购清单，具身智能第一次被写进“现实账本”</title>
-      <link>https://www.tmtpost.com/7973422.html</link>
-      <description>&lt;![CDATA[一张68亿采购清单，具身智能第一次被写进“现实账本”]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7973422.html</guid>
+      <title>银河通用拉着英伟达，把人形机器人最大的谎言拆穿了</title>
+      <link>https://www.tmtpost.com/7973821.html</link>
+      <description>&lt;![CDATA[银河通用拉着英伟达，把人形机器人最大的谎言拆穿了]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7973821.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦</title>
-      <link>https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了</title>
+      <link>https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 10:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Slack 长时运行多智能体系统的上下文管理方案</title>
-      <link>https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Slack 长时运行多智能体系统的上下文管理方案]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话5位航天大咖：距离跑通商业航天闭环，还有多远？</title>
+      <link>https://www.tmtpost.com/7971087.html</link>
+      <description>&lt;![CDATA[对话5位航天大咖：距离跑通商业航天闭环，还有多远？]]&gt;</description>
+      <pubDate>Thu, 30 Apr 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7971087.html</guid>
       <category>Technology</category>
     </item>
   </channel>
