@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Apr 2026 23:51:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2026 23:52:05 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 07:26:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 07:27:04 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了</title>
-      <link>https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面</title>
+      <link>https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？</title>
-      <link>http://www.geekpark.net/news/363649</link>
-      <description>&lt;![CDATA[对话奔驰高管：AI 上车之后，豪华品牌如何重新定义智能化？]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 21:31:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363649</guid>
+      <title>DeepSeek给AI装了根赛博手指，于是它能看见了</title>
+      <link>https://www.tmtpost.com/7974709.html</link>
+      <description>&lt;![CDATA[DeepSeek给AI装了根赛博手指，于是它能看见了]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974709.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国电信开始卖“国产Token”了</title>
-      <link>https://www.tmtpost.com/7974319.html</link>
-      <description>&lt;![CDATA[中国电信开始卖“国产Token”了]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974319.html</guid>
+      <title>苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？</title>
+      <link>https://www.tmtpost.com/7974779.html</link>
+      <description>&lt;![CDATA[苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974779.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌云推出 Agents CLI，简化 AI 智能体开发全流程</title>
-      <link>https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌云推出 Agents CLI，简化 AI 智能体开发全流程]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&amp;utm_medium=article</guid>
+      <title>写代码的人都懂：GitHub 开始解决“大 PR 地狱”</title>
+      <link>https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[写代码的人都懂：GitHub 开始解决“大 PR 地狱”]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 09:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>A股年报透视：AI算力产业链爆发，有色金属与锂电材料逆袭｜看财报</title>
-      <link>https://www.tmtpost.com/7974339.html</link>
-      <description>&lt;![CDATA[A股年报透视：AI算力产业链爆发，有色金属与锂电材料逆袭｜看财报]]&gt;</description>
-      <pubDate>Thu, 30 Apr 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974339.html</guid>
+      <title>科大讯飞，AI教育的长坡与窄门</title>
+      <link>https://www.tmtpost.com/7974528.html</link>
+      <description>&lt;![CDATA[科大讯飞，AI教育的长坡与窄门]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974528.html</guid>
       <category>Technology</category>
     </item>
   </channel>
