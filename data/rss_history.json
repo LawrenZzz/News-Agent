@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c25ccba9acdc08792ca94a5478a0107213e5455af7ea5a843bd1feee195c0e9e": {
-        "title": "豆包日均Token使用量突破120万亿，Seedance2.0API开启公测",
-        "link": "https://www.infoq.cn/article/SF95yJdFgaWk9vDhZa2I?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Apr 2026 15:08:00 GMT",
-        "first_seen": "2026-04-02T08:54:00.079285"
-      },
-      "16a160b2026be7ce6dd0d0cc082311ea9daab314c8f1bb81e213085094dc227f": {
-        "title": "智谱首份财报背后，新故事难讲",
-        "link": "https://www.tmtpost.com/7939356.html",
-        "published_date": "Thu, 02 Apr 2026 14:55:00 GMT",
-        "first_seen": "2026-04-02T08:54:00.079300"
-      },
-      "8334cb14ab1f7753e6bd9b25fcfcc15c972448ad5ef75327ae4a6092e5a35af2": {
-        "title": "错上加错，Anthropic一刀切掉8100仓库",
-        "link": "https://www.tmtpost.com/7939368.html",
-        "published_date": "Thu, 02 Apr 2026 14:46:00 GMT",
-        "first_seen": "2026-04-02T08:54:00.079303"
-      },
-      "6ba41144e0a4f7b3247a7780a5f287765dc107a8aa05190dda5e80f3661ef9cc": {
-        "title": "Robotaxi，离盈利又近了一步",
-        "link": "https://www.tmtpost.com/7939406.html",
-        "published_date": "Thu, 02 Apr 2026 14:47:00 GMT",
-        "first_seen": "2026-04-02T08:54:00.079306"
-      },
-      "abb5b164f4d461bfdeca4e8aad9e794b958a1bdb6c0cd95ee05e73e070009cdb": {
-        "title": "淘宝闪购：从骑手智能助手业务落地到 Agent 平台化建设｜QCon北京",
-        "link": "https://www.infoq.cn/article/SUMzHGexfbxTRYCyr8AT?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-02T08:54:00.079307"
-      },
       "1faeb1d461f0707943cd78587ab54936fcea4e668e87965778001c3c8fcf4a07": {
         "title": "【钛晨报】工信部首提“算力银行”“算力超市”，降低中小企业用算门槛；事关优思益，抖音、淘天、小红书被约谈；数字人民币业务运营机构扩容12家",
         "link": "https://www.tmtpost.com/7940267.html",
@@ -2671,6 +2641,36 @@
         "link": "https://www.tmtpost.com/7975258.html",
         "published_date": "Sat, 02 May 2026 10:15:00 GMT",
         "first_seen": "2026-05-02T07:02:59.442838"
+      },
+      "84d6835ae6807ee374f86a4283d91b7732b85e052030d5e61f71bd10a46430ee": {
+        "title": "股价一年涨450%，三年累亏超2亿，华盛锂电赴港上市能打赢产能翻身仗吗？｜IPO观察",
+        "link": "https://www.tmtpost.com/7975289.html",
+        "published_date": "Sat, 02 May 2026 09:52:00 GMT",
+        "first_seen": "2026-05-02T09:04:27.906899"
+      },
+      "22caaf3329c3ee3142d017e29cc6629f0967aa628ff912277649489559c5d934": {
+        "title": "GEO大爆炸时代，品牌都在怎么做AI营销",
+        "link": "https://www.tmtpost.com/7975060.html",
+        "published_date": "Sat, 02 May 2026 10:14:00 GMT",
+        "first_seen": "2026-05-02T09:04:27.906906"
+      },
+      "19b4606f15c5f8127aa6745b3df4fb64518b877aaa7c29c0ef35048466599023": {
+        "title": "快瞧瞧 4 月 GitHub 上哪些开源项目最火火火火？",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533406&idx=1&sn=5cf3e7d5020d2d474cde1a8c35fb127a",
+        "published_date": "Sat, 02 May 2026 11:13:00 GMT",
+        "first_seen": "2026-05-02T09:04:27.906908"
+      },
+      "0ac96d5ac18d9419b90fcbaf853e90b2c990349acac01ff7c2840c32204bcddb": {
+        "title": "Edge AI Daily 早报（5月2日）",
+        "link": "https://www.tmtpost.com/7975180.html",
+        "published_date": "Sat, 02 May 2026 08:42:00 GMT",
+        "first_seen": "2026-05-02T09:04:27.906910"
+      },
+      "bf9f9589c532fb3e80c4b379fb528dc3f54555087192987b7150ed34e138b1a3": {
+        "title": "当女魔头遇见AI浪潮",
+        "link": "https://www.tmtpost.com/7975274.html",
+        "published_date": "Sat, 02 May 2026 10:11:00 GMT",
+        "first_seen": "2026-05-02T09:04:27.906911"
       }
     },
     "Finance": {
@@ -4947,39 +4947,15 @@
         "link": "https://www.ft.com/content/ee833531-4554-40d1-834f-659aeadb0ba6",
         "published_date": "Sat, 02 May 2026 04:03:00 GMT",
         "first_seen": "2026-05-02T07:02:44.631576"
+      },
+      "ab43d3d85d2cee84975b77ecb5998283cd7a1825c80f7b82197a0c5ce9333346": {
+        "title": "Spirit Airlines winds down operations after bailout talks founder",
+        "link": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
+        "published_date": "Sat, 02 May 2026 07:31:00 GMT",
+        "first_seen": "2026-05-02T09:04:14.784759"
       }
     },
     "Ai": {
-      "1e66060e9f5fb373e95c11ec94e73ccd1df2b4b440131144eee1588e90c76e28": {
-        "title": "中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
-        "link": "https://www.qbitai.com/2026/04/394704.html",
-        "published_date": "Thu, 02 Apr 2026 07:08:00 GMT",
-        "first_seen": "2026-04-02T08:54:11.858606"
-      },
-      "8d4cfa384c101fc5c660b706cc899d5fc3a8234fbd3c7bac2e8870351ccb3d83": {
-        "title": "开卷视觉编程！GLM-5V-Turbo上线，一张草图搞定前端",
-        "link": "https://www.qbitai.com/2026/04/394641.html",
-        "published_date": "Thu, 02 Apr 2026 06:28:00 GMT",
-        "first_seen": "2026-04-02T08:54:11.858616"
-      },
-      "a5d09db05a93116be68128e3855f5d88e38f3f61da876707d447dafbaff5e6c3": {
-        "title": "全尺寸具身人形销量全球第一之后，优必选再迎资本投票：花旗上调目标价至190港元",
-        "link": "https://www.qbitai.com/2026/04/395151.html",
-        "published_date": "Thu, 02 Apr 2026 08:23:00 GMT",
-        "first_seen": "2026-04-02T08:54:11.858618"
-      },
-      "7d3ca45bebc43e297c13f46c0caf4aabafbe4363a1e615d432b4461fb5fe03e8": {
-        "title": "再融20亿！星海图把具身智能头部门槛抬到了200亿",
-        "link": "https://www.qbitai.com/2026/04/394626.html",
-        "published_date": "Thu, 02 Apr 2026 06:15:00 GMT",
-        "first_seen": "2026-04-02T08:54:11.858620"
-      },
-      "0a488c664bfc30f38b964a080dcf1a20de5821918927c4f92cdf60a73ceba2c9": {
-        "title": "开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码",
-        "link": "https://www.qbitai.com/2026/04/395091.html",
-        "published_date": "Thu, 02 Apr 2026 07:22:00 GMT",
-        "first_seen": "2026-04-02T08:54:11.858622"
-      },
       "94233eb62b99276c92a9c5f676510a7c4c50cfa57d0f047ab51dba9aa3c42347": {
         "title": "我的天！豆包每天烧120万亿Tokens啊！",
         "link": "https://www.qbitai.com/2026/04/395202.html",
@@ -6436,8 +6412,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-02T07:02:59.442840",
-    "Finance": "2026-05-02T07:02:44.631578",
+    "Technology": "2026-05-02T09:04:27.906913",
+    "Finance": "2026-05-02T09:04:14.784769",
     "Ai": "2026-05-02T07:02:44.766289"
   }
 }
