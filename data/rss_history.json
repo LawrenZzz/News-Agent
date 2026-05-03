@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2c357d1296bd04c4e73edbc9460bad9177579314355b1fb2366e485f6f84f37b": {
-        "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
-        "link": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 14:40:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.705863"
-      },
-      "34365c62fc7b234f5bc3e0ada192d14023b7f72f85db84ef964b748e8406daed": {
-        "title": "PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取",
-        "link": "https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.705875"
-      },
-      "dfbf76fa6eca5a06e31629f1f744dab14ab5692a511d932939e74ced510a2701": {
-        "title": "Robotaxi 狂奔十年，却迎来了虚假黎明",
-        "link": "https://www.tmtpost.com/7940201.html",
-        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.705878"
-      },
-      "f58a0d6ac796944601acee3c7bdbe840d1b3bd41d06e7d49c475e09ecde8b792": {
-        "title": "智谱和MiniMax，谁是中国的Anthropic？",
-        "link": "https://www.tmtpost.com/7940812.html",
-        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.705880"
-      },
-      "174e586549266fde576c07cfd114fce21a0163fdc617e101e5855b295523aa32": {
-        "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
-        "link": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.705882"
-      },
       "d1a4202523a101a674c3877bca66f8e8f2f4cdbb9c5fc6a640b43be50006cd28": {
         "title": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
         "link": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX?utm_source=rss&utm_medium=article",
@@ -2647,6 +2617,36 @@
         "link": "https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 03 May 2026 12:49:00 GMT",
         "first_seen": "2026-05-03T07:18:07.374261"
+      },
+      "9825797b175951f8790d7f0b208dd2d915f777c98d1823641e683a7da4d6c815": {
+        "title": ".NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了",
+        "link": "https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 03 May 2026 12:58:00 GMT",
+        "first_seen": "2026-05-03T09:22:04.203343"
+      },
+      "7d73499fd3ceddebd259e74201cb6a59bf225aa9de95d72856fed064de744aec": {
+        "title": "魔法原子进军硅谷背后：世界模型野望与生态卡位",
+        "link": "http://www.geekpark.net/news/363699",
+        "published_date": "Sun, 03 May 2026 08:44:00 GMT",
+        "first_seen": "2026-05-03T09:22:04.203350"
+      },
+      "8de1d6f83ba5753a2f0210e716576d42fc509ccc1295ec7dd84e31a61e494043": {
+        "title": "张雪机车夺得 WSBK 第三冠；传苹果正在酝酿一笔大型 AI 收购；创始人加入后，OpenAI 宣布开放 OpenClaw 直连｜极客早知道",
+        "link": "http://www.geekpark.net/news/363698",
+        "published_date": "Sun, 03 May 2026 08:42:00 GMT",
+        "first_seen": "2026-05-03T09:22:04.203352"
+      },
+      "c83aa02ecb41f2c80459fce0d4dfa2fffdb040cb3e89b8ee3c4afce443f0f71f": {
+        "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+        "link": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 03 May 2026 13:37:00 GMT",
+        "first_seen": "2026-05-03T09:22:04.203354"
+      },
+      "7f1b8d04c74e7dc48529babd5e9bdb90fb43804a236aedd27e659fa417bf5e43": {
+        "title": "AWS越赚，Amazon越穷",
+        "link": "https://www.tmtpost.com/7975633.html",
+        "published_date": "Sun, 03 May 2026 09:14:00 GMT",
+        "first_seen": "2026-05-03T09:22:04.203356"
       }
     },
     "Finance": {
@@ -4932,18 +4932,6 @@
       }
     },
     "Ai": {
-      "e9db601369de83971463646e8338aa36b669e476d0e0d2c68ee2a731eda9185d": {
-        "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
-        "link": "https://www.qbitai.com/2026/04/395279.html",
-        "published_date": "Fri, 03 Apr 2026 06:53:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.893843"
-      },
-      "b0928aa320bb10492bb44923b6f2449b86bab830c5bd2e4b66e6696d9c2b4781": {
-        "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
-        "link": "https://www.qbitai.com/2026/04/395216.html",
-        "published_date": "Fri, 03 Apr 2026 06:24:00 GMT",
-        "first_seen": "2026-04-03T08:49:44.893851"
-      },
       "74f39b7dbc97d4b8e9d1fa6c5a9b3407f1dbed20090a86a784964f13aa460fa5": {
         "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
         "link": "https://www.qbitai.com/2026/04/395916.html",
@@ -6365,13 +6353,19 @@
         "link": "https://www.qbitai.com/2026/05/412737.html",
         "published_date": "Sun, 03 May 2026 03:43:00 GMT",
         "first_seen": "2026-05-03T07:17:50.356602"
+      },
+      "fd00e47de3e06d668360da453e3ddb4524be2d2f2a46b989927f5eb4c10177e0": {
+        "title": "OpenAI参与，重卷ImageNet：终于把FID做成训练",
+        "link": "https://www.qbitai.com/2026/05/412882.html",
+        "published_date": "Sun, 03 May 2026 07:50:00 GMT",
+        "first_seen": "2026-05-03T09:21:46.480322"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-03T07:18:07.374263",
+    "Technology": "2026-05-03T09:22:04.203358",
     "Finance": "2026-05-03T07:17:50.197382",
-    "Ai": "2026-05-03T07:17:50.356605"
+    "Ai": "2026-05-03T09:21:46.480330"
   }
 }
