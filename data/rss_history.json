@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7f05f02b9560318d65966c44008475c48bedfb7aa9b148906d8c6a6c26a6480d": {
-        "title": "【数智周报】Anthropic封杀OpenClaw；甲骨文一夜砍掉3万人；Claude Code源码泄露；豆包每天烧120万亿Tokens；商务部回应Meta收购Manus及企业跨国经营问题",
-        "link": "https://www.tmtpost.com/7941741.html",
-        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.071963"
-      },
-      "38840465c7f9066e2d9e51dfbaabb9f9cf58bc611a5767db78b89b6f47d653e8": {
-        "title": "互联网最骄傲的事，正在被AI一点点拆掉",
-        "link": "https://www.tmtpost.com/7941760.html",
-        "published_date": "Sat, 04 Apr 2026 14:34:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.071971"
-      },
-      "265ddb95503c3e0a47678be1742f13713a02e017c4f26cc4c8814d15a59d5764": {
-        "title": "拆解商汤十二年，一家老牌 AI 公司的真实处境",
-        "link": "https://www.tmtpost.com/7941390.html",
-        "published_date": "Sat, 04 Apr 2026 11:29:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.071974"
-      },
-      "f12c5001bb6520e819b9c4e535ce0d989f54b68d923b20b2e65bbe17744267c9": {
-        "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步",
-        "link": "https://www.tmtpost.com/7941464.html",
-        "published_date": "Sat, 04 Apr 2026 08:23:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.071977"
-      },
-      "217c8c977b9e5b35d45c9cfee4f64c461020a8c85a024c15a48860de414ecdc7": {
-        "title": "智能体 AI 模式强化软件工程规范性",
-        "link": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 04 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.071978"
-      },
       "a66033725d864be4489bc932a3c0d30cd3b6050728f593596c01177c7747f540": {
         "title": "抖音生服架构大调整，浦燕子打响“二番战”",
         "link": "https://www.tmtpost.com/7941701.html",
@@ -2647,6 +2617,36 @@
         "link": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 04 May 2026 09:00:00 GMT",
         "first_seen": "2026-05-04T07:48:37.111704"
+      },
+      "5681b2165c660f40e531c41486163a45871b9e4c0478a2c96c9e67d56704a05e": {
+        "title": "全国首个大规模算电协同项目并网，绿电直连终结“算力贵、绿电弃”双重困局",
+        "link": "https://www.tmtpost.com/7976159.html",
+        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
+        "first_seen": "2026-05-04T10:12:47.995970"
+      },
+      "0998be91b76c9f8bb7a4c76354cb2bdfb0eb89fa39b31e4281a4b6f1bdccceea": {
+        "title": "狂飙与逆风：合成生物学龙头冲刺港股",
+        "link": "https://www.tmtpost.com/7976074.html",
+        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
+        "first_seen": "2026-05-04T10:12:47.995977"
+      },
+      "b6ba342ca96b1d4174b70dd7f8f2fd2fdb34a83781e823040d943072dbef64de": {
+        "title": "AI理科碾压人类状元，却被这道“文科题”戳中了死穴...",
+        "link": "https://www.tmtpost.com/7976039.html",
+        "published_date": "Mon, 04 May 2026 08:10:00 GMT",
+        "first_seen": "2026-05-04T10:12:47.995979"
+      },
+      "91c854113b0f6028448393a15bc8a77a0852aa13ce99fd5d94daf04de457574f": {
+        "title": "擎天租30亿，租机器人的值两成",
+        "link": "https://www.tmtpost.com/7975979.html",
+        "published_date": "Mon, 04 May 2026 16:16:00 GMT",
+        "first_seen": "2026-05-04T10:12:47.995981"
+      },
+      "a8fc9dd40d7ccd064f231412967de8ac1848e4dc1d56c9da451662099875158f": {
+        "title": "Rivian: 阵痛前行，R2 能否带领 Rivian “逆风翻盘” ？",
+        "link": "https://www.tmtpost.com/7976129.html",
+        "published_date": "Mon, 04 May 2026 16:03:00 GMT",
+        "first_seen": "2026-05-04T10:12:47.995982"
       }
     },
     "Finance": {
@@ -4935,27 +4935,39 @@
         "link": "https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b",
         "published_date": "Mon, 04 May 2026 01:37:00 GMT",
         "first_seen": "2026-05-04T07:48:20.265711"
+      },
+      "298a2c952b744bc8f1aed14a5252fb08072632023e13a127bfe44c907d348f13": {
+        "title": "GameStop makes unsolicited $56bn offer for eBay",
+        "link": "https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a",
+        "published_date": "Mon, 04 May 2026 07:53:00 GMT",
+        "first_seen": "2026-05-04T10:12:27.181373"
+      },
+      "ccc95c149583c9d927ccf0196966472e4a2ff368c743f6ea3f2f52c678a049c7": {
+        "title": "Berkshire Hathaway is now sitting on a record $397 billion in cash. And it’s not the only firm reluctant to invest in the stock market.",
+        "link": "https://www.marketwatch.com/story/berkshire-hathaway-is-now-sitting-on-a-record-397-billion-in-cash-and-its-not-the-only-firm-reluctant-to-invest-in-the-stock-market-1a9e459a?mod=mw_rss_topstories",
+        "published_date": "Mon, 04 May 2026 09:16:00 GMT",
+        "first_seen": "2026-05-04T10:12:27.181383"
+      },
+      "51455d88e21bd9ddc86e97e1dcfd598fbf98f751d26f33ffae8f62a6579519d7": {
+        "title": "The California wealth tax has a loophole—here’s how much billionaires could save",
+        "link": "https://www.marketwatch.com/story/the-california-wealth-tax-has-a-loopholeheres-how-much-billionaires-could-save-bf7628ab?mod=mw_rss_topstories",
+        "published_date": "Mon, 04 May 2026 09:05:00 GMT",
+        "first_seen": "2026-05-04T10:12:27.181386"
+      },
+      "acfbe44969fc4fa08146581a91a4c1be56e4f130a158371e71ee3abfa6aea531": {
+        "title": "Iran warns US Navy against entering Strait of Hormuz",
+        "link": "https://www.ft.com/content/483a0aa0-f1c8-4960-be68-c6ea3e9ea3d5",
+        "published_date": "Mon, 04 May 2026 08:19:00 GMT",
+        "first_seen": "2026-05-04T10:12:27.181388"
+      },
+      "825551b815e6d3d66e0131ac824f89cd5ef71ca4828b2feecce2b9a3b4faac2b": {
+        "title": "Singapore and New Zealand strike ‘world first’ supply-chain pact",
+        "link": "https://www.ft.com/content/d9e48c9c-4c6f-4ac9-8fe1-a50272697d3e",
+        "published_date": "Mon, 04 May 2026 08:54:00 GMT",
+        "first_seen": "2026-05-04T10:12:27.181389"
       }
     },
     "Ai": {
-      "8c9f666bce5b7294e4798e1a579e66bdd8cb743b46e98ba76f66d92f3c4d204d": {
-        "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
-        "link": "https://www.qbitai.com/2026/04/396069.html",
-        "published_date": "Sat, 04 Apr 2026 08:24:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.248069"
-      },
-      "fb54d4972b382ab91cfefd1aa3dfd5021478522f06f39011813b3054b7633ade": {
-        "title": "联想重新定义“龙虾”",
-        "link": "https://www.qbitai.com/2026/04/396015.html",
-        "published_date": "Sat, 04 Apr 2026 08:15:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.248076"
-      },
-      "01e35cda20b5e2135b691edcf2977ee4446225e015f2cef5e9784595d691f25a": {
-        "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
-        "link": "https://www.qbitai.com/2026/04/395995.html",
-        "published_date": "Sat, 04 Apr 2026 05:18:00 GMT",
-        "first_seen": "2026-04-04T08:40:10.248078"
-      },
       "130d4bca490385d72347b4e91089029ab4aa84abc75f3f972b3ddcbd54c98541": {
         "title": "2026-04-05日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-05/",
@@ -6364,8 +6376,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-04T07:48:37.111706",
-    "Finance": "2026-05-04T07:48:20.265713",
+    "Technology": "2026-05-04T10:12:47.995985",
+    "Finance": "2026-05-04T10:12:27.181392",
     "Ai": "2026-05-04T07:48:20.423079"
   }
 }
