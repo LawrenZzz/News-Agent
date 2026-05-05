@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6e2dec9d9b4d087779a97e5632e155ea4165b15e1339c327fb53bd0d1f04b52c": {
-        "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
-        "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 21:52:00 GMT",
-        "first_seen": "2026-04-05T23:32:26.401342"
-      },
-      "21802deb3bf8ad49345241cf256f3743ff210de3c25f7c86cb764047e319486d": {
-        "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
-        "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 21:49:00 GMT",
-        "first_seen": "2026-04-05T23:32:26.401353"
-      },
-      "84e01cdfb36f8f771cbf7cb8e03355f372a9e8c88d008ff6733983592ebae7e0": {
-        "title": "清明节特辑：过去这一年，哪些互联网产品先走一步",
-        "link": "https://www.tmtpost.com/7942085.html",
-        "published_date": "Sun, 05 Apr 2026 09:49:00 GMT",
-        "first_seen": "2026-04-05T23:32:26.401356"
-      },
-      "f549433fd321ee6de50d2971e6ba691eee8f01ffb7bf3c45b80e561c81ab0b59": {
-        "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
-        "link": "https://sspai.com/post/69901",
-        "published_date": "Sun, 05 Apr 2026 16:41:00 GMT",
-        "first_seen": "2026-04-05T23:32:26.401359"
-      },
-      "4922cbfe5a56556bdff66e8103e65d40e7c68eb09a52d5ff3da4a8b4f4330f52": {
-        "title": "笑死，这个开源 skill 专门炼化你的离职同事。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532806&idx=1&sn=6e4666b2eef514f3f053794b36cc031e",
-        "published_date": "Sun, 05 Apr 2026 10:13:00 GMT",
-        "first_seen": "2026-04-05T23:32:26.401361"
-      },
       "184d54d1073d8f3cb7af3af4974d5030a1dadfa41ae642484c17136f01d992fe": {
         "title": "大模型生死局：从六小龙到双雄上市，AI创业的泡沫、突围与终局",
         "link": "https://www.tmtpost.com/7942393.html",
@@ -2647,39 +2617,39 @@
         "link": "https://www.tmtpost.com/7976659.html",
         "published_date": "Tue, 05 May 2026 17:13:00 GMT",
         "first_seen": "2026-05-05T10:01:52.860073"
+      },
+      "37153bc792dfd95e18f9dc4513b62662621d6ac157697362fb051101ed2ecc84": {
+        "title": "百万上下文之后，拼什么？",
+        "link": "https://www.tmtpost.com/7976839.html",
+        "published_date": "Tue, 05 May 2026 21:10:00 GMT",
+        "first_seen": "2026-05-05T23:45:47.266244"
+      },
+      "241f8dad039527b20fa8c9c42a3d21aaae01d95d0ad787f548be5e465f1da0ea": {
+        "title": "由豆包付费想到，AI到底会长成一门什么生意",
+        "link": "https://www.tmtpost.com/7976812.html",
+        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
+        "first_seen": "2026-05-05T23:45:47.266250"
+      },
+      "de93eeba1796957bee664d1c77c54ceb86895daa325f59a3deb8afccd4ab1f89": {
+        "title": "硅谷的命门，掌握在日本老师傅手里",
+        "link": "https://www.tmtpost.com/7976527.html",
+        "published_date": "Tue, 05 May 2026 16:29:00 GMT",
+        "first_seen": "2026-05-05T23:45:47.266253"
+      },
+      "a8feba43421d9e7634aa19720c01630424d65a795a2c759d2bfefa0549204546": {
+        "title": "豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道",
+        "link": "http://www.geekpark.net/news/363702",
+        "published_date": "Wed, 06 May 2026 05:29:00 GMT",
+        "first_seen": "2026-05-05T23:45:47.266254"
+      },
+      "0d4a99730b41b43a1b78bebef0c96b78cd76705ba123ed393c461a3c3bffd99e": {
+        "title": "GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533509&idx=1&sn=63efab10344f2db0e4f2965dc9bbaeab",
+        "published_date": "Tue, 05 May 2026 12:24:00 GMT",
+        "first_seen": "2026-05-05T23:45:47.266256"
       }
     },
     "Finance": {
-      "b373adfd4194e1a79555b7c40cfdf5401a232d6b07c4fb006f5032c051442973": {
-        "title": "Is AI the new fracking?",
-        "link": "https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9",
-        "published_date": "Sun, 05 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-05T23:32:36.949580"
-      },
-      "db758dba5d27b3d062854f60c0735e3a346d267820bb99835f4bcb4e9006b4dd": {
-        "title": "April is usually a strong month for stocks — but three factors now jeopardize the market rebound",
-        "link": "https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Apr 2026 16:00:00 GMT",
-        "first_seen": "2026-04-05T23:32:36.949586"
-      },
-      "f7950e9853453f2bc615b2de1b9d127141024bbc5adee63582b771d09b26655e": {
-        "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war",
-        "link": "https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-05T23:32:36.949589"
-      },
-      "e5cc30a19012f335899c582aa75a24ee29c643e84f548d296f71e3b05d4d9c0e": {
-        "title": "Trump vows to destroy Iran’s power plants and bridges unless it reopens strait",
-        "link": "https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215",
-        "published_date": "Sun, 05 Apr 2026 22:32:00 GMT",
-        "first_seen": "2026-04-05T23:32:36.949591"
-      },
-      "6cce0cd0431aabfcb3d06ceee339b2fd98999bdb0acdc9d78319808dd97831e8": {
-        "title": "Iran allows Iraqi ships through Hormuz strait",
-        "link": "https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252",
-        "published_date": "Sun, 05 Apr 2026 15:30:00 GMT",
-        "first_seen": "2026-04-05T23:32:36.949593"
-      },
       "a4cd45b48b6dc555a8900142e71abea8b08d632ca80c8ad510f1f626cc918b01": {
         "title": "Bank of England divided over how to tackle energy-induced inflation",
         "link": "https://www.ft.com/content/93040200-0a51-40d0-b7b7-355fd592331d",
@@ -4995,21 +4965,39 @@
         "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
         "published_date": "Tue, 05 May 2026 08:48:00 GMT",
         "first_seen": "2026-05-05T10:01:35.485722"
+      },
+      "41463850444d8c9e90f337f45fbef7a895aa3a2c85634cbd8605691cb9b29a37": {
+        "title": "SEC moves to scrap quarterly reporting requirement",
+        "link": "https://www.ft.com/content/3560d1e3-8271-453f-84d6-4a875b9efd98",
+        "published_date": "Tue, 05 May 2026 19:03:00 GMT",
+        "first_seen": "2026-05-05T23:45:31.431333"
+      },
+      "d83fce1f6e5b4a59adbb73e15c573e95e712225c58a385b5485650c875160221": {
+        "title": "Macron nominates former adviser to run the Bank of France",
+        "link": "https://www.ft.com/content/30987376-2fa5-46bd-98e6-fe270b1f4922",
+        "published_date": "Tue, 05 May 2026 19:11:00 GMT",
+        "first_seen": "2026-05-05T23:45:31.431341"
+      },
+      "06a98a2af30164148ab03baf4ca3925a4e9a812fbb5952ce1c9818bc97222b91": {
+        "title": "Trump says US will ‘pause’ plan to guide ships through Strait of Hormuz",
+        "link": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
+        "published_date": "Tue, 05 May 2026 23:20:00 GMT",
+        "first_seen": "2026-05-05T23:45:31.431344"
+      },
+      "4bc4d6946e49b66aa9e0e34ef3770f14ba0957932574ad1511f392401fc395e2": {
+        "title": "US stock-lending operator charged with $450mn fraud",
+        "link": "https://www.ft.com/content/8e71321f-9823-4dda-9a71-9fdc34920122",
+        "published_date": "Tue, 05 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-05T23:45:31.431346"
+      },
+      "684c92cce6afb47fbb79b8aaad7d2ac2b4e30677097b49111ab27fb7de8ceb03": {
+        "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst",
+        "link": "https://www.marketwatch.com/story/the-last-time-semiconductor-stocks-rose-this-far-this-quickly-the-dot-com-bubble-burst-d7b6666b?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 23:17:00 GMT",
+        "first_seen": "2026-05-05T23:45:31.431347"
       }
     },
     "Ai": {
-      "b526edc9967f7a84a587c342d53a11a2222d9d1b1b4165e9e69ca9cad73e8989": {
-        "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-        "link": "https://www.qbitai.com/2026/04/396535.html",
-        "published_date": "Sun, 05 Apr 2026 09:06:00 GMT",
-        "first_seen": "2026-04-05T23:32:37.109213"
-      },
-      "6886a4fce91c5d1fcf8d1673aab2c09a0b30fa2efb7d111fdb623cc44bdbc730": {
-        "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-        "link": "https://www.qbitai.com/2026/04/396533.html",
-        "published_date": "Sun, 05 Apr 2026 08:53:00 GMT",
-        "first_seen": "2026-04-05T23:32:37.109222"
-      },
       "a164f886ee58b4607df45ba2834e15602a039db72a223a48d781d736665be55f": {
         "title": "2026-04-06日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-06/",
@@ -6376,8 +6364,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-05T10:01:52.860076",
-    "Finance": "2026-05-05T10:01:35.485724",
+    "Technology": "2026-05-05T23:45:47.266258",
+    "Finance": "2026-05-05T23:45:31.431349",
     "Ai": "2026-05-05T07:16:20.427864"
   }
 }
