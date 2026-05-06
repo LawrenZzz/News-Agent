@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c4e03e9fa7fc35418046c2cd6d93d92de8518cc3b83160a96ce67c14be395251": {
-        "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
-        "link": "https://www.tmtpost.com/7942741.html",
-        "published_date": "Mon, 06 Apr 2026 22:58:00 GMT",
-        "first_seen": "2026-04-06T23:33:48.644003"
-      },
-      "b685b9993d6b2d2cb613c05bd49a54509d0a10464c792a5f63f64960ee98480d": {
-        "title": "微信小游戏开了5000万的口子：平台到底在补贴谁？",
-        "link": "https://www.tmtpost.com/7942848.html",
-        "published_date": "Mon, 06 Apr 2026 17:53:00 GMT",
-        "first_seen": "2026-04-06T23:33:48.644011"
-      },
-      "e851464e49dfd70896ad681888ff367346bc8aef5bf53badd02f3ed8c71debc7": {
-        "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
-        "link": "https://sspai.com/post/108294",
-        "published_date": "Mon, 06 Apr 2026 20:45:00 GMT",
-        "first_seen": "2026-04-06T23:33:48.644013"
-      },
-      "aff6539416658d0ec43489f47806fc9c0d0176355618e47ff494d208715aac17": {
-        "title": "下一个十年，决定你贫富的，是它",
-        "link": "https://www.tmtpost.com/7942766.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T23:33:48.644015"
-      },
-      "e0abd2fb6111cb7cc2b1c2d97dabb8d6526587bc69649f02076c77766ec6cdcf": {
-        "title": "有道龙虾 LobsterAI 的养成与实践｜QCon北京",
-        "link": "https://www.infoq.cn/article/yS2ckf9u8eUVflGIjdcF?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-06T23:33:48.644017"
-      },
       "c600b329c85420c23629adc1145d4a8b6bcd359d19d1b0258769cbb812ba9007": {
         "title": "美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报",
         "link": "https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&utm_medium=article",
@@ -2647,39 +2617,39 @@
         "link": "https://www.tmtpost.com/7978182.html",
         "published_date": "Wed, 06 May 2026 18:04:00 GMT",
         "first_seen": "2026-05-06T10:16:16.152654"
+      },
+      "7fd7b22881f70d5b5509e9d38bec345bfdd6258f9530269ac34ef02dbd8cbf8e": {
+        "title": "0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业",
+        "link": "https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 12:01:00 GMT",
+        "first_seen": "2026-05-06T23:49:04.527462"
+      },
+      "570945908409ff9b04d08b65374ce775c6cb572e031f3b0d48a760973d5525bb": {
+        "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
+        "link": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 15:55:00 GMT",
+        "first_seen": "2026-05-06T23:49:04.527468"
+      },
+      "dbccc1a41c8ed5f1eea39c4d2e0ae308b6096214e8504acf34057d0e67682071": {
+        "title": "万亿IPO潮至：SpaceX、OpenAI与Anthropic的史诗对决，兼论“教堂与赌场”",
+        "link": "https://www.tmtpost.com/7977704.html",
+        "published_date": "Wed, 06 May 2026 15:00:00 GMT",
+        "first_seen": "2026-05-06T23:49:04.527470"
+      },
+      "8a4e81dd099152fbe14890f2da59c0aa2536436606272c68feb0b7426abd6bae": {
+        "title": "谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉",
+        "link": "http://www.geekpark.net/news/363719",
+        "published_date": "Wed, 06 May 2026 10:26:00 GMT",
+        "first_seen": "2026-05-06T23:49:04.527472"
+      },
+      "d4876c9682d4c5a89c28408d4483ebcd0407fd6dfb6e118633ad95a137cb6acd": {
+        "title": "【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品",
+        "link": "https://www.tmtpost.com/7978445.html",
+        "published_date": "Thu, 07 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-06T23:49:04.527473"
       }
     },
     "Finance": {
-      "c10feed48cb6631e23a84fee26ef65c29a5b87711eb9de0ee405754ffc8a098c": {
-        "title": "Jamie Dimon warns private credit losses will be larger than feared",
-        "link": "https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3",
-        "published_date": "Mon, 06 Apr 2026 10:03:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.059792"
-      },
-      "ec877c75a9cdac4ad5e7a512750eb4538f30cd5d038d064194edb54530a505c4": {
-        "title": "US health insurance shares jump as Trump administration boosts Medicare payments",
-        "link": "https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb",
-        "published_date": "Mon, 06 Apr 2026 23:09:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.059799"
-      },
-      "52f1f8abbfd13c23ce0039756bda7192924342af3419b7b4e100776ca39beab3": {
-        "title": "Amazon, USPS strike a deal — showing they still need each other despite threats of big delivery cuts",
-        "link": "https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 22:22:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.059801"
-      },
-      "8d2e9f8c7ae6561f102755ee4d45fa63170194f8f7f740d5597b1820f01dbb13": {
-        "title": "Sales of used EVs surge in US as petrol prices pass $4 a gallon",
-        "link": "https://www.ft.com/content/5436f549-52da-4d6d-85ba-955203f5c2f2",
-        "published_date": "Mon, 06 Apr 2026 11:20:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.059803"
-      },
-      "3878d5dda31bd313de1fd6609c6e75d55209b55188b012e89a2967680313694f": {
-        "title": "Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter",
-        "link": "https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 20:35:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.059805"
-      },
       "7739bbc687966ddf2c60055d0d88c4fdc1e6983e4949041459bbb3350873a979": {
         "title": "The future of global trade won’t depend on the Strait of Hormuz",
         "link": "https://www.ft.com/content/2c895663-16d5-4b7a-8c9b-45204c362c84",
@@ -5013,21 +4983,39 @@
         "link": "https://www.marketwatch.com/story/bill-cosby-cuts-the-price-of-his-new-york-townhouse-to-5-99-million-f6270069?mod=mw_rss_topstories",
         "published_date": "Wed, 06 May 2026 09:01:00 GMT",
         "first_seen": "2026-05-06T10:15:56.145875"
+      },
+      "6dd6f82c803c6dd1aaafce716693572fc90b685908daa8c0e50fe2d3d49ea34d": {
+        "title": "The leverage layer cake behind HSBC’s private credit losses",
+        "link": "https://www.ft.com/content/8117fa35-d89e-4fb9-a94b-48257bd6229b",
+        "published_date": "Wed, 06 May 2026 23:01:00 GMT",
+        "first_seen": "2026-05-06T23:48:15.141780"
+      },
+      "9e0a11ed2e21ae217270fe2652b336a7079f201b574499a9fb6f70a16825a6db": {
+        "title": "US prosecutors charge 30 with insider trading on law firm deal materials",
+        "link": "https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d",
+        "published_date": "Wed, 06 May 2026 21:38:00 GMT",
+        "first_seen": "2026-05-06T23:48:15.141789"
+      },
+      "c5a00529f68ead2dce4564c19baa58f89ec54163eb5238c84c61554c6a496b09": {
+        "title": "Traders point to suspicious activity in the oil market on Wednesday",
+        "link": "https://www.marketwatch.com/story/traders-point-to-suspicious-activity-in-the-oil-market-on-wednesday-3a6821d9?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 22:36:00 GMT",
+        "first_seen": "2026-05-06T23:48:15.141791"
+      },
+      "086bed8a3f41cc8ac0f51a8bfe7c4b18e6178160e8c7da72bfadf0e6110bc24f": {
+        "title": "Here’s how far the Trump administration’s ‘startling turn’ on AI regulation might go",
+        "link": "https://www.marketwatch.com/story/heres-how-far-the-trump-administrations-startling-turn-on-ai-regulation-might-go-15ce46be?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 20:35:00 GMT",
+        "first_seen": "2026-05-06T23:48:15.141793"
+      },
+      "839597abec838c00ab2ad0c64522e3be3845f347a19e3b7b45f6cc234a7b354e": {
+        "title": "Zuckerberg’s ‘Multi Mark’ AI clone is a huge red flag for Meta shareholders",
+        "link": "https://www.marketwatch.com/story/zuckerbergs-multi-mark-ai-clone-is-a-huge-red-flag-for-meta-shareholders-53e58b30?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 21:24:00 GMT",
+        "first_seen": "2026-05-06T23:48:15.141795"
       }
     },
     "Ai": {
-      "902bbb14aa3711fef269713c102ae6c53599ffd28fc82af69953efb5f873efa5": {
-        "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/396863.html",
-        "published_date": "Mon, 06 Apr 2026 15:30:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.211008"
-      },
-      "f5134f26edf591f047e181ac91c1b70efd7dfddfe1cc4b377c878cd9e8714af0": {
-        "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
-        "link": "https://www.qbitai.com/2026/04/396841.html",
-        "published_date": "Mon, 06 Apr 2026 15:25:00 GMT",
-        "first_seen": "2026-04-06T23:34:05.211016"
-      },
       "3309fe54866bb83ad267812d66f04fc277b3c5e4be60fa5cb4944aaa9cb33f16": {
         "title": "Ilya曝光70页OpenAI绝密文件",
         "link": "https://www.qbitai.com/2026/04/396880.html",
@@ -6383,13 +6371,19 @@
         "link": "https://www.qbitai.com/2026/05/413265.html",
         "published_date": "Wed, 06 May 2026 08:11:00 GMT",
         "first_seen": "2026-05-06T10:15:56.302609"
+      },
+      "0f0852c7ada9bce094c4c6ff20e45d32a3dd6560ae743566e0d058dbed1a75fc": {
+        "title": "AI PPT，这次是真不用返工了",
+        "link": "https://www.qbitai.com/2026/05/413296.html",
+        "published_date": "Wed, 06 May 2026 10:28:00 GMT",
+        "first_seen": "2026-05-06T23:48:15.288566"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-06T10:16:16.152656",
-    "Finance": "2026-05-06T10:15:56.145877",
-    "Ai": "2026-05-06T10:15:56.302617"
+    "Technology": "2026-05-06T23:49:04.527475",
+    "Finance": "2026-05-06T23:48:15.141797",
+    "Ai": "2026-05-06T23:48:15.288574"
   }
 }
