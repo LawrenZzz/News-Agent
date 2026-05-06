@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 May 2026 07:43:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 07:43:52 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 10:15:00 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 10:16:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek-V4发布后的行业景观</title>
-      <link>https://www.tmtpost.com/7977710.html</link>
-      <description>&lt;![CDATA[DeepSeek-V4发布后的行业景观]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7977710.html</guid>
+      <title>赵明能享受到千里科技的推背感吗？</title>
+      <link>https://www.tmtpost.com/7978188.html</link>
+      <description>&lt;![CDATA[赵明能享受到千里科技的推背感吗？]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978188.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DBmaestro 发布 MCP 服务器：用自然语言操控数据库流水线</title>
-      <link>https://www.infoq.cn/article/Wd6XzPmoTggZwMpgXEAg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DBmaestro 发布 MCP 服务器：用自然语言操控数据库流水线]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Wd6XzPmoTggZwMpgXEAg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台</title>
+      <link>https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>React Navigation 8.0 Alpha发布：原生底部标签、重构后的TypeScript类型推断与历史记录能力</title>
-      <link>https://www.infoq.cn/article/033vidXmEz7YaWxS9mpa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[React Navigation 8.0 Alpha发布：原生底部标签、重构后的TypeScript类型推断与历史记录能力]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/033vidXmEz7YaWxS9mpa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>奥特曼食言了，但这次没人怪他</title>
+      <link>https://www.tmtpost.com/7978179.html</link>
+      <description>&lt;![CDATA[奥特曼食言了，但这次没人怪他]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978179.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>实测纳逗 Pro：能做专业影视级内容的智能平台长啥样</title>
-      <link>http://www.geekpark.net/news/363720</link>
-      <description>&lt;![CDATA[实测纳逗 Pro：能做专业影视级内容的智能平台长啥样]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363720</guid>
+      <title>AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”</title>
+      <link>https://www.tmtpost.com/7978166.html</link>
+      <description>&lt;![CDATA[AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978166.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把脸借给AI短剧，我却拿不回来了</title>
-      <link>https://www.tmtpost.com/7977715.html</link>
-      <description>&lt;![CDATA[把脸借给AI短剧，我却拿不回来了]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7977715.html</guid>
+      <title>3亿用户扛不住算力账单</title>
+      <link>https://www.tmtpost.com/7978182.html</link>
+      <description>&lt;![CDATA[3亿用户扛不住算力账单]]&gt;</description>
+      <pubDate>Wed, 06 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978182.html</guid>
       <category>Technology</category>
     </item>
   </channel>
