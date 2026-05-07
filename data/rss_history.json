@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "156e28441c400a7c5eb115119f19bf54b7c4cc0e1c606cca3a12974a0a62d139": {
-        "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
-        "link": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.548000"
-      },
-      "4598d6bb802c682bd00eb421918211a6011b81ad17a5c7ecf19b2daf91a15e49": {
-        "title": "ProxySQL推出多层的版本发布策略",
-        "link": "https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.548012"
-      },
-      "39307ef7f4be8bb5d2fe86a99722210824232f91bb03c22e8f3ef280c8758400": {
-        "title": "力控与运控的融合，共话具身智能“小脑”进化的破局之道",
-        "link": "https://www.tmtpost.com/7941651.html",
-        "published_date": "Tue, 07 Apr 2026 16:41:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.548015"
-      },
-      "e720f15bf2fdfcc29000d231aa578ee0b45078acbe0371616d1ab552adb10faf": {
-        "title": "Token浪潮之下，中国互联网座次重排",
-        "link": "https://www.tmtpost.com/7943462.html",
-        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.548039"
-      },
-      "d1e5518b555f51dd7190640db7dfdaa493185c635468133eb4178b3ac44ede14": {
-        "title": "并购圈没人敢说的真话：你花的那些钱，买的根本不是未来，是包袱",
-        "link": "https://www.tmtpost.com/7943616.html",
-        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.548041"
-      },
       "d13c0b78417867565a9de47b437692dac0954124ce24a40df65ed268dbb6c1ca": {
         "title": "半导体设备国产化，进入下半场",
         "link": "https://www.tmtpost.com/7943468.html",
@@ -2647,33 +2617,39 @@
         "link": "http://www.geekpark.net/news/363777",
         "published_date": "Thu, 07 May 2026 09:00:00 GMT",
         "first_seen": "2026-05-07T07:43:37.473235"
+      },
+      "da989527cdfcf486f2c23bc8aac79e486a9d4cb4877996b8029060d51705cb4a": {
+        "title": "算力告急、马斯克反转、Claude要当工程基础设施：Anthropic这场发布会说了什么",
+        "link": "https://www.tmtpost.com/7978749.html",
+        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-07T10:24:14.239226"
+      },
+      "b57ac7e5d22028e3e2a037acd1fdebe611042c51ac6e8eff088f5e57aa446278": {
+        "title": "传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道",
+        "link": "http://www.geekpark.net/news/363775",
+        "published_date": "Thu, 07 May 2026 08:31:00 GMT",
+        "first_seen": "2026-05-07T10:24:14.239233"
+      },
+      "6f363e511957bc8c5c1305afd9d10fdf9bdd6c654adbb4c668c073d9009dabb4": {
+        "title": "重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标",
+        "link": "https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-07T10:24:14.239235"
+      },
+      "d89511eb2dfa1ffd2642814e243a9710f72aa21fe5c443166e7683e2e331b59c": {
+        "title": "关节突围：中国具身智能减速器“爆单”",
+        "link": "https://www.tmtpost.com/7978543.html",
+        "published_date": "Thu, 07 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-07T10:24:14.239236"
+      },
+      "653f454110e225dd6b6b747b7dcdd1f99f8b66cb1dca2d9175f831043a875e9e": {
+        "title": "豆包的价格战，打出了定价权",
+        "link": "https://www.tmtpost.com/7978796.html",
+        "published_date": "Thu, 07 May 2026 17:44:00 GMT",
+        "first_seen": "2026-05-07T10:24:14.239238"
       }
     },
     "Finance": {
-      "f446f8949f99618dc851ce3c92cd13abed67328357f1e7cb0a5c3a425a56df29": {
-        "title": "Health insurers secured a better Medicare Advantage rate for 2027, and their stocks are soaring",
-        "link": "https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 08:36:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.589258"
-      },
-      "1c426211f2074508cf7a838c7e874a7984e73324f7160f3f9360b52be777b240": {
-        "title": "Is it unethical to use AI in my Airbnb photos to market my property to guests?",
-        "link": "https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 08:33:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.589265"
-      },
-      "ce246de4775940844d75b248cf223c0025b378600cb67268ccfc9e991bf171ef": {
-        "title": "Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200",
-        "link": "https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 08:30:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.589268"
-      },
-      "1011b505e5cd9eb4fa3b35e751b5e39ca342a30c33ee853019e8f06dc320fa67": {
-        "title": "Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal",
-        "link": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
-        "published_date": "Tue, 07 Apr 2026 07:17:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.589269"
-      },
       "685a45626ce56834784ee9eab047640ac1fa2d7685f20db6e34ccba925e6d649": {
         "title": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran",
         "link": "https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories",
@@ -5013,27 +4989,39 @@
         "link": "https://www.ft.com/content/2a5ee111-93f1-4fd2-8d22-1b3ba2d128c6",
         "published_date": "Thu, 07 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-07T07:42:57.029222"
+      },
+      "8a11bbad4d479861cb26891a05cbace2343bfd6c9514850122e2d00a7bcbc549": {
+        "title": "Two funds run by Blue Owl are cutting their dividend — and one sold half its SpaceX stake before IPO",
+        "link": "https://www.marketwatch.com/story/two-funds-run-by-blue-owl-are-cutting-their-dividend-and-one-sold-half-its-spacex-stake-before-ipo-000504e0?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 08:55:00 GMT",
+        "first_seen": "2026-05-07T10:23:48.044663"
+      },
+      "6727b8354dbe3ac5e9ba485cbb7696f4d7c94768ef13f8064786d5bc959d6ce1": {
+        "title": "DoorDash’s results and outlook were mixed. The stock is soaring anyway.",
+        "link": "https://www.marketwatch.com/story/doordashs-results-and-outlook-were-mixed-the-stock-is-soaring-anyway-4f449227?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 08:16:00 GMT",
+        "first_seen": "2026-05-07T10:23:48.044675"
+      },
+      "0b4e6ce443bcaab937f1465806c697548af97b9747417a456bdaa26c8e4b425a": {
+        "title": "Here’s the latest stock market to be leapfrogged by South Korea in the world rankings",
+        "link": "https://www.marketwatch.com/story/heres-the-latest-stock-market-to-be-leapfrogged-by-south-korea-in-the-world-rankings-c5c18e22?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 09:36:00 GMT",
+        "first_seen": "2026-05-07T10:23:48.044679"
+      },
+      "ceb308b1b253ed941702bfa621ac163c3c16f70ab71a9d05e3f96be7372b5ca6": {
+        "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 09:15:00 GMT",
+        "first_seen": "2026-05-07T10:23:48.044681"
+      },
+      "d2ee68240867bcfcc8fa42981eb84333e6391a57edf8a6e41d7f6832d9913044": {
+        "title": "Comedian Pete Davidson lowers price of his Westchester home to $2.15 million",
+        "link": "https://www.marketwatch.com/story/comedian-pete-davidson-lowers-price-of-his-westchester-home-to-2-15-million-c41162eb?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 09:00:00 GMT",
+        "first_seen": "2026-05-07T10:23:48.044683"
       }
     },
     "Ai": {
-      "9d03d4f9264f218470e4f59979019a1fe8e76c7dc1f6db866e848745780f9daa": {
-        "title": "印奇带队千里首个完整年：营收近百亿，智驾毛利率达30.8%",
-        "link": "https://www.qbitai.com/2026/04/397523.html",
-        "published_date": "Tue, 07 Apr 2026 08:22:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.746652"
-      },
-      "27c6ec93f1b9f0675330204d1bd41b02498558522a7cad30bf3efcdaf0ec8dfd": {
-        "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
-        "link": "https://www.qbitai.com/2026/04/397517.html",
-        "published_date": "Tue, 07 Apr 2026 07:34:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.746660"
-      },
-      "1699e680f806a4ccce23d8e7ec72195f1cf392153072b90a8822c258335c11d2": {
-        "title": "2026-04-07日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-07/",
-        "published_date": "Tue, 07 Apr 2026 09:57:00 GMT",
-        "first_seen": "2026-04-07T08:59:08.746662"
-      },
       "049a647077525cd86edcdee2ebe5569ec7e7f2fad4626ba7494097c1fefcda4a": {
         "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
         "link": "https://www.qbitai.com/2026/04/397610.html",
@@ -6377,13 +6365,19 @@
         "link": "https://www.qbitai.com/2026/05/413591.html",
         "published_date": "Thu, 07 May 2026 02:46:00 GMT",
         "first_seen": "2026-05-07T07:43:14.105484"
+      },
+      "f1c8e71b95f5611c46d6bf026e37e6987979fd394a37689b8da505086ec153c6": {
+        "title": "2026-05-07日刊",
+        "link": "https://ai.hubtoday.app//2026-05/2026-05-07/",
+        "published_date": "Thu, 07 May 2026 10:50:00 GMT",
+        "first_seen": "2026-05-07T10:23:48.182052"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-07T07:43:37.473237",
-    "Finance": "2026-05-07T07:42:57.029224",
-    "Ai": "2026-05-07T07:43:14.105487"
+    "Technology": "2026-05-07T10:24:14.239240",
+    "Finance": "2026-05-07T10:23:48.044685",
+    "Ai": "2026-05-07T10:23:48.182060"
   }
 }
