@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 May 2026 23:47:00 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 23:49:04 GMT</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 07:42:00 GMT</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 07:43:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业</title>
-      <link>https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[0%准确率！图灵奖得主“石破天”：大模型写SQL远不够格，计算机科学不再是增长行业]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 12:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dWXdRNIyHKzd8TV9kctv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！</title>
+      <link>https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争</title>
-      <link>https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险</title>
+      <link>https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>万亿IPO潮至：SpaceX、OpenAI与Anthropic的史诗对决，兼论“教堂与赌场”</title>
-      <link>https://www.tmtpost.com/7977704.html</link>
-      <description>&lt;![CDATA[万亿IPO潮至：SpaceX、OpenAI与Anthropic的史诗对决，兼论“教堂与赌场”]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7977704.html</guid>
+      <title>马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱</title>
+      <link>https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 15:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉</title>
-      <link>http://www.geekpark.net/news/363719</link>
-      <description>&lt;![CDATA[谷歌、英伟达押注，这家估值 40 亿美元的 AI 公司，想把科学家直接干掉]]&gt;</description>
-      <pubDate>Wed, 06 May 2026 10:26:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363719</guid>
+      <title>英伟达入场！4亿美元融资背后，RISC-V迎来春天</title>
+      <link>https://www.tmtpost.com/7978288.html</link>
+      <description>&lt;![CDATA[英伟达入场！4亿美元融资背后，RISC-V迎来春天]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978288.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品</title>
-      <link>https://www.tmtpost.com/7978445.html</link>
-      <description>&lt;![CDATA[【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品]]&gt;</description>
-      <pubDate>Thu, 07 May 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7978445.html</guid>
+      <title>平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板</title>
+      <link>http://www.geekpark.net/news/363777</link>
+      <description>&lt;![CDATA[平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板]]&gt;</description>
+      <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/363777</guid>
       <category>Technology</category>
     </item>
   </channel>
