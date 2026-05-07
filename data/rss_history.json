@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d13c0b78417867565a9de47b437692dac0954124ce24a40df65ed268dbb6c1ca": {
-        "title": "半导体设备国产化，进入下半场",
-        "link": "https://www.tmtpost.com/7943468.html",
-        "published_date": "Tue, 07 Apr 2026 14:28:00 GMT",
-        "first_seen": "2026-04-07T23:37:01.358363"
-      },
-      "987ed53213dbcf30dcc40bf731e4855c170bb099fbaf6dbd1a9c071f84fd448e": {
-        "title": "美国AI三巨头围剿模型蒸馏，中国公司终要大考",
-        "link": "https://www.tmtpost.com/7944117.html",
-        "published_date": "Tue, 07 Apr 2026 21:25:00 GMT",
-        "first_seen": "2026-04-07T23:37:01.358369"
-      },
-      "02ccccfcc15f14f6f51e1dcf825b9b7908454e6b037f4488d9f32fef70aff16d": {
-        "title": "npm 爆发重大供应链攻击：Axios 被植入远控木马，影响或已扩散",
-        "link": "https://www.infoq.cn/article/j5SQxrf0ULJN2Fjd80T2?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Apr 2026 19:51:00 GMT",
-        "first_seen": "2026-04-07T23:37:01.358372"
-      },
-      "8de20826eef1303a82ed14515aa44b6e7b5b623a47e81b9df1a59793f5f80b98": {
-        "title": "炸穿硅谷！270页文件曝光OpenAI绝密黑料，撕开AI巨头资本权力暗战",
-        "link": "https://www.tmtpost.com/7943896.html",
-        "published_date": "Tue, 07 Apr 2026 16:30:00 GMT",
-        "first_seen": "2026-04-07T23:37:01.358373"
-      },
-      "983d359744de61566b7f0489d7d617eb40d1dc61a114d1fd38a7e845f59421e4": {
-        "title": "谁在死磕，存算一体？",
-        "link": "https://www.tmtpost.com/7944130.html",
-        "published_date": "Tue, 07 Apr 2026 21:28:00 GMT",
-        "first_seen": "2026-04-07T23:37:01.358375"
-      },
       "736837481d555e060ceaa73fb4ed970a371178bb136181d86a1a38d4de6aa5e9": {
         "title": "算力“上天”：太空计算的必然性与紧迫性",
         "link": "https://www.tmtpost.com/7944835.html",
@@ -2647,39 +2617,39 @@
         "link": "https://www.tmtpost.com/7978796.html",
         "published_date": "Thu, 07 May 2026 17:44:00 GMT",
         "first_seen": "2026-05-07T10:24:14.239238"
+      },
+      "dccd7dcbf503c33056ea7bfec9669ecb56e58d9c30649a55567d44d25fd66989": {
+        "title": "国仪量子IPO：万亿国产替代“长坡厚雪”，终于等来一个破局者？",
+        "link": "https://www.tmtpost.com/7978850.html",
+        "published_date": "Thu, 07 May 2026 14:28:00 GMT",
+        "first_seen": "2026-05-07T23:53:13.194287"
+      },
+      "a2ecd373d2c134f8ea3cf07bf7cfa59844819ce9d5bd45f2ebb38198f8bbe82b": {
+        "title": "比 OpenClaw 更火的 「Agent 员工」赛道，杀出一个新王者｜AI 上新",
+        "link": "http://www.geekpark.net/news/363804",
+        "published_date": "Thu, 07 May 2026 16:56:00 GMT",
+        "first_seen": "2026-05-07T23:53:13.194295"
+      },
+      "fa7eaffbf5133ef50e48022d870476554145b08bc0e7911988953e4f27eae58f": {
+        "title": "鸿蒙座舱升级背后，一场车内平台战已经开始",
+        "link": "https://www.tmtpost.com/7978970.html",
+        "published_date": "Thu, 07 May 2026 14:35:00 GMT",
+        "first_seen": "2026-05-07T23:53:13.194297"
+      },
+      "197e833dfaf6d6eda5f4680abb07ccb02a5fe026d342146d473fb8a50a44b268": {
+        "title": "腾讯AI协同办公前沿实践白皮书",
+        "link": "https://www.infoq.cn/minibook/aljF0UJmdDAzrVEcBXwx?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 07 May 2026 17:04:00 GMT",
+        "first_seen": "2026-05-07T23:53:13.194299"
+      },
+      "58123221495dfb6eb30dbaa99785dc7819d73c113be240f74b046b79b80dfbd0": {
+        "title": "直觉外科的第二曲线",
+        "link": "https://www.tmtpost.com/7978906.html",
+        "published_date": "Thu, 07 May 2026 18:15:00 GMT",
+        "first_seen": "2026-05-07T23:53:13.194301"
       }
     },
     "Finance": {
-      "685a45626ce56834784ee9eab047640ac1fa2d7685f20db6e34ccba925e6d649": {
-        "title": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran",
-        "link": "https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 23:11:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.823990"
-      },
-      "9493de56ad3d4d1d1bc0458b7d3c471a11803ff0985e05bc5a373216e7ff2362": {
-        "title": "The Iran conflict isn’t panicking investors — yet. That’s about to change.",
-        "link": "https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories",
-        "published_date": "Tue, 07 Apr 2026 22:13:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.824001"
-      },
-      "bd8ed74fad79d6a1664d666fe67381c2d3981035e0d78672ecfc5735b100e29b": {
-        "title": "The war to break Iran’s economy",
-        "link": "https://www.ft.com/content/7856d59b-66e0-4033-9791-1051f0ae978a",
-        "published_date": "Tue, 07 Apr 2026 14:57:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.824004"
-      },
-      "e934df4a54ce755fecfe7c0c02b6ab2aae7cb8908417dbbd484734a681fc0ac0": {
-        "title": "Hedge funds make record bets against European stocks",
-        "link": "https://www.ft.com/content/77ceeaeb-8e2c-4aa2-90d8-430fef4e7f04",
-        "published_date": "Tue, 07 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.824012"
-      },
-      "b3a3c43cf33e715e2ab548cc326e0985593b9b3391995a59cddc8cc50126f56c": {
-        "title": "IMF warns of emerging markets’ exposure to ‘flighty’ hedge funds",
-        "link": "https://www.ft.com/content/297349ac-34b1-478e-9b15-304175b70e4f",
-        "published_date": "Tue, 07 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.824014"
-      },
       "3b2ecd5bcc2df86e499bf7963709f95d4941e19887271e2b879275911a7b3968": {
         "title": "Oil tumbles and stocks surge after Iran ceasefire agreed",
         "link": "https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34",
@@ -5019,21 +4989,39 @@
         "link": "https://www.marketwatch.com/story/comedian-pete-davidson-lowers-price-of-his-westchester-home-to-2-15-million-c41162eb?mod=mw_rss_topstories",
         "published_date": "Thu, 07 May 2026 09:00:00 GMT",
         "first_seen": "2026-05-07T10:23:48.044683"
+      },
+      "60ad531e475a8c834c9ea409d7de45a3ec0922db43c71e9bc175a9d409f34f12": {
+        "title": "There’s a new worry keeping Treasury yields and borrowing costs higher",
+        "link": "https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 22:41:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.299304"
+      },
+      "10e1bfc80a4874d922ab7d8f2ef3d124b57badbaab73b2e939cb0a66d746522b": {
+        "title": "Wall Street rebound driven by smallest number of stocks on record",
+        "link": "https://www.ft.com/content/7599af3b-2184-4538-8ef9-370e01c1aaa8",
+        "published_date": "Thu, 07 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.299314"
+      },
+      "abfa0e74d1f854a514c5cc349ff50a3259cd8489484c059eb228f5badcdc1483": {
+        "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
+        "link": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 23:34:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.299316"
+      },
+      "9c47ea21079484023c66ee455f12722fa27646ad04be09227c33afc3da458224": {
+        "title": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.",
+        "link": "https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories",
+        "published_date": "Thu, 07 May 2026 22:48:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.299318"
+      },
+      "2a9b0595a187b695e18c2fa6b5bdc1f8d2b14d0e5f211854c7404887ffb47bc9": {
+        "title": "Can Europe close the AI gap with the US and China?",
+        "link": "https://www.ft.com/content/c632ca9b-90d6-4ca8-a370-5fc65adfafe6",
+        "published_date": "Thu, 07 May 2026 11:00:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.299320"
       }
     },
     "Ai": {
-      "049a647077525cd86edcdee2ebe5569ec7e7f2fad4626ba7494097c1fefcda4a": {
-        "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
-        "link": "https://www.qbitai.com/2026/04/397610.html",
-        "published_date": "Tue, 07 Apr 2026 09:13:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.974058"
-      },
-      "38fe0a2c317397f525a65e19e2942b7adc29b64d0d41a75e260c62d9652b9ac9": {
-        "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
-        "link": "https://www.qbitai.com/2026/04/397576.html",
-        "published_date": "Tue, 07 Apr 2026 09:09:00 GMT",
-        "first_seen": "2026-04-07T23:36:32.974066"
-      },
       "972fbf7d984f8f0d1522597ddb4c30978b78ca3ff7b34c43529085fbdefb0f0d": {
         "title": "2026-04-08日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-08/",
@@ -6371,13 +6359,25 @@
         "link": "https://ai.hubtoday.app//2026-05/2026-05-07/",
         "published_date": "Thu, 07 May 2026 10:50:00 GMT",
         "first_seen": "2026-05-07T10:23:48.182052"
+      },
+      "7fa4b0355a32f363a2883dde56336bdf4a212318bf006d169d006e57f5c64202": {
+        "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+        "link": "https://www.qbitai.com/2026/05/413912.html",
+        "published_date": "Thu, 07 May 2026 15:54:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.450976"
+      },
+      "b9b196d440be53a4bb5371383bc98875fc36b86b5a60bebebb148184a81ae6b4": {
+        "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+        "link": "https://www.qbitai.com/2026/05/414006.html",
+        "published_date": "Thu, 07 May 2026 14:01:00 GMT",
+        "first_seen": "2026-05-07T23:52:28.450983"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-07T10:24:14.239240",
-    "Finance": "2026-05-07T10:23:48.044685",
-    "Ai": "2026-05-07T10:23:48.182060"
+    "Technology": "2026-05-07T23:53:13.194303",
+    "Finance": "2026-05-07T23:52:28.299322",
+    "Ai": "2026-05-07T23:52:28.450986"
   }
 }
