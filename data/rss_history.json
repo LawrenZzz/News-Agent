@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "41285fd510d131ae1041819150af5ddd25ee007a623c849b8ef981cb6225841b": {
-        "title": "碳基向下，硅基向上：我们正在供养一台「失控的增长机器」",
-        "link": "https://www.tmtpost.com/7944241.html",
-        "published_date": "Wed, 08 Apr 2026 22:11:00 GMT",
-        "first_seen": "2026-04-08T23:37:17.154779"
-      },
-      "ab02435a9e4f230cce180b70088507ca4f95dafc54b6cd887df31586469bcfab": {
-        "title": "华裔领衔神秘小队，护航Anthropic“玻璃之翼”",
-        "link": "https://www.tmtpost.com/7945693.html",
-        "published_date": "Wed, 08 Apr 2026 22:10:00 GMT",
-        "first_seen": "2026-04-08T23:37:17.154793"
-      },
-      "08174ed45504c0905c30f9c58bdb1a3a016d0375774947bc46913f456809043f": {
-        "title": "当具身智能走进工厂：没有星辰大海，只有一本算不清的账",
-        "link": "https://www.tmtpost.com/7946012.html",
-        "published_date": "Wed, 08 Apr 2026 22:20:00 GMT",
-        "first_seen": "2026-04-08T23:37:17.154797"
-      },
-      "99cd0909ebd2f13eabd5a393a01f5b7bab831f92d0305cac33e6086d7bb919bf": {
-        "title": "芯片出海，征服日本汽车？",
-        "link": "https://www.tmtpost.com/7945622.html",
-        "published_date": "Wed, 08 Apr 2026 22:11:00 GMT",
-        "first_seen": "2026-04-08T23:37:17.154799"
-      },
-      "f60d53a57bed47ad6850dbdd4eba80a065d600fd775893f20cd465400eaf4dcb": {
-        "title": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
-        "link": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Apr 2026 17:00:00 GMT",
-        "first_seen": "2026-04-08T23:37:17.154801"
-      },
       "0f50794118da8c6a7ea9829f2496ca55929a1e13086c3e3bf3db190f15a86620": {
         "title": "Claude Code 生成 13 种编程语言代码基准测试：动态语言更快更省成本",
         "link": "https://www.infoq.cn/article/uFqo6LfcBAKhzwxZkoJO?utm_source=rss&utm_medium=article",
@@ -2647,39 +2617,39 @@
         "link": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 08 May 2026 16:39:00 GMT",
         "first_seen": "2026-05-08T09:15:45.250417"
+      },
+      "615b54fbe8e30a8c1bb88ced68e30d894863d3840c159482a2618cfa79d92d20": {
+        "title": "【钛晨报】促进智能体规范应用与创新发展，三部门最新部署；Anthropic将筹集数百亿美元，估值或近万亿超OpenAI；人工智能终端国家标准上新，涉及眼镜、电视、耳机等",
+        "link": "https://www.tmtpost.com/7976970.html",
+        "published_date": "Sat, 09 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-08T23:57:03.068750"
+      },
+      "51633c2256957cb6677daed6841a837c3ec55bfc0a901eb967819aee22ad8012": {
+        "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
+        "link": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 08 May 2026 18:27:00 GMT",
+        "first_seen": "2026-05-08T23:57:03.068776"
+      },
+      "04e5599b08e6aba6303cb01b2a79b73a57df7a79d8ebdc355a124ca7a087f09c": {
+        "title": "扒了扒A股1060家AI企业的财报，我发现了4个残酷真相",
+        "link": "https://www.tmtpost.com/7980666.html",
+        "published_date": "Fri, 08 May 2026 15:49:00 GMT",
+        "first_seen": "2026-05-08T23:57:03.068779"
+      },
+      "b97a3de5635ae554046a2726974803eb342b3ed7b799e86044c4dfb987204d5e": {
+        "title": "独家对话灵御智能：百万小时真机数据，喂出具身智能的“云端大脑”",
+        "link": "https://www.tmtpost.com/7981455.html",
+        "published_date": "Fri, 08 May 2026 20:28:00 GMT",
+        "first_seen": "2026-05-08T23:57:03.068781"
+      },
+      "5b2c65af06e04e868fb2a2ca689f5a632dc634af377de2ee8279fcb4a5971ab6": {
+        "title": "昆仑芯A+H双线冲刺，百度芯片“断奶”倒计时",
+        "link": "https://www.tmtpost.com/7980751.html",
+        "published_date": "Fri, 08 May 2026 17:46:00 GMT",
+        "first_seen": "2026-05-08T23:57:03.068782"
       }
     },
     "Finance": {
-      "b691665ab3a04339ae8b11e5a6939f4c8db5a29fca36d5b4d6e56cae626b7f72": {
-        "title": "‘They essentially have a blackmail card up their sleeve’: A look at Iran’s plan to charge tankers to use the Strait of Hormuz",
-        "link": "https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 21:26:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.225007"
-      },
-      "6052527a1346ecf37c2944998ef6cc17c06160a0e841b95cf983804eda479002": {
-        "title": "Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis",
-        "link": "https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 20:46:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.225019"
-      },
-      "48edbf666f2d21dce39936917bca97bfdbb0b106e31aafb5289d38a12f1b86a5": {
-        "title": "S&P 500 smashes back above two key moving averages, in a rare display of strength. Here’s what history shows happens next.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-smashed-back-above-2-key-moving-averages-in-a-rare-display-of-strength-heres-what-history-shows-happens-next-7141e5fe?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Apr 2026 21:57:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.225022"
-      },
-      "936d9882bb089b7b427a5aba30d1ad8d59c5b1b52d957f1ab1fd93966d2e25ce": {
-        "title": "Sheinbaum announces fracking plan as Mexico seeks to curb US gas reliance",
-        "link": "https://www.ft.com/content/c89bf731-0f5f-4311-94ab-554cfa0083f5",
-        "published_date": "Wed, 08 Apr 2026 22:46:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.225023"
-      },
-      "86b4bd87c2496fe1586f184e3d605f23a0f4be63cf252a673f538b4f206e80a1": {
-        "title": "Haircut for UK taxpayers after lenders take control of struggling broadband provider",
-        "link": "https://www.ft.com/content/cad2c772-1268-4858-8f95-f9f626d2b107",
-        "published_date": "Wed, 08 Apr 2026 18:42:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.225024"
-      },
       "101a1e6084f728b13b6efe2350edc40a7a2c012df525468ce913f71e71aeca81": {
         "title": "Investors sought to pull $20bn from private credit funds in first quarter",
         "link": "https://www.ft.com/content/3513f9df-18dd-4ea4-ae20-3523988c106c",
@@ -5025,39 +4995,39 @@
         "link": "https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b",
         "published_date": "Fri, 08 May 2026 07:58:00 GMT",
         "first_seen": "2026-05-08T09:15:22.391725"
+      },
+      "fa019c75fd4f2efe9e99ef1535654901f31ef68098a837df88e0a6de07b511a0": {
+        "title": "Kevin Warsh is right about Fed reform — but his inflation solution is a trap",
+        "link": "https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 19:47:00 GMT",
+        "first_seen": "2026-05-08T23:56:28.920116"
+      },
+      "8aa8b788ada59910d7344d51bb2eb98258bc645abcf8e00f64a30fdeb458d5f4": {
+        "title": "Jane Street earned $10bn in first quarter as it doubled trading revenue",
+        "link": "https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a",
+        "published_date": "Fri, 08 May 2026 19:23:00 GMT",
+        "first_seen": "2026-05-08T23:56:28.920125"
+      },
+      "53a92339e56cb7666608359d8f89125cdbf660e5e6c3cb5b045b0584afe313e7": {
+        "title": "While AI pumps up portfolios, some companies sound the alarm",
+        "link": "https://www.ft.com/content/9fc6274f-8455-4728-bda7-d2ced906bdd6",
+        "published_date": "Fri, 08 May 2026 16:26:00 GMT",
+        "first_seen": "2026-05-08T23:56:28.920127"
+      },
+      "3cc5626e01163b1617c7560785ba6aa7c998b1aea6f1413a7c0e32501d2e56a1": {
+        "title": "Markets are banking on the ‘Bliss trade’",
+        "link": "https://www.ft.com/content/60f60089-9486-481c-859c-f29b8ccbbd90",
+        "published_date": "Fri, 08 May 2026 15:25:00 GMT",
+        "first_seen": "2026-05-08T23:56:28.920129"
+      },
+      "a5fbe833412e5e00583dbd08e69098b4c66eaff1517920854e2d4f9ca717581d": {
+        "title": "Gold has climbed back above a key trend line. Are more gains on the way?",
+        "link": "https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories",
+        "published_date": "Fri, 08 May 2026 21:44:00 GMT",
+        "first_seen": "2026-05-08T23:56:28.920131"
       }
     },
     "Ai": {
-      "3f3ed28413a1cf04f783dc72e756c483aae527a0745e6bd953166d21f230e1ab": {
-        "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
-        "link": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/",
-        "published_date": "Wed, 08 Apr 2026 20:01:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.373441"
-      },
-      "41137061267718122d8e17f9a8bce9ceab86318965913fd9602e7e337de4e2b5": {
-        "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
-        "link": "https://www.qbitai.com/2026/04/398001.html",
-        "published_date": "Wed, 08 Apr 2026 14:26:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.373450"
-      },
-      "ea36e3d0e5a75e980bab048ef859dff08e65d249e29e449945cb4a1b3751341c": {
-        "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
-        "link": "https://www.qbitai.com/2026/04/397951.html",
-        "published_date": "Wed, 08 Apr 2026 10:50:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.373452"
-      },
-      "1a7b6fc8a5d3e72be06085b69e43203e6b3c70b7d04be2901f0eec558fed3536": {
-        "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
-        "link": "https://www.qbitai.com/2026/04/397942.html",
-        "published_date": "Wed, 08 Apr 2026 10:17:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.373454"
-      },
-      "3f1135784b0c46eee92faadfc2ad09b0fe2bf259e4461a7967321ed238b0b3d5": {
-        "title": "理想破例投资具身创业公司，L9功臣创办，阿里CEO也跟了",
-        "link": "https://www.qbitai.com/2026/04/397930.html",
-        "published_date": "Wed, 08 Apr 2026 09:49:00 GMT",
-        "first_seen": "2026-04-08T23:37:33.373455"
-      },
       "26cb62b928a1c1f36f74c92b570ffe97a3c5e4e5f82f184c780dda80670645c1": {
         "title": "2026-04-09日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-09/",
@@ -6365,13 +6335,19 @@
         "link": "https://www.qbitai.com/2026/05/414213.html",
         "published_date": "Fri, 08 May 2026 06:34:00 GMT",
         "first_seen": "2026-05-08T09:15:22.524532"
+      },
+      "03a3f02ecc296d2681175b31e907524cb24ed2d2c81fd7c6219248648768a39e": {
+        "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
+        "link": "https://www.qbitai.com/2026/05/414428.html",
+        "published_date": "Fri, 08 May 2026 11:09:00 GMT",
+        "first_seen": "2026-05-08T23:56:29.070339"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-08T09:15:45.250418",
-    "Finance": "2026-05-08T09:15:22.391727",
-    "Ai": "2026-05-08T09:15:22.524541"
+    "Technology": "2026-05-08T23:57:03.068784",
+    "Finance": "2026-05-08T23:56:28.920133",
+    "Ai": "2026-05-08T23:56:29.070348"
   }
 }
