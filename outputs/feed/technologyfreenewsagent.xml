@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 09 May 2026 07:06:00 GMT</pubDate>
-    <lastBuildDate>Sat, 09 May 2026 07:07:34 GMT</lastBuildDate>
+    <pubDate>Sat, 09 May 2026 09:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 09 May 2026 09:17:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】梁文锋自掏200亿领投DeepSeek，阿里或出局；豆包拟增加付费服务；OpenAI自研芯片遇阻：博通要求微软采购四成产能</title>
-      <link>https://www.tmtpost.com/7980114.html</link>
-      <description>&lt;![CDATA[【数智周报】梁文锋自掏200亿领投DeepSeek，阿里或出局；豆包拟增加付费服务；OpenAI自研芯片遇阻：博通要求微软采购四成产能]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 11:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7980114.html</guid>
+      <title>黄奇帆解码“十五五”新赛道，战新会NEXWAVE2026深圳启幕：链主企业领航，大湾区战新产业迈向“共链”时代</title>
+      <link>https://www.tmtpost.com/7982141.html</link>
+      <description>&lt;![CDATA[黄奇帆解码“十五五”新赛道，战新会NEXWAVE2026深圳启幕：链主企业领航，大湾区战新产业迈向“共链”时代]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982141.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头</title>
-      <link>https://www.tmtpost.com/7981763.html</link>
-      <description>&lt;![CDATA[字节筑墙、马斯克收租，全球大模型集体向“算力账单”低头]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981763.html</guid>
+      <title>字节踩下豆包免费“刹车”：那些还在烧钱的AI公司，还剩多少时间？</title>
+      <link>https://www.tmtpost.com/7981426.html</link>
+      <description>&lt;![CDATA[字节踩下豆包免费“刹车”：那些还在烧钱的AI公司，还剩多少时间？]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981426.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下</title>
-      <link>https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cerebras上市背后，OpenAI正在抢英伟达的蛋糕</title>
+      <link>https://www.tmtpost.com/7981936.html</link>
+      <description>&lt;![CDATA[Cerebras上市背后，OpenAI正在抢英伟达的蛋糕]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7981936.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备</title>
-      <link>https://www.tmtpost.com/7981842.html</link>
-      <description>&lt;![CDATA[中国机器人的全球化野心、“踢馆”硅谷，及Physical AI的爆发准备]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981842.html</guid>
+      <title>长和系资本重构：剥离欧洲重资产、押注AI</title>
+      <link>https://www.tmtpost.com/7978765.html</link>
+      <description>&lt;![CDATA[长和系资本重构：剥离欧洲重资产、押注AI]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 15:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7978765.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>星座战争的下半场，从链接卫星的芯片开始｜50×50</title>
-      <link>https://www.tmtpost.com/7981920.html</link>
-      <description>&lt;![CDATA[星座战争的下半场，从链接卫星的芯片开始｜50×50]]&gt;</description>
-      <pubDate>Sat, 09 May 2026 12:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7981920.html</guid>
+      <title>停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南</title>
+      <link>https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南]]&gt;</description>
+      <pubDate>Sat, 09 May 2026 12:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
