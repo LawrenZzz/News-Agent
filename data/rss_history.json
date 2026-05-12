@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "17497f86d80887875c0f7e27b8009a18de25a021a0b5c78f2c9dbd1afd4ba6ae": {
-        "title": "数十家企业争相接入GLM-5.1，中国大模型从“追赶”进入“攻坚”",
-        "link": "https://www.tmtpost.com/7950419.html",
-        "published_date": "Sun, 12 Apr 2026 22:54:00 GMT",
-        "first_seen": "2026-04-12T23:33:32.030634"
-      },
-      "b6a2aba5f988b66ee1fbef4a08cd9023c1665994bf652b77478c6e93698def70": {
-        "title": "阿里HappyHorse，一场关于“Token经济”的阳谋",
-        "link": "https://www.tmtpost.com/7949938.html",
-        "published_date": "Sun, 12 Apr 2026 12:25:00 GMT",
-        "first_seen": "2026-04-12T23:33:32.030640"
-      },
-      "002825057d6b82d18b7c7c5350bfccb1a9c159f3327a7cca945c8dd6e4c913ba": {
-        "title": "AI打榜，打的是什么？",
-        "link": "https://www.tmtpost.com/7949939.html",
-        "published_date": "Sun, 12 Apr 2026 09:25:00 GMT",
-        "first_seen": "2026-04-12T23:33:32.030642"
-      },
-      "a31ad468c5311ed828c896eb2aec6dafb781cfc6aefb33566512df4aecf169c1": {
-        "title": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
-        "link": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-12T23:33:32.030644"
-      },
-      "8bcc369d816ef811b1df6c3922174f1fd7c32bbd8c8d9128f60c06916eb04ab6": {
-        "title": "139%的客户在增购：一家中科院AI公司的八年从实验室到港股 | IPO观察",
-        "link": "https://www.tmtpost.com/7950387.html",
-        "published_date": "Sun, 12 Apr 2026 21:23:00 GMT",
-        "first_seen": "2026-04-12T23:33:32.030646"
-      },
       "f865f6be38ba64bd89e1ee800dc32e075d7d3e9de6ca9a9aa07066194f1528ab": {
         "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
         "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
@@ -2617,39 +2587,39 @@
         "link": "https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 12 May 2026 10:00:00 GMT",
         "first_seen": "2026-05-12T10:30:08.360306"
+      },
+      "fb2db153122b54461ab6c90326897282c88d81d843caff3fd87a73653f4bec70": {
+        "title": "千问重构淘宝，阿里“推翻”阿里",
+        "link": "https://www.tmtpost.com/7984593.html",
+        "published_date": "Tue, 12 May 2026 18:22:00 GMT",
+        "first_seen": "2026-05-12T23:59:38.361504"
+      },
+      "1304ac4c2b368fa4d9a5f1c32252d22017e53a043b0f50824707c9cda3596f63": {
+        "title": "谷歌开了一场「读作 Android，写作 Gemini」的硬件发布会",
+        "link": "http://www.geekpark.net/news/364060",
+        "published_date": "Wed, 13 May 2026 03:02:00 GMT",
+        "first_seen": "2026-05-12T23:59:38.361511"
+      },
+      "21c622fd827b17af8c8afb4669a6a212f54f53c8d6583d3c84b9be1713487722": {
+        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+        "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-12T23:59:38.361513"
+      },
+      "9f37866cacfa25ff4c21c53565dc5955aec1bd46741e572cefc33fa23f14763a": {
+        "title": "知名开源作者呼吁对软件供应链进行验证，而非盲目信任",
+        "link": "https://www.infoq.cn/article/GrHwv4MghR6WkPQdU1FR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 19:13:00 GMT",
+        "first_seen": "2026-05-12T23:59:38.361515"
+      },
+      "ad6db2afc115877f81292ec22985bd4c7284683ba85667bc470486df360e289f": {
+        "title": "在中国市场搞「付费订阅」，豆包咋想的？",
+        "link": "http://www.geekpark.net/news/364059",
+        "published_date": "Tue, 12 May 2026 19:27:00 GMT",
+        "first_seen": "2026-05-12T23:59:38.361517"
       }
     },
     "Finance": {
-      "c9d15098b3c8b625e1361d70219c0f57ddd8a9324b1e5703c9e4e968c5618172": {
-        "title": "Trump announces naval blockade of Strait of Hormuz as Iran peace talks fail",
-        "link": "https://www.ft.com/content/49fb7745-e938-4fd2-a1a5-924a8e80782c",
-        "published_date": "Sun, 12 Apr 2026 21:54:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.290662"
-      },
-      "e4e39573a83877592d68380121e2d7bee30bc90b0656fa879757ffd797740318": {
-        "title": "Global economic outlook darkens as policymakers count cost of Iran war",
-        "link": "https://www.ft.com/content/3050d862-7e94-47e3-8a17-42896c1a4383",
-        "published_date": "Sun, 12 Apr 2026 17:00:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.290670"
-      },
-      "af5fdc9f47fdb22a5cab054345d2fb1acb2d48b2999310416584080dded88dc2": {
-        "title": "UK households’ living standards to fall after energy price shock",
-        "link": "https://www.ft.com/content/6d022628-7d48-4d8c-a600-27989a106749",
-        "published_date": "Sun, 12 Apr 2026 23:01:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.290673"
-      },
-      "6ae27af7ea61afd797b8819a8d957917f01039388ac4a65947eeefd3b9ca0f10": {
-        "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock",
-        "link": "https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781?mod=mw_rss_topstories",
-        "published_date": "Sun, 12 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.290675"
-      },
-      "c4550077e139b4fbb80979c732a1bdcaa8a31987620b4cd7e9abf03d992c61e0": {
-        "title": "UK Treasury to profit from final year of student loan scheme, says analysis",
-        "link": "https://www.ft.com/content/184f97b0-275b-4d28-9ed6-bdb15ae0c69f",
-        "published_date": "Sun, 12 Apr 2026 23:01:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.290676"
-      },
       "76281820cf0c99fd56e3d23135523b58a0b7764dd2663e564713cb78b682b9ac": {
         "title": "Oil prices soar above $100 a barrel as hope fades of end to Iran war",
         "link": "https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c",
@@ -4983,27 +4953,39 @@
         "link": "https://www.ft.com/content/3f77f8ad-16b8-4f97-ae55-0bd2e31122fa",
         "published_date": "Tue, 12 May 2026 09:22:00 GMT",
         "first_seen": "2026-05-12T10:29:38.919357"
+      },
+      "dbc8d4ef0bb13f3bdbd5998cf6f81bcceeff84351ac030618d1917b5c0dd8fa2": {
+        "title": "Is AI power really the new oil? Soon it will trade like just like a commodity.",
+        "link": "https://www.marketwatch.com/story/is-ai-power-really-the-new-oil-soon-it-will-trade-like-just-like-a-commodity-42ce65cb?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 22:02:00 GMT",
+        "first_seen": "2026-05-12T23:59:11.691425"
+      },
+      "dccf9d5e421c80c090279bb7e612599dbf7e73ad1946127bd6fd295ca8677da1": {
+        "title": "Don’t mess with central bank independence",
+        "link": "https://www.ft.com/content/46d8fac2-a90d-45d8-9a64-bc2483cf5963",
+        "published_date": "Tue, 12 May 2026 11:30:00 GMT",
+        "first_seen": "2026-05-12T23:59:11.691433"
+      },
+      "6d6f617f2bc03b4d61a12442b034b4582caf263cd495ee9105a9a2b77d3025de": {
+        "title": "The real cost of the Iran war isn’t just higher prices — it’s market paralysis",
+        "link": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 22:37:00 GMT",
+        "first_seen": "2026-05-12T23:59:11.691436"
+      },
+      "2f8f1e3602dfff0400b63f10fac1130c95a5b1b7e07ae44a6cb4a191ccdda63d": {
+        "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk",
+        "link": "https://www.marketwatch.com/story/hold-stocks-or-fold-em-former-world-series-of-poker-champion-annie-duke-tells-you-how-to-decide-6ded9e52?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 21:29:00 GMT",
+        "first_seen": "2026-05-12T23:59:11.691438"
+      },
+      "b8d6086c667c44a55a950af2ac0d05133bfdd6b094dda960447cd247e4b2a27e": {
+        "title": "Copper prices are now at their highest level on record. AI is only part of the story.",
+        "link": "https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 21:43:00 GMT",
+        "first_seen": "2026-05-12T23:59:11.691440"
       }
     },
     "Ai": {
-      "a0878856e41e0a49298db58b094306de107fa7b5407fff7b6d0f4fe972bdc7e1": {
-        "title": "「Claude Code之父」其实是野路子来的……",
-        "link": "https://www.qbitai.com/2026/04/400306.html",
-        "published_date": "Sun, 12 Apr 2026 14:11:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.436522"
-      },
-      "783f9ff0c3d72facbd8d93ead685690b621fa4f9b531d8340f522cba0d0bcfa5": {
-        "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
-        "link": "https://www.qbitai.com/2026/04/400197.html",
-        "published_date": "Sun, 12 Apr 2026 14:06:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.436529"
-      },
-      "e9751faae3362205e516177fc5353802827b55ccc7c30e8fba53a106942ebcb0": {
-        "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
-        "link": "https://www.qbitai.com/2026/04/399996.html",
-        "published_date": "Sun, 12 Apr 2026 14:02:00 GMT",
-        "first_seen": "2026-04-12T23:33:16.436531"
-      },
       "f786dbf64c9173029e3713f8ec9d9068b03f053dc57aa58b54157316d2c6b9f6": {
         "title": "2026-04-13日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-13/",
@@ -6269,13 +6251,19 @@
         "link": "https://www.qbitai.com/2026/05/416540.html",
         "published_date": "Tue, 12 May 2026 08:03:00 GMT",
         "first_seen": "2026-05-12T10:29:39.072968"
+      },
+      "23f243982d3c6ee11e2eab3117c850b81ffe43cb318279345dbf95f38b0fbc62": {
+        "title": "原来Ilya还有70亿美元OpenAI股权",
+        "link": "https://www.qbitai.com/2026/05/416597.html",
+        "published_date": "Tue, 12 May 2026 13:55:00 GMT",
+        "first_seen": "2026-05-12T23:59:11.838859"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-12T10:30:08.360309",
-    "Finance": "2026-05-12T10:29:38.919360",
-    "Ai": "2026-05-12T10:29:39.072979"
+    "Technology": "2026-05-12T23:59:38.361519",
+    "Finance": "2026-05-12T23:59:11.691442",
+    "Ai": "2026-05-12T23:59:11.838868"
   }
 }
