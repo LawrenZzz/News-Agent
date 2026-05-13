@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 10:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 10:24:24 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 23:55:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 23:55:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI时代的产业版图重构：龙头、雁阵与掉队者</title>
-      <link>https://www.tmtpost.com/7986182.html</link>
-      <description>&lt;![CDATA[AI时代的产业版图重构：龙头、雁阵与掉队者]]&gt;</description>
+      <title>国会调查Altman：不持股的CEO，如何靠&quot;体外循环&quot;建起300亿帝国</title>
+      <link>https://www.tmtpost.com/7985654.html</link>
+      <description>&lt;![CDATA[国会调查Altman：不持股的CEO，如何靠&quot;体外循环&quot;建起300亿帝国]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7985654.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>DAA、超级个体与混合编队：李彦宏的AI时代进化论</title>
+      <link>https://www.tmtpost.com/7986488.html</link>
+      <description>&lt;![CDATA[DAA、超级个体与混合编队：李彦宏的AI时代进化论]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986488.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能</title>
+      <link>https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 推出 Artifacts Beta 测试版，为 AI 代理引入类似 Git 的版本控制功能]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ULPBgiEHyo3i9OCTrgr9?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>腾讯为什么一定要买喜马拉雅？</title>
+      <link>https://www.tmtpost.com/7986071.html</link>
+      <description>&lt;![CDATA[腾讯为什么一定要买喜马拉雅？]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 18:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986071.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>机器人行业最缺的，已经不是想象力了</title>
+      <link>https://www.tmtpost.com/7985905.html</link>
+      <description>&lt;![CDATA[机器人行业最缺的，已经不是想象力了]]&gt;</description>
       <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986182.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>把 RAG 做成主流的公司，现在开始“做空”RAG 了</title>
-      <link>https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把 RAG 做成主流的公司，现在开始“做空”RAG 了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么</title>
-      <link>http://www.geekpark.net/news/364100</link>
-      <description>&lt;![CDATA[Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:25:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/364100</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版</title>
-      <link>https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>GitHub 如何保障现代CI/CD系统中智能体工作流的安全</title>
-      <link>https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 如何保障现代CI/CD系统中智能体工作流的安全]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&amp;utm_medium=article</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/7985905.html</guid>
       <category>Technology</category>
     </item>
   </channel>
