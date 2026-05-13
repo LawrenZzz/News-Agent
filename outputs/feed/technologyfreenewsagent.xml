@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 07:49:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 07:50:14 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 10:23:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 10:24:24 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解</title>
-      <link>https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI时代的产业版图重构：龙头、雁阵与掉队者</title>
+      <link>https://www.tmtpost.com/7986182.html</link>
+      <description>&lt;![CDATA[AI时代的产业版图重构：龙头、雁阵与掉队者]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986182.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己</title>
-      <link>https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</guid>
+      <title>把 RAG 做成主流的公司，现在开始“做空”RAG 了</title>
+      <link>https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[把 RAG 做成主流的公司，现在开始“做空”RAG 了]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？</title>
-      <link>https://www.tmtpost.com/7983452.html</link>
-      <description>&lt;![CDATA[200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7983452.html</guid>
+      <title>Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么</title>
+      <link>http://www.geekpark.net/news/364100</link>
+      <description>&lt;![CDATA[Auto Research 来了：当 AI 开始接管科研里最苦的活，意味着什么]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/364100</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”</title>
-      <link>https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版</title>
+      <link>https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了</title>
-      <link>https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GitHub 如何保障现代CI/CD系统中智能体工作流的安全</title>
+      <link>https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 如何保障现代CI/CD系统中智能体工作流的安全]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
