@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 May 2026 08:13:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 May 2026 08:15:04 GMT</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 10:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 10:20:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>李彦宏PK黄仁勋，AI的度量衡是Token还是DAA？</title>
-      <link>https://www.tmtpost.com/7988792.html</link>
-      <description>&lt;![CDATA[李彦宏PK黄仁勋，AI的度量衡是Token还是DAA？]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7988792.html</guid>
+      <title>当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？</title>
+      <link>https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里AI迎来商业化转折点，正式进化到Token经济了！</title>
-      <link>https://www.tmtpost.com/7989224.html</link>
-      <description>&lt;![CDATA[阿里AI迎来商业化转折点，正式进化到Token经济了！]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7989224.html</guid>
+      <title>“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”</title>
+      <link>https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版</title>
-      <link>https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[复制失败与脏碎片：Linux 页面缓存漏洞影响所有主流发行版]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 09:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1HucCJrazwgF7QNT232r?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/7989557.html</link>
+      <description>&lt;![CDATA[Agent将计算推向端侧，NAS不再仅是存储丨ToB产业观察]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7989557.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>可灵“逃离”快手，大厂AI“分拆”进行时</title>
-      <link>https://www.tmtpost.com/7988764.html</link>
-      <description>&lt;![CDATA[可灵“逃离”快手，大厂AI“分拆”进行时]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 14:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7988764.html</guid>
+      <title>百度想明白了：旧供给到达极限了</title>
+      <link>https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百度想明白了：旧供给到达极限了]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百星入轨，商业火箭进入“航班化发射时代”</title>
-      <link>https://www.tmtpost.com/7989500.html</link>
-      <description>&lt;![CDATA[百星入轨，商业火箭进入“航班化发射时代”]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7989500.html</guid>
+      <title>她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则</title>
+      <link>https://www.tmtpost.com/7989252.html</link>
+      <description>&lt;![CDATA[她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则]]&gt;</description>
+      <pubDate>Fri, 15 May 2026 17:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7989252.html</guid>
       <category>Technology</category>
     </item>
   </channel>
