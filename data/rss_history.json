@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3df73e550e4adb81c19d8e23a7e7882a3142b18d5f0bc6d8f46a789edba6c226": {
-        "title": "“猎头”张文之后：壁仞科技更需要“技术”张文？",
-        "link": "https://www.tmtpost.com/7955633.html",
-        "published_date": "Thu, 16 Apr 2026 16:54:00 GMT",
-        "first_seen": "2026-04-16T09:17:17.228824"
-      },
-      "53d8ca6c50e99143a14a951cd93f91ad70a64c58d1bd5d21da16ccaf3d3b788a": {
-        "title": "挑战闭源格局！腾讯混元3D 2.0开源发布，性能对标商业级模型",
-        "link": "https://www.tmtpost.com/7955800.html",
-        "published_date": "Thu, 16 Apr 2026 16:57:00 GMT",
-        "first_seen": "2026-04-16T09:17:17.228832"
-      },
-      "25766ce2200acdd8902001fbcae492aa09c71e795ba165c55499bfa236730d61": {
-        "title": "暖哇科技二次冲港股，“保险AI第一股”成色几何？",
-        "link": "https://www.tmtpost.com/7955666.html",
-        "published_date": "Thu, 16 Apr 2026 16:17:00 GMT",
-        "first_seen": "2026-04-16T09:17:17.228835"
-      },
-      "f57344f0f8166d17b136ec38181c868b85aeb932a42c65465d4d50468b6a7d2b": {
-        "title": "压榨系统性能：视频审核中台从 280ms 降低至 90ms 的架构演进与深度优化.md",
-        "link": "https://www.infoq.cn/article/VPXF1eq1iuW7HlZSMX0y?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Apr 2026 16:51:00 GMT",
-        "first_seen": "2026-04-16T09:17:17.228836"
-      },
-      "81d3dfcbd6ab0655414cfdf5bab04af7589e4aae8943c586af57eb1eb2c14c09": {
-        "title": "Claude变蠢了，新模型发布前的黑暗时刻？",
-        "link": "https://www.tmtpost.com/7955428.html",
-        "published_date": "Thu, 16 Apr 2026 12:38:00 GMT",
-        "first_seen": "2026-04-16T09:17:17.228838"
-      },
       "4c905fc69a90d3f2647cd75e9f7851fe753b756fac7e8f504a5dd5c474b6fd0c": {
         "title": "与谷歌 Genie3 正面交锋，阿里发布世界模型HappyOyster：从被动生成到主动模拟",
         "link": "https://www.tmtpost.com/7956626.html",
@@ -2617,27 +2587,39 @@
         "link": "https://www.tmtpost.com/7990195.html",
         "published_date": "Sat, 16 May 2026 09:53:00 GMT",
         "first_seen": "2026-05-16T07:15:13.555241"
+      },
+      "7b9ad0e06aaa541d9ce0a60fb0654c7b5ed644981249d16f419c94cbf8efdefb": {
+        "title": "百度大模型自救：这次还能逆风翻盘吗？",
+        "link": "https://www.tmtpost.com/7990101.html",
+        "published_date": "Sat, 16 May 2026 09:39:00 GMT",
+        "first_seen": "2026-05-16T09:29:16.498890"
+      },
+      "f11eda672da743dbf3a8ace9b3f5cb1447e6cb2dda6e6e13c4278529e0655c9a": {
+        "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
+        "link": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 16 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-16T09:29:16.498897"
+      },
+      "c362499c7d63bf0cf26f2603fd1a3a3d9ba300904012a1ebc75baac26ab02118": {
+        "title": "这个 GitHub 上 1.6 万人点赞 AI PPT 工具，生成的 PPT 能编辑。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533700&idx=1&sn=c2ec1dc4e0b48c74944aa7117558a1ce",
+        "published_date": "Sat, 16 May 2026 12:04:00 GMT",
+        "first_seen": "2026-05-16T09:29:16.498900"
+      },
+      "5e900bab710ff9be1d3745c2600179261439686c20ecffaae72fe202858a7f49": {
+        "title": "“耳朵经济”遇冷、“五项不准”，腾讯为何非要拿下喜马拉雅？",
+        "link": "https://www.tmtpost.com/7990250.html",
+        "published_date": "Sat, 16 May 2026 10:46:00 GMT",
+        "first_seen": "2026-05-16T09:29:16.498902"
+      },
+      "70739439f75d9ff84717ada8289c1b829133c11eb8c42b5e90be1a0ed1b5bf51": {
+        "title": "贾跃亭和他的12年造车编年史",
+        "link": "https://www.tmtpost.com/7990466.html",
+        "published_date": "Sat, 16 May 2026 09:56:00 GMT",
+        "first_seen": "2026-05-16T09:29:16.498904"
       }
     },
     "Finance": {
-      "9c99f935e294e0904c725714657a10ce4230aa878a0bcff69ae0022173db82b2": {
-        "title": "SNL alum Pete Davidson lists his private, upstate N.Y. home on 6 acres for $2.27 million",
-        "link": "https://www.marketwatch.com/story/snl-alum-pete-davidson-lists-his-private-upstate-n-y-home-on-6-acres-for-2-27-million-7cf73bf7?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Apr 2026 09:04:00 GMT",
-        "first_seen": "2026-04-16T09:16:51.514434"
-      },
-      "5bac350d46ec120577ee0055e2c4086d142a864c882e6c1227f1bf3bdf5c1cb2": {
-        "title": "Ceasefire with Israel expected ‘soon’, say Lebanese officials",
-        "link": "https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81",
-        "published_date": "Thu, 16 Apr 2026 08:37:00 GMT",
-        "first_seen": "2026-04-16T09:16:51.514443"
-      },
-      "57001370781ce2522596db8253d7a969d458c6c35136ec53640bcddfd6f0733b": {
-        "title": "Taiwan overtakes UK in stock market value on AI chip boom",
-        "link": "https://www.ft.com/content/4e647b69-f130-4864-944c-3b4c0fcb1dbc",
-        "published_date": "Thu, 16 Apr 2026 07:03:00 GMT",
-        "first_seen": "2026-04-16T09:16:51.514446"
-      },
       "687b32fda1da01cf11f5c8e9d409217289d089bdd5391e3ffad38f1310adcfcf": {
         "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency ‘break-the-glass’ plan if Treasury demand collapses",
         "link": "https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories",
@@ -4965,27 +4947,15 @@
         "link": "https://www.ft.com/content/37ba1609-ffa7-42ae-b63c-b2c628c584e1",
         "published_date": "Sat, 16 May 2026 00:23:00 GMT",
         "first_seen": "2026-05-16T07:14:51.400848"
+      },
+      "a36a4ec71f760ec75176749d34c848e0ea0dc6192e9fdaf9d4917d6873d8c2fb": {
+        "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?",
+        "link": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
+        "published_date": "Sat, 16 May 2026 07:55:00 GMT",
+        "first_seen": "2026-05-16T09:28:56.467234"
       }
     },
     "Ai": {
-      "18fa18ffdfe679aa8287b30a4581405aeec993b74d3c987cdaaa4a7b1bb1743d": {
-        "title": "宁王飘了！日赚2.3亿，回应比亚迪“闪充”：跟我学的，构不成挑战",
-        "link": "https://www.qbitai.com/2026/04/401719.html",
-        "published_date": "Thu, 16 Apr 2026 08:25:00 GMT",
-        "first_seen": "2026-04-16T09:16:51.665326"
-      },
-      "d765e4cb91c2a100a3ff52934560f2b45e7856059a871ab3b75e8fa22d13c1d9": {
-        "title": "它石智航Pre-A轮融资4.55亿美金破中国具身智能纪录，高瓴红杉美团联合领投",
-        "link": "https://www.qbitai.com/2026/04/401714.html",
-        "published_date": "Thu, 16 Apr 2026 07:38:00 GMT",
-        "first_seen": "2026-04-16T09:16:51.665333"
-      },
-      "81f65d5ff17a032fb3c87a8ff97421069abae697babdb3eb682e2dcd7a01dc32": {
-        "title": "2026-04-16日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-16/",
-        "published_date": "Thu, 16 Apr 2026 10:14:00 GMT",
-        "first_seen": "2026-04-16T09:16:51.665335"
-      },
       "6ce3141e70340c0514f6003f0924a13ffcfddd9131eb43293bac66e0e5058020": {
         "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
         "link": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/",
@@ -6269,13 +6239,19 @@
         "link": "https://www.qbitai.com/2026/05/418150.html",
         "published_date": "Sat, 16 May 2026 04:27:00 GMT",
         "first_seen": "2026-05-16T07:15:34.506743"
+      },
+      "4f14204d6f39d0649f9995c05f73156c49b17a2fd5b0ad7cb3a4654fc79299e5": {
+        "title": "2026-05-16日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-16/",
+        "published_date": "Sat, 16 May 2026 11:59:00 GMT",
+        "first_seen": "2026-05-16T09:29:16.671444"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-16T07:15:13.555244",
-    "Finance": "2026-05-16T07:14:51.400850",
-    "Ai": "2026-05-16T07:15:34.506745"
+    "Technology": "2026-05-16T09:29:16.498906",
+    "Finance": "2026-05-16T09:28:56.467247",
+    "Ai": "2026-05-16T09:29:16.671453"
   }
 }
