@@ -2647,6 +2647,36 @@
         "link": "https://www.tmtpost.com/7990897.html",
         "published_date": "Sun, 17 May 2026 12:10:00 GMT",
         "first_seen": "2026-05-17T07:32:27.644087"
+      },
+      "2ab9bd938d371eb2dbf62f12a960dbe60130b9b9ba7b3f434a56a09917c11967": {
+        "title": "Anthropic CEO最新专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
+        "link": "https://www.tmtpost.com/7991109.html",
+        "published_date": "Sun, 17 May 2026 15:59:00 GMT",
+        "first_seen": "2026-05-17T09:46:08.382958"
+      },
+      "1d48f34569db087b4b2c3a6fab633fea5ff2491c4ee30e34dd222eda9732b64c": {
+        "title": "我在GEO公司卧底30天：这里的工作就是骗AI",
+        "link": "https://www.tmtpost.com/7991081.html",
+        "published_date": "Sun, 17 May 2026 15:59:00 GMT",
+        "first_seen": "2026-05-17T09:46:08.382966"
+      },
+      "582a42329dbe037cb5559ee08124c8a9f1e9cc0958daa0addac2c3a6f1994356": {
+        "title": "拿着同款 AI 船票，阿里和腾讯活成了彼此不认识的样子",
+        "link": "https://www.tmtpost.com/7990615.html",
+        "published_date": "Sun, 17 May 2026 08:39:00 GMT",
+        "first_seen": "2026-05-17T09:46:08.382969"
+      },
+      "a43dc3ae5ebc80d7682ebaa754126509c698e662ca2a51c4243768ed736bab27": {
+        "title": "AI围攻菜市场：算法驱赶“烟火气”",
+        "link": "https://www.tmtpost.com/7991106.html",
+        "published_date": "Sun, 17 May 2026 16:10:00 GMT",
+        "first_seen": "2026-05-17T09:46:08.382971"
+      },
+      "e040eea03f070499c3b206ce7a8ee538d2a313e51b0e99a6b109a511f0972c93": {
+        "title": "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人",
+        "link": "https://www.tmtpost.com/7990555.html",
+        "published_date": "Sun, 17 May 2026 08:37:00 GMT",
+        "first_seen": "2026-05-17T09:46:08.382972"
       }
     },
     "Finance": {
@@ -6305,13 +6335,19 @@
         "link": "https://www.qbitai.com/2026/05/418737.html",
         "published_date": "Sun, 17 May 2026 03:37:00 GMT",
         "first_seen": "2026-05-17T07:32:27.791521"
+      },
+      "a146094e63033c6a7f2e83fb2613ed49f6f99a259925600d980f290d5ddc4fb4": {
+        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "link": "https://www.qbitai.com/2026/05/418836.html",
+        "published_date": "Sun, 17 May 2026 08:55:00 GMT",
+        "first_seen": "2026-05-17T09:46:08.528670"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-17T07:32:27.644090",
+    "Technology": "2026-05-17T09:46:08.382975",
     "Finance": "2026-05-17T07:32:06.329221",
-    "Ai": "2026-05-17T07:32:27.791523"
+    "Ai": "2026-05-17T09:46:08.528679"
   }
 }
