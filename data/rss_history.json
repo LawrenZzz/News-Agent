@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b5ac250f5952b95a7764c98d8daf8bad48c6fa992cf84640f62c8d869b8b01ab": {
-        "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
-        "link": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:41.676040"
-      },
-      "0aa17597405f039260bccb4ecc78d7a5b00316fe5f85c992981a5f801bb51469": {
-        "title": "三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现",
-        "link": "https://www.tmtpost.com/7956493.html",
-        "published_date": "Sat, 18 Apr 2026 10:35:00 GMT",
-        "first_seen": "2026-04-18T06:14:41.676046"
-      },
-      "cb96ebe83a63d41ad2649535c9199f0722cb50653ef689088ba51977dbd336f9": {
-        "title": "DeepSeek 首次融资，AGI 理想向资本低头？",
-        "link": "https://www.tmtpost.com/7958205.html",
-        "published_date": "Sat, 18 Apr 2026 10:45:00 GMT",
-        "first_seen": "2026-04-18T06:14:41.676048"
-      },
-      "3e87f7075fded28c59d44121e4a548b1d05261daad06aa7f0de9fff7293a20b2": {
-        "title": "设计行业的“棺材板”，要被Claude Design盖上了",
-        "link": "https://www.tmtpost.com/7958212.html",
-        "published_date": "Sat, 18 Apr 2026 11:40:00 GMT",
-        "first_seen": "2026-04-18T06:14:41.676050"
-      },
-      "36a11367364258827788205a5031635ea0095d1aa6c653b3f4ca0f2469c10d6f": {
-        "title": "“有了AI，人们却过得越来越累了”",
-        "link": "https://www.tmtpost.com/7957716.html",
-        "published_date": "Sat, 18 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:41.676052"
-      },
       "e7a8de12f31fed2ba08afe0872daf8c56e3df124eb2c01821daeb37344b081f2": {
         "title": "AI的真正战场在“黑暗森林”",
         "link": "https://www.tmtpost.com/7957747.html",
@@ -2647,39 +2617,39 @@
         "link": "https://www.tmtpost.com/7990904.html",
         "published_date": "Sun, 17 May 2026 10:32:00 GMT",
         "first_seen": "2026-05-17T23:56:08.186219"
+      },
+      "854c08266dcd96b707d4c5cd9dc81cf57fa0c65238e8f567ff99751370f2165f": {
+        "title": "世界模型的门槛，谷歌可能迈过去了",
+        "link": "https://www.tmtpost.com/7991943.html",
+        "published_date": "Mon, 18 May 2026 15:12:00 GMT",
+        "first_seen": "2026-05-18T08:44:17.525950"
+      },
+      "11acb7825c06b917e56c2f39eac84499fbaaa6b8236aa8f77b7c774a8075fe24": {
+        "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
+        "link": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 May 2026 16:07:00 GMT",
+        "first_seen": "2026-05-18T08:44:17.525958"
+      },
+      "9f29b3a535839a9620681ff48d62a1594e72592ea8bd60632594412db2ccf384": {
+        "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+        "link": "https://sspai.com/post/109870",
+        "published_date": "Mon, 18 May 2026 06:56:00 GMT",
+        "first_seen": "2026-05-18T08:44:17.525960"
+      },
+      "fe02824c9b0a44953c841486366f81d132d41e9f60e23b93e0dcb04bb4389b7c": {
+        "title": "一个二十多年老兵的忧心：那条从Debug开始走向资深工程师的路，正在崩塌",
+        "link": "https://www.infoq.cn/article/YAp5zTKldz9fYuYkAuls?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 May 2026 10:48:00 GMT",
+        "first_seen": "2026-05-18T08:44:17.525961"
+      },
+      "ef6dcbfd857d25f149e18714dbe248571be08fe0a9f09af064b046cd5e5a68ae": {
+        "title": "从第一性原理出发：那些构建 Snowflake 的理念，以及下一步走向 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/YIHbbObGsImxBNCpW1Ut?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 18 May 2026 14:24:00 GMT",
+        "first_seen": "2026-05-18T08:44:17.525963"
       }
     },
     "Finance": {
-      "56e6ea33898f58f7cd88a1493bf6d4487a3c33de2515735a63fe14d2158632b1": {
-        "title": "The coming global food crisis",
-        "link": "https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df",
-        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.116999"
-      },
-      "8d109ee0a384a54ef5c7d3bcf89b905e4def2de1419e4efe38c03580c9cf37b2": {
-        "title": "Turkey promotes ‘Middle Corridor’ as Strait of Hormuz alternative",
-        "link": "https://www.ft.com/content/a1ea2038-b4d7-4d94-bd02-bfb65d730f45",
-        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.117010"
-      },
-      "a8177a2919e14aef7beaa18a146730f7e3a724b82500c2e92001787e0f0b4c13": {
-        "title": "Why higher pay hasn’t made young adults feel richer",
-        "link": "https://www.ft.com/content/b61f60a3-d4d7-46d9-aa6f-dd78dffe71f5",
-        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.117013"
-      },
-      "a0a6d752bcdfb979c5c339cd2095c010ad8a0f6a6e9024e8e700aa18ddf65615": {
-        "title": "The return of Londonophobia",
-        "link": "https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6",
-        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.117015"
-      },
-      "9faa7ef4455bfb9bf919250f0545c9b6f43e1bbefdd4cc9d73c3938f250a1b24": {
-        "title": "Boom in UK ‘staycations’ as war puts holidaymakers off overseas travel",
-        "link": "https://www.ft.com/content/bb3a8410-bc2b-4f62-86c1-0fefc181f164",
-        "published_date": "Sat, 18 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.117017"
-      },
       "087d2a0860f844d569c596912deb9a82daf71285c1783b2e747f3563c284b291": {
         "title": "Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened",
         "link": "https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22",
@@ -4983,21 +4953,39 @@
         "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories",
         "published_date": "Sun, 17 May 2026 19:34:00 GMT",
         "first_seen": "2026-05-17T23:55:52.042883"
+      },
+      "8cc6ace29be8426176c37ce72209ea0a054a81df7d09b1369d5e0e14f1227d3a": {
+        "title": "Bonds extend sell-off on inflation fears",
+        "link": "https://www.ft.com/content/1a33355b-b080-49f6-88e1-e613843a8af0",
+        "published_date": "Mon, 18 May 2026 07:02:00 GMT",
+        "first_seen": "2026-05-18T08:43:51.676560"
+      },
+      "e19b7bbb9d003b1bb70b5abf1031837634c5a91bb3ac2fb06fbd442632808cd2": {
+        "title": "China warns of ‘severe’ global conditions as economy shows weakness",
+        "link": "https://www.ft.com/content/5b1dcd37-7567-4302-9f7a-424ec7e43ee0",
+        "published_date": "Mon, 18 May 2026 03:50:00 GMT",
+        "first_seen": "2026-05-18T08:43:51.676572"
+      },
+      "e5d0efbaac3e900d49a544981b01697b96b1848e5c27465539eb4069920b075c": {
+        "title": "Germany goes from labour shortages to hiring freezes",
+        "link": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
+        "published_date": "Mon, 18 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-18T08:43:51.676575"
+      },
+      "ca10e3cf4d9c45b470fbe5bb322569c74fd6c894272ba1cc1f05d39fa1f03cef": {
+        "title": "How China enables American domination",
+        "link": "https://www.ft.com/content/6228616c-0231-4926-ac1b-7125759c34a7",
+        "published_date": "Mon, 18 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-18T08:43:51.676577"
+      },
+      "357da3619dec335dc2c90f0e7e40200cf47561d0b1d4a7213b3f4e00d557229a": {
+        "title": "The Italianisation of Britain’s finances",
+        "link": "https://www.ft.com/content/fa96e027-6727-484b-895b-c1f193b0ce35",
+        "published_date": "Mon, 18 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-18T08:43:51.676579"
       }
     },
     "Ai": {
-      "f8c6b9d49d7cc1302766eeb3b75cb3684cf06fad37c80906f22253852a1bf71d": {
-        "title": "2026-04-18日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-18/",
-        "published_date": "Sat, 18 Apr 2026 09:42:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.283070"
-      },
-      "ef3f3ed82e6b4ab835d5518c59526724b511eeb0ef3b7547167323896d440729": {
-        "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
-        "link": "https://www.qbitai.com/2026/04/402636.html",
-        "published_date": "Sat, 18 Apr 2026 01:10:00 GMT",
-        "first_seen": "2026-04-18T06:14:19.283079"
-      },
       "8896e4751f121f1db83778c88b8c9d03f2b6b36f849ae7b97cf42cce93f70ebe": {
         "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
         "link": "https://www.qbitai.com/2026/04/402988.html",
@@ -6263,13 +6251,43 @@
         "link": "https://www.qbitai.com/2026/05/418964.html",
         "published_date": "Sun, 17 May 2026 10:21:00 GMT",
         "first_seen": "2026-05-17T23:56:08.339523"
+      },
+      "15ec398c5dda2d78176aaea9c47d14d5e4f874103c0d09b2c7f0eb3408daf8e4": {
+        "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+        "link": "https://www.qbitai.com/2026/05/419396.html",
+        "published_date": "Mon, 18 May 2026 06:57:00 GMT",
+        "first_seen": "2026-05-18T08:44:28.186626"
+      },
+      "3b8a2461a9e5473227773f6ea0fefe32f3a2ab87fce3dd541cb79533bcebf283": {
+        "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+        "link": "https://www.qbitai.com/2026/05/419386.html",
+        "published_date": "Mon, 18 May 2026 06:52:00 GMT",
+        "first_seen": "2026-05-18T08:44:28.186635"
+      },
+      "4a69f57107056c1886739ab8f9e19c98635e34c39e200ceac20ff34da76cf9f4": {
+        "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+        "link": "https://www.qbitai.com/2026/05/419373.html",
+        "published_date": "Mon, 18 May 2026 06:44:00 GMT",
+        "first_seen": "2026-05-18T08:44:28.186637"
+      },
+      "d2d4aedac45b9c43dab94f3eae01525538915622e2e1bf810c4799d7fe3e641e": {
+        "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
+        "link": "https://www.qbitai.com/2026/05/419272.html",
+        "published_date": "Mon, 18 May 2026 05:59:00 GMT",
+        "first_seen": "2026-05-18T08:44:28.186639"
+      },
+      "5ee4da99b62426488cea0525b80fc945607391e60a1ef775f26885d91d0fb9d3": {
+        "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
+        "link": "https://www.qbitai.com/2026/05/419256.html",
+        "published_date": "Mon, 18 May 2026 05:08:00 GMT",
+        "first_seen": "2026-05-18T08:44:28.186640"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-17T23:56:08.186222",
-    "Finance": "2026-05-17T23:55:52.042885",
-    "Ai": "2026-05-17T23:56:08.339526"
+    "Technology": "2026-05-18T08:44:17.525966",
+    "Finance": "2026-05-18T08:43:51.676582",
+    "Ai": "2026-05-18T08:44:28.186642"
   }
 }
