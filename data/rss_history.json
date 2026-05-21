@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "39babf4d6ff79bdcb723788ea7a08a254f2c2c6c375db832ed21433038a40631": {
-        "title": "TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析",
-        "link": "https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Apr 2026 15:33:00 GMT",
-        "first_seen": "2026-04-20T09:58:26.574939"
-      },
-      "19a7c6a97dfbf4220d7b2b275bab3aa986cb9040f329666da299883d5dc4d416": {
-        "title": "AI 芯片格局生变：Cerebras 再迎IPO大考，英伟达真正的对手来了｜IPO观察",
-        "link": "https://www.tmtpost.com/7959992.html",
-        "published_date": "Mon, 20 Apr 2026 17:17:00 GMT",
-        "first_seen": "2026-04-20T09:58:26.574946"
-      },
-      "b6008ef7b3f22a6e24882116bc612f73566094246b9643e56eb1771afcc8d112": {
-        "title": "零门槛AI生成赛道再添新玩家，“灵珠”平台开启第一次内测",
-        "link": "https://www.infoq.cn/article/ZPWKLMsW3qPTNKEog63r?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Apr 2026 16:43:00 GMT",
-        "first_seen": "2026-04-20T09:58:26.574949"
-      },
-      "4f30863fe8f3646b2d254d357848a54e65bf681b6044c8b7574eb8fcca24a6e9": {
-        "title": "AI芯片初创公司，进入“斩杀线”？",
-        "link": "https://www.tmtpost.com/7959344.html",
-        "published_date": "Mon, 20 Apr 2026 13:55:00 GMT",
-        "first_seen": "2026-04-20T09:58:26.574951"
-      },
-      "dfbd19278278cade106eb02f53a8f35aa3b16227b97060fc35a9199dbe649567": {
-        "title": "曝DeepSeek V4将于本周发布，梁文锋启动首次外部融资；宇树H1半马被担架抬离赛道；钉钉创始人：全员禁止写文档；Hermes Agent三度否认抄袭｜AI周报",
-        "link": "https://www.infoq.cn/article/2DFMI702ATy7OpNheFPu?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Apr 2026 13:33:00 GMT",
-        "first_seen": "2026-04-20T09:58:26.574952"
-      },
-      "87afab48283eb4cc7f89e0a9429556205378cc39a158c7e05d17d6d25790020b": {
-        "title": "DeepSeek融资，梁文锋的“现实主义”转身",
-        "link": "https://www.tmtpost.com/7959921.html",
-        "published_date": "Mon, 20 Apr 2026 19:05:00 GMT",
-        "first_seen": "2026-04-20T23:42:56.666964"
-      },
-      "c99bb572d65f90644b2b40a5d95162f8a61d7b51adbef522b6c2235ba5c8f2ae": {
-        "title": "月之暗面IPO，杨植麟不急股东急",
-        "link": "https://www.tmtpost.com/7959812.html",
-        "published_date": "Mon, 20 Apr 2026 15:54:00 GMT",
-        "first_seen": "2026-04-20T23:42:56.666971"
-      },
-      "022d826519efca3112da7750cf005a7ec536ef1585f2a2729bd3142d4a3aa48e": {
-        "title": "对话魔形智能CEO徐凌杰：token出海没考虑算力成本，当下不现实",
-        "link": "https://www.tmtpost.com/7960107.html",
-        "published_date": "Mon, 20 Apr 2026 19:04:00 GMT",
-        "first_seen": "2026-04-20T23:42:56.666972"
-      },
-      "446f4b96b5cad196990c05879b63d332cf76c02047925ea066bfb4d2c08c2cb8": {
-        "title": "具身智能公司开始积极「进厂」打工",
-        "link": "https://www.tmtpost.com/7959655.html",
-        "published_date": "Mon, 20 Apr 2026 14:32:00 GMT",
-        "first_seen": "2026-04-20T23:42:56.666974"
-      },
-      "41e307b1842e881ae72a9ae75b69a9e205673a063acec95ba83d5ed6c689c5f0": {
-        "title": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
-        "link": "https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 20 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-20T23:42:56.666976"
-      },
       "d26e2bd874ca355ab180ded948b73299c68a53b11fbaf8ba4d80faa11e3e24c9": {
         "title": "苏度科技发布Sudo R1并完成新一轮融资，估值突破20亿美元｜融资速递",
         "link": "https://www.tmtpost.com/7960909.html",
@@ -2587,69 +2527,39 @@
         "link": "https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 20 May 2026 15:15:00 GMT",
         "first_seen": "2026-05-20T08:26:17.638770"
+      },
+      "917c9b04e646f99f7c3cce0a27bbfd4e60156262285aa193dec1b73a3a7cf711": {
+        "title": "AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍",
+        "link": "https://www.tmtpost.com/7992618.html",
+        "published_date": "Thu, 21 May 2026 07:54:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.345072"
+      },
+      "bd98c7e2ddbeffad1a6dce8bd920f9c7eeb589368ea36492e3260cdd8d4a032b": {
+        "title": "Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533852&idx=1&sn=441378ed031a16a340915fb7c7d69cc6",
+        "published_date": "Wed, 20 May 2026 13:20:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.345079"
+      },
+      "a562b3a601d8096ceb637e1b187817cec40c233a3acfc83d427aa7f7b278860b": {
+        "title": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 21 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.345081"
+      },
+      "3dd81a4a24f28e916edbcc9003e1c17620d66983608141c251c0e2c29730f73e": {
+        "title": "对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型",
+        "link": "https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 20 May 2026 19:06:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.345083"
+      },
+      "328716f9b4b6ca6106e2771a28734107c6983c243fa4f6962e8ebbfd1ef8f034": {
+        "title": "谷歌不想再追赶ChatGPT",
+        "link": "https://www.tmtpost.com/7995336.html",
+        "published_date": "Wed, 20 May 2026 14:32:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.345085"
       }
     },
     "Finance": {
-      "dd9652ea8d1fab9b531428834269f5974d8ad6629e0f574a0a74cd7d3279bcba": {
-        "title": "Oil futures climb after Strait of Hormuz closed again as peace talks thrown into uncertainty",
-        "link": "https://www.marketwatch.com/story/oil-futures-climb-after-strait-of-hormuz-closed-again-as-peace-talks-thrown-into-uncertainty-11988c5b?mod=mw_rss_topstories",
-        "published_date": "Mon, 20 Apr 2026 09:21:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.809454"
-      },
-      "d06ad9740753f421c77babca03064e40406d49c26e5458b779f1dfc937cc66ec": {
-        "title": "Singer Meghan Trainor finally sold her SoCal home for $6.8 million just before canceling her tour",
-        "link": "https://www.marketwatch.com/story/singer-meghan-trainor-finally-sold-her-socal-home-for-6-8-million-just-before-canceling-her-tour-f2d3c976?mod=mw_rss_topstories",
-        "published_date": "Mon, 20 Apr 2026 09:05:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.809465"
-      },
-      "836ec3c8731efac7f1c347d1101eb42ccd79fb4368b612ae1e139c45b55f36a6": {
-        "title": "Starmer set for vetting showdown with ‘heartbroken’ Olly Robbins",
-        "link": "https://www.ft.com/content/9f8d01dd-4ef8-475e-8b76-9cb0e325fb60",
-        "published_date": "Mon, 20 Apr 2026 09:03:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.809468"
-      },
-      "bde7cff7d6ecc3aa71ff6fbc15afe3fd2a12f7536503f15aea56cff99abf3c48": {
-        "title": "The Mandelson affair is about the government’s judgment, not process",
-        "link": "https://www.ft.com/content/1ca6de4b-a178-41f8-ba2c-499393457c3f",
-        "published_date": "Mon, 20 Apr 2026 08:30:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.809470"
-      },
-      "56d19fc9532f3242f4c6d05706eeae6cc70e33b70afa9def76dfca4ec5de4698": {
-        "title": "Japan issues tsunami warning after strong earthquake",
-        "link": "https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf",
-        "published_date": "Mon, 20 Apr 2026 08:24:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.809472"
-      },
-      "1ceea6a07ca330228e64e19c4d3061a8684303edbc33a52887963748e15bb12f": {
-        "title": "Anthropic has ‘unprecedented’ demand — and it’s leaning on Amazon for support",
-        "link": "https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories",
-        "published_date": "Mon, 20 Apr 2026 22:52:00 GMT",
-        "first_seen": "2026-04-20T23:42:00.033506"
-      },
-      "c02c5fc08a195077bfcdc919e6340b92b193d93892d15e06b3732efc2ed6d082": {
-        "title": "Apple CEO Tim Cook to step down after overseeing 1,900% stock surge. His successor faces big challenges.",
-        "link": "https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories",
-        "published_date": "Mon, 20 Apr 2026 22:43:00 GMT",
-        "first_seen": "2026-04-20T23:42:00.033517"
-      },
-      "78992962572a74863386e939a26395586e359832177b18ad46d3711e751e700d": {
-        "title": "Trump’s social media posts have transformed oil trading, says Citadel",
-        "link": "https://www.ft.com/content/23b14d1b-8efa-4346-ab06-30db101e7748",
-        "published_date": "Mon, 20 Apr 2026 17:14:00 GMT",
-        "first_seen": "2026-04-20T23:42:00.033520"
-      },
-      "10b61a368201ac6f4712af6a5752f9cc2498a2035256baa33516ce7bd6f853dd": {
-        "title": "Kevin Warsh to say Fed independence not threatened by political pressure",
-        "link": "https://www.ft.com/content/3654184a-4ffc-44d9-9d21-61229bf9fbd7",
-        "published_date": "Mon, 20 Apr 2026 18:10:00 GMT",
-        "first_seen": "2026-04-20T23:42:00.033522"
-      },
-      "e4649ec57108018b34792b0ae20232d863d0db71c5fcf6896d268f0435e6092d": {
-        "title": "Psychedelic stocks surge after Trump supports using drugs like LSD for mental health",
-        "link": "https://www.marketwatch.com/story/psychedelic-stocks-rally-with-trumps-support-addafa78?mod=mw_rss_topstories",
-        "published_date": "Mon, 20 Apr 2026 20:51:00 GMT",
-        "first_seen": "2026-04-20T23:42:00.033524"
-      },
       "deb10602cd1edd438a798ed7e723d7d4843c924a1b8ac576497fa8572d68240b": {
         "title": "Anthropic and Amazon agree $100bn AI infrastructure deal",
         "link": "https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923",
@@ -4923,39 +4833,39 @@
         "link": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
         "published_date": "Wed, 20 May 2026 05:52:00 GMT",
         "first_seen": "2026-05-20T08:25:38.685364"
+      },
+      "873949c68b68b7872d02f9659fba702c876bbd4bafef61e9ce238f8858d75c0b": {
+        "title": "Elon Musk’s SpaceX sets out plans for biggest IPO in history",
+        "link": "https://www.ft.com/content/c9713173-6bf4-4406-8152-ae010898ac75",
+        "published_date": "Wed, 20 May 2026 23:05:00 GMT",
+        "first_seen": "2026-05-21T00:06:38.598732"
+      },
+      "d79891752db21c131956877c73f5114819699477972bf33968fa946ed604cb24": {
+        "title": "OpenAI readies IPO filing to list as soon as September",
+        "link": "https://www.ft.com/content/028a169f-cd1c-438b-b50d-df4af6297318",
+        "published_date": "Wed, 20 May 2026 17:21:00 GMT",
+        "first_seen": "2026-05-21T00:06:38.598741"
+      },
+      "09ffdcbc0cb64f37535243460926b9b870439f1d31f5d20c3f2c39b34945452d": {
+        "title": "Nvidia to return more than $80bn to shareholders as it reaps rewards of AI boom",
+        "link": "https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0",
+        "published_date": "Wed, 20 May 2026 21:06:00 GMT",
+        "first_seen": "2026-05-21T00:06:38.598743"
+      },
+      "31fc16c4d6b58a4a09fbc6cc20e08293345d46d01ca4c4d8ba877b26e21e780c": {
+        "title": "Oil drops nearly 6% as two China-bound supertankers cross Strait of Hormuz",
+        "link": "https://www.ft.com/content/110b9bb3-ec4f-460d-bfe6-4ffae9a2e945",
+        "published_date": "Wed, 20 May 2026 19:17:00 GMT",
+        "first_seen": "2026-05-21T00:06:38.598745"
+      },
+      "cb8c71c173b8e4a640633b9d81fb9fd2405f1da585811028c09ae8c7c584753e": {
+        "title": "An updated ‘misery index’ shows economic stress is nearing a warning zone as stocks push higher",
+        "link": "https://www.marketwatch.com/story/an-updated-misery-index-shows-economic-stress-is-nearing-a-warning-zone-as-stocks-push-higher-177959f7?mod=mw_rss_topstories",
+        "published_date": "Wed, 20 May 2026 21:07:00 GMT",
+        "first_seen": "2026-05-21T00:06:38.598747"
       }
     },
     "Ai": {
-      "333e328d95ba6e86818320a4ca7c7da04bd9ea3d59d8284295f611f08e266d62": {
-        "title": "阿里发布Wan2.7-Image，人类偏好盲测评分国内第一",
-        "link": "https://www.qbitai.com/2026/04/403733.html",
-        "published_date": "Mon, 20 Apr 2026 08:59:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.960184"
-      },
-      "a785c2ea223a565cc65e49c0c1266d7e4203ddd7fa230534ed7fb3b0953fe184": {
-        "title": "国内三大头部AI 工具平台上架支付宝支付集成Skill，助“好想法”轻松“收到钱”",
-        "link": "https://www.qbitai.com/2026/04/403729.html",
-        "published_date": "Mon, 20 Apr 2026 08:40:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.960192"
-      },
-      "176a5ee50d1a1a206077f4eb5123e396ab93e5756543f954d08cf3ab8c82223c": {
-        "title": "Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek",
-        "link": "https://www.qbitai.com/2026/04/403708.html",
-        "published_date": "Mon, 20 Apr 2026 07:59:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.960193"
-      },
-      "a3d9a8d870f573adbc61e4490049f23a5459a11749057ac4466fa749bdb015ff": {
-        "title": "全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？",
-        "link": "https://www.qbitai.com/2026/04/403701.html",
-        "published_date": "Mon, 20 Apr 2026 07:55:00 GMT",
-        "first_seen": "2026-04-20T09:57:58.960195"
-      },
-      "630abb1e3560a496454491366a71cc67d9e9767bf62842b785b4bb1262c08da3": {
-        "title": "继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代",
-        "link": "https://www.qbitai.com/2026/04/403751.html",
-        "published_date": "Mon, 20 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-20T23:42:00.167300"
-      },
       "4fc11c62fa3b70ee97ec6901a966d2cd257d4ceee7ee54964db137d2b09ddd34": {
         "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
         "link": "https://www.qbitai.com/2026/04/403859.html",
@@ -6251,13 +6161,31 @@
         "link": "https://www.qbitai.com/2026/05/420531.html",
         "published_date": "Wed, 20 May 2026 00:48:00 GMT",
         "first_seen": "2026-05-20T08:26:17.731970"
+      },
+      "ae95ffff47a5ce73204ae3835dfc7ab52f81ee75267127bbc8e23ed1154b1f13": {
+        "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+        "link": "https://www.qbitai.com/2026/05/420753.html",
+        "published_date": "Wed, 20 May 2026 14:09:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.468265"
+      },
+      "871fe5f611750e76b652be849a18350f560a7125abc1856cf4a22b5535ddefc4": {
+        "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/420743.html",
+        "published_date": "Wed, 20 May 2026 13:08:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.468273"
+      },
+      "1074e85337bdd3ad6658b30f35afc3382e0eee1a022eaffb5afab81635e3a0da": {
+        "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+        "link": "https://www.qbitai.com/2026/05/420703.html",
+        "published_date": "Wed, 20 May 2026 10:15:00 GMT",
+        "first_seen": "2026-05-21T00:07:30.468275"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-20T08:26:17.638772",
-    "Finance": "2026-05-20T08:25:38.685366",
-    "Ai": "2026-05-20T08:26:17.731971"
+    "Technology": "2026-05-21T00:07:30.345087",
+    "Finance": "2026-05-21T00:06:38.598749",
+    "Ai": "2026-05-21T00:07:30.468277"
   }
 }
