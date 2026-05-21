@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d26e2bd874ca355ab180ded948b73299c68a53b11fbaf8ba4d80faa11e3e24c9": {
-        "title": "苏度科技发布Sudo R1并完成新一轮融资，估值突破20亿美元｜融资速递",
-        "link": "https://www.tmtpost.com/7960909.html",
-        "published_date": "Tue, 21 Apr 2026 10:09:00 GMT",
-        "first_seen": "2026-04-21T06:59:41.973682"
-      },
-      "9b79b22215360ec99de8285890ed9cbd0f6a57f29d5ca0608ad33ce5a8c7fea7": {
-        "title": "平台即产品：平衡相互冲突的优先事项并创造价值",
-        "link": "https://www.infoq.cn/article/LJBaR3H17qK6XVwTNVH0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-21T06:59:41.973691"
-      },
-      "a9b1f87b2a3f836ee0d4e12bbaa6b24a60715f911d48823bca51aea48335ec1e": {
-        "title": "【钛晨报】李强：进一步优化调整能源结构，强化能源科技创新；“爱奇艺疯了”冲上热搜第一，CEO回应AI争议；抖音副总裁澄清“字节净利下滑70%”传闻",
-        "link": "https://www.tmtpost.com/7960514.html",
-        "published_date": "Tue, 21 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-21T06:59:41.973694"
-      },
-      "6d9995737ee242b1e9dfc314a54f6d24f81ab994ae56c6175072bcaaf46217f5": {
-        "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
-        "link": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 14:14:00 GMT",
-        "first_seen": "2026-04-21T06:59:41.973695"
-      },
-      "3d2d77bbec954f73ba1a0ae57850842b7ab9cabbbeeee0521dfe2b5bcd20b041": {
-        "title": "100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？",
-        "link": "https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 21 Apr 2026 09:19:00 GMT",
-        "first_seen": "2026-04-21T06:59:41.973697"
-      },
       "bf132a5cf6bf670aafd9e03448c24cb529096f80b2c7c2039fe043a756c834e8": {
         "title": "黄仁勋访谈“失控”背后：总有一件事必须发生，把电子变成Token",
         "link": "https://www.tmtpost.com/7959881.html",
@@ -2557,39 +2527,39 @@
         "link": "https://www.tmtpost.com/7995336.html",
         "published_date": "Wed, 20 May 2026 14:32:00 GMT",
         "first_seen": "2026-05-21T00:07:30.345085"
+      },
+      "8f570e222c1928afe40946c87709d10141db2e805addaf3d1760e5e78e37fc08": {
+        "title": "营收创新高、股价却下跌，英伟达面临两个历史性关口",
+        "link": "https://www.tmtpost.com/7997167.html",
+        "published_date": "Thu, 21 May 2026 16:24:00 GMT",
+        "first_seen": "2026-05-21T08:33:41.655034"
+      },
+      "fe9503fd4f38791fee198c8c2d6e1ec4ea19c16149ddbd7d4e32fe30e3f0a65e": {
+        "title": "Cloud Platforms Regain AI “Pricing Power”",
+        "link": "https://www.tmtpost.com/7997544.html",
+        "published_date": "Thu, 21 May 2026 16:10:00 GMT",
+        "first_seen": "2026-05-21T08:33:41.655041"
+      },
+      "e89739efccb18e4a70e8f85b703f79938695114084e41bd9a4baa9b11d2a1132": {
+        "title": "特斯拉FSD入华倒计时：迟到的鲶鱼，还是新的变量？",
+        "link": "https://www.tmtpost.com/7997341.html",
+        "published_date": "Thu, 21 May 2026 14:51:00 GMT",
+        "first_seen": "2026-05-21T08:33:41.655044"
+      },
+      "4b1bd03c2a6948170519e3c76f387fd4c5121c071bf64f68034e97eafbf9550c": {
+        "title": "对话灵初智能CEO 王启斌：具身智能，正从\"硬件浪潮\"进入\"数据浪潮\"",
+        "link": "https://www.tmtpost.com/7996985.html",
+        "published_date": "Thu, 21 May 2026 13:33:00 GMT",
+        "first_seen": "2026-05-21T08:33:41.655046"
+      },
+      "578064587c232f8aed523d3e737ce5f48b3aafa7505aaf709a28fde7baad48f3": {
+        "title": "OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档",
+        "link": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 21 May 2026 14:39:00 GMT",
+        "first_seen": "2026-05-21T08:33:41.655048"
       }
     },
     "Finance": {
-      "deb10602cd1edd438a798ed7e723d7d4843c924a1b8ac576497fa8572d68240b": {
-        "title": "Anthropic and Amazon agree $100bn AI infrastructure deal",
-        "link": "https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923",
-        "published_date": "Tue, 21 Apr 2026 00:41:00 GMT",
-        "first_seen": "2026-04-21T06:58:40.471642"
-      },
-      "85add42f6c6ff05cb2a43ef5216311c0c75a135c04fb5e8e8dbbb3c1dc30e8c9": {
-        "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal",
-        "link": "https://www.marketwatch.com/story/bonds-could-lag-stocks-for-the-rest-of-2026-according-to-this-contrarian-signal-6b6c55de?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Apr 2026 01:46:00 GMT",
-        "first_seen": "2026-04-21T06:58:40.471651"
-      },
-      "01d7cb2e1745bee151aec9c2c0e88cd515656ea070303ba62711681516d5b797": {
-        "title": "‘Kiss of death’: How the US killed a Swiss merchant bank",
-        "link": "https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e",
-        "published_date": "Tue, 21 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-21T06:58:40.471653"
-      },
-      "d25f228c8872bf14a5921eee131b40a8b3b515f391583d488f3655abcd8046ec": {
-        "title": "UK wage growth slowed on eve of Iran war",
-        "link": "https://www.ft.com/content/36ecd045-e15f-4c68-8663-3c5f09d62439",
-        "published_date": "Tue, 21 Apr 2026 06:33:00 GMT",
-        "first_seen": "2026-04-21T06:58:40.471655"
-      },
-      "42bf5fee49b4826d1eed7b8b51c25cfcad0049c4dec00a60f940cb31b6daf228": {
-        "title": "Trump’s ‘Board of Peace’ held talks with DP World over Gaza reconstruction",
-        "link": "https://www.ft.com/content/873b866b-fd17-426d-8cb1-a34566e2e1d4",
-        "published_date": "Tue, 21 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-21T06:58:40.471674"
-      },
       "e66108569f57542dc589aedb4f59c3b3642620bf9ae1ae7d473cc62c6b8505c7": {
         "title": "The end of freedom of the seas: Why global shipping may never be the same",
         "link": "https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories",
@@ -4863,39 +4833,39 @@
         "link": "https://www.marketwatch.com/story/an-updated-misery-index-shows-economic-stress-is-nearing-a-warning-zone-as-stocks-push-higher-177959f7?mod=mw_rss_topstories",
         "published_date": "Wed, 20 May 2026 21:07:00 GMT",
         "first_seen": "2026-05-21T00:06:38.598747"
+      },
+      "2da141aa218fe4c985862b3a026881c7e42f5fdd570f0d212a1983443bb5819c": {
+        "title": "Anthropic on track for first profitable quarter",
+        "link": "https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3",
+        "published_date": "Thu, 21 May 2026 00:23:00 GMT",
+        "first_seen": "2026-05-21T08:32:35.223709"
+      },
+      "b8ce2ae276a1e02eb16d29bc2f132ae038dd66485cc258a2952b8b6449ae6c22": {
+        "title": "Asteroid mining and new billionaires: what’s in SpaceX’s IPO filing",
+        "link": "https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb",
+        "published_date": "Thu, 21 May 2026 01:57:00 GMT",
+        "first_seen": "2026-05-21T08:32:35.223724"
+      },
+      "2cf7337f017ec2b89afec7e99971e761b384d303c89ae277cb6a59576edf3975": {
+        "title": "Saudi Arabia stops new work for consultants as war rattles finances",
+        "link": "https://www.ft.com/content/9855a284-8109-4d66-8b3e-e08da0e97dd8",
+        "published_date": "Thu, 21 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-21T08:32:35.223728"
+      },
+      "d9a32bbc0c6af925cbacff37b78ae78cb8ea62a9f0b3e6c4ad3c1bc57108f83f": {
+        "title": "Nvidia fails to dazzle investors despite lifting dividends",
+        "link": "https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0",
+        "published_date": "Thu, 21 May 2026 00:43:00 GMT",
+        "first_seen": "2026-05-21T08:32:35.223729"
+      },
+      "9d13ff6572fbcee8a88317beddf8075ff464d3c4af39ff2f89a168a61bdb90a7": {
+        "title": "Is Chris Hohn Britain’s answer to Warren Buffett?",
+        "link": "https://www.ft.com/content/521d1861-82c5-4194-9358-f3dd53d122b5",
+        "published_date": "Thu, 21 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-21T08:32:35.223731"
       }
     },
     "Ai": {
-      "4fc11c62fa3b70ee97ec6901a966d2cd257d4ceee7ee54964db137d2b09ddd34": {
-        "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
-        "link": "https://www.qbitai.com/2026/04/403859.html",
-        "published_date": "Tue, 21 Apr 2026 04:54:00 GMT",
-        "first_seen": "2026-04-21T06:58:53.230614"
-      },
-      "ebd976f652217fc0a44436f00fa44a88aa33ef0a58d8aff1a5c6e548b0f0329a": {
-        "title": "跨维智能DexWorldModel斩获榜首，世界模型真正的考场在机器人执行里",
-        "link": "https://www.qbitai.com/2026/04/403777.html",
-        "published_date": "Tue, 21 Apr 2026 00:06:00 GMT",
-        "first_seen": "2026-04-21T06:58:53.230619"
-      },
-      "a541b7e33ebaab7fb8ddf70e2ed463ceeb0d7657ae0d11f727d03334072ac67d": {
-        "title": "这次，库克真的要卸任苹果CEO了！",
-        "link": "https://www.qbitai.com/2026/04/403790.html",
-        "published_date": "Tue, 21 Apr 2026 00:14:00 GMT",
-        "first_seen": "2026-04-21T06:58:53.230622"
-      },
-      "93a74884f58c61366270caa92e60b9c5eb00b3d94bd85acc13e83af86d97bc77": {
-        "title": "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测",
-        "link": "https://www.qbitai.com/2026/04/403867.html",
-        "published_date": "Tue, 21 Apr 2026 04:57:00 GMT",
-        "first_seen": "2026-04-21T06:58:53.230623"
-      },
-      "f9a60b2c739a0a06a67385d386141381b76afbded7caae492916aa05862a313d": {
-        "title": "把人类驾驶员赶出机场，复旦大牛校友要港股IPO了",
-        "link": "https://www.qbitai.com/2026/04/403872.html",
-        "published_date": "Tue, 21 Apr 2026 06:19:00 GMT",
-        "first_seen": "2026-04-21T06:58:53.230625"
-      },
       "3e7d0e7a8471a11ba4f8de7a8148d92690e8d6e53b28d99474819688af45c2cc": {
         "title": "2026-04-21日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-21/",
@@ -6179,13 +6149,43 @@
         "link": "https://www.qbitai.com/2026/05/420703.html",
         "published_date": "Wed, 20 May 2026 10:15:00 GMT",
         "first_seen": "2026-05-21T00:07:30.468275"
+      },
+      "b21df452eb80810ab704f1122338f15814a2c7961b83e0669b46174ddd00a126": {
+        "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+        "link": "https://www.qbitai.com/2026/05/420918.html",
+        "published_date": "Thu, 21 May 2026 04:40:00 GMT",
+        "first_seen": "2026-05-21T08:33:53.414817"
+      },
+      "3a365cd7922a15b7582123fb34e923e52d1521ee776cf6666e7e953aa458ba78": {
+        "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+        "link": "https://www.qbitai.com/2026/05/421694.html",
+        "published_date": "Thu, 21 May 2026 06:46:00 GMT",
+        "first_seen": "2026-05-21T08:33:53.414825"
+      },
+      "706019866d22c406ea2d4ea72c44c78e732e9e968f15956e6d82840becf274aa": {
+        "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
+        "link": "https://www.qbitai.com/2026/05/421697.html",
+        "published_date": "Thu, 21 May 2026 06:52:00 GMT",
+        "first_seen": "2026-05-21T08:33:53.414827"
+      },
+      "60cf493b6ca3e7161b2f05ccd86b5e4926b84b8c6e5fdaf9c1f5f82a12ae8b1c": {
+        "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
+        "link": "https://www.qbitai.com/2026/05/421691.html",
+        "published_date": "Thu, 21 May 2026 05:37:00 GMT",
+        "first_seen": "2026-05-21T08:33:53.414829"
+      },
+      "86eb1ff169046493dc3fc75a25d87bec889a92aa062c0a4cee00f31e42129f48": {
+        "title": "刚刚，马斯克公开SpaceX招股书！",
+        "link": "https://www.qbitai.com/2026/05/420761.html",
+        "published_date": "Thu, 21 May 2026 01:37:00 GMT",
+        "first_seen": "2026-05-21T08:33:53.414831"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-21T00:07:30.345087",
-    "Finance": "2026-05-21T00:06:38.598749",
-    "Ai": "2026-05-21T00:07:30.468277"
+    "Technology": "2026-05-21T08:33:41.655050",
+    "Finance": "2026-05-21T08:32:35.223734",
+    "Ai": "2026-05-21T08:33:53.414832"
   }
 }
