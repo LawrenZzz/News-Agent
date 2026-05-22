@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 May 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 00:02:59 GMT</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 08:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 08:20:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>蔚蓝科技发布新一代消费级四足机器人BabyAlpha A3｜具身动态</title>
-      <link>https://www.tmtpost.com/7998326.html</link>
-      <description>&lt;![CDATA[蔚蓝科技发布新一代消费级四足机器人BabyAlpha A3｜具身动态]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 22:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7998326.html</guid>
+      <title>Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍</title>
+      <link>https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 13:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石</title>
-      <link>https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 15:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击</title>
+      <link>https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯混元世界模型的研发布局与思考｜AICon上海</title>
-      <link>https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯混元世界模型的研发布局与思考｜AICon上海]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵</title>
+      <link>https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>珈凯生物：股权定价悬殊频现异常操作，高毛利、低研发并存｜IPO观察</title>
-      <link>https://www.tmtpost.com/7997486.html</link>
-      <description>&lt;![CDATA[珈凯生物：股权定价悬殊频现异常操作，高毛利、低研发并存｜IPO观察]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 20:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7997486.html</guid>
+      <title>Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码</title>
+      <link>https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 09:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI硬件最火的一届618，绿联科技豪赌AI NAS的未来</title>
-      <link>https://www.tmtpost.com/7997622.html</link>
-      <description>&lt;![CDATA[AI硬件最火的一届618，绿联科技豪赌AI NAS的未来]]&gt;</description>
-      <pubDate>Thu, 21 May 2026 18:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7997622.html</guid>
+      <title>OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后</title>
+      <link>https://www.tmtpost.com/7998980.html</link>
+      <description>&lt;![CDATA[OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后]]&gt;</description>
+      <pubDate>Fri, 22 May 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7998980.html</guid>
       <category>Technology</category>
     </item>
   </channel>
