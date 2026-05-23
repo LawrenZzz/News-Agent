@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ac03db062287999e9bd67f1c29ed3929fbc84f10565f790612429a1ccf50f62a": {
-        "title": "当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕",
-        "link": "https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 14:43:00 GMT",
-        "first_seen": "2026-04-22T09:19:10.520292"
-      },
-      "4b0b3b2b4a0c2cd4d2d241065ee6c3227a9691ecb6c90dc1bffe0498e5dcfb6d": {
-        "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 16:56:00 GMT",
-        "first_seen": "2026-04-22T09:19:10.520299"
-      },
-      "0fb5cac427a4ac969d14e51fa226c14a1589993ba23dac2bedc97668cacd98a4": {
-        "title": "百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力",
-        "link": "https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 15:48:00 GMT",
-        "first_seen": "2026-04-22T09:19:10.520302"
-      },
-      "6d73f072c210df65ed134c0eb0a260841b2f48028fd73d7e2473cc35ec40c699": {
-        "title": "谷歌Java版ADK 1.0发布：全新的应用与插件架构以及外部工具支持",
-        "link": "https://www.infoq.cn/article/rhxzeqEsJKQBQkpU4KbA?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-22T09:19:10.520303"
-      },
-      "1bf7a53276eb9b4c5501d64b78278b97e45c93705e553632f78268e5462a43f3": {
-        "title": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
-        "link": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-22T09:19:10.520305"
-      },
-      "3827619753fe8aa81e890a0446a3dcce065af05c683bad12bfd29dc25aefe22e": {
-        "title": "【钛晨报】事关节能降碳工作，中办、国办重磅文件对外发布；腾讯、阿里等科技巨头洽谈投资DeepSeek，估值超过200亿美元；SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
-        "link": "https://www.tmtpost.com/7963527.html",
-        "published_date": "Thu, 23 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-22T23:45:05.973212"
-      },
-      "2c3f8c6050056f8df5b7ab188a26d7d014e5fbe03be362db1cdd2bc00db74eda": {
-        "title": "告别价格战，大模型共迎通胀时代",
-        "link": "https://www.tmtpost.com/7963024.html",
-        "published_date": "Wed, 22 Apr 2026 18:58:00 GMT",
-        "first_seen": "2026-04-22T23:45:05.973220"
-      },
-      "fcffc3fb8d3529b10f05ea92e05ac08116f51eb7c69be6aa7959ae2558bd6d65": {
-        "title": "谷歌真急了，深夜更新Deep Research智能体，支持MCP、原生图表",
-        "link": "https://www.tmtpost.com/7962067.html",
-        "published_date": "Wed, 22 Apr 2026 10:24:00 GMT",
-        "first_seen": "2026-04-22T23:45:05.973222"
-      },
-      "e16520e9770c450d9af76f59a1ce05be9726105584c0ac1271270d62dedf0ace": {
-        "title": "半导体IP，变得炙手可热",
-        "link": "https://www.tmtpost.com/7963262.html",
-        "published_date": "Wed, 22 Apr 2026 18:32:00 GMT",
-        "first_seen": "2026-04-22T23:45:05.973224"
-      },
-      "0efa57e56df717ed2ada905b5fa007f81e08c62daaea412625cae0ccbd71b785": {
-        "title": "火药味弥漫的智驾赛道：有人想跨界“屠龙”，有人默默抛弃“亲儿子”",
-        "link": "https://www.tmtpost.com/7962286.html",
-        "published_date": "Wed, 22 Apr 2026 10:50:00 GMT",
-        "first_seen": "2026-04-22T23:45:05.973226"
-      },
       "fffeaed3b31cda0b4b0092f53b4d9dcb89d68f30736dcaf49c3497132c67035a": {
         "title": "瑞士信息与通信科技企业Albatross研发用于商品实时推荐的AI模型，提升用户个性化导购体验",
         "link": "https://www.tmtpost.com/7963939.html",
@@ -2527,69 +2467,39 @@
         "link": "https://www.tmtpost.com/7998980.html",
         "published_date": "Fri, 22 May 2026 14:53:00 GMT",
         "first_seen": "2026-05-22T08:20:53.397549"
+      },
+      "890de262e7d78962d519dc05c3cabf0f99c7aa9714b8c67a0ac4811e0d263ac8": {
+        "title": "Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆",
+        "link": "https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 22 May 2026 18:13:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.339570"
+      },
+      "665508454e94f10bbbf5ec55c81a7781a13964edfd9a409742222dd27e688135": {
+        "title": "英伟达凭什么“富可敌国”？",
+        "link": "https://www.tmtpost.com/7997413.html",
+        "published_date": "Fri, 22 May 2026 12:24:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.339579"
+      },
+      "e5e96eaa1408dbe0513521a780efc1fab2c787d659c5b2c16a9ea6b616fe5009": {
+        "title": "最后一刻的停火：三星与工会如何拆除“AI时代的炸弹引线”",
+        "link": "https://www.tmtpost.com/7999597.html",
+        "published_date": "Fri, 22 May 2026 23:40:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.339581"
+      },
+      "27af1eaffcb9d2f9b50de6a99bc37649ebd45ea25134e7b55ffc33d42f08b1fa": {
+        "title": "继舞台和实验室后，具身智能企业探索四大出海路径｜出海参考",
+        "link": "https://www.tmtpost.com/7999065.html",
+        "published_date": "Fri, 22 May 2026 18:40:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.339583"
+      },
+      "704427995061c2cb0c1d93941d7e016cc0bdbd9061fd10f0e7eda4acfea1a01d": {
+        "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
+        "link": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 22 May 2026 20:34:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.339584"
       }
     },
     "Finance": {
-      "cfaba517de1b3e00806c583555a8b82c244b4f9b771ead275db5a11409d03b06": {
-        "title": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin",
-        "link": "https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Apr 2026 07:36:00 GMT",
-        "first_seen": "2026-04-22T09:18:43.952647"
-      },
-      "3d1a19e5f5b9db7290c7fdc55af623ad74b8d064e03b3ad4d54ed4dd3b39f64a": {
-        "title": "Moscow to suspend Kazakh oil flows through key pipeline supplying Berlin",
-        "link": "https://www.ft.com/content/3738ba48-b4e2-493d-96b1-0a80b4e2c4b8",
-        "published_date": "Wed, 22 Apr 2026 08:53:00 GMT",
-        "first_seen": "2026-04-22T09:18:43.952656"
-      },
-      "c32d26bd050f296358503b8ff7945d5cfaef1a6d67131f53fd360aa99cd1a04e": {
-        "title": "UK inflation accelerates to 3.3% in March as petrol prices jump",
-        "link": "https://www.ft.com/content/4502cf82-07f2-4fe4-84a6-ac253360b476",
-        "published_date": "Wed, 22 Apr 2026 07:49:00 GMT",
-        "first_seen": "2026-04-22T09:18:43.952659"
-      },
-      "b5cc29ead1b979b94cfb5882c2bace127a9c306e972cebc5000abf771b1ed36d": {
-        "title": "‘The Lord has taken care of me’: I’m 74. I went from working $14 an hour to $3.4 million. Here’s how I did it.",
-        "link": "https://www.marketwatch.com/story/the-lord-has-taken-care-of-me-im-74-i-went-from-working-14-an-hour-to-3-4-million-heres-how-i-did-it-e0af1045?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Apr 2026 09:15:00 GMT",
-        "first_seen": "2026-04-22T09:18:43.952661"
-      },
-      "52e5e8819ce81c91912afec4e64429dc9f4f78b86447f3e22528f5fb12e920de": {
-        "title": "Lily Allen and David Harbour sell their quirky Brooklyn townhouse for $7 million, a year after breaking up",
-        "link": "https://www.marketwatch.com/story/lily-allen-and-david-harbour-sell-their-quirky-brooklyn-townhouse-for-7-million-a-year-after-breaking-up-76cf01d7?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Apr 2026 09:04:00 GMT",
-        "first_seen": "2026-04-22T09:18:43.952663"
-      },
-      "a449a4d6cf3e0a6957494b7dc2abcca90d8a09b2769f9446b65027d96a6f9934": {
-        "title": "Tesla boosts spending plans to $25bn as Musk doubles down on AI bet",
-        "link": "https://www.ft.com/content/7ce83108-9f2d-48b4-8ce1-28865045bd67",
-        "published_date": "Wed, 22 Apr 2026 23:30:00 GMT",
-        "first_seen": "2026-04-22T23:44:38.961741"
-      },
-      "518f75b0201b61da73b1d04922422adc8f39c86d691b7636e6cf97230a511f3c": {
-        "title": "US allies in Gulf and Asia have requested swap lines, Bessent says",
-        "link": "https://www.ft.com/content/c6581d09-b86e-4372-8f14-d0153f8a7bf5",
-        "published_date": "Wed, 22 Apr 2026 18:35:00 GMT",
-        "first_seen": "2026-04-22T23:44:38.961754"
-      },
-      "44653224245c8b408472140f36decd251c7c964cffda45158e2342f4736980fd": {
-        "title": "Trump’s ‘dirty ceasefire’ tested as Iran hits shipping",
-        "link": "https://www.ft.com/content/0cef8ea8-801a-4084-b637-7d2cf3f3a30c",
-        "published_date": "Wed, 22 Apr 2026 16:48:00 GMT",
-        "first_seen": "2026-04-22T23:44:38.961757"
-      },
-      "d7cf431467703d83beb213cdfe47555c8c228d15cab06c6c56aed5ea77e5e3a4": {
-        "title": "Capital One increases provision for bad-debt expenses as earnings miss Wall Street consensus",
-        "link": "https://www.marketwatch.com/story/capital-one-increases-provision-for-bad-debt-expenses-as-earnings-miss-wall-street-consensus-842d3c98?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Apr 2026 21:27:00 GMT",
-        "first_seen": "2026-04-22T23:44:38.961759"
-      },
-      "e6b4c5baf55830426ca1a1b7b9900676cd388a9713f148dae0970127d764130f": {
-        "title": "Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis",
-        "link": "https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Apr 2026 21:42:00 GMT",
-        "first_seen": "2026-04-22T23:44:38.961761"
-      },
       "cb82ec6eccbdd293cce52dfe4a8a343dc27802be30b0aeb9900b0dc1dda1a4f4": {
         "title": "UK public sector borrowing hit £12.6bn in March as Iran war strains finances",
         "link": "https://www.ft.com/content/6dfa7e3c-e2b7-476d-bbb6-b68672a04de0",
@@ -4803,51 +4713,39 @@
         "link": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
         "published_date": "Fri, 22 May 2026 01:23:00 GMT",
         "first_seen": "2026-05-22T08:20:30.341298"
+      },
+      "d4821f41f95eca4b52ff1071eb98fedacdb2226486dd385249e579e3150649ba": {
+        "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
+        "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
+        "published_date": "Fri, 22 May 2026 23:15:00 GMT",
+        "first_seen": "2026-05-23T00:05:19.634391"
+      },
+      "6fd4586a54713321499184900fe04397e0c18e5b2cf6a2d949bcd15d6597aa8f": {
+        "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?",
+        "link": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
+        "published_date": "Fri, 22 May 2026 23:55:00 GMT",
+        "first_seen": "2026-05-23T00:05:19.634402"
+      },
+      "b36b2807779674868129f7b49d14e10217f5a02b6965cf47883f8c16a80cba0b": {
+        "title": "Wall Street bets on 2026 rate rise as Kevin Warsh takes charge of the Fed",
+        "link": "https://www.ft.com/content/7a0b2b54-c62b-4498-8b8d-512ef7f2cb5d",
+        "published_date": "Fri, 22 May 2026 16:15:00 GMT",
+        "first_seen": "2026-05-23T00:05:19.634405"
+      },
+      "7580a833b834246f4537e31c88bb3962c7c7753ee572744e2a66ce5e8593f0d9": {
+        "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+        "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+        "published_date": "Fri, 22 May 2026 20:01:00 GMT",
+        "first_seen": "2026-05-23T00:05:19.634407"
+      },
+      "fd253a71d6a9cc02b2251f9c538aa030215d300ec6411f827a6e3cb1702b2e11": {
+        "title": "Consumer sentiment sinks to an all-time low. Is this about Democrats’ distaste for Trump?",
+        "link": "https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories",
+        "published_date": "Fri, 22 May 2026 23:43:00 GMT",
+        "first_seen": "2026-05-23T00:05:19.634410"
       }
     },
     "Ai": {
-      "47a457636d14e1efceb8d9cff24171bf9f39d91a0cb3464f98ec68c26eb4952a": {
-        "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token",
-        "link": "https://www.qbitai.com/2026/04/404604.html",
-        "published_date": "Wed, 22 Apr 2026 07:17:00 GMT",
-        "first_seen": "2026-04-22T09:18:44.104837"
-      },
-      "f6d12719bf8fa929d260bf56b717bfd6719447da7abe105aa2155c0bd5c9a609": {
-        "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
-        "link": "https://www.qbitai.com/2026/04/404481.html",
-        "published_date": "Wed, 22 Apr 2026 07:10:00 GMT",
-        "first_seen": "2026-04-22T09:18:44.104844"
-      },
-      "923c0fe4befb3a54655f4693137085abe71de3b2e1f0a819fb9ca10b8c4768c5": {
-        "title": "It's all about the angle: Your photos, re-composed",
-        "link": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/",
-        "published_date": "Wed, 22 Apr 2026 17:00:00 GMT",
-        "first_seen": "2026-04-22T23:44:39.111482"
-      },
-      "bde60ac53c3a0244357cddea41b0bb370e85f0cc07268cdc2af1ee73e35acc62": {
-        "title": "“不造车的特斯拉”亮出“舱驾一体”全家桶，汽车长出“主动理解力”，奇瑞比亚迪等10+巨头力挺",
-        "link": "https://www.qbitai.com/2026/04/404721.html",
-        "published_date": "Wed, 22 Apr 2026 14:26:00 GMT",
-        "first_seen": "2026-04-22T23:44:39.111491"
-      },
-      "d5b8d65172167fedfdfcaf0bcad399f8de81066e62c88c81c842c5302d889ee9": {
-        "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
-        "link": "https://www.qbitai.com/2026/04/404713.html",
-        "published_date": "Wed, 22 Apr 2026 13:15:00 GMT",
-        "first_seen": "2026-04-22T23:44:39.111493"
-      },
-      "38948d6631cec291fdd040e99f40d55c60b2409667ecddc47baaf2cf438317ef": {
-        "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
-        "link": "https://www.qbitai.com/2026/04/404645.html",
-        "published_date": "Wed, 22 Apr 2026 10:29:00 GMT",
-        "first_seen": "2026-04-22T23:44:39.111495"
-      },
-      "225aff986322d87004f89c8c400e11570d665d74cb00944f96da21d4622d78f5": {
-        "title": "香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖",
-        "link": "https://www.qbitai.com/2026/04/404631.html",
-        "published_date": "Wed, 22 Apr 2026 09:52:00 GMT",
-        "first_seen": "2026-04-22T23:44:39.111496"
-      },
       "97a05d3504b5b26fbb66fc658457251d987ab32ff0edfc7e4a117cde4c7502e0": {
         "title": "2026-04-23日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-23/",
@@ -6125,13 +6023,25 @@
         "link": "https://www.qbitai.com/2026/05/422455.html",
         "published_date": "Fri, 22 May 2026 02:57:00 GMT",
         "first_seen": "2026-05-22T08:21:06.369915"
+      },
+      "80e81b1aa061ce44212c1e26097217ffb4b9669d771956f813bcbd9c07a432f8": {
+        "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+        "link": "https://www.qbitai.com/2026/05/422811.html",
+        "published_date": "Fri, 22 May 2026 14:42:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.456867"
+      },
+      "4ac8447cd70cc83a79d4bc035a05ac759b44ca9a20559e833965a93b00556358": {
+        "title": "李飞飞再出手，空间智能的ImageNet来了",
+        "link": "https://www.qbitai.com/2026/05/422738.html",
+        "published_date": "Fri, 22 May 2026 08:25:00 GMT",
+        "first_seen": "2026-05-23T00:05:55.456876"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-22T08:20:53.397551",
-    "Finance": "2026-05-22T08:20:30.341301",
-    "Ai": "2026-05-22T08:21:06.369917"
+    "Technology": "2026-05-23T00:05:55.339587",
+    "Finance": "2026-05-23T00:05:19.634412",
+    "Ai": "2026-05-23T00:05:55.456879"
   }
 }
