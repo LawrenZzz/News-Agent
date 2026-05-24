@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7a782503931c8ecfb3cff19e88913fbbd3510ef47d9670d8b9c2568188b11d7d": {
-        "title": "马斯克“豪赌”Terafab：不造芯片，就没有未来",
-        "link": "https://www.tmtpost.com/7966030.html",
-        "published_date": "Fri, 24 Apr 2026 16:56:00 GMT",
-        "first_seen": "2026-04-24T09:30:32.176152"
-      },
-      "1a4cef5a4e89b6b78cbc4b5f1a3650879a66988803c18f1e5527322c34a40627": {
-        "title": "DeepSeek发布V4：1.6T参数、百万token，还要用国产算力把价格再次打下来",
-        "link": "https://www.tmtpost.com/7965919.html",
-        "published_date": "Fri, 24 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-24T09:30:32.176161"
-      },
-      "f1cba786a40f606bee68fbf4a3b1898ca4ccaeb0487f11498b7e838de017b355": {
-        "title": "换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具",
-        "link": "https://sspai.com/post/108455",
-        "published_date": "Fri, 24 Apr 2026 15:06:00 GMT",
-        "first_seen": "2026-04-24T09:30:32.176163"
-      },
-      "ce5db31181d2be8c336066006ba92d2f157a009bc126e34aa64e2d416d1f7dd2": {
-        "title": "李志飞的“新实验”：当超级个体撞上真实组织",
-        "link": "https://www.infoq.cn/article/qIe3dSXY72rzF85NJM4j?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 17:20:00 GMT",
-        "first_seen": "2026-04-24T09:30:32.176166"
-      },
-      "adf73b68a85d6ab4433e3650f33bc9198bc8ec0e00adf9ff201a91aefbabc20a": {
-        "title": "GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍",
-        "link": "https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 17:17:00 GMT",
-        "first_seen": "2026-04-24T09:30:32.176168"
-      },
       "0d41c0cad883926d73729f1a095fcfda93b766796b7d601bde4a374ae259c560": {
         "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
         "link": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article",
@@ -2497,33 +2467,39 @@
         "link": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 24 May 2026 08:00:00 GMT",
         "first_seen": "2026-05-24T07:50:18.893274"
+      },
+      "27ca04b0e7117b010d49dd8d076eae15fa65376feee1a301da845b84fcf45a29": {
+        "title": "日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？",
+        "link": "https://www.tmtpost.com/7999019.html",
+        "published_date": "Sun, 24 May 2026 17:52:00 GMT",
+        "first_seen": "2026-05-24T09:53:40.550506"
+      },
+      "85d15255dc64dbc5657edf28f741f58efaf434c582934060c3a11a379d6603e7": {
+        "title": "Edge AI Daily 早报（5月24日）",
+        "link": "https://www.tmtpost.com/8000103.html",
+        "published_date": "Sun, 24 May 2026 08:40:00 GMT",
+        "first_seen": "2026-05-24T09:53:40.550512"
+      },
+      "38cb3c83078461cc42b005f660f3bbf232f8deeff1235b41a670f5e5c0b36e28": {
+        "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
+        "link": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 24 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-24T09:53:40.550514"
+      },
+      "4c70de365efaad5e4f09af3a41004a589e89702fd73a7fb800b63d322ec5486a": {
+        "title": "一人公司还没赚钱，卖给一人公司的生意先赚钱了",
+        "link": "https://www.tmtpost.com/8000310.html",
+        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-24T09:53:40.550516"
+      },
+      "28c8d1a0aed21ac44f8cbc3a084f153bf8bddcb4a55ec3bba0d7aa9dfda25c9f": {
+        "title": "16亿千瓦，2026迎峰度夏极限压力测试即将开启，能源保供的三层防线与四大黄金赛道值得关注",
+        "link": "https://www.tmtpost.com/8000323.html",
+        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-24T09:53:40.550517"
       }
     },
     "Finance": {
-      "e4909adc249705e6dba7f49e10c7087edfce89dee920205d94a2cb326ca3eee4": {
-        "title": "‘My child will need lifelong support’: I’m in my 40s with a $330,000 inherited retirement account. How can I grow it?",
-        "link": "https://www.marketwatch.com/story/my-child-will-need-lifelong-support-im-in-my-40s-with-a-330-000-inherited-retirement-account-how-can-i-grow-it-4fc7f64a?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 09:15:00 GMT",
-        "first_seen": "2026-04-24T09:30:19.432414"
-      },
-      "6371674339c7cd62d9052bc5ccc2a81bdb928c31332d7262682563ecb3c786a9": {
-        "title": "How SaaSpocalypse fears actually bolstered SAP profits by over $150 million",
-        "link": "https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 09:14:00 GMT",
-        "first_seen": "2026-04-24T09:30:19.432422"
-      },
-      "fe0e944518b219dda3d6fa7dbed2cd033472a8833cbe52d6d421b3d77ce64359": {
-        "title": "TikTokers Savannah and Cole LaBrant pull $5.4 million Nashville mansion off the market",
-        "link": "https://www.marketwatch.com/story/tiktokers-savannah-and-cole-labrant-pull-5-4-million-nashville-mansion-off-the-market-5046862e?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 09:01:00 GMT",
-        "first_seen": "2026-04-24T09:30:19.432425"
-      },
-      "adb48f9e821627abe60bf881c0f39dab83cfe5240dde94a340a343307afec546": {
-        "title": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan — and his clumsy attempt to cover it up",
-        "link": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Apr 2026 08:02:00 GMT",
-        "first_seen": "2026-04-24T09:30:19.432426"
-      },
       "d3182ab1e0f0910827080c4d8c5d2970b4e97b411b146d34474537a34ecf717f": {
         "title": "Google to invest up to $40bn in Anthropic",
         "link": "https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8",
@@ -4719,6 +4695,12 @@
         "link": "https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44",
         "published_date": "Sun, 24 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-24T07:49:59.379378"
+      },
+      "97999186da96fbaebee828ef87b47c74ee20f10d19f84767236e496999afaf45": {
+        "title": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
+        "link": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
+        "published_date": "Sun, 24 May 2026 08:06:00 GMT",
+        "first_seen": "2026-05-24T09:53:25.157741"
       }
     },
     "Ai": {
@@ -5992,8 +5974,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-24T07:50:18.893276",
-    "Finance": "2026-05-24T07:49:59.379380",
+    "Technology": "2026-05-24T09:53:40.550519",
+    "Finance": "2026-05-24T09:53:25.157748",
     "Ai": "2026-05-24T07:50:19.010312"
   }
 }
