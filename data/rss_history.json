@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5384fd4743e86a8c2e41f70444e74273449919d981042e37351d6e418f5cb4d0": {
-        "title": "DeepSeek-V4发布，黄仁勋的担忧成真了",
-        "link": "https://www.tmtpost.com/7966555.html",
-        "published_date": "Sat, 25 Apr 2026 09:47:00 GMT",
-        "first_seen": "2026-04-25T23:36:30.404302"
-      },
-      "3acb03db56adafbdf4762f3924501111246d5acff4bb6c0fb5ffa355d4d2bbb5": {
-        "title": "AI 巨头，走入黑暗森林",
-        "link": "https://www.tmtpost.com/7967154.html",
-        "published_date": "Sat, 25 Apr 2026 20:18:00 GMT",
-        "first_seen": "2026-04-25T23:36:30.404308"
-      },
-      "1ba0195ca31f7829697a9729952a63283f1bc9b13a7fea8bbd0468fb38e759d0": {
-        "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
-        "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Apr 2026 16:00:00 GMT",
-        "first_seen": "2026-04-25T23:36:30.404311"
-      },
-      "fc8b679f891f1af018828011a69f54aaf64895ef5467368d9606a52c105599e3": {
-        "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
-        "link": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Apr 2026 21:04:00 GMT",
-        "first_seen": "2026-04-25T23:36:30.404312"
-      },
-      "181e8a8c8b9304e07deace318f8c81313b7e43cb9f115d8565959f10ecc1394f": {
-        "title": "字节养的“虾”与1500亿账本背后",
-        "link": "https://www.tmtpost.com/7967099.html",
-        "published_date": "Sat, 25 Apr 2026 16:33:00 GMT",
-        "first_seen": "2026-04-25T23:36:30.404313"
-      },
       "64d1928ecd2aef0a5dd3ebf5d5c62b37285cd38c337fae93401331d101df63dd": {
         "title": "谷歌亚马逊同时砸钱养竞争对手，AI时代最荒诞的商业逻辑正在成真",
         "link": "https://www.tmtpost.com/7967434.html",
@@ -2467,39 +2437,39 @@
         "link": "https://www.tmtpost.com/8000499.html",
         "published_date": "Mon, 25 May 2026 11:59:00 GMT",
         "first_seen": "2026-05-25T08:56:31.343856"
+      },
+      "f6c37fdaf758e830b6f71550304bee022af1713d1858e9ef011f8fecdc71cb42": {
+        "title": "全球Token，短缺了",
+        "link": "https://www.tmtpost.com/8001378.html",
+        "published_date": "Mon, 25 May 2026 19:23:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.183255"
+      },
+      "226243b79a035c6140cf8febaf407a76ca6e601bd6775ecec67a5c186506dc9a": {
+        "title": "海外科技巨头缺钱了？全球AI掀起债券融资浪潮",
+        "link": "https://www.tmtpost.com/8001137.html",
+        "published_date": "Mon, 25 May 2026 15:45:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.183270"
+      },
+      "c9ef93ac91edbedc9a9c928d515fcd58efd39e73ecc69767bba98ea218d10123": {
+        "title": "人工智能无法加速软件交付",
+        "link": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 25 May 2026 11:19:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.183272"
+      },
+      "9c3bbf484e3f7c328eb6b0ffe3d2be3ac01e981bc89ca0336a244502ac845b2d": {
+        "title": "宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”",
+        "link": "https://www.tmtpost.com/8001758.html",
+        "published_date": "Mon, 25 May 2026 22:09:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.183274"
+      },
+      "ae85cd177c8bb6f27d72e0aca7caca905164916017a49d40bb889020619a78b5": {
+        "title": "特朗普又盯上量子计算入股，9家公司一夜暴涨",
+        "link": "https://www.tmtpost.com/8001054.html",
+        "published_date": "Mon, 25 May 2026 13:33:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.183276"
       }
     },
     "Finance": {
-      "9fcf23597575840b13d1c832fbd10bf37fe37ba342e2fa6925a3a038c5dc690f": {
-        "title": "Trump cancels trip by US negotiators for Iran peace talks",
-        "link": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
-        "published_date": "Sat, 25 Apr 2026 21:10:00 GMT",
-        "first_seen": "2026-04-25T23:36:05.451212"
-      },
-      "de471b6f40f4db2f5196958cba2d024f4016fdc20bbab06c15309ff8bbb2f56b": {
-        "title": "A record 20 million single women own homes — even though it’s more expensive for a woman to buy a house than a man",
-        "link": "https://www.marketwatch.com/story/a-record-20-million-single-women-own-homes-even-though-its-more-expensive-for-a-woman-to-buy-a-house-than-a-man-2cb8e3cf?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 16:17:00 GMT",
-        "first_seen": "2026-04-25T23:36:05.451224"
-      },
-      "fde841f7fb52b01caf93f4e5d54924025e1addf782f62c1278f667b50db738be": {
-        "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can’t afford economy",
-        "link": "https://www.marketwatch.com/story/is-this-a-new-gilded-age-in-american-commercial-air-travel-airlines-hope-so-48a8a42c?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 17:56:00 GMT",
-        "first_seen": "2026-04-25T23:36:05.451226"
-      },
-      "9d31cdf86155b1425dccaba9ea1fe9c0ddf2c08bef3557a3e85449efb524ca71": {
-        "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners — and losers.",
-        "link": "https://www.marketwatch.com/story/heres-how-much-money-the-2026-nfl-draft-picks-will-make-and-whos-at-risk-of-losing-millions-e2ddee40?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 16:25:00 GMT",
-        "first_seen": "2026-04-25T23:36:05.451228"
-      },
-      "b90340c3554678e1120333ed0a896066dff1903e41fcc70b4c1ea13f5b805e22": {
-        "title": "‘We are not close’: My brother says our mother left no estate when she died. How on earth can I trust him?",
-        "link": "https://www.marketwatch.com/story/we-are-not-close-my-brother-says-our-mother-left-no-estate-when-she-died-how-on-earth-can-i-trust-him-0e4b46d9?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Apr 2026 18:25:00 GMT",
-        "first_seen": "2026-04-25T23:36:05.451230"
-      },
       "e0aba1dfe1f3b03915060008cf81f102d33fb4868408fd0044a5bb5c5aa99f25": {
         "title": "How to demine the Strait of Hormuz",
         "link": "https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed",
@@ -4671,15 +4641,39 @@
         "link": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
         "published_date": "Mon, 25 May 2026 07:04:00 GMT",
         "first_seen": "2026-05-25T08:55:55.913463"
+      },
+      "15b7de1931d14ca71d4efe48f110e17e10e2d81a01d12af39368092150ac069a": {
+        "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years",
+        "link": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
+        "published_date": "Mon, 25 May 2026 19:50:00 GMT",
+        "first_seen": "2026-05-26T00:05:15.164637"
+      },
+      "cf16dc00fa3c0cd8cefd6680803df8c6714f2ea17b7e2c7b4396948c7cef273d": {
+        "title": "Mastercard’s stock is up 11,000% since its IPO 20 years ago. What comes next?",
+        "link": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories",
+        "published_date": "Mon, 25 May 2026 13:30:00 GMT",
+        "first_seen": "2026-05-26T00:05:15.164647"
+      },
+      "0b659840368230cf53b9c5cff529b624240fc9ef4438237917db3bb6c576346f": {
+        "title": "Carney warns Alberta separatists of Brexit-style regret",
+        "link": "https://www.ft.com/content/5c3d12ba-c959-4d84-b0ee-b9258a749cd4",
+        "published_date": "Mon, 25 May 2026 21:23:00 GMT",
+        "first_seen": "2026-05-26T00:05:15.164650"
+      },
+      "b96618dd631772ceb7cbc2812b72f9ca275553c0176f7f013902f316f8958c62": {
+        "title": "Iran is beating Trump at the art of the deal",
+        "link": "https://www.ft.com/content/24cd5d27-34f9-4286-bfdc-984843c25683",
+        "published_date": "Mon, 25 May 2026 11:39:00 GMT",
+        "first_seen": "2026-05-26T00:05:15.164652"
+      },
+      "e9deaa500175bc3727564f991ed3ac025bec0c9aad5f4d4078539283bc06110d": {
+        "title": "Counting the cost of New York’s sky-high food bills",
+        "link": "https://www.ft.com/content/d78bb2ef-c104-4173-ba38-3c0307bf0c91",
+        "published_date": "Mon, 25 May 2026 14:31:00 GMT",
+        "first_seen": "2026-05-26T00:05:15.164654"
       }
     },
     "Ai": {
-      "524d3c91cdf42d168bbb27460d1695e60a39bf01880883a878a02ebc033909d5": {
-        "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
-        "link": "https://www.qbitai.com/2026/04/407363.html",
-        "published_date": "Sat, 25 Apr 2026 15:38:00 GMT",
-        "first_seen": "2026-04-25T23:36:05.585745"
-      },
       "d5112ff2c9188a1a131487451a6b896981a6dde2d6887e641e813bac24b5a9e6": {
         "title": "2026-04-26日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-26/",
@@ -5909,13 +5903,25 @@
         "link": "https://www.qbitai.com/2026/05/424581.html",
         "published_date": "Mon, 25 May 2026 06:26:00 GMT",
         "first_seen": "2026-05-25T08:56:45.741517"
+      },
+      "b5cc1034232568951e59af684f4e6b93d77b03b09c03b1c83579a0b5335b63d6": {
+        "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/424794.html",
+        "published_date": "Mon, 25 May 2026 09:37:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.302991"
+      },
+      "c761b783e313120de9c4a75b13b4dceb8cb828f2a89fe39afbfee0634a73a574": {
+        "title": "2026-05-25日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-25/",
+        "published_date": "Mon, 25 May 2026 11:04:00 GMT",
+        "first_seen": "2026-05-26T00:06:30.303000"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-25T08:56:31.343859",
-    "Finance": "2026-05-25T08:55:55.913465",
-    "Ai": "2026-05-25T08:56:45.741518"
+    "Technology": "2026-05-26T00:06:30.183278",
+    "Finance": "2026-05-26T00:05:15.164656",
+    "Ai": "2026-05-26T00:06:30.303002"
   }
 }

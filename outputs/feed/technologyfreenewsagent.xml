@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 25 May 2026 08:55:00 GMT</pubDate>
-    <lastBuildDate>Mon, 25 May 2026 08:56:31 GMT</lastBuildDate>
+    <pubDate>Tue, 26 May 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Tue, 26 May 2026 00:06:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码</title>
-      <link>https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 11:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全球Token，短缺了</title>
+      <link>https://www.tmtpost.com/8001378.html</link>
+      <description>&lt;![CDATA[全球Token，短缺了]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001378.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么</title>
-      <link>https://www.tmtpost.com/8001288.html</link>
-      <description>&lt;![CDATA[晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8001288.html</guid>
+      <title>海外科技巨头缺钱了？全球AI掀起债券融资浪潮</title>
+      <link>https://www.tmtpost.com/8001137.html</link>
+      <description>&lt;![CDATA[海外科技巨头缺钱了？全球AI掀起债券融资浪潮]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001137.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了</title>
-      <link>https://www.tmtpost.com/8001070.html</link>
-      <description>&lt;![CDATA[谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 14:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8001070.html</guid>
+      <title>人工智能无法加速软件交付</title>
+      <link>https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[人工智能无法加速软件交付]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”</title>
+      <link>https://www.tmtpost.com/8001758.html</link>
+      <description>&lt;![CDATA[宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 22:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001758.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从被“卡脖子”到定标准，天津机器人凭什么硬气出圈？</title>
-      <link>https://www.tmtpost.com/8000499.html</link>
-      <description>&lt;![CDATA[从被“卡脖子”到定标准，天津机器人凭什么硬气出圈？]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000499.html</guid>
+      <title>特朗普又盯上量子计算入股，9家公司一夜暴涨</title>
+      <link>https://www.tmtpost.com/8001054.html</link>
+      <description>&lt;![CDATA[特朗普又盯上量子计算入股，9家公司一夜暴涨]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001054.html</guid>
       <category>Technology</category>
     </item>
   </channel>
