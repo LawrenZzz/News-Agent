@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 26 May 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 26 May 2026 08:32:13 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 00:04:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】实名购药、严禁AI替代审方，《处方药网络零售合规指南》发布；华为发表半导体韬定律；6G试验频率正式获批，6G有望在2030年前后正式商用</title>
-      <link>https://www.tmtpost.com/8001772.html</link>
-      <description>&lt;![CDATA[【钛晨报】实名购药、严禁AI替代审方，《处方药网络零售合规指南》发布；华为发表半导体韬定律；6G试验频率正式获批，6G有望在2030年前后正式商用]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8001772.html</guid>
+      <title>中国AI的东西战线——从延安到中途岛</title>
+      <link>https://www.tmtpost.com/8002752.html</link>
+      <description>&lt;![CDATA[中国AI的东西战线——从延安到中途岛]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8002752.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软将弃用Claude：太贵了还是薅明白了？</title>
-      <link>https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软将弃用Claude：太贵了还是薅明白了？]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千亿估值扎堆，国产大模型正在备战“资本高考”</title>
+      <link>https://www.tmtpost.com/8003033.html</link>
+      <description>&lt;![CDATA[千亿估值扎堆，国产大模型正在备战“资本高考”]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 17:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003033.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米、比亚迪、蔚来下场造芯：中国半导体正打响一场&quot;企业战争&quot;</title>
-      <link>https://www.tmtpost.com/8002842.html</link>
-      <description>&lt;![CDATA[小米、比亚迪、蔚来下场造芯：中国半导体正打响一场&quot;企业战争&quot;]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8002842.html</guid>
+      <title>聊聊Harness时代AI-First的组织架构：从信任人到信任AI</title>
+      <link>https://www.tmtpost.com/8002340.html</link>
+      <description>&lt;![CDATA[聊聊Harness时代AI-First的组织架构：从信任人到信任AI]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8002340.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek永久降价，第一个赢家已经浮出水面</title>
-      <link>https://www.tmtpost.com/8002352.html</link>
-      <description>&lt;![CDATA[DeepSeek永久降价，第一个赢家已经浮出水面]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8002352.html</guid>
+      <title>从“卖电脑”到“卖AI”，联想走到哪一步了？</title>
+      <link>https://www.tmtpost.com/8003075.html</link>
+      <description>&lt;![CDATA[从“卖电脑”到“卖AI”，联想走到哪一步了？]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003075.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gemma 4 多词元预测：生成速度最高提升约 3 倍</title>
-      <link>https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gemma 4 多词元预测：生成速度最高提升约 3 倍]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 16:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>明年起4D毫米波雷达几乎要成标配，但车企还没想清楚怎么用</title>
+      <link>https://www.tmtpost.com/8001545.html</link>
+      <description>&lt;![CDATA[明年起4D毫米波雷达几乎要成标配，但车企还没想清楚怎么用]]&gt;</description>
+      <pubDate>Tue, 26 May 2026 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001545.html</guid>
       <category>Technology</category>
     </item>
   </channel>
