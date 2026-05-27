@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 May 2026 00:04:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 00:04:36 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 08:38:00 GMT</pubDate>
+    <lastBuildDate>Wed, 27 May 2026 08:38:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国AI的东西战线——从延安到中途岛</title>
-      <link>https://www.tmtpost.com/8002752.html</link>
-      <description>&lt;![CDATA[中国AI的东西战线——从延安到中途岛]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8002752.html</guid>
+      <title>中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产</title>
+      <link>https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千亿估值扎堆，国产大模型正在备战“资本高考”</title>
-      <link>https://www.tmtpost.com/8003033.html</link>
-      <description>&lt;![CDATA[千亿估值扎堆，国产大模型正在备战“资本高考”]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003033.html</guid>
+      <title>为什么没人会喜欢你用 LLM 写出来的东西？</title>
+      <link>https://sspai.com/post/110102</link>
+      <description>&lt;![CDATA[为什么没人会喜欢你用 LLM 写出来的东西？]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110102</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>聊聊Harness时代AI-First的组织架构：从信任人到信任AI</title>
-      <link>https://www.tmtpost.com/8002340.html</link>
-      <description>&lt;![CDATA[聊聊Harness时代AI-First的组织架构：从信任人到信任AI]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8002340.html</guid>
+      <title>谷歌全家桶，都被新模型“污染”了</title>
+      <link>https://www.tmtpost.com/8004001.html</link>
+      <description>&lt;![CDATA[谷歌全家桶，都被新模型“污染”了]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 13:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8004001.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“卖电脑”到“卖AI”，联想走到哪一步了？</title>
-      <link>https://www.tmtpost.com/8003075.html</link>
-      <description>&lt;![CDATA[从“卖电脑”到“卖AI”，联想走到哪一步了？]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003075.html</guid>
+      <title>100% AI电影亮相戛纳，7个人干300人的活，快手这次赢麻了</title>
+      <link>https://www.tmtpost.com/8003255.html</link>
+      <description>&lt;![CDATA[100% AI电影亮相戛纳，7个人干300人的活，快手这次赢麻了]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003255.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>明年起4D毫米波雷达几乎要成标配，但车企还没想清楚怎么用</title>
-      <link>https://www.tmtpost.com/8001545.html</link>
-      <description>&lt;![CDATA[明年起4D毫米波雷达几乎要成标配，但车企还没想清楚怎么用]]&gt;</description>
-      <pubDate>Tue, 26 May 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8001545.html</guid>
+      <title>下一个AI较量场，为什么是Harness？</title>
+      <link>https://www.tmtpost.com/8003536.html</link>
+      <description>&lt;![CDATA[下一个AI较量场，为什么是Harness？]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003536.html</guid>
       <category>Technology</category>
     </item>
   </channel>
