@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 May 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Wed, 27 May 2026 08:38:31 GMT</lastBuildDate>
+    <pubDate>Wed, 27 May 2026 23:59:00 GMT</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 00:00:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产</title>
-      <link>https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5</title>
+      <link>https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[让具身模型学会“先想后做”！星源智推出400万问答对大规模数据集，训练框架决策性能碾压GPT-5]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zleRjMWUeNF4C9zTeX8p?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么没人会喜欢你用 LLM 写出来的东西？</title>
-      <link>https://sspai.com/post/110102</link>
-      <description>&lt;![CDATA[为什么没人会喜欢你用 LLM 写出来的东西？]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 11:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110102</guid>
+      <title>Agent化的OS：拼的不是AI，是底盘</title>
+      <link>https://www.tmtpost.com/8003425.html</link>
+      <description>&lt;![CDATA[Agent化的OS：拼的不是AI，是底盘]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003425.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌全家桶，都被新模型“污染”了</title>
-      <link>https://www.tmtpost.com/8004001.html</link>
-      <description>&lt;![CDATA[谷歌全家桶，都被新模型“污染”了]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8004001.html</guid>
+      <title>自动驾驶技术竞争升级，VLA之后是什么？</title>
+      <link>https://www.tmtpost.com/8003591.html</link>
+      <description>&lt;![CDATA[自动驾驶技术竞争升级，VLA之后是什么？]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 18:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003591.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>100% AI电影亮相戛纳，7个人干300人的活，快手这次赢麻了</title>
-      <link>https://www.tmtpost.com/8003255.html</link>
-      <description>&lt;![CDATA[100% AI电影亮相戛纳，7个人干300人的活，快手这次赢麻了]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003255.html</guid>
+      <title>【钛晨报】李强最新调研：积极探索期货现货联动经营；长鑫科技IPO过会、立讯精密被罚、段永平增持泡泡玛特；宁德时代旗下公司与张雪机车高层正式开始接洽合作</title>
+      <link>https://www.tmtpost.com/8004748.html</link>
+      <description>&lt;![CDATA[【钛晨报】李强最新调研：积极探索期货现货联动经营；长鑫科技IPO过会、立讯精密被罚、段永平增持泡泡玛特；宁德时代旗下公司与张雪机车高层正式开始接洽合作]]&gt;</description>
+      <pubDate>Thu, 28 May 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8004748.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>下一个AI较量场，为什么是Harness？</title>
-      <link>https://www.tmtpost.com/8003536.html</link>
-      <description>&lt;![CDATA[下一个AI较量场，为什么是Harness？]]&gt;</description>
-      <pubDate>Wed, 27 May 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8003536.html</guid>
+      <title>Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持</title>
+      <link>https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持]]&gt;</description>
+      <pubDate>Wed, 27 May 2026 09:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
