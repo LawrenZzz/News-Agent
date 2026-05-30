@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ca9434e5a30960b0520a17e3f126abf0274ca8d830bcb6f52e3feb23653b5763": {
-        "title": "业绩光鲜难掩子业务亏损黑洞，康美特科技三闯资本市场风险暗涌 | IPO观察",
-        "link": "https://www.tmtpost.com/7971936.html",
-        "published_date": "Wed, 29 Apr 2026 17:21:00 GMT",
-        "first_seen": "2026-04-29T10:04:13.794582"
-      },
-      "e90cfb9370bf851b0f2523b52b2989572bdf9629ad8df2ec5e5a4dde83bfc523": {
-        "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
-        "link": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Apr 2026 16:17:00 GMT",
-        "first_seen": "2026-04-29T10:04:13.794592"
-      },
-      "43f1e24113f125b069fc32cfb6cb1a1eb9c380e92e33c9cfaaf8a8295380159b": {
-        "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
-        "link": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Apr 2026 15:46:00 GMT",
-        "first_seen": "2026-04-29T10:04:13.794610"
-      },
-      "33a05ff1020217b39fe2a597ca408570a6d40562f4b8c7f72bfee9a60ceb9225": {
-        "title": "腾讯云分布式缓存数据库：从 Redis 到 Valkey  - 开源社区如何快速创新 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/ca4atzztsRAxNxVUsKL0?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Apr 2026 15:44:00 GMT",
-        "first_seen": "2026-04-29T10:04:13.794612"
-      },
-      "6b1289543476e271c651d8dd8df84fadef3c443ca9b10ec738aa8c131f5bb1a3": {
-        "title": "HashiCorp Vault 2.0 发布：引入新身份联邦机制，迈入 IBM 生命周期体系",
-        "link": "https://www.infoq.cn/article/vHBBM9CtKR3ErMKMhRQI?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-29T10:04:13.794614"
-      },
-      "2e2fbd261c02ce2b0fc96dfe1fa7260391afb22b147280d17a80dc4599b32406": {
-        "title": "【钛晨报】丁薛祥谈中国AI发展：要多路线布局前沿技术探索，全链条推进关键核心技术攻关；DeepSeek内测“识图模式”；章建平退出寒武纪十大股东行列",
-        "link": "https://www.tmtpost.com/7972453.html",
-        "published_date": "Thu, 30 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-29T23:54:57.579143"
-      },
-      "c8c774bd9de8adc68316e94d507f27d07c2d1b731e5788340502d3a3824dd8c6": {
-        "title": "OpenAI 硬件负责人的闭门分享，向我们揭示了为什么硬件「终点」仍是智能手机",
-        "link": "http://www.geekpark.net/news/363596",
-        "published_date": "Wed, 29 Apr 2026 19:09:00 GMT",
-        "first_seen": "2026-04-29T23:54:57.579149"
-      },
-      "60f2b5ed6ef7343c2a42d74affe1a0b4784ab5a71aed40b9e1f206aeca35848d": {
-        "title": "OpenAI登陆Bedrock，AI云战争的铁索终于断了",
-        "link": "https://www.tmtpost.com/7971826.html",
-        "published_date": "Wed, 29 Apr 2026 14:38:00 GMT",
-        "first_seen": "2026-04-29T23:54:57.579150"
-      },
-      "d379a523063e204a2f4b6d1f7c1b041795d9825931f1f24515255c6e4bb211fc": {
-        "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
-        "link": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Apr 2026 16:20:00 GMT",
-        "first_seen": "2026-04-29T23:54:57.579152"
-      },
-      "3c5c590655c8633e3e606506a38d8ddcfadcaa407cdadb413c43df95329b18f0": {
-        "title": "量子计算掀起上市潮，黄仁勋的“野心”藏不住了",
-        "link": "https://www.tmtpost.com/7971735.html",
-        "published_date": "Wed, 29 Apr 2026 18:36:00 GMT",
-        "first_seen": "2026-04-29T23:54:57.579153"
-      },
       "22322f07c88298e3424a0e844c3cc2ae8601a97910d0d8536352cdfc26fa1268": {
         "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
         "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
@@ -2377,69 +2317,39 @@
         "link": "https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 29 May 2026 10:31:00 GMT",
         "first_seen": "2026-05-29T08:42:32.397086"
+      },
+      "4b8c0ead97e290d3f36b917ee5e44b42c493c683ad01df80befb7e119cfe8625": {
+        "title": "华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径",
+        "link": "https://www.tmtpost.com/8006538.html",
+        "published_date": "Fri, 29 May 2026 18:15:00 GMT",
+        "first_seen": "2026-05-30T00:09:20.527587"
+      },
+      "53b61b786fde127834a65f5bab789458058954f488b0c539f3ed0ad39a61a7f3": {
+        "title": "Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座",
+        "link": "https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 May 2026 10:55:00 GMT",
+        "first_seen": "2026-05-30T00:09:20.527594"
+      },
+      "ce062865c82f5930bcc1bc4ae4bf4fde07de0b0d7db7ad1d68c2cf968f5a7c07": {
+        "title": "超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化",
+        "link": "https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 May 2026 09:00:00 GMT",
+        "first_seen": "2026-05-30T00:09:20.527596"
+      },
+      "7baa9c49fe8a53b6fc8362324f74b3f0bb9e8dd744392ec41841a795212a7e8a": {
+        "title": "编程 Agent 可能是软件开发史上最昂贵的错误之一",
+        "link": "https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 29 May 2026 10:42:00 GMT",
+        "first_seen": "2026-05-30T00:09:20.527598"
+      },
+      "e0cb67a9b1b08d029f6f1765ecd5696fb7c6a8353dfab80c0e5de0f34b12778d": {
+        "title": "Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months",
+        "link": "https://www.tmtpost.com/8007775.html",
+        "published_date": "Fri, 29 May 2026 18:38:00 GMT",
+        "first_seen": "2026-05-30T00:09:20.527599"
       }
     },
     "Finance": {
-      "bee4d419c0bb399e5d90269306f50ab21975c33849c2590cc5b7c6ea772b16b2": {
-        "title": "$200 oil – and two other scenarios – could tip the world into a recession, says this global bank",
-        "link": "https://www.marketwatch.com/story/200-oil-and-two-other-scenarios-could-tip-the-world-into-a-recession-says-this-global-bank-23a66a46?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Apr 2026 09:48:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.233476"
-      },
-      "1cbf6e88d91ef0239f3f5caa744aa2869c2cf7e143c2612ec585456ce1c142da": {
-        "title": "The key reasons why one bank now says U.S. stocks will outperform European equities",
-        "link": "https://www.marketwatch.com/story/the-key-reasons-why-one-bank-now-says-u-s-stocks-will-outperform-european-equities-4ad7af88?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Apr 2026 09:47:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.233496"
-      },
-      "443be8ce21ca66a69f4bd77769b7c030327a870bfbb467e60de9ff257f275848": {
-        "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
-        "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Apr 2026 09:10:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.233499"
-      },
-      "7158de7c51f04da904fa36a3012f45340adf04611d42c7cd5010b23286a5830c": {
-        "title": "Actor Patrick Dempsey recalls fond memories of his tiny home town in Maine",
-        "link": "https://www.marketwatch.com/story/actor-patrick-dempsey-recalls-fond-memories-of-his-tiny-home-town-in-maine-404d26d7?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Apr 2026 09:00:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.233500"
-      },
-      "6923f4122b30bd445c40991d5e7010e5d12d280de7ba4b22ca041d6734fcd4a6": {
-        "title": "Total profits jump 29% as war drives oil price surge and trading gains",
-        "link": "https://www.ft.com/content/86a02358-3050-4d3d-aaad-ebce1402cba2",
-        "published_date": "Wed, 29 Apr 2026 08:17:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.233502"
-      },
-      "3e642347f47e861dc66540b77a8b84562bf6fc230d4ad50a986000c183faa750": {
-        "title": "SoftBank plans to list new AI and robotics company in the US",
-        "link": "https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16",
-        "published_date": "Wed, 29 Apr 2026 23:28:00 GMT",
-        "first_seen": "2026-04-29T23:54:19.669923"
-      },
-      "1c6e7e9a2d8810b4fdc9beaede24f783d2cf28cc39d5c3141af75eee5859fca1": {
-        "title": "Powell won’t leave the Fed, pushing back further against Trump",
-        "link": "https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Apr 2026 23:13:00 GMT",
-        "first_seen": "2026-04-29T23:54:19.669935"
-      },
-      "a68c4169c3417f07ab16af8fb5db8e07cf90539a2875a69de4779790b66d0886": {
-        "title": "Google, Meta and Microsoft boost AI spending forecasts",
-        "link": "https://www.ft.com/content/b934037d-7fc6-4f93-acdf-a3ec75f45acc",
-        "published_date": "Wed, 29 Apr 2026 23:20:00 GMT",
-        "first_seen": "2026-04-29T23:54:19.669937"
-      },
-      "6c058930e597402f27cff7b66be0c2b0cdd335fdcf9804f60e37f9ba58f53e8a": {
-        "title": "Oil tops $120 as Trump signals extended Hormuz stand-off",
-        "link": "https://www.ft.com/content/243b9344-bab3-4129-bbec-825e97d661f4",
-        "published_date": "Wed, 29 Apr 2026 19:44:00 GMT",
-        "first_seen": "2026-04-29T23:54:19.669938"
-      },
-      "f6da382412537cec9ff3b7a56a6147981179a8487757dc05658339dea4ff7e40": {
-        "title": "Bill Ackman’s Pershing Square USA slides on Wall Street debut",
-        "link": "https://www.ft.com/content/ca9692a5-383c-4eb3-b553-3969f4c69cfc",
-        "published_date": "Wed, 29 Apr 2026 21:48:00 GMT",
-        "first_seen": "2026-04-29T23:54:19.669940"
-      },
       "4b6c4d57e0bff97627736f796833954abe3824bec84b701649319c47384e04cd": {
         "title": "UAE withdrawal from Opec reopens rift with Saudi Arabia",
         "link": "https://www.ft.com/content/27d986e5-a1d9-4467-8b1e-d96cec4cfb71",
@@ -4521,33 +4431,39 @@
         "link": "https://www.ft.com/content/e4f9ec07-5964-45f7-ad07-af48f3790f63",
         "published_date": "Fri, 29 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-29T08:42:46.188145"
+      },
+      "1ee8be6a4f93bd465e0e4d715b032a31c9bcd4c4380b8d6147d94b6a0a5d747c": {
+        "title": "Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges",
+        "link": "https://www.ft.com/content/d29af550-05e7-43a1-b52f-8861f3d3903b",
+        "published_date": "Fri, 29 May 2026 22:55:00 GMT",
+        "first_seen": "2026-05-30T00:10:09.107896"
+      },
+      "e3af6bb674a38e8c70a9a0fa25aee1531ac6e5087e3037750fb40a19339e7ed7": {
+        "title": "EasyJet draws takeover interest from private credit firm Castlelake",
+        "link": "https://www.ft.com/content/90b32812-a766-4195-99c3-88d3025d2f54",
+        "published_date": "Fri, 29 May 2026 20:16:00 GMT",
+        "first_seen": "2026-05-30T00:10:09.107906"
+      },
+      "1224fc70c15b3243d6eb1b3210a5fe4b3e074281d4a5626b576d29fd09f1dfe1": {
+        "title": "BoE governor warns Middle East ceasefire would ‘still create uncertainty’",
+        "link": "https://www.ft.com/content/495ee364-b774-4647-b1f6-5993ebfbf3b5",
+        "published_date": "Fri, 29 May 2026 19:26:00 GMT",
+        "first_seen": "2026-05-30T00:10:09.107908"
+      },
+      "a9c32fb1ce7883f2aa110dff7f0ad180e6b8158347939d3f1adc521c4721d329": {
+        "title": "Trump pledges ‘final determination’ on Iran deal to extend ceasefire",
+        "link": "https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4",
+        "published_date": "Fri, 29 May 2026 19:03:00 GMT",
+        "first_seen": "2026-05-30T00:10:09.107910"
+      },
+      "bc4b116b21c98acd5bda73c87af2b146bec3765e825628fe5f52342f19f24ce8": {
+        "title": "Thiel moves family to Milei’s libertarian Argentina",
+        "link": "https://www.ft.com/content/3d7ab893-1842-4c6c-a3d9-26871d79dde4",
+        "published_date": "Fri, 29 May 2026 18:51:00 GMT",
+        "first_seen": "2026-05-30T00:10:09.107911"
       }
     },
     "Ai": {
-      "93e1f7031be3edf64ff579c2ab5fecd4416dd72c65101212a4170c2fe844af58": {
-        "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
-        "link": "https://www.qbitai.com/2026/04/411205.html",
-        "published_date": "Wed, 29 Apr 2026 09:08:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.381077"
-      },
-      "1e874edf7cb4edbe0857c2fff757babfd1986bc26c24492bd8d18f052c68d811": {
-        "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
-        "link": "https://www.qbitai.com/2026/04/411184.html",
-        "published_date": "Wed, 29 Apr 2026 09:02:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.381086"
-      },
-      "c4701b155ae32dd8201a48610902098e7cf4d8ac17a3d8587fbb9efd45e50f42": {
-        "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
-        "link": "https://www.qbitai.com/2026/04/411186.html",
-        "published_date": "Wed, 29 Apr 2026 09:00:00 GMT",
-        "first_seen": "2026-04-29T10:04:00.381088"
-      },
-      "533cbbe35f4f9ac039a985d82bec88e7fbe924bbdefad2f630d9d941586b9749": {
-        "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-        "link": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
-        "published_date": "Wed, 29 Apr 2026 21:07:00 GMT",
-        "first_seen": "2026-04-29T23:54:19.802490"
-      },
       "4e32ef84e4eb032ae2d8ce89ab616a7e1e6d9a7424457fdadf9f7470ba61e7b5": {
         "title": "2026-04-30日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-30/",
@@ -5735,13 +5651,43 @@
         "link": "https://www.qbitai.com/2026/05/426353.html",
         "published_date": "Fri, 29 May 2026 02:47:00 GMT",
         "first_seen": "2026-05-29T08:42:09.308086"
+      },
+      "5dce8d0edc510f48ba0a5247cf8bf4e78cc43b551ad83c6caaaefd9053bbdc68": {
+        "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+        "link": "https://www.qbitai.com/2026/05/426557.html",
+        "published_date": "Fri, 29 May 2026 14:30:00 GMT",
+        "first_seen": "2026-05-30T00:08:40.995196"
+      },
+      "4e000b2b050861a5bfce8a3632cbe8789a50fadd5ca95b1721fdef46a508e426": {
+        "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+        "link": "https://www.qbitai.com/2026/05/426479.html",
+        "published_date": "Fri, 29 May 2026 09:05:00 GMT",
+        "first_seen": "2026-05-30T00:08:40.995207"
+      },
+      "c3707995e270e77e17a618126eb2fe0d794ebd8a537f729094c7de01e9dc1060": {
+        "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+        "link": "https://www.qbitai.com/2026/05/426542.html",
+        "published_date": "Fri, 29 May 2026 09:13:00 GMT",
+        "first_seen": "2026-05-30T00:08:40.995209"
+      },
+      "e4e6c2243ea1c3ce82382cc38b7b795cdb0097129799a37420c66c55073082dc": {
+        "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+        "link": "https://www.qbitai.com/2026/05/426447.html",
+        "published_date": "Fri, 29 May 2026 08:50:00 GMT",
+        "first_seen": "2026-05-30T00:08:40.995211"
+      },
+      "f5c96b1221e909a805f419be4651aec6a9be0f7f77dbc682cfab556e0385d619": {
+        "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+        "link": "https://www.qbitai.com/2026/05/426548.html",
+        "published_date": "Fri, 29 May 2026 11:24:00 GMT",
+        "first_seen": "2026-05-30T00:08:40.995213"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-29T08:42:32.397089",
-    "Finance": "2026-05-29T08:42:46.188147",
-    "Ai": "2026-05-29T08:42:09.308089"
+    "Technology": "2026-05-30T00:09:20.527602",
+    "Finance": "2026-05-30T00:10:09.107914",
+    "Ai": "2026-05-30T00:08:40.995215"
   }
 }

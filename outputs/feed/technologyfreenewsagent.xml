@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 29 May 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Fri, 29 May 2026 08:42:32 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 00:09:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>解密“何式定律”背后，徐直军首次披露华为芯片突围始末</title>
-      <link>https://www.tmtpost.com/8006712.html</link>
-      <description>&lt;![CDATA[解密“何式定律”背后，徐直军首次披露华为芯片突围始末]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 12:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006712.html</guid>
+      <title>华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径</title>
+      <link>https://www.tmtpost.com/8006538.html</link>
+      <description>&lt;![CDATA[华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8006538.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率</title>
-      <link>https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 11:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座</title>
+      <link>https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China</title>
-      <link>https://www.tmtpost.com/8007520.html</link>
-      <description>&lt;![CDATA[Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007520.html</guid>
+      <title>超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化</title>
+      <link>https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>能源派重塑AI发展观，让电力长出智力</title>
-      <link>https://www.tmtpost.com/8006646.html</link>
-      <description>&lt;![CDATA[能源派重塑AI发展观，让电力长出智力]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006646.html</guid>
+      <title>编程 Agent 可能是软件开发史上最昂贵的错误之一</title>
+      <link>https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[编程 Agent 可能是软件开发史上最昂贵的错误之一]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国不会有 Snowflake——但这未必是坏事</title>
-      <link>https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[中国不会有 Snowflake——但这未必是坏事]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months</title>
+      <link>https://www.tmtpost.com/8007775.html</link>
+      <description>&lt;![CDATA[Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months]]&gt;</description>
+      <pubDate>Fri, 29 May 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8007775.html</guid>
       <category>Technology</category>
     </item>
   </channel>
