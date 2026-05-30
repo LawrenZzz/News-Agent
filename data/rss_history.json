@@ -2347,6 +2347,36 @@
         "link": "https://www.tmtpost.com/8008462.html",
         "published_date": "Sat, 30 May 2026 13:25:00 GMT",
         "first_seen": "2026-05-30T07:40:36.375786"
+      },
+      "15968a66b75faa4c4ba9c2a30a8eacde183e2393eac430421eddd5b3f8a42f6f": {
+        "title": "小扎要和老黄“亲儿子”抢饭吃",
+        "link": "https://www.tmtpost.com/8008627.html",
+        "published_date": "Sat, 30 May 2026 17:25:00 GMT",
+        "first_seen": "2026-05-30T09:58:00.548899"
+      },
+      "88d6897863085ababbf83911c75b7fe23baabaa3dfa07f20bcc7c5d2e317eae7": {
+        "title": "宁德时代掏30亿建了全球第一的“储能擂台”，储能行业还有什么秘密？",
+        "link": "https://www.tmtpost.com/8008463.html",
+        "published_date": "Sat, 30 May 2026 17:25:00 GMT",
+        "first_seen": "2026-05-30T09:58:00.548909"
+      },
+      "a01c37d67c0f9857fca9ae40c76d33ddf1890579ee1944ff8df3968b6e9e5e6f": {
+        "title": "700亿融资赶紧到位吧，DeepSeek开始限制重生、修改次数了",
+        "link": "https://www.tmtpost.com/8008353.html",
+        "published_date": "Sat, 30 May 2026 13:31:00 GMT",
+        "first_seen": "2026-05-30T09:58:00.548912"
+      },
+      "887dc367952d38915b7c31182f76baf19546e1e09fac72d824c11eb210f9acec": {
+        "title": "2026上海SNEC前瞻：从“反内卷”到“反谍”，从旧范式到新生态",
+        "link": "https://www.tmtpost.com/8008107.html",
+        "published_date": "Sat, 30 May 2026 10:36:00 GMT",
+        "first_seen": "2026-05-30T09:58:00.548914"
+      },
+      "e3176c9764fa6c47067f9d5fc32b2d3ced46798bb3f4f400c82dfeccd5b5ffd8": {
+        "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "link": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 30 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-30T09:58:00.548915"
       }
     },
     "Finance": {
@@ -4461,6 +4491,12 @@
         "link": "https://www.ft.com/content/ae70e7ee-f5d4-4d07-bd20-cadf0fb77144",
         "published_date": "Sat, 30 May 2026 04:00:00 GMT",
         "first_seen": "2026-05-30T07:40:46.383428"
+      },
+      "30d0bfb4addababb9db6fbe2ea4d8fda68e06f9649e637731221d4c58a9ab485": {
+        "title": "‘Fairness is important to us’: We sold our family business to our son at a discount. How can we make this up to our other child?",
+        "link": "https://www.marketwatch.com/story/fairness-is-important-to-us-we-sold-our-family-business-to-our-son-at-a-discount-how-can-we-make-this-up-to-our-other-child-b987614b?mod=mw_rss_topstories",
+        "published_date": "Sat, 30 May 2026 08:19:00 GMT",
+        "first_seen": "2026-05-30T09:58:00.590228"
       }
     },
     "Ai": {
@@ -5674,8 +5710,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-30T07:40:36.375789",
-    "Finance": "2026-05-30T07:40:46.383430",
+    "Technology": "2026-05-30T09:58:00.548917",
+    "Finance": "2026-05-30T09:58:00.590236",
     "Ai": "2026-05-30T07:40:16.229102"
   }
 }
