@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 May 2026 00:08:00 GMT</pubDate>
-    <lastBuildDate>Sat, 30 May 2026 00:09:20 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 07:40:00 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 07:40:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径</title>
-      <link>https://www.tmtpost.com/8006538.html</link>
-      <description>&lt;![CDATA[华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8006538.html</guid>
+      <title>供应商变股东：存储芯片三巨头联手入股Anthropic，AI供应链的权力结构正在重组</title>
+      <link>https://www.tmtpost.com/8008498.html</link>
+      <description>&lt;![CDATA[供应商变股东：存储芯片三巨头联手入股Anthropic，AI供应链的权力结构正在重组]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008498.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座</title>
-      <link>https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Opus 4.8 刚发布，Redis 之父质疑跑分：DHH 盛赞的 GPT-5.5，正在动摇编码王座]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rCTXhK96Y3jiDG7N1is5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【数智周报】华为发表半导体韬定律，5年内冲刺等效1.4nm制程；MiniMax将A股上市；宇树科技冲刺科创板；Anthropic融资650亿美元，投后估值超OpenAI</title>
+      <link>https://www.tmtpost.com/8008578.html</link>
+      <description>&lt;![CDATA[【数智周报】华为发表半导体韬定律，5年内冲刺等效1.4nm制程；MiniMax将A股上市；宇树科技冲刺科创板；Anthropic融资650亿美元，投后估值超OpenAI]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008578.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化</title>
-      <link>https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[超越 TurboQuant！OSCAR：面向真实 Serving 的 2-bit KV Cache量化]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/B36ZgoaReVDs3l05yw0z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 编程终于有全局视野了，3 万 Star 项目补齐最大短板</title>
+      <link>https://www.tmtpost.com/8003371.html</link>
+      <description>&lt;![CDATA[AI 编程终于有全局视野了，3 万 Star 项目补齐最大短板]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8003371.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>编程 Agent 可能是软件开发史上最昂贵的错误之一</title>
-      <link>https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[编程 Agent 可能是软件开发史上最昂贵的错误之一]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/oDaj3oKLwc8MiprLcxhs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑</title>
+      <link>https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 07:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months</title>
-      <link>https://www.tmtpost.com/8007775.html</link>
-      <description>&lt;![CDATA[Hangzhou-based Dexterous Robotic Hand Startup Raises Nearly RMB 1 Billion in Six Months]]&gt;</description>
-      <pubDate>Fri, 29 May 2026 18:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8007775.html</guid>
+      <title>铜价奔向10.5万背后： 新能源吃铜，铜也正在改变新能源的胃口</title>
+      <link>https://www.tmtpost.com/8008462.html</link>
+      <description>&lt;![CDATA[铜价奔向10.5万背后： 新能源吃铜，铜也正在改变新能源的胃口]]&gt;</description>
+      <pubDate>Sat, 30 May 2026 13:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008462.html</guid>
       <category>Technology</category>
     </item>
   </channel>

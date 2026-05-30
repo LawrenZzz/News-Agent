@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "22322f07c88298e3424a0e844c3cc2ae8601a97910d0d8536352cdfc26fa1268": {
-        "title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
-        "link": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-30T07:27:00.020056"
-      },
-      "00db7989e1c7efbe4559a5718df6d6aa78217412d5fbd1e961431d0f94274968": {
-        "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
-        "link": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 14:25:00 GMT",
-        "first_seen": "2026-04-30T07:27:00.020063"
-      },
-      "18036dc0307054702a2ca9423f21f3ce8898b2c52314bebd21cbc15b0fe621ba": {
-        "title": "一张68亿采购清单，具身智能第一次被写进“现实账本”",
-        "link": "https://www.tmtpost.com/7973422.html",
-        "published_date": "Thu, 30 Apr 2026 14:36:00 GMT",
-        "first_seen": "2026-04-30T07:27:00.020064"
-      },
-      "934b138aea884188f16f2571698e084562b629060aeb52ef106f6cef3d97930d": {
-        "title": "5.5万 Star 开源项目 Ghostty 被迫出走，GitHub 正在终结一代技术人的乌托邦",
-        "link": "https://www.infoq.cn/article/mOXNlB1fzANrPZIrNfsK?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-30T07:27:00.020066"
-      },
-      "ca0b4b99dfbf10aa19f571c3e977904812eeacc8d52e81a408a59ff17253331c": {
-        "title": "Slack 长时运行多智能体系统的上下文管理方案",
-        "link": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Apr 2026 13:00:00 GMT",
-        "first_seen": "2026-04-30T07:27:00.020067"
-      },
       "2543f982121059be5ffe73185349ac58bced1bbe80eb4aeefdba9223e11a352d": {
         "title": "马斯克诉OpenAI案开庭，马斯克想开除奥特曼，OpenAI说他想夺权",
         "link": "https://www.tmtpost.com/7973085.html",
@@ -2347,39 +2317,39 @@
         "link": "https://www.tmtpost.com/8007775.html",
         "published_date": "Fri, 29 May 2026 18:38:00 GMT",
         "first_seen": "2026-05-30T00:09:20.527599"
+      },
+      "9b35a637508af13e8d102a76f5250e39737a672e6242d6a264354f51826db3f1": {
+        "title": "供应商变股东：存储芯片三巨头联手入股Anthropic，AI供应链的权力结构正在重组",
+        "link": "https://www.tmtpost.com/8008498.html",
+        "published_date": "Sat, 30 May 2026 12:29:00 GMT",
+        "first_seen": "2026-05-30T07:40:36.375774"
+      },
+      "4af9ef0f66735e35adb74803b170e460028b059c188b2aacf0e4e79c9a789909": {
+        "title": "【数智周报】华为发表半导体韬定律，5年内冲刺等效1.4nm制程；MiniMax将A股上市；宇树科技冲刺科创板；Anthropic融资650亿美元，投后估值超OpenAI",
+        "link": "https://www.tmtpost.com/8008578.html",
+        "published_date": "Sat, 30 May 2026 14:57:00 GMT",
+        "first_seen": "2026-05-30T07:40:36.375780"
+      },
+      "d8eef31df3d7ca390b28ae53247f3f1e8356e5ce8ca2b7d5bdb019aab4b24018": {
+        "title": "AI 编程终于有全局视野了，3 万 Star 项目补齐最大短板",
+        "link": "https://www.tmtpost.com/8003371.html",
+        "published_date": "Sat, 30 May 2026 10:12:00 GMT",
+        "first_seen": "2026-05-30T07:40:36.375782"
+      },
+      "78580319eaa49de3e27a75e9ab2e4255cc5dc3c52f1ca20de5a7122d47a5ced6": {
+        "title": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+        "link": "https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 30 May 2026 07:00:00 GMT",
+        "first_seen": "2026-05-30T07:40:36.375785"
+      },
+      "cb70711ae4e494cc36771226c5902c5e075b6be11712486858aedf8d1a486ece": {
+        "title": "铜价奔向10.5万背后： 新能源吃铜，铜也正在改变新能源的胃口",
+        "link": "https://www.tmtpost.com/8008462.html",
+        "published_date": "Sat, 30 May 2026 13:25:00 GMT",
+        "first_seen": "2026-05-30T07:40:36.375786"
       }
     },
     "Finance": {
-      "4b6c4d57e0bff97627736f796833954abe3824bec84b701649319c47384e04cd": {
-        "title": "UAE withdrawal from Opec reopens rift with Saudi Arabia",
-        "link": "https://www.ft.com/content/27d986e5-a1d9-4467-8b1e-d96cec4cfb71",
-        "published_date": "Thu, 30 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.601798"
-      },
-      "9b1f3059be2e224397d755e2122fbac15969602a018b05c0f9125eb1185df9de": {
-        "title": "Google outpaces rivals as Big Tech’s AI spending plans rise to $725bn",
-        "link": "https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf",
-        "published_date": "Thu, 30 Apr 2026 02:18:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.601808"
-      },
-      "6b022b52c5c836b891c02845edd398d9e5fefce504d51f91712aa887a821dc17": {
-        "title": "Oil surges past $125 as fears of prolonged supply disruption grow",
-        "link": "https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037",
-        "published_date": "Thu, 30 Apr 2026 06:13:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.601810"
-      },
-      "f52819fa5b85d9cde97817a0cc0aa9d851a70a5412176e1a06cc985e47325822": {
-        "title": "French lenders miss out on trading boom powering Wall Street banks",
-        "link": "https://www.ft.com/content/17ddd0e0-6484-4467-ae6d-ac3f149da23a",
-        "published_date": "Thu, 30 Apr 2026 05:01:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.601812"
-      },
-      "a07a51509a46da33c8728030bf76a78766451fcc140b599c8705d15444d8e0e7": {
-        "title": "KKR explores $10bn sale of ex-Unilever spreads business",
-        "link": "https://www.ft.com/content/c4178a99-79db-4b8c-9da7-cbc63ccd75e6",
-        "published_date": "Thu, 30 Apr 2026 04:00:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.601813"
-      },
       "652428b4f0958abe7c61fe8b7727aefdcfe6fc9f71de8ba5575028009af979d8": {
         "title": "‘We are old school’: I’ve been married for 40 years. Should I have kept my money separate?",
         "link": "https://www.marketwatch.com/story/we-are-old-school-ive-been-married-for-40-years-should-i-have-kept-my-money-separate-d4bef3c2?mod=mw_rss_topstories",
@@ -4461,39 +4431,39 @@
         "link": "https://www.ft.com/content/3d7ab893-1842-4c6c-a3d9-26871d79dde4",
         "published_date": "Fri, 29 May 2026 18:51:00 GMT",
         "first_seen": "2026-05-30T00:10:09.107911"
+      },
+      "b7c14c7349e38c2e29f363ab86e91ae82d0ce6432a9aeea1ac54a1545e22693d": {
+        "title": "Hegseth says US-China ties are ‘better than in years’",
+        "link": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09",
+        "published_date": "Sat, 30 May 2026 04:47:00 GMT",
+        "first_seen": "2026-05-30T07:40:46.383415"
+      },
+      "6b80ae78eff4703998cb512f1d63a4e7229eca3780d8b3403c0cb6b839560ce6": {
+        "title": "Should AI steal your job?",
+        "link": "https://www.ft.com/content/aceabeb1-1152-43d1-ad76-e1531cd37f39",
+        "published_date": "Sat, 30 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-30T07:40:46.383422"
+      },
+      "fb2678707177aab62e1430cdc7282c30d795ff304d1f11e4dfd95bdf9e352ef9": {
+        "title": "Germany’s Merz struggles to contain ‘chancellor swap’ talk",
+        "link": "https://www.ft.com/content/571d3705-5146-474a-a0f5-826c77c541a4",
+        "published_date": "Sat, 30 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-30T07:40:46.383424"
+      },
+      "2dad31cf6af17d2f78a4953106f988319589ae081bfbf65a7794aa6ddcab132f": {
+        "title": "Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth",
+        "link": "https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4",
+        "published_date": "Sat, 30 May 2026 06:20:00 GMT",
+        "first_seen": "2026-05-30T07:40:46.383426"
+      },
+      "a4350b208dd338c5c8563a90c141a60974d94d2fc821f0289d302356022c09b3": {
+        "title": "Ferrari’s new EV sparks Italian angst over Agnelli legacy",
+        "link": "https://www.ft.com/content/ae70e7ee-f5d4-4d07-bd20-cadf0fb77144",
+        "published_date": "Sat, 30 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-30T07:40:46.383428"
       }
     },
     "Ai": {
-      "4e32ef84e4eb032ae2d8ce89ab616a7e1e6d9a7424457fdadf9f7470ba61e7b5": {
-        "title": "2026-04-30日刊",
-        "link": "https://ai.hubtoday.app//2026-04/2026-04-30/",
-        "published_date": "Thu, 30 Apr 2026 10:30:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.726731"
-      },
-      "dd1ce172550440cc79ddcc0592e60c59e38cf6445c61ea1d3f6d040465e1dfff": {
-        "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
-        "link": "https://www.qbitai.com/2026/04/411797.html",
-        "published_date": "Thu, 30 Apr 2026 06:52:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.726738"
-      },
-      "91436a5423c585f010e7addebe7edc22fe9bd1267bbb0a433a84c8742088637e": {
-        "title": "游戏性能旗舰最强之选，一加Ace 6至尊版国补到手价2999元起",
-        "link": "https://www.qbitai.com/2026/04/411604.html",
-        "published_date": "Thu, 30 Apr 2026 05:45:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.726740"
-      },
-      "bf9dedc7c06a2e99565f699d55e83862d180865bb51f73724a5803757209bbc1": {
-        "title": "钉钉“听劝”推出充电宝版录音卡，可连续录音180小时",
-        "link": "https://www.qbitai.com/2026/04/411600.html",
-        "published_date": "Thu, 30 Apr 2026 04:41:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.726741"
-      },
-      "ad351c7c1d6cd2781d99c4680ad6e91afb701a0ef5febfd9426d5da90953c97b": {
-        "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
-        "link": "https://www.qbitai.com/2026/04/411336.html",
-        "published_date": "Thu, 30 Apr 2026 00:35:00 GMT",
-        "first_seen": "2026-04-30T07:26:37.726742"
-      },
       "bd888fa55b59a1abd9422482e269631021f863b6a8cc8a85e708e7e8727e9456": {
         "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
         "link": "https://www.qbitai.com/2026/04/412015.html",
@@ -5681,13 +5651,31 @@
         "link": "https://www.qbitai.com/2026/05/426548.html",
         "published_date": "Fri, 29 May 2026 11:24:00 GMT",
         "first_seen": "2026-05-30T00:08:40.995213"
+      },
+      "533a4a48cac5668911288f6f3677760a664af0633a4b9b1d3419167b8f5e39d9": {
+        "title": "2026-05-30日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-30/",
+        "published_date": "Sat, 30 May 2026 10:24:00 GMT",
+        "first_seen": "2026-05-30T07:40:16.229086"
+      },
+      "cc19e5a3dd0687f59357e86715b1f0d6dddb0ad9164c2de8288b4bb17a8851de": {
+        "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+        "link": "https://www.qbitai.com/2026/05/426706.html",
+        "published_date": "Sat, 30 May 2026 06:43:00 GMT",
+        "first_seen": "2026-05-30T07:40:16.229096"
+      },
+      "c26c0308eee14800f762ed942e9e7db6f65ba64f840d3058c3c6d52085fff737": {
+        "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+        "link": "https://www.qbitai.com/2026/05/426662.html",
+        "published_date": "Sat, 30 May 2026 06:33:00 GMT",
+        "first_seen": "2026-05-30T07:40:16.229099"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-30T00:09:20.527602",
-    "Finance": "2026-05-30T00:10:09.107914",
-    "Ai": "2026-05-30T00:08:40.995215"
+    "Technology": "2026-05-30T07:40:36.375789",
+    "Finance": "2026-05-30T07:40:46.383430",
+    "Ai": "2026-05-30T07:40:16.229102"
   }
 }
