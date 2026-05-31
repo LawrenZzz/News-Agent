@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f0da940b4de1266c0e499a073951caa265e59e8b009a640fd14d1f94ba9487db": {
-        "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
-        "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 01 May 2026 14:00:00 GMT",
-        "first_seen": "2026-05-01T07:27:04.527893"
-      },
-      "f954fb3ec1a564e2a83510cb24a9549586232d60db58150bbc2def3be2b72fa5": {
-        "title": "DeepSeek给AI装了根赛博手指，于是它能看见了",
-        "link": "https://www.tmtpost.com/7974709.html",
-        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
-        "first_seen": "2026-05-01T07:27:04.527899"
-      },
-      "5a2d56a212ddb4de1fd1600c4cc332ae55ef59dd32e1bc9e40897078c225dfc4": {
-        "title": "苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？",
-        "link": "https://www.tmtpost.com/7974779.html",
-        "published_date": "Fri, 01 May 2026 11:53:00 GMT",
-        "first_seen": "2026-05-01T07:27:04.527901"
-      },
-      "d83b83aef88458ae67137d65f35d79546b5b703dfc10138664658bf45b92c8f7": {
-        "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
-        "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 01 May 2026 09:36:00 GMT",
-        "first_seen": "2026-05-01T07:27:04.527903"
-      },
-      "fa806d249ca7b15ae420fd93ca8782e2300e8aa4c74e317e71b4c389366aaede": {
-        "title": "科大讯飞，AI教育的长坡与窄门",
-        "link": "https://www.tmtpost.com/7974528.html",
-        "published_date": "Fri, 01 May 2026 11:59:00 GMT",
-        "first_seen": "2026-05-01T07:27:04.527905"
-      },
       "5d8c5093d8b1ec73d56263212c2dfe8e31fc20156a3e2a48add0316185588baf": {
         "title": "DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售",
         "link": "http://www.geekpark.net/news/363694",
@@ -2347,39 +2317,39 @@
         "link": "https://www.tmtpost.com/8007849.html",
         "published_date": "Sat, 30 May 2026 10:43:00 GMT",
         "first_seen": "2026-05-31T00:01:42.611691"
+      },
+      "bfe27d1c81e1c49adc5498bf79e2c844798fc0cf96c6ee282bfec01784ee2dda": {
+        "title": "140万亿Token之后：中国正在修建“算力高铁”",
+        "link": "https://www.tmtpost.com/8008948.html",
+        "published_date": "Sun, 31 May 2026 11:04:00 GMT",
+        "first_seen": "2026-05-31T08:14:50.361678"
+      },
+      "3a8c14ac8c197b9c914857ae80c70bd31931f603b17d934f5c3bb9e67d774d7e": {
+        "title": "硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”",
+        "link": "https://www.tmtpost.com/8008817.html",
+        "published_date": "Sun, 31 May 2026 11:01:00 GMT",
+        "first_seen": "2026-05-31T08:14:50.361685"
+      },
+      "e69633959ffdc7e8ddef762b72427bd475e5c74111df51ece090b6c4bcd307a8": {
+        "title": "大模型的另一种活法，被MiniMax跑通了",
+        "link": "https://www.tmtpost.com/8008738.html",
+        "published_date": "Sun, 31 May 2026 09:57:00 GMT",
+        "first_seen": "2026-05-31T08:14:50.361687"
+      },
+      "a06dc5b2c2af56922ca1fd5a7fd864933c2811cbdf0e8fba6f4942b85c9c9f43": {
+        "title": "小米AI的\"免费获客-黑箱锁死\"闭环：从100T Token到Credits陷阱",
+        "link": "https://www.tmtpost.com/8008759.html",
+        "published_date": "Sun, 31 May 2026 10:11:00 GMT",
+        "first_seen": "2026-05-31T08:14:50.361689"
+      },
+      "67befc7d51a538d30de96f55bac9aba946156d9b146590b22da7ce58edfa496b": {
+        "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
+        "link": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 31 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-31T08:14:50.361691"
       }
     },
     "Finance": {
-      "379d45463a99b5a4d237c93e6164d1254daebf2ea8ef2c288ccb97b89414450a": {
-        "title": "Huawei’s AI chip sales surge as Nvidia stalls in China",
-        "link": "https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b",
-        "published_date": "Fri, 01 May 2026 00:15:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.223368"
-      },
-      "1a814bc362aca14625a3d5951d31045dae027b12bf19cccef1170bdf4b49e829": {
-        "title": "The S&P 500’s newest member is this under-the-radar software stock",
-        "link": "https://www.marketwatch.com/story/the-s-p-500s-newest-member-is-this-under-the-radar-software-stock-b828bd5e?mod=mw_rss_topstories",
-        "published_date": "Fri, 01 May 2026 04:02:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.223380"
-      },
-      "b69929e70e007c745181f4511279418a2c6ac97f6460b92ca537526edf470aab": {
-        "title": "PwC will drop cover for weight-loss drugs from employee health plans",
-        "link": "https://www.ft.com/content/8f3b462e-a4dd-489d-90d9-0733f1390bec",
-        "published_date": "Fri, 01 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.223383"
-      },
-      "435df5ec90e3cf20a31ea5e261d029226a9a3aa67672c0f9cb4006ef36a672d7": {
-        "title": "Zelenskyy’s push for EU membership strains ties with allies",
-        "link": "https://www.ft.com/content/4641fc30-6fc9-43d4-bc84-7ea0521a79b1",
-        "published_date": "Fri, 01 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.223385"
-      },
-      "d74b7cbe9b02cd2f4aa9a29c1be19c9b27fa29f00b4f9ea34f3684de47ee067c": {
-        "title": "Trump adrift: the president’s second term is at risk of foundering",
-        "link": "https://www.ft.com/content/105062fa-b38b-455b-babf-0692abf6f062",
-        "published_date": "Fri, 01 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.223387"
-      },
       "92006f67f92e48dd38dea5055120d97c668ecb29b5af76df25a93729ab15a999": {
         "title": "A year after selling $2.7 million Austin mansion, actress Haylie Duff and Matt Rosenberg call off 12-year engagement",
         "link": "https://www.marketwatch.com/story/a-year-after-selling-2-7-million-austin-mansion-actress-haylie-duff-and-matt-rosenberg-call-off-12-year-engagement-ef1524d1?mod=mw_rss_topstories",
@@ -4437,27 +4407,39 @@
         "link": "https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84",
         "published_date": "Sat, 30 May 2026 11:00:00 GMT",
         "first_seen": "2026-05-31T00:01:55.856414"
+      },
+      "5e25d80f7bab073d7dd9c7a456c5740fcd04ba9da9d8187a71f38b2b1394a496": {
+        "title": "Jes Staley to appear before Congress over ties to Jeffrey Epstein",
+        "link": "https://www.ft.com/content/376237d6-64ca-4804-90c5-2f83d78ed288",
+        "published_date": "Sun, 31 May 2026 00:04:00 GMT",
+        "first_seen": "2026-05-31T08:15:00.182581"
+      },
+      "a3867c1b1e118c5413f20380d10552de1a5af06d321604df95a6c0e84b1c5b23": {
+        "title": "Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply",
+        "link": "https://www.ft.com/content/6b74ddb9-319b-4293-a9d7-0effb17a4485",
+        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-31T08:15:00.182588"
+      },
+      "33e26a2cda78c9da77603ecab12389bcf0e7cd2f8ac615c9a99ceca5aa90bd96": {
+        "title": "EU frets as China builds an industrial base in Morocco",
+        "link": "https://www.ft.com/content/706c1db4-effa-4e53-9bdd-f66496407626",
+        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-31T08:15:00.182590"
+      },
+      "97bc7be67d6144c77d2a29094dbf1e24a5eade3b8dd2f201f097d2b5213ce99c": {
+        "title": "Jamming-resistant radio maker seeks $3bn-plus sale",
+        "link": "https://www.ft.com/content/b971947c-3ff3-49aa-99e5-ec0c3c0d0705",
+        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-31T08:15:00.182592"
+      },
+      "3be34dc5088ca0fc2ca024a4e44aaf727fecea5a2c4119dbb6fbf6992415df95": {
+        "title": "Defence group CSG still pursuing stake in Franco-German tank maker",
+        "link": "https://www.ft.com/content/6acd5ae9-79aa-4fbc-a67d-a0cc08ed00d6",
+        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
+        "first_seen": "2026-05-31T08:15:00.182594"
       }
     },
     "Ai": {
-      "2cd5f20c6e8b20109521841d2e9bc8171942a7b68e1e9350615bcaf3f3a4fd6b": {
-        "title": "2026-05-01日刊",
-        "link": "https://ai.hubtoday.app//2026-05/2026-05-01/",
-        "published_date": "Fri, 01 May 2026 09:46:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.389735"
-      },
-      "0f615cf32f43d936d9b79d612ad06edac773240fffcb96ffb1c82df9bf8bcad5": {
-        "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-        "link": "https://www.qbitai.com/2026/05/412577.html",
-        "published_date": "Fri, 01 May 2026 06:28:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.389743"
-      },
-      "c2891dac2e6d190d07dabd0b50044132d7d1b035af8528bb299ff1991c5e85f1": {
-        "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-        "link": "https://www.qbitai.com/2026/05/412447.html",
-        "published_date": "Fri, 01 May 2026 06:21:00 GMT",
-        "first_seen": "2026-05-01T07:26:38.389746"
-      },
       "0735fb13c8d9b15a5c5f0837e8b3e8718863e41da554e4108cbe447f26c0285d": {
         "title": "Catalyzing scientific impact through global partnerships and open resources",
         "link": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
@@ -5609,13 +5591,31 @@
         "link": "https://www.qbitai.com/2026/05/426662.html",
         "published_date": "Sat, 30 May 2026 06:33:00 GMT",
         "first_seen": "2026-05-30T07:40:16.229099"
+      },
+      "7a5c03287c42c255b8b8d8c384613b72bb2128de182f1a90bcf24b3448aca0c0": {
+        "title": "2026-05-31日刊",
+        "link": "https://hex2077.dev/docs/2026-05/2026-05-31/",
+        "published_date": "Sun, 31 May 2026 12:22:00 GMT",
+        "first_seen": "2026-05-31T08:14:32.449304"
+      },
+      "5bfaf267c9c574606153149fd4440de0833383a44b9f234fcc6cdcadac2556c4": {
+        "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/426819.html",
+        "published_date": "Sun, 31 May 2026 03:54:00 GMT",
+        "first_seen": "2026-05-31T08:14:32.449319"
+      },
+      "dfd79705d99438007bcd5a56fe4a9d11852d6d2ee07e6cc1e8e4f4ac9915d774": {
+        "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+        "link": "https://www.qbitai.com/2026/05/426793.html",
+        "published_date": "Sun, 31 May 2026 01:29:00 GMT",
+        "first_seen": "2026-05-31T08:14:32.449323"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-31T00:01:42.611693",
-    "Finance": "2026-05-31T00:01:55.856417",
-    "Ai": "2026-05-30T07:40:16.229102"
+    "Technology": "2026-05-31T08:14:50.361693",
+    "Finance": "2026-05-31T08:15:00.182595",
+    "Ai": "2026-05-31T08:14:32.449326"
   }
 }
