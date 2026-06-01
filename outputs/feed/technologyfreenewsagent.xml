@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 31 May 2026 08:14:00 GMT</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 08:14:50 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 00:06:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:06:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>140万亿Token之后：中国正在修建“算力高铁”</title>
-      <link>https://www.tmtpost.com/8008948.html</link>
-      <description>&lt;![CDATA[140万亿Token之后：中国正在修建“算力高铁”]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008948.html</guid>
+      <title>260亿美元，“全华班”撑起全球AI编程估值最高公司</title>
+      <link>https://www.tmtpost.com/8008969.html</link>
+      <description>&lt;![CDATA[260亿美元，“全华班”撑起全球AI编程估值最高公司]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 18:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008969.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”</title>
-      <link>https://www.tmtpost.com/8008817.html</link>
-      <description>&lt;![CDATA[硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008817.html</guid>
+      <title>宁德时代花了30亿，为储能建了一个“风洞”</title>
+      <link>https://www.tmtpost.com/8008786.html</link>
+      <description>&lt;![CDATA[宁德时代花了30亿，为储能建了一个“风洞”]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008786.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型的另一种活法，被MiniMax跑通了</title>
-      <link>https://www.tmtpost.com/8008738.html</link>
-      <description>&lt;![CDATA[大模型的另一种活法，被MiniMax跑通了]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008738.html</guid>
+      <title>【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%</title>
+      <link>https://www.tmtpost.com/8009149.html</link>
+      <description>&lt;![CDATA[【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009149.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米AI的&quot;免费获客-黑箱锁死&quot;闭环：从100T Token到Credits陷阱</title>
-      <link>https://www.tmtpost.com/8008759.html</link>
-      <description>&lt;![CDATA[小米AI的&quot;免费获客-黑箱锁死&quot;闭环：从100T Token到Credits陷阱]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 10:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008759.html</guid>
+      <title>AI写小说的套路被扒光了： Claude爱平铺，GPT总做梦，Gemini只会“他如何如何”</title>
+      <link>https://www.tmtpost.com/8008644.html</link>
+      <description>&lt;![CDATA[AI写小说的套路被扒光了： Claude爱平铺，GPT总做梦，Gemini只会“他如何如何”]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 08:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008644.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海</title>
-      <link>https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>暴增3100亿！存储巨头大普微，估值泡沫已现</title>
+      <link>https://www.tmtpost.com/8008925.html</link>
+      <description>&lt;![CDATA[暴增3100亿！存储巨头大普微，估值泡沫已现]]&gt;</description>
+      <pubDate>Sun, 31 May 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8008925.html</guid>
       <category>Technology</category>
     </item>
   </channel>
