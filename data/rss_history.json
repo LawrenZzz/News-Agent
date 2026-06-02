@@ -2,12 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ff70e534f8de37c0df1040b206fe182e1622be6e713933a9ee6b37131b099ff3": {
-        "title": "那个在OpenAI修中文的人",
-        "link": "https://www.tmtpost.com/7975466.html",
-        "published_date": "Sat, 02 May 2026 17:52:00 GMT",
-        "first_seen": "2026-05-02T23:41:24.231291"
-      },
       "a2d2048abbcab56750e56dfd38873927fd96d1113bf03cf1a99f7db793254faf": {
         "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
         "link": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
@@ -2287,39 +2281,39 @@
         "link": "https://www.tmtpost.com/8010291.html",
         "published_date": "Mon, 01 Jun 2026 17:38:00 GMT",
         "first_seen": "2026-06-01T10:18:46.063832"
+      },
+      "72e231c3c101c8ffb78855268eda06832667beb6d576b8c036e39698a4480646": {
+        "title": "黄仁勋对未来十年的完整判断，今天都讲明白了",
+        "link": "https://www.tmtpost.com/8010277.html",
+        "published_date": "Mon, 01 Jun 2026 17:41:00 GMT",
+        "first_seen": "2026-06-02T00:12:42.522645"
+      },
+      "80e9d49892a7c332c30cd5e6e072771559a54358c56abc32b41836323fe42d3b": {
+        "title": "China Is Building a “Computing Power High-Speed Rail”",
+        "link": "https://www.tmtpost.com/8010595.html",
+        "published_date": "Mon, 01 Jun 2026 18:53:00 GMT",
+        "first_seen": "2026-06-02T00:12:42.522650"
+      },
+      "28c99b7a2823bc9a57a4cdb91a66e31dc8064c13c626612a02c0c8f91dbd2b65": {
+        "title": "AI御三家战争：革命、分裂与帝国反扑",
+        "link": "https://www.tmtpost.com/8010059.html",
+        "published_date": "Mon, 01 Jun 2026 17:03:00 GMT",
+        "first_seen": "2026-06-02T00:12:42.522652"
+      },
+      "85cd9a9b35f586f6cd1eb87e648ee8ecd8350308084bea4cb1e2d0c288d4c758": {
+        "title": "Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报",
+        "link": "https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Jun 2026 16:53:00 GMT",
+        "first_seen": "2026-06-02T00:12:42.522653"
+      },
+      "6fbc4862f75296e0efc55bc6b71217379513ca99c7efbb4a93788d5932dc6ce0": {
+        "title": "Snowflake 换了战场：守住数据之后，要管住AI",
+        "link": "https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 01 Jun 2026 11:18:00 GMT",
+        "first_seen": "2026-06-02T00:12:42.522654"
       }
     },
     "Finance": {
-      "3e8e736a1238daa7bad3b501504d62e0b5691c88f761a6cbdc262ce0595b19cf": {
-        "title": "Private credit isn’t safer than banks — it’s just better at hiding losses",
-        "link": "https://www.marketwatch.com/story/private-credit-isnt-safer-than-banks-its-just-better-at-hiding-losses-84937515?mod=mw_rss_topstories",
-        "published_date": "Sat, 02 May 2026 15:55:00 GMT",
-        "first_seen": "2026-05-02T23:41:24.019927"
-      },
-      "7a80d3efda0c90f0d29a86838e22e68419d63de2e9b67af93598b588fc4d5b4d": {
-        "title": "Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter",
-        "link": "https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74",
-        "published_date": "Sat, 02 May 2026 13:54:00 GMT",
-        "first_seen": "2026-05-02T23:41:24.019935"
-      },
-      "dc5edc5e9a0d686a85ba7f80f5e15bf9b2655e7abeb55fb801faca97029d4d9f": {
-        "title": "Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient",
-        "link": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f",
-        "published_date": "Sat, 02 May 2026 18:49:00 GMT",
-        "first_seen": "2026-05-02T23:41:24.019938"
-      },
-      "b56f9c4a722154084290e674778666e7d4f01f13b00bbb076aa8b5208b5ef2ae": {
-        "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
-        "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
-        "published_date": "Sat, 02 May 2026 20:45:00 GMT",
-        "first_seen": "2026-05-02T23:41:24.019940"
-      },
-      "7182f76fecb48bfbadc55b44595677b8ecb19e7739dd1871c857da0b5207dcc4": {
-        "title": "These 3 companies are keeping the lights on for AI’s energy demand — and cashing in",
-        "link": "https://www.marketwatch.com/story/big-techs-ai-build-out-needs-these-3-companies-to-keep-the-lights-on-and-theyre-cashing-in-e46bcba2?mod=mw_rss_topstories",
-        "published_date": "Sat, 02 May 2026 15:30:00 GMT",
-        "first_seen": "2026-05-02T23:41:24.019942"
-      },
       "3299269f273e858213cbbda3c020feb8bf8f07364c87b113f68cbe214f71496b": {
         "title": "IMF criticises EU governments for ignoring energy subsidy warnings",
         "link": "https://www.ft.com/content/8b4cb5a2-67ab-4313-bce1-b77f542eeed5",
@@ -4365,6 +4359,36 @@
         "link": "https://www.marketwatch.com/story/another-dire-problem-for-social-security-trustees-may-be-calculating-the-birth-rate-wrong-955d1930?mod=mw_rss_topstories",
         "published_date": "Mon, 01 Jun 2026 10:00:00 GMT",
         "first_seen": "2026-06-01T10:19:03.872147"
+      },
+      "8c65230d34d58c0ae41b77e6ce19b6b515804b1ad32dbe56d7e91fc96331061b": {
+        "title": "Anthropic files for blockbuster initial public offering",
+        "link": "https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e",
+        "published_date": "Mon, 01 Jun 2026 17:34:00 GMT",
+        "first_seen": "2026-06-02T00:13:00.415996"
+      },
+      "10083ed730f32e30e4fff8040f5cc6092939b6aee9d30cdd9d7c5fc79b3b3071": {
+        "title": "The AI trade is remaking the global stock-market order",
+        "link": "https://www.marketwatch.com/story/the-ai-trade-is-remaking-the-global-stock-market-order-a639ecc4?mod=mw_rss_topstories",
+        "published_date": "Mon, 01 Jun 2026 20:55:00 GMT",
+        "first_seen": "2026-06-02T00:13:00.416001"
+      },
+      "e4b4b46a001c88f2503ada29c03c30093a5c273da1e43d3ef7ce3cf2cadab67a": {
+        "title": "Alphabet to sell $80bn in stock to fund AI spending spree",
+        "link": "https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257",
+        "published_date": "Mon, 01 Jun 2026 23:22:00 GMT",
+        "first_seen": "2026-06-02T00:13:00.416002"
+      },
+      "5431caef7955d618ed7aed29705bb2048128ad31f245e9842d9d20b65e49565a": {
+        "title": "The federal government plans to make it harder for you to sue your employer over alternative 401(k) investment options",
+        "link": "https://www.marketwatch.com/story/the-federal-government-plans-to-make-it-harder-for-you-to-sue-your-employer-over-alternative-401-k-investment-options-8b53b0e6?mod=mw_rss_topstories",
+        "published_date": "Mon, 01 Jun 2026 20:51:00 GMT",
+        "first_seen": "2026-06-02T00:13:00.416003"
+      },
+      "99fa7e7e854ca019415043271e068c2d6212e83471c99b742ac1faaf756dd2ab": {
+        "title": "Aspiration Partners’ co-founder Joe Sanberg gets 14-year fraud sentence",
+        "link": "https://www.ft.com/content/99dd712a-3900-46af-bd63-3f10adc6d1e4",
+        "published_date": "Mon, 01 Jun 2026 23:36:00 GMT",
+        "first_seen": "2026-06-02T00:13:00.416004"
       }
     },
     "Ai": {
@@ -5561,13 +5585,19 @@
         "link": "https://hex2077.dev/docs/2026-06/2026-06-01/",
         "published_date": "Mon, 01 Jun 2026 10:31:00 GMT",
         "first_seen": "2026-06-01T10:18:19.429161"
+      },
+      "d2050221a8ce927e5f8a9fa4f9be58da70ce18f71ba180299c5145a81acc586c": {
+        "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+        "link": "https://www.qbitai.com/2026/06/427530.html",
+        "published_date": "Mon, 01 Jun 2026 10:34:00 GMT",
+        "first_seen": "2026-06-02T00:12:14.775965"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-01T10:18:46.063835",
-    "Finance": "2026-06-01T10:19:03.872148",
-    "Ai": "2026-06-01T10:18:19.429163"
+    "Technology": "2026-06-02T00:12:42.522656",
+    "Finance": "2026-06-02T00:13:00.416006",
+    "Ai": "2026-06-02T00:12:14.775974"
   }
 }
