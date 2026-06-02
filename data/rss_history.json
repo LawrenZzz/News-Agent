@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a2d2048abbcab56750e56dfd38873927fd96d1113bf03cf1a99f7db793254faf": {
-        "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
-        "link": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 03 May 2026 13:24:00 GMT",
-        "first_seen": "2026-05-03T07:18:07.374249"
-      },
-      "9455b3bdd732c854636264a88070fc1a4607796aa96cf780b64a6ab1373f211c": {
-        "title": "Agent 需要“油表”和“刹车”：一篇论文，扒光了 Agent 的“糊涂账”",
-        "link": "https://www.tmtpost.com/7969858.html",
-        "published_date": "Sun, 03 May 2026 08:33:00 GMT",
-        "first_seen": "2026-05-03T07:18:07.374255"
-      },
-      "f7188686764151563970616980d35c4655e19f44c2e6a246ea5a4384077f490c": {
-        "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
-        "link": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 03 May 2026 13:41:00 GMT",
-        "first_seen": "2026-05-03T07:18:07.374257"
-      },
-      "6ee019e9fd5bb98d5142a23aa3eeaf4c8c444f76669fd6eeb3a3cff319ef1cfc": {
-        "title": "硅谷大厂的AI“含金量”开始分级",
-        "link": "https://www.tmtpost.com/7975709.html",
-        "published_date": "Sun, 03 May 2026 10:42:00 GMT",
-        "first_seen": "2026-05-03T07:18:07.374260"
-      },
-      "a8067cdc9230398ec1a41e2d80ca4662e855c323e7400a75494b45feb7bc45c6": {
-        "title": "AWS Interconnect 正式发布，提供托管的多云与“最后一公里”连接能力",
-        "link": "https://www.infoq.cn/article/ptBtlcjABKHxuSjlB2h4?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 03 May 2026 12:49:00 GMT",
-        "first_seen": "2026-05-03T07:18:07.374261"
-      },
       "9825797b175951f8790d7f0b208dd2d915f777c98d1823641e683a7da4d6c815": {
         "title": ".NET 11 Preview 3：JIT 再优化，HTTP/3 更快，Blazor 不一样了",
         "link": "https://www.infoq.cn/article/6Yqj2gv31xX1IaMvbIWF?utm_source=rss&utm_medium=article",
@@ -2311,39 +2281,39 @@
         "link": "https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 01 Jun 2026 11:18:00 GMT",
         "first_seen": "2026-06-02T00:12:42.522654"
+      },
+      "0e19f7d51b1d7a92b6682ee78a9c427abb305c29103384cf84d546d1c7a546ca": {
+        "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
+        "link": "https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 16:51:00 GMT",
+        "first_seen": "2026-06-02T09:05:17.385164"
+      },
+      "a8b6ea7076f7283ef77c281d1ba2350cbde199393b7e153bc0c832860e17ff66": {
+        "title": "黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了",
+        "link": "https://www.tmtpost.com/8011223.html",
+        "published_date": "Tue, 02 Jun 2026 11:43:00 GMT",
+        "first_seen": "2026-06-02T09:05:17.385172"
+      },
+      "5aedb494c4c07dbd31a09eb4eb4d4d785c7b68d12deb2aaff825aeff1849325e": {
+        "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
+        "link": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 16:57:00 GMT",
+        "first_seen": "2026-06-02T09:05:17.385174"
+      },
+      "fccb80f92dbc55a38ad8b5fe23d609a0ce6071719e9a2b0676062c2bf8a0da0e": {
+        "title": "85%的企业 AI 落地卡在数据上，为什么你还在选模型？",
+        "link": "https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 15:26:00 GMT",
+        "first_seen": "2026-06-02T09:05:17.385175"
+      },
+      "87b8a4c73e5c9fdde8e1b1c98d6632ef4809a818912749ffdf1c1977617b0113": {
+        "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
+        "link": "https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 02 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-02T09:05:17.385177"
       }
     },
     "Finance": {
-      "3299269f273e858213cbbda3c020feb8bf8f07364c87b113f68cbe214f71496b": {
-        "title": "IMF criticises EU governments for ignoring energy subsidy warnings",
-        "link": "https://www.ft.com/content/8b4cb5a2-67ab-4313-bce1-b77f542eeed5",
-        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.197362"
-      },
-      "2100a0de221ffabb4bec5e374bdf4fa0714878b3cd9e04b4bdd2d504118c2c73": {
-        "title": "Detroit carmakers warn of $5bn commodities shock due to Iran war",
-        "link": "https://www.ft.com/content/a24a24f6-064b-4f00-a339-edf597596d5a",
-        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.197374"
-      },
-      "704511fe61e12d29d9dc65eee1a2bfc606dd6cd4b3a66894ef93c1711132e23b": {
-        "title": "Investors pile into clean energy as Iran war drives push for energy security",
-        "link": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
-        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.197376"
-      },
-      "115b8ff9f7b91fd580e0b4665a52e049d6b0065dc23939bdbec551a067ec9f5a": {
-        "title": "Trump says he is reviewing Iran peace plan but would consider new strikes",
-        "link": "https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3",
-        "published_date": "Sun, 03 May 2026 01:19:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.197378"
-      },
-      "828e5db729c6c59b9bea16137605b9e2c97e3fa16fb9ff94123faa6b46cb2310": {
-        "title": "Inside the Swedish factory helping to re-arm Europe",
-        "link": "https://www.ft.com/content/626ba18f-13b7-4e1a-bd3d-895239353aa1",
-        "published_date": "Sun, 03 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.197380"
-      },
       "68d22e01fc6b5b2b63e4c9168c543058b2bf5a02fad76bb78bde00832327ab29": {
         "title": "OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.",
         "link": "https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories",
@@ -4389,27 +4359,39 @@
         "link": "https://www.ft.com/content/99dd712a-3900-46af-bd63-3f10adc6d1e4",
         "published_date": "Mon, 01 Jun 2026 23:36:00 GMT",
         "first_seen": "2026-06-02T00:13:00.416004"
+      },
+      "c0f734864753e11df7c5eaf10929761c2c038170794b3aff5fb36d87b02a85e5": {
+        "title": "Gold replaces US Treasuries as world’s top reserve asset, ECB says",
+        "link": "https://www.ft.com/content/87ef8f25-eb81-4eed-919c-fe5b49a1ac2c",
+        "published_date": "Tue, 02 Jun 2026 08:00:00 GMT",
+        "first_seen": "2026-06-02T09:05:32.315628"
+      },
+      "df6107d585055b99e414e0fb75bf5b82c4c2e0f9d63946e14cbce9356f85afcd": {
+        "title": "Japan’s newly crowned top company gets a downgrade on AI ‘mania’ concerns",
+        "link": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 08:35:00 GMT",
+        "first_seen": "2026-06-02T09:05:32.315636"
+      },
+      "33cc503d3b0d2eb41fe54b09046b6292271922200e155099827ce3d792bb5bdb": {
+        "title": "Deutsche Bank’s comeback",
+        "link": "https://www.ft.com/content/7699c69c-59c1-4a93-8ea5-ce2bda84bfec",
+        "published_date": "Tue, 02 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-02T09:05:32.315638"
+      },
+      "9e5f71a5b437afb5aa157073434882181cfc409f66093a3d1912d05f30063036": {
+        "title": "HPE’s stock soars toward record gain as earnings show a networking bonanza",
+        "link": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories",
+        "published_date": "Tue, 02 Jun 2026 00:21:00 GMT",
+        "first_seen": "2026-06-02T09:05:32.315640"
+      },
+      "cf50f77e72061007fefad056b710afc269991f625d17062b8a100e4cbf615319": {
+        "title": "Will the IT consulting share price rout ever end?",
+        "link": "https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525",
+        "published_date": "Tue, 02 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-02T09:05:32.315642"
       }
     },
     "Ai": {
-      "aaf83a6dbaa95e87fb5e56efbc771df1341de36f8f6660351366d5ef7906d9e3": {
-        "title": "2026-05-03日刊",
-        "link": "https://ai.hubtoday.app//2026-05/2026-05-03/",
-        "published_date": "Sun, 03 May 2026 10:17:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.356592"
-      },
-      "a5d55c4b38052184efe0dce7ee370bb4ea52092db3c2bf19858ac2c248347e6b": {
-        "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-        "link": "https://www.qbitai.com/2026/05/412870.html",
-        "published_date": "Sun, 03 May 2026 03:56:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.356600"
-      },
-      "e60a7f2e0a1bb3cf3649a3d1b9aefbe4082d2b5236bc22ca9bd569b51d19cd30": {
-        "title": "DeepSeek V4最大的遗憾",
-        "link": "https://www.qbitai.com/2026/05/412737.html",
-        "published_date": "Sun, 03 May 2026 03:43:00 GMT",
-        "first_seen": "2026-05-03T07:17:50.356602"
-      },
       "fd00e47de3e06d668360da453e3ddb4524be2d2f2a46b989927f5eb4c10177e0": {
         "title": "OpenAI参与，重卷ImageNet：终于把FID做成训练",
         "link": "https://www.qbitai.com/2026/05/412882.html",
@@ -5591,13 +5573,43 @@
         "link": "https://www.qbitai.com/2026/06/427530.html",
         "published_date": "Mon, 01 Jun 2026 10:34:00 GMT",
         "first_seen": "2026-06-02T00:12:14.775965"
+      },
+      "ffeb2bbd608a3a5a64001cae37f0e1efaded363f707dc9616191c9877d391f28": {
+        "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+        "link": "https://www.qbitai.com/2026/06/427729.html",
+        "published_date": "Tue, 02 Jun 2026 03:57:00 GMT",
+        "first_seen": "2026-06-02T09:04:53.104832"
+      },
+      "eaacdab0ace7e55ae8262f00de88e99f886de5b76f5b2ec0ee32b92f7e947f67": {
+        "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+        "link": "https://www.qbitai.com/2026/06/427541.html",
+        "published_date": "Tue, 02 Jun 2026 00:33:00 GMT",
+        "first_seen": "2026-06-02T09:04:53.104842"
+      },
+      "536dcfd067b7da536aa53b1abda4468c976481a3ccf4c5a447578487e756a3a1": {
+        "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
+        "link": "https://www.qbitai.com/2026/06/427472.html",
+        "published_date": "Tue, 02 Jun 2026 01:33:00 GMT",
+        "first_seen": "2026-06-02T09:04:53.104845"
+      },
+      "885b28ebadfe7548ebe1d7aa3adbe83ba330eb04590d7207d2da019f6e5da227": {
+        "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+        "link": "https://www.qbitai.com/2026/06/427730.html",
+        "published_date": "Tue, 02 Jun 2026 03:15:00 GMT",
+        "first_seen": "2026-06-02T09:04:53.104848"
+      },
+      "7131437121a95d7aac1c983a4b31cd8bd19588d6efd4f69b360e291809f379f3": {
+        "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+        "link": "https://www.qbitai.com/2026/06/427754.html",
+        "published_date": "Tue, 02 Jun 2026 07:47:00 GMT",
+        "first_seen": "2026-06-02T09:04:53.104849"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-02T00:12:42.522656",
-    "Finance": "2026-06-02T00:13:00.416006",
-    "Ai": "2026-06-02T00:12:14.775974"
+    "Technology": "2026-06-02T09:05:17.385180",
+    "Finance": "2026-06-02T09:05:32.315643",
+    "Ai": "2026-06-02T09:04:53.104852"
   }
 }
