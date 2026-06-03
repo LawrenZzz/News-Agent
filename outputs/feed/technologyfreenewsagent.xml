@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 03 Jun 2026 00:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 00:27:58 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 09:25:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 09:25:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy</title>
-      <link>https://www.tmtpost.com/8011677.html</link>
-      <description>&lt;![CDATA[The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011677.html</guid>
+      <title>机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则</title>
+      <link>https://www.tmtpost.com/8013279.html</link>
+      <description>&lt;![CDATA[机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 15:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013279.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板</title>
-      <link>https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 18:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出</title>
+      <link>https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶</title>
-      <link>https://www.tmtpost.com/8011822.html</link>
-      <description>&lt;![CDATA[拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 08:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011822.html</guid>
+      <title>一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜</title>
+      <link>https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 10:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据</title>
-      <link>https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 11:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent之战，微软把家底都押上了</title>
+      <link>https://www.tmtpost.com/8013517.html</link>
+      <description>&lt;![CDATA[Agent之战，微软把家底都押上了]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013517.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10万亿！中国正成为AI基建狂魔</title>
-      <link>https://www.tmtpost.com/8011257.html</link>
-      <description>&lt;![CDATA[10万亿！中国正成为AI基建狂魔]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011257.html</guid>
+      <title>AI 的目标在于可追责，欧盟法规则致力于保障透明度</title>
+      <link>https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 的目标在于可追责，欧盟法规则致力于保障透明度]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
