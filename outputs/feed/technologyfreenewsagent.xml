@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Jun 2026 09:04:00 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2026 09:05:17 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 00:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:27:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相</title>
-      <link>https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 16:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy</title>
+      <link>https://www.tmtpost.com/8011677.html</link>
+      <description>&lt;![CDATA[The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 17:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8011677.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了</title>
-      <link>https://www.tmtpost.com/8011223.html</link>
-      <description>&lt;![CDATA[黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8011223.html</guid>
+      <title>英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板</title>
+      <link>https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产</title>
-      <link>https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 16:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶</title>
+      <link>https://www.tmtpost.com/8011822.html</link>
+      <description>&lt;![CDATA[拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 08:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8011822.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>85%的企业 AI 落地卡在数据上，为什么你还在选模型？</title>
-      <link>https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[85%的企业 AI 落地卡在数据上，为什么你还在选模型？]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 15:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据</title>
+      <link>https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake Summit 2026 现场：AI 的胜负手，正在从模型转向数据]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 11:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vx6tJOKdlyRYSBNx9HwH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览</title>
-      <link>https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览]]&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&amp;utm_medium=article</guid>
+      <title>10万亿！中国正成为AI基建狂魔</title>
+      <link>https://www.tmtpost.com/8011257.html</link>
+      <description>&lt;![CDATA[10万亿！中国正成为AI基建狂魔]]&gt;</description>
+      <pubDate>Tue, 02 Jun 2026 17:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8011257.html</guid>
       <category>Technology</category>
     </item>
   </channel>
