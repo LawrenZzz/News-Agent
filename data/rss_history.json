@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5681b2165c660f40e531c41486163a45871b9e4c0478a2c96c9e67d56704a05e": {
-        "title": "全国首个大规模算电协同项目并网，绿电直连终结“算力贵、绿电弃”双重困局",
-        "link": "https://www.tmtpost.com/7976159.html",
-        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
-        "first_seen": "2026-05-04T10:12:47.995970"
-      },
-      "0998be91b76c9f8bb7a4c76354cb2bdfb0eb89fa39b31e4281a4b6f1bdccceea": {
-        "title": "狂飙与逆风：合成生物学龙头冲刺港股",
-        "link": "https://www.tmtpost.com/7976074.html",
-        "published_date": "Mon, 04 May 2026 16:04:00 GMT",
-        "first_seen": "2026-05-04T10:12:47.995977"
-      },
-      "b6ba342ca96b1d4174b70dd7f8f2fd2fdb34a83781e823040d943072dbef64de": {
-        "title": "AI理科碾压人类状元，却被这道“文科题”戳中了死穴...",
-        "link": "https://www.tmtpost.com/7976039.html",
-        "published_date": "Mon, 04 May 2026 08:10:00 GMT",
-        "first_seen": "2026-05-04T10:12:47.995979"
-      },
-      "91c854113b0f6028448393a15bc8a77a0852aa13ce99fd5d94daf04de457574f": {
-        "title": "擎天租30亿，租机器人的值两成",
-        "link": "https://www.tmtpost.com/7975979.html",
-        "published_date": "Mon, 04 May 2026 16:16:00 GMT",
-        "first_seen": "2026-05-04T10:12:47.995981"
-      },
-      "a8fc9dd40d7ccd064f231412967de8ac1848e4dc1d56c9da451662099875158f": {
-        "title": "Rivian: 阵痛前行，R2 能否带领 Rivian “逆风翻盘” ？",
-        "link": "https://www.tmtpost.com/7976129.html",
-        "published_date": "Mon, 04 May 2026 16:03:00 GMT",
-        "first_seen": "2026-05-04T10:12:47.995982"
-      },
-      "078bd3a5f0aad7c5bd57ec33f7fb65ec547b4f6d141337226294c7e970870341": {
-        "title": "算力走强，茅台走弱：硅基通胀，碳基通缩｜财经峰评",
-        "link": "https://www.tmtpost.com/7976208.html",
-        "published_date": "Mon, 04 May 2026 15:33:00 GMT",
-        "first_seen": "2026-05-04T23:54:04.094985"
-      },
-      "046480099e437f93dff0278d5a573553c066b46e071c6a5eedfd6273fad903a2": {
-        "title": "存储、代工、设备龙头，集体杀入混合键合",
-        "link": "https://www.tmtpost.com/7955372.html",
-        "published_date": "Mon, 04 May 2026 19:44:00 GMT",
-        "first_seen": "2026-05-04T23:54:04.094992"
-      },
-      "b716b9f2a6a222ddc35c06e656286a9b108bf8c1c0b7d41eaa2953727b1b2724": {
-        "title": "豆包将在免费模式外新增付费订阅，主打生产力场景",
-        "link": "https://www.tmtpost.com/7976143.html",
-        "published_date": "Mon, 04 May 2026 11:39:00 GMT",
-        "first_seen": "2026-05-04T23:54:04.094994"
-      },
-      "488d45826ddbf30c03cf36c6d80fdc2cbd93d548e07eee7128fba4188326030a": {
-        "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
-        "link": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 04 May 2026 12:12:00 GMT",
-        "first_seen": "2026-05-04T23:54:04.094996"
-      },
-      "b3565aa601ed7491efd32bf971f99737e2916b64bdd785b09a839a16bbbb0b8a": {
-        "title": "黄仁勋：有些CEO总喜欢装上帝，阿莫迪：你直接报我身份证得了",
-        "link": "https://www.tmtpost.com/7976168.html",
-        "published_date": "Mon, 04 May 2026 16:03:00 GMT",
-        "first_seen": "2026-05-04T23:54:04.094998"
-      },
       "946a5b1d8fa945bf0b3953ad8d496c6d1ba05fe1ba3353cd05730db4028bd707": {
         "title": "NVIDIA 入局量子基础设施：Ising 模型主打自动校准与实时纠错",
         "link": "https://www.infoq.cn/article/CKcQwKGvZb9oHMzbwteP?utm_source=rss&utm_medium=article",
@@ -2281,69 +2221,39 @@
         "link": "https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 03 Jun 2026 11:00:00 GMT",
         "first_seen": "2026-06-03T09:25:59.028950"
+      },
+      "4444d80082c097360c5575122da3591f25a8bdf9aee079992db8a39bc6fd7931": {
+        "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+        "link": "https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 03 Jun 2026 17:33:00 GMT",
+        "first_seen": "2026-06-04T00:30:58.368016"
+      },
+      "7e96bb71c7046665ba328d385c6b240f5d1ed395ab21894776f6f27c31701337": {
+        "title": "具身智能穿越产业深水区：从炫技到交付，从通用到“专精”",
+        "link": "https://www.tmtpost.com/8013294.html",
+        "published_date": "Wed, 03 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-04T00:30:58.368026"
+      },
+      "dc1fa79f42ee29627ae32fd320639c3c569da58ea9533f06ada971ebf0cf6c9f": {
+        "title": "Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业",
+        "link": "https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 03 Jun 2026 12:02:00 GMT",
+        "first_seen": "2026-06-04T00:30:58.368028"
+      },
+      "0f5b4e5ee8f24607bf5895b1611fd4caf68a4fe84022957abbb8b3e2296f6b2e": {
+        "title": "AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？",
+        "link": "https://www.tmtpost.com/8012894.html",
+        "published_date": "Wed, 03 Jun 2026 17:00:00 GMT",
+        "first_seen": "2026-06-04T00:30:58.368030"
+      },
+      "7e72bd0b099d2448829c4a96a2cdd7911b7396ad60593fe9de95478e09559894": {
+        "title": "这么快，巨头就烧不起token了？",
+        "link": "https://www.tmtpost.com/8013498.html",
+        "published_date": "Wed, 03 Jun 2026 16:41:00 GMT",
+        "first_seen": "2026-06-04T00:30:58.368031"
       }
     },
     "Finance": {
-      "298a2c952b744bc8f1aed14a5252fb08072632023e13a127bfe44c907d348f13": {
-        "title": "GameStop makes unsolicited $56bn offer for eBay",
-        "link": "https://www.ft.com/content/31bfd02e-a02e-45fd-ad46-51544b1a3a8a",
-        "published_date": "Mon, 04 May 2026 07:53:00 GMT",
-        "first_seen": "2026-05-04T10:12:27.181373"
-      },
-      "ccc95c149583c9d927ccf0196966472e4a2ff368c743f6ea3f2f52c678a049c7": {
-        "title": "Berkshire Hathaway is now sitting on a record $397 billion in cash. And it’s not the only firm reluctant to invest in the stock market.",
-        "link": "https://www.marketwatch.com/story/berkshire-hathaway-is-now-sitting-on-a-record-397-billion-in-cash-and-its-not-the-only-firm-reluctant-to-invest-in-the-stock-market-1a9e459a?mod=mw_rss_topstories",
-        "published_date": "Mon, 04 May 2026 09:16:00 GMT",
-        "first_seen": "2026-05-04T10:12:27.181383"
-      },
-      "51455d88e21bd9ddc86e97e1dcfd598fbf98f751d26f33ffae8f62a6579519d7": {
-        "title": "The California wealth tax has a loophole—here’s how much billionaires could save",
-        "link": "https://www.marketwatch.com/story/the-california-wealth-tax-has-a-loopholeheres-how-much-billionaires-could-save-bf7628ab?mod=mw_rss_topstories",
-        "published_date": "Mon, 04 May 2026 09:05:00 GMT",
-        "first_seen": "2026-05-04T10:12:27.181386"
-      },
-      "acfbe44969fc4fa08146581a91a4c1be56e4f130a158371e71ee3abfa6aea531": {
-        "title": "Iran warns US Navy against entering Strait of Hormuz",
-        "link": "https://www.ft.com/content/483a0aa0-f1c8-4960-be68-c6ea3e9ea3d5",
-        "published_date": "Mon, 04 May 2026 08:19:00 GMT",
-        "first_seen": "2026-05-04T10:12:27.181388"
-      },
-      "825551b815e6d3d66e0131ac824f89cd5ef71ca4828b2feecce2b9a3b4faac2b": {
-        "title": "Singapore and New Zealand strike ‘world first’ supply-chain pact",
-        "link": "https://www.ft.com/content/d9e48c9c-4c6f-4ac9-8fe1-a50272697d3e",
-        "published_date": "Mon, 04 May 2026 08:54:00 GMT",
-        "first_seen": "2026-05-04T10:12:27.181389"
-      },
-      "bc17bdb59a5c3e5122aaeef6faf8f72c1a82b8e800397caf0bc66a04e6d7116b": {
-        "title": "OpenAI president defends his motives over for-profit coversion and $30bn stake",
-        "link": "https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce",
-        "published_date": "Mon, 04 May 2026 21:17:00 GMT",
-        "first_seen": "2026-05-04T23:53:50.278065"
-      },
-      "778d703707aab47ea4ba5de2afb8e261677751725304ccbf3732f65551c826a0": {
-        "title": "US and Iran exchange fire as Hormuz crisis reignites",
-        "link": "https://www.ft.com/content/7b035a5b-fa45-471d-a296-7642e1758b10",
-        "published_date": "Mon, 04 May 2026 18:36:00 GMT",
-        "first_seen": "2026-05-04T23:53:50.278078"
-      },
-      "1b8741ca758af20e27c5ea239464f531b676efd1e41690e0672c725c2fa116e1": {
-        "title": "Here’s what the growing gap between Americans with good and bad credit says about the economy",
-        "link": "https://www.marketwatch.com/story/heres-what-the-growing-gap-between-americans-with-good-and-bad-credit-says-about-the-economy-3fa60ff7?mod=mw_rss_topstories",
-        "published_date": "Mon, 04 May 2026 21:53:00 GMT",
-        "first_seen": "2026-05-04T23:53:50.278081"
-      },
-      "3be9a6c0f13b9d7f440f7e8a489d0121230e80aadd56ebb0c4b90603de54bf2f": {
-        "title": "Amazon is taking on FedEx and UPS. That may not be so simple.",
-        "link": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories",
-        "published_date": "Mon, 04 May 2026 23:05:00 GMT",
-        "first_seen": "2026-05-04T23:53:50.278083"
-      },
-      "48927f0774fc4dbd814f1a67df78c8310c19217962964d3000cca41536b0ce5f": {
-        "title": "Peter Thiel backs $1bn ocean data centre start-up powered by waves",
-        "link": "https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39",
-        "published_date": "Mon, 04 May 2026 15:00:00 GMT",
-        "first_seen": "2026-05-04T23:53:50.278085"
-      },
       "a173e728aaf4659040632f7b87c3b4e297b44c0c9ac8b754fa6d2f2195c562f0": {
         "title": "HSBC profits hit by fraud-related case and Middle East war",
         "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
@@ -4359,6 +4269,36 @@
         "link": "https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-has-doubled-this-year-now-goldman-sachs-sees-another-40-gain-from-here-bb6c49c7?mod=mw_rss_topstories",
         "published_date": "Wed, 03 Jun 2026 09:14:00 GMT",
         "first_seen": "2026-06-03T09:26:17.188382"
+      },
+      "53be7471d3fda7fe47eec8a310f0577160021586423e1797dbc1f89a1ae0a961": {
+        "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
+        "link": "https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8",
+        "published_date": "Wed, 03 Jun 2026 22:54:00 GMT",
+        "first_seen": "2026-06-04T00:31:18.611274"
+      },
+      "4e53f8b3e10ac84f7e15f22e09303d4ee95080a9189c8cf76cfb040408b7d628": {
+        "title": "Broadcom loses more than $300bn in market value as revenue forecast disappoints",
+        "link": "https://www.ft.com/content/c8d506d3-7e81-49be-bb72-24ae289b9240",
+        "published_date": "Thu, 04 Jun 2026 00:13:00 GMT",
+        "first_seen": "2026-06-04T00:31:18.611285"
+      },
+      "4fb24b97bd51adf2324e40d0974b4afc946aef73bcf226568cf0c8b66eb4be0d": {
+        "title": "How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&P 500",
+        "link": "https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories",
+        "published_date": "Wed, 03 Jun 2026 22:26:00 GMT",
+        "first_seen": "2026-06-04T00:31:18.611287"
+      },
+      "fece7b240ee2c480f78984ca72968c4022e86fccdf064382731d99eaad23306f": {
+        "title": "‘Squeezing more life out of every dollar’: How inflation is forcing a new reality on American families and amplifying the economy’s ‘K shape’",
+        "link": "https://www.marketwatch.com/story/squeezing-more-life-out-of-every-dollar-how-inflation-is-forcing-a-new-reality-on-american-families-and-amplifying-the-economys-k-shape-c3ba42de?mod=mw_rss_topstories",
+        "published_date": "Wed, 03 Jun 2026 21:03:00 GMT",
+        "first_seen": "2026-06-04T00:31:18.611289"
+      },
+      "a2e5aba64efd97bd4accc51250d918bb814be6bc3bce4625aa633345ca36400d": {
+        "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
+        "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
+        "published_date": "Wed, 03 Jun 2026 22:14:00 GMT",
+        "first_seen": "2026-06-04T00:31:18.611292"
       }
     },
     "Ai": {
@@ -5591,13 +5531,31 @@
         "link": "https://www.qbitai.com/2026/06/428335.html",
         "published_date": "Wed, 03 Jun 2026 01:29:00 GMT",
         "first_seen": "2026-06-03T09:25:37.413897"
+      },
+      "43fbbca28ec5eca24cd1dc3fb8504fee8d8cc63cb1960b39ab507ef07ad5abb7": {
+        "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+        "link": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+        "published_date": "Wed, 03 Jun 2026 18:37:00 GMT",
+        "first_seen": "2026-06-04T00:30:36.288338"
+      },
+      "6c98fdc2ab6a47b6424661225e631f3cf640ead0eca29649800672cd6f5d43c4": {
+        "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
+        "link": "https://www.qbitai.com/2026/06/428703.html",
+        "published_date": "Wed, 03 Jun 2026 12:28:00 GMT",
+        "first_seen": "2026-06-04T00:30:36.288352"
+      },
+      "102d6b6ff2183d47d96ca528e59b025f8841bf691b5e33bc1cef95ea94e4abf1": {
+        "title": "世界模型榜首易主！跨维智能登顶WorldArena",
+        "link": "https://www.qbitai.com/2026/06/428435.html",
+        "published_date": "Wed, 03 Jun 2026 09:54:00 GMT",
+        "first_seen": "2026-06-04T00:30:36.288354"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-03T09:25:59.028954",
-    "Finance": "2026-06-03T09:26:17.188384",
-    "Ai": "2026-06-03T09:25:37.413900"
+    "Technology": "2026-06-04T00:30:58.368035",
+    "Finance": "2026-06-04T00:31:18.611295",
+    "Ai": "2026-06-04T00:30:36.288357"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 03 Jun 2026 09:25:00 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 09:25:59 GMT</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 00:30:00 GMT</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 00:30:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则</title>
-      <link>https://www.tmtpost.com/8013279.html</link>
-      <description>&lt;![CDATA[机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8013279.html</guid>
+      <title>Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架</title>
+      <link>https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 17:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出</title>
-      <link>https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>具身智能穿越产业深水区：从炫技到交付，从通用到“专精”</title>
+      <link>https://www.tmtpost.com/8013294.html</link>
+      <description>&lt;![CDATA[具身智能穿越产业深水区：从炫技到交付，从通用到“专精”]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013294.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜</title>
-      <link>https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业</title>
+      <link>https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent之战，微软把家底都押上了</title>
-      <link>https://www.tmtpost.com/8013517.html</link>
-      <description>&lt;![CDATA[Agent之战，微软把家底都押上了]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8013517.html</guid>
+      <title>AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？</title>
+      <link>https://www.tmtpost.com/8012894.html</link>
+      <description>&lt;![CDATA[AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8012894.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 的目标在于可追责，欧盟法规则致力于保障透明度</title>
-      <link>https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 的目标在于可追责，欧盟法规则致力于保障透明度]]&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&amp;utm_medium=article</guid>
+      <title>这么快，巨头就烧不起token了？</title>
+      <link>https://www.tmtpost.com/8013498.html</link>
+      <description>&lt;![CDATA[这么快，巨头就烧不起token了？]]&gt;</description>
+      <pubDate>Wed, 03 Jun 2026 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8013498.html</guid>
       <category>Technology</category>
     </item>
   </channel>
