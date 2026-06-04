@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "946a5b1d8fa945bf0b3953ad8d496c6d1ba05fe1ba3353cd05730db4028bd707": {
-        "title": "NVIDIA 入局量子基础设施：Ising 模型主打自动校准与实时纠错",
-        "link": "https://www.infoq.cn/article/CKcQwKGvZb9oHMzbwteP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 11:00:00 GMT",
-        "first_seen": "2026-05-05T07:16:38.900622"
-      },
-      "c66f63ad4cdaeb3189b94c3070f825ece3c59fbfcae14895d750ae70944eae64": {
-        "title": "绕过顶级EUV，晶圆一哥的底牌终于摊开",
-        "link": "https://www.tmtpost.com/7976370.html",
-        "published_date": "Tue, 05 May 2026 09:47:00 GMT",
-        "first_seen": "2026-05-05T07:16:38.900629"
-      },
-      "733ccaca5769f465942e3a7cc68714b13ea9ff9a1781930c67412638c9605909": {
-        "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
-        "link": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 13:55:00 GMT",
-        "first_seen": "2026-05-05T07:16:38.900631"
-      },
-      "b09101e46d88f317e1ebba133efec7558afcb737fb11fbb10658bf033cc3e231": {
-        "title": "Anthropic启动500亿美元IPO前融资，估值剑指9000亿美元",
-        "link": "https://www.tmtpost.com/7976557.html",
-        "published_date": "Tue, 05 May 2026 08:36:00 GMT",
-        "first_seen": "2026-05-05T07:16:38.900633"
-      },
-      "c4cf7350adddfa7da219946b3e7dc4dcf81dd4f3719e568a8d40b03c1f536465": {
-        "title": "Google发布Room 3.0：Kotlin优先、异步、多平台持久化库",
-        "link": "https://www.infoq.cn/article/WUPLJWpxbBLlWqxspDgR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 13:51:00 GMT",
-        "first_seen": "2026-05-05T07:16:38.900634"
-      },
       "0e379e037fbc152e194f54a70604497577d3f6be950b1ecbaa54d2afb7b78eb3": {
         "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
         "link": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
@@ -2251,39 +2221,39 @@
         "link": "https://www.tmtpost.com/8013498.html",
         "published_date": "Wed, 03 Jun 2026 16:41:00 GMT",
         "first_seen": "2026-06-04T00:30:58.368031"
+      },
+      "11c43db6d582ff956c7b9bd982ed2d8792beb2614418bf470ea53a6d392bc1ca": {
+        "title": "李飞飞万字长文刷屏：网红文生视频只是“画皮”，真正的万亿级风口在这｜附中英全文",
+        "link": "https://www.tmtpost.com/8014812.html",
+        "published_date": "Thu, 04 Jun 2026 15:15:00 GMT",
+        "first_seen": "2026-06-04T08:48:10.550437"
+      },
+      "57e2f6e189b0d2b18025946f067649aa6872d31db9dd70af9403f8df66221eca": {
+        "title": "宇树过会，具身智能的新手保护期结束了",
+        "link": "https://www.tmtpost.com/8014010.html",
+        "published_date": "Thu, 04 Jun 2026 16:03:00 GMT",
+        "first_seen": "2026-06-04T08:48:10.550443"
+      },
+      "5d0486a6f26d0052cc5556d1119fa5d6d544b010e45822f8add6776b2daba0cb": {
+        "title": "黄仁勋盖章Marvell：下一个万亿美元公司",
+        "link": "https://www.tmtpost.com/8013901.html",
+        "published_date": "Thu, 04 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-04T08:48:10.550445"
+      },
+      "aaed91262ac9a81082f63fe432afc90746fd21fe0c66b82264ca15ec45533896": {
+        "title": "台积电：“一定要记住COUPE”",
+        "link": "https://www.tmtpost.com/8013825.html",
+        "published_date": "Thu, 04 Jun 2026 11:48:00 GMT",
+        "first_seen": "2026-06-04T08:48:10.550446"
+      },
+      "58a4208ed65187009a011fbe59f0578a4e996524fede35bdfaaa8cb95fb6c569": {
+        "title": "【钛晨报】覆盖14个平台，市场监管总局开展网络餐饮专项抽检；Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元；比亚迪入局人形机器人",
+        "link": "https://www.tmtpost.com/8014013.html",
+        "published_date": "Thu, 04 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-04T08:48:10.550448"
       }
     },
     "Finance": {
-      "a173e728aaf4659040632f7b87c3b4e297b44c0c9ac8b754fa6d2f2195c562f0": {
-        "title": "HSBC profits hit by fraud-related case and Middle East war",
-        "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
-        "published_date": "Tue, 05 May 2026 06:43:00 GMT",
-        "first_seen": "2026-05-05T07:16:20.276682"
-      },
-      "16d074e4b71dac1150f318717645ab952ad1005474eb37a9b432b540f92e5a73": {
-        "title": "Consumers face more pain as companies threaten price rises",
-        "link": "https://www.ft.com/content/f2d0d112-6e04-4f88-878e-30cb34ce1c2a",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:16:20.276692"
-      },
-      "e17273ca716ecbe6ea9efcda41f1d434ead722d0ca605bd6bb87fb14b38c8b8b": {
-        "title": "Deutsche Bank denies training bankers to manipulate markets",
-        "link": "https://www.ft.com/content/c959dbe1-eb96-414d-adcf-5f17330a195b",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:16:20.276695"
-      },
-      "747661f5c9355e61e5161a2028999b733e88d9f5472731d2c1423e95ca765e9b": {
-        "title": "Welcome to the Great Hunkering Down",
-        "link": "https://www.ft.com/content/77ab3a01-35b3-49d5-b297-0408e1850bc0",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:16:20.276697"
-      },
-      "a5a2b3380bc29884694af1a2f840f61244402fa98cb17ce8008135b1b2ffa1f1": {
-        "title": "Arnault and LVMH go from buyer to seller as luxury’s winter drags on",
-        "link": "https://www.ft.com/content/bc50fc15-9779-4969-9f81-eb834941c625",
-        "published_date": "Tue, 05 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-05T07:16:20.276699"
-      },
       "6cd38ccf565d177504af816d895dae719bc6e3cf3eeb4ecc120e5bc99184054e": {
         "title": "Michael Jackson’s Neverland estate in the spotlight with new biopic",
         "link": "https://www.marketwatch.com/story/michael-jacksons-neverland-estate-in-the-spotlight-with-new-biopic-edef7932?mod=mw_rss_topstories",
@@ -4299,15 +4269,39 @@
         "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
         "published_date": "Wed, 03 Jun 2026 22:14:00 GMT",
         "first_seen": "2026-06-04T00:31:18.611292"
+      },
+      "fb0933e3587f1a3ac8206eedb8faa5bccd7c6ee67d9d496127f5015ccff9614c": {
+        "title": "Another redemption wave is spooking the $2 trillion private-credit market",
+        "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
+        "published_date": "Thu, 04 Jun 2026 08:14:00 GMT",
+        "first_seen": "2026-06-04T08:48:33.351862"
+      },
+      "a3501b9ea611328f92ba898c21c54f323e09e85babe0e4d10e9b5723cc4c1313": {
+        "title": "Partners Group prepares to cap withdrawals at US fund for wealthy individuals",
+        "link": "https://www.ft.com/content/33a78e0c-39ea-4a72-b188-b19f753247e7",
+        "published_date": "Thu, 04 Jun 2026 07:27:00 GMT",
+        "first_seen": "2026-06-04T08:48:33.351874"
+      },
+      "7d65571f6586134ce3b1355d8bd78b2d2ab6bca57aa74b6db38b634d13a9af9f": {
+        "title": "America’s ‘other’ economy tells a different growth story",
+        "link": "https://www.ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:48:33.351876"
+      },
+      "5b53f4b169ea9cedcc1bd267bad3e0f489dd63ba9bd59a36df3d1b1ead0c32b7": {
+        "title": "President’s pledge to unleash a ‘golden age’ of US manufacturing sputters",
+        "link": "https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f",
+        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-04T08:48:33.351878"
+      },
+      "c8e7283ee13dac886c0e0e695607b3f6f25b3612b6826e660deea9c16556f2b0": {
+        "title": "Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred",
+        "link": "https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
+        "published_date": "Thu, 04 Jun 2026 00:57:00 GMT",
+        "first_seen": "2026-06-04T08:48:33.351879"
       }
     },
     "Ai": {
-      "d24d09ab8b5228160734b5e8a408e16ed72b124a844c17ea34e24aedbc6418d6": {
-        "title": "2026-05-05日刊",
-        "link": "https://ai.hubtoday.app//2026-05/2026-05-05/",
-        "published_date": "Tue, 05 May 2026 10:13:00 GMT",
-        "first_seen": "2026-05-05T07:16:20.427855"
-      },
       "22539bd357e9695a1fcce2aee708d86f52a854ffd32d21ac25fb893932b68aaa": {
         "title": "2026-05-06日刊",
         "link": "https://ai.hubtoday.app//2026-05/2026-05-06/",
@@ -5549,13 +5543,43 @@
         "link": "https://www.qbitai.com/2026/06/428435.html",
         "published_date": "Wed, 03 Jun 2026 09:54:00 GMT",
         "first_seen": "2026-06-04T00:30:36.288354"
+      },
+      "437e5eb42550b67f1c266242196cf8388c1c1e28522be6eba13ec8f2c085eec0": {
+        "title": "刚刚，李飞飞亲自下场定义世界模型",
+        "link": "https://www.qbitai.com/2026/06/428752.html",
+        "published_date": "Thu, 04 Jun 2026 00:44:00 GMT",
+        "first_seen": "2026-06-04T08:47:48.023175"
+      },
+      "4ed348d860896ab24675f13b9b0416c16678b5c7f6924e7e2bddc51c90dfae6a": {
+        "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+        "link": "https://www.qbitai.com/2026/06/428778.html",
+        "published_date": "Thu, 04 Jun 2026 03:06:00 GMT",
+        "first_seen": "2026-06-04T08:47:48.023184"
+      },
+      "8313816fd1717242f995b9ab933963d56e4372c6e20f5cfed651b953655693d8": {
+        "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
+        "link": "https://www.qbitai.com/2026/06/428791.html",
+        "published_date": "Thu, 04 Jun 2026 03:10:00 GMT",
+        "first_seen": "2026-06-04T08:47:48.023187"
+      },
+      "74dc1b9ea710ae50d4e7dbd2c7a4cad6f9bbd5670c22d109b047a521c4db95c5": {
+        "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
+        "link": "https://www.qbitai.com/2026/06/428790.html",
+        "published_date": "Thu, 04 Jun 2026 03:43:00 GMT",
+        "first_seen": "2026-06-04T08:47:48.023188"
+      },
+      "c6b38ed67ecdbd6471758a9472fed3375fc89cef7c73cd5bdbb0c50bc58286c3": {
+        "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
+        "link": "https://www.qbitai.com/2026/06/428648.html",
+        "published_date": "Thu, 04 Jun 2026 01:37:00 GMT",
+        "first_seen": "2026-06-04T08:47:48.023190"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-04T00:30:58.368035",
-    "Finance": "2026-06-04T00:31:18.611295",
-    "Ai": "2026-06-04T00:30:36.288357"
+    "Technology": "2026-06-04T08:48:10.550451",
+    "Finance": "2026-06-04T08:48:33.351881",
+    "Ai": "2026-06-04T08:47:48.023192"
   }
 }
