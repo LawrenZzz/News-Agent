@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0e379e037fbc152e194f54a70604497577d3f6be950b1ecbaa54d2afb7b78eb3": {
-        "title": "Effect v4 Beta：重写运行时、更小的bundle与统一包系统",
-        "link": "https://www.infoq.cn/article/VP2p5R78rS1rA5Fp4M5I?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 13:49:00 GMT",
-        "first_seen": "2026-05-05T10:01:52.860059"
-      },
-      "10ace7d69c8b4182eaaedc231356e9ed7d75f21596bc1cd53ce0c6892d1f5030": {
-        "title": "从“没人懂”到“不能裁”：平台团队如何证明价值",
-        "link": "https://www.infoq.cn/article/tsptrQOxS8Z9zduSV9wb?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 05 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-05T10:01:52.860067"
-      },
-      "b58d71a6d0f29b668e78cf06dc4773621ee0434b224ac93e645938ca7f4987cb": {
-        "title": "维琪科技：同股不同价，估值暴拉，坐拥1.3亿理财仍募资2亿｜IPO观察",
-        "link": "https://www.tmtpost.com/7975811.html",
-        "published_date": "Tue, 05 May 2026 09:09:00 GMT",
-        "first_seen": "2026-05-05T10:01:52.860069"
-      },
-      "b81863a50f1a847a117f40d0bb3ae81d03f58f69ffcbec4e6a2c81c096aa2fc2": {
-        "title": "Palantir：软件末日论汹涌，最牛信仰股也松动了？",
-        "link": "https://www.tmtpost.com/7976660.html",
-        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
-        "first_seen": "2026-05-05T10:01:52.860071"
-      },
-      "07d61f76011b38d729bbfb02d692bf1fbcf382480474d10e6c6121e918a9f154": {
-        "title": "豆包开启付费订阅，国内AI商业化迎来拐点？",
-        "link": "https://www.tmtpost.com/7976659.html",
-        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
-        "first_seen": "2026-05-05T10:01:52.860073"
-      },
-      "37153bc792dfd95e18f9dc4513b62662621d6ac157697362fb051101ed2ecc84": {
-        "title": "百万上下文之后，拼什么？",
-        "link": "https://www.tmtpost.com/7976839.html",
-        "published_date": "Tue, 05 May 2026 21:10:00 GMT",
-        "first_seen": "2026-05-05T23:45:47.266244"
-      },
-      "241f8dad039527b20fa8c9c42a3d21aaae01d95d0ad787f548be5e465f1da0ea": {
-        "title": "由豆包付费想到，AI到底会长成一门什么生意",
-        "link": "https://www.tmtpost.com/7976812.html",
-        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
-        "first_seen": "2026-05-05T23:45:47.266250"
-      },
-      "de93eeba1796957bee664d1c77c54ceb86895daa325f59a3deb8afccd4ab1f89": {
-        "title": "硅谷的命门，掌握在日本老师傅手里",
-        "link": "https://www.tmtpost.com/7976527.html",
-        "published_date": "Tue, 05 May 2026 16:29:00 GMT",
-        "first_seen": "2026-05-05T23:45:47.266253"
-      },
-      "a8feba43421d9e7634aa19720c01630424d65a795a2c759d2bfefa0549204546": {
-        "title": "豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道",
-        "link": "http://www.geekpark.net/news/363702",
-        "published_date": "Wed, 06 May 2026 05:29:00 GMT",
-        "first_seen": "2026-05-05T23:45:47.266254"
-      },
-      "0d4a99730b41b43a1b78bebef0c96b78cd76705ba123ed393c461a3c3bffd99e": {
-        "title": "GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533509&idx=1&sn=63efab10344f2db0e4f2965dc9bbaeab",
-        "published_date": "Tue, 05 May 2026 12:24:00 GMT",
-        "first_seen": "2026-05-05T23:45:47.266256"
-      },
       "622d3d2bce297d2b1813661d99ab17f55cfd9798f996b8dd2bb82aa0605d75cb": {
         "title": "DeepSeek-V4发布后的行业景观",
         "link": "https://www.tmtpost.com/7977710.html",
@@ -2251,69 +2191,39 @@
         "link": "https://www.tmtpost.com/8014013.html",
         "published_date": "Thu, 04 Jun 2026 07:20:00 GMT",
         "first_seen": "2026-06-04T08:48:10.550448"
+      },
+      "3f840faf4b99720b4ebdb17b0867e2dd019fc239e293ce7ab2792036de2112aa": {
+        "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
+        "link": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 04 Jun 2026 17:33:00 GMT",
+        "first_seen": "2026-06-05T00:06:06.607281"
+      },
+      "3ae114910f3017a223f7a46e81561f46496ff2cc93c963fa95dbe0a2c068d9ae": {
+        "title": "霍尼韦尔重注押宝，史上最大量子IPO来了",
+        "link": "https://www.tmtpost.com/8014689.html",
+        "published_date": "Thu, 04 Jun 2026 19:20:00 GMT",
+        "first_seen": "2026-06-05T00:06:06.607289"
+      },
+      "5608abd6f01f05c489da10b9eb2f89f25ee6db7062b6e8cd27a380d3254b3ff5": {
+        "title": "Codex与ChatGPT合并，编程工具大洗牌开始了",
+        "link": "https://www.tmtpost.com/8014673.html",
+        "published_date": "Thu, 04 Jun 2026 19:20:00 GMT",
+        "first_seen": "2026-06-05T00:06:06.607291"
+      },
+      "e6d7e50cab0e9d3cf116494d25db5b4d01ef2afe3112072288563ffe3be43392": {
+        "title": "英伟达RTX Spark亮相：老黄重新发明PC？",
+        "link": "https://www.tmtpost.com/8014815.html",
+        "published_date": "Thu, 04 Jun 2026 19:20:00 GMT",
+        "first_seen": "2026-06-05T00:06:06.607293"
+      },
+      "824b1293b05d6f5102083176a8f9e5d4350438b66a184c3cbbbfd1f8b26b5063": {
+        "title": "腾讯算生态、宁德算电表：DeepSeek 融资暗藏双重算盘",
+        "link": "https://www.tmtpost.com/8014147.html",
+        "published_date": "Thu, 04 Jun 2026 19:20:00 GMT",
+        "first_seen": "2026-06-05T00:06:06.607294"
       }
     },
     "Finance": {
-      "6cd38ccf565d177504af816d895dae719bc6e3cf3eeb4ecc120e5bc99184054e": {
-        "title": "Michael Jackson’s Neverland estate in the spotlight with new biopic",
-        "link": "https://www.marketwatch.com/story/michael-jacksons-neverland-estate-in-the-spotlight-with-new-biopic-edef7932?mod=mw_rss_topstories",
-        "published_date": "Tue, 05 May 2026 09:05:00 GMT",
-        "first_seen": "2026-05-05T10:01:35.485704"
-      },
-      "e5d993b58f7efdd2aa21dd48ba0b3d422c92f0ed49e4e80bf1d8be2407e32427": {
-        "title": "The late Hulk Hogan’s beachfront Florida home gets $2 million price cut",
-        "link": "https://www.marketwatch.com/story/the-late-hulk-hogans-beachfront-florida-home-gets-2-million-price-cut-9a0ff189?mod=mw_rss_topstories",
-        "published_date": "Tue, 05 May 2026 09:02:00 GMT",
-        "first_seen": "2026-05-05T10:01:35.485715"
-      },
-      "53263571043bca794dc1f4c6244c0cc9890430ff778dc270c9b9ef7fbffe9acd": {
-        "title": "HSBC’s darkest scenario: stock markets down 35% and oil at $145",
-        "link": "https://www.marketwatch.com/story/hsbcs-darkest-scenario-stock-markets-down-35-and-oil-at-145-dc58c4dc?mod=mw_rss_topstories",
-        "published_date": "Tue, 05 May 2026 08:33:00 GMT",
-        "first_seen": "2026-05-05T10:01:35.485718"
-      },
-      "e909bc941634e67ad96437eedf4b4e135f327f82a19d14b550b045939fd6bb16": {
-        "title": "This is why stocks keep rallying, according to Morgan Stanley",
-        "link": "https://www.marketwatch.com/story/this-is-why-stocks-keep-rallying-according-to-morgan-stanley-6e7cc6a5?mod=mw_rss_topstories",
-        "published_date": "Tue, 05 May 2026 08:07:00 GMT",
-        "first_seen": "2026-05-05T10:01:35.485720"
-      },
-      "6c0afb60899b4ca9b6173fca3847e72fd1f6d307c88194f75966e0efbec6ab66": {
-        "title": "HSBC profits hit by $400mn ‘fraud-related’ exposure",
-        "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
-        "published_date": "Tue, 05 May 2026 08:48:00 GMT",
-        "first_seen": "2026-05-05T10:01:35.485722"
-      },
-      "41463850444d8c9e90f337f45fbef7a895aa3a2c85634cbd8605691cb9b29a37": {
-        "title": "SEC moves to scrap quarterly reporting requirement",
-        "link": "https://www.ft.com/content/3560d1e3-8271-453f-84d6-4a875b9efd98",
-        "published_date": "Tue, 05 May 2026 19:03:00 GMT",
-        "first_seen": "2026-05-05T23:45:31.431333"
-      },
-      "d83fce1f6e5b4a59adbb73e15c573e95e712225c58a385b5485650c875160221": {
-        "title": "Macron nominates former adviser to run the Bank of France",
-        "link": "https://www.ft.com/content/30987376-2fa5-46bd-98e6-fe270b1f4922",
-        "published_date": "Tue, 05 May 2026 19:11:00 GMT",
-        "first_seen": "2026-05-05T23:45:31.431341"
-      },
-      "06a98a2af30164148ab03baf4ca3925a4e9a812fbb5952ce1c9818bc97222b91": {
-        "title": "Trump says US will ‘pause’ plan to guide ships through Strait of Hormuz",
-        "link": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
-        "published_date": "Tue, 05 May 2026 23:20:00 GMT",
-        "first_seen": "2026-05-05T23:45:31.431344"
-      },
-      "4bc4d6946e49b66aa9e0e34ef3770f14ba0957932574ad1511f392401fc395e2": {
-        "title": "US stock-lending operator charged with $450mn fraud",
-        "link": "https://www.ft.com/content/8e71321f-9823-4dda-9a71-9fdc34920122",
-        "published_date": "Tue, 05 May 2026 17:00:00 GMT",
-        "first_seen": "2026-05-05T23:45:31.431346"
-      },
-      "684c92cce6afb47fbb79b8aaad7d2ac2b4e30677097b49111ab27fb7de8ceb03": {
-        "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst",
-        "link": "https://www.marketwatch.com/story/the-last-time-semiconductor-stocks-rose-this-far-this-quickly-the-dot-com-bubble-burst-d7b6666b?mod=mw_rss_topstories",
-        "published_date": "Tue, 05 May 2026 23:17:00 GMT",
-        "first_seen": "2026-05-05T23:45:31.431347"
-      },
       "974917d02ce242836e9be4902dcf6e7ca434b006adc1ef66a55c2a8e81af74bf": {
         "title": "‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec",
         "link": "https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories",
@@ -4299,6 +4209,36 @@
         "link": "https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
         "published_date": "Thu, 04 Jun 2026 00:57:00 GMT",
         "first_seen": "2026-06-04T08:48:33.351879"
+      },
+      "c3d2cbcc517e959ecac0a065e5e4a3041d3123dfe22590be15ca54d9f558d852": {
+        "title": "SpaceX IPO shows Musk’s genius is in mythmaking",
+        "link": "https://www.ft.com/content/625ae455-3b7b-454e-82f3-b22414459cc0",
+        "published_date": "Thu, 04 Jun 2026 15:40:00 GMT",
+        "first_seen": "2026-06-05T00:06:55.313072"
+      },
+      "76c953a5b50a86c9b9e5d8d9d9c14297cf3384b7327dabb03ebe688e2376cd45": {
+        "title": "Quantinuum’s buzzy IPO ends with a whimper as stock gives back early gains",
+        "link": "https://www.marketwatch.com/story/quantinuums-stock-set-to-pop-after-ipo-as-wall-street-buys-into-the-quantum-boom-8f2e83b9?mod=mw_rss_topstories",
+        "published_date": "Thu, 04 Jun 2026 21:13:00 GMT",
+        "first_seen": "2026-06-05T00:06:55.313089"
+      },
+      "b2f43aa79ffe28b992a815e1aa5c7b649960206dfa4339bdf8e0b5963af46b7c": {
+        "title": "Mountbatten-Windsor earned rent by subletting Royal Lodge properties",
+        "link": "https://www.ft.com/content/4b52f54d-9773-401b-bb1d-fc8f56cb3d5d",
+        "published_date": "Thu, 04 Jun 2026 23:01:00 GMT",
+        "first_seen": "2026-06-05T00:06:55.313091"
+      },
+      "029e43a918990aeb5ce9afb4390be0fb64924ddb0c660241ea71d21eb1739ea4": {
+        "title": "Burnham confirms he will seek to replace Starmer as UK prime minister",
+        "link": "https://www.ft.com/content/40881578-9d19-4edc-a6f5-544190ccaf59",
+        "published_date": "Thu, 04 Jun 2026 22:21:00 GMT",
+        "first_seen": "2026-06-05T00:06:55.313092"
+      },
+      "41eaaa9f17a2987787d1f53852ef23815d8adc63ef6d53d5fc4ab573febb298d": {
+        "title": "US National Security Agency using Anthropic’s Mythos for cyber attacks",
+        "link": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+        "published_date": "Thu, 04 Jun 2026 18:48:00 GMT",
+        "first_seen": "2026-06-05T00:06:55.313094"
       }
     },
     "Ai": {
@@ -5573,13 +5513,43 @@
         "link": "https://www.qbitai.com/2026/06/428648.html",
         "published_date": "Thu, 04 Jun 2026 01:37:00 GMT",
         "first_seen": "2026-06-04T08:47:48.023190"
+      },
+      "1145d45a730c5c4f9f07db740625e84b01f23ffc652a0fad51ec0d6dee774e6e": {
+        "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+        "link": "https://www.qbitai.com/2026/06/429130.html",
+        "published_date": "Thu, 04 Jun 2026 11:56:00 GMT",
+        "first_seen": "2026-06-05T00:05:11.786167"
+      },
+      "9dadf1975ef5f3feb5e6b705bb0c853cfa6cce3a5ac8eaa90c570a57bb669ecc": {
+        "title": "Towards passive heart health monitoring via smartphone camera",
+        "link": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+        "published_date": "Thu, 04 Jun 2026 19:47:00 GMT",
+        "first_seen": "2026-06-05T00:05:11.786178"
+      },
+      "2cb3c72082d7b135f6523b73e6a5bfb69ab2da533e520103e9003ff4a2525bf5": {
+        "title": "重估比亚迪，从智驾开始",
+        "link": "https://www.qbitai.com/2026/06/429192.html",
+        "published_date": "Thu, 04 Jun 2026 13:10:00 GMT",
+        "first_seen": "2026-06-05T00:05:11.786181"
+      },
+      "564784b99e35585138d1553046cd2ed3018e7354dc63ef3e3e718f73a10e385a": {
+        "title": "连GitLab都开始裁程序员了",
+        "link": "https://www.qbitai.com/2026/06/429117.html",
+        "published_date": "Thu, 04 Jun 2026 08:54:00 GMT",
+        "first_seen": "2026-06-05T00:05:11.786183"
+      },
+      "2d04849b8a92d49df291ccfe52e4adc9a73d661439ff618b6684b25624b36c0c": {
+        "title": "2026-06-04日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-04/",
+        "published_date": "Thu, 04 Jun 2026 10:38:00 GMT",
+        "first_seen": "2026-06-05T00:05:11.786185"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-04T08:48:10.550451",
-    "Finance": "2026-06-04T08:48:33.351881",
-    "Ai": "2026-06-04T08:47:48.023192"
+    "Technology": "2026-06-05T00:06:06.607296",
+    "Finance": "2026-06-05T00:06:55.313095",
+    "Ai": "2026-06-05T00:05:11.786188"
   }
 }
