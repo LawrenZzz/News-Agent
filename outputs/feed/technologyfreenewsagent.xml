@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Jun 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 08:44:15 GMT</lastBuildDate>
+    <pubDate>Sat, 06 Jun 2026 00:05:00 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Jun 2026 00:06:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统</title>
-      <link>https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？</title>
+      <link>https://www.tmtpost.com/8016357.html</link>
+      <description>&lt;![CDATA[Anthropic 高喊狼（AGI）来了，是为了人类还是IPO？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016357.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从流水线到蜂巢：AI 时代企业组织如何进化</title>
-      <link>https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从流水线到蜂巢：AI 时代企业组织如何进化]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 14:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Oaa5FuLAwC0ADOgm3DKY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>王兴：我选择AI作为我的解药</title>
+      <link>https://www.tmtpost.com/8016339.html</link>
+      <description>&lt;![CDATA[王兴：我选择AI作为我的解药]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 14:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016339.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Agent越复杂，亏损可能越稳定</title>
-      <link>https://www.tmtpost.com/8016401.html</link>
-      <description>&lt;![CDATA[AI Agent越复杂，亏损可能越稳定]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8016401.html</guid>
+      <title>WWDC26 开幕在即，今年有哪些看点值得关注？</title>
+      <link>https://sspai.com/post/110669</link>
+      <description>&lt;![CDATA[WWDC26 开幕在即，今年有哪些看点值得关注？]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110669</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Node.js 从 27 版本开始改为每年发布一个大版本</title>
-      <link>https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Node.js 从 27 版本开始改为每年发布一个大版本]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9yfZrDDTaZYOSP2idLXh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>宇树、智元的线下门店叙事：具身智能正迈进商业周期</title>
+      <link>https://www.tmtpost.com/8016837.html</link>
+      <description>&lt;![CDATA[宇树、智元的线下门店叙事：具身智能正迈进商业周期]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 17:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016837.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析</title>
-      <link>https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DuckDB Quack：基于 HTTP 的客户端/服务器协议，面向多用户分析]]&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/au8ICoBCuxOaOuyr0wWI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026智博会观察：告别参数崇拜，AI在场景里“掘金”</title>
+      <link>https://www.tmtpost.com/8016328.html</link>
+      <description>&lt;![CDATA[2026智博会观察：告别参数崇拜，AI在场景里“掘金”]]&gt;</description>
+      <pubDate>Fri, 05 Jun 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016328.html</guid>
       <category>Technology</category>
     </item>
   </channel>
