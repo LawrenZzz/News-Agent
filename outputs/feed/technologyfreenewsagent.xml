@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 06 Jun 2026 10:02:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2026 00:04:15 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2026 08:53:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2026 08:53:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型</title>
-      <link>https://www.tmtpost.com/8017665.html</link>
-      <description>&lt;![CDATA[Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017665.html</guid>
+      <title>【数智周报】消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Arm首席执行官：存储芯片供应整体仍吃紧；Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元</title>
+      <link>https://www.tmtpost.com/8017823.html</link>
+      <description>&lt;![CDATA[【数智周报】消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Arm首席执行官：存储芯片供应整体仍吃紧；Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017823.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI会梦到Anthropic吗？</title>
-      <link>https://www.tmtpost.com/8017330.html</link>
-      <description>&lt;![CDATA[OpenAI会梦到Anthropic吗？]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017330.html</guid>
+      <title>独家｜京东、腾讯联手，就AI Agent将达成合作</title>
+      <link>https://www.tmtpost.com/8018104.html</link>
+      <description>&lt;![CDATA[独家｜京东、腾讯联手，就AI Agent将达成合作]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018104.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为牵手国网辽宁干了件大事</title>
-      <link>https://www.tmtpost.com/8017504.html</link>
-      <description>&lt;![CDATA[华为牵手国网辽宁干了件大事]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017504.html</guid>
+      <title>算力利用率50%：阿里 PAI 入 ATH，算力内耗的自救</title>
+      <link>https://www.tmtpost.com/8017856.html</link>
+      <description>&lt;![CDATA[算力利用率50%：阿里 PAI 入 ATH，算力内耗的自救]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8017856.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>解禁启动，3000亿摩尔线程迎来压力测试</title>
-      <link>https://www.tmtpost.com/8017223.html</link>
-      <description>&lt;![CDATA[解禁启动，3000亿摩尔线程迎来压力测试]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017223.html</guid>
+      <title>MLCC需求暴涨，或成为“下一个存储”</title>
+      <link>https://www.tmtpost.com/8018057.html</link>
+      <description>&lt;![CDATA[MLCC需求暴涨，或成为“下一个存储”]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 13:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018057.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534341&amp;idx=1&amp;sn=6955eb57829cafee5f82c0a7b0b2d6d1</link>
-      <description>&lt;![CDATA[让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？]]&gt;</description>
-      <pubDate>Sat, 06 Jun 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534341&amp;idx=1&amp;sn=6955eb57829cafee5f82c0a7b0b2d6d1</guid>
+      <title>四十年“不可成药”魔咒终被打破：一款口服药，让“癌王”死亡风险直降60%</title>
+      <link>https://www.tmtpost.com/8016615.html</link>
+      <description>&lt;![CDATA[四十年“不可成药”魔咒终被打破：一款口服药，让“癌王”死亡风险直降60%]]&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8016615.html</guid>
       <category>Technology</category>
     </item>
   </channel>
