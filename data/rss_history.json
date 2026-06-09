@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2c57b64210e01148ff2b6e10cdc5eae2aa55086401a19dd32c5b5716b0ce6d42": {
-        "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
-        "link": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 10 May 2026 15:11:00 GMT",
-        "first_seen": "2026-05-10T07:26:42.435866"
-      },
-      "116f60334df4f5f358266c8cf39b5e4b507df85776bce8009e54065a940b3761": {
-        "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
-        "link": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 10 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-10T07:26:42.435872"
-      },
-      "257f6a323cc88cb96c6e1f0333e00744352b719a92bc08acbe9a01bd88b49b66": {
-        "title": "71.4K Star的AI交易团队：多智能体架构如何“炒”出一个华尔街",
-        "link": "https://www.tmtpost.com/7977510.html",
-        "published_date": "Sun, 10 May 2026 10:39:00 GMT",
-        "first_seen": "2026-05-10T07:26:42.435874"
-      },
-      "dc2db59e2710a9a66d0c8207fffa4ace67d83f91681713c9c36b9dac70c70748": {
-        "title": "微服务架构进化：从业务加一堆横切代码到 Sidecar 解耦",
-        "link": "https://www.infoq.cn/article/FDQX4EkaqcvBQHFm2mKU?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 10 May 2026 15:05:00 GMT",
-        "first_seen": "2026-05-10T07:26:42.435877"
-      },
-      "93158f6b72fc60d349fe7dd5709d2cd0d4ccd911474d3959d8b2c0b57fb9494e": {
-        "title": "大模型清场前夜",
-        "link": "https://www.tmtpost.com/7982488.html",
-        "published_date": "Sun, 10 May 2026 09:46:00 GMT",
-        "first_seen": "2026-05-10T07:26:42.435878"
-      },
       "36f823d274a82ce954b4dabddf0d5329e85033d33768d49eaba6806dce3a7489": {
         "title": "Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」",
         "link": "http://www.geekpark.net/news/363934",
@@ -2131,39 +2101,39 @@
         "link": "https://www.infoq.cn/article/i4XGAvp4JhLkxElYrJew?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 08 Jun 2026 13:55:00 GMT",
         "first_seen": "2026-06-09T00:04:46.047764"
+      },
+      "c07e36a15f6b42d21e8c77ae2477c0d57ea92031d44927ae9aa97a0a2859f2d6": {
+        "title": "Anthropic 被曝雇1000名人类工程师“培训”Claude Code，时薪280美元：AI 编程越进化越离不开真人兜底",
+        "link": "https://www.infoq.cn/article/qamWWo56NVvksQUYQGNF?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Jun 2026 09:33:00 GMT",
+        "first_seen": "2026-06-09T08:29:51.675196"
+      },
+      "a8ef88bed2478e38b589e52c738ea04a11609512875a82c003deb9ab23553da0": {
+        "title": "IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+        "link": "https://www.infoq.cn/article/rUdJM6SDR5t6BFhA4xi7?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 09 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-09T08:29:51.675205"
+      },
+      "0ee0db56fb4008dae754402d9c580cc7d8662843112f0ab6c182208dabd65df8": {
+        "title": "截胡高通、痛击英特尔？英伟达AI PC野心不小",
+        "link": "https://www.tmtpost.com/8020621.html",
+        "published_date": "Tue, 09 Jun 2026 15:41:00 GMT",
+        "first_seen": "2026-06-09T08:29:51.675207"
+      },
+      "72b0ddb750bd2b9e715ddf3646e788dda935e33df651114c108d014df654ea65": {
+        "title": "网络安全失衡格局下，新一代网络安全如何重构？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/8020718.html",
+        "published_date": "Tue, 09 Jun 2026 15:13:00 GMT",
+        "first_seen": "2026-06-09T08:29:51.675209"
+      },
+      "f6c6d01b78ca2566f1ec83453cd95bf71ee3fb82bbba99127e49bc50ccb7ab13": {
+        "title": "原粒半导体：Agent执行时代，像拼乐高一样造芯片",
+        "link": "https://www.tmtpost.com/8019899.html",
+        "published_date": "Tue, 09 Jun 2026 15:58:00 GMT",
+        "first_seen": "2026-06-09T08:29:51.675211"
       }
     },
     "Finance": {
-      "937c375045bcda52a5090e0d8e3dc35ce4f772e6817b21719bdaa39c2ae0331c": {
-        "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
-        "link": "https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef",
-        "published_date": "Sun, 10 May 2026 06:00:00 GMT",
-        "first_seen": "2026-05-10T07:26:19.325963"
-      },
-      "9796fc3d5c1d97dc67ad92685fc0cca1b1721bc5214e3ffe1b41159cf8e3ed4b": {
-        "title": "Saudi Aramco reports higher profits despite Iran war",
-        "link": "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83",
-        "published_date": "Sun, 10 May 2026 06:24:00 GMT",
-        "first_seen": "2026-05-10T07:26:19.325974"
-      },
-      "b9c22da232e92502d305ad56b1bd06bead3ceafd3e59353dee4f557df6d9b89a": {
-        "title": "More than half of US voters disapprove of Trump’s handling of economy — FT poll",
-        "link": "https://www.ft.com/content/d08de75e-4a62-4475-9754-7f6d186f7eeb",
-        "published_date": "Sun, 10 May 2026 04:01:00 GMT",
-        "first_seen": "2026-05-10T07:26:19.325977"
-      },
-      "3834580526b508867b98b6428c3332dae97bc579c615ab019ebc4f677c73421d": {
-        "title": "Germany in fresh push to buy Tomahawks after Trump row",
-        "link": "https://www.ft.com/content/c64f6c88-36f8-4721-a201-4cd77992fa90",
-        "published_date": "Sun, 10 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-10T07:26:19.325979"
-      },
-      "4eace2fae977fe9297437a6557400fe2a3a59bb2137cf4f82f40b601902980e7": {
-        "title": "The ‘surname ceiling’ holding back family companies",
-        "link": "https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025",
-        "published_date": "Sun, 10 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-10T07:26:19.325981"
-      },
       "ac20b435c00f9c0e9cb8d83cff94aee650e380c68c4de4f02a489c365481f2bc": {
         "title": "Tank maker KNDS pushes Berlin to decide on taking stake before IPO",
         "link": "https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793",
@@ -4053,15 +4023,39 @@
         "link": "https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories",
         "published_date": "Mon, 08 Jun 2026 21:37:00 GMT",
         "first_seen": "2026-06-09T00:05:34.591168"
+      },
+      "8c998b32ffef41067b4091c533782612fe231880e231721f98ee9509b030bd1f": {
+        "title": "SpaceX’s $1.78tn IPO asks investors to buy Musk’s moonshots",
+        "link": "https://www.ft.com/content/70fa49e3-1014-4412-890f-c7fe91497db9",
+        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-09T08:30:03.823881"
+      },
+      "44e548658bb325b7cd0bfd62dc7af22dd1effa43554cf430347263d2a24ec92e": {
+        "title": "ASML chief warns EU against directing chip supplies",
+        "link": "https://www.ft.com/content/ae7e66f1-1174-4812-b848-d6efd4f9379d",
+        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-09T08:30:03.823890"
+      },
+      "675965a5489084c632877573281e2ce1ce78170146b99b80b88afed5b92529d1": {
+        "title": "Apple unveils ‘Siri AI’ in challenge to rival chatbots",
+        "link": "https://www.ft.com/content/28205edf-baeb-4b97-a89d-e9f4838ff6ff",
+        "published_date": "Tue, 09 Jun 2026 00:32:00 GMT",
+        "first_seen": "2026-06-09T08:30:03.823892"
+      },
+      "e68a06ad86d98a312ece2a7da848bd78be1fd9134bbcefdb82b2572722ea1436": {
+        "title": "GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down",
+        "link": "https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories",
+        "published_date": "Tue, 09 Jun 2026 07:37:00 GMT",
+        "first_seen": "2026-06-09T08:30:03.823894"
+      },
+      "93aafa34688ae8e67a2507c95ec5b22195c39559cee8bbf320d1bce381138ace": {
+        "title": "‘Picks and shovels’ companies profit from data centre scramble",
+        "link": "https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59",
+        "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-09T08:30:03.823896"
       }
     },
     "Ai": {
-      "ec0d7c32649da38cb8ea5f6872df3bd5227e417758355772ca5195d049ffc03d": {
-        "title": "浙大校友用AI突破32年拉姆齐数下界",
-        "link": "https://www.qbitai.com/2026/05/415031.html",
-        "published_date": "Sun, 10 May 2026 04:01:00 GMT",
-        "first_seen": "2026-05-10T07:26:19.484862"
-      },
       "d4842a696914dca6be4e56d508578882fadcda896dad4c53e59aeaac95a668e6": {
         "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
         "link": "https://www.qbitai.com/2026/05/415048.html",
@@ -5297,13 +5291,43 @@
         "link": "https://www.qbitai.com/2026/06/432587.html",
         "published_date": "Mon, 08 Jun 2026 10:40:00 GMT",
         "first_seen": "2026-06-09T00:04:20.258543"
+      },
+      "2ab29bc5663132ebb23ab5604671ffe865e78b2e78d240a83105e1c3fb39b50b": {
+        "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+        "link": "https://www.qbitai.com/2026/06/433478.html",
+        "published_date": "Tue, 09 Jun 2026 04:17:00 GMT",
+        "first_seen": "2026-06-09T08:29:24.377712"
+      },
+      "5757bf2250bb1ec59c93174f6c068a2db8ed4209d677116afac1734deb3f175f": {
+        "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+        "link": "https://www.qbitai.com/2026/06/432735.html",
+        "published_date": "Tue, 09 Jun 2026 02:39:00 GMT",
+        "first_seen": "2026-06-09T08:29:24.377725"
+      },
+      "b57915e1073063a83b87a2f5fc4cc89c530717684ada0fd7fcdd79b4fee34fcb": {
+        "title": "国产通用大模型第一梯队，来新人了？！",
+        "link": "https://www.qbitai.com/2026/06/432747.html",
+        "published_date": "Tue, 09 Jun 2026 02:55:00 GMT",
+        "first_seen": "2026-06-09T08:29:24.377727"
+      },
+      "eb94e6bcc8c17cb4b0a7de2a2708e37e294f21839a107c9b2c68269d9af040a3": {
+        "title": "腾讯想让企业打开AI的方式只剩一个",
+        "link": "https://www.qbitai.com/2026/06/432631.html",
+        "published_date": "Tue, 09 Jun 2026 01:24:00 GMT",
+        "first_seen": "2026-06-09T08:29:24.377729"
+      },
+      "d0e4d68e000185a6b9852f9288a45ffffb499f1359254e4c74670bfbb6a58386": {
+        "title": "你天天刷的小红书，正在长出一个GitHub",
+        "link": "https://www.qbitai.com/2026/06/433066.html",
+        "published_date": "Tue, 09 Jun 2026 04:07:00 GMT",
+        "first_seen": "2026-06-09T08:29:24.377731"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-09T00:04:46.047766",
-    "Finance": "2026-06-09T00:05:34.591170",
-    "Ai": "2026-06-09T00:04:20.258553"
+    "Technology": "2026-06-09T08:29:51.675214",
+    "Finance": "2026-06-09T08:30:03.823898",
+    "Ai": "2026-06-09T08:29:24.377733"
   }
 }
