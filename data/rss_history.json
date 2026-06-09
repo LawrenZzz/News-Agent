@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "70734edf92d79da9889f58639e6d8cdf35ba5df5976e4cbc06c5e6891ec163eb": {
-        "title": "奥特曼“官宣” OpenAI 手机",
-        "link": "https://www.tmtpost.com/7982227.html",
-        "published_date": "Sat, 09 May 2026 20:02:00 GMT",
-        "first_seen": "2026-05-09T23:44:21.330186"
-      },
-      "a1e99bec486d1014abd7174bc288a409309dd358e1f074876bbee4eb02a72e11": {
-        "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
-        "link": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 09 May 2026 18:19:00 GMT",
-        "first_seen": "2026-05-09T23:44:21.330193"
-      },
-      "fc8b3998b2eb3adb44acb234f434c0a457cc81fa0a97cbc233b812703d2a8adb": {
-        "title": "三天，三家公司，超百亿美元：中国AI大模型的融资决战周",
-        "link": "https://www.tmtpost.com/7981913.html",
-        "published_date": "Sat, 09 May 2026 15:04:00 GMT",
-        "first_seen": "2026-05-09T23:44:21.330195"
-      },
-      "18cfdca169a59f855d016beb6257de5fe51f42fe102219db3f693489ce77388a": {
-        "title": "苹果和英特尔，分手六年后，又「在一起」了",
-        "link": "http://www.geekpark.net/news/363920",
-        "published_date": "Sat, 09 May 2026 15:53:00 GMT",
-        "first_seen": "2026-05-09T23:44:21.330196"
-      },
-      "618885350a44e139d29920d5cf5247048f6f5dfbe48aef9e783d4b15fbfa1635": {
-        "title": "被 AI 重新激活的「无屏手环」，成了大厂争抢的运动健康新赛道",
-        "link": "http://www.geekpark.net/news/363933",
-        "published_date": "Sat, 09 May 2026 23:44:00 GMT",
-        "first_seen": "2026-05-09T23:44:21.330198"
-      },
       "2c57b64210e01148ff2b6e10cdc5eae2aa55086401a19dd32c5b5716b0ce6d42": {
         "title": "GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控",
         "link": "https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&utm_medium=article",
@@ -2131,39 +2101,39 @@
         "link": "https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 08 Jun 2026 14:00:00 GMT",
         "first_seen": "2026-06-08T09:23:10.577325"
+      },
+      "75010797d007d329f14c70ca80e5cb563eddbf298df86b7b598273cef7c3a821": {
+        "title": "【钛晨报】金融监管总局最新部署：深入整治金融领域无序竞争；事关数据赋能AI发展，国家层面首次系统部署；阿里新设Token Foundry事业部、微信开放AI生态接入能力",
+        "link": "https://www.tmtpost.com/8019490.html",
+        "published_date": "Tue, 09 Jun 2026 07:22:00 GMT",
+        "first_seen": "2026-06-09T00:04:46.047749"
+      },
+      "3022d65c87c5bb14694b1418bf49296fe2366aab235fb601a23371265daaaca4": {
+        "title": "AI科技巨头，正在蒸馏你的行业",
+        "link": "https://www.tmtpost.com/8019121.html",
+        "published_date": "Mon, 08 Jun 2026 18:21:00 GMT",
+        "first_seen": "2026-06-09T00:04:46.047757"
+      },
+      "3d8332012e3fd7b9e386154cc4656297d7eaa433fbc4f29c2d47471f632d3bba": {
+        "title": "Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾",
+        "link": "https://sspai.com/post/110888",
+        "published_date": "Tue, 09 Jun 2026 04:47:00 GMT",
+        "first_seen": "2026-06-09T00:04:46.047760"
+      },
+      "4256aded478cbd4ca2a3fb75a932efeb1652089fa00c9d0d1ead1a511363accb": {
+        "title": "奇遇团在硅谷: 7位到50位技术领袖集结SVAI - 深度拆解 Snowflake Summit 26",
+        "link": "https://www.infoq.cn/article/RGDB7CQSi4E0rvOXzWMC?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Jun 2026 13:57:00 GMT",
+        "first_seen": "2026-06-09T00:04:46.047762"
+      },
+      "e370b5fa25d41c7ed9c251caf30704bb1d8d728892e816d62c9c1952945df51f": {
+        "title": "参加完硅谷华人 AI Meet-Up，我最大的感受不是技术",
+        "link": "https://www.infoq.cn/article/i4XGAvp4JhLkxElYrJew?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 08 Jun 2026 13:55:00 GMT",
+        "first_seen": "2026-06-09T00:04:46.047764"
       }
     },
     "Finance": {
-      "fed08c5099a7591ac2d1d228d54eb699f5da9c29c850d69806ba386970b25c7e": {
-        "title": "Get ready to work for 60 years — as living to 100 becomes the new norm",
-        "link": "https://www.marketwatch.com/story/get-ready-to-work-for-60-years-as-living-to-100-becomes-the-new-norm-c8aa64d3?mod=mw_rss_topstories",
-        "published_date": "Sat, 09 May 2026 19:09:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.064235"
-      },
-      "9e3e9634da6d4307e2ca7766cd28c9c98fb80fc5e67b722cc14a7af0de7ddf78": {
-        "title": "As mortgage rates move up to 6.37%, is now a good time to lock in your rate?",
-        "link": "https://www.marketwatch.com/story/is-now-a-good-time-to-lock-in-your-mortgage-rate-heres-what-to-know-68af7d76?mod=mw_rss_topstories",
-        "published_date": "Sat, 09 May 2026 19:11:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.064245"
-      },
-      "9c079f04d5eb8864bcfd81d96df76d10187139e1789b2e4f7adcadb808e5be3f": {
-        "title": "Drone start-up Helsing set for $18bn valuation as investors pile into defence",
-        "link": "https://www.ft.com/content/0ca32fa3-cf28-4105-b1f9-ec5bc0c9158c",
-        "published_date": "Sat, 09 May 2026 11:15:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.064247"
-      },
-      "d582002466c27b1c3398e3f9b6c4fa734d8841493c6da0fe6940e9f1fcbb9c16": {
-        "title": "Can one bad week ruin your retirement savings? How about three bad years?",
-        "link": "https://www.marketwatch.com/story/is-one-bad-week-enough-to-ruin-your-retirement-savings-how-about-3-years-fbc36486?mod=mw_rss_topstories",
-        "published_date": "Sat, 09 May 2026 19:09:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.064249"
-      },
-      "c5f5e24e159a7308c95bf89b1290558f5100d302e8926dc0c17533d628bb45fe": {
-        "title": "These are the fastest-growing jobs for new college graduates — even in this low-hire market",
-        "link": "https://www.marketwatch.com/story/these-are-the-fastest-growing-jobs-for-new-college-graduates-even-in-this-low-hire-market-974bf612?mod=mw_rss_topstories",
-        "published_date": "Sat, 09 May 2026 19:12:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.064250"
-      },
       "937c375045bcda52a5090e0d8e3dc35ce4f772e6817b21719bdaa39c2ae0331c": {
         "title": "OpenAI trial lays bare rivalries behind start-up’s $852bn rise",
         "link": "https://www.ft.com/content/c68bd831-434d-486c-86df-54d0369391ef",
@@ -4053,39 +4023,39 @@
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
         "published_date": "Mon, 08 Jun 2026 07:36:00 GMT",
         "first_seen": "2026-06-08T09:23:32.106531"
+      },
+      "01b727ff8df580b61639b4dcf458acb6eff04f51e04f4910913db45b00c295e6": {
+        "title": "OpenAI files confidentially for IPO — but there’s a catch",
+        "link": "https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Jun 2026 21:55:00 GMT",
+        "first_seen": "2026-06-09T00:05:34.591155"
+      },
+      "45f85d11b1521b7ef73f7afa7db52bcba66dfd39054d30aab4404ba2c27f0691": {
+        "title": "Elon Musk says SpaceX doesn’t need ‘magic’ to put AI data centers up in space",
+        "link": "https://www.marketwatch.com/story/elon-musk-says-spacex-doesnt-need-magic-to-put-ai-data-centers-up-in-space-30f2d564?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Jun 2026 22:59:00 GMT",
+        "first_seen": "2026-06-09T00:05:34.591162"
+      },
+      "c52b15fa57926a009dab63e3f683b901a734286b4f26c547ca45e16f35880198": {
+        "title": "My golf buddy worked as a financial adviser. Here’s how I knew his friendship was fake.",
+        "link": "https://www.marketwatch.com/story/my-golf-buddy-worked-as-a-financial-adviser-heres-how-i-really-knew-his-friendship-was-fake-9e5695d5?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Jun 2026 21:45:00 GMT",
+        "first_seen": "2026-06-09T00:05:34.591164"
+      },
+      "4e54d54f90e2619e5f3774debf55326b5e37456b834a861aed73558de08ff4e4": {
+        "title": "Your tech portfolio could be on the wrong side of the AI boom",
+        "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Jun 2026 21:44:00 GMT",
+        "first_seen": "2026-06-09T00:05:34.591166"
+      },
+      "68683f6aacc140ca964bd0e8000f0ca993a1a61f074609ca2bfa4949afa2b82e": {
+        "title": "An inflation storm is brewing in the Pacific Ocean — and your portfolio isn’t ready",
+        "link": "https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories",
+        "published_date": "Mon, 08 Jun 2026 21:37:00 GMT",
+        "first_seen": "2026-06-09T00:05:34.591168"
       }
     },
     "Ai": {
-      "f846a1ba3db200039acc9e72043b5390849dc6d5cd2949f5a8778bdc6b2b9e1e": {
-        "title": "太初元碁携龙虾一体机亮相北京科博会",
-        "link": "https://www.qbitai.com/2026/05/415027.html",
-        "published_date": "Sat, 09 May 2026 12:21:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.216651"
-      },
-      "2b38a017632cc24af3c901f6b03b1551065556a4482a2f42033773bf654fd2a8": {
-        "title": "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一",
-        "link": "https://www.qbitai.com/2026/05/415023.html",
-        "published_date": "Sat, 09 May 2026 10:29:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.216658"
-      },
-      "bdb46f0f4570994ea9b837aa603ae8d91c36c693052bbe200243625c3b15de9e": {
-        "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-        "link": "https://www.qbitai.com/2026/05/415019.html",
-        "published_date": "Sat, 09 May 2026 09:53:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.216660"
-      },
-      "d8d5035d8482963c376243b47a1c35656e0ecfb600614cb4c07568232b269707": {
-        "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
-        "link": "https://www.qbitai.com/2026/05/414826.html",
-        "published_date": "Sat, 09 May 2026 09:37:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.216662"
-      },
-      "7742da4a2e4bbd19561b229e83c7d7db1ebcafc2122b2170c7dca4ab00cbb9ae": {
-        "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-        "link": "https://www.qbitai.com/2026/05/415010.html",
-        "published_date": "Sat, 09 May 2026 09:22:00 GMT",
-        "first_seen": "2026-05-09T23:44:01.216663"
-      },
       "ec0d7c32649da38cb8ea5f6872df3bd5227e417758355772ca5195d049ffc03d": {
         "title": "浙大校友用AI突破32年拉姆齐数下界",
         "link": "https://www.qbitai.com/2026/05/415031.html",
@@ -5321,13 +5291,19 @@
         "link": "https://www.qbitai.com/2026/06/432055.html",
         "published_date": "Mon, 08 Jun 2026 03:17:00 GMT",
         "first_seen": "2026-06-08T09:22:46.730757"
+      },
+      "8d3c740a06ae7ec88e19630adfdbb1e0f1ad14e2aabd58a769557a4e842bc51c": {
+        "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+        "link": "https://www.qbitai.com/2026/06/432587.html",
+        "published_date": "Mon, 08 Jun 2026 10:40:00 GMT",
+        "first_seen": "2026-06-09T00:04:20.258543"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-08T09:23:10.577328",
-    "Finance": "2026-06-08T09:23:32.106533",
-    "Ai": "2026-06-08T09:22:46.730759"
+    "Technology": "2026-06-09T00:04:46.047766",
+    "Finance": "2026-06-09T00:05:34.591170",
+    "Ai": "2026-06-09T00:04:20.258553"
   }
 }
