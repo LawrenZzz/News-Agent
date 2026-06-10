@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "36f823d274a82ce954b4dabddf0d5329e85033d33768d49eaba6806dce3a7489": {
-        "title": "Altman 或官宣 OpenAI 硬件；李想谈 L9 4 年才换代：汽车非手机，AI 帮助有限；多家车企否认「被约谈」",
-        "link": "http://www.geekpark.net/news/363934",
-        "published_date": "Sun, 10 May 2026 08:24:00 GMT",
-        "first_seen": "2026-05-10T09:28:33.380859"
-      },
-      "cbfacd5dafedafcf0646180c464f258369684c123ad7f5410d05b610679ace4b": {
-        "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
-        "link": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 10 May 2026 15:07:00 GMT",
-        "first_seen": "2026-05-10T09:28:33.380865"
-      },
-      "500c376077a4747cc329b23a9ae47471af96d3d8471f3d85ccc242b4400343e8": {
-        "title": "固德威、阳光电源、国轩高科等 20 余家企业密集涌入， 四部门新规把算力中心变成新战场",
-        "link": "https://www.tmtpost.com/7982604.html",
-        "published_date": "Sun, 10 May 2026 10:14:00 GMT",
-        "first_seen": "2026-05-10T09:28:33.380867"
-      },
-      "a9af25b163f6fe608a4ba28ed0835ca4bcc42a1dc54c7b1e834752602b3aff91": {
-        "title": "甩掉1000亿包袱后，新紫光“想赢”还要回答几个问题",
-        "link": "https://www.tmtpost.com/7982124.html",
-        "published_date": "Sun, 10 May 2026 11:10:00 GMT",
-        "first_seen": "2026-05-10T09:28:33.380868"
-      },
-      "bec9af00e07eec4ef421ec13f0d1c2de73a30ebef5df17ff818f3e43d35adc5f": {
-        "title": "买即梦送豆包？拆解字节AI收费的密码",
-        "link": "https://www.tmtpost.com/7982392.html",
-        "published_date": "Sun, 10 May 2026 09:28:00 GMT",
-        "first_seen": "2026-05-10T09:28:33.380870"
-      },
-      "4fcc8650c38983cf4bdc81b60f00dfb69fc62eed777a81c7fbdb648cbe3afdf6": {
-        "title": "暴涨358%，存储芯片背后的“隐形血液”，快藏不住了",
-        "link": "https://www.tmtpost.com/7982344.html",
-        "published_date": "Sun, 10 May 2026 19:14:00 GMT",
-        "first_seen": "2026-05-10T23:50:32.544876"
-      },
-      "4b38ed8ce639c64197855b1b6c5e6ab9d3763fcbd1c9ba56b63f75097b7f3d95": {
-        "title": "【钛晨报】事关综合交通运输体系、化债等，国常会最新部署；DeepSeek和阿里谈崩了？市场人士：双方应该没有进行谈判；英伟达全面布局AI生态，股权投资今年已超400亿美元",
-        "link": "https://www.tmtpost.com/7982888.html",
-        "published_date": "Mon, 11 May 2026 07:20:00 GMT",
-        "first_seen": "2026-05-10T23:50:32.544884"
-      },
-      "4ad171077749ce88b0fb66bb6277d832a7639901703759b350ea5ecc6468a1cf": {
-        "title": "Kimi与DeepSeek到底谁更值钱？",
-        "link": "https://www.tmtpost.com/7982381.html",
-        "published_date": "Sun, 10 May 2026 19:16:00 GMT",
-        "first_seen": "2026-05-10T23:50:32.544886"
-      },
-      "1bba261f4417516ab2f63eaffb53cdf496848c55a56af3dc80ca086283b141b9": {
-        "title": "以利润腰斩的代价打仗，影石没有退路",
-        "link": "https://www.tmtpost.com/7982353.html",
-        "published_date": "Sun, 10 May 2026 19:14:00 GMT",
-        "first_seen": "2026-05-10T23:50:32.544888"
-      },
-      "5470ab29927061215e198440ead922aad04f9d283be0fab646491934a2f7347e": {
-        "title": "3年亏31亿、负债率达165%，清华教授创立固态电池“独角兽”冲刺IPO",
-        "link": "https://www.tmtpost.com/7982748.html",
-        "published_date": "Sun, 10 May 2026 19:14:00 GMT",
-        "first_seen": "2026-05-10T23:50:32.544889"
-      },
       "97b8f13b98e1377cc6617da04e4e7d0a464812b19164b0ce79f351cf77781167": {
         "title": "派早报：苹果与英特尔就芯片代工达成初步协议",
         "link": "https://sspai.com/post/109610",
@@ -2131,45 +2071,39 @@
         "link": "https://www.tmtpost.com/8019899.html",
         "published_date": "Tue, 09 Jun 2026 15:58:00 GMT",
         "first_seen": "2026-06-09T08:29:51.675211"
+      },
+      "c4bdf2eed51675063a534fa878c073be56209697a3a9d242a35ca2a9233b9edd": {
+        "title": "半年估值暴涨近7倍，月之暗面再启20亿美元融资",
+        "link": "https://www.tmtpost.com/8021100.html",
+        "published_date": "Tue, 09 Jun 2026 18:00:00 GMT",
+        "first_seen": "2026-06-10T00:12:01.244408"
+      },
+      "5d9cbeff6462cb921c140795a86d64e69eebf5e870447aaa348ede997f4166aa": {
+        "title": "七天加满“AI朋友圈”，微信智能体还需迈过三道坎",
+        "link": "https://www.tmtpost.com/8020815.html",
+        "published_date": "Tue, 09 Jun 2026 16:13:00 GMT",
+        "first_seen": "2026-06-10T00:12:01.244414"
+      },
+      "e7fb7a41f564875198591cdb88061cab3a5d844c13df6935685ad4361da135d4": {
+        "title": "大模型重燃大厂“医疗梦”",
+        "link": "https://www.tmtpost.com/8020730.html",
+        "published_date": "Tue, 09 Jun 2026 15:59:00 GMT",
+        "first_seen": "2026-06-10T00:12:01.244417"
+      },
+      "9454816f7322a5233bb8c7942f3ffd6b109c2b4847621fa11a404f7d7f17751e": {
+        "title": "清华AIR聂再清：“药研管线+AI大模型”，水木分子用双轮打造超级药研助手｜AI Founder 请回答",
+        "link": "https://www.tmtpost.com/8019874.html",
+        "published_date": "Tue, 09 Jun 2026 15:15:00 GMT",
+        "first_seen": "2026-06-10T00:12:01.244418"
+      },
+      "f2467db9de010347e3dcd358b62ed71160672529d0c47631ba507630f4f8118b": {
+        "title": "补贴退潮、格局重构：新能源重卡“规模化”闯关",
+        "link": "https://www.tmtpost.com/8020265.html",
+        "published_date": "Tue, 09 Jun 2026 18:12:00 GMT",
+        "first_seen": "2026-06-10T00:12:01.244421"
       }
     },
     "Finance": {
-      "ac20b435c00f9c0e9cb8d83cff94aee650e380c68c4de4f02a489c365481f2bc": {
-        "title": "Tank maker KNDS pushes Berlin to decide on taking stake before IPO",
-        "link": "https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793",
-        "published_date": "Sun, 10 May 2026 09:07:00 GMT",
-        "first_seen": "2026-05-10T09:28:13.710339"
-      },
-      "7304990eebd91925619a8ef4dbb9cf246c61e8744c75e91c774c4444e7aafbd7": {
-        "title": "Iran war could prompt Federal Reserve to raise rates, Pimco says",
-        "link": "https://www.ft.com/content/ba919246-ff50-4b8d-931c-43ee8d37795d",
-        "published_date": "Sun, 10 May 2026 13:00:00 GMT",
-        "first_seen": "2026-05-10T23:49:55.905930"
-      },
-      "f726d0bd990aad4e9d73bd1508fa846ac2c6bb33f8e47dba50c9c01776859525": {
-        "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
-        "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
-        "published_date": "Sun, 10 May 2026 22:00:00 GMT",
-        "first_seen": "2026-05-10T23:49:55.905938"
-      },
-      "de0b33ee0ebbf883a959547a5003458e3b6712712b04dbd8243fea760b1215b0": {
-        "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
-        "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
-        "published_date": "Sun, 10 May 2026 20:20:00 GMT",
-        "first_seen": "2026-05-10T23:49:55.905940"
-      },
-      "973dba3fb416a8f84f5b7cc84929b93b509bcaea35aefaddd7baa6dc481438d3": {
-        "title": "Big Tech’s AI spending is depriving investors of juicy payouts",
-        "link": "https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories",
-        "published_date": "Sun, 10 May 2026 20:13:00 GMT",
-        "first_seen": "2026-05-10T23:49:55.905942"
-      },
-      "59a163d9b4c5ffa340c5e6ca8041073ff6115e181e32032f87c895e9ec6f1c07": {
-        "title": "U.S. stock futures fall, oil surges as Trump calls Iran’s latest offer to end war ‘totally unacceptable’",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories",
-        "published_date": "Sun, 10 May 2026 23:15:00 GMT",
-        "first_seen": "2026-05-10T23:49:55.905943"
-      },
       "c52cd241554bb948ab135fb94bd2c1da1c535ccd0776c951afe03f766e52f16a": {
         "title": "China fixes currency at 3-year high ahead of Trump-Xi meeting",
         "link": "https://www.ft.com/content/37fa551b-c4b3-44fb-ad71-3ba4aa448e50",
@@ -4053,15 +3987,39 @@
         "link": "https://www.ft.com/content/5ede9d4d-3989-49b5-a282-4722c8d8fc59",
         "published_date": "Tue, 09 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-09T08:30:03.823896"
+      },
+      "395524add3356af93143e2a428b1d5df190fb3783c097935b4e34eac37a1226c": {
+        "title": "US launches strikes on Iran after downing of American helicopter",
+        "link": "https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09",
+        "published_date": "Tue, 09 Jun 2026 21:31:00 GMT",
+        "first_seen": "2026-06-10T00:12:21.831034"
+      },
+      "6b54847d8f34083bcabdd74a78d5f336b49a631dfa8016fcc6905870d702c9fa": {
+        "title": "Taiwan’s opposition leader tells US and China not to use her country as ‘pawn’",
+        "link": "https://www.ft.com/content/4f667f6f-efd0-4c3f-ab49-9f0d1099a8ba",
+        "published_date": "Tue, 09 Jun 2026 20:53:00 GMT",
+        "first_seen": "2026-06-10T00:12:21.831041"
+      },
+      "101de80d41ec3d08259f9cf75a24a3dc6e0fcf3e2e430b516032a57f81eefdeb": {
+        "title": "A powerful inflation storm is brewing — and your portfolio isn’t ready",
+        "link": "https://www.marketwatch.com/story/an-inflation-storm-is-brewing-in-the-pacific-ocean-and-your-portfolio-isnt-ready-f200fc60?mod=mw_rss_topstories",
+        "published_date": "Tue, 09 Jun 2026 20:23:00 GMT",
+        "first_seen": "2026-06-10T00:12:21.831044"
+      },
+      "5994f0e1412d276f1ce2ae3e41c74e74c9ed001a793b53ae5bee3920e45635b4": {
+        "title": "Apple’s AI could usher in a historic upgrade cycle that investors are overlooking",
+        "link": "https://www.marketwatch.com/story/apples-ai-could-usher-in-a-historic-upgrade-cycle-that-investors-are-overlooking-2b47fbb3?mod=mw_rss_topstories",
+        "published_date": "Tue, 09 Jun 2026 22:00:00 GMT",
+        "first_seen": "2026-06-10T00:12:21.831046"
+      },
+      "48aba4ec91426e6c2b1c35f8c142887c94932057cf1020c1d6e8ddefdfaab106": {
+        "title": "Micron and other memory makers are driving a ‘supercycle’ for this corner of the chip sector",
+        "link": "https://www.marketwatch.com/story/micron-and-other-memory-makers-are-driving-a-supercycle-for-this-corner-of-the-chip-sector-398c40c5?mod=mw_rss_topstories",
+        "published_date": "Tue, 09 Jun 2026 21:58:00 GMT",
+        "first_seen": "2026-06-10T00:12:21.831048"
       }
     },
     "Ai": {
-      "d4842a696914dca6be4e56d508578882fadcda896dad4c53e59aeaac95a668e6": {
-        "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
-        "link": "https://www.qbitai.com/2026/05/415048.html",
-        "published_date": "Sun, 10 May 2026 16:26:00 GMT",
-        "first_seen": "2026-05-10T23:49:56.053920"
-      },
       "667fe3b4b3160933abe1ed8f0820f659e8a431bd6b18c74a08b203775af91a70": {
         "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
         "link": "https://www.qbitai.com/2026/05/415714.html",
@@ -5321,13 +5279,43 @@
         "link": "https://www.qbitai.com/2026/06/433066.html",
         "published_date": "Tue, 09 Jun 2026 04:07:00 GMT",
         "first_seen": "2026-06-09T08:29:24.377731"
+      },
+      "c0513d3af4ecaaf6e5e5e0e9eb7f643c5818c0ca779aa6dc746dd3c467df2697": {
+        "title": "刚刚，Claude Mythos 5发布！5000万行代码1天搞定",
+        "link": "https://www.qbitai.com/2026/06/433590.html",
+        "published_date": "Tue, 09 Jun 2026 22:52:00 GMT",
+        "first_seen": "2026-06-10T00:10:57.125727"
+      },
+      "4f45159dd8d813634cfd00265722580ab8e32a079c21fc5331585c87df238345": {
+        "title": "内蒙跑通AI逆袭新解法",
+        "link": "https://www.qbitai.com/2026/06/433565.html",
+        "published_date": "Tue, 09 Jun 2026 13:40:00 GMT",
+        "first_seen": "2026-06-10T00:10:57.125738"
+      },
+      "cc8861b8456eb0e980b78e78262333edad55ab0777c948f54b0e2bd0e99c517c": {
+        "title": "理想智驾一号位创业，落户北京亦庄了",
+        "link": "https://www.qbitai.com/2026/06/433560.html",
+        "published_date": "Tue, 09 Jun 2026 13:20:00 GMT",
+        "first_seen": "2026-06-10T00:10:57.125741"
+      },
+      "8a946efdae311c0bb81492dea40a3683bd297446c216c953966d3117bf6dc920": {
+        "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+        "link": "https://www.qbitai.com/2026/06/433517.html",
+        "published_date": "Tue, 09 Jun 2026 09:12:00 GMT",
+        "first_seen": "2026-06-10T00:10:57.125743"
+      },
+      "1865e34586ac876e88bf759a1ef54a2d63b86dd2cc1d61ab590f5481887d7bd1": {
+        "title": "2026-06-09日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-09/",
+        "published_date": "Tue, 09 Jun 2026 10:56:00 GMT",
+        "first_seen": "2026-06-10T00:10:57.125745"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-09T08:29:51.675214",
-    "Finance": "2026-06-09T08:30:03.823898",
-    "Ai": "2026-06-09T08:29:24.377733"
+    "Technology": "2026-06-10T00:12:01.244423",
+    "Finance": "2026-06-10T00:12:21.831049",
+    "Ai": "2026-06-10T00:10:57.125747"
   }
 }
