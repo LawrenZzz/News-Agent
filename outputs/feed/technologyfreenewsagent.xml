@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Jun 2026 00:10:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2026 00:12:01 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 08:47:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 08:47:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>半年估值暴涨近7倍，月之暗面再启20亿美元融资</title>
-      <link>https://www.tmtpost.com/8021100.html</link>
-      <description>&lt;![CDATA[半年估值暴涨近7倍，月之暗面再启20亿美元融资]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8021100.html</guid>
+      <title>亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%</title>
+      <link>https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技采用随机图理论取代数据中心的胖树网络，路由器数量减少 69%]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/moJa8OHeY7DXt8rFMRbK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>七天加满“AI朋友圈”，微信智能体还需迈过三道坎</title>
-      <link>https://www.tmtpost.com/8020815.html</link>
-      <description>&lt;![CDATA[七天加满“AI朋友圈”，微信智能体还需迈过三道坎]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8020815.html</guid>
+      <title>业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地</title>
+      <link>https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 13:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型重燃大厂“医疗梦”</title>
-      <link>https://www.tmtpost.com/8020730.html</link>
-      <description>&lt;![CDATA[大模型重燃大厂“医疗梦”]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 15:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8020730.html</guid>
+      <title>从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？</title>
+      <link>https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 Computer Use到 Datacenter Use：如何让 AI Agent 像调用函数一样驱动数据中心？]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iSlYBH5XfQ6RCJrbaqOU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>清华AIR聂再清：“药研管线+AI大模型”，水木分子用双轮打造超级药研助手｜AI Founder 请回答</title>
-      <link>https://www.tmtpost.com/8019874.html</link>
-      <description>&lt;![CDATA[清华AIR聂再清：“药研管线+AI大模型”，水木分子用双轮打造超级药研助手｜AI Founder 请回答]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8019874.html</guid>
+      <title>深入了解谷歌全球服务体系中的 A/B 测试协调系统</title>
+      <link>https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[深入了解谷歌全球服务体系中的 A/B 测试协调系统]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 09:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>补贴退潮、格局重构：新能源重卡“规模化”闯关</title>
-      <link>https://www.tmtpost.com/8020265.html</link>
-      <description>&lt;![CDATA[补贴退潮、格局重构：新能源重卡“规模化”闯关]]&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8020265.html</guid>
+      <title>边缘推理成为AI走向物理世界的核心战场</title>
+      <link>https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[边缘推理成为AI走向物理世界的核心战场]]&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RPzLvb6arzMasZuZfmD8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
