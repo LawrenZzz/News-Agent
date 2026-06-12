@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "670efbf00656994c3d0195e7e1533a4d813bb7cef0940e5a713d274b239a51ab": {
-        "title": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
-        "link": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 13 May 2026 14:18:00 GMT",
-        "first_seen": "2026-05-13T07:50:14.242529"
-      },
-      "c07cc9fc3b344f858c25eb0a0935fcdcb59003a911568593c25a699ee1a17f3e": {
-        "title": "6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己",
-        "link": "https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 13 May 2026 15:43:00 GMT",
-        "first_seen": "2026-05-13T07:50:14.242536"
-      },
-      "df7c0fc91e1ad043f1ab3490ed12c8c065a74119cc844d79316e5bb9d48d8786": {
-        "title": "200亿美元押注量子计算“iPhone时刻”：复刻AI，还是重演SPAC？",
-        "link": "https://www.tmtpost.com/7983452.html",
-        "published_date": "Wed, 13 May 2026 09:07:00 GMT",
-        "first_seen": "2026-05-13T07:50:14.242540"
-      },
-      "6e7dc04d84ea8ce826b4dafd36da1a90b3d935b8dfd4f596e793d42e07382608": {
-        "title": "摩尔线程 MUSA 合入SGLang主线，国产GPU开源生态从“代码共建”迈入“原生支持时代”",
-        "link": "https://www.infoq.cn/article/fiAgqOKzER2JCqcLXMuW?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 13 May 2026 15:17:00 GMT",
-        "first_seen": "2026-05-13T07:50:14.242542"
-      },
-      "b1d90bb8d1c0d2d32f36365de5cbc1a9ede13e49c0c15181fd03986568c0de78": {
-        "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
-        "link": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 13 May 2026 10:17:00 GMT",
-        "first_seen": "2026-05-13T07:50:14.242543"
-      },
       "7036a9dd60d17b8029c7f0477d1bac292b9601064341dab5c316b314b71be1b2": {
         "title": "AI时代的产业版图重构：龙头、雁阵与掉队者",
         "link": "https://www.tmtpost.com/7986182.html",
@@ -2071,39 +2041,39 @@
         "link": "https://www.tmtpost.com/8024326.html",
         "published_date": "Thu, 11 Jun 2026 18:12:00 GMT",
         "first_seen": "2026-06-12T00:19:52.722141"
+      },
+      "19f134db94b15044f7f61ede794a3e5a9c9f33efe6ee80eccb7a8c57d4492b26": {
+        "title": "Anthropic“狼来了”：喊停的人，跑得最快",
+        "link": "https://www.tmtpost.com/8024591.html",
+        "published_date": "Fri, 12 Jun 2026 11:26:00 GMT",
+        "first_seen": "2026-06-12T08:58:13.209045"
+      },
+      "27fe404bc358ae346a43f0a481b2c3ebbb5f45ff1d415e5015bfbefeaa01080b": {
+        "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
+        "link": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 12 Jun 2026 16:30:00 GMT",
+        "first_seen": "2026-06-12T08:58:13.209057"
+      },
+      "5cde1ce4712e29783f3a56c051b0e18a124f06b3ad8b03f497381d7b3d1c9b42": {
+        "title": "不是黄仁勋要改变 PC，而是 PC 要革自己的命",
+        "link": "https://www.tmtpost.com/8025703.html",
+        "published_date": "Fri, 12 Jun 2026 16:31:00 GMT",
+        "first_seen": "2026-06-12T08:58:13.209060"
+      },
+      "5806035ddd07a47c9264adee195f64b7e17e73a8a89a82ab9d45faf404cd00ac": {
+        "title": "微信AI化，才是腾讯的真正赌局",
+        "link": "https://www.tmtpost.com/8025355.html",
+        "published_date": "Fri, 12 Jun 2026 11:26:00 GMT",
+        "first_seen": "2026-06-12T08:58:13.209062"
+      },
+      "ba8ec081cf9ef196d21be887d069c5e2b11ad2e7911f86730b6dab87121d5cee": {
+        "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
+        "link": "https://www.tmtpost.com/8025379.html",
+        "published_date": "Fri, 12 Jun 2026 14:26:00 GMT",
+        "first_seen": "2026-06-12T08:58:13.209064"
       }
     },
     "Finance": {
-      "4fcf01a810a50b9345ab0653ed70ec256d3375070b373628519fc09522f5111f": {
-        "title": "Why global imbalances matter",
-        "link": "https://www.ft.com/content/1bbd3463-1022-4c98-9840-df9b671a3d41",
-        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-13T07:49:37.766001"
-      },
-      "b7fa44fd4293324d6f1d25c0fb31fa1c2a90413323f609d7073f486482f8b811": {
-        "title": "Europe’s few AI plays soar as US tech frenzy goes global",
-        "link": "https://www.ft.com/content/adabe0fe-3418-4f06-8c08-98db21250a49",
-        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-13T07:49:37.766013"
-      },
-      "899d82d0af439151832a88b91b6ab7b7b7b153c6cdceedcd6b99a29826560126": {
-        "title": "JPMorgan is finally rolling out its consumer bank in Europe",
-        "link": "https://www.ft.com/content/41c4c05b-9850-44cb-ba70-029f2cadbed1",
-        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-13T07:49:37.766016"
-      },
-      "d5505da81d86de2c37ff5c36905f3e46548fa1d8dbf2207b3cd5d8e27f30bd20": {
-        "title": "Will Chinese companies still move to Singapore after Manus crackdown?",
-        "link": "https://www.ft.com/content/8774ab60-e94e-4386-b8f9-e89caaa5d11f",
-        "published_date": "Wed, 13 May 2026 03:14:00 GMT",
-        "first_seen": "2026-05-13T07:49:37.766018"
-      },
-      "86b2d9e942a0a7abc4904c411a1457800d0d9683f34263a63c5e1afd376a41da": {
-        "title": "Trump is up against China’s great wall of confidence",
-        "link": "https://www.ft.com/content/8db82813-85e1-4f82-83fd-fc224b605565",
-        "published_date": "Wed, 13 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-13T07:49:37.766020"
-      },
       "8c3e539384af3a48b4a5c52dfd4062890177816215f2ddaec3178aa8d68c0ff8": {
         "title": "Morgan Stanley boosts S&P 500 target. Why Mike Wilson says the market has already priced in the biggest risks.",
         "link": "https://www.marketwatch.com/story/the-stock-market-doesnt-need-fed-cuts-says-morgan-stanley-as-it-rachets-s-p-500-view-higher-d39742b0?mod=mw_rss_topstories",
@@ -3957,39 +3927,39 @@
         "link": "https://www.ft.com/content/0e9b3a3c-2481-4581-90e7-6158906ff7ae",
         "published_date": "Thu, 11 Jun 2026 15:57:00 GMT",
         "first_seen": "2026-06-12T00:20:11.135700"
+      },
+      "600b30aa65784e6e8c38db419e072fdaec41d5b44fcd580484ebc9ef06e5797b": {
+        "title": "The great bond and equity conundrum",
+        "link": "https://www.ft.com/content/4389caaa-b87a-4d4c-82a1-db161d3265d3",
+        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-12T08:58:26.180997"
+      },
+      "327f56cc08edf14ac222b11ac1fba18bb9e1ac4348a6d4b64f0086369ff13e67": {
+        "title": "Chinese investors rush to open Hong Kong accounts amid Beijing crackdown",
+        "link": "https://www.ft.com/content/eff414c9-6c8a-4200-b490-b13c642a7821",
+        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-12T08:58:26.181004"
+      },
+      "490f6023cf35204ec801253e13d96d06feff1630e613716fdcbffade6b812af9": {
+        "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
+        "link": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
+        "published_date": "Fri, 12 Jun 2026 01:56:00 GMT",
+        "first_seen": "2026-06-12T08:58:26.181007"
+      },
+      "2a2bb256dd022a5235de5302fee21f9d853959eb7979351a7ed5de0c6e5ca3ac": {
+        "title": "Oil sinks to three-month low after Trump hints at Iran war deal",
+        "link": "https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e",
+        "published_date": "Fri, 12 Jun 2026 08:49:00 GMT",
+        "first_seen": "2026-06-12T08:58:26.181009"
+      },
+      "41a07c0a1ab831db1ed323c0ec3f101f6e039a23cda29d54962cecce3957f11a": {
+        "title": "The quantum computing revolution is closer than you think",
+        "link": "https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2",
+        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-12T08:58:26.181010"
       }
     },
     "Ai": {
-      "5a1d0a92ba0ebad755df6813367ee04ffbfeddd7bd027a4c9729ad5777a5c9a8": {
-        "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
-        "link": "https://www.qbitai.com/2026/05/416628.html",
-        "published_date": "Wed, 13 May 2026 01:23:00 GMT",
-        "first_seen": "2026-05-13T07:49:51.046724"
-      },
-      "eb31c61a16efde3c61eb3010dd9194da0cb14334cf49da92b8590effd67fcc80": {
-        "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
-        "link": "https://www.qbitai.com/2026/05/416762.html",
-        "published_date": "Wed, 13 May 2026 04:43:00 GMT",
-        "first_seen": "2026-05-13T07:49:51.046730"
-      },
-      "f710d5d760b24548ad5585988daa9998f6b3445e3ff4a9e6984d54f52ce516ca": {
-        "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
-        "link": "https://www.qbitai.com/2026/05/416754.html",
-        "published_date": "Wed, 13 May 2026 04:08:00 GMT",
-        "first_seen": "2026-05-13T07:49:51.046733"
-      },
-      "5617863fa96d266003217210b9f28dbd433da3d74da1f43b5bb830a1c279b4bd": {
-        "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
-        "link": "https://www.qbitai.com/2026/05/416576.html",
-        "published_date": "Wed, 13 May 2026 03:10:00 GMT",
-        "first_seen": "2026-05-13T07:49:51.046735"
-      },
-      "2f3b0c39ac1b8b08f88b9df199946ee443801cca71a67c6057113b3c02f03a49": {
-        "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
-        "link": "https://www.qbitai.com/2026/05/416864.html",
-        "published_date": "Wed, 13 May 2026 05:53:00 GMT",
-        "first_seen": "2026-05-13T07:49:51.046737"
-      },
       "eb09c6e6ae87ccfab6a91277020e986eb6cfe92ff16a0459c3fbc368f8ec1d20": {
         "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
         "link": "https://www.qbitai.com/2026/05/416963.html",
@@ -5261,13 +5231,43 @@
         "link": "https://www.qbitai.com/2026/06/434571.html",
         "published_date": "Thu, 11 Jun 2026 08:23:00 GMT",
         "first_seen": "2026-06-11T09:13:11.800335"
+      },
+      "4b8fb2d9ccfa5571b58631884bc54f75f78f6232eda904e1aa7d0247b5fa6c84": {
+        "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
+        "link": "https://www.qbitai.com/2026/06/434761.html",
+        "published_date": "Fri, 12 Jun 2026 04:11:00 GMT",
+        "first_seen": "2026-06-12T08:58:51.201489"
+      },
+      "9b31d7d684c60f10bbe0f0d6518a4091894369627bd39ea8b56112faed966266": {
+        "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
+        "link": "https://www.qbitai.com/2026/06/434774.html",
+        "published_date": "Fri, 12 Jun 2026 04:13:00 GMT",
+        "first_seen": "2026-06-12T08:58:51.201497"
+      },
+      "4eea64de5ce019630e532d3f04354ee9887b000495a4279b6fe9a1bb084ddba1": {
+        "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
+        "link": "https://www.qbitai.com/2026/06/435105.html",
+        "published_date": "Fri, 12 Jun 2026 07:27:00 GMT",
+        "first_seen": "2026-06-12T08:58:51.201499"
+      },
+      "edb6893c80d2210b3a0208814d3f98f369a42b063a9c939dc8673dda87f6e2f5": {
+        "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
+        "link": "https://www.qbitai.com/2026/06/435192.html",
+        "published_date": "Fri, 12 Jun 2026 07:31:00 GMT",
+        "first_seen": "2026-06-12T08:58:51.201501"
+      },
+      "27ae90f587332244826439333c7b25d9b06412d52e2b17001e20f38f53430341": {
+        "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
+        "link": "https://www.qbitai.com/2026/06/433717.html",
+        "published_date": "Fri, 12 Jun 2026 07:29:00 GMT",
+        "first_seen": "2026-06-12T08:58:51.201502"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-12T00:19:52.722143",
-    "Finance": "2026-06-12T00:20:11.135703",
-    "Ai": "2026-06-11T09:13:11.800337"
+    "Technology": "2026-06-12T08:58:13.209066",
+    "Finance": "2026-06-12T08:58:26.181013",
+    "Ai": "2026-06-12T08:58:51.201505"
   }
 }
