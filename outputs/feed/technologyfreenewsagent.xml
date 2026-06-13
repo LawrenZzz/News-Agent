@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jun 2026 08:57:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 08:58:13 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 00:19:00 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:19:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Anthropic“狼来了”：喊停的人，跑得最快</title>
-      <link>https://www.tmtpost.com/8024591.html</link>
-      <description>&lt;![CDATA[Anthropic“狼来了”：喊停的人，跑得最快]]&gt;</description>
+      <title>贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”</title>
+      <link>https://www.tmtpost.com/8025438.html</link>
+      <description>&lt;![CDATA[贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025438.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）</title>
+      <link>https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 10:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>打破向量检索的局限：RAG 混合检索实践</title>
+      <link>https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[打破向量检索的局限：RAG 混合检索实践]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 10:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>700亿芯片巨头，连环爆雷</title>
+      <link>https://www.tmtpost.com/8025562.html</link>
+      <description>&lt;![CDATA[700亿芯片巨头，连环爆雷]]&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8025562.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>被抢单！ASIC市场，要变天了</title>
+      <link>https://www.tmtpost.com/8024634.html</link>
+      <description>&lt;![CDATA[被抢单！ASIC市场，要变天了]]&gt;</description>
       <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8024591.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻</title>
-      <link>https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>不是黄仁勋要改变 PC，而是 PC 要革自己的命</title>
-      <link>https://www.tmtpost.com/8025703.html</link>
-      <description>&lt;![CDATA[不是黄仁勋要改变 PC，而是 PC 要革自己的命]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025703.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>微信AI化，才是腾讯的真正赌局</title>
-      <link>https://www.tmtpost.com/8025355.html</link>
-      <description>&lt;![CDATA[微信AI化，才是腾讯的真正赌局]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 11:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025355.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>停运、骗补与逆势狂奔：氢能公交的荒诞经济学</title>
-      <link>https://www.tmtpost.com/8025379.html</link>
-      <description>&lt;![CDATA[停运、骗补与逆势狂奔：氢能公交的荒诞经济学]]&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025379.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8024634.html</guid>
       <category>Technology</category>
     </item>
   </channel>
