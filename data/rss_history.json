@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a90a2017dc0172883c0502c8e46b041352890671df376fde3bce7f6d4df7fc31": {
-        "title": "美国机器人三巨头特斯拉、Figure、1X，正在把竞争带向“Physical AI”",
-        "link": "https://www.tmtpost.com/7988204.html",
-        "published_date": "Thu, 14 May 2026 15:29:00 GMT",
-        "first_seen": "2026-05-14T10:14:28.969871"
-      },
-      "d46675a262d69929a0299574052903d5a09db736496f7e94a9f0f5b7f6cf1bc8": {
-        "title": "OpenAI稳坐三年的王座，终究还是被Anthropic踹下去了",
-        "link": "https://www.tmtpost.com/7988375.html",
-        "published_date": "Thu, 14 May 2026 17:55:00 GMT",
-        "first_seen": "2026-05-14T10:14:28.969878"
-      },
-      "fa1202c92635d8d1ad19c121426f9ccd9587b5637914b6ad2775c540888f6a5d": {
-        "title": "AI大佬田渊栋新开公司融资6.5亿美元，黄仁勋、苏姿丰抢着投",
-        "link": "https://www.tmtpost.com/7988481.html",
-        "published_date": "Thu, 14 May 2026 18:08:00 GMT",
-        "first_seen": "2026-05-14T10:14:28.969880"
-      },
-      "e03d03518ab9c9293b6076b922239177c3917bb3cbdaa5bd0d52b86515f64ffc": {
-        "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
-        "link": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 17:50:00 GMT",
-        "first_seen": "2026-05-14T10:14:28.969881"
-      },
-      "5636bd10c4ee5a52c9dd798beebe5c853ba8b1a33d879fa2c75a2c49bb945517": {
-        "title": "AWS 改进 Aurora Serverless：扩容速度提升 45%，吞吐量提高 30%",
-        "link": "https://www.infoq.cn/article/UeBJfTee771jVIJextqH?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 18:00:00 GMT",
-        "first_seen": "2026-05-14T10:14:28.969884"
-      },
-      "22842e0a175966208caa8b913e8a9623b2be266b97894f281ef2b8dc0ae4540c": {
-        "title": "腾讯阿里京东财报里的AI赌注：为未来买单，还是为错误买单？",
-        "link": "https://www.tmtpost.com/7987755.html",
-        "published_date": "Thu, 14 May 2026 12:57:00 GMT",
-        "first_seen": "2026-05-14T23:56:58.523186"
-      },
-      "7f4522e4697507c4d6da16cd726f45c419f281ba7922337e2d2cc9e88bdaa0e8": {
-        "title": "拒掉字节、谷歌橄榄枝，Meta 离职大佬田渊栋官宣自立门户！苏妈老黄追着投",
-        "link": "https://www.infoq.cn/article/NTLqPuNVk0Bs7bBzkfRX?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 18:30:00 GMT",
-        "first_seen": "2026-05-14T23:56:58.523195"
-      },
-      "74f7523775833baaf7d905b1bc2a4449121aeeffdf1bcee47be7fc3a53be20c1": {
-        "title": "DeepSeek 融资后，大模型领域会有什么新格局？",
-        "link": "http://www.geekpark.net/news/364208",
-        "published_date": "Thu, 14 May 2026 19:52:00 GMT",
-        "first_seen": "2026-05-14T23:56:58.523197"
-      },
-      "1e55795ad0d33df014edca791d6a988ebca762f6a0b840ff8e970ee859588f3b": {
-        "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
-        "link": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 14 May 2026 19:45:00 GMT",
-        "first_seen": "2026-05-14T23:56:58.523199"
-      },
-      "544e28f2846194cea89776594d0c29b123fee7079262a942f439a530e3dcb0ef": {
-        "title": "当资本追逐火箭与卫星时，有人盯上了航天器的“神经与血管”",
-        "link": "https://www.tmtpost.com/7987752.html",
-        "published_date": "Thu, 14 May 2026 13:05:00 GMT",
-        "first_seen": "2026-05-14T23:56:58.523201"
-      },
       "1aa86c4bb96d96d9e601495fbaffd3db2d42871e5afa806239925d1705e9f725": {
         "title": "李彦宏PK黄仁勋，AI的度量衡是Token还是DAA？",
         "link": "https://www.tmtpost.com/7988792.html",
@@ -2041,63 +1981,39 @@
         "link": "https://www.tmtpost.com/8026222.html",
         "published_date": "Sat, 13 Jun 2026 10:50:00 GMT",
         "first_seen": "2026-06-13T08:21:06.296384"
+      },
+      "82bca866487ebc884eee9b54253983c8896fc8ae710514979972d68ceebba0ac": {
+        "title": "市值2万亿美元，一直发射一直炸的SpaceX，怎么成了史上最大IPO?",
+        "link": "https://www.tmtpost.com/8026324.html",
+        "published_date": "Sat, 13 Jun 2026 11:08:00 GMT",
+        "first_seen": "2026-06-14T00:05:20.312993"
+      },
+      "dda29a6aea29e53b0248dbb1f19492e51985b452941f3d29bf5326a48616f5cd": {
+        "title": "MiniMax暴跌65%，AI泡沫破裂了？",
+        "link": "https://www.tmtpost.com/8026420.html",
+        "published_date": "Sat, 13 Jun 2026 19:47:00 GMT",
+        "first_seen": "2026-06-14T00:05:20.313008"
+      },
+      "82a1be0d297381913b9958c4d7267dc982cac18b0f4b1adcd12ad0396b5bcc4b": {
+        "title": "阿里AI首席科学家周靖人被曝离职，千问迎来新考验",
+        "link": "https://www.tmtpost.com/8026813.html",
+        "published_date": "Sat, 13 Jun 2026 19:48:00 GMT",
+        "first_seen": "2026-06-14T00:05:20.313020"
+      },
+      "4c622f1eb0303c4615de573f74ad2646382dec1960fbbee412c7d145cba8a6f4": {
+        "title": "大疆出招，影石反击：北美专利战全面打响",
+        "link": "https://www.tmtpost.com/8026433.html",
+        "published_date": "Sat, 13 Jun 2026 15:01:00 GMT",
+        "first_seen": "2026-06-14T00:05:20.313022"
+      },
+      "a1b3f395bc064cfee40357c8203b69b92bb66eb20c6871c141ba6d505f0f4ddb": {
+        "title": "志愿填报Agent：腾讯克制，阿里激进",
+        "link": "https://www.tmtpost.com/8026183.html",
+        "published_date": "Sat, 13 Jun 2026 10:30:00 GMT",
+        "first_seen": "2026-06-14T00:05:20.313024"
       }
     },
     "Finance": {
-      "312239e8b052e16d54b9cb59b98dffa3274b70884087da8e2cf3791456fd5a2c": {
-        "title": "The stock market is breaking the rules of the inflation playbook. Here is what is different this time",
-        "link": "https://www.marketwatch.com/story/a-look-at-which-assets-are-following-the-script-and-which-arent-on-day-75-of-the-war-bdd52fba?mod=mw_rss_topstories",
-        "published_date": "Thu, 14 May 2026 09:38:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.668208"
-      },
-      "22c4b62e71a08fb894c4a4dd6ff15c472078e2721d5e06d20f88a6a3e381e746": {
-        "title": "We’re in our 40s. Our mortgage is nearly paid off — how should we invest our extra $1,500 a month?",
-        "link": "https://www.marketwatch.com/story/were-in-our-40s-our-mortgage-is-nearly-paid-off-how-should-we-invest-our-extra-1-500-a-month-af3eec89?mod=mw_rss_topstories",
-        "published_date": "Thu, 14 May 2026 09:15:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.668221"
-      },
-      "7e2cef44603019ff6e45dd23e8cccaef3f2b1994cedd30e8dbed969564f92e98": {
-        "title": "Nvidia moves one step closer to a breakthrough on Chinese exports after reaching another milestone",
-        "link": "https://www.marketwatch.com/story/nvidia-moves-one-step-closer-to-a-breakthrough-on-chinese-exports-after-reaching-another-milestone-aebeda28?mod=mw_rss_topstories",
-        "published_date": "Thu, 14 May 2026 09:00:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.668223"
-      },
-      "98f3f42b7ff02c470d50a57826c50fc5e23c536c41f47641c507ca9c71a5f822": {
-        "title": "UK navy says vessel seized off UAE coast and heading for Iran",
-        "link": "https://www.ft.com/content/794e619a-1b45-4d15-83fb-15299ac7de06",
-        "published_date": "Thu, 14 May 2026 08:14:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.668225"
-      },
-      "4fbd1c6493b7c4ca7c9d40b04e547942f03c822847bad46a31de655f27e5e600": {
-        "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed’s new chair",
-        "link": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories",
-        "published_date": "Thu, 14 May 2026 22:11:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.460450"
-      },
-      "c222ac7d48e6567c245474f1ed3d05001a24399eed176a437189fed2219c700a": {
-        "title": "Saudi Arabia floats Middle Eastern non-aggression pact with Iran",
-        "link": "https://www.ft.com/content/ab78e60e-7a41-4943-a1a5-bd60b4ca31b9",
-        "published_date": "Thu, 14 May 2026 13:49:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.460465"
-      },
-      "4399ffe51573cf524a2a42089e8bb0898f12aaf15f23a933b7ff6a1e6e97dc0b": {
-        "title": "Nvidia earnings alone won’t rescue the S&P 500 from its new sell signal",
-        "link": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
-        "published_date": "Thu, 14 May 2026 19:58:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.460469"
-      },
-      "2b896992ceaa84aad7abca945bb99cf477cb0a56dc1c2f41c48cda6e12f49c4b": {
-        "title": "US authorities prepare to end Adani fraud cases",
-        "link": "https://www.ft.com/content/4d9bfc38-9f14-42a5-8962-6f6ce83f3eb0",
-        "published_date": "Thu, 14 May 2026 18:23:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.460471"
-      },
-      "1f031aa7692b0e922abd092b35128ecd79cdcd1fadcb761c2c8eaec318bab058": {
-        "title": "Figma has a fix for its ailing stock — a new way to make money off its AI products",
-        "link": "https://www.marketwatch.com/story/figma-has-a-fix-for-its-ailing-stock-a-new-way-to-make-money-off-its-ai-products-2a4f3489?mod=mw_rss_topstories",
-        "published_date": "Thu, 14 May 2026 22:28:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.460473"
-      },
       "0f3d3edad6f192bd8a01610ade7eed1cce7d2cd68bf12648028a41c9ba1e0b72": {
         "title": "HSBC pauses $4bn private credit investment",
         "link": "https://www.ft.com/content/ddce502b-5cb7-4967-9f13-a2944c6a7091",
@@ -3897,45 +3813,39 @@
         "link": "https://www.ft.com/content/d2afe6bb-9c02-4893-a246-b63d6ae724f6",
         "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-13T08:21:15.914465"
+      },
+      "19bcde4d50626ba7ecc3572882857f3b5e302506264232d79c7c1261911b792c": {
+        "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
+        "link": "https://www.ft.com/content/a7f4246d-9ae2-4f7b-90af-e5a53c52203b",
+        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-14T00:05:36.057912"
+      },
+      "7bbcb7d3686c1794f85a3cd68374d1af01f67e87bd7904bc70a7bf3392e12824": {
+        "title": "The true national debt just hit $1 million per U.S. household",
+        "link": "https://www.marketwatch.com/story/the-true-national-debt-just-hit-1-million-per-u-s-household-bd0924d1?mod=mw_rss_topstories",
+        "published_date": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "first_seen": "2026-06-14T00:05:36.057922"
+      },
+      "79ae5258e8e9c47092ddc5390b85b5413b8ba06180541dee65fe5e79594bcab8": {
+        "title": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
+        "link": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
+        "published_date": "Sat, 13 Jun 2026 19:31:00 GMT",
+        "first_seen": "2026-06-14T00:05:36.057925"
+      },
+      "3e6274cb3ef3a75e02ce143d467448c8b1975997f10b2f59a6d40c4fcf18440d": {
+        "title": "Investment firms join Donald Trump’s $100bn race for Venezuelan oil",
+        "link": "https://www.ft.com/content/6982febe-5d1b-4e16-9505-fbee84ca60ab",
+        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-14T00:05:36.057932"
+      },
+      "b670b99c567bc43c2b22e1f56b61f04bc1d88947d12b5f4cfac16f5271b57ec3": {
+        "title": "Social Security benefits and costs are perfectly reasonable — no case exists for massive cuts",
+        "link": "https://www.marketwatch.com/story/social-security-benefits-and-costs-are-perfectly-reasonable-no-case-exists-for-massive-cuts-fb41f21f?mod=mw_rss_topstories",
+        "published_date": "Sat, 13 Jun 2026 19:00:00 GMT",
+        "first_seen": "2026-06-14T00:05:36.057936"
       }
     },
     "Ai": {
-      "014e08b4b7b2e45729b1a9ca1d992134cc9112f799a5622084ea4b6662762ae1": {
-        "title": "Robotaxi第一股又涨疯了",
-        "link": "https://www.qbitai.com/2026/05/417754.html",
-        "published_date": "Thu, 14 May 2026 08:41:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.820811"
-      },
-      "e6224d2b098cedff0694247192645f8128df5443e1a341c74d85b67c8836f090": {
-        "title": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
-        "link": "https://www.qbitai.com/2026/05/417753.html",
-        "published_date": "Thu, 14 May 2026 08:34:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.820819"
-      },
-      "94c1e9bc098641d5aa750a2b032e337821ca2390c9aee0ef7a19f579d52ff6f3": {
-        "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
-        "link": "https://www.qbitai.com/2026/05/417748.html",
-        "published_date": "Thu, 14 May 2026 08:26:00 GMT",
-        "first_seen": "2026-05-14T10:14:09.820821"
-      },
-      "82de2813137897b6fc9cf0ff595ed6952365aa7598fb1ce43a895be63cdb2707": {
-        "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
-        "link": "https://www.qbitai.com/2026/05/417731.html",
-        "published_date": "Thu, 14 May 2026 14:58:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.616411"
-      },
-      "862c6d251083f7f2192df3b62b6ada1a3bc68a4f19aac270aa806cbfa717278c": {
-        "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
-        "link": "https://www.qbitai.com/2026/05/417816.html",
-        "published_date": "Thu, 14 May 2026 11:14:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.616420"
-      },
-      "69c7991b55e5b54cc4c8235665f9a4d587662069dfe2ecbb20880fe1ca2c18a5": {
-        "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
-        "link": "https://www.qbitai.com/2026/05/417927.html",
-        "published_date": "Thu, 14 May 2026 10:28:00 GMT",
-        "first_seen": "2026-05-14T23:56:25.616422"
-      },
       "fac5c8106d54d0819f01f9c53b4e547407b0fd06e91436062bb58e6726137836": {
         "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
         "link": "https://www.qbitai.com/2026/05/417935.html",
@@ -5189,13 +5099,19 @@
         "link": "https://www.qbitai.com/2026/06/435339.html",
         "published_date": "Sat, 13 Jun 2026 04:05:00 GMT",
         "first_seen": "2026-06-13T08:21:16.032179"
+      },
+      "ece78c1597e57fb7eb0a03effc36381fea0193fea0636c478ff3f4898eef06c8": {
+        "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+        "link": "https://www.qbitai.com/2026/06/435483.html",
+        "published_date": "Sat, 13 Jun 2026 12:40:00 GMT",
+        "first_seen": "2026-06-14T00:05:36.177831"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-13T08:21:06.296387",
-    "Finance": "2026-06-13T08:21:15.914468",
-    "Ai": "2026-06-13T08:21:16.032181"
+    "Technology": "2026-06-14T00:05:20.313028",
+    "Finance": "2026-06-14T00:05:36.057941",
+    "Ai": "2026-06-14T00:05:36.177841"
   }
 }
