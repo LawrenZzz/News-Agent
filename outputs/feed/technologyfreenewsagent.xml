@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Jun 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2026 00:08:25 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 10:52:00 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:53:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock</title>
-      <link>https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持</title>
+      <link>https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MiniMax站在十字路口：解禁、涨价与全球巨头的三重绞杀</title>
-      <link>https://www.tmtpost.com/8027254.html</link>
-      <description>&lt;![CDATA[MiniMax站在十字路口：解禁、涨价与全球巨头的三重绞杀]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8027254.html</guid>
+      <title>WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了</title>
+      <link>https://www.infoq.cn/article/LSwQ3hQpZ1INX40icTSE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LSwQ3hQpZ1INX40icTSE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别只看专利互掐，大疆和影石真正要抢的是索尼们的千亿饭碗 | 出海参考</title>
-      <link>https://www.tmtpost.com/8027299.html</link>
-      <description>&lt;![CDATA[别只看专利互掐，大疆和影石真正要抢的是索尼们的千亿饭碗 | 出海参考]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 19:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8027299.html</guid>
+      <title>Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析</title>
+      <link>https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 10:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高管花式退场，阿里AI不需要“一号位”</title>
-      <link>https://www.tmtpost.com/8026958.html</link>
-      <description>&lt;![CDATA[高管花式退场，阿里AI不需要“一号位”]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8026958.html</guid>
+      <title>SK海力士尝试“以钼代钨”，钼金属需求大爆发</title>
+      <link>https://www.tmtpost.com/8028655.html</link>
+      <description>&lt;![CDATA[SK海力士尝试“以钼代钨”，钼金属需求大爆发]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 18:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8028655.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>滴滴去掉“出行”，网约车老大也要重新找入口</title>
-      <link>https://www.tmtpost.com/8027052.html</link>
-      <description>&lt;![CDATA[滴滴去掉“出行”，网约车老大也要重新找入口]]&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8027052.html</guid>
+      <title>派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线</title>
+      <link>https://sspai.com/post/111045</link>
+      <description>&lt;![CDATA[派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线]]&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 07:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111045</guid>
       <category>Technology</category>
     </item>
   </channel>
