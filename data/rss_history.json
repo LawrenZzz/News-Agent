@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e43e0bb3568f6a9138661a16514b457e0f4e53e638be22513bdd9b3bd3e87435": {
-        "title": "百度AI，“单干”创业",
-        "link": "https://www.tmtpost.com/7990158.html",
-        "published_date": "Sat, 16 May 2026 10:53:00 GMT",
-        "first_seen": "2026-05-16T23:52:58.420883"
-      },
-      "2ad95c889b3ff7d05fe273dc6566c419985e9f7126e35e2d045bf45b1620c5d0": {
-        "title": "外卖收手，京东回血",
-        "link": "https://www.tmtpost.com/7990134.html",
-        "published_date": "Sat, 16 May 2026 09:40:00 GMT",
-        "first_seen": "2026-05-16T23:52:58.420890"
-      },
-      "4f973c74ec7e248a0c3e71d23c74112922acf89cb77bd7d86f33e59e61b2dd2e": {
-        "title": "从“兄弟各持”到“一人归集”，欧亚平拿下众安在线第一大股东",
-        "link": "https://www.tmtpost.com/7990233.html",
-        "published_date": "Sat, 16 May 2026 10:14:00 GMT",
-        "first_seen": "2026-05-16T23:52:58.420892"
-      },
-      "4805d9d34ef7458b12ab38d09bc1b04731fab0df279b0a3df32f7c3e13b0feed": {
-        "title": "能源央企集体“看低”行业之际，华电新能猛增20+新能源主体，反向操作藏着什么底牌？",
-        "link": "https://www.tmtpost.com/7990475.html",
-        "published_date": "Sat, 16 May 2026 11:02:00 GMT",
-        "first_seen": "2026-05-16T23:52:58.420894"
-      },
-      "cb6e7fe09e4ac6911bc315bb61849b121efecebe3cf5641bb49a80963abe3acb": {
-        "title": "3D 成女引流，「镭明闪击」撕开二次元手游夹心式困境",
-        "link": "https://www.tmtpost.com/7990211.html",
-        "published_date": "Sat, 16 May 2026 09:58:00 GMT",
-        "first_seen": "2026-05-16T23:52:58.420895"
-      },
       "af539560204b6c1137aa5cc5684f663740f6a48768c048a8570e33273f713081": {
         "title": "【数智周报】前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元；Anthropic正以9000亿美元估值寻求至少300亿美元融资；阿里平头哥自研GPU规模化量产",
         "link": "https://www.tmtpost.com/7990953.html",
@@ -1951,39 +1921,39 @@
         "link": "https://sspai.com/post/111045",
         "published_date": "Mon, 15 Jun 2026 07:09:00 GMT",
         "first_seen": "2026-06-15T10:53:21.226367"
+      },
+      "086a3448a6901af7f668926c7153ba8c45fa1155a0688fe7ac9f59bacf304b08": {
+        "title": "均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集",
+        "link": "https://www.tmtpost.com/8029068.html",
+        "published_date": "Mon, 15 Jun 2026 20:55:00 GMT",
+        "first_seen": "2026-06-16T00:29:53.465475"
+      },
+      "23cf08382a62b895165a293f90571d0b9ed68c93a179a05df8dc680049d8dd47": {
+        "title": "With 46 Billion Yuan Pouring into China's Embodied Intelligence Sector in YTD2026, Who's Benefitted?",
+        "link": "https://www.tmtpost.com/8029155.html",
+        "published_date": "Mon, 15 Jun 2026 22:46:00 GMT",
+        "first_seen": "2026-06-16T00:29:53.465490"
+      },
+      "c7231f6ec5097e1ca620bfd7da69af32b6ffdcf2a8130a2fd47d6dd79f660d1e": {
+        "title": "大厂AI资产分拆进行时：可灵为字节、阿里探路？",
+        "link": "https://www.tmtpost.com/8028634.html",
+        "published_date": "Mon, 15 Jun 2026 18:00:00 GMT",
+        "first_seen": "2026-06-16T00:29:53.465493"
+      },
+      "67832f45eb55162901daf05782c922ccecd2b59e2f57106e3ee07729b6b5d158": {
+        "title": "Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business",
+        "link": "https://www.tmtpost.com/8029149.html",
+        "published_date": "Mon, 15 Jun 2026 22:30:00 GMT",
+        "first_seen": "2026-06-16T00:29:53.465495"
+      },
+      "e1688a032da6da2807824b6e102e1e3c75e2984cb6fafe66ddf4cbfa61ed21a0": {
+        "title": "腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会",
+        "link": "https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 22:26:00 GMT",
+        "first_seen": "2026-06-16T00:29:53.465497"
       }
     },
     "Finance": {
-      "2602287f21ae8d6aa2904b55ee2454cbc188d2781218b0d04fc14a64e774becf": {
-        "title": "Few Americans can afford long-term care — but this state program could be a game changer",
-        "link": "https://www.marketwatch.com/story/few-americans-can-afford-long-term-care-but-this-state-program-could-be-a-game-changer-e136b6ff?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 16:46:00 GMT",
-        "first_seen": "2026-05-16T23:52:46.430192"
-      },
-      "76fa9770bd713cf20bfcf3e7e399a9d8e2a7e626ab19d52fdf2fb42bf0966723": {
-        "title": "I have $310,000 in cash from a maturing CD. Where should I put it next?",
-        "link": "https://www.marketwatch.com/story/i-have-310-000-in-cash-from-a-maturing-cd-where-should-i-put-it-next-2e6fdeee?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 17:14:00 GMT",
-        "first_seen": "2026-05-16T23:52:46.430200"
-      },
-      "6aec756e1116c0a04fef1a925aa2f35a34127ee87b057884f0e38f8550dd6e04": {
-        "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-        "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 22:47:00 GMT",
-        "first_seen": "2026-05-16T23:52:46.430203"
-      },
-      "788d3ff60817b0176a4af2f5ae3c84eb102dadeb17aa86dec3345bc8e40f49be": {
-        "title": "Israel kills last Hamas chief who oversaw October 7 attack",
-        "link": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
-        "published_date": "Sat, 16 May 2026 15:38:00 GMT",
-        "first_seen": "2026-05-16T23:52:46.430205"
-      },
-      "95383be8cfcda7d9c276fa4e60c5432e74a071dde41e25aa4ae8555c421a7c38": {
-        "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-        "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 18:13:00 GMT",
-        "first_seen": "2026-05-16T23:52:46.430206"
-      },
       "b49474f3c3f5392aff2fad1465f3811bbf4b8b47a0441b940ec5d88ee13000ad": {
         "title": "Record high Japanese yields trigger bets on repatriation",
         "link": "https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92",
@@ -3765,15 +3735,39 @@
         "link": "https://www.ft.com/content/51b43d91-ae82-4142-9ff6-3252720e2906",
         "published_date": "Mon, 15 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-15T10:53:35.750037"
+      },
+      "2c25aa165a860520305d2b6041230e7bf314331b81f951435bed3c4b41bcd18f": {
+        "title": "Stocks surge as US-Iran deal ignites global rally",
+        "link": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
+        "published_date": "Mon, 15 Jun 2026 20:22:00 GMT",
+        "first_seen": "2026-06-16T00:30:14.279483"
+      },
+      "15da908b4aaa9073627562993a5623204970b844eabe34780558e8499b7231e1": {
+        "title": "Roku’s sale to Fox for $22 billion raises a big question",
+        "link": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 23:03:00 GMT",
+        "first_seen": "2026-06-16T00:30:14.279491"
+      },
+      "3b7a53e9cf902ba85c0feea9e310afb4bdb6e16b70fc4e4141b1f2f450e02db4": {
+        "title": "Chipmaker Nvidia seeks to raise over $25bn in first bond deal since 2021",
+        "link": "https://www.ft.com/content/c0e7cc58-e309-4f47-b466-d577c06cbeec",
+        "published_date": "Mon, 15 Jun 2026 18:22:00 GMT",
+        "first_seen": "2026-06-16T00:30:14.279493"
+      },
+      "394ab3347b974e80a8e30251fbaca8f6b974677fe03ffa1b8814ad37a8a78010": {
+        "title": "Trump administration considers $300bn fund for Iran if deal is upheld",
+        "link": "https://www.ft.com/content/088c14d3-f708-44d8-a306-7996aa5211de",
+        "published_date": "Mon, 15 Jun 2026 21:03:00 GMT",
+        "first_seen": "2026-06-16T00:30:14.279495"
+      },
+      "2a7439cbae281baf786042cc7dba2c2095fa4a3c1d9841a55af9340db1591b15": {
+        "title": "Options traders are bracing for a very busy week, with June ‘triple witching’ and launch of SpaceX contracts on deck",
+        "link": "https://www.marketwatch.com/story/options-traders-are-bracing-for-a-very-busy-week-with-june-triple-witching-and-launch-of-spacex-contracts-on-deck-b38fbf62?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 22:24:00 GMT",
+        "first_seen": "2026-06-16T00:30:14.279497"
       }
     },
     "Ai": {
-      "121df8e6c20a6ea589e0ef1334420a732ca23a932305a377ac4813bc3a8976eb": {
-        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-        "link": "https://www.qbitai.com/2026/05/418620.html",
-        "published_date": "Sat, 16 May 2026 13:44:00 GMT",
-        "first_seen": "2026-05-16T23:52:58.561757"
-      },
       "6fb11318096c2b761c778e8ea2ed45ff8f5ac8fa20ea4ba4bf9cfbd298614b9d": {
         "title": "2026-05-17日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-17/",
@@ -4979,13 +4973,19 @@
         "link": "https://www.qbitai.com/2026/06/435558.html",
         "published_date": "Mon, 15 Jun 2026 05:43:00 GMT",
         "first_seen": "2026-06-15T10:54:01.539643"
+      },
+      "13117826daf0ec85b60fa98b604421f45d95ce644f633a1b8cf49c37e6f3e30b": {
+        "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+        "link": "https://www.qbitai.com/2026/06/435848.html",
+        "published_date": "Mon, 15 Jun 2026 12:57:00 GMT",
+        "first_seen": "2026-06-16T00:30:14.399237"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-15T10:53:21.226370",
-    "Finance": "2026-06-15T10:53:35.750039",
-    "Ai": "2026-06-15T10:54:01.539645"
+    "Technology": "2026-06-16T00:29:53.465500",
+    "Finance": "2026-06-16T00:30:14.279500",
+    "Ai": "2026-06-16T00:30:14.399246"
   }
 }
