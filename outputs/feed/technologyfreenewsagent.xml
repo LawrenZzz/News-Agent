@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Jun 2026 00:29:00 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 00:29:53 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 10:06:00 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:07:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集</title>
-      <link>https://www.tmtpost.com/8029068.html</link>
-      <description>&lt;![CDATA[均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 20:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029068.html</guid>
+      <title>端侧智能的全球化落地：云端的&quot;强&quot;，解不了端侧的&quot;痛&quot;｜「Talk To The World」@Singapore AI Week</title>
+      <link>https://www.tmtpost.com/8029636.html</link>
+      <description>&lt;![CDATA[端侧智能的全球化落地：云端的&quot;强&quot;，解不了端侧的&quot;痛&quot;｜「Talk To The World」@Singapore AI Week]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 17:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029636.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>With 46 Billion Yuan Pouring into China's Embodied Intelligence Sector in YTD2026, Who's Benefitted?</title>
-      <link>https://www.tmtpost.com/8029155.html</link>
-      <description>&lt;![CDATA[With 46 Billion Yuan Pouring into China's Embodied Intelligence Sector in YTD2026, Who's Benefitted?]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 22:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029155.html</guid>
+      <title>Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流</title>
+      <link>https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 09:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大厂AI资产分拆进行时：可灵为字节、阿里探路？</title>
-      <link>https://www.tmtpost.com/8028634.html</link>
-      <description>&lt;![CDATA[大厂AI资产分拆进行时：可灵为字节、阿里探路？]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8028634.html</guid>
+      <title>宇树科技补短板：合作英伟达，花20亿搞研发</title>
+      <link>https://www.tmtpost.com/8029722.html</link>
+      <description>&lt;![CDATA[宇树科技补短板：合作英伟达，花20亿搞研发]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 17:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029722.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business</title>
-      <link>https://www.tmtpost.com/8029149.html</link>
-      <description>&lt;![CDATA[Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 22:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029149.html</guid>
+      <title>讽刺：Anthropic求监管，第一个被监管“反噬”</title>
+      <link>https://www.tmtpost.com/8029624.html</link>
+      <description>&lt;![CDATA[讽刺：Anthropic求监管，第一个被监管“反噬”]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029624.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会</title>
-      <link>https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会]]&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 22:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“铜箔大王”踩中AI超级周期，旗下CCL龙头半年暴涨2200亿</title>
+      <link>https://www.tmtpost.com/8029350.html</link>
+      <description>&lt;![CDATA[“铜箔大王”踩中AI超级周期，旗下CCL龙头半年暴涨2200亿]]&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8029350.html</guid>
       <category>Technology</category>
     </item>
   </channel>
