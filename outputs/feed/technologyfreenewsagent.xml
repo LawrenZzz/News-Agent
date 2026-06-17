@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Jun 2026 00:15:00 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 00:16:26 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 09:29:00 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 09:30:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>亚马逊云科技发布新一代 Amazon OpenSearch Serverless</title>
-      <link>https://www.infoq.cn/article/1JmJurL7fQtvpujOTIMg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技发布新一代 Amazon OpenSearch Serverless]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 11:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/1JmJurL7fQtvpujOTIMg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 企业 Day 0 出海，如何少走技术弯路？</title>
+      <link>https://www.infoq.cn/article/xwaUhLdpgsKrGVkVMhSO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 企业 Day 0 出海，如何少走技术弯路？]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 16:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xwaUhLdpgsKrGVkVMhSO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】国家发改委召开民营企业座谈会，围绕系统推进“六张网”建设听取意见建议；SpaceX将通过合并收购美国AI软件公司Anysphere；DeepSeek首轮融资或落地，梁文锋个人出资约200亿元</title>
-      <link>https://www.tmtpost.com/8030402.html</link>
-      <description>&lt;![CDATA[【钛晨报】国家发改委召开民营企业座谈会，围绕系统推进“六张网”建设听取意见建议；SpaceX将通过合并收购美国AI软件公司Anysphere；DeepSeek首轮融资或落地，梁文锋个人出资约200亿元]]&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8030402.html</guid>
+      <title>Lyft借助地图智能技术缓解封闭式小区接驾难题</title>
+      <link>https://www.infoq.cn/article/mo0XQK6h2xAcVEqafKVN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Lyft借助地图智能技术缓解封闭式小区接驾难题]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mo0XQK6h2xAcVEqafKVN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考</title>
-      <link>https://www.tmtpost.com/8029820.html</link>
-      <description>&lt;![CDATA[前5个月中国机电产品出口增长18.4%；美国政府5月退还近220亿美元关税；预估2027年全球卫星产业产值将达4470亿美元｜一周出海参考]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8029820.html</guid>
+      <title>全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单</title>
+      <link>https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026奇点智能产品大会首批嘉宾官宣</title>
-      <link>https://www.tmtpost.com/8027794.html</link>
-      <description>&lt;![CDATA[2026奇点智能产品大会首批嘉宾官宣]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8027794.html</guid>
+      <title>三年百万级服务器排障实战，OpenCloudOS开源OS层 AI诊断系统</title>
+      <link>https://www.infoq.cn/article/N8OtrKJAucsocHwY650b?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[三年百万级服务器排障实战，OpenCloudOS开源OS层 AI诊断系统]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/N8OtrKJAucsocHwY650b?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>耐心资本护航创新，2026SuperLink开启创投价值共生新时代</title>
-      <link>https://www.tmtpost.com/8025805.html</link>
-      <description>&lt;![CDATA[耐心资本护航创新，2026SuperLink开启创投价值共生新时代]]&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 15:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8025805.html</guid>
+      <title>利用“项目即服务”构建和扩展平台</title>
+      <link>https://www.infoq.cn/article/u7v5y362ZR206BBUrdZ7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[利用“项目即服务”构建和扩展平台]]&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 09:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/u7v5y362ZR206BBUrdZ7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
