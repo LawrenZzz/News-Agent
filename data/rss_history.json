@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "986b922c24072ef7f903c136404a2c95d04d44efd49fff543e5de3e0252e54e6": {
-        "title": "有人花了2.5亿美元，买断了你的AI搜索结果",
-        "link": "https://www.tmtpost.com/7991964.html",
-        "published_date": "Mon, 18 May 2026 14:19:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.420753"
-      },
-      "99f2298f43a3d7b44d6066cb72edbdf34c5137ebd723dcfe361e46b3c68d6c2a": {
-        "title": "王慧文给AI投资画了一个框",
-        "link": "https://www.tmtpost.com/7991745.html",
-        "published_date": "Mon, 18 May 2026 13:26:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.420760"
-      },
-      "23e17d5c74f0c32cdcbac56b0baf030e119f78605cc2e912e8e8f0ac61a8c917": {
-        "title": "腾讯为什么推不出豆包",
-        "link": "https://www.tmtpost.com/7992804.html",
-        "published_date": "Mon, 18 May 2026 22:06:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.420762"
-      },
-      "4025cc4e95c4270823ce14c02a5969c6ca8a288ef9d55f2f18e08b71033b3aa7": {
-        "title": "百度Q1：搜索广告跌破半壁江山，AI云撑起新故事",
-        "link": "https://www.tmtpost.com/7992627.html",
-        "published_date": "Mon, 18 May 2026 19:34:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.420764"
-      },
-      "63057b06131d7349006196be325484775608f97b2076dd6f176d37dcff9b94f0": {
-        "title": "物理AI火了，我的一些新思考",
-        "link": "https://www.tmtpost.com/7991655.html",
-        "published_date": "Mon, 18 May 2026 12:17:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.420766"
-      },
       "b815444af42f99acea6e96b22a0c622068ec94a701d1943c4b8fee775e17ae39": {
         "title": "Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整",
         "link": "https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&utm_medium=article",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/u7v5y362ZR206BBUrdZ7?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 17 Jun 2026 09:43:00 GMT",
         "first_seen": "2026-06-17T09:30:36.364728"
+      },
+      "111838dc06abc404dd388472615782c46fa98d9b791c67a7b1fd60341c257899": {
+        "title": "SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表",
+        "link": "https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 00:46:00 GMT",
+        "first_seen": "2026-06-18T00:16:32.610950"
+      },
+      "6d684d3bd24161e11a06bef4cf444882b326faa6769d7863e0cde87d3ae84d91": {
+        "title": "万亿估值前夜，OpenAI 被曝一年亏约 2600 亿",
+        "link": "https://www.infoq.cn/article/XHlhul82geYax30TcJbP?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 00:44:00 GMT",
+        "first_seen": "2026-06-18T00:16:32.610960"
+      },
+      "5dab916552644569cf0a69f244211805eb67d15f5c87a8c11dd459cef2a96bea": {
+        "title": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
+        "link": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 18:01:00 GMT",
+        "first_seen": "2026-06-18T00:16:32.610963"
+      },
+      "2ddf1805d552338d066421bb253ac7efeec51aa22483a65cf0b1b1e162ff3568": {
+        "title": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "link": "https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 15:28:00 GMT",
+        "first_seen": "2026-06-18T00:16:32.610965"
+      },
+      "21dddaabf53e4be7f3e789a190f47dee4f27af6141636c9949b25307c1c2bc22": {
+        "title": "人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速",
+        "link": "https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 17 Jun 2026 10:12:00 GMT",
+        "first_seen": "2026-06-18T00:16:32.610967"
       }
     },
     "Finance": {
-      "2139e7b20b19f77188fae2b8994ce8635635c94ea92e5a1f3461b171a2163c5e": {
-        "title": "The US megadeal set to spark a fight over the cost of the AI boom",
-        "link": "https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110",
-        "published_date": "Mon, 18 May 2026 22:33:00 GMT",
-        "first_seen": "2026-05-19T00:05:03.430548"
-      },
-      "ef0ccec6a517c552670b9104a9bd7959e292f886b3e227e4b5c4e4f423f9140c": {
-        "title": "US eases Russian oil sanctions in bid to contain Iran price surge",
-        "link": "https://www.ft.com/content/df5fca22-d057-444f-b430-32623b196d00",
-        "published_date": "Mon, 18 May 2026 18:13:00 GMT",
-        "first_seen": "2026-05-19T00:05:03.430558"
-      },
-      "e8cbb7562ebd3804f3ef3a901b55002cc6e4eb1e344de906bfb3445e6cf00b84": {
-        "title": "The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-and-most-of-its-stocks-are-heading-in-opposite-directions-at-a-record-pace-what-investors-should-know-2a6c55a5?mod=mw_rss_topstories",
-        "published_date": "Mon, 18 May 2026 21:25:00 GMT",
-        "first_seen": "2026-05-19T00:05:03.430561"
-      },
-      "a225b509d0f9fe20c77ff2d0a872ec3ff0cfc28115aa3f4dc26b824548fc3605": {
-        "title": "SpaceX IPO set to hand $20bn stake to one hedge fund",
-        "link": "https://www.ft.com/content/f0838802-a923-43eb-9ea1-331cf6b5f038",
-        "published_date": "Mon, 18 May 2026 23:50:00 GMT",
-        "first_seen": "2026-05-19T00:05:03.430563"
-      },
-      "f048e85a6497a026c4425ba9d96d34cc71fc9ea4f5f07c7be468ec4b7df3cf47": {
-        "title": "Trump says he is holding off attack on Iran planned for Tuesday",
-        "link": "https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3",
-        "published_date": "Mon, 18 May 2026 22:20:00 GMT",
-        "first_seen": "2026-05-19T00:05:03.430565"
-      },
       "8be5530290cf8972e7b53269b1c03afbd753360217b802703a7cea9702cf5845": {
         "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
         "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
@@ -3735,39 +3705,39 @@
         "link": "https://www.marketwatch.com/story/bmw-issues-a-big-profit-warning-it-once-again-blames-on-china-the-automaker-is-plotting-a-major-strategy-shift-d28e7428?mod=mw_rss_topstories",
         "published_date": "Wed, 17 Jun 2026 08:11:00 GMT",
         "first_seen": "2026-06-17T09:31:08.799795"
+      },
+      "db9a158852cca04a499c86cfdaa5c5c36f98099f72d580be47a5b008b91c9be7": {
+        "title": "US and Iran sign deal as Trump vows to release frozen funds and ease sanctions",
+        "link": "https://www.ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37",
+        "published_date": "Wed, 17 Jun 2026 22:41:00 GMT",
+        "first_seen": "2026-06-18T00:16:53.616066"
+      },
+      "6bfb6be45428592b7c97ff8f97eb049f49a3e258dc55dbb28979caf21b8b0cba": {
+        "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
+        "link": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
+        "published_date": "Wed, 17 Jun 2026 23:19:00 GMT",
+        "first_seen": "2026-06-18T00:16:53.616073"
+      },
+      "5a21496794f90ac660358b102098ea438574f962793039abae557084c6a026e8": {
+        "title": "Fed officials tilt towards rate rise as Kevin Warsh era begins",
+        "link": "https://www.ft.com/content/f2463587-91e9-4da4-94b2-9cb9a270b74a",
+        "published_date": "Wed, 17 Jun 2026 21:12:00 GMT",
+        "first_seen": "2026-06-18T00:16:53.616075"
+      },
+      "0dfda62cd562b79e412709a16f4e82774b231e5120938465bd5d072c3bdbe8dd": {
+        "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
+        "link": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 00:13:00 GMT",
+        "first_seen": "2026-06-18T00:16:53.616077"
+      },
+      "ca37f8ab39ddf6c77e44f9a1647f5d4f8018680eef50a1014a981575c531a7f6": {
+        "title": "Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses",
+        "link": "https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b",
+        "published_date": "Wed, 17 Jun 2026 16:30:00 GMT",
+        "first_seen": "2026-06-18T00:16:53.616079"
       }
     },
     "Ai": {
-      "7449e43b3e93794fa2efb71ab7ef6a1651de8c4fb461f1440711aaa4e19f7f5d": {
-        "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
-        "link": "https://www.qbitai.com/2026/05/419585.html",
-        "published_date": "Mon, 18 May 2026 13:16:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.538055"
-      },
-      "26d466a379a63d84d5c3828670ceca7347fcf85b59e30f01d3de68f8c17e35ab": {
-        "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
-        "link": "https://www.qbitai.com/2026/05/419528.html",
-        "published_date": "Mon, 18 May 2026 12:18:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.538064"
-      },
-      "3c4f211087287a080b04ceadd6599ca177bb6d9353d7a1b6df147042bd0f3cd5": {
-        "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
-        "link": "https://www.qbitai.com/2026/05/419515.html",
-        "published_date": "Mon, 18 May 2026 10:26:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.538066"
-      },
-      "129714b85ce096e7b796b6588d99667934e26bfcb13dc0cfe84f4d8843326234": {
-        "title": "华为“养”出半个具身智能创业圈",
-        "link": "https://www.qbitai.com/2026/05/419414.html",
-        "published_date": "Mon, 18 May 2026 08:54:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.538068"
-      },
-      "a47037226cc0d081dd78db7541d99943945c7a00c5a509c5d8d069b267163e4f": {
-        "title": "2026-05-18日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-18/",
-        "published_date": "Mon, 18 May 2026 10:29:00 GMT",
-        "first_seen": "2026-05-19T00:05:22.538070"
-      },
       "afd2086ea31cb4a2670376a7af893e293959ddb3001a33973696c251cd15f6cd": {
         "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
         "link": "https://www.qbitai.com/2026/05/419822.html",
@@ -4967,13 +4937,43 @@
         "link": "https://www.qbitai.com/2026/06/436134.html",
         "published_date": "Wed, 17 Jun 2026 05:59:00 GMT",
         "first_seen": "2026-06-17T09:31:34.947305"
+      },
+      "26726c21151a9d92cb619b1955618f92f29dc2b0fad8e6e3e81dcce94dca1362": {
+        "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
+        "link": "https://www.qbitai.com/2026/06/436456.html",
+        "published_date": "Wed, 17 Jun 2026 13:07:00 GMT",
+        "first_seen": "2026-06-18T00:17:14.402565"
+      },
+      "57e207e14d561a40ac761d32900b6fe24810ae27138aceaab69d201785bd7c4e": {
+        "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+        "link": "https://www.qbitai.com/2026/06/436213.html",
+        "published_date": "Wed, 17 Jun 2026 10:16:00 GMT",
+        "first_seen": "2026-06-18T00:17:14.402572"
+      },
+      "6616d424105f70674a51004042c94adf53a59d7e9c1752bfe285135d18b2af4f": {
+        "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
+        "link": "https://www.qbitai.com/2026/06/436223.html",
+        "published_date": "Wed, 17 Jun 2026 10:55:00 GMT",
+        "first_seen": "2026-06-18T00:17:14.402574"
+      },
+      "c01a7829fc384b1555665455591bbe184efc3711ab21099d368c23ed1ff78a9d": {
+        "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+        "link": "https://www.qbitai.com/2026/06/436224.html",
+        "published_date": "Wed, 17 Jun 2026 10:51:00 GMT",
+        "first_seen": "2026-06-18T00:17:14.402576"
+      },
+      "e8321237a2413f2b34d5f7d5656b1a830f6e8126286ae7a4d889eda794022270": {
+        "title": "AI转型最大的门槛，不是技术，是人",
+        "link": "https://www.qbitai.com/2026/06/436435.html",
+        "published_date": "Wed, 17 Jun 2026 12:36:00 GMT",
+        "first_seen": "2026-06-18T00:17:14.402578"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-17T09:30:36.364730",
-    "Finance": "2026-06-17T09:31:08.799797",
-    "Ai": "2026-06-17T09:31:34.947307"
+    "Technology": "2026-06-18T00:16:32.610969",
+    "Finance": "2026-06-18T00:16:53.616082",
+    "Ai": "2026-06-18T00:17:14.402580"
   }
 }
