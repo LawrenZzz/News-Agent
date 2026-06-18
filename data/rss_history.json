@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b815444af42f99acea6e96b22a0c622068ec94a701d1943c4b8fee775e17ae39": {
-        "title": "Anthropic发布工程事故报告，说明六周来Claude Code质量下降源于三项产品调整",
-        "link": "https://www.infoq.cn/article/yxuH0IZNUvwPGdAEKCFX?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 16:07:00 GMT",
-        "first_seen": "2026-05-19T08:26:48.041574"
-      },
-      "eb9c94cf44f1bc4f8ab78922b57d833f066d0626e69270cdea90dc1845f16e55": {
-        "title": "Anthropic首次揭秘下一代Claude怎么造！用户吐槽直接喂模型，连AI“做梦”都被训练",
-        "link": "https://www.infoq.cn/article/8AFM65dK2wFMypqoz6ok?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 13:21:00 GMT",
-        "first_seen": "2026-05-19T08:26:48.041581"
-      },
-      "60f4db611eb8c2d3014168210b4dd2a6cc869aef2436a9c9abfd97692d3f695a": {
-        "title": "运营商卖Token：通信管道的最后一搏，还是 AI 时代的入场券？",
-        "link": "https://www.tmtpost.com/7993452.html",
-        "published_date": "Tue, 19 May 2026 14:50:00 GMT",
-        "first_seen": "2026-05-19T08:26:48.041584"
-      },
-      "aed81d76fbaf55207f27672563f0b0342ab87f28515bd907b1b472adf17b458c": {
-        "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？",
-        "link": "https://sspai.com/post/109889",
-        "published_date": "Tue, 19 May 2026 11:04:00 GMT",
-        "first_seen": "2026-05-19T08:26:48.041586"
-      },
-      "d0f05f2a322fe916d113ec105d2cfec2090c28763373b6ce494785e8d8d59a81": {
-        "title": "小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海",
-        "link": "https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-19T08:26:48.041587"
-      },
       "147e4ddc4885a06fed5b0c799e5536177c7cacf88519892d7c6094016eb84d7f": {
         "title": "05·29 腾讯云「数据库+AI」产品发布会重磅启幕",
         "link": "https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 17 Jun 2026 10:12:00 GMT",
         "first_seen": "2026-06-18T00:16:32.610967"
+      },
+      "cd683245b3353ed7edf673240a879aa9d9321298edefe4bfccad89941597db34": {
+        "title": "40亿元不是估值底线： 大模型公司的新“资格分界线”",
+        "link": "https://www.tmtpost.com/8033053.html",
+        "published_date": "Thu, 18 Jun 2026 15:52:00 GMT",
+        "first_seen": "2026-06-18T09:13:44.213084"
+      },
+      "f41f8e0b85d7c5d35ad81b746677987d796ff904f4161e9da856bd2e675b8992": {
+        "title": "SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+        "link": "https://www.tmtpost.com/8032956.html",
+        "published_date": "Thu, 18 Jun 2026 15:05:00 GMT",
+        "first_seen": "2026-06-18T09:13:44.213097"
+      },
+      "d8ec1e0d5dddf7a3d831811928756152d8bf6055fde725f1e551ece436faa7d7": {
+        "title": "用结构替代数据，因果世界模型如何重塑具身智能大脑",
+        "link": "https://www.tmtpost.com/8033154.html",
+        "published_date": "Thu, 18 Jun 2026 14:45:00 GMT",
+        "first_seen": "2026-06-18T09:13:44.213099"
+      },
+      "c0aba9dd35caa8d56aec31b1859361cdea6862c1b10f86d49123deac2e821a31": {
+        "title": "当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/8033077.html",
+        "published_date": "Thu, 18 Jun 2026 13:00:00 GMT",
+        "first_seen": "2026-06-18T09:13:44.213101"
+      },
+      "ca695824856f4a1cebf5367ac40a7779d3f555413d6af33902222510b7e3947a": {
+        "title": "Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力",
+        "link": "https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 11:35:00 GMT",
+        "first_seen": "2026-06-18T09:13:44.213102"
       }
     },
     "Finance": {
-      "8be5530290cf8972e7b53269b1c03afbd753360217b802703a7cea9702cf5845": {
-        "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP",
-        "link": "https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 02:04:00 GMT",
-        "first_seen": "2026-05-19T08:26:26.475219"
-      },
-      "cfcacedaeb30456b180cfc41091dfc31c14b6caf9a7ddd815a1b5d681d0664a9": {
-        "title": "Investors warn of ‘correction’ risk as high-flying stocks defy bond gloom",
-        "link": "https://www.ft.com/content/ce55bdaa-2c80-410b-91b9-4bec5459e570",
-        "published_date": "Tue, 19 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-19T08:26:26.475232"
-      },
-      "46724dfb065118d53d2f75547c436765124334d7a71c39cad0bee24ca048411a": {
-        "title": "Google makes chip push with Blackstone-backed AI cloud group",
-        "link": "https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580",
-        "published_date": "Tue, 19 May 2026 02:18:00 GMT",
-        "first_seen": "2026-05-19T08:26:26.475235"
-      },
-      "fef593495576558dcca4fb318b8619e95adad6aea748518451be2d53296f5608": {
-        "title": "Putin and Xi to discuss huge gas project at China summit",
-        "link": "https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132",
-        "published_date": "Tue, 19 May 2026 01:42:00 GMT",
-        "first_seen": "2026-05-19T08:26:26.475237"
-      },
-      "575f3bf5b3dcf05bc1806779049d8465e7c75a60beb61a905687aeaa917dab58": {
-        "title": "Google DeepMind’s Demis Hassabis emerges as early Anthropic investor",
-        "link": "https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5",
-        "published_date": "Tue, 19 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-19T08:26:26.475240"
-      },
       "787f002cfd598a84a2d18e3c18afc200bc2f39db6795ca09bca0a723fb30b632": {
         "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
         "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
@@ -3735,39 +3705,39 @@
         "link": "https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b",
         "published_date": "Wed, 17 Jun 2026 16:30:00 GMT",
         "first_seen": "2026-06-18T00:16:53.616079"
+      },
+      "9a1aece5a832d0e26946a03092b70b0c0ee55d6688dc5017584a12a5378f8d01": {
+        "title": "Inside the push to weaken Washington’s toughest financial watchdog",
+        "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 02:05:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.658340"
+      },
+      "78a23f8c57057a4cdb8ce02cad6af232a6f748907edb46bbade9052e94e3eeec": {
+        "title": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff",
+        "link": "https://www.ft.com/content/de83d303-6a03-456b-bfb9-7b11dd502ab3",
+        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.658346"
+      },
+      "49d158f04d64ab4e6fc09ee01cf605b51e17298539c2c5340a88943dd06c0016": {
+        "title": "What is the point of Berkshire Hathaway?",
+        "link": "https://www.ft.com/content/6d48256f-dfdf-4fc0-b1ca-a38909e686eb",
+        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.658348"
+      },
+      "1da8c2dd438021bf76da0b60a88c3d73a07bdbbb9b47fb17876ce17326ce457e": {
+        "title": "Kevin Warsh’s debut",
+        "link": "https://www.ft.com/content/2fb2e603-0934-4f99-af71-1c1d06d5be1e",
+        "published_date": "Thu, 18 Jun 2026 05:30:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.658350"
+      },
+      "1e771fd8c3303d288166c1f2855ea98682ab88b777cb5094965d50adaa294ce3": {
+        "title": "BA owner warns EU competition rules make easyJet bid ‘very difficult’",
+        "link": "https://www.ft.com/content/f435414b-a07d-457e-b3e8-946b6ae7bfea",
+        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.658351"
       }
     },
     "Ai": {
-      "afd2086ea31cb4a2670376a7af893e293959ddb3001a33973696c251cd15f6cd": {
-        "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
-        "link": "https://www.qbitai.com/2026/05/419822.html",
-        "published_date": "Tue, 19 May 2026 02:46:00 GMT",
-        "first_seen": "2026-05-19T08:27:07.567490"
-      },
-      "1ae3c12f9d8b81e2ae109162b70ae19292bfc51ccd2b85979b08932cdd32a7eb": {
-        "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
-        "link": "https://www.qbitai.com/2026/05/419597.html",
-        "published_date": "Tue, 19 May 2026 01:52:00 GMT",
-        "first_seen": "2026-05-19T08:27:07.567498"
-      },
-      "b897ea68f7cffc1b2816d713256545f67e5c3692e6a8a2d2326692e19f53cacb": {
-        "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
-        "link": "https://www.qbitai.com/2026/05/420084.html",
-        "published_date": "Tue, 19 May 2026 07:03:00 GMT",
-        "first_seen": "2026-05-19T08:27:07.567501"
-      },
-      "5f13ffe90485d28c1e5e92c7a368ea9d8fa326dc7ddf6512f2b8c836903db6d3": {
-        "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
-        "link": "https://www.qbitai.com/2026/05/420083.html",
-        "published_date": "Tue, 19 May 2026 07:05:00 GMT",
-        "first_seen": "2026-05-19T08:27:07.567502"
-      },
-      "34eae7835fb4222ca9599eec7958683135748ec79810a3f81f8658c07673109c": {
-        "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
-        "link": "https://www.qbitai.com/2026/05/419913.html",
-        "published_date": "Tue, 19 May 2026 05:11:00 GMT",
-        "first_seen": "2026-05-19T08:27:07.567504"
-      },
       "60bfba5a2b6c4e0517212d2b7f96d985be8dc9bb3dced4808e05087ffb6bea8b": {
         "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
         "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
@@ -4967,13 +4937,31 @@
         "link": "https://www.qbitai.com/2026/06/436435.html",
         "published_date": "Wed, 17 Jun 2026 12:36:00 GMT",
         "first_seen": "2026-06-18T00:17:14.402578"
+      },
+      "695f01c1c093cd3f22a0a5446b62b06dec55f15fafb40f72652cff66b8b5fa7f": {
+        "title": "2026-06-18日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-18/",
+        "published_date": "Thu, 18 Jun 2026 11:40:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.751973"
+      },
+      "943bedbfaeffcdda18167d108258fcaa04b24ef34a8b4b2b8cf9592abefe3490": {
+        "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
+        "link": "https://www.qbitai.com/2026/06/436477.html",
+        "published_date": "Thu, 18 Jun 2026 05:12:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.751981"
+      },
+      "9cce4630bd72091f34289b35b635d5137f559aaa3b260f892045e6e29abeb64a": {
+        "title": "国产算力正在进入Token标准化时代",
+        "link": "https://www.qbitai.com/2026/06/436468.html",
+        "published_date": "Thu, 18 Jun 2026 01:45:00 GMT",
+        "first_seen": "2026-06-18T09:13:55.751983"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-18T00:16:32.610969",
-    "Finance": "2026-06-18T00:16:53.616082",
-    "Ai": "2026-06-18T00:17:14.402580"
+    "Technology": "2026-06-18T09:13:44.213104",
+    "Finance": "2026-06-18T09:13:55.658353",
+    "Ai": "2026-06-18T09:13:55.751984"
   }
 }
