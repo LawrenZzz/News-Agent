@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Jun 2026 09:13:00 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 09:13:44 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 00:24:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:24:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>40亿元不是估值底线： 大模型公司的新“资格分界线”</title>
-      <link>https://www.tmtpost.com/8033053.html</link>
-      <description>&lt;![CDATA[40亿元不是估值底线： 大模型公司的新“资格分界线”]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 15:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033053.html</guid>
+      <title>Transformer之父离开谷歌，奥特曼等了他十年</title>
+      <link>https://www.tmtpost.com/8033380.html</link>
+      <description>&lt;![CDATA[Transformer之父离开谷歌，奥特曼等了他十年]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 19:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033380.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SpaceX要让太空算力从科幻走向现实，但它划算吗？</title>
-      <link>https://www.tmtpost.com/8032956.html</link>
-      <description>&lt;![CDATA[SpaceX要让太空算力从科幻走向现实，但它划算吗？]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 15:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8032956.html</guid>
+      <title>智源王仲远：世界模型是通往物理AGI之桥</title>
+      <link>https://www.tmtpost.com/8032558.html</link>
+      <description>&lt;![CDATA[智源王仲远：世界模型是通往物理AGI之桥]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 19:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8032558.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>用结构替代数据，因果世界模型如何重塑具身智能大脑</title>
-      <link>https://www.tmtpost.com/8033154.html</link>
-      <description>&lt;![CDATA[用结构替代数据，因果世界模型如何重塑具身智能大脑]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033154.html</guid>
+      <title>Google 想为 AI Agent 打造下一个 Kubernetes</title>
+      <link>https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Google 想为 AI Agent 打造下一个 Kubernetes]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 17:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/8033077.html</link>
-      <description>&lt;![CDATA[当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033077.html</guid>
+      <title>万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？</title>
+      <link>https://www.tmtpost.com/8033363.html</link>
+      <description>&lt;![CDATA[万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 19:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033363.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力</title>
-      <link>https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 11:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口</title>
+      <link>https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口]]&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 17:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

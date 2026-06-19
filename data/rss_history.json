@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "147e4ddc4885a06fed5b0c799e5536177c7cacf88519892d7c6094016eb84d7f": {
-        "title": "05·29 腾讯云「数据库+AI」产品发布会重磅启幕",
-        "link": "https://www.infoq.cn/article/FAhJ08IG1ffzxw1OYYza?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 14:50:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.661380"
-      },
-      "abfd55b2b7b3322fd481f463a6b17a38e8cf163b9b564f0db8c17dd90b62e660": {
-        "title": "中国芯片最大IPO：“算力茅台”长鑫科技，日赚近4亿元",
-        "link": "https://www.tmtpost.com/7992602.html",
-        "published_date": "Tue, 19 May 2026 14:37:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.661387"
-      },
-      "2ae3d1fda7d5f3d8666dcc595c398ed5594008dc56d246a0b5cfc2c30c8b262a": {
-        "title": "【钛晨报】事关小微企业金融服务工作，国家金融监督管理总局最新部署；DeepSeek:特殊字符引发模型幻觉，不涉及安全问题或隐私泄露；长江存储发布首次公开发行股票并上市辅导备案报告",
-        "link": "https://www.tmtpost.com/7994015.html",
-        "published_date": "Wed, 20 May 2026 07:20:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.661391"
-      },
-      "bccee5b5afdd36faacca8294cfdeb70000ed325182983e1ba572ebc086f01e08": {
-        "title": "Moonrepo发布moon v2.0：引入WASM插件工具链并重构CLI",
-        "link": "https://www.infoq.cn/article/0bxNrhH2ott9yfRwpCJW?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 19:28:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.661393"
-      },
-      "0b3f0de8382c750997837222a0e6f2e7056b8e66317a387a1ea4e87afa716bdb": {
-        "title": "蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式",
-        "link": "https://www.infoq.cn/article/eyoS3WVdltWbqJXuygQi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 19 May 2026 18:54:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.661395"
-      },
       "eeed768148d14ec442c48ca84906af0e624acf4706a80a69a048ecd50fe387ff": {
         "title": "VLA已死，WAM当立：机器人的GPT时刻到了吗？",
         "link": "https://www.tmtpost.com/7994970.html",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 18 Jun 2026 11:35:00 GMT",
         "first_seen": "2026-06-18T09:13:44.213102"
+      },
+      "c198e0d233e0a5b7c82609a01894abd95459f5509d0166558153a4f644a73664": {
+        "title": "Transformer之父离开谷歌，奥特曼等了他十年",
+        "link": "https://www.tmtpost.com/8033380.html",
+        "published_date": "Thu, 18 Jun 2026 19:09:00 GMT",
+        "first_seen": "2026-06-19T00:24:26.935446"
+      },
+      "7a7887ec8afcfeed5b7b60205487c41671c8bde141932c2efa1ae7c7f5bcef10": {
+        "title": "智源王仲远：世界模型是通往物理AGI之桥",
+        "link": "https://www.tmtpost.com/8032558.html",
+        "published_date": "Thu, 18 Jun 2026 19:11:00 GMT",
+        "first_seen": "2026-06-19T00:24:26.935458"
+      },
+      "0b22a832d6e3c183a553fef02c8f63d46b901adb4c83470e9a06234a0cb46132": {
+        "title": "Google 想为 AI Agent 打造下一个 Kubernetes",
+        "link": "https://www.infoq.cn/article/jNsfjJuAJjDzGYS51jHC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 17:27:00 GMT",
+        "first_seen": "2026-06-19T00:24:26.935460"
+      },
+      "f8b3ae5a8a6d047d526aac060ac94d3f1e8915547706500a02593424299f3b7c": {
+        "title": "万亿市值背后的暗线：当 SpaceX 登陆纳斯达克，中国航天往哪走？",
+        "link": "https://www.tmtpost.com/8033363.html",
+        "published_date": "Thu, 18 Jun 2026 19:51:00 GMT",
+        "first_seen": "2026-06-19T00:24:26.935462"
+      },
+      "319bf36888383fd2f92453fbaafe865b89b8d5ec87732159f899e07bc25df86f": {
+        "title": "上下文窗口限制被打破：Subquadratic推出了一个1200万Token的窗口",
+        "link": "https://www.infoq.cn/article/0zbyxse0IZs690HL9Jev?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 18 Jun 2026 17:18:00 GMT",
+        "first_seen": "2026-06-19T00:24:26.935463"
       }
     },
     "Finance": {
-      "787f002cfd598a84a2d18e3c18afc200bc2f39db6795ca09bca0a723fb30b632": {
-        "title": "Are businesses passing on higher energy costs to their customers? Fed minutes may have the answer.",
-        "link": "https://www.marketwatch.com/story/are-businesses-passing-on-higher-energy-costs-to-their-customers-these-fed-minutes-have-the-answer-44df2ee4?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 23:56:00 GMT",
-        "first_seen": "2026-05-20T00:01:26.000967"
-      },
-      "948f1fd24107093b8c34b8a35150bf3b77d69413c0fce862cbb78b380be2bc14": {
-        "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive.",
-        "link": "https://www.marketwatch.com/story/buckle-up-for-120-oil-changes-why-car-care-is-about-to-get-more-expensive-c542615c?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 22:31:00 GMT",
-        "first_seen": "2026-05-20T00:01:26.000995"
-      },
-      "da4b4448ed8dd5b1ef210044ea47df1b329231b03ddabe5c0f516a4a3ff3f7ce": {
-        "title": "These charts offer a warning: A new era of higher Treasury yields may be coming",
-        "link": "https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 21:46:00 GMT",
-        "first_seen": "2026-05-20T00:01:26.000997"
-      },
-      "8cc3b9734989a3dc629d223337ebf5545ffa23b821926acc7d211e0a8cb9243b": {
-        "title": "Here’s why Astera Labs’ stock just staged a big gain",
-        "link": "https://www.marketwatch.com/story/heres-why-astera-labs-stock-just-staged-a-big-gain-ddb2139b?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 21:31:00 GMT",
-        "first_seen": "2026-05-20T00:01:26.000999"
-      },
-      "247529977482b506bbde1e2873e73de6ba586f3c5b95ccca1be9f90e7bff724f": {
-        "title": "CoreWeave’s stock falls as new Google cloud venture may signal more competition ahead",
-        "link": "https://www.marketwatch.com/story/coreweaves-stock-falls-as-new-google-cloud-venture-may-signal-more-competition-ahead-7bd7fb30?mod=mw_rss_topstories",
-        "published_date": "Tue, 19 May 2026 20:41:00 GMT",
-        "first_seen": "2026-05-20T00:01:26.001001"
-      },
       "75a3624f93ff4c28a4e4d8f95d03ca1f752421470d5c64e0db0ed749f41ecd68": {
         "title": "Nvidia’s Huang bankrolls AI boom with $90bn deal spree",
         "link": "https://www.ft.com/content/c6b362b8-ab6b-4723-af48-28082bdfcac2",
@@ -3735,21 +3705,39 @@
         "link": "https://www.ft.com/content/f435414b-a07d-457e-b3e8-946b6ae7bfea",
         "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-18T09:13:55.658351"
+      },
+      "3e88512f9a15e129a8ec4a30767d04ef12387327dc29dba97fcc98e6ceda26ec": {
+        "title": "SpaceX plots $20bn bond deal after record IPO",
+        "link": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
+        "published_date": "Thu, 18 Jun 2026 22:01:00 GMT",
+        "first_seen": "2026-06-19T00:25:15.447471"
+      },
+      "09346fbb6d2d238f839f74ee479734349d8c327c63df68613b95c940161944cc": {
+        "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?",
+        "link": "https://www.marketwatch.com/story/this-ai-company-wants-to-replace-mris-with-a-60-second-dip-in-the-spa-can-that-really-work-3bce6681?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 23:22:00 GMT",
+        "first_seen": "2026-06-19T00:25:15.447480"
+      },
+      "b6889aeb39565d1ef3e3a996054aaaeeaa33b414aaf51e8b0ee4f4dd71fee5e2": {
+        "title": "I’m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?",
+        "link": "https://www.marketwatch.com/story/im-55-and-retiring-in-6-years-should-i-be-switching-to-roth-401-k-now-71d6c468?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 23:11:00 GMT",
+        "first_seen": "2026-06-19T00:25:15.447482"
+      },
+      "ad579f6a1cb73f8cc900f411b060193d1e276b2b742556b8bfa1f6389687e55b": {
+        "title": "Trump’s Iran agreement is a massive buy signal for stocks",
+        "link": "https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 23:09:00 GMT",
+        "first_seen": "2026-06-19T00:25:15.447483"
+      },
+      "333e7a9c75ccc826608aed6a434583c5ecf00fa1915bcb0806f20b5bbaa9365e": {
+        "title": "SpaceX is vastly more expensive than any stock in the S&P 500, fueled by ‘FOMO’ mentality",
+        "link": "https://www.marketwatch.com/story/spacex-is-vastly-more-expensive-than-any-stock-in-the-s-p-500-fueled-by-fomo-mentality-eb61cd69?mod=mw_rss_topstories",
+        "published_date": "Thu, 18 Jun 2026 22:03:00 GMT",
+        "first_seen": "2026-06-19T00:25:15.447484"
       }
     },
     "Ai": {
-      "60bfba5a2b6c4e0517212d2b7f96d985be8dc9bb3dced4808e05087ffb6bea8b": {
-        "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-        "link": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-        "published_date": "Tue, 19 May 2026 17:52:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.757946"
-      },
-      "9ac6471e60a0284fa2fead5f28515ea98fc3c5b52e375676ed84962adb2aac62": {
-        "title": "2026-05-19日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-19/",
-        "published_date": "Tue, 19 May 2026 10:41:00 GMT",
-        "first_seen": "2026-05-20T00:02:14.757954"
-      },
       "a416ca2184d674bebf54b43403a5e8790c932647b234b5e174422f951b985d85": {
         "title": "2026-05-20日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-20/",
@@ -4955,13 +4943,43 @@
         "link": "https://www.qbitai.com/2026/06/436468.html",
         "published_date": "Thu, 18 Jun 2026 01:45:00 GMT",
         "first_seen": "2026-06-18T09:13:55.751983"
+      },
+      "8554721f1d5927c6f5d9745c40db1cad8105a2dd4e7f7b080d258b583bfd4bc2": {
+        "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+        "link": "https://www.qbitai.com/2026/06/436758.html",
+        "published_date": "Thu, 18 Jun 2026 13:46:00 GMT",
+        "first_seen": "2026-06-19T00:26:04.080862"
+      },
+      "d197da3d5a2c740bf8e78f62d39b0c81c45dae5fb6021f2954afa38b370e111b": {
+        "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+        "link": "https://www.qbitai.com/2026/06/436802.html",
+        "published_date": "Thu, 18 Jun 2026 13:42:00 GMT",
+        "first_seen": "2026-06-19T00:26:04.080871"
+      },
+      "482f6f7ce1b56cd894cdf0cb3a103040dab40a246e833f05300b8e8f2d2e4674": {
+        "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+        "link": "https://www.qbitai.com/2026/06/436751.html",
+        "published_date": "Thu, 18 Jun 2026 10:14:00 GMT",
+        "first_seen": "2026-06-19T00:26:04.080872"
+      },
+      "0a500fb78e1b6d2af87e1e3932a1b8fd419212ce20ad48ed9b4502dd796b09c1": {
+        "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+        "link": "https://www.qbitai.com/2026/06/436740.html",
+        "published_date": "Thu, 18 Jun 2026 09:45:00 GMT",
+        "first_seen": "2026-06-19T00:26:04.080874"
+      },
+      "68f4e257dd1dbfd6377c48447b40d749c36bc7806dda9bc0385ccb1294cee381": {
+        "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+        "link": "https://www.qbitai.com/2026/06/436674.html",
+        "published_date": "Thu, 18 Jun 2026 09:39:00 GMT",
+        "first_seen": "2026-06-19T00:26:04.080875"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-18T09:13:44.213104",
-    "Finance": "2026-06-18T09:13:55.658353",
-    "Ai": "2026-06-18T09:13:55.751984"
+    "Technology": "2026-06-19T00:24:26.935465",
+    "Finance": "2026-06-19T00:25:15.447486",
+    "Ai": "2026-06-19T00:26:04.080877"
   }
 }
