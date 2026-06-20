@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 09:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 09:29:15 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 00:07:00 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:07:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3</title>
-      <link>https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI预测不了“佛得角”</title>
+      <link>https://www.tmtpost.com/8034290.html</link>
+      <description>&lt;![CDATA[AI预测不了“佛得角”]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034290.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI成绩单背后，藏着一位华人“出题人”</title>
-      <link>https://www.tmtpost.com/8034299.html</link>
-      <description>&lt;![CDATA[AI成绩单背后，藏着一位华人“出题人”]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034299.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>壁仞到底“几斤几两”？</title>
-      <link>https://www.tmtpost.com/8033720.html</link>
-      <description>&lt;![CDATA[壁仞到底“几斤几两”？]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033720.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布</title>
-      <link>https://www.tmtpost.com/8033497.html</link>
-      <description>&lt;![CDATA[35岁被AI“顶替”，他用26万的判决书扯下企业的遮羞布]]&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8033497.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化</title>
-      <link>https://www.tmtpost.com/8034156.html</link>
-      <description>&lt;![CDATA[国轩高科、欣旺达与中创新航成为鸿蒙新供应商，宁德时代一家独大的格局已发生变化]]&gt;</description>
+      <title>美国AI狂飙，亚洲抢先吃饱</title>
+      <link>https://www.tmtpost.com/8034217.html</link>
+      <description>&lt;![CDATA[美国AI狂飙，亚洲抢先吃饱]]&gt;</description>
       <pubDate>Fri, 19 Jun 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8034156.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8034217.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多</title>
+      <link>https://www.tmtpost.com/8033754.html</link>
+      <description>&lt;![CDATA[子公司 IPO 黄了，母公司反而更好上市？长江存储这步棋看懂的人不多]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 17:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033754.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>硅谷最抢手的新岗位出现了</title>
+      <link>https://www.tmtpost.com/8033869.html</link>
+      <description>&lt;![CDATA[硅谷最抢手的新岗位出现了]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8033869.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海</title>
+      <link>https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
