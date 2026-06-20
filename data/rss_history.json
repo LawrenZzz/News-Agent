@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "917c9b04e646f99f7c3cce0a27bbfd4e60156262285aa193dec1b73a3a7cf711": {
-        "title": "AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍",
-        "link": "https://www.tmtpost.com/7992618.html",
-        "published_date": "Thu, 21 May 2026 07:54:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.345072"
-      },
-      "bd98c7e2ddbeffad1a6dce8bd920f9c7eeb589368ea36492e3260cdd8d4a032b": {
-        "title": "Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533852&idx=1&sn=441378ed031a16a340915fb7c7d69cc6",
-        "published_date": "Wed, 20 May 2026 13:20:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.345079"
-      },
-      "a562b3a601d8096ceb637e1b187817cec40c233a3acfc83d427aa7f7b278860b": {
-        "title": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 21 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.345081"
-      },
-      "3dd81a4a24f28e916edbcc9003e1c17620d66983608141c251c0e2c29730f73e": {
-        "title": "对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型",
-        "link": "https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 20 May 2026 19:06:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.345083"
-      },
-      "328716f9b4b6ca6106e2771a28734107c6983c243fa4f6962e8ebbfd1ef8f034": {
-        "title": "谷歌不想再追赶ChatGPT",
-        "link": "https://www.tmtpost.com/7995336.html",
-        "published_date": "Wed, 20 May 2026 14:32:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.345085"
-      },
       "8f570e222c1928afe40946c87709d10141db2e805addaf3d1760e5e78e37fc08": {
         "title": "营收创新高、股价却下跌，英伟达面临两个历史性关口",
         "link": "https://www.tmtpost.com/7997167.html",
@@ -1951,6 +1921,36 @@
         "link": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 19 Jun 2026 10:00:00 GMT",
         "first_seen": "2026-06-20T00:07:44.753626"
+      },
+      "aaa55eb18890114844665d64c8fc149521cdd63084e9f81ab80d290a5ef13df4": {
+        "title": "千亿热钱砸不出具身智能的答案： Demo 困在展厅，工厂等不来订单",
+        "link": "https://www.tmtpost.com/8034572.html",
+        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
+        "first_seen": "2026-06-20T08:21:45.729408"
+      },
+      "2eaef335e5e4dfe7af526d8c673778eaa5a320f6d47239d049ef7b88104563cd": {
+        "title": "三天内连失两位传奇：谷歌的AI人才大坝，正在决堤？",
+        "link": "https://www.tmtpost.com/8034755.html",
+        "published_date": "Sat, 20 Jun 2026 11:51:00 GMT",
+        "first_seen": "2026-06-20T08:21:45.729417"
+      },
+      "1ad17e8d73aaad863f431b6c6671dfb3fa7f2e272a3d5eee6f41a433e1d807b7": {
+        "title": "SpaceX，从航天界“蜜雪冰城”到华尔街魅魔",
+        "link": "https://www.tmtpost.com/8034761.html",
+        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
+        "first_seen": "2026-06-20T08:21:45.729420"
+      },
+      "46a6199d0f8cca9bdafe527a79ca7cadbeadc2b958db384d2e31e753d7ce9458": {
+        "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+        "link": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 20 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-20T08:21:45.729422"
+      },
+      "91da4196a666df7e3473a590a42e8981e8cb1ea6f4505b6a86fbe8e43dea04d9": {
+        "title": "年内累跌27%后评级上调，最神秘大数据公司Palantir被高估了吗？",
+        "link": "https://www.tmtpost.com/8034822.html",
+        "published_date": "Sat, 20 Jun 2026 10:54:00 GMT",
+        "first_seen": "2026-06-20T08:21:45.729423"
       }
     },
     "Finance": {
@@ -3765,27 +3765,39 @@
         "link": "https://www.ft.com/content/6a06bd52-3c74-43d1-a048-6e8b9790c56d",
         "published_date": "Fri, 19 Jun 2026 13:00:00 GMT",
         "first_seen": "2026-06-20T00:07:59.848402"
+      },
+      "64dea2daee865295080eca7b31871c0676ca76ab26e9163b176ac77c5c7953db": {
+        "title": "The window for peace in Ukraine won’t be open forever",
+        "link": "https://www.ft.com/content/7b1ff72b-5a67-46b9-81c6-9e3855b99a34",
+        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-20T08:22:01.928052"
+      },
+      "61354286ceb012dc80875556ae7ad033dba1fd618086ed81f87a748930a1df19": {
+        "title": "Big Tech is stoking unrest in the UK. Why?",
+        "link": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c",
+        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-20T08:22:01.928059"
+      },
+      "f1064e0c5e2d0a61207da57ab8d89a092ee6e46870017b1005763f32af3ca28f": {
+        "title": "Nigel Farage’s Brexit rallies were funded from the EU budget",
+        "link": "https://www.ft.com/content/e6372589-0015-4b91-b2b6-6581c3937c5a",
+        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-20T08:22:01.928061"
+      },
+      "97a4fe3ce28cb351c44097a967b7dd6b1f39d5bf3d9786fab7c9f4eddd121d84": {
+        "title": "Why dignity is the measure that matters",
+        "link": "https://www.ft.com/content/4b57127a-357a-46ef-a0ee-4da37a624e3a",
+        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-20T08:22:01.928063"
+      },
+      "247d43004de6adeccdee9c8ce628e0e84446e1d2f4e70ac12158beae21d71024": {
+        "title": "Beer can boost ‘spiritual or mental’ health, says Kirin president",
+        "link": "https://www.ft.com/content/f97a3ea9-29c5-42bb-bf4e-d4f6929b40d1",
+        "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-20T08:22:01.928084"
       }
     },
     "Ai": {
-      "ae95ffff47a5ce73204ae3835dfc7ab52f81ee75267127bbc8e23ed1154b1f13": {
-        "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
-        "link": "https://www.qbitai.com/2026/05/420753.html",
-        "published_date": "Wed, 20 May 2026 14:09:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.468265"
-      },
-      "871fe5f611750e76b652be849a18350f560a7125abc1856cf4a22b5535ddefc4": {
-        "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/420743.html",
-        "published_date": "Wed, 20 May 2026 13:08:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.468273"
-      },
-      "1074e85337bdd3ad6658b30f35afc3382e0eee1a022eaffb5afab81635e3a0da": {
-        "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
-        "link": "https://www.qbitai.com/2026/05/420703.html",
-        "published_date": "Wed, 20 May 2026 10:15:00 GMT",
-        "first_seen": "2026-05-21T00:07:30.468275"
-      },
       "b21df452eb80810ab704f1122338f15814a2c7961b83e0669b46174ddd00a126": {
         "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
         "link": "https://www.qbitai.com/2026/05/420918.html",
@@ -4991,13 +5003,19 @@
         "link": "https://www.qbitai.com/2026/06/436813.html",
         "published_date": "Fri, 19 Jun 2026 03:28:00 GMT",
         "first_seen": "2026-06-19T09:29:31.836585"
+      },
+      "d0d2ad431177331ffe1069e3bfdea01c209a0fb89aef3396a55f03437cf2e879": {
+        "title": "2026-06-20日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-20/",
+        "published_date": "Sat, 20 Jun 2026 09:24:00 GMT",
+        "first_seen": "2026-06-20T08:22:02.048773"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-20T00:07:44.753628",
-    "Finance": "2026-06-20T00:07:59.848404",
-    "Ai": "2026-06-19T09:29:31.836587"
+    "Technology": "2026-06-20T08:21:45.729426",
+    "Finance": "2026-06-20T08:22:01.928087",
+    "Ai": "2026-06-20T08:22:02.048781"
   }
 }
