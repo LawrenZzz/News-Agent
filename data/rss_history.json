@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8f570e222c1928afe40946c87709d10141db2e805addaf3d1760e5e78e37fc08": {
-        "title": "营收创新高、股价却下跌，英伟达面临两个历史性关口",
-        "link": "https://www.tmtpost.com/7997167.html",
-        "published_date": "Thu, 21 May 2026 16:24:00 GMT",
-        "first_seen": "2026-05-21T08:33:41.655034"
-      },
-      "fe9503fd4f38791fee198c8c2d6e1ec4ea19c16149ddbd7d4e32fe30e3f0a65e": {
-        "title": "Cloud Platforms Regain AI “Pricing Power”",
-        "link": "https://www.tmtpost.com/7997544.html",
-        "published_date": "Thu, 21 May 2026 16:10:00 GMT",
-        "first_seen": "2026-05-21T08:33:41.655041"
-      },
-      "e89739efccb18e4a70e8f85b703f79938695114084e41bd9a4baa9b11d2a1132": {
-        "title": "特斯拉FSD入华倒计时：迟到的鲶鱼，还是新的变量？",
-        "link": "https://www.tmtpost.com/7997341.html",
-        "published_date": "Thu, 21 May 2026 14:51:00 GMT",
-        "first_seen": "2026-05-21T08:33:41.655044"
-      },
-      "4b1bd03c2a6948170519e3c76f387fd4c5121c071bf64f68034e97eafbf9550c": {
-        "title": "对话灵初智能CEO 王启斌：具身智能，正从\"硬件浪潮\"进入\"数据浪潮\"",
-        "link": "https://www.tmtpost.com/7996985.html",
-        "published_date": "Thu, 21 May 2026 13:33:00 GMT",
-        "first_seen": "2026-05-21T08:33:41.655046"
-      },
-      "578064587c232f8aed523d3e737ce5f48b3aafa7505aaf709a28fde7baad48f3": {
-        "title": "OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档",
-        "link": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 21 May 2026 14:39:00 GMT",
-        "first_seen": "2026-05-21T08:33:41.655048"
-      },
-      "082de17257cb10fa5dbb6b4ca28c825b628b3d48cc14ab957f14b54a68ff43ba": {
-        "title": "蔚蓝科技发布新一代消费级四足机器人BabyAlpha A3｜具身动态",
-        "link": "https://www.tmtpost.com/7998326.html",
-        "published_date": "Thu, 21 May 2026 22:16:00 GMT",
-        "first_seen": "2026-05-22T00:02:59.264446"
-      },
-      "fcbda3fae938e40279dbb7b5fdf57a34d0611401175781d723fa61d6555d1d6c": {
-        "title": "词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石",
-        "link": "https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 21 May 2026 15:37:00 GMT",
-        "first_seen": "2026-05-22T00:02:59.264458"
-      },
-      "8ff7af14b08c446518e4590d29a8baf048d9b7996ec724a9d14d3d661751abc2": {
-        "title": "腾讯混元世界模型的研发布局与思考｜AICon上海",
-        "link": "https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 21 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-22T00:02:59.264461"
-      },
-      "f8e0eb950fb1d4b0c878b965970ded8961c47f21644902d3f9bfd3670c60d59f": {
-        "title": "珈凯生物：股权定价悬殊频现异常操作，高毛利、低研发并存｜IPO观察",
-        "link": "https://www.tmtpost.com/7997486.html",
-        "published_date": "Thu, 21 May 2026 20:56:00 GMT",
-        "first_seen": "2026-05-22T00:02:59.264464"
-      },
-      "9620185603cba141d3e74d0f23c061f4fac5c441a64b4c36365221fda2fd61ad": {
-        "title": "AI硬件最火的一届618，绿联科技豪赌AI NAS的未来",
-        "link": "https://www.tmtpost.com/7997622.html",
-        "published_date": "Thu, 21 May 2026 18:17:00 GMT",
-        "first_seen": "2026-05-22T00:02:59.264466"
-      },
       "de3ee2b85ad43bb6627f943d69fa5ccf3fc32fc2f8d5328dcda3a97c09159715": {
         "title": "Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍",
         "link": "https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&utm_medium=article",
@@ -1951,69 +1891,39 @@
         "link": "https://www.tmtpost.com/8034822.html",
         "published_date": "Sat, 20 Jun 2026 10:54:00 GMT",
         "first_seen": "2026-06-20T08:21:45.729423"
+      },
+      "8d457fce5ce74f88d262d5dd1b140597d5a77184c17072845c44496b87873034": {
+        "title": "造芯片的，开始造设备了",
+        "link": "https://www.tmtpost.com/8034884.html",
+        "published_date": "Sat, 20 Jun 2026 18:54:00 GMT",
+        "first_seen": "2026-06-21T00:05:13.490312"
+      },
+      "ff8e65211311e15242f7d8855e1b9a37fa5cf39134547d6ef1a657c0decc6676": {
+        "title": "Momenta冲击港股IPO，物理AI第一股要来了",
+        "link": "https://www.tmtpost.com/8034713.html",
+        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
+        "first_seen": "2026-06-21T00:05:13.490327"
+      },
+      "7f6dbba9cb880fe433f6be0dcc9ef1336bdc1a1db37a54e2ba15b44d7fdebc5a": {
+        "title": "国家能源局牵头，四大核电集团联手建绿色核能平台，能消除公众的“恐核”吗？",
+        "link": "https://www.tmtpost.com/8034838.html",
+        "published_date": "Sat, 20 Jun 2026 16:21:00 GMT",
+        "first_seen": "2026-06-21T00:05:13.490330"
+      },
+      "baea1b5157196d7ca2e740a6d1c20bca1b8b1950d03ef47cc8027227d49eabf4": {
+        "title": "花钱雇AI当同事，我的生意怎么样了？",
+        "link": "https://www.tmtpost.com/8034774.html",
+        "published_date": "Sat, 20 Jun 2026 15:40:00 GMT",
+        "first_seen": "2026-06-21T00:05:13.490332"
+      },
+      "e4b76061f7c406051ba5dba271233d6dcfbbd6010b6ed140cc7fbf114b15d46e": {
+        "title": "手握10亿订单却“缺血”？偏科玩家天瞳威视的IPO豪赌",
+        "link": "https://www.tmtpost.com/8034733.html",
+        "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
+        "first_seen": "2026-06-21T00:05:13.490335"
       }
     },
     "Finance": {
-      "2da141aa218fe4c985862b3a026881c7e42f5fdd570f0d212a1983443bb5819c": {
-        "title": "Anthropic on track for first profitable quarter",
-        "link": "https://www.ft.com/content/a67248e7-f819-4dba-b0f7-3847df0a75f3",
-        "published_date": "Thu, 21 May 2026 00:23:00 GMT",
-        "first_seen": "2026-05-21T08:32:35.223709"
-      },
-      "b8ce2ae276a1e02eb16d29bc2f132ae038dd66485cc258a2952b8b6449ae6c22": {
-        "title": "Asteroid mining and new billionaires: what’s in SpaceX’s IPO filing",
-        "link": "https://www.ft.com/content/a59be3cf-eee2-4b10-9c86-b6e4dc0dbbdb",
-        "published_date": "Thu, 21 May 2026 01:57:00 GMT",
-        "first_seen": "2026-05-21T08:32:35.223724"
-      },
-      "2cf7337f017ec2b89afec7e99971e761b384d303c89ae277cb6a59576edf3975": {
-        "title": "Saudi Arabia stops new work for consultants as war rattles finances",
-        "link": "https://www.ft.com/content/9855a284-8109-4d66-8b3e-e08da0e97dd8",
-        "published_date": "Thu, 21 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-21T08:32:35.223728"
-      },
-      "d9a32bbc0c6af925cbacff37b78ae78cb8ea62a9f0b3e6c4ad3c1bc57108f83f": {
-        "title": "Nvidia fails to dazzle investors despite lifting dividends",
-        "link": "https://www.ft.com/content/a7aa26d1-1bad-407f-8bff-4ae491cb8ce0",
-        "published_date": "Thu, 21 May 2026 00:43:00 GMT",
-        "first_seen": "2026-05-21T08:32:35.223729"
-      },
-      "9d13ff6572fbcee8a88317beddf8075ff464d3c4af39ff2f89a168a61bdb90a7": {
-        "title": "Is Chris Hohn Britain’s answer to Warren Buffett?",
-        "link": "https://www.ft.com/content/521d1861-82c5-4194-9358-f3dd53d122b5",
-        "published_date": "Thu, 21 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-21T08:32:35.223731"
-      },
-      "ad4177e9df522a9cf91aa0f34035cbba1f1ae0d36cf6bbe00710ee1f72bafb43": {
-        "title": "‘Fast entry’ SpaceX, OpenAI and Anthropic IPOs to ignite Wall St trading frenzy",
-        "link": "https://www.ft.com/content/970b1bab-ca00-4ea1-8964-a59ea431de6e",
-        "published_date": "Thu, 21 May 2026 17:41:00 GMT",
-        "first_seen": "2026-05-22T00:02:10.445340"
-      },
-      "4d173faabe1517ed8108c912d5d9acdeff3cdfdf2ec5bd1ecb1fe1dd46fef175": {
-        "title": "Goldman Sachs eclipses Morgan Stanley’s Michael Grimes on SpaceX IPO",
-        "link": "https://www.ft.com/content/10cecc4e-dbce-477d-9f10-068581c6e650",
-        "published_date": "Thu, 21 May 2026 17:10:00 GMT",
-        "first_seen": "2026-05-22T00:02:10.445351"
-      },
-      "01ec1925445412c5925cad0c3aa4148f252ca53a9db3bbba20436547ec6364dd": {
-        "title": "Republicans push back on Trump’s ‘anti-weaponisation’ fund",
-        "link": "https://www.ft.com/content/d6589a2b-365d-45e5-bf00-5ab2f243b732",
-        "published_date": "Thu, 21 May 2026 22:40:00 GMT",
-        "first_seen": "2026-05-22T00:02:10.445354"
-      },
-      "eba90420a418b3736826cf86a909bab63b418f99c72ce7050dd9544ca20e3954": {
-        "title": "SpaceX readies high-stakes test launch of latest Starship spacecraft",
-        "link": "https://www.ft.com/content/15c61eaf-e592-483b-8f06-8e2d126276d5",
-        "published_date": "Thu, 21 May 2026 21:27:00 GMT",
-        "first_seen": "2026-05-22T00:02:10.445356"
-      },
-      "66b847a977ac53467c64a64cd9965535bff5f9ffc2f13a0bde1e5c8e0c6bee0c": {
-        "title": "DNC autopsy says Biden White House to blame for Harris loss",
-        "link": "https://www.ft.com/content/c9c35cc3-6f74-4b28-a403-a1199f7f36a6",
-        "published_date": "Thu, 21 May 2026 19:31:00 GMT",
-        "first_seen": "2026-05-22T00:02:10.445358"
-      },
       "d6c0f2905ec7e09249b2778a9078652ab25c88c37207d13f938d6aa6f6a961b4": {
         "title": "Investing in the era of scarcity",
         "link": "https://www.ft.com/content/1a13b8b5-1fc0-49bf-94ed-cb78110b6fcb",
@@ -3795,69 +3705,39 @@
         "link": "https://www.ft.com/content/f97a3ea9-29c5-42bb-bf4e-d4f6929b40d1",
         "published_date": "Sat, 20 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-20T08:22:01.928084"
+      },
+      "1b60d6a19aff5b3daa799a0102ca6a0cf745442f65a9d51fd4a4cf3c94b042f4": {
+        "title": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
+        "link": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
+        "published_date": "Sat, 20 Jun 2026 20:39:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.674417"
+      },
+      "ae1e3a5463fa0eb58e37f775bed0629e1820222bc7a56ed49e460154a455c300": {
+        "title": "We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.",
+        "link": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
+        "published_date": "Sat, 20 Jun 2026 18:20:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.674425"
+      },
+      "6645807b828ff932898bb8d0a2d4d718c1b1943350dc480c855a97e12e66fffb": {
+        "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
+        "link": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+        "published_date": "Sat, 20 Jun 2026 18:36:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.674428"
+      },
+      "fc4c04ee6ce8a074bf4df9ebcca4db7dbbc86e57494471a95f0c8bc56edf2964": {
+        "title": "Did Anthropic talk its way into an AI export ban?",
+        "link": "https://www.ft.com/content/16ace46c-aeac-40c9-8598-3c01fa4481cb",
+        "published_date": "Sat, 20 Jun 2026 11:00:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.674430"
+      },
+      "94e4097643371c060bb65deb4d6088a72932ce383a2cd7562b371760dbd5e00f": {
+        "title": "Pedro Sánchez’s wife ordered to face corruption trial and surrender passport",
+        "link": "https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0",
+        "published_date": "Sat, 20 Jun 2026 14:40:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.674432"
       }
     },
     "Ai": {
-      "b21df452eb80810ab704f1122338f15814a2c7961b83e0669b46174ddd00a126": {
-        "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
-        "link": "https://www.qbitai.com/2026/05/420918.html",
-        "published_date": "Thu, 21 May 2026 04:40:00 GMT",
-        "first_seen": "2026-05-21T08:33:53.414817"
-      },
-      "3a365cd7922a15b7582123fb34e923e52d1521ee776cf6666e7e953aa458ba78": {
-        "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
-        "link": "https://www.qbitai.com/2026/05/421694.html",
-        "published_date": "Thu, 21 May 2026 06:46:00 GMT",
-        "first_seen": "2026-05-21T08:33:53.414825"
-      },
-      "706019866d22c406ea2d4ea72c44c78e732e9e968f15956e6d82840becf274aa": {
-        "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
-        "link": "https://www.qbitai.com/2026/05/421697.html",
-        "published_date": "Thu, 21 May 2026 06:52:00 GMT",
-        "first_seen": "2026-05-21T08:33:53.414827"
-      },
-      "60cf493b6ca3e7161b2f05ccd86b5e4926b84b8c6e5fdaf9c1f5f82a12ae8b1c": {
-        "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
-        "link": "https://www.qbitai.com/2026/05/421691.html",
-        "published_date": "Thu, 21 May 2026 05:37:00 GMT",
-        "first_seen": "2026-05-21T08:33:53.414829"
-      },
-      "86eb1ff169046493dc3fc75a25d87bec889a92aa062c0a4cee00f31e42129f48": {
-        "title": "刚刚，马斯克公开SpaceX招股书！",
-        "link": "https://www.qbitai.com/2026/05/420761.html",
-        "published_date": "Thu, 21 May 2026 01:37:00 GMT",
-        "first_seen": "2026-05-21T08:33:53.414831"
-      },
-      "250fa452571cce9f64c1aabbff6392f77aa804da611c3cb9fe07305581b0e4ae": {
-        "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
-        "link": "https://www.qbitai.com/2026/05/422032.html",
-        "published_date": "Thu, 21 May 2026 09:36:00 GMT",
-        "first_seen": "2026-05-22T00:03:09.499805"
-      },
-      "58e37df93546de28dadc139f732965e7edac615ead2870233d0457d54ae2b258": {
-        "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
-        "link": "https://www.qbitai.com/2026/05/422002.html",
-        "published_date": "Thu, 21 May 2026 09:14:00 GMT",
-        "first_seen": "2026-05-22T00:03:09.499812"
-      },
-      "fc32b1f80d9180b2e3cdcc2b9b73b8ff95230c2a8ee6c6f0443aa917e21c2e87": {
-        "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
-        "link": "https://www.qbitai.com/2026/05/422009.html",
-        "published_date": "Thu, 21 May 2026 09:16:00 GMT",
-        "first_seen": "2026-05-22T00:03:09.499815"
-      },
-      "27a0887664dbad4f6db06e8161b18dde73a9cfdb1a51db846772b24d860a312a": {
-        "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-        "link": "https://www.qbitai.com/2026/05/422068.html",
-        "published_date": "Thu, 21 May 2026 09:48:00 GMT",
-        "first_seen": "2026-05-22T00:03:09.499816"
-      },
-      "a4eaf9777b390f626d5d399f5968de588ef52e0b525feffd069e5787133dca5a": {
-        "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/422001.html",
-        "published_date": "Thu, 21 May 2026 09:27:00 GMT",
-        "first_seen": "2026-05-22T00:03:09.499818"
-      },
       "473168e3fcd171bb936b76a98721b1440b4080383db0f3cbd88e708c6c2c59af": {
         "title": "2026-05-22日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-22/",
@@ -5009,13 +4889,43 @@
         "link": "https://hex2077.dev/docs/2026-06/2026-06-20/",
         "published_date": "Sat, 20 Jun 2026 09:24:00 GMT",
         "first_seen": "2026-06-20T08:22:02.048773"
+      },
+      "9161663b53bf8cac4732be80fca5b054661256c2626d37ba29c793074e277c0a": {
+        "title": "英伟达开始搞机器人自己研究机器人那套了…",
+        "link": "https://www.qbitai.com/2026/06/437041.html",
+        "published_date": "Sat, 20 Jun 2026 12:06:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.793581"
+      },
+      "b5bda4c2f7626eb99af6ddd7b8ef9810fbf78b396d00db017e961b1367c5cad5": {
+        "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+        "link": "https://www.qbitai.com/2026/06/437023.html",
+        "published_date": "Sat, 20 Jun 2026 11:56:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.793591"
+      },
+      "6902df6fffe3bb654ead9501bb673ee8656c09753eb428ee821bedbae1dd5364": {
+        "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+        "link": "https://www.qbitai.com/2026/06/436996.html",
+        "published_date": "Sat, 20 Jun 2026 10:42:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.793593"
+      },
+      "1891673a41d3687d41d4c325a9cee8db0912b5fe8ddb0caf3f2b37ca792400a1": {
+        "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+        "link": "https://www.qbitai.com/2026/06/436980.html",
+        "published_date": "Sat, 20 Jun 2026 09:42:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.793595"
+      },
+      "70907adbab5dbbaf710413045fd6c4adba2b8e3a1cee90a6f52a727bbf28fa4f": {
+        "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+        "link": "https://www.qbitai.com/2026/06/436966.html",
+        "published_date": "Sat, 20 Jun 2026 09:36:00 GMT",
+        "first_seen": "2026-06-21T00:05:33.793597"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-20T08:21:45.729426",
-    "Finance": "2026-06-20T08:22:01.928087",
-    "Ai": "2026-06-20T08:22:02.048781"
+    "Technology": "2026-06-21T00:05:13.490337",
+    "Finance": "2026-06-21T00:05:33.674434",
+    "Ai": "2026-06-21T00:05:33.793598"
   }
 }
