@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "de3ee2b85ad43bb6627f943d69fa5ccf3fc32fc2f8d5328dcda3a97c09159715": {
-        "title": "Vite 8.0 ：基于 Rust 的统一打包工具，构建速度最高提升 30 倍",
-        "link": "https://www.infoq.cn/article/9gN7a2Dw8MOKN3WXqvxC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 22 May 2026 13:31:00 GMT",
-        "first_seen": "2026-05-22T08:20:53.397537"
-      },
-      "ed0bc60bca781f3736318e63ce436c33d6c69ca9751e3c5df80d1e91bda275e5": {
-        "title": "Pip 26.1正式发布：上线依赖冷却机制与实验性锁定文件功能，抵御供应链攻击",
-        "link": "https://www.infoq.cn/article/tO2s7Qc7DtKWpXMpMbC1?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 22 May 2026 10:40:00 GMT",
-        "first_seen": "2026-05-22T08:20:53.397543"
-      },
-      "5355910fd52038126b85760d9c7ac4e8a58e6942770b29f65213ffd0e44ef419": {
-        "title": "TanStack 披露一起复杂的 npm 供应链攻击事件， 42 个包遭入侵",
-        "link": "https://www.infoq.cn/article/ePxUGQ7cZvWNWkOhE1vT?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 22 May 2026 16:00:00 GMT",
-        "first_seen": "2026-05-22T08:20:53.397546"
-      },
-      "631ecccb2e0fd8d753964d9de2b9bc86ef6e0e77c50f9b43b892e5a4036929fd": {
-        "title": "Cloudflare 发布 Dynamic Workflows，将持久化执行扩展到按租户与按 Agent 动态运行的代码",
-        "link": "https://www.infoq.cn/article/4DhNBEdPJL4q8cA8cXso?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 22 May 2026 09:47:00 GMT",
-        "first_seen": "2026-05-22T08:20:53.397548"
-      },
-      "2465afb070363e3909ff0eac7236ec8bc90162552a02d31b380532963100e816": {
-        "title": "OpenAI IPO再生变数：刚传本周递表，奥特曼就暗示上市时间可能延后",
-        "link": "https://www.tmtpost.com/7998980.html",
-        "published_date": "Fri, 22 May 2026 14:53:00 GMT",
-        "first_seen": "2026-05-22T08:20:53.397549"
-      },
       "890de262e7d78962d519dc05c3cabf0f99c7aa9714b8c67a0ac4811e0d263ac8": {
         "title": "Gemini 3.5深夜登场，谷歌CEO劈柴亲自算账：速度快4倍、一年还省超10亿美元，曝内部已被颠覆",
         "link": "https://www.infoq.cn/article/COda3jCSAliReaA4YVJc?utm_source=rss&utm_medium=article",
@@ -1921,39 +1891,39 @@
         "link": "https://www.tmtpost.com/8034733.html",
         "published_date": "Sat, 20 Jun 2026 09:04:00 GMT",
         "first_seen": "2026-06-21T00:05:13.490335"
+      },
+      "2b7deda88e367d3fc90299e9cfddba6601f54840e07db1d4d38902023fa99c16": {
+        "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "link": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 21 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-21T08:58:12.082534"
+      },
+      "3591aa0b945297cb405c85d930a0ecc3b460b03b4846a7829b0ffa668f170a95": {
+        "title": "Plaud软件年化收入破1亿美元，硬件明星开始软件叙事 ｜出海参考",
+        "link": "https://www.tmtpost.com/8034874.html",
+        "published_date": "Sun, 21 Jun 2026 13:22:00 GMT",
+        "first_seen": "2026-06-21T08:58:12.082545"
+      },
+      "7972eb226a0abb4f81c76df99fdcacb0c50445ecffd16fe7bdfa1781380b6a42": {
+        "title": "AI 知识付费“出海”：一门生意的机会、风险与转折点",
+        "link": "https://www.tmtpost.com/8035065.html",
+        "published_date": "Sun, 21 Jun 2026 10:00:00 GMT",
+        "first_seen": "2026-06-21T08:58:12.082548"
+      },
+      "336cab09493f6e1d7e9bd18ef2c411f3771303b0d6394396180d5aecd6548acd": {
+        "title": "GPT-5.6倒计时：放弃单一API幻想，算力迭代再快也敌不过一纸合规",
+        "link": "https://www.tmtpost.com/8035108.html",
+        "published_date": "Sun, 21 Jun 2026 12:35:00 GMT",
+        "first_seen": "2026-06-21T08:58:12.082550"
+      },
+      "05ed15ccab931af0951ab656309f4ee53b704afb45b9af7ce0438ae83455342e": {
+        "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+        "link": "https://sspai.com/post/110972",
+        "published_date": "Sun, 21 Jun 2026 10:30:00 GMT",
+        "first_seen": "2026-06-21T08:58:12.082551"
       }
     },
     "Finance": {
-      "d6c0f2905ec7e09249b2778a9078652ab25c88c37207d13f938d6aa6f6a961b4": {
-        "title": "Investing in the era of scarcity",
-        "link": "https://www.ft.com/content/1a13b8b5-1fc0-49bf-94ed-cb78110b6fcb",
-        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-22T08:20:30.341284"
-      },
-      "183bc2cbbb0c9f0557dbfc47d8774a22668a2b47d0fa2b140d7f1239fc458cf7": {
-        "title": "JPMorgan looks to offload exposure to $4bn in private equity-linked loans",
-        "link": "https://www.ft.com/content/dc63cb21-afdb-4f0e-8667-86fc89f45a03",
-        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-22T08:20:30.341292"
-      },
-      "b6a7769ca5c73db85cac6ed4485c8b19d35be1367bb12d50de9528ae5a1ed40a": {
-        "title": "Next Harvard endowment chief faces a private equity hangover",
-        "link": "https://www.ft.com/content/82b7a28f-b317-46c6-a386-d730f67433de",
-        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-22T08:20:30.341294"
-      },
-      "32e416a62374b97228ead9d8011da9accaa2935a5f114207da1b46183202aa8c": {
-        "title": "Crypto industry braces for quantum computing threat",
-        "link": "https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e",
-        "published_date": "Fri, 22 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-22T08:20:30.341296"
-      },
-      "edcf5848679391a3df2e1f73ee825b99c43ad91a2dc22251cb740d2d5a408a80": {
-        "title": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
-        "link": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories",
-        "published_date": "Fri, 22 May 2026 01:23:00 GMT",
-        "first_seen": "2026-05-22T08:20:30.341298"
-      },
       "d4821f41f95eca4b52ff1071eb98fedacdb2226486dd385249e579e3150649ba": {
         "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
         "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
@@ -3735,39 +3705,39 @@
         "link": "https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0",
         "published_date": "Sat, 20 Jun 2026 14:40:00 GMT",
         "first_seen": "2026-06-21T00:05:33.674432"
+      },
+      "999af26771b03ef4b0a123ef17e5d690222bdd5f1971c86651c17a755f4598a1": {
+        "title": "Vance arrives in Switzerland for crunch US-Iran talks",
+        "link": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
+        "published_date": "Sun, 21 Jun 2026 07:31:00 GMT",
+        "first_seen": "2026-06-21T08:58:22.213523"
+      },
+      "c3f0664d7271e20742f3c0bc6105006eaf4461720bc7c99a8c005e7a619c29c0": {
+        "title": "How easily could Britain rejoin the EU?",
+        "link": "https://www.ft.com/content/ac017928-50b5-40e5-a1a8-393b3a238477",
+        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-21T08:58:22.213530"
+      },
+      "89c316fdbf90f311bb8101a88ca89cb6dea84bbe56698b8cc0b30fc26905284f": {
+        "title": "SpaceX handed lowest possible ESG rating by MSCI",
+        "link": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
+        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-21T08:58:22.213532"
+      },
+      "7bb01a96aa0b2e8c62c0d5833c569625dc1e957410d3cdcaf3629c650630afa5": {
+        "title": "Starmer could announce exit next week, some ministers believe",
+        "link": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
+        "published_date": "Sun, 21 Jun 2026 08:14:00 GMT",
+        "first_seen": "2026-06-21T08:58:22.213534"
+      },
+      "8b5d38a97421879ad8b2c279b643a2fe8acf40e1da2f06d712f69b1ef7ec06c2": {
+        "title": "Putin’s war machine sputters in drone age",
+        "link": "https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd",
+        "published_date": "Sun, 21 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-21T08:58:22.213535"
       }
     },
     "Ai": {
-      "473168e3fcd171bb936b76a98721b1440b4080383db0f3cbd88e708c6c2c59af": {
-        "title": "2026-05-22日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-22/",
-        "published_date": "Fri, 22 May 2026 10:45:00 GMT",
-        "first_seen": "2026-05-22T08:21:06.369901"
-      },
-      "5e1d736121a630f1a90b6f6348858d6186702a3e27ba36b692f65c87b026f3cf": {
-        "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-        "link": "https://www.qbitai.com/2026/05/422624.html",
-        "published_date": "Fri, 22 May 2026 07:16:00 GMT",
-        "first_seen": "2026-05-22T08:21:06.369909"
-      },
-      "4b4666d45fcb2342f407999bbe98fcafded46be06df45c73465abdb30e53c6b5": {
-        "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-        "link": "https://www.qbitai.com/2026/05/422615.html",
-        "published_date": "Fri, 22 May 2026 06:38:00 GMT",
-        "first_seen": "2026-05-22T08:21:06.369912"
-      },
-      "e0d4443348586864cdb43dfb1e6c8ea7613d9968042e53e44733e36c09e4223e": {
-        "title": "顶流里最快！智谱，你是在「喷」代码吧",
-        "link": "https://www.qbitai.com/2026/05/422511.html",
-        "published_date": "Fri, 22 May 2026 03:05:00 GMT",
-        "first_seen": "2026-05-22T08:21:06.369914"
-      },
-      "b20860ede67aaf37630cc87b6b3f22ca23519d73867bef055ffa5a35194dc78b": {
-        "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-        "link": "https://www.qbitai.com/2026/05/422455.html",
-        "published_date": "Fri, 22 May 2026 02:57:00 GMT",
-        "first_seen": "2026-05-22T08:21:06.369915"
-      },
       "80e81b1aa061ce44212c1e26097217ffb4b9669d771956f813bcbd9c07a432f8": {
         "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
         "link": "https://www.qbitai.com/2026/05/422811.html",
@@ -4919,13 +4889,19 @@
         "link": "https://www.qbitai.com/2026/06/436966.html",
         "published_date": "Sat, 20 Jun 2026 09:36:00 GMT",
         "first_seen": "2026-06-21T00:05:33.793597"
+      },
+      "871d6c8a8da3c0d9cb455280581d442163f6dddef1db2465d2726a65090decb2": {
+        "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+        "link": "https://www.qbitai.com/2026/06/437141.html",
+        "published_date": "Sun, 21 Jun 2026 04:46:00 GMT",
+        "first_seen": "2026-06-21T08:58:22.332390"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-21T00:05:13.490337",
-    "Finance": "2026-06-21T00:05:33.674434",
-    "Ai": "2026-06-21T00:05:33.793598"
+    "Technology": "2026-06-21T08:58:12.082554",
+    "Finance": "2026-06-21T08:58:22.213538",
+    "Ai": "2026-06-21T08:58:22.332397"
   }
 }
