@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "638c9d2e2d1b6a97cce124e45b126fe706c0d5fcd37551791384cc6cb2ef6edd": {
-        "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
-        "link": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 23 May 2026 14:00:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.770292"
-      },
-      "d7a7c4672bd0c21689d5b2641f3cee29d720cea2017f942526966f08255c4a09": {
-        "title": "2万亿美元的火星船票，SpaceX开启人类史上最大IPO",
-        "link": "https://www.tmtpost.com/7999535.html",
-        "published_date": "Sat, 23 May 2026 09:57:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.770298"
-      },
-      "a68f170e1768f9c69911f3a76a5fb8e47db2c5fb8d0569688781da58e163b513": {
-        "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
-        "link": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 23 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.770300"
-      },
-      "13a08e2b2814b9b26d18b21388972354e8d404842d3929feeb58998024f41b1a": {
-        "title": "AI融资潮中的三种故事",
-        "link": "https://www.tmtpost.com/7999581.html",
-        "published_date": "Sat, 23 May 2026 10:44:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.770302"
-      },
-      "0f38f8f9567b0966772fbe2592eb94c7600b361b84752d599e8fbb8acc5a44ad": {
-        "title": "2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战",
-        "link": "https://www.tmtpost.com/7999676.html",
-        "published_date": "Sat, 23 May 2026 10:43:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.770303"
-      },
-      "ef50bb46ccf65f2b01755d2a9ecc072e4a30fdf1b5e4732c34837b8b22fb41d3": {
-        "title": "【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构",
-        "link": "https://www.tmtpost.com/7999893.html",
-        "published_date": "Sat, 23 May 2026 17:06:00 GMT",
-        "first_seen": "2026-05-23T09:50:27.037998"
-      },
-      "693a1702cef3f2a9ec9906d843ffa4401deae00ba9a4f634e26a99723659dd82": {
-        "title": "监管重拳落地：老虎、富途遭重罚，跨境炒股“野蛮时代”终结",
-        "link": "https://www.tmtpost.com/7999493.html",
-        "published_date": "Sat, 23 May 2026 09:08:00 GMT",
-        "first_seen": "2026-05-23T09:50:27.038005"
-      },
-      "5ece671a0dd5ea3a45bad1b35428c1079ea39cd5bb56b600aba24174791559e2": {
-        "title": "对话李斌：蔚来的盈利，不是靠一个爆款打出来的",
-        "link": "https://www.tmtpost.com/7999788.html",
-        "published_date": "Sat, 23 May 2026 13:04:00 GMT",
-        "first_seen": "2026-05-23T09:50:27.038007"
-      },
-      "fe9b319b85c7bcb3006b0db02d80ece6759218843de7b9d0b202c59c00dac2fa": {
-        "title": "日产上千部短剧！AI 狂飙背后，行业早已两极分化",
-        "link": "https://www.tmtpost.com/7996131.html",
-        "published_date": "Sat, 23 May 2026 09:35:00 GMT",
-        "first_seen": "2026-05-23T09:50:27.038009"
-      },
-      "75d4bffea84b49ab8c72e46a9f79795ce6dc90d515a7c5edf959d0221e6b1d7c": {
-        "title": "推荐 3 个刚开源 Star 在慢慢攀升的 GitHub 开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533890&idx=1&sn=f8244e816ac8baf3082a692784afa2d6",
-        "published_date": "Sat, 23 May 2026 14:23:00 GMT",
-        "first_seen": "2026-05-23T09:50:27.038011"
-      },
       "25164b87192071e1dde2e45d2ea31f26fbdf2bd5f55665d3661c4bded6564899": {
         "title": "SpaceX抢跑，OpenAI追击",
         "link": "https://www.tmtpost.com/7999911.html",
@@ -1921,45 +1861,39 @@
         "link": "https://www.tmtpost.com/8035153.html",
         "published_date": "Sun, 21 Jun 2026 17:10:00 GMT",
         "first_seen": "2026-06-22T00:09:30.452114"
+      },
+      "88b9ee9f2574e1bb4e314fdcee7184b0b145e8a179d79cb64b2b7ed9d92fa69d": {
+        "title": "派早报：英特尔将为苹果代工芯片",
+        "link": "https://sspai.com/post/111343",
+        "published_date": "Mon, 22 Jun 2026 07:13:00 GMT",
+        "first_seen": "2026-06-22T10:37:32.006955"
+      },
+      "21df4b25e20d024af2f78a5795ee0312fbb87eec89acf89f63c4eef8204365a4": {
+        "title": "吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构",
+        "link": "https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Jun 2026 16:55:00 GMT",
+        "first_seen": "2026-06-22T10:37:32.006964"
+      },
+      "e3d122eda21d532f623129fd3264401fb6a567335db8ffb19d3b2ae29e0d49d2": {
+        "title": "Prompt已死，Loop Engineering成了硅谷AI圈新顶流",
+        "link": "https://www.tmtpost.com/8036245.html",
+        "published_date": "Mon, 22 Jun 2026 17:22:00 GMT",
+        "first_seen": "2026-06-22T10:37:32.006966"
+      },
+      "c98d2804d84130a635debfa659915a9208bbb685ccffbc5efa4b785563ade885": {
+        "title": "内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选",
+        "link": "https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Jun 2026 10:20:00 GMT",
+        "first_seen": "2026-06-22T10:37:32.006968"
+      },
+      "8aecd8bf5f202e6a038f55ff34beb9714a463ce7b198d6cc12cb10a4a1d0c351": {
+        "title": "GitHub 不会死，但它的社区灵魂正在被 AI Agent 抽空",
+        "link": "https://www.tmtpost.com/8036277.html",
+        "published_date": "Mon, 22 Jun 2026 18:03:00 GMT",
+        "first_seen": "2026-06-22T10:37:32.006969"
       }
     },
     "Finance": {
-      "8b54678a45dd711747807688e58c1eda1e4e6a70330f8f1f6e7ca79618e7d56c": {
-        "title": "The new arms race in computing power",
-        "link": "https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e",
-        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-23T07:30:22.684938"
-      },
-      "8b69b5de380801cc39d227664d617478a95c0bda98b0e405169153f7d7eaf08d": {
-        "title": "The new Luddite movement",
-        "link": "https://www.ft.com/content/f5c96fa6-5b9b-4951-b71d-e32b3b57d8df",
-        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-23T07:30:22.684949"
-      },
-      "91b0a5b9f9f367abbafaaf637760b0edd181b6f80b412985e0e5c01855a64d0d": {
-        "title": "Arsenal’s hold on the streets and the elites",
-        "link": "https://www.ft.com/content/2491cee3-8644-4cad-829d-8749f639515b",
-        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-23T07:30:22.684951"
-      },
-      "fb628be0ef06df58d5487143992f20fd0fe869084afe18ffcf64568b2be29406": {
-        "title": "China Inc goes shopping for western consumer brands",
-        "link": "https://www.ft.com/content/d5137b83-446d-4562-b0e5-44dc27d02640",
-        "published_date": "Sat, 23 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-23T07:30:22.684953"
-      },
-      "befcee39dba302d9bc731f2d5e4a3cb796f31418df541b2a1362ebb052b7fc3e": {
-        "title": "SpaceX launches redesigned Starship in successful pre-IPO test",
-        "link": "https://www.ft.com/content/ae78c11f-9aef-4ae8-976d-a70db5b4aa91",
-        "published_date": "Sat, 23 May 2026 00:30:00 GMT",
-        "first_seen": "2026-05-23T07:30:22.684955"
-      },
-      "d40ef76feda5b4a792dc9fccd04729b4babb5558c065d70cb2ce52790f594a72": {
-        "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
-        "link": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
-        "published_date": "Sat, 23 May 2026 08:00:00 GMT",
-        "first_seen": "2026-05-23T09:50:09.262617"
-      },
       "d031a48e76b721a80afbc9456baa7ba4a730ab7885dcbe1bab1c77055bc0f158": {
         "title": "US oil producers increase output to capture price surge from Iran war",
         "link": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
@@ -3735,21 +3669,39 @@
         "link": "https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981",
         "published_date": "Sun, 21 Jun 2026 19:31:00 GMT",
         "first_seen": "2026-06-22T00:09:41.932878"
+      },
+      "7747682cf1b3da0fc2a43461c319658942ce6620d2629f84055d70402fc6dcc5": {
+        "title": "Why sinodollars outweigh the petroyuan",
+        "link": "https://www.ft.com/content/0948fa97-1585-4484-90a5-6df769367dfe",
+        "published_date": "Mon, 22 Jun 2026 02:51:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.782048"
+      },
+      "96da75133dd2bcb80ad0b6ea6a678f651351c317413c1273b9a2b2e5b3880b0a": {
+        "title": "Ireland says it can secure an EU capital markets deal this year",
+        "link": "https://www.ft.com/content/022cb596-b92a-4fe3-838d-1e536cb95a7d",
+        "published_date": "Mon, 22 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.782054"
+      },
+      "115a1b7f771727c95323ad2e2daa69825e237eca789511c079df3588530e15da": {
+        "title": "Bain tests software takeover targets by vibecoding AI replicas",
+        "link": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+        "published_date": "Mon, 22 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.782055"
+      },
+      "471a9f2c4f7666f0eb833a65dd158740a1c7c46b354e8d8189cf0a21a41acde1": {
+        "title": "Starmer says he’s resigning as U.K. prime minister — here’s what it means for markets",
+        "link": "https://www.marketwatch.com/story/starmer-says-hes-resigning-as-u-k-prime-minister-heres-what-it-means-for-markets-f27a70e5?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Jun 2026 10:13:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.782057"
+      },
+      "d799de998843fbdf0bd0c5c148336b93b4df5afff4a66217a7faf683100d697c": {
+        "title": "Burnham will have to be brave if he wants to get Britain growing again",
+        "link": "https://www.ft.com/content/0f752e27-5268-4a6e-a45d-c48d13fb8ef0",
+        "published_date": "Mon, 22 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.782058"
       }
     },
     "Ai": {
-      "306ba59292c15a42fe3b8c4c7531f18ce82be1b69501befda82c438191cc3332": {
-        "title": "2026-05-23日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-23/",
-        "published_date": "Sat, 23 May 2026 10:32:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.890861"
-      },
-      "66b468939792d17d61f2910db1d836ca9f8877dd7cf19eddf517740535910dfd": {
-        "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
-        "link": "https://www.qbitai.com/2026/05/423159.html",
-        "published_date": "Sat, 23 May 2026 02:48:00 GMT",
-        "first_seen": "2026-05-23T07:30:43.890870"
-      },
       "0e06039460957750bbfa41cf1408ec7061e0023ac2a71ec08595772ead8913bc": {
         "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
         "link": "https://www.qbitai.com/2026/05/423202.html",
@@ -4889,13 +4841,43 @@
         "link": "https://www.qbitai.com/2026/06/437198.html",
         "published_date": "Sun, 21 Jun 2026 09:18:00 GMT",
         "first_seen": "2026-06-22T00:09:42.048575"
+      },
+      "01642a1e510197d9a56c06645802f0b826a9d800bfdaf6bb2dd637c1fa23bbb8": {
+        "title": "2026-06-22日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-22/",
+        "published_date": "Mon, 22 Jun 2026 09:52:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.874381"
+      },
+      "797d3785649fe4534abe2dc9d1b525227dd32891032307fa6af175b8ea7311b5": {
+        "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+        "link": "https://www.qbitai.com/2026/06/437317.html",
+        "published_date": "Mon, 22 Jun 2026 07:30:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.874388"
+      },
+      "6f17e7879d260fe581aaae16a5f474aef0c4b78a7814ce52d4ccd8e5af4ccbaa": {
+        "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+        "link": "https://www.qbitai.com/2026/06/437308.html",
+        "published_date": "Mon, 22 Jun 2026 06:22:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.874390"
+      },
+      "9b0efe48f716673da949f23522e581256c462633fbc864c22eb33c0a642d9b1c": {
+        "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+        "link": "https://www.qbitai.com/2026/06/437249.html",
+        "published_date": "Mon, 22 Jun 2026 05:09:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.874391"
+      },
+      "8a342395b24801ec514c77b70a3592e13e3dc77abc5d04c5af92c4cf2138d944": {
+        "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+        "link": "https://www.qbitai.com/2026/06/437235.html",
+        "published_date": "Mon, 22 Jun 2026 03:48:00 GMT",
+        "first_seen": "2026-06-22T10:37:46.874393"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-22T00:09:30.452116",
-    "Finance": "2026-06-22T00:09:41.932880",
-    "Ai": "2026-06-22T00:09:42.048583"
+    "Technology": "2026-06-22T10:37:32.006971",
+    "Finance": "2026-06-22T10:37:46.782060",
+    "Ai": "2026-06-22T10:37:46.874394"
   }
 }
