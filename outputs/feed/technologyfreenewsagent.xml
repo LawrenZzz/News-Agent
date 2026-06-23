@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Jun 2026 00:04:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 00:05:18 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 08:29:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:29:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据</title>
-      <link>https://www.tmtpost.com/8036644.html</link>
-      <description>&lt;![CDATA[【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036644.html</guid>
+      <title>一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？</title>
+      <link>https://www.tmtpost.com/8037455.html</link>
+      <description>&lt;![CDATA[一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8037455.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 决定靠卖广告养 AI</title>
-      <link>https://www.tmtpost.com/8035950.html</link>
-      <description>&lt;![CDATA[OpenAI 决定靠卖广告养 AI]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035950.html</guid>
+      <title>OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE</title>
+      <link>https://www.tmtpost.com/8037825.html</link>
+      <description>&lt;![CDATA[OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8037825.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix如何实时绘制数千个微服务的拓扑图</title>
-      <link>https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix如何实时绘制数千个微服务的拓扑图]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海</title>
+      <link>https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌AI摘要正在杀死网页？</title>
-      <link>https://www.tmtpost.com/8036201.html</link>
-      <description>&lt;![CDATA[谷歌AI摘要正在杀死网页？]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 17:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036201.html</guid>
+      <title>谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍</title>
+      <link>https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 11:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>xAI发布Grok Skills并更新用于工具调用的Responses API</title>
-      <link>https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[xAI发布Grok Skills并更新用于工具调用的Responses API]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码</title>
+      <link>https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
