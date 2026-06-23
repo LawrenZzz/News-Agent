@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "27ca04b0e7117b010d49dd8d076eae15fa65376feee1a301da845b84fcf45a29": {
-        "title": "日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？",
-        "link": "https://www.tmtpost.com/7999019.html",
-        "published_date": "Sun, 24 May 2026 17:52:00 GMT",
-        "first_seen": "2026-05-24T09:53:40.550506"
-      },
-      "85d15255dc64dbc5657edf28f741f58efaf434c582934060c3a11a379d6603e7": {
-        "title": "Edge AI Daily 早报（5月24日）",
-        "link": "https://www.tmtpost.com/8000103.html",
-        "published_date": "Sun, 24 May 2026 08:40:00 GMT",
-        "first_seen": "2026-05-24T09:53:40.550512"
-      },
-      "38cb3c83078461cc42b005f660f3bbf232f8deeff1235b41a670f5e5c0b36e28": {
-        "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
-        "link": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 24 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-24T09:53:40.550514"
-      },
-      "4c70de365efaad5e4f09af3a41004a589e89702fd73a7fb800b63d322ec5486a": {
-        "title": "一人公司还没赚钱，卖给一人公司的生意先赚钱了",
-        "link": "https://www.tmtpost.com/8000310.html",
-        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
-        "first_seen": "2026-05-24T09:53:40.550516"
-      },
-      "28c8d1a0aed21ac44f8cbc3a084f153bf8bddcb4a55ec3bba0d7aa9dfda25c9f": {
-        "title": "16亿千瓦，2026迎峰度夏极限压力测试即将开启，能源保供的三层防线与四大黄金赛道值得关注",
-        "link": "https://www.tmtpost.com/8000323.html",
-        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
-        "first_seen": "2026-05-24T09:53:40.550517"
-      },
       "4beade59d291b01a38957a6a134d5430432776d2d6e128922a935f9ad75a81cc": {
         "title": "黄仁勋不想“认输”",
         "link": "https://www.tmtpost.com/8000459.html",
@@ -1891,15 +1861,39 @@
         "link": "https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 23 Jun 2026 16:15:00 GMT",
         "first_seen": "2026-06-23T08:29:27.725365"
+      },
+      "3851c27b1d6ec3370c2e00009c4621ec863b0c1255ca55fd6a7953a3a7469e0e": {
+        "title": "中美AI对弈之下的算力难题",
+        "link": "https://www.tmtpost.com/8036519.html",
+        "published_date": "Tue, 23 Jun 2026 18:10:00 GMT",
+        "first_seen": "2026-06-23T23:55:21.011721"
+      },
+      "64bb751317e7ad26614ee43ee5fd047fa7bdca044e6085366200a52c08a9164c": {
+        "title": "【钛晨报】这些行业迎利好！九部门发文培育壮大汽车后市场消费；性能突破2EFlops，中国超算时隔九年再度登顶全球；误发地震预警，小米电视紧急致歉",
+        "link": "https://www.tmtpost.com/8038616.html",
+        "published_date": "Wed, 24 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-23T23:55:21.011732"
+      },
+      "3e8492c2eb11062b7f5a310e74af1b0e4b100d85ae7d70f7437ddd09b11e4953": {
+        "title": "Google DeepMind CEO：AGI已走在正确路上，但还缺最后一两块拼图",
+        "link": "https://www.tmtpost.com/8038028.html",
+        "published_date": "Tue, 23 Jun 2026 18:05:00 GMT",
+        "first_seen": "2026-06-23T23:55:21.011735"
+      },
+      "5f0c67f773789a5f48030de141c759f2d7275ab5a1a15d7a8548588e68aa6f7a": {
+        "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
+        "link": "https://www.infoq.cn/article/CuH2KDSV1bvb6btQOeRf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 23 Jun 2026 19:04:00 GMT",
+        "first_seen": "2026-06-23T23:55:21.011737"
+      },
+      "f2b2c198f2d3175eeb108726d64ab697482056d92e9145fe2ee0a4519d7e6baa": {
+        "title": "Loop Engineering 火了：AI Agent 开始自己干活，公司准备好背锅了吗？",
+        "link": "https://www.tmtpost.com/8036774.html",
+        "published_date": "Tue, 23 Jun 2026 12:55:00 GMT",
+        "first_seen": "2026-06-23T23:55:21.011739"
       }
     },
     "Finance": {
-      "97999186da96fbaebee828ef87b47c74ee20f10d19f84767236e496999afaf45": {
-        "title": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
-        "link": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
-        "published_date": "Sun, 24 May 2026 08:06:00 GMT",
-        "first_seen": "2026-05-24T09:53:25.157741"
-      },
       "91379806e40e827a4e2f13d0920c1f97dcaf0d3db7a8baa9442c6b0c9edc2205": {
         "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
         "link": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
@@ -3699,6 +3693,36 @@
         "link": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
         "published_date": "Tue, 23 Jun 2026 00:23:00 GMT",
         "first_seen": "2026-06-23T08:29:44.268219"
+      },
+      "5d6605cfef108dd297b80d799a536a4701e9addc63393f6d833182889fe55e0a": {
+        "title": "Alphabet’s stock is set to join the Dow, pivoting index’s industrial roots toward tech",
+        "link": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
+        "published_date": "Tue, 23 Jun 2026 23:11:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.844443"
+      },
+      "2df0748a83f26d55fb7faa108487acac1d83c1b893966ffe74402217314b07f5": {
+        "title": "Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods",
+        "link": "https://www.ft.com/content/4d3dd2b7-cb6b-410b-8c15-203904f32294",
+        "published_date": "Tue, 23 Jun 2026 23:01:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.844451"
+      },
+      "4be65bc5e1e6a0cc9b3a43ca3c06ece7128d08189128a62acb8508a63303e70b": {
+        "title": "EU allies join US pact to break reliance on Chinese AI supply chains",
+        "link": "https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc",
+        "published_date": "Tue, 23 Jun 2026 22:08:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.844453"
+      },
+      "e683db4791b8544d3816a66f8168e4da368c917efa13039ded5122731660686c": {
+        "title": "US manufacturing jobs fall at fastest rate since the pandemic",
+        "link": "https://www.ft.com/content/fbee05c0-03bb-4907-9390-ef56155a4579",
+        "published_date": "Tue, 23 Jun 2026 16:12:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.844455"
+      },
+      "ea10585770fc7f7ea3c149f6744d368bcdabdb44752ea91b59e326bdd72a7e36": {
+        "title": "SpaceX pulls off one of the biggest AI debt deals yet",
+        "link": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
+        "published_date": "Tue, 23 Jun 2026 23:14:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.844458"
       }
     },
     "Ai": {
@@ -4859,13 +4883,31 @@
         "link": "https://www.qbitai.com/2026/06/437381.html",
         "published_date": "Tue, 23 Jun 2026 06:10:00 GMT",
         "first_seen": "2026-06-23T08:29:54.360726"
+      },
+      "8db597d488d157a06461988b16484b71ffdb344551e0b89864c3b0c7a49fb623": {
+        "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
+        "link": "https://www.qbitai.com/2026/06/437694.html",
+        "published_date": "Tue, 23 Jun 2026 13:54:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.950463"
+      },
+      "f2000ff25dba735b09cc4c46598784b76f8ca11ef7a7d003129631241b9aa51f": {
+        "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
+        "link": "https://www.qbitai.com/2026/06/437672.html",
+        "published_date": "Tue, 23 Jun 2026 13:47:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.950471"
+      },
+      "59424e7c074c11d5ebdf95449ecde808a04d7c27e8f594d163f56effe2df3526": {
+        "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+        "link": "https://www.qbitai.com/2026/06/437503.html",
+        "published_date": "Tue, 23 Jun 2026 13:37:00 GMT",
+        "first_seen": "2026-06-23T23:55:40.950473"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-23T08:29:27.725367",
-    "Finance": "2026-06-23T08:29:44.268222",
-    "Ai": "2026-06-23T08:29:54.360728"
+    "Technology": "2026-06-23T23:55:21.011741",
+    "Finance": "2026-06-23T23:55:40.844462",
+    "Ai": "2026-06-23T23:55:40.950474"
   }
 }
