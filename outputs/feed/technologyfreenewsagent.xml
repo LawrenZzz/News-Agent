@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Jun 2026 10:37:00 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 10:37:31 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:05:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>派早报：英特尔将为苹果代工芯片</title>
-      <link>https://sspai.com/post/111343</link>
-      <description>&lt;![CDATA[派早报：英特尔将为苹果代工芯片]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111343</guid>
+      <title>【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据</title>
+      <link>https://www.tmtpost.com/8036644.html</link>
+      <description>&lt;![CDATA[【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8036644.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构</title>
-      <link>https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[吴恩达戳破AI幻象：炒作过头了，未来公司是10人小队＋Agent重做数据架构]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 16:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9ubrcrTRdxROBUo5igpy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 决定靠卖广告养 AI</title>
+      <link>https://www.tmtpost.com/8035950.html</link>
+      <description>&lt;![CDATA[OpenAI 决定靠卖广告养 AI]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8035950.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Prompt已死，Loop Engineering成了硅谷AI圈新顶流</title>
-      <link>https://www.tmtpost.com/8036245.html</link>
-      <description>&lt;![CDATA[Prompt已死，Loop Engineering成了硅谷AI圈新顶流]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036245.html</guid>
+      <title>Netflix如何实时绘制数千个微服务的拓扑图</title>
+      <link>https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix如何实时绘制数千个微服务的拓扑图]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选</title>
-      <link>https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[内核级的真相：为什么eBPF正在取代基于用户空间的Agent成为安全可观测性的首选]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/spibFV8QPwbvac8LAluZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌AI摘要正在杀死网页？</title>
+      <link>https://www.tmtpost.com/8036201.html</link>
+      <description>&lt;![CDATA[谷歌AI摘要正在杀死网页？]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8036201.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 不会死，但它的社区灵魂正在被 AI Agent 抽空</title>
-      <link>https://www.tmtpost.com/8036277.html</link>
-      <description>&lt;![CDATA[GitHub 不会死，但它的社区灵魂正在被 AI Agent 抽空]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036277.html</guid>
+      <title>xAI发布Grok Skills并更新用于工具调用的Responses API</title>
+      <link>https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[xAI发布Grok Skills并更新用于工具调用的Responses API]]&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

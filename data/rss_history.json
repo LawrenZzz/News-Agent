@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "25164b87192071e1dde2e45d2ea31f26fbdf2bd5f55665d3661c4bded6564899": {
-        "title": "SpaceX抢跑，OpenAI追击",
-        "link": "https://www.tmtpost.com/7999911.html",
-        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.539665"
-      },
-      "7d308f20a629068d81df766d02d8f32ba2b59ae124941656dd3429ce46af77d1": {
-        "title": "一场全民“AI自证”的黑色喜剧",
-        "link": "https://www.tmtpost.com/7999910.html",
-        "published_date": "Sat, 23 May 2026 21:03:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.539672"
-      },
-      "e5a0f8743c488baaa8909b4e2c6d33c837f4b6ada4f9feaacab0f65ac037655b": {
-        "title": "146亿元用于理财，阳光电源手握300亿元仍要赴港募资扩产",
-        "link": "https://www.tmtpost.com/7999673.html",
-        "published_date": "Sat, 23 May 2026 11:04:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.539674"
-      },
-      "d5097e8311d6ca8cc7247290924a14a4fbd1c745300053b39e3171c982bc4d98": {
-        "title": "18亿处罚落地前，富途控股被“精准”做空",
-        "link": "https://www.tmtpost.com/7999661.html",
-        "published_date": "Sat, 23 May 2026 10:44:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.539675"
-      },
-      "c56446754b8eacde1b803a25af3ca9e7490fc7ab3c32afef60c9325ab15609d4": {
-        "title": "十年亏损仍激进扩张，埃夫特10.7亿豪赌将新增商誉5.5亿",
-        "link": "https://www.tmtpost.com/7999847.html",
-        "published_date": "Sat, 23 May 2026 18:10:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.539677"
-      },
       "13a28d2faf8f310848d48360286ecfe75db954dc6f0651a7d1cd400cd2aae8f0": {
         "title": "活过来的Codex，扛起了OpenAI上市的希望",
         "link": "https://www.tmtpost.com/8000341.html",
@@ -1891,39 +1861,39 @@
         "link": "https://www.tmtpost.com/8036277.html",
         "published_date": "Mon, 22 Jun 2026 18:03:00 GMT",
         "first_seen": "2026-06-22T10:37:32.006969"
+      },
+      "2a81cc60391730d230eb1c1c7db15a4e27ba01cc56b83777955596078e9ea61d": {
+        "title": "【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据",
+        "link": "https://www.tmtpost.com/8036644.html",
+        "published_date": "Tue, 23 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-23T00:05:18.547011"
+      },
+      "dd3059b129e46fb8bd39536f91b0d578faf7d70fd7fffe401aba8932f740edfa": {
+        "title": "OpenAI 决定靠卖广告养 AI",
+        "link": "https://www.tmtpost.com/8035950.html",
+        "published_date": "Mon, 22 Jun 2026 19:47:00 GMT",
+        "first_seen": "2026-06-23T00:05:18.547023"
+      },
+      "bc4ad1a2b6dfeeb9cbdcb3b1efa34a1bfd7fa2f715b5417e7e33a3fa0a854645": {
+        "title": "Netflix如何实时绘制数千个微服务的拓扑图",
+        "link": "https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Jun 2026 19:07:00 GMT",
+        "first_seen": "2026-06-23T00:05:18.547026"
+      },
+      "9f29d574aaa7084b4e5731a503e7e48ae41dac77fa8fa280eaef442801c11294": {
+        "title": "谷歌AI摘要正在杀死网页？",
+        "link": "https://www.tmtpost.com/8036201.html",
+        "published_date": "Mon, 22 Jun 2026 17:08:00 GMT",
+        "first_seen": "2026-06-23T00:05:18.547028"
+      },
+      "1675eb45b367cece0342a424bec622e6f337c38e801c4d50d0c4a64666c65329": {
+        "title": "xAI发布Grok Skills并更新用于工具调用的Responses API",
+        "link": "https://www.infoq.cn/article/hmME4JhKTJUYJy9DNEJ2?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Jun 2026 16:49:00 GMT",
+        "first_seen": "2026-06-23T00:05:18.547030"
       }
     },
     "Finance": {
-      "d031a48e76b721a80afbc9456baa7ba4a730ab7885dcbe1bab1c77055bc0f158": {
-        "title": "US oil producers increase output to capture price surge from Iran war",
-        "link": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
-        "published_date": "Sat, 23 May 2026 11:00:00 GMT",
-        "first_seen": "2026-05-23T23:56:30.579892"
-      },
-      "426a245cd788bd2e0277327d291de6db3763fbd2a395b0a86fb448d5748a1b00": {
-        "title": "These 4 market sectors look frothy — and Nvidia’s isn’t even the biggest bubble",
-        "link": "https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories",
-        "published_date": "Sat, 23 May 2026 16:52:00 GMT",
-        "first_seen": "2026-05-23T23:56:30.579905"
-      },
-      "412599b5062f88f5bbfc03e0e613d3f5b8241410230c64dccb0bf73c7bf5a6df": {
-        "title": "Trump claims deal with Iran to reopen Strait of Hormuz ‘largely negotiated’",
-        "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
-        "published_date": "Sat, 23 May 2026 21:01:00 GMT",
-        "first_seen": "2026-05-23T23:56:30.579908"
-      },
-      "3e6aeda4a86f52e61c60c7b408ccae094d12eb6e8fbdc583973a3c8120b1bae9": {
-        "title": "US and Iran move closer to extending ceasefire by 60 days, say mediators",
-        "link": "https://www.ft.com/content/0f6f9962-c6c4-4c75-bba2-8b103edfbc85",
-        "published_date": "Sat, 23 May 2026 18:31:00 GMT",
-        "first_seen": "2026-05-23T23:56:30.579910"
-      },
-      "4a4a870b449a825b216201c551f801ff463b0603ba270984ddbf7b4ce3156781": {
-        "title": "This bond strategy can protect your portfolio even if interest rates go up",
-        "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
-        "published_date": "Sat, 23 May 2026 18:31:00 GMT",
-        "first_seen": "2026-05-23T23:56:30.579912"
-      },
       "e988a80f566e62ece62c67e7efa047d203936668a6cd764aaa8a8b7675ce06f3": {
         "title": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
         "link": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
@@ -3699,27 +3669,39 @@
         "link": "https://www.ft.com/content/0f752e27-5268-4a6e-a45d-c48d13fb8ef0",
         "published_date": "Mon, 22 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-22T10:37:46.782058"
+      },
+      "330350fd1be9325afa43f919004abfca84e729fe4fa4510e952e8ecdc4df3435": {
+        "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
+        "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Jun 2026 22:18:00 GMT",
+        "first_seen": "2026-06-23T00:06:07.034041"
+      },
+      "64b6d46986ee1feb663726df2502c3b812f12cff4d196c777899b7a1c7d73ecc": {
+        "title": "China’s weird new economic spark: toy elves and robocops",
+        "link": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Jun 2026 22:14:00 GMT",
+        "first_seen": "2026-06-23T00:06:07.034050"
+      },
+      "85734fc222562cf818e7a97abaaf02eafcd664ab96aa6e9667c71fd1dc7da73c": {
+        "title": "Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win",
+        "link": "https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Jun 2026 22:05:00 GMT",
+        "first_seen": "2026-06-23T00:06:07.034052"
+      },
+      "c6608a45807848483f646b80daea656d8921817998f4d9d8333222da19fae90d": {
+        "title": "Caterpillar’s stock hits a milestone as AI-fueled industrials rally sweeps up Wall Street",
+        "link": "https://www.marketwatch.com/story/caterpillars-stock-hits-a-milestone-as-roaring-industrials-rally-sweeps-up-wall-street-391057f7?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Jun 2026 21:50:00 GMT",
+        "first_seen": "2026-06-23T00:06:07.034054"
+      },
+      "d24bf5b42b859adaec5c562372e31c2757a5451f93d89f85e2c70ee9233de8ba": {
+        "title": "Super Micro’s stock is seeing its best run in a year thanks to Nvidia partnership",
+        "link": "https://www.marketwatch.com/story/super-micros-stock-is-seeing-its-best-run-in-a-year-thanks-to-nvidia-partnership-f619e58e?mod=mw_rss_topstories",
+        "published_date": "Mon, 22 Jun 2026 20:58:00 GMT",
+        "first_seen": "2026-06-23T00:06:07.034056"
       }
     },
     "Ai": {
-      "0e06039460957750bbfa41cf1408ec7061e0023ac2a71ec08595772ead8913bc": {
-        "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/423202.html",
-        "published_date": "Sat, 23 May 2026 10:09:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.657873"
-      },
-      "03ea09e38e3359f125171853eecb639abd9d5bb0045c5b6030a2085297cd3a2e": {
-        "title": "OpenAI大神教你如何榨干Codex",
-        "link": "https://www.qbitai.com/2026/05/423179.html",
-        "published_date": "Sat, 23 May 2026 09:50:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.657880"
-      },
-      "7945737fc698caa76d846cc4eb26dc7b1f882049780c0f0ae8b4c7bc01d28508": {
-        "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
-        "link": "https://www.qbitai.com/2026/05/423162.html",
-        "published_date": "Sat, 23 May 2026 09:46:00 GMT",
-        "first_seen": "2026-05-23T23:56:45.657882"
-      },
       "7355bd81154a13c0cfd2bbb153fdad6708781c0239aaed2f7be9ba254708bf27": {
         "title": "2026-05-24日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-24/",
@@ -4876,8 +4858,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-22T10:37:32.006971",
-    "Finance": "2026-06-22T10:37:46.782060",
+    "Technology": "2026-06-23T00:05:18.547033",
+    "Finance": "2026-06-23T00:06:07.034058",
     "Ai": "2026-06-22T10:37:46.874394"
   }
 }
