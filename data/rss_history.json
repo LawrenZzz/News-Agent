@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d8f081db22e940ba0f1358c1abadb99e3554ee0e94c9284e1a3c20eefdb39730": {
-        "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
-        "link": "https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 25 May 2026 11:07:00 GMT",
-        "first_seen": "2026-05-25T08:56:31.343842"
-      },
-      "1a888d6dbb7c0da9767039d039cf3c50e1a5a84632d5ab7c3ee3bfce662ec658": {
-        "title": "晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么",
-        "link": "https://www.tmtpost.com/8001288.html",
-        "published_date": "Mon, 25 May 2026 15:27:00 GMT",
-        "first_seen": "2026-05-25T08:56:31.343850"
-      },
-      "9e34b5b2a9e69883f3981c5b119b1b29acdaa30901fc693b194cf744c2194a15": {
-        "title": "谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了",
-        "link": "https://www.tmtpost.com/8001070.html",
-        "published_date": "Mon, 25 May 2026 14:12:00 GMT",
-        "first_seen": "2026-05-25T08:56:31.343853"
-      },
-      "ae276c1ebc203e67a4081bc93b8a04a1414d40fe55045b430b2abd777f6d799f": {
-        "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 25 May 2026 14:53:00 GMT",
-        "first_seen": "2026-05-25T08:56:31.343855"
-      },
-      "17e3e74d0d8531127538cf1ea9442610af1a07fe17a44c63db9a5cd4ab1c742c": {
-        "title": "从被“卡脖子”到定标准，天津机器人凭什么硬气出圈？",
-        "link": "https://www.tmtpost.com/8000499.html",
-        "published_date": "Mon, 25 May 2026 11:59:00 GMT",
-        "first_seen": "2026-05-25T08:56:31.343856"
-      },
-      "f6c37fdaf758e830b6f71550304bee022af1713d1858e9ef011f8fecdc71cb42": {
-        "title": "全球Token，短缺了",
-        "link": "https://www.tmtpost.com/8001378.html",
-        "published_date": "Mon, 25 May 2026 19:23:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.183255"
-      },
-      "226243b79a035c6140cf8febaf407a76ca6e601bd6775ecec67a5c186506dc9a": {
-        "title": "海外科技巨头缺钱了？全球AI掀起债券融资浪潮",
-        "link": "https://www.tmtpost.com/8001137.html",
-        "published_date": "Mon, 25 May 2026 15:45:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.183270"
-      },
-      "c9ef93ac91edbedc9a9c928d515fcd58efd39e73ecc69767bba98ea218d10123": {
-        "title": "人工智能无法加速软件交付",
-        "link": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 25 May 2026 11:19:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.183272"
-      },
-      "9c3bbf484e3f7c328eb6b0ffe3d2be3ac01e981bc89ca0336a244502ac845b2d": {
-        "title": "宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”",
-        "link": "https://www.tmtpost.com/8001758.html",
-        "published_date": "Mon, 25 May 2026 22:09:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.183274"
-      },
-      "ae85cd177c8bb6f27d72e0aca7caca905164916017a49d40bb889020619a78b5": {
-        "title": "特朗普又盯上量子计算入股，9家公司一夜暴涨",
-        "link": "https://www.tmtpost.com/8001054.html",
-        "published_date": "Mon, 25 May 2026 13:33:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.183276"
-      },
       "076804232e15f5ef52a251d1739a17511d1f88437d555c82e5d63768c7e2e332": {
         "title": "【钛晨报】实名购药、严禁AI替代审方，《处方药网络零售合规指南》发布；华为发表半导体韬定律；6G试验频率正式获批，6G有望在2030年前后正式商用",
         "link": "https://www.tmtpost.com/8001772.html",
@@ -1891,69 +1831,39 @@
         "link": "https://www.tmtpost.com/8039261.html",
         "published_date": "Wed, 24 Jun 2026 15:15:00 GMT",
         "first_seen": "2026-06-24T08:21:11.644726"
+      },
+      "2a4281de9efa44888eb244f3aa87cd9244f5dea6ebf3fd01d465fe8c808e33ab": {
+        "title": "【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作",
+        "link": "https://www.tmtpost.com/8039810.html",
+        "published_date": "Thu, 25 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-25T00:09:08.412012"
+      },
+      "a538717beb996ae76c23e623e948dc38d56bf6024c247ef36a2f6f8c252bf08e": {
+        "title": "恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函",
+        "link": "https://www.tmtpost.com/8039720.html",
+        "published_date": "Wed, 24 Jun 2026 20:37:00 GMT",
+        "first_seen": "2026-06-25T00:09:08.412020"
+      },
+      "2617032628fecda1ad619be7777cf769c4ca4408b02fdf87e9f613d5edeb0df4": {
+        "title": "洞见AI液冷时代：技术破局——从风冷极限到液冷革命",
+        "link": "https://www.tmtpost.com/8038972.html",
+        "published_date": "Wed, 24 Jun 2026 18:43:00 GMT",
+        "first_seen": "2026-06-25T00:09:08.412023"
+      },
+      "bb49fcce825f8e18e3a7e5a0cfc660eb2f77db5f976221b1f5ae9211e1c1059b": {
+        "title": "为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键",
+        "link": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Jun 2026 17:22:00 GMT",
+        "first_seen": "2026-06-25T00:09:08.412025"
+      },
+      "785151a8ea9f2cfd45157aa97289c8528c49d2cd8b8d31adbcd102ac2a500b1f": {
+        "title": "先歌国际：低研发高毛利并存，临上会紧急删改募投｜IPO观察",
+        "link": "https://www.tmtpost.com/8037904.html",
+        "published_date": "Wed, 24 Jun 2026 15:12:00 GMT",
+        "first_seen": "2026-06-25T00:09:08.412027"
       }
     },
     "Finance": {
-      "ae25c67705a80b0d35f6e3a652a854b4aeb0e5154882a23ea9bd039df897370a": {
-        "title": "Singapore tells banks to speed up account openings for wealthy clients",
-        "link": "https://www.ft.com/content/07be8870-e7f8-4101-9f0a-56049e5ae16f",
-        "published_date": "Mon, 25 May 2026 05:55:00 GMT",
-        "first_seen": "2026-05-25T08:55:55.913446"
-      },
-      "44d63a7ed57c71eececb9107b6b4b78c17c328259c2ce9f05280ef8a99bf24ce": {
-        "title": "US consumers face looming spending squeeze as Trump tax rebates fade",
-        "link": "https://www.ft.com/content/60c7a1ea-9b8a-4f11-b3cb-109fade74e48",
-        "published_date": "Mon, 25 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-25T08:55:55.913456"
-      },
-      "349182c52d2f9594b56e9d79a6252f6aaad64428f39534323874936f3db9c167": {
-        "title": "How Europe learnt to love subsidies",
-        "link": "https://www.ft.com/content/b3e968c3-9089-417b-9757-95020eb0f469",
-        "published_date": "Mon, 25 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-25T08:55:55.913459"
-      },
-      "dcc4153059f9f88385bb37737964ec47471288e80b5b0a4a2eccd3d61c59cfb6": {
-        "title": "AI guardrails stripped from Meta and Google models in minutes",
-        "link": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
-        "published_date": "Mon, 25 May 2026 08:31:00 GMT",
-        "first_seen": "2026-05-25T08:55:55.913461"
-      },
-      "b30689dcb87c3473ee77863768f38e57991dd481c78c8fdcdabe24946bd00c1e": {
-        "title": "Rubio says Washington will find ‘another way’ if Iran talks fail",
-        "link": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
-        "published_date": "Mon, 25 May 2026 07:04:00 GMT",
-        "first_seen": "2026-05-25T08:55:55.913463"
-      },
-      "15b7de1931d14ca71d4efe48f110e17e10e2d81a01d12af39368092150ac069a": {
-        "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years",
-        "link": "https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories",
-        "published_date": "Mon, 25 May 2026 19:50:00 GMT",
-        "first_seen": "2026-05-26T00:05:15.164637"
-      },
-      "cf16dc00fa3c0cd8cefd6680803df8c6714f2ea17b7e2c7b4396948c7cef273d": {
-        "title": "Mastercard’s stock is up 11,000% since its IPO 20 years ago. What comes next?",
-        "link": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories",
-        "published_date": "Mon, 25 May 2026 13:30:00 GMT",
-        "first_seen": "2026-05-26T00:05:15.164647"
-      },
-      "0b659840368230cf53b9c5cff529b624240fc9ef4438237917db3bb6c576346f": {
-        "title": "Carney warns Alberta separatists of Brexit-style regret",
-        "link": "https://www.ft.com/content/5c3d12ba-c959-4d84-b0ee-b9258a749cd4",
-        "published_date": "Mon, 25 May 2026 21:23:00 GMT",
-        "first_seen": "2026-05-26T00:05:15.164650"
-      },
-      "b96618dd631772ceb7cbc2812b72f9ca275553c0176f7f013902f316f8958c62": {
-        "title": "Iran is beating Trump at the art of the deal",
-        "link": "https://www.ft.com/content/24cd5d27-34f9-4286-bfdc-984843c25683",
-        "published_date": "Mon, 25 May 2026 11:39:00 GMT",
-        "first_seen": "2026-05-26T00:05:15.164652"
-      },
-      "e9deaa500175bc3727564f991ed3ac025bec0c9aad5f4d4078539283bc06110d": {
-        "title": "Counting the cost of New York’s sky-high food bills",
-        "link": "https://www.ft.com/content/d78bb2ef-c104-4173-ba38-3c0307bf0c91",
-        "published_date": "Mon, 25 May 2026 14:31:00 GMT",
-        "first_seen": "2026-05-26T00:05:15.164654"
-      },
       "5c7d9322cc5af7593e1e57e27def745f24b4bf4227a97c3a629ef897209e64a2": {
         "title": "Deregulation hands top US and UK banks $1.3tn opening",
         "link": "https://www.ft.com/content/9db7a522-17a2-40c9-a0e5-ee250992be06",
@@ -3723,51 +3633,39 @@
         "link": "https://www.ft.com/content/5a9fed66-57fa-4f7b-bce9-f5519bd1d84b",
         "published_date": "Wed, 24 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-24T08:21:21.945261"
+      },
+      "2dd4112cc8024b1e43013583fd3b58da1e20d250e5416918ecf3681cd9dc960d": {
+        "title": "US banks would lose $700bn in economic crash, Fed stress tests find",
+        "link": "https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17",
+        "published_date": "Wed, 24 Jun 2026 23:49:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.241964"
+      },
+      "a5bbdc31ec11175531eddb38b6937d7af939e67d9dbc633b15d12a9d9ee2127e": {
+        "title": "Bain Capital to buy majority stake in VW’s marine engine unit in €7.4bn deal",
+        "link": "https://www.ft.com/content/b6e139a2-b499-4958-81ad-5eb0a04571dd",
+        "published_date": "Wed, 24 Jun 2026 23:00:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.241971"
+      },
+      "173e579b7c5abca25819d951e48625bbf318bf2f3b98563753b2ae281b705b33": {
+        "title": "Credible deterrence requires a new Nato bank",
+        "link": "https://www.ft.com/content/cef7b1a9-1ccc-40bd-9e87-cca118a528a3",
+        "published_date": "Wed, 24 Jun 2026 16:28:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.241973"
+      },
+      "79b90c90d6cb5b204cfe2b54d7725760ac5c5fb0898a718654e54e7df5379073": {
+        "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance",
+        "link": "https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories",
+        "published_date": "Wed, 24 Jun 2026 21:19:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.241975"
+      },
+      "0f1bfaf74dfdea1761f59e2444a9bc950c93b4b4338b434fb73708f1e8851d48": {
+        "title": "Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude",
+        "link": "https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c",
+        "published_date": "Wed, 24 Jun 2026 21:36:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.241977"
       }
     },
     "Ai": {
-      "b14eb566d7b19bb15b37ababca5f9148ed71a2aee291ba84e72c0ace2a241503": {
-        "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
-        "link": "https://www.qbitai.com/2026/05/423455.html",
-        "published_date": "Mon, 25 May 2026 02:28:00 GMT",
-        "first_seen": "2026-05-25T08:56:45.741504"
-      },
-      "57814d5e00c907e1ab571639352932746f4f065d58f7fbea922f7673e8625578": {
-        "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
-        "link": "https://www.qbitai.com/2026/05/424277.html",
-        "published_date": "Mon, 25 May 2026 03:29:00 GMT",
-        "first_seen": "2026-05-25T08:56:45.741511"
-      },
-      "76c14e5acbe7fae931c71de949bf75e769c938eabda347a011a3428216735967": {
-        "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/423441.html",
-        "published_date": "Mon, 25 May 2026 01:51:00 GMT",
-        "first_seen": "2026-05-25T08:56:45.741514"
-      },
-      "88da44d849e77f7a134f48a5ae07fb161c26f568cfb8988e97ec2db281c1b717": {
-        "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/424584.html",
-        "published_date": "Mon, 25 May 2026 06:56:00 GMT",
-        "first_seen": "2026-05-25T08:56:45.741515"
-      },
-      "7ae4c1ee72c4c35c30839ebb60a37f89f3c2518208404f63a0828bdd6e3a41ce": {
-        "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
-        "link": "https://www.qbitai.com/2026/05/424581.html",
-        "published_date": "Mon, 25 May 2026 06:26:00 GMT",
-        "first_seen": "2026-05-25T08:56:45.741517"
-      },
-      "b5cc1034232568951e59af684f4e6b93d77b03b09c03b1c83579a0b5335b63d6": {
-        "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/424794.html",
-        "published_date": "Mon, 25 May 2026 09:37:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.302991"
-      },
-      "c761b783e313120de9c4a75b13b4dceb8cb828f2a89fe39afbfee0634a73a574": {
-        "title": "2026-05-25日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-25/",
-        "published_date": "Mon, 25 May 2026 11:04:00 GMT",
-        "first_seen": "2026-05-26T00:06:30.303000"
-      },
       "5cd232be69c9ff6add296ca8b809ab14b7118eb8ed5c18b0bf1849fc5fe8de95": {
         "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
         "link": "https://www.qbitai.com/2026/05/425150.html",
@@ -4925,13 +4823,37 @@
         "link": "https://www.qbitai.com/2026/06/437834.html",
         "published_date": "Wed, 24 Jun 2026 04:34:00 GMT",
         "first_seen": "2026-06-24T08:21:34.461713"
+      },
+      "bdb19b520b5fffe9efb34015eee1c154bc6e9bd0703e790da18d27c1dc642c76": {
+        "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+        "link": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+        "published_date": "Wed, 24 Jun 2026 16:51:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.367810"
+      },
+      "466cf833431daa9af7c6657d8539f69bfa7871778ef7c7d26d9d569ec5a9f8ef": {
+        "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
+        "link": "https://www.qbitai.com/2026/06/438174.html",
+        "published_date": "Wed, 24 Jun 2026 11:09:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.367818"
+      },
+      "9b6ea8f506b7ad0d8bbc4579057c279eccf5b53a27817b29d5f2c1f70c20fa86": {
+        "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
+        "link": "https://www.qbitai.com/2026/06/438166.html",
+        "published_date": "Wed, 24 Jun 2026 10:38:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.367820"
+      },
+      "dca937d7908b8c967256ca6acd78e96b122a2622edbc554d8fbdf2b801b7fab7": {
+        "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+        "link": "https://www.qbitai.com/2026/06/438157.html",
+        "published_date": "Wed, 24 Jun 2026 09:58:00 GMT",
+        "first_seen": "2026-06-25T00:09:37.367822"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-24T08:21:11.644729",
-    "Finance": "2026-06-24T08:21:21.945264",
-    "Ai": "2026-06-24T08:21:34.461715"
+    "Technology": "2026-06-25T00:09:08.412030",
+    "Finance": "2026-06-25T00:09:37.241980",
+    "Ai": "2026-06-25T00:09:37.367824"
   }
 }
