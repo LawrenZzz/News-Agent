@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Jun 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 00:09:08 GMT</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 08:24:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:24:55 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作</title>
-      <link>https://www.tmtpost.com/8039810.html</link>
-      <description>&lt;![CDATA[【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作]]&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8039810.html</guid>
+      <title>这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍</title>
+      <link>https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函</title>
-      <link>https://www.tmtpost.com/8039720.html</link>
-      <description>&lt;![CDATA[恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 20:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8039720.html</guid>
+      <title>OpenAI博通联手发芯片，黄仁勋还能保持松弛吗？</title>
+      <link>https://www.tmtpost.com/8040671.html</link>
+      <description>&lt;![CDATA[OpenAI博通联手发芯片，黄仁勋还能保持松弛吗？]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8040671.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>洞见AI液冷时代：技术破局——从风冷极限到液冷革命</title>
-      <link>https://www.tmtpost.com/8038972.html</link>
-      <description>&lt;![CDATA[洞见AI液冷时代：技术破局——从风冷极限到液冷革命]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8038972.html</guid>
+      <title>Coinbase 事后分析报告揭示：AWS 局部故障如何导致了持续数小时的交易中断</title>
+      <link>https://www.infoq.cn/article/tNJCNG5TP8JoZcY9A3MZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Coinbase 事后分析报告揭示：AWS 局部故障如何导致了持续数小时的交易中断]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 13:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tNJCNG5TP8JoZcY9A3MZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键</title>
-      <link>https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 编程代理拥有了自己的 Stack Overflow</title>
+      <link>https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 编程代理拥有了自己的 Stack Overflow]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>先歌国际：低研发高毛利并存，临上会紧急删改募投｜IPO观察</title>
-      <link>https://www.tmtpost.com/8037904.html</link>
-      <description>&lt;![CDATA[先歌国际：低研发高毛利并存，临上会紧急删改募投｜IPO观察]]&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8037904.html</guid>
+      <title>PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能</title>
+      <link>https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能]]&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

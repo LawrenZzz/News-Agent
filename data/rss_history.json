@@ -1861,6 +1861,36 @@
         "link": "https://www.tmtpost.com/8037904.html",
         "published_date": "Wed, 24 Jun 2026 15:12:00 GMT",
         "first_seen": "2026-06-25T00:09:08.412027"
+      },
+      "dd679b0e42985c28feef1b2dfa47810d143208e51c7c6d5df329eb53a5aa628d": {
+        "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
+        "link": "https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 12:43:00 GMT",
+        "first_seen": "2026-06-25T08:24:55.928671"
+      },
+      "d811ad3dd6a0f87ce1bdf092d0ede7c659ff724d831fc56ed92f2a9521170dc1": {
+        "title": "OpenAI博通联手发芯片，黄仁勋还能保持松弛吗？",
+        "link": "https://www.tmtpost.com/8040671.html",
+        "published_date": "Thu, 25 Jun 2026 14:31:00 GMT",
+        "first_seen": "2026-06-25T08:24:55.928683"
+      },
+      "69a91876e20cb77dbf68ba2a0fbd50032debbaa936c87f3aa4a4137f2d187169": {
+        "title": "Coinbase 事后分析报告揭示：AWS 局部故障如何导致了持续数小时的交易中断",
+        "link": "https://www.infoq.cn/article/tNJCNG5TP8JoZcY9A3MZ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 13:35:00 GMT",
+        "first_seen": "2026-06-25T08:24:55.928686"
+      },
+      "722f73279352f12e91c7bab9000b798fcd0497737e84ff886d4e3e0571596bfa": {
+        "title": "AI 编程代理拥有了自己的 Stack Overflow",
+        "link": "https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 16:00:00 GMT",
+        "first_seen": "2026-06-25T08:24:55.928688"
+      },
+      "6e2a0c9b1fa3810e61492c5ba46ff1a88afb6da9c2591829f52915286e41a93c": {
+        "title": "PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能",
+        "link": "https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 25 Jun 2026 11:03:00 GMT",
+        "first_seen": "2026-06-25T08:24:55.928690"
       }
     },
     "Finance": {
@@ -3663,6 +3693,36 @@
         "link": "https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c",
         "published_date": "Wed, 24 Jun 2026 21:36:00 GMT",
         "first_seen": "2026-06-25T00:09:37.241977"
+      },
+      "4b2a6032f5971d768762818d6654b6160f03db661225d34f03a06db951d3eefa": {
+        "title": "These hidden PCE inflation triggers could force a Fed rate hike — and shock the market",
+        "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 01:06:00 GMT",
+        "first_seen": "2026-06-25T08:25:12.802689"
+      },
+      "e965b13ed2704a81e31ec94668be50c553ac132c6292ad65e5ba89ef4e35d1b6": {
+        "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
+        "link": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 00:47:00 GMT",
+        "first_seen": "2026-06-25T08:25:12.802695"
+      },
+      "ae95ab4005e3e5af469b766c6f684445ef1c21c8d0939953f92f35fe5ea5f1e0": {
+        "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
+        "link": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
+        "published_date": "Thu, 25 Jun 2026 01:09:00 GMT",
+        "first_seen": "2026-06-25T08:25:12.802697"
+      },
+      "6ace65d410a32627311e0b45a831658faca1f01aad88d160ad4f5a99820db113": {
+        "title": "Oil price back at prewar levels as Gulf flows pick up",
+        "link": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719",
+        "published_date": "Thu, 25 Jun 2026 03:14:00 GMT",
+        "first_seen": "2026-06-25T08:25:12.802699"
+      },
+      "2cb740e4b01c3da5729a4d3b325a444eb75d3950e808d69f94ffcd767ba5a8f9": {
+        "title": "The reason China is building most of the world’s robots",
+        "link": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68",
+        "published_date": "Thu, 25 Jun 2026 00:51:00 GMT",
+        "first_seen": "2026-06-25T08:25:12.802701"
       }
     },
     "Ai": {
@@ -4847,13 +4907,43 @@
         "link": "https://www.qbitai.com/2026/06/438157.html",
         "published_date": "Wed, 24 Jun 2026 09:58:00 GMT",
         "first_seen": "2026-06-25T00:09:37.367822"
+      },
+      "cd8f0f00876fb29b3f60011e6af063684e78ae362075aff884e40af6fc456f2b": {
+        "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
+        "link": "https://www.qbitai.com/2026/06/438351.html",
+        "published_date": "Thu, 25 Jun 2026 04:35:00 GMT",
+        "first_seen": "2026-06-25T08:25:30.373681"
+      },
+      "95dd79fdbc6e1bd3166e87a8ce8cff7e3196e24d61489aadd7a35e75aa75658d": {
+        "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
+        "link": "https://www.qbitai.com/2026/06/438336.html",
+        "published_date": "Thu, 25 Jun 2026 04:29:00 GMT",
+        "first_seen": "2026-06-25T08:25:30.373688"
+      },
+      "4f4680e591b1fc829e04c5ed0336f9820d8c832ca9a022977c2f8eef412f8871": {
+        "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
+        "link": "https://www.qbitai.com/2026/06/438365.html",
+        "published_date": "Thu, 25 Jun 2026 07:02:00 GMT",
+        "first_seen": "2026-06-25T08:25:30.373690"
+      },
+      "6edd9c898d4f2186a607e4a02775cc4265f6b99c35ce692f176629ac3cd07033": {
+        "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
+        "link": "https://www.qbitai.com/2026/06/438297.html",
+        "published_date": "Thu, 25 Jun 2026 02:22:00 GMT",
+        "first_seen": "2026-06-25T08:25:30.373692"
+      },
+      "5e9ac49e0ba32408d40ea6a513be55c45c2e61214643b46aad053d79189737c9": {
+        "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+        "link": "https://www.qbitai.com/2026/06/438204.html",
+        "published_date": "Thu, 25 Jun 2026 00:32:00 GMT",
+        "first_seen": "2026-06-25T08:25:30.373694"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-25T00:09:08.412030",
-    "Finance": "2026-06-25T00:09:37.241980",
-    "Ai": "2026-06-25T00:09:37.367824"
+    "Technology": "2026-06-25T08:24:55.928692",
+    "Finance": "2026-06-25T08:25:12.802703",
+    "Ai": "2026-06-25T08:25:30.373696"
   }
 }
