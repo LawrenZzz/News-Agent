@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8a5243c805a130b988de0317a5e20a50a08355d58c88c987eac73ea6104945dc": {
-        "title": "全球首个完全AI编写的训练框架来了，速度反超英伟达：面壁要用 AI 把国产算力软件重写一遍",
-        "link": "https://www.infoq.cn/article/hXDXRKIGlowu0y6fWA96?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:27:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.759272"
-      },
-      "04843f93ad3d3cc4600900f5a3a50c9acc95acddd45468aec14266897cd07f88": {
-        "title": "市值$1600亿广告平台裁员50%，CEO：不适应AI的员工，会阻碍整个公司",
-        "link": "https://www.tmtpost.com/8003852.html",
-        "published_date": "Thu, 28 May 2026 13:58:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.759279"
-      },
-      "03cd2ab36b05c8733396de7c22fb747a02b62895015892339a275f059ab57616": {
-        "title": "利润腰斩也要卷AI！小米模型永久降价99%，雷军还要再砸600亿",
-        "link": "https://www.infoq.cn/article/QkEfyoLxhhD9ohOO5YuV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:08:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.759281"
-      },
-      "25ac1a5115ca738200baac0b66bd054fee59189227cf2c6a909dab5bc5ccb0a0": {
-        "title": "米哈游一夜烧掉200万元Token，大厂高管也开始质疑：Token烧不出价值，但养肥了谁？",
-        "link": "https://www.infoq.cn/article/LXegvvlZaOtPJEFJ9rEt?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:32:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.759283"
-      },
-      "ee672e118e5ca529640133dfb9e5523075e1a0d85af491fecfb1f100c3e34f70": {
-        "title": "SK海力士市值突破1万亿美元，“逆天改命”终成存储之王",
-        "link": "https://www.tmtpost.com/8005753.html",
-        "published_date": "Thu, 28 May 2026 15:55:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.759284"
-      },
       "4fb6b1b42e1ec827afc819b00f7eb557654026d167aadf9603ea8435955ab286": {
         "title": "【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元",
         "link": "https://www.tmtpost.com/8006406.html",
@@ -1891,39 +1861,39 @@
         "link": "https://www.tmtpost.com/8043436.html",
         "published_date": "Sat, 27 Jun 2026 10:08:00 GMT",
         "first_seen": "2026-06-27T07:48:21.500002"
+      },
+      "e6a9f8ade742c33d6d8ed66046bf7add56094382220a151a866eeaab08d0a186": {
+        "title": "【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布",
+        "link": "https://www.tmtpost.com/8043821.html",
+        "published_date": "Sat, 27 Jun 2026 16:44:00 GMT",
+        "first_seen": "2026-06-27T10:04:43.479425"
+      },
+      "416303f34cdd18c7a37a44b0d4c1316d574afb83e83a55ab237577aed3b49209": {
+        "title": "美光发财报，存储大门彻底被打开",
+        "link": "https://www.tmtpost.com/8043185.html",
+        "published_date": "Sat, 27 Jun 2026 09:15:00 GMT",
+        "first_seen": "2026-06-27T10:04:43.479434"
+      },
+      "e79a84779f5cdae734ed2e54584a950d9ca9a3548a4f470c730d8bd5185d03e5": {
+        "title": "AI 创业者还没赚钱，先被自己的用户用破产了",
+        "link": "https://www.tmtpost.com/8043335.html",
+        "published_date": "Sat, 27 Jun 2026 09:36:00 GMT",
+        "first_seen": "2026-06-27T10:04:43.479436"
+      },
+      "16061b6f3cdfa5920851fb4da73559b23850f4f5063267bd77a8f064eb921980": {
+        "title": "大模型榜单，能不能信？",
+        "link": "https://www.tmtpost.com/8043209.html",
+        "published_date": "Sat, 27 Jun 2026 09:22:00 GMT",
+        "first_seen": "2026-06-27T10:04:43.479439"
+      },
+      "59bc422b1dddac7881848178893eab38db850db035dfd525950612cad5cf6d93": {
+        "title": "豆包收费，张一鸣帮张小龙探路",
+        "link": "https://www.tmtpost.com/8043650.html",
+        "published_date": "Sat, 27 Jun 2026 16:09:00 GMT",
+        "first_seen": "2026-06-27T10:04:43.479441"
       }
     },
     "Finance": {
-      "330500cb2291d52bfc521a7e1790fbaa2608e89529fb495aef71020ab74d77de": {
-        "title": "Chip stocks race towards biggest gains since dotcom era on AI demand",
-        "link": "https://www.ft.com/content/48cdf575-5509-4b50-a54d-1b767e41be47",
-        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-28T08:42:53.457112"
-      },
-      "d1af28594dc77d4ad959e06f41d8fe516d728f7c04c3c22bec1fd8b73f929897": {
-        "title": "AI boom outweighs Iran war pain, Korean central bank chief says",
-        "link": "https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149",
-        "published_date": "Thu, 28 May 2026 04:52:00 GMT",
-        "first_seen": "2026-05-28T08:42:53.457122"
-      },
-      "16b457734ed9d2922e2fbc535cd10ac6acf1fa0dbb6f180606980d1d52b7634b": {
-        "title": "Why Europe must embrace tariffs",
-        "link": "https://www.ft.com/content/98768d2d-d9dc-4344-971c-b6496c92a662",
-        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-28T08:42:53.457125"
-      },
-      "c4d784607811206cb219515b15a6e7e851b31e53c2368cbe834da7c6a70566ee": {
-        "title": "Nvidia chief Jensen Huang to join board at prestigious Beijing university",
-        "link": "https://www.ft.com/content/1c567fe9-6df9-4313-902c-c8c65782c19e",
-        "published_date": "Thu, 28 May 2026 00:15:00 GMT",
-        "first_seen": "2026-05-28T08:42:53.457127"
-      },
-      "5859963c3653c0be335deb3f7aebca7242a07aeffb2472a676ad40af74c20d35": {
-        "title": "Kirkland & Ellis to spend $500mn building its own AI technology",
-        "link": "https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3",
-        "published_date": "Thu, 28 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-28T08:42:53.457129"
-      },
       "5bb55f7409620b7f3a969a8be26b763c810567bca972f6ff9bd0bc212a7bfacf": {
         "title": "Earnings season slows but these 7 stocks pack explosive ‘sawtooth’ volatility next week",
         "link": "https://www.marketwatch.com/story/earnings-season-slows-but-these-7-stocks-pack-explosive-sawtooth-volatility-next-week-d519d174?mod=mw_rss_topstories",
@@ -3723,27 +3693,15 @@
         "link": "https://www.ft.com/content/47163aeb-07e0-4314-9488-13acb28b0f6b",
         "published_date": "Sat, 27 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-27T07:48:30.923428"
+      },
+      "51b027d15a16bf5b5894c9896187a049db2bb96f3fed70261bce3d1e1834c2d5": {
+        "title": "US launches strikes on Iran after Tehran attacks container ship",
+        "link": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
+        "published_date": "Sat, 27 Jun 2026 08:06:00 GMT",
+        "first_seen": "2026-06-27T10:04:43.522958"
       }
     },
     "Ai": {
-      "8507f3670f27f0a8bd2c886757de4eb8d668993b64f5b0b5c34e96aec401a83b": {
-        "title": "2026-05-28日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-28/",
-        "published_date": "Thu, 28 May 2026 10:56:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.883237"
-      },
-      "57e34e36b389454724b22efbeac8fa84bd08ca638eb1af0c58a4af3fb8425650": {
-        "title": "「斯隆奖」得主戴亮全职加盟复旦",
-        "link": "https://www.qbitai.com/2026/05/425959.html",
-        "published_date": "Thu, 28 May 2026 04:44:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.883246"
-      },
-      "4833370299b63e47bccbbac00d80009d52e7832615bcd2628a8f348407f78cdb": {
-        "title": "清华有了新老师：黄仁勋",
-        "link": "https://www.qbitai.com/2026/05/425948.html",
-        "published_date": "Thu, 28 May 2026 04:39:00 GMT",
-        "first_seen": "2026-05-28T08:43:18.883248"
-      },
       "839d718073d312e28012e2786925942cb97b8f09c9b5eb98c80d468ef0c1cf0c": {
         "title": "A New Era of Innovation: Google Research at I/O 2026",
         "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
@@ -4936,8 +4894,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-27T07:48:21.500004",
-    "Finance": "2026-06-27T07:48:30.923430",
+    "Technology": "2026-06-27T10:04:43.479444",
+    "Finance": "2026-06-27T10:04:43.522967",
     "Ai": "2026-06-27T07:48:31.047222"
   }
 }
