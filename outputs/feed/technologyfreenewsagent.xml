@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 00:04:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 00:04:36 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 07:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:48:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout</title>
-      <link>https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从 Copilot 到 Autopilot：微软发布常驻型企业智能体 Scout]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/btKbO3iHbVM3p5WOVtqJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT-5.6来了：旗舰版碾压GPT-5.5，价格却没涨</title>
+      <link>https://www.tmtpost.com/8043432.html</link>
+      <description>&lt;![CDATA[GPT-5.6来了：旗舰版碾压GPT-5.5，价格却没涨]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043432.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI最新报告：Codex取代ChatGPT，大神让“Agent团队”干活</title>
-      <link>https://www.tmtpost.com/8042826.html</link>
-      <description>&lt;![CDATA[OpenAI最新报告：Codex取代ChatGPT，大神让“Agent团队”干活]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8042826.html</guid>
+      <title>GenBio AI宋乐：在虚拟细胞中寻找 AI 制药的 AlphaFold 时刻 | 达沃斯观察</title>
+      <link>https://www.tmtpost.com/8042868.html</link>
+      <description>&lt;![CDATA[GenBio AI宋乐：在虚拟细胞中寻找 AI 制药的 AlphaFold 时刻 | 达沃斯观察]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8042868.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Athena 联盟成立：以协同防御应对开源软件安全风险</title>
-      <link>https://www.infoq.cn/article/K5kVz7354Na4846mlNsJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Athena 联盟成立：以协同防御应对开源软件安全风险]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/K5kVz7354Na4846mlNsJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当流量泡沫退去，AI大厂开始拼“真本事”了</title>
+      <link>https://www.tmtpost.com/8043053.html</link>
+      <description>&lt;![CDATA[当流量泡沫退去，AI大厂开始拼“真本事”了]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043053.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek Abandons ‘Lean AI’ Strategy as Funding Round Vaults Valuation Past $50 Billion</title>
-      <link>https://www.tmtpost.com/8043250.html</link>
-      <description>&lt;![CDATA[DeepSeek Abandons ‘Lean AI’ Strategy as Funding Round Vaults Valuation Past $50 Billion]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 20:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043250.html</guid>
+      <title>AI 批量造 App，也在批量埋雷</title>
+      <link>https://www.tmtpost.com/8043427.html</link>
+      <description>&lt;![CDATA[AI 批量造 App，也在批量埋雷]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043427.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验</title>
-      <link>https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[API7.ai创始人温铭：烧了几百亿Token，我用AI重写了生产级网关，总结出6条经验]]&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5YIK6SvTf5h07YckXZd3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>新型能源体系建设“十五五”规划里，藏着哪些容易被忽略的商机？</title>
+      <link>https://www.tmtpost.com/8043436.html</link>
+      <description>&lt;![CDATA[新型能源体系建设“十五五”规划里，藏着哪些容易被忽略的商机？]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043436.html</guid>
       <category>Technology</category>
     </item>
   </channel>
