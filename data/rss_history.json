@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4fb6b1b42e1ec827afc819b00f7eb557654026d167aadf9603ea8435955ab286": {
-        "title": "【钛晨报】事关城市更新，国务院最新规划；比亚迪发布中国首款4nm智驾芯片“璇玑A3”；太空经济市场规模或将超万亿美元",
-        "link": "https://www.tmtpost.com/8006406.html",
-        "published_date": "Fri, 29 May 2026 07:20:00 GMT",
-        "first_seen": "2026-05-29T00:10:46.108088"
-      },
-      "17cb7621da2bdab7eecd8d58d1097e4099213bbfcdc4309668d02b4583734510": {
-        "title": "昇腾管推理、鲲鹏管Agent，Agentic AI 让 CPU 重回舞台中央",
-        "link": "https://www.infoq.cn/article/cp3uKO2GTRsWsewJjYVt?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 14:25:00 GMT",
-        "first_seen": "2026-05-29T00:10:46.108095"
-      },
-      "9b26946deb4a221db20735ebdd48078f61a89311031ed864e1bc1834e115f5d7": {
-        "title": "科学家们“造”了个新宇宙，却意外暴露了AI时代真正的瓶颈",
-        "link": "https://www.tmtpost.com/8005718.html",
-        "published_date": "Thu, 28 May 2026 18:46:00 GMT",
-        "first_seen": "2026-05-29T00:10:46.108097"
-      },
-      "3c276e149cbf7419073f555e2d152615d7d8ad73e50d595617635e6da73eeb4f": {
-        "title": "Snowflake绩后暴涨36%：AI拐点已至，还是数据云的又一次虚晃？",
-        "link": "https://www.tmtpost.com/8006462.html",
-        "published_date": "Thu, 28 May 2026 22:09:00 GMT",
-        "first_seen": "2026-05-29T00:10:46.108099"
-      },
-      "153b30cc25f49cc9b583113713c1cf7d92bac95db4d1035ea997739999785cb5": {
-        "title": "深度对话：后龙虾时代，企业Agent从“能用”到“生产级”的差距在哪里？",
-        "link": "https://www.infoq.cn/video/6O9sEPBIVkVl1kXBay8W?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 28 May 2026 15:08:00 GMT",
-        "first_seen": "2026-05-29T00:10:46.108100"
-      },
       "f798c0d084c8053705409bb7015b0b5e2af8b8761d5c0a15c4f0cb8ce83cef51": {
         "title": "解密“何式定律”背后，徐直军首次披露华为芯片突围始末",
         "link": "https://www.tmtpost.com/8006712.html",
@@ -1921,39 +1891,39 @@
         "link": "https://www.tmtpost.com/8043420.html",
         "published_date": "Sat, 27 Jun 2026 17:41:00 GMT",
         "first_seen": "2026-06-28T00:00:25.101146"
+      },
+      "ea5e80b72701c0896e61e9e79dce7ef05f234b20a76d9f51403a5b5d2336e81a": {
+        "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+        "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 28 Jun 2026 11:06:00 GMT",
+        "first_seen": "2026-06-28T08:20:36.515128"
+      },
+      "1c6e66105a63d925232ef8790cabbad089f3d381fa63df860e571ff90ad6a31c": {
+        "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
+        "link": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 28 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:36.515140"
+      },
+      "c31c46f16b05d695186f1d6d565684823764ce92f6c1a46125afbcdc4126377f": {
+        "title": "Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”",
+        "link": "https://www.tmtpost.com/8044056.html",
+        "published_date": "Sun, 28 Jun 2026 10:23:00 GMT",
+        "first_seen": "2026-06-28T08:20:36.515142"
+      },
+      "7d22ef029edda19eb2dd51621c7425ce0bdf4bad0e58c110ee934e8c1323a2a9": {
+        "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
+        "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 28 Jun 2026 09:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:36.515144"
+      },
+      "0f27d4ef1735441b2722ea7b9ea61d69890a624f7d090be508ed88cf560c905e": {
+        "title": "急眼的Anthropic炒作蒸馏，背后是叙事权之战",
+        "link": "https://www.tmtpost.com/8043972.html",
+        "published_date": "Sun, 28 Jun 2026 08:22:00 GMT",
+        "first_seen": "2026-06-28T08:20:36.515146"
       }
     },
     "Finance": {
-      "5bb55f7409620b7f3a969a8be26b763c810567bca972f6ff9bd0bc212a7bfacf": {
-        "title": "Earnings season slows but these 7 stocks pack explosive ‘sawtooth’ volatility next week",
-        "link": "https://www.marketwatch.com/story/earnings-season-slows-but-these-7-stocks-pack-explosive-sawtooth-volatility-next-week-d519d174?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 23:45:00 GMT",
-        "first_seen": "2026-05-29T00:11:52.946470"
-      },
-      "675765e292a051ac18d616f508b7867115348007e5da9264bac5ef06efdac498": {
-        "title": "Costco gas demand hits records, as shoppers try to stay ahead of future price spikes",
-        "link": "https://www.marketwatch.com/story/higher-gas-prices-are-driving-people-to-membership-retailers-and-costco-is-the-latest-to-benefit-3566c533?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 22:44:00 GMT",
-        "first_seen": "2026-05-29T00:11:52.946479"
-      },
-      "ae90db721b21bffde40884a47ec719ec680aa601e175c4733880bbce9741a525": {
-        "title": "The Iran war costs more than you think — it boosts inflation and threatens stocks",
-        "link": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 21:58:00 GMT",
-        "first_seen": "2026-05-29T00:11:52.946482"
-      },
-      "04258b4a4a565d586eb8c9424feedcd6affa3b3a46dc0894b34b64a93930f758": {
-        "title": "This overvalued stock market just flashed a rare buy signal",
-        "link": "https://www.marketwatch.com/story/this-overvalued-stock-market-just-flashed-a-rare-buy-signal-05bce4b1?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 21:58:00 GMT",
-        "first_seen": "2026-05-29T00:11:52.946484"
-      },
-      "d5a7295e8f4cd5cd3005d63680bf188e4798a285879e42979ba6f64514c0dc26": {
-        "title": "67 million kids haven’t signed up for ‘Trump accounts.’ Here’s what they could be missing out on.",
-        "link": "https://www.marketwatch.com/story/67-million-kids-havent-signed-up-for-trump-accounts-heres-what-they-could-be-missing-out-on-ea56dff9?mod=mw_rss_topstories",
-        "published_date": "Thu, 28 May 2026 21:46:00 GMT",
-        "first_seen": "2026-05-29T00:11:52.946485"
-      },
       "64e80bf05d97ff78e8662d32481ef95b8f35de78e8d1254dc2b923e043b219cf": {
         "title": "The double 10K scenario: Wall Street veteran says the S&P 500 and gold can each reach that mark by the end of the decade",
         "link": "https://www.marketwatch.com/story/the-double-10k-scenario-wall-street-veteran-says-the-s-p-500-and-gold-can-each-reach-that-mark-by-the-end-of-the-decade-402103ea?mod=mw_rss_topstories",
@@ -3759,33 +3729,39 @@
         "link": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
         "published_date": "Sat, 27 Jun 2026 11:00:00 GMT",
         "first_seen": "2026-06-28T00:00:37.126246"
+      },
+      "49d7d05e32be4f5576952e06234ab92e69042add4341ac343c1485a91f55763a": {
+        "title": "Bond giant Pimco flexes muscles with private placements push",
+        "link": "https://www.ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
+        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:49.012648"
+      },
+      "12db2b8dc40ab2c9a6e66c1b5c5c464b194dc23ba31eb3b9573350dfb1c69853": {
+        "title": "Mines will hold back Strait of Hormuz shipping for months, CEO warns",
+        "link": "https://www.ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45",
+        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:49.012657"
+      },
+      "e2222fc22dfdcfeb2c04052fe93216c8ba03bb8642c0916d9684cb8746a0f078": {
+        "title": "Google caps Meta’s Gemini use as AI demand strains capacity",
+        "link": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:49.012659"
+      },
+      "bfa63888d8cbf2d144fc56e2db19bd91978f48db5eaaf6cb277b7a03884c9175": {
+        "title": "Apple to fight $500mn patent bill at UK Supreme Court",
+        "link": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
+        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:49.012661"
+      },
+      "e9130f37f4f45f33da63cf053c46479b0172dc71583dda155ee8860193b05449": {
+        "title": "America seeks its McDonald’s model for missile making",
+        "link": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51",
+        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-28T08:20:49.012663"
       }
     },
     "Ai": {
-      "839d718073d312e28012e2786925942cb97b8f09c9b5eb98c80d468ef0c1cf0c": {
-        "title": "A New Era of Innovation: Google Research at I/O 2026",
-        "link": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
-        "published_date": "Thu, 28 May 2026 20:58:00 GMT",
-        "first_seen": "2026-05-29T00:10:03.948271"
-      },
-      "226c962dc5dad37c9072d806c9c2822963ecd9fd8a0621fb727ebd91b77278aa": {
-        "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
-        "link": "https://www.qbitai.com/2026/05/426293.html",
-        "published_date": "Thu, 28 May 2026 13:32:00 GMT",
-        "first_seen": "2026-05-29T00:10:03.948283"
-      },
-      "7d9a12a3e0deace3b20d8329e539dd3d73263feef957ff39e59fda547dc5bb47": {
-        "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
-        "link": "https://www.qbitai.com/2026/05/426237.html",
-        "published_date": "Thu, 28 May 2026 13:01:00 GMT",
-        "first_seen": "2026-05-29T00:10:03.948286"
-      },
-      "edff736db9c87f576c34bba322e18746bd9bb99b911df373f8de897c12c732e8": {
-        "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
-        "link": "https://www.qbitai.com/2026/05/426223.html",
-        "published_date": "Thu, 28 May 2026 08:47:00 GMT",
-        "first_seen": "2026-05-29T00:10:03.948288"
-      },
       "6c667eb04a3e55b9858e497c76436f09f71b1ada2545861b3acc0eb826030f45": {
         "title": "2026-05-29日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-29/",
@@ -4967,13 +4943,19 @@
         "link": "https://www.qbitai.com/2026/06/439236.html",
         "published_date": "Sat, 27 Jun 2026 12:19:00 GMT",
         "first_seen": "2026-06-28T00:00:37.249051"
+      },
+      "9c77e5a959ad0c83387f42c3569bf5be6238cfd4a4e8d95aaa6b48746b3b248d": {
+        "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
+        "link": "https://www.qbitai.com/2026/06/439464.html",
+        "published_date": "Sun, 28 Jun 2026 06:04:00 GMT",
+        "first_seen": "2026-06-28T08:20:49.121127"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-28T00:00:25.101149",
-    "Finance": "2026-06-28T00:00:37.126248",
-    "Ai": "2026-06-28T00:00:37.249053"
+    "Technology": "2026-06-28T08:20:36.515148",
+    "Finance": "2026-06-28T08:20:49.012667",
+    "Ai": "2026-06-28T08:20:49.121135"
   }
 }
