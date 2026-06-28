@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 10:04:00 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 10:04:43 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:00:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US launches strikes on Iran after Tehran attacks container ship</title>
-      <link>https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae</link>
-      <description>&lt;![CDATA[US launches strikes on Iran after Tehran attacks container ship]]&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 08:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae</guid>
+      <title>US carries out second day of strikes against Iran</title>
+      <link>https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0</link>
+      <description>&lt;![CDATA[US carries out second day of strikes against Iran]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 23:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Javier Milei’s top aide resigns over corruption scandal in Argentina</title>
+      <link>https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191</link>
+      <description>&lt;![CDATA[Javier Milei’s top aide resigns over corruption scandal in Argentina]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 22:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Venezuela earthquake death toll climbs amid anger over slow response</title>
+      <link>https://www.ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1</link>
+      <description>&lt;![CDATA[Venezuela earthquake death toll climbs amid anger over slow response]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 20:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UK’s Bridgepoint nears deal to buy real estate unit in bet on US property</title>
+      <link>https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48</link>
+      <description>&lt;![CDATA[UK’s Bridgepoint nears deal to buy real estate unit in bet on US property]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>New York’s socialist insurgency raises alarm among anxious Democrats</title>
+      <link>https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7</link>
+      <description>&lt;![CDATA[New York’s socialist insurgency raises alarm among anxious Democrats]]&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7</guid>
       <category>Finance</category>
     </item>
   </channel>
