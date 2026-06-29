@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Jun 2026 08:20:00 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 08:20:36 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 00:06:00 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:06:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI</title>
-      <link>https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI]]&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从手机到云端AI：高通如何撕开英伟达垄断缺口？</title>
+      <link>https://www.tmtpost.com/8044290.html</link>
+      <description>&lt;![CDATA[从手机到云端AI：高通如何撕开英伟达垄断缺口？]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044290.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据</title>
-      <link>https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据]]&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&amp;utm_medium=article</guid>
+      <title>华为腾讯百度齐下场，机器人大脑生态战全面打响</title>
+      <link>https://www.tmtpost.com/8044419.html</link>
+      <description>&lt;![CDATA[华为腾讯百度齐下场，机器人大脑生态战全面打响]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 18:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044419.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”</title>
-      <link>https://www.tmtpost.com/8044056.html</link>
-      <description>&lt;![CDATA[Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”]]&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 10:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8044056.html</guid>
+      <title>周鸿祎一小时密集输出：AI落地最大的误区，是把先进发动机装在马车上</title>
+      <link>https://www.tmtpost.com/8044486.html</link>
+      <description>&lt;![CDATA[周鸿祎一小时密集输出：AI落地最大的误区，是把先进发动机装在马车上]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 19:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044486.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全</title>
-      <link>https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全]]&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>美光手撕苹果，库克求救长鑫</title>
+      <link>https://www.tmtpost.com/8044318.html</link>
+      <description>&lt;![CDATA[美光手撕苹果，库克求救长鑫]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8044318.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>急眼的Anthropic炒作蒸馏，背后是叙事权之战</title>
-      <link>https://www.tmtpost.com/8043972.html</link>
-      <description>&lt;![CDATA[急眼的Anthropic炒作蒸馏，背后是叙事权之战]]&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 08:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8043972.html</guid>
+      <title>小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”</title>
+      <link>https://www.tmtpost.com/8043954.html</link>
+      <description>&lt;![CDATA[小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”]]&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 08:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8043954.html</guid>
       <category>Technology</category>
     </item>
   </channel>

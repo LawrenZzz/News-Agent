@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f798c0d084c8053705409bb7015b0b5e2af8b8761d5c0a15c4f0cb8ce83cef51": {
-        "title": "解密“何式定律”背后，徐直军首次披露华为芯片突围始末",
-        "link": "https://www.tmtpost.com/8006712.html",
-        "published_date": "Fri, 29 May 2026 12:33:00 GMT",
-        "first_seen": "2026-05-29T08:42:32.397072"
-      },
-      "132a46499c19194fc9ac79bec1a168f7fafdaec8047dd980b74db5407bd92c1e": {
-        "title": "把GPT-4o拉下神坛！星源智联合北大推出RoboAgent，让3B VLM在未知场景跑出94%成功率",
-        "link": "https://www.infoq.cn/article/OuKcGdoHsN6mrctXfAKM?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 29 May 2026 11:18:00 GMT",
-        "first_seen": "2026-05-29T08:42:32.397080"
-      },
-      "4f671067f803ce67ab218046a3b77a613d6c266885f666706ac26e7f552d3418": {
-        "title": "Nine out of Every Ten Humanoid Robots Worldwide Are Now Made in China",
-        "link": "https://www.tmtpost.com/8007520.html",
-        "published_date": "Fri, 29 May 2026 16:37:00 GMT",
-        "first_seen": "2026-05-29T08:42:32.397083"
-      },
-      "a069e42c841d3d4c3daca2793a890d72bdac06250492237c2ed9466badad6941": {
-        "title": "能源派重塑AI发展观，让电力长出智力",
-        "link": "https://www.tmtpost.com/8006646.html",
-        "published_date": "Fri, 29 May 2026 15:53:00 GMT",
-        "first_seen": "2026-05-29T08:42:32.397085"
-      },
-      "06df34138e3842c7c8ab3ff01639837ced5e8bfc0a0d90462ee7555d71696b92": {
-        "title": "中国不会有 Snowflake——但这未必是坏事",
-        "link": "https://www.infoq.cn/article/L5djZ5rD8BRmU4a8TUy4?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 29 May 2026 10:31:00 GMT",
-        "first_seen": "2026-05-29T08:42:32.397086"
-      },
       "4b8c0ead97e290d3f36b917ee5e44b42c493c683ad01df80befb7e119cfe8625": {
         "title": "华为发布“韬（τ）定律”，重构后摩尔时代的中国技术路径",
         "link": "https://www.tmtpost.com/8006538.html",
@@ -1921,39 +1891,39 @@
         "link": "https://www.tmtpost.com/8043972.html",
         "published_date": "Sun, 28 Jun 2026 08:22:00 GMT",
         "first_seen": "2026-06-28T08:20:36.515146"
+      },
+      "d6936a0da0bfc55678053390f485a06a02397b30775329d5c023fd44bb127947": {
+        "title": "从手机到云端AI：高通如何撕开英伟达垄断缺口？",
+        "link": "https://www.tmtpost.com/8044290.html",
+        "published_date": "Sun, 28 Jun 2026 18:44:00 GMT",
+        "first_seen": "2026-06-29T00:06:28.727498"
+      },
+      "9598d121849d4f1c4dcdee7cff3088d3f3c7f56ac49d1825c207700ee1651a65": {
+        "title": "华为腾讯百度齐下场，机器人大脑生态战全面打响",
+        "link": "https://www.tmtpost.com/8044419.html",
+        "published_date": "Sun, 28 Jun 2026 18:33:00 GMT",
+        "first_seen": "2026-06-29T00:06:28.727506"
+      },
+      "5cac255ece42436b3cac667bc4bb52bdfa43173fcb3235c3f5dc3afd298fb466": {
+        "title": "周鸿祎一小时密集输出：AI落地最大的误区，是把先进发动机装在马车上",
+        "link": "https://www.tmtpost.com/8044486.html",
+        "published_date": "Sun, 28 Jun 2026 19:45:00 GMT",
+        "first_seen": "2026-06-29T00:06:28.727509"
+      },
+      "feec1ee1b7e30d3fd5b13e5e3e0c8ad21c344ba5d111e21c0dbbf23128d0c2d0": {
+        "title": "美光手撕苹果，库克求救长鑫",
+        "link": "https://www.tmtpost.com/8044318.html",
+        "published_date": "Sun, 28 Jun 2026 18:44:00 GMT",
+        "first_seen": "2026-06-29T00:06:28.727510"
+      },
+      "2299f554a0ea79f288ffa4460b9317a69d54da93059d61fb6bc1043694329005": {
+        "title": "小竹无人车“凶猛”，佑驾创新开启Robovan“四国杀”",
+        "link": "https://www.tmtpost.com/8043954.html",
+        "published_date": "Sun, 28 Jun 2026 08:52:00 GMT",
+        "first_seen": "2026-06-29T00:06:28.727512"
       }
     },
     "Finance": {
-      "64e80bf05d97ff78e8662d32481ef95b8f35de78e8d1254dc2b923e043b219cf": {
-        "title": "The double 10K scenario: Wall Street veteran says the S&P 500 and gold can each reach that mark by the end of the decade",
-        "link": "https://www.marketwatch.com/story/the-double-10k-scenario-wall-street-veteran-says-the-s-p-500-and-gold-can-each-reach-that-mark-by-the-end-of-the-decade-402103ea?mod=mw_rss_topstories",
-        "published_date": "Fri, 29 May 2026 08:28:00 GMT",
-        "first_seen": "2026-05-29T08:42:46.188131"
-      },
-      "332caa1ca9e99cd8eee9bca3a6c1a3d05d4bb6ddf3f328b12344a4e096b4ea0a": {
-        "title": "Investors race to get exposure to SpaceX ahead of IPO",
-        "link": "https://www.ft.com/content/7a05e500-de0a-468f-bd82-0a454d99e165",
-        "published_date": "Fri, 29 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-29T08:42:46.188138"
-      },
-      "2790b5773bc7a86121744ed9d07c982d5d12d2df130ca5eb3d5165f691241ec7": {
-        "title": "Russia overspends on Putin’s war in Ukraine by $28bn",
-        "link": "https://www.ft.com/content/93674b5c-06ea-4e49-a005-dc08e1091574",
-        "published_date": "Fri, 29 May 2026 08:05:00 GMT",
-        "first_seen": "2026-05-29T08:42:46.188141"
-      },
-      "d770b5f360791e561eb73b4ad4169873b901babed575a7e07b6eaa6557c6e486": {
-        "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-        "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-        "published_date": "Fri, 29 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-29T08:42:46.188143"
-      },
-      "fa613a3108a2c0d5572e4202a432182ec9ba4a946a79d54c42c39d24dc4c3e8c": {
-        "title": "Don’t bet on Trump reining in the prediction markets",
-        "link": "https://www.ft.com/content/e4f9ec07-5964-45f7-ad07-af48f3790f63",
-        "published_date": "Fri, 29 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-29T08:42:46.188145"
-      },
       "1ee8be6a4f93bd465e0e4d715b032a31c9bcd4c4380b8d6147d94b6a0a5d747c": {
         "title": "Trump’s ‘anti-weaponisation’ fund and Kennedy Center revamp blocked by judges",
         "link": "https://www.ft.com/content/d29af550-05e7-43a1-b52f-8861f3d3903b",
@@ -3759,27 +3729,39 @@
         "link": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51",
         "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
         "first_seen": "2026-06-28T08:20:49.012663"
+      },
+      "c86354e04c66f1ee3361e8d2367a270ad861bf074e3e516d714609ff85d9cdbe": {
+        "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns",
+        "link": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
+        "published_date": "Sun, 28 Jun 2026 09:00:00 GMT",
+        "first_seen": "2026-06-29T00:06:42.645238"
+      },
+      "b673cdcbb701daac759ae1137564415fb9c0bdaf334251feaaaa0f61c86a2578": {
+        "title": "Putin says Russia faces fuel shortages as Ukrainian drones strike refineries",
+        "link": "https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2",
+        "published_date": "Sun, 28 Jun 2026 22:28:00 GMT",
+        "first_seen": "2026-06-29T00:06:42.645246"
+      },
+      "87c02c3340129ee1d1ac6e834036a1dc769765089f31dfa701ffc8614bddf68b": {
+        "title": "Oil prices rise, stock futures inch higher as U.S. and Iran trade more airstrikes",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+        "published_date": "Sun, 28 Jun 2026 22:18:00 GMT",
+        "first_seen": "2026-06-29T00:06:42.645247"
+      },
+      "82e35dbbb62313e56282cf76417cc2396cea6cf87df8715944eb10611dffa633": {
+        "title": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+        "link": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+        "published_date": "Sun, 28 Jun 2026 14:00:00 GMT",
+        "first_seen": "2026-06-29T00:06:42.645249"
+      },
+      "ede84bcd72bde064d6a596836aa2a69f82fa80c17d5e9ccc61f73fa7738cf824": {
+        "title": "Forget the ‘Sell America’ trade: Why U.S. markets keep proving the naysayers wrong",
+        "link": "https://www.marketwatch.com/story/forget-the-sell-america-trade-why-u-s-markets-keep-proving-the-naysayers-wrong-03a0ab10?mod=mw_rss_topstories",
+        "published_date": "Sun, 28 Jun 2026 13:00:00 GMT",
+        "first_seen": "2026-06-29T00:06:42.645251"
       }
     },
     "Ai": {
-      "6c667eb04a3e55b9858e497c76436f09f71b1ada2545861b3acc0eb826030f45": {
-        "title": "2026-05-29日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-29/",
-        "published_date": "Fri, 29 May 2026 10:55:00 GMT",
-        "first_seen": "2026-05-29T08:42:09.308072"
-      },
-      "662e54e525a59afae66f69fdd802d217751c20a8e28d5e1445d63a605c16fcaf": {
-        "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
-        "link": "https://www.qbitai.com/2026/05/426366.html",
-        "published_date": "Fri, 29 May 2026 07:02:00 GMT",
-        "first_seen": "2026-05-29T08:42:09.308083"
-      },
-      "ed4960053bf3210cbfe660148a51919e25f1dd6e125ae3f560df599eaa081821": {
-        "title": "清华系团队给大模型织了一张“智能算力电网”",
-        "link": "https://www.qbitai.com/2026/05/426353.html",
-        "published_date": "Fri, 29 May 2026 02:47:00 GMT",
-        "first_seen": "2026-05-29T08:42:09.308086"
-      },
       "5dce8d0edc510f48ba0a5247cf8bf4e78cc43b551ad83c6caaaefd9053bbdc68": {
         "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
         "link": "https://www.qbitai.com/2026/05/426557.html",
@@ -4949,13 +4931,19 @@
         "link": "https://www.qbitai.com/2026/06/439464.html",
         "published_date": "Sun, 28 Jun 2026 06:04:00 GMT",
         "first_seen": "2026-06-28T08:20:49.121127"
+      },
+      "bb582347ab779886c229b85c1c41aaa122782ac54fa3ce9125c800e5fdc46c70": {
+        "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+        "link": "https://www.qbitai.com/2026/06/439603.html",
+        "published_date": "Sun, 28 Jun 2026 13:55:00 GMT",
+        "first_seen": "2026-06-29T00:06:42.764865"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-28T08:20:36.515148",
-    "Finance": "2026-06-28T08:20:49.012667",
-    "Ai": "2026-06-28T08:20:49.121135"
+    "Technology": "2026-06-29T00:06:28.727514",
+    "Finance": "2026-06-29T00:06:42.645254",
+    "Ai": "2026-06-29T00:06:42.764873"
   }
 }
