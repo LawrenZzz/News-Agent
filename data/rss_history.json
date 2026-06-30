@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bfe27d1c81e1c49adc5498bf79e2c844798fc0cf96c6ee282bfec01784ee2dda": {
-        "title": "140万亿Token之后：中国正在修建“算力高铁”",
-        "link": "https://www.tmtpost.com/8008948.html",
-        "published_date": "Sun, 31 May 2026 11:04:00 GMT",
-        "first_seen": "2026-05-31T08:14:50.361678"
-      },
-      "3a8c14ac8c197b9c914857ae80c70bd31931f603b17d934f5c3bb9e67d774d7e": {
-        "title": "硅谷大裁员，韩企争红利，揭露了AI带来的“生死问题”",
-        "link": "https://www.tmtpost.com/8008817.html",
-        "published_date": "Sun, 31 May 2026 11:01:00 GMT",
-        "first_seen": "2026-05-31T08:14:50.361685"
-      },
-      "e69633959ffdc7e8ddef762b72427bd475e5c74111df51ece090b6c4bcd307a8": {
-        "title": "大模型的另一种活法，被MiniMax跑通了",
-        "link": "https://www.tmtpost.com/8008738.html",
-        "published_date": "Sun, 31 May 2026 09:57:00 GMT",
-        "first_seen": "2026-05-31T08:14:50.361687"
-      },
-      "a06dc5b2c2af56922ca1fd5a7fd864933c2811cbdf0e8fba6f4942b85c9c9f43": {
-        "title": "小米AI的\"免费获客-黑箱锁死\"闭环：从100T Token到Credits陷阱",
-        "link": "https://www.tmtpost.com/8008759.html",
-        "published_date": "Sun, 31 May 2026 10:11:00 GMT",
-        "first_seen": "2026-05-31T08:14:50.361689"
-      },
-      "67befc7d51a538d30de96f55bac9aba946156d9b146590b22da7ce58edfa496b": {
-        "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
-        "link": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 31 May 2026 10:00:00 GMT",
-        "first_seen": "2026-05-31T08:14:50.361691"
-      },
       "003111e634e5a93a4d2874cf3de02e3dc45fa77186317486f3db15d4b164bc0c": {
         "title": "260亿美元，“全华班”撑起全球AI编程估值最高公司",
         "link": "https://www.tmtpost.com/8008969.html",
@@ -1861,69 +1831,39 @@
         "link": "https://www.tmtpost.com/8045924.html",
         "published_date": "Mon, 29 Jun 2026 19:18:00 GMT",
         "first_seen": "2026-06-30T00:02:23.057175"
+      },
+      "e7e04636ff06b097adca3f90a6ebaac64dde59f1dd4f7b262cb7eb7c1ea7f7f3": {
+        "title": "读懂物理AI：AI产业的下半场，不止是概念狂欢",
+        "link": "https://www.tmtpost.com/8046804.html",
+        "published_date": "Tue, 30 Jun 2026 15:17:00 GMT",
+        "first_seen": "2026-06-30T08:26:57.134944"
+      },
+      "296ac20b72f97137a1ab351f722ca0bec606aed3976f101430e271215152ba22": {
+        "title": "Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈",
+        "link": "https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Jun 2026 11:02:00 GMT",
+        "first_seen": "2026-06-30T08:26:57.134953"
+      },
+      "4153efc671c5a1b4120367f5e8e4245a57172c65d1836989d5d76a51f4a701be": {
+        "title": "智能体上车，高通想守住座舱的下一张门票",
+        "link": "https://www.tmtpost.com/8027015.html",
+        "published_date": "Tue, 30 Jun 2026 15:03:00 GMT",
+        "first_seen": "2026-06-30T08:26:57.134956"
+      },
+      "aa84a4a4cfc3e0359f9a05c5bb82805fe0f5fb37b2961389ffaa099fb3c87d44": {
+        "title": "风口上的世界模型，到底是什么？",
+        "link": "https://www.tmtpost.com/8046051.html",
+        "published_date": "Tue, 30 Jun 2026 14:30:00 GMT",
+        "first_seen": "2026-06-30T08:26:57.134959"
+      },
+      "5283e84f4569050fcf86e5833979184fdb81f0a0919d7bb7f3cfe981934abdb4": {
+        "title": "AI 接进企业之后，API 安全开始成为新盲区",
+        "link": "https://www.infoq.cn/article/QODhrm0I3LSV0uGhFdWt?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 30 Jun 2026 14:15:00 GMT",
+        "first_seen": "2026-06-30T08:26:57.134961"
       }
     },
     "Finance": {
-      "f62ec16d7aaf45a262df12dbb84f85dac37ff57362264115bc2b133b6ce0de6c": {
-        "title": "SoftBank pledges €75bn to build Europe’s biggest AI facility in France",
-        "link": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
-        "published_date": "Sat, 30 May 2026 18:39:00 GMT",
-        "first_seen": "2026-05-31T00:01:55.856402"
-      },
-      "74d1bd5f1e06373b1550ede4b01d1e4977d2154811b66a0ee81cf61ffacaa5d9": {
-        "title": "America is losing the AI productivity war to 3.5 million Chinese STEM graduates",
-        "link": "https://www.marketwatch.com/story/why-america-is-losing-the-ai-productivity-war-to-3-5-million-chinese-stem-graduates-4ffeb298?mod=mw_rss_topstories",
-        "published_date": "Sat, 30 May 2026 18:36:00 GMT",
-        "first_seen": "2026-05-31T00:01:55.856409"
-      },
-      "0665332fc8d8edfdd94b165a313ad78d3d991b5b626981a5d302b51040ceb1d6": {
-        "title": "Your portfolio can’t afford the real bill for the Iran war",
-        "link": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
-        "published_date": "Sat, 30 May 2026 18:18:00 GMT",
-        "first_seen": "2026-05-31T00:01:55.856411"
-      },
-      "e3d8e5bcf918469ea57b10eb770a711b7691ada3af5cf2c81b208dc953b1a20b": {
-        "title": "As Big Tech’s power demand surges, data centers bring utilities a huge new profit center",
-        "link": "https://www.marketwatch.com/story/in-america-big-techs-ai-data-centers-come-first-and-your-community-will-be-last-to-know-06a3fce4?mod=mw_rss_topstories",
-        "published_date": "Sat, 30 May 2026 18:56:00 GMT",
-        "first_seen": "2026-05-31T00:01:55.856412"
-      },
-      "cf92d45ada0a466e46703f57344e88045b86a5a10c5b5a8d0403ac62160a1e74": {
-        "title": "Historic cattle shortages push US beef prices to record highs",
-        "link": "https://www.ft.com/content/16468077-84b5-4d1c-b1d7-abe62ba3fa84",
-        "published_date": "Sat, 30 May 2026 11:00:00 GMT",
-        "first_seen": "2026-05-31T00:01:55.856414"
-      },
-      "5e25d80f7bab073d7dd9c7a456c5740fcd04ba9da9d8187a71f38b2b1394a496": {
-        "title": "Jes Staley to appear before Congress over ties to Jeffrey Epstein",
-        "link": "https://www.ft.com/content/376237d6-64ca-4804-90c5-2f83d78ed288",
-        "published_date": "Sun, 31 May 2026 00:04:00 GMT",
-        "first_seen": "2026-05-31T08:15:00.182581"
-      },
-      "a3867c1b1e118c5413f20380d10552de1a5af06d321604df95a6c0e84b1c5b23": {
-        "title": "Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply",
-        "link": "https://www.ft.com/content/6b74ddb9-319b-4293-a9d7-0effb17a4485",
-        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-31T08:15:00.182588"
-      },
-      "33e26a2cda78c9da77603ecab12389bcf0e7cd2f8ac615c9a99ceca5aa90bd96": {
-        "title": "EU frets as China builds an industrial base in Morocco",
-        "link": "https://www.ft.com/content/706c1db4-effa-4e53-9bdd-f66496407626",
-        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-31T08:15:00.182590"
-      },
-      "97bc7be67d6144c77d2a29094dbf1e24a5eade3b8dd2f201f097d2b5213ce99c": {
-        "title": "Jamming-resistant radio maker seeks $3bn-plus sale",
-        "link": "https://www.ft.com/content/b971947c-3ff3-49aa-99e5-ec0c3c0d0705",
-        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-31T08:15:00.182592"
-      },
-      "3be34dc5088ca0fc2ca024a4e44aaf727fecea5a2c4119dbb6fbf6992415df95": {
-        "title": "Defence group CSG still pursuing stake in Franco-German tank maker",
-        "link": "https://www.ft.com/content/6acd5ae9-79aa-4fbc-a67d-a0cc08ed00d6",
-        "published_date": "Sun, 31 May 2026 04:00:00 GMT",
-        "first_seen": "2026-05-31T08:15:00.182594"
-      },
       "ddd8de2763bb7113717e7deba6d612ce8730c2b0ca2673e6481cfb3bd32adf58": {
         "title": "The end of cheap",
         "link": "https://www.ft.com/content/2facf908-9265-47b5-9574-ee316ff3b8ee",
@@ -3693,27 +3633,39 @@
         "link": "https://www.ft.com/content/16b80794-3898-4010-b7d8-5c8cf59dd7ef",
         "published_date": "Mon, 29 Jun 2026 17:43:00 GMT",
         "first_seen": "2026-06-30T00:02:45.254271"
+      },
+      "9b6d0bc7742f93414aeab71a95c27bd2eb719148ede27fb85d3ee6c8183e7e2b": {
+        "title": "The great wealth transfer rattling Wall Street",
+        "link": "https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9",
+        "published_date": "Tue, 30 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-30T08:27:08.215300"
+      },
+      "27df3b858e2c4a40205828749cb0d6116e03a3a4c2f77b94ae1140fb8bc93bb5": {
+        "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
+        "link": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
+        "published_date": "Tue, 30 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-30T08:27:08.215306"
+      },
+      "6a4dd13cceb2bd2c7cecdd460fe66f36ecb200eebbc0befb7a6b4092d3186684": {
+        "title": "Yen weakens to 40-year low",
+        "link": "https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510",
+        "published_date": "Tue, 30 Jun 2026 01:51:00 GMT",
+        "first_seen": "2026-06-30T08:27:08.215309"
+      },
+      "261e8cbd35d4598a401fb3bfcd65529cd0bda2cc7057a0c47f88c33b3ef08965": {
+        "title": "Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory",
+        "link": "https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d",
+        "published_date": "Tue, 30 Jun 2026 04:00:00 GMT",
+        "first_seen": "2026-06-30T08:27:08.215311"
+      },
+      "520059c0039fc7bde09a6371d8fd60d780a396813dc15cd89d369b1612f479d3": {
+        "title": "EY employee charged with accessing Australian prime minister’s bank details",
+        "link": "https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a",
+        "published_date": "Tue, 30 Jun 2026 07:57:00 GMT",
+        "first_seen": "2026-06-30T08:27:08.215313"
       }
     },
     "Ai": {
-      "7a5c03287c42c255b8b8d8c384613b72bb2128de182f1a90bcf24b3448aca0c0": {
-        "title": "2026-05-31日刊",
-        "link": "https://hex2077.dev/docs/2026-05/2026-05-31/",
-        "published_date": "Sun, 31 May 2026 12:22:00 GMT",
-        "first_seen": "2026-05-31T08:14:32.449304"
-      },
-      "5bfaf267c9c574606153149fd4440de0833383a44b9f234fcc6cdcadac2556c4": {
-        "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
-        "link": "https://www.qbitai.com/2026/05/426819.html",
-        "published_date": "Sun, 31 May 2026 03:54:00 GMT",
-        "first_seen": "2026-05-31T08:14:32.449319"
-      },
-      "dfd79705d99438007bcd5a56fe4a9d11852d6d2ee07e6cc1e8e4f4ac9915d774": {
-        "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
-        "link": "https://www.qbitai.com/2026/05/426793.html",
-        "published_date": "Sun, 31 May 2026 01:29:00 GMT",
-        "first_seen": "2026-05-31T08:14:32.449323"
-      },
       "a8ef46486ccfd8063675fa12c0714c4d39e7691e6a0e4a1c5d7157e6c0f9a713": {
         "title": "DDIM之父宋佳铭，宣布离职",
         "link": "https://www.qbitai.com/2026/05/427104.html",
@@ -4853,13 +4805,43 @@
         "link": "https://www.qbitai.com/2026/06/439891.html",
         "published_date": "Mon, 29 Jun 2026 14:33:00 GMT",
         "first_seen": "2026-06-30T00:02:45.373796"
+      },
+      "461b32ce14719b21e7dd851e29c63233158f678235c3999b9061a79c3dd7a65e": {
+        "title": "Agent之间，有互联网了！",
+        "link": "https://www.qbitai.com/2026/06/440199.html",
+        "published_date": "Tue, 30 Jun 2026 05:23:00 GMT",
+        "first_seen": "2026-06-30T08:27:21.614980"
+      },
+      "6f6f912f21788e66edd76bb593db8cb49a62448e8622cc2e807f82b6c9b46f3f": {
+        "title": "智谱唐杰：成功企业靠管理那是曾经，AI时代不行了",
+        "link": "https://www.qbitai.com/2026/06/440024.html",
+        "published_date": "Tue, 30 Jun 2026 03:27:00 GMT",
+        "first_seen": "2026-06-30T08:27:21.614988"
+      },
+      "324706f387b5a05404f9b5e0193f1dcc676396a8b380becbb734a8ae9d5fc706": {
+        "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
+        "link": "https://www.qbitai.com/2026/06/440236.html",
+        "published_date": "Tue, 30 Jun 2026 05:53:00 GMT",
+        "first_seen": "2026-06-30T08:27:21.614990"
+      },
+      "df4dd36f6d67f6e6f81f44e4e4e75dc1ed32ee3f71dd6acf7b523d3759fabf84": {
+        "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
+        "link": "https://www.qbitai.com/2026/06/440162.html",
+        "published_date": "Tue, 30 Jun 2026 04:08:00 GMT",
+        "first_seen": "2026-06-30T08:27:21.614992"
+      },
+      "1f670e1504e8c971056f1af0530dac1a66343cc17b51b9e4397867a076cca7bb": {
+        "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
+        "link": "https://www.qbitai.com/2026/06/440332.html",
+        "published_date": "Tue, 30 Jun 2026 06:51:00 GMT",
+        "first_seen": "2026-06-30T08:27:21.614993"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-30T00:02:23.057177",
-    "Finance": "2026-06-30T00:02:45.254274",
-    "Ai": "2026-06-30T00:02:45.373804"
+    "Technology": "2026-06-30T08:26:57.134963",
+    "Finance": "2026-06-30T08:27:08.215316",
+    "Ai": "2026-06-30T08:27:21.614995"
   }
 }
