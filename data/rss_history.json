@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "92b08e00f88b6ba6e424a2391fdc2788e5bc221073dac38c91eb3aac19ef2c46": {
-        "title": "英伟达 GTC 2026：智能体 AI 时代，全栈战略正式落地 ｜附演讲全文",
-        "link": "https://www.tmtpost.com/8010173.html",
-        "published_date": "Mon, 01 Jun 2026 16:39:00 GMT",
-        "first_seen": "2026-06-01T10:18:46.063820"
-      },
-      "9b6b1575dab75e70a7a89334ca74fa9f42473199a4bd3ed3f7880a2022c200a2": {
-        "title": "机器人先挣钱，还是先追求AGI？具身智能路线之争摆上台面",
-        "link": "https://www.tmtpost.com/8010404.html",
-        "published_date": "Mon, 01 Jun 2026 18:11:00 GMT",
-        "first_seen": "2026-06-01T10:18:46.063827"
-      },
-      "4b0aab3c4a379f5fe0cf331f06bee5254b9922f71b4073d42e780a40ff553348": {
-        "title": "智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场",
-        "link": "https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 01 Jun 2026 18:03:00 GMT",
-        "first_seen": "2026-06-01T10:18:46.063829"
-      },
-      "f9cc29be646cf787fc70b99b1c7d0856fda585364b0e28e249f8b8686ea752c1": {
-        "title": "从“卖云”到“卖Token”：运营商全面加入AI战场",
-        "link": "https://www.tmtpost.com/8010255.html",
-        "published_date": "Mon, 01 Jun 2026 17:51:00 GMT",
-        "first_seen": "2026-06-01T10:18:46.063831"
-      },
-      "d37510264f47d399b1742e095d432f42e15aaea43e4b1861da8ef77aa68f46b9": {
-        "title": "MiniMax发布新模型M3，竞争转向长上下文与Agent能力",
-        "link": "https://www.tmtpost.com/8010291.html",
-        "published_date": "Mon, 01 Jun 2026 17:38:00 GMT",
-        "first_seen": "2026-06-01T10:18:46.063832"
-      },
       "72e231c3c101c8ffb78855268eda06832667beb6d576b8c036e39698a4480646": {
         "title": "黄仁勋对未来十年的完整判断，今天都讲明白了",
         "link": "https://www.tmtpost.com/8010277.html",
@@ -1891,39 +1861,39 @@
         "link": "https://www.tmtpost.com/8048633.html",
         "published_date": "Wed, 01 Jul 2026 14:20:00 GMT",
         "first_seen": "2026-07-01T08:49:54.912394"
+      },
+      "1a0519b839f84777a7f6cbd5b499eca6f10170babc9edf05ece4063b11d88fff": {
+        "title": "前后端一起消失：AI Coding 正在改写大厂工程师分工",
+        "link": "https://www.infoq.cn/article/rHiSH66JZwoQG5Dfvv6x?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Jul 2026 17:59:00 GMT",
+        "first_seen": "2026-07-02T00:06:38.553419"
+      },
+      "76b34f6ae2f6c57154b6fdd5898c3fb8484d30fd00ec09e0adfe7cd69f498be1": {
+        "title": "算力之战，阿里云要打到海外去",
+        "link": "https://www.tmtpost.com/8048934.html",
+        "published_date": "Wed, 01 Jul 2026 19:21:00 GMT",
+        "first_seen": "2026-07-02T00:06:38.553427"
+      },
+      "0699a0f7f3bd270cb83dd2dbc0e7aef6de05a705a86637f6653cce13ce8c6675": {
+        "title": "字节Seed最新论文，解决了AI改图的核心难点",
+        "link": "https://www.tmtpost.com/8047518.html",
+        "published_date": "Wed, 01 Jul 2026 19:18:00 GMT",
+        "first_seen": "2026-07-02T00:06:38.553430"
+      },
+      "677335f66ff2545384134b1bff669e0795fae9e8f58dba7da3efa8fb107b5647": {
+        "title": "开源鸿蒙入局机器人，M-Robots不想再各自为战",
+        "link": "https://www.tmtpost.com/8048275.html",
+        "published_date": "Wed, 01 Jul 2026 18:09:00 GMT",
+        "first_seen": "2026-07-02T00:06:38.553432"
+      },
+      "8b3bd052a96e221c45446b88f4556202c0669b5823c6b307ed74bbd2e218bc7c": {
+        "title": "Anthropic 突发 Sonnet 5，但大家更期待 Fable 5 和 Mythos 5 明天解禁",
+        "link": "https://www.infoq.cn/article/S9zHYQqfFCXt8GoLlM5W?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 01 Jul 2026 17:09:00 GMT",
+        "first_seen": "2026-07-02T00:06:38.553434"
       }
     },
     "Finance": {
-      "4bca4d2f7bff896562cf0985d284936aa986fd09169ead3fe7ccd6a1756176dc": {
-        "title": "Powell warns Fed is undergoing ‘stress test’",
-        "link": "https://www.ft.com/content/79a84d1e-e63d-4bb4-a5e2-a483114a2c6f",
-        "published_date": "Mon, 01 Jun 2026 00:32:00 GMT",
-        "first_seen": "2026-06-01T10:19:03.872134"
-      },
-      "217d7c7616acd1705c4a9f761097eea7768a3c7ab2025669fd61fb6784af7036": {
-        "title": "SoftBank overtakes Toyota after over 20 years to become Japan’s largest company",
-        "link": "https://www.ft.com/content/eef96fb0-5a56-4ce2-9a69-5f8eca754995",
-        "published_date": "Mon, 01 Jun 2026 07:14:00 GMT",
-        "first_seen": "2026-06-01T10:19:03.872141"
-      },
-      "8620b0eb305809d39cfa0728d2092f9cf4a6e72a6fd5e35db4c55b7a924a8883": {
-        "title": "AI and real GDP: how big and how fast?",
-        "link": "https://www.ft.com/content/e9079a98-fcdb-4041-960c-cf84cf3e1b7c",
-        "published_date": "Mon, 01 Jun 2026 05:30:00 GMT",
-        "first_seen": "2026-06-01T10:19:03.872143"
-      },
-      "aa5e235a7e9980a5f722b55dd1313a774c1306a1ca1331426c7530ff0aad5502": {
-        "title": "Berkshire Hathaway finds a use for 2% of its $397 billion cash pile with home-builder deal",
-        "link": "https://www.marketwatch.com/story/berkshire-hathaway-finds-a-use-for-2-of-its-397-billion-cash-pile-with-home-builder-deal-29086e22?mod=mw_rss_topstories",
-        "published_date": "Mon, 01 Jun 2026 08:44:00 GMT",
-        "first_seen": "2026-06-01T10:19:03.872145"
-      },
-      "064399d90ab697db83af41ee93ac3da59351ac43db02b4bcc701c24f05f2c9ff": {
-        "title": "Another dire problem for Social Security: Trustees may be calculating the birth rate wrong",
-        "link": "https://www.marketwatch.com/story/another-dire-problem-for-social-security-trustees-may-be-calculating-the-birth-rate-wrong-955d1930?mod=mw_rss_topstories",
-        "published_date": "Mon, 01 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-01T10:19:03.872147"
-      },
       "8c65230d34d58c0ae41b77e6ce19b6b515804b1ad32dbe56d7e91fc96331061b": {
         "title": "Anthropic files for blockbuster initial public offering",
         "link": "https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e",
@@ -3723,39 +3693,39 @@
         "link": "https://www.ft.com/content/31cd2c1c-fb5e-44e8-9cc5-2367274b81dd",
         "published_date": "Wed, 01 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-01T08:50:08.365483"
+      },
+      "67ea4f468a6578d5883a203cb59f5f8cc7988ddd2c040dfe2a9b6cb040a8e352": {
+        "title": "Mega takeovers drive record $2.8tn in dealmaking",
+        "link": "https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f",
+        "published_date": "Wed, 01 Jul 2026 20:00:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.686778"
+      },
+      "af796563459c94424ccf365d621a7985df97954c17830a161890f566d6cfa169": {
+        "title": "US opts not to renew Trump’s trade deal with Mexico and Canada",
+        "link": "https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a",
+        "published_date": "Wed, 01 Jul 2026 18:29:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.686784"
+      },
+      "76b582345086138d069bed6a99032e1275798636554ea7181ec140f0559594ce": {
+        "title": "White House accelerates plans for AI model standards",
+        "link": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a",
+        "published_date": "Wed, 01 Jul 2026 22:51:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.686786"
+      },
+      "441bb97481fe6b202b7f75499870ae3d7aecf3ab093276fce539ee4e4f27f13d": {
+        "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+        "link": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+        "published_date": "Wed, 01 Jul 2026 23:11:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.686788"
+      },
+      "908e445dfdbcc72b7e63dbf2770e2869acd173f64aae75f6398fcefdb13018e5": {
+        "title": "KNDS postpones IPO after investors balk at €12bn-plus valuation",
+        "link": "https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194",
+        "published_date": "Wed, 01 Jul 2026 20:49:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.686790"
       }
     },
     "Ai": {
-      "b7ef66e11acbe3e2f550d7f4813f5ce09026831ada42a2f2b0407d3b91d29719": {
-        "title": "材料版AlphaFold来了！40个工业任务全方位SOTA，AI4S迎来行业大突破",
-        "link": "https://www.qbitai.com/2026/06/427142.html",
-        "published_date": "Mon, 01 Jun 2026 05:25:00 GMT",
-        "first_seen": "2026-06-01T10:18:19.429145"
-      },
-      "3d03f084bfd8cd1e1170d90f165c7ae80cee7d02566da21522ce849380c1abd2": {
-        "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
-        "link": "https://www.qbitai.com/2026/06/427332.html",
-        "published_date": "Mon, 01 Jun 2026 07:57:00 GMT",
-        "first_seen": "2026-06-01T10:18:19.429155"
-      },
-      "0110f9e1b5fe17d41644f8d9f607eb3e581f04f379eb1ac63c669e8315440c7e": {
-        "title": "OpenAI重返机器人赛道！四大核心岗位开招",
-        "link": "https://www.qbitai.com/2026/06/427238.html",
-        "published_date": "Mon, 01 Jun 2026 06:11:00 GMT",
-        "first_seen": "2026-06-01T10:18:19.429158"
-      },
-      "5ac4817d58d360c08c41fac7a381dc248692c65dd46c93e0bb431441ff7f1fc1": {
-        "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-        "link": "https://www.qbitai.com/2026/06/427141.html",
-        "published_date": "Mon, 01 Jun 2026 05:32:00 GMT",
-        "first_seen": "2026-06-01T10:18:19.429160"
-      },
-      "3ba4955d84fc7fc5615852808d2081c0786a4e0f0b7154ecb0e4080f2f5fbcf7": {
-        "title": "2026-06-01日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-01/",
-        "published_date": "Mon, 01 Jun 2026 10:31:00 GMT",
-        "first_seen": "2026-06-01T10:18:19.429161"
-      },
       "d2050221a8ce927e5f8a9fa4f9be58da70ce18f71ba180299c5145a81acc586c": {
         "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
         "link": "https://www.qbitai.com/2026/06/427530.html",
@@ -4925,13 +4895,31 @@
         "link": "https://www.qbitai.com/2026/07/441225.html",
         "published_date": "Wed, 01 Jul 2026 07:24:00 GMT",
         "first_seen": "2026-07-01T08:50:25.692050"
+      },
+      "4e78ea02f51f7b1a07b21a42e9bafdc8957840ad81ecfeef41d64bdcf33b8e98": {
+        "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
+        "link": "https://www.qbitai.com/2026/07/441396.html",
+        "published_date": "Wed, 01 Jul 2026 09:33:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.806233"
+      },
+      "65eebe9fbd94e415953bff03a3da008a67357518ee842aa0a4796afb5136009c": {
+        "title": "OceanBase湖库一体，重新定义AI数据库",
+        "link": "https://www.qbitai.com/2026/07/441386.html",
+        "published_date": "Wed, 01 Jul 2026 09:05:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.806241"
+      },
+      "cddd337e62764ddccd4a572ec17c89e538a17157244d19eb8e1bab1fd701a499": {
+        "title": "2026-07-01日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-01/",
+        "published_date": "Wed, 01 Jul 2026 10:57:00 GMT",
+        "first_seen": "2026-07-02T00:07:01.806243"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-01T08:49:54.912396",
-    "Finance": "2026-07-01T08:50:08.365486",
-    "Ai": "2026-07-01T08:50:25.692071"
+    "Technology": "2026-07-02T00:06:38.553436",
+    "Finance": "2026-07-02T00:07:01.686792",
+    "Ai": "2026-07-02T00:07:01.806244"
   }
 }
