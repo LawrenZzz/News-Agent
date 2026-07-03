@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0c0ce368f6bb5bb5bb9555aaa7c94fbb2992a02a59312a0cfbb93be822247bc9": {
-        "title": "机器人战争升级：OpenAI、英伟达和特斯拉，正在争夺物理AI的规则",
-        "link": "https://www.tmtpost.com/8013279.html",
-        "published_date": "Wed, 03 Jun 2026 15:41:00 GMT",
-        "first_seen": "2026-06-03T09:25:59.028937"
-      },
-      "f942c01d96afb340f67406552e5a8101c3a959cf5c04f55c66ad1231d830a074": {
-        "title": "拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出",
-        "link": "https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 16:30:00 GMT",
-        "first_seen": "2026-06-03T09:25:59.028944"
-      },
-      "b27dd3f9b7949f68751a18540fea3beb240fd10e6a324ac3c0c7f1d5d1adae54": {
-        "title": "一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
-        "link": "https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 10:14:00 GMT",
-        "first_seen": "2026-06-03T09:25:59.028947"
-      },
-      "61e0d437cf89d0b8eb33c7c61008de8b285f077a7a2bea3168bf93692f5da8bb": {
-        "title": "Agent之战，微软把家底都押上了",
-        "link": "https://www.tmtpost.com/8013517.html",
-        "published_date": "Wed, 03 Jun 2026 16:52:00 GMT",
-        "first_seen": "2026-06-03T09:25:59.028949"
-      },
-      "b24065e3d87d9dd68ec1b51fa4749385b1dd2f0f876e3bca047e6d01dd775281": {
-        "title": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
-        "link": "https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 11:00:00 GMT",
-        "first_seen": "2026-06-03T09:25:59.028950"
-      },
       "4444d80082c097360c5575122da3591f25a8bdf9aee079992db8a39bc6fd7931": {
         "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
         "link": "https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article",
@@ -1891,39 +1861,39 @@
         "link": "https://www.tmtpost.com/8051714.html",
         "published_date": "Fri, 03 Jul 2026 15:45:00 GMT",
         "first_seen": "2026-07-03T08:01:23.192538"
+      },
+      "9aa8b6508bf1181d0c7c06da8a07f2146be32f7df7ea929783a7db1381bfe6ba": {
+        "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+        "link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 03 Jul 2026 18:00:00 GMT",
+        "first_seen": "2026-07-03T10:42:14.695483"
+      },
+      "a921f2099eba6fe81e7d556e9375b7146dee3d6dc9bd4f9b272dcf97480177ff": {
+        "title": "英伟达发明了“算力贷”",
+        "link": "https://www.tmtpost.com/8051463.html",
+        "published_date": "Fri, 03 Jul 2026 16:54:00 GMT",
+        "first_seen": "2026-07-03T10:42:14.695494"
+      },
+      "e83372af8e1ded57244f725271f222aa259b9d15267c99245e5de63f849b1728": {
+        "title": "Meta为什么必须做“云”",
+        "link": "https://www.tmtpost.com/8051005.html",
+        "published_date": "Fri, 03 Jul 2026 17:15:00 GMT",
+        "first_seen": "2026-07-03T10:42:14.695497"
+      },
+      "ee42196a2eb85bdedcbeee5c231a341e93a32f73842fb6fda74cb89d5c32cbdf": {
+        "title": "2026，谁在为机器“人”买单？",
+        "link": "https://www.tmtpost.com/8051595.html",
+        "published_date": "Fri, 03 Jul 2026 12:50:00 GMT",
+        "first_seen": "2026-07-03T10:42:14.695499"
+      },
+      "85a9ac917145237e7b0fd2d779e3f4e7c05da53fcb5d707e50196c3ed60b4444": {
+        "title": "踩准创业板新规，西井科技冲刺“A股无人驾驶第一股”：赛力斯为第一大客户",
+        "link": "https://www.tmtpost.com/8052162.html",
+        "published_date": "Fri, 03 Jul 2026 17:43:00 GMT",
+        "first_seen": "2026-07-03T10:42:14.695501"
       }
     },
     "Finance": {
-      "d6b2132f9f592c702666179eea917b36c93bac9049dc4b1b1979ba871bd70b6f": {
-        "title": "Warsh set to revamp Fed’s signals to Wall Street",
-        "link": "https://www.ft.com/content/130d83b7-9479-4ca8-8793-c4684c732296",
-        "published_date": "Wed, 03 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-03T09:26:17.188370"
-      },
-      "0fe3c9a920421fd06e307b0558d77e43419c9029a95fdd6f5f6718eae13de66b": {
-        "title": "OECD warns of ‘dark scenario’ if Gulf energy crisis drags on",
-        "link": "https://www.ft.com/content/c79f9b4a-4793-4fe9-b031-81c56511893c",
-        "published_date": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "first_seen": "2026-06-03T09:26:17.188376"
-      },
-      "0404082eb914dc1196ca8f6564afb576582af9b419d8c45628bdccefa67b288f": {
-        "title": "US proposes tariffs of at least 10% after forced labour probe",
-        "link": "https://www.ft.com/content/b2a48b50-7c7c-423a-b558-eee0821f3469",
-        "published_date": "Wed, 03 Jun 2026 08:19:00 GMT",
-        "first_seen": "2026-06-03T09:26:17.188378"
-      },
-      "1876871254e23dbe1583b38c3164e05f86bf2eb0ca4ef02bedf65510c1fce5c8": {
-        "title": "The S&P 500 climbs for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning",
-        "link": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Jun 2026 00:31:00 GMT",
-        "first_seen": "2026-06-03T09:26:17.188380"
-      },
-      "07ee92d35f8af671eb79b8032897f209e4d308081fcd6e288a1b892e38006a10": {
-        "title": "The hottest stock market in the world has doubled this year. Now Goldman Sachs sees another 40% gain from here.",
-        "link": "https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-has-doubled-this-year-now-goldman-sachs-sees-another-40-gain-from-here-bb6c49c7?mod=mw_rss_topstories",
-        "published_date": "Wed, 03 Jun 2026 09:14:00 GMT",
-        "first_seen": "2026-06-03T09:26:17.188382"
-      },
       "53be7471d3fda7fe47eec8a310f0577160021586423e1797dbc1f89a1ae0a961": {
         "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
         "link": "https://www.ft.com/content/95286aa1-ee55-4a45-86b8-951cc0fb23a8",
@@ -3726,24 +3696,6 @@
       }
     },
     "Ai": {
-      "07ef29b03cd323810d69f76111a042da03839c246a184e0024dac949dc9d5957": {
-        "title": "2026-06-03日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-03/",
-        "published_date": "Wed, 03 Jun 2026 11:09:00 GMT",
-        "first_seen": "2026-06-03T09:25:37.413883"
-      },
-      "57f01372d66c0f690501cd26fd0ad45ceb43693e6a563ba43e4b3e8478566a46": {
-        "title": "刚刚，Anthropic提交了招股书！",
-        "link": "https://www.qbitai.com/2026/06/428407.html",
-        "published_date": "Wed, 03 Jun 2026 03:55:00 GMT",
-        "first_seen": "2026-06-03T09:25:37.413895"
-      },
-      "d081338470e34f7379120190cc36a733b725e7bbb6ce5c7e003da8abd00ceb72": {
-        "title": "刚刚，Meta Skill来了",
-        "link": "https://www.qbitai.com/2026/06/428335.html",
-        "published_date": "Wed, 03 Jun 2026 01:29:00 GMT",
-        "first_seen": "2026-06-03T09:25:37.413897"
-      },
       "43fbbca28ec5eca24cd1dc3fb8504fee8d8cc63cb1960b39ab507ef07ad5abb7": {
         "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
         "link": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
@@ -4936,7 +4888,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-03T08:01:23.192540",
+    "Technology": "2026-07-03T10:42:14.695503",
     "Finance": "2026-07-03T08:01:54.000340",
     "Ai": "2026-07-03T08:01:54.113094"
   }
