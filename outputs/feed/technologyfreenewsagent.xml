@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 08:11:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 08:12:15 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 00:04:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:04:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j</title>
-      <link>https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI大厂，正在互相设防</title>
+      <link>https://www.tmtpost.com/8050490.html</link>
+      <description>&lt;![CDATA[AI大厂，正在互相设防]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050490.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升</title>
-      <link>https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>推理成本砍掉一半以上，OpenAI摸着DeepSeek过河</title>
+      <link>https://www.tmtpost.com/8050492.html</link>
+      <description>&lt;![CDATA[推理成本砍掉一半以上，OpenAI摸着DeepSeek过河]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050492.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力</title>
-      <link>https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 09:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta都要变卖算力了，AI基建泡沫要破了吗？</title>
+      <link>https://www.tmtpost.com/8050077.html</link>
+      <description>&lt;![CDATA[Meta都要变卖算力了，AI基建泡沫要破了吗？]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel 推出开源 AI 智能体开发框架 Eve</title>
-      <link>https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel 推出开源 AI 智能体开发框架 Eve]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？</title>
+      <link>https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”</title>
-      <link>https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”]]&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&amp;utm_medium=article</guid>
+      <title>内存末日，无人幸免</title>
+      <link>https://www.tmtpost.com/8050211.html</link>
+      <description>&lt;![CDATA[内存末日，无人幸免]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8050211.html</guid>
       <category>Technology</category>
     </item>
   </channel>

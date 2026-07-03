@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0e19f7d51b1d7a92b6682ee78a9c427abb305c29103384cf84d546d1c7a546ca": {
-        "title": "黄仁勋宣布 Rubin 全面投产，4万名工程师参与构建！史上最强CPU同步亮相",
-        "link": "https://www.infoq.cn/article/1xVhPAd4se8w1r88AaJC?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Jun 2026 16:51:00 GMT",
-        "first_seen": "2026-06-02T09:05:17.385164"
-      },
-      "a8b6ea7076f7283ef77c281d1ba2350cbde199393b7e153bc0c832860e17ff66": {
-        "title": "黄仁勋发布Alpamayo 2 Super：自动驾驶黑箱终于被打开了",
-        "link": "https://www.tmtpost.com/8011223.html",
-        "published_date": "Tue, 02 Jun 2026 11:43:00 GMT",
-        "first_seen": "2026-06-02T09:05:17.385172"
-      },
-      "5aedb494c4c07dbd31a09eb4eb4d4d785c7b68d12deb2aaff825aeff1849325e": {
-        "title": "Token 卖疯了挣的也是小钱，Snowflake 盯上了 AI 时代最贵的资产",
-        "link": "https://www.infoq.cn/article/Afq4IVzRZ7cqr934jFYR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Jun 2026 16:57:00 GMT",
-        "first_seen": "2026-06-02T09:05:17.385174"
-      },
-      "fccb80f92dbc55a38ad8b5fe23d609a0ce6071719e9a2b0676062c2bf8a0da0e": {
-        "title": "85%的企业 AI 落地卡在数据上，为什么你还在选模型？",
-        "link": "https://www.infoq.cn/article/eyoJhLqNXMZQEAQUBhB9?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Jun 2026 15:26:00 GMT",
-        "first_seen": "2026-06-02T09:05:17.385175"
-      },
-      "87b8a4c73e5c9fdde8e1b1c98d6632ef4809a818912749ffdf1c1977617b0113": {
-        "title": "谷歌扩大 SynthID 在 AI 水印技术中的应用，并提供内容检测 API 预览",
-        "link": "https://www.infoq.cn/article/NkqXbxUbPZgu21AvAxor?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 02 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-02T09:05:17.385177"
-      },
       "8e106f6d27c031e99102500330cf98ac5e8bd28f42c8db0fd96bf4799fcaec14": {
         "title": "The Next Factory: How Jensen Huang’s Armies of AI Agents Are Redefining the Compute Economy",
         "link": "https://www.tmtpost.com/8011677.html",
@@ -1891,39 +1861,39 @@
         "link": "https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 02 Jul 2026 12:45:00 GMT",
         "first_seen": "2026-07-02T08:12:15.026954"
+      },
+      "b38c8a74905310938afdf4eaa0d563189a96bc22d783216f0e65a67a0bdd20d2": {
+        "title": "AI大厂，正在互相设防",
+        "link": "https://www.tmtpost.com/8050490.html",
+        "published_date": "Thu, 02 Jul 2026 18:21:00 GMT",
+        "first_seen": "2026-07-03T00:04:47.632854"
+      },
+      "552ec5a51c5b997d36b8af9eecafcb45a1bb747ac536ceb640095366777e7f0e": {
+        "title": "推理成本砍掉一半以上，OpenAI摸着DeepSeek过河",
+        "link": "https://www.tmtpost.com/8050492.html",
+        "published_date": "Thu, 02 Jul 2026 18:21:00 GMT",
+        "first_seen": "2026-07-03T00:04:47.632866"
+      },
+      "454758a1a825693fe3ddbb43838975c585b98e37e71c6d903e8118a467e4d463": {
+        "title": "Meta都要变卖算力了，AI基建泡沫要破了吗？",
+        "link": "https://www.tmtpost.com/8050077.html",
+        "published_date": "Thu, 02 Jul 2026 18:12:00 GMT",
+        "first_seen": "2026-07-03T00:04:47.632870"
+      },
+      "ca2444746cbbf8474ae4abcec1eef8a7c5223f60aadc973d54b4e9dea7a68649": {
+        "title": "Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？",
+        "link": "https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 02 Jul 2026 17:19:00 GMT",
+        "first_seen": "2026-07-03T00:04:47.632872"
+      },
+      "545c3c4f10c8f682b58870c535e6d907dafc4ffdce87965141d79df7b9b8cead": {
+        "title": "内存末日，无人幸免",
+        "link": "https://www.tmtpost.com/8050211.html",
+        "published_date": "Thu, 02 Jul 2026 18:12:00 GMT",
+        "first_seen": "2026-07-03T00:04:47.632874"
       }
     },
     "Finance": {
-      "c0f734864753e11df7c5eaf10929761c2c038170794b3aff5fb36d87b02a85e5": {
-        "title": "Gold replaces US Treasuries as world’s top reserve asset, ECB says",
-        "link": "https://www.ft.com/content/87ef8f25-eb81-4eed-919c-fe5b49a1ac2c",
-        "published_date": "Tue, 02 Jun 2026 08:00:00 GMT",
-        "first_seen": "2026-06-02T09:05:32.315628"
-      },
-      "df6107d585055b99e414e0fb75bf5b82c4c2e0f9d63946e14cbce9356f85afcd": {
-        "title": "Japan’s newly crowned top company gets a downgrade on AI ‘mania’ concerns",
-        "link": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories",
-        "published_date": "Tue, 02 Jun 2026 08:35:00 GMT",
-        "first_seen": "2026-06-02T09:05:32.315636"
-      },
-      "33cc503d3b0d2eb41fe54b09046b6292271922200e155099827ce3d792bb5bdb": {
-        "title": "Deutsche Bank’s comeback",
-        "link": "https://www.ft.com/content/7699c69c-59c1-4a93-8ea5-ce2bda84bfec",
-        "published_date": "Tue, 02 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-02T09:05:32.315638"
-      },
-      "9e5f71a5b437afb5aa157073434882181cfc409f66093a3d1912d05f30063036": {
-        "title": "HPE’s stock soars toward record gain as earnings show a networking bonanza",
-        "link": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories",
-        "published_date": "Tue, 02 Jun 2026 00:21:00 GMT",
-        "first_seen": "2026-06-02T09:05:32.315640"
-      },
-      "cf50f77e72061007fefad056b710afc269991f625d17062b8a100e4cbf615319": {
-        "title": "Will the IT consulting share price rout ever end?",
-        "link": "https://www.ft.com/content/17bf8aa3-c5f7-4cd3-a67e-8de580509525",
-        "published_date": "Tue, 02 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-02T09:05:32.315642"
-      },
       "f9e0396973f4889fb3cdbaf67454f28ac5b8c1bffdb1e6d3d801b6c87a9a748e": {
         "title": "The 6% solution is gone: How overcrowded AI-powered trading has erased investors’ advantage",
         "link": "https://www.marketwatch.com/story/the-6-solution-is-gone-how-overcrowded-ai-powered-trading-has-erased-investors-advantage-635882bd?mod=mw_rss_topstories",
@@ -3723,39 +3693,39 @@
         "link": "https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420",
         "published_date": "Thu, 02 Jul 2026 02:54:00 GMT",
         "first_seen": "2026-07-02T08:12:26.846343"
+      },
+      "05d2087ec547c520f0afb9ec3e0b87cae6e0010d901ca1ef38cd53dc8987a44a": {
+        "title": "US economy undershoots forecasts with 57,000 jobs added in June",
+        "link": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea",
+        "published_date": "Thu, 02 Jul 2026 20:14:00 GMT",
+        "first_seen": "2026-07-03T00:05:17.552343"
+      },
+      "cc00833474155098a616a2895a1f1923984fb5fee6e12b164fe438eb017f2b98": {
+        "title": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+        "link": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+        "published_date": "Thu, 02 Jul 2026 22:30:00 GMT",
+        "first_seen": "2026-07-03T00:05:17.552351"
+      },
+      "c96876551ac966f09671c4190b5dbd9a055457a6786af297d1450a104f69d351": {
+        "title": "Altman’s AI safety proposal: let us win, or everybody loses",
+        "link": "https://www.ft.com/content/5e92ffa4-c164-4fdd-8219-de08053d4076",
+        "published_date": "Thu, 02 Jul 2026 16:15:00 GMT",
+        "first_seen": "2026-07-03T00:05:17.552353"
+      },
+      "c7a53b9e2464897f63c8abcf13db6a957e308da82e3c1e5c2107a494bcc3e144": {
+        "title": "Blue Owl hit by $4.7bn of redemption requests as investor exodus persists",
+        "link": "https://www.ft.com/content/b302a86d-f6eb-4d47-b90b-523c1c19b3fa",
+        "published_date": "Thu, 02 Jul 2026 12:33:00 GMT",
+        "first_seen": "2026-07-03T00:05:17.552355"
+      },
+      "61589144128d0aad87ce06768b3c890c02d449b284afb0d4c7ac3a88bb45264c": {
+        "title": "‘Heat dome’ over eastern US sends electricity prices soaring",
+        "link": "https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1",
+        "published_date": "Thu, 02 Jul 2026 23:04:00 GMT",
+        "first_seen": "2026-07-03T00:05:17.552357"
       }
     },
     "Ai": {
-      "ffeb2bbd608a3a5a64001cae37f0e1efaded363f707dc9616191c9877d391f28": {
-        "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
-        "link": "https://www.qbitai.com/2026/06/427729.html",
-        "published_date": "Tue, 02 Jun 2026 03:57:00 GMT",
-        "first_seen": "2026-06-02T09:04:53.104832"
-      },
-      "eaacdab0ace7e55ae8262f00de88e99f886de5b76f5b2ec0ee32b92f7e947f67": {
-        "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
-        "link": "https://www.qbitai.com/2026/06/427541.html",
-        "published_date": "Tue, 02 Jun 2026 00:33:00 GMT",
-        "first_seen": "2026-06-02T09:04:53.104842"
-      },
-      "536dcfd067b7da536aa53b1abda4468c976481a3ccf4c5a447578487e756a3a1": {
-        "title": "云端模型如何落地物理世界？招商局狮子山人工智能实验室用LiOS打通具身智能全链路",
-        "link": "https://www.qbitai.com/2026/06/427472.html",
-        "published_date": "Tue, 02 Jun 2026 01:33:00 GMT",
-        "first_seen": "2026-06-02T09:04:53.104845"
-      },
-      "885b28ebadfe7548ebe1d7aa3adbe83ba330eb04590d7207d2da019f6e5da227": {
-        "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
-        "link": "https://www.qbitai.com/2026/06/427730.html",
-        "published_date": "Tue, 02 Jun 2026 03:15:00 GMT",
-        "first_seen": "2026-06-02T09:04:53.104848"
-      },
-      "7131437121a95d7aac1c983a4b31cd8bd19588d6efd4f69b360e291809f379f3": {
-        "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
-        "link": "https://www.qbitai.com/2026/06/427754.html",
-        "published_date": "Tue, 02 Jun 2026 07:47:00 GMT",
-        "first_seen": "2026-06-02T09:04:53.104849"
-      },
       "a05773b42e16e90df6aac006e22739b86b62b97a500de66b690150106f636b4f": {
         "title": "MiniMax M3一手实测：老黄PPT上74个Logo，我以为能难住它",
         "link": "https://www.qbitai.com/2026/06/428092.html",
@@ -4937,13 +4907,43 @@
         "link": "https://www.qbitai.com/2026/07/441491.html",
         "published_date": "Thu, 02 Jul 2026 04:20:00 GMT",
         "first_seen": "2026-07-02T08:12:39.852417"
+      },
+      "c2863c112ca9e51f1512f32c45f809a07d646c4d46f9b9afb07aad43bb5674e0": {
+        "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+        "link": "https://www.qbitai.com/2026/07/442134.html",
+        "published_date": "Thu, 02 Jul 2026 11:28:00 GMT",
+        "first_seen": "2026-07-03T00:05:36.716463"
+      },
+      "ac4add808eb3e299d0812ca22f8157e04689ec3ff7091f09837ba853d060ceb5": {
+        "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+        "link": "https://www.qbitai.com/2026/07/442047.html",
+        "published_date": "Thu, 02 Jul 2026 10:56:00 GMT",
+        "first_seen": "2026-07-03T00:05:36.716470"
+      },
+      "07704cbe09adf676a82a664113460c67f59892b134d9782dfcf035283d010ca7": {
+        "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+        "link": "https://www.qbitai.com/2026/07/442030.html",
+        "published_date": "Thu, 02 Jul 2026 10:24:00 GMT",
+        "first_seen": "2026-07-03T00:05:36.716472"
+      },
+      "5a73964faefdedadfce782c79b3b81839b301cd36709842135d5e16fc0ad0123": {
+        "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
+        "link": "https://www.qbitai.com/2026/07/442048.html",
+        "published_date": "Thu, 02 Jul 2026 10:45:00 GMT",
+        "first_seen": "2026-07-03T00:05:36.716473"
+      },
+      "2f281853b8489ed74cae0cc55899d1a0ee761e4652edf132c00325027d34c5b1": {
+        "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+        "link": "https://www.qbitai.com/2026/07/442037.html",
+        "published_date": "Thu, 02 Jul 2026 10:29:00 GMT",
+        "first_seen": "2026-07-03T00:05:36.716475"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-02T08:12:15.026956",
-    "Finance": "2026-07-02T08:12:26.846346",
-    "Ai": "2026-07-02T08:12:39.852419"
+    "Technology": "2026-07-03T00:04:47.632876",
+    "Finance": "2026-07-03T00:05:17.552359",
+    "Ai": "2026-07-03T00:05:36.716477"
   }
 }
