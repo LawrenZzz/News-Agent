@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "11c43db6d582ff956c7b9bd982ed2d8792beb2614418bf470ea53a6d392bc1ca": {
-        "title": "李飞飞万字长文刷屏：网红文生视频只是“画皮”，真正的万亿级风口在这｜附中英全文",
-        "link": "https://www.tmtpost.com/8014812.html",
-        "published_date": "Thu, 04 Jun 2026 15:15:00 GMT",
-        "first_seen": "2026-06-04T08:48:10.550437"
-      },
-      "57e2f6e189b0d2b18025946f067649aa6872d31db9dd70af9403f8df66221eca": {
-        "title": "宇树过会，具身智能的新手保护期结束了",
-        "link": "https://www.tmtpost.com/8014010.html",
-        "published_date": "Thu, 04 Jun 2026 16:03:00 GMT",
-        "first_seen": "2026-06-04T08:48:10.550443"
-      },
-      "5d0486a6f26d0052cc5556d1119fa5d6d544b010e45822f8add6776b2daba0cb": {
-        "title": "黄仁勋盖章Marvell：下一个万亿美元公司",
-        "link": "https://www.tmtpost.com/8013901.html",
-        "published_date": "Thu, 04 Jun 2026 15:58:00 GMT",
-        "first_seen": "2026-06-04T08:48:10.550445"
-      },
-      "aaed91262ac9a81082f63fe432afc90746fd21fe0c66b82264ca15ec45533896": {
-        "title": "台积电：“一定要记住COUPE”",
-        "link": "https://www.tmtpost.com/8013825.html",
-        "published_date": "Thu, 04 Jun 2026 11:48:00 GMT",
-        "first_seen": "2026-06-04T08:48:10.550446"
-      },
-      "58a4208ed65187009a011fbe59f0578a4e996524fede35bdfaaa8cb95fb6c569": {
-        "title": "【钛晨报】覆盖14个平台，市场监管总局开展网络餐饮专项抽检；Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元；比亚迪入局人形机器人",
-        "link": "https://www.tmtpost.com/8014013.html",
-        "published_date": "Thu, 04 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-04T08:48:10.550448"
-      },
       "3f840faf4b99720b4ebdb17b0867e2dd019fc239e293ce7ab2792036de2112aa": {
         "title": "OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件",
         "link": "https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 04 Jul 2026 09:00:00 GMT",
         "first_seen": "2026-07-04T07:42:47.161125"
+      },
+      "1c1ceeb007bd13fd2c2c3f2977d4797f8b08e76e98e38bf490e84ce3cb38c734": {
+        "title": "从ARD协议说起，Agent行业的拐点到了",
+        "link": "https://www.tmtpost.com/8052499.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T10:07:03.789093"
+      },
+      "2b958f8347009ab2a2e02a4a76168b6563eaa0619f4b6d90f2bf07d95cb12546": {
+        "title": "Deepseek调价居然和电有关？AI开收“高峰电费”，算电协同到底是怎么个“协同”？",
+        "link": "https://www.tmtpost.com/8052737.html",
+        "published_date": "Sat, 04 Jul 2026 15:55:00 GMT",
+        "first_seen": "2026-07-04T10:07:03.789102"
+      },
+      "83db25e98d1983d6f1876045620c19e1cac4c59a9ff6ae7881f2b0eca954ed08": {
+        "title": "OpenAI要怎么卖广告",
+        "link": "https://www.tmtpost.com/8052577.html",
+        "published_date": "Sat, 04 Jul 2026 15:56:00 GMT",
+        "first_seen": "2026-07-04T10:07:03.789105"
+      },
+      "d6b140626c6694689ed80474c2f63b6013887ad0b53b9f346ec96917dd7aa608": {
+        "title": "订单排到2027年，谁在支撑人形机器人的“量产元年”？",
+        "link": "https://www.tmtpost.com/8052511.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T10:07:03.789107"
+      },
+      "e8ba02f9b807fd47525d92c047c1cd973043db113186f4d54dfcbc0bdf8bbd24": {
+        "title": "芯片冷却，涌现大量“黑科技”",
+        "link": "https://www.tmtpost.com/8052444.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T10:07:03.789109"
       }
     },
     "Finance": {
-      "fb0933e3587f1a3ac8206eedb8faa5bccd7c6ee67d9d496127f5015ccff9614c": {
-        "title": "Another redemption wave is spooking the $2 trillion private-credit market",
-        "link": "https://www.marketwatch.com/story/another-redemption-wave-is-spooking-the-2-trillion-private-credit-market-34a64347?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Jun 2026 08:14:00 GMT",
-        "first_seen": "2026-06-04T08:48:33.351862"
-      },
-      "a3501b9ea611328f92ba898c21c54f323e09e85babe0e4d10e9b5723cc4c1313": {
-        "title": "Partners Group prepares to cap withdrawals at US fund for wealthy individuals",
-        "link": "https://www.ft.com/content/33a78e0c-39ea-4a72-b188-b19f753247e7",
-        "published_date": "Thu, 04 Jun 2026 07:27:00 GMT",
-        "first_seen": "2026-06-04T08:48:33.351874"
-      },
-      "7d65571f6586134ce3b1355d8bd78b2d2ab6bca57aa74b6db38b634d13a9af9f": {
-        "title": "America’s ‘other’ economy tells a different growth story",
-        "link": "https://www.ft.com/content/e318cc17-a42d-40b9-b112-2a2a401a6795",
-        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-04T08:48:33.351876"
-      },
-      "5b53f4b169ea9cedcc1bd267bad3e0f489dd63ba9bd59a36df3d1b1ead0c32b7": {
-        "title": "President’s pledge to unleash a ‘golden age’ of US manufacturing sputters",
-        "link": "https://www.ft.com/content/573913be-f4e6-444e-9e55-65fe57f5286f",
-        "published_date": "Thu, 04 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-04T08:48:33.351878"
-      },
-      "c8e7283ee13dac886c0e0e695607b3f6f25b3612b6826e660deea9c16556f2b0": {
-        "title": "Quantinuum raises $1.68 billion in IPO that seeks to give quantum computing more street cred",
-        "link": "https://www.marketwatch.com/story/quantinuum-raises-1-68-billion-in-ipo-that-seeks-to-give-quantum-computing-more-street-cred-8b7d7e16?mod=mw_rss_topstories",
-        "published_date": "Thu, 04 Jun 2026 00:57:00 GMT",
-        "first_seen": "2026-06-04T08:48:33.351879"
-      },
       "c3d2cbcc517e959ecac0a065e5e4a3041d3123dfe22590be15ca54d9f558d852": {
         "title": "SpaceX IPO shows Musk’s genius is in mythmaking",
         "link": "https://www.ft.com/content/625ae455-3b7b-454e-82f3-b22414459cc0",
@@ -3756,36 +3726,6 @@
       }
     },
     "Ai": {
-      "437e5eb42550b67f1c266242196cf8388c1c1e28522be6eba13ec8f2c085eec0": {
-        "title": "刚刚，李飞飞亲自下场定义世界模型",
-        "link": "https://www.qbitai.com/2026/06/428752.html",
-        "published_date": "Thu, 04 Jun 2026 00:44:00 GMT",
-        "first_seen": "2026-06-04T08:47:48.023175"
-      },
-      "4ed348d860896ab24675f13b9b0416c16678b5c7f6924e7e2bddc51c90dfae6a": {
-        "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
-        "link": "https://www.qbitai.com/2026/06/428778.html",
-        "published_date": "Thu, 04 Jun 2026 03:06:00 GMT",
-        "first_seen": "2026-06-04T08:47:48.023184"
-      },
-      "8313816fd1717242f995b9ab933963d56e4372c6e20f5cfed651b953655693d8": {
-        "title": "一个GPT Plus会员的钱，够机器人跑一个月世界模型了",
-        "link": "https://www.qbitai.com/2026/06/428791.html",
-        "published_date": "Thu, 04 Jun 2026 03:10:00 GMT",
-        "first_seen": "2026-06-04T08:47:48.023187"
-      },
-      "74dc1b9ea710ae50d4e7dbd2c7a4cad6f9bbd5670c22d109b047a521c4db95c5": {
-        "title": "LeCun 10亿押注的方向，全球领先视觉大模型团队早已布局",
-        "link": "https://www.qbitai.com/2026/06/428790.html",
-        "published_date": "Thu, 04 Jun 2026 03:43:00 GMT",
-        "first_seen": "2026-06-04T08:47:48.023188"
-      },
-      "c6b38ed67ecdbd6471758a9472fed3375fc89cef7c73cd5bdbb0c50bc58286c3": {
-        "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
-        "link": "https://www.qbitai.com/2026/06/428648.html",
-        "published_date": "Thu, 04 Jun 2026 01:37:00 GMT",
-        "first_seen": "2026-06-04T08:47:48.023190"
-      },
       "1145d45a730c5c4f9f07db740625e84b01f23ffc652a0fad51ec0d6dee774e6e": {
         "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
         "link": "https://www.qbitai.com/2026/06/429130.html",
@@ -4972,7 +4912,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-04T07:42:47.161128",
+    "Technology": "2026-07-04T10:07:03.789111",
     "Finance": "2026-07-04T07:43:02.898253",
     "Ai": "2026-07-04T07:43:03.015629"
   }
