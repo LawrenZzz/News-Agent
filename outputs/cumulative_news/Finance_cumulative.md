@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-05 07:55
+**最后更新时间**: 2026-07-06 08:59
+
+---
+
+## 🆕 最新更新 (2026-07-06 08:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The chip pullback is ushering in a bumpy market. These sectors are the best bets now, according to Morgan Stanley.](https://www.marketwatch.com/story/the-chip-pullback-is-ushering-in-a-bumpy-market-these-sectors-are-the-best-bets-now-according-to-morgan-stanley-661566a7?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 08:54
+
+#### [Just a week after spin-off plan, Comcast says it will buy British broadcaster](https://www.marketwatch.com/story/just-a-week-after-spin-off-plan-comcast-says-it-will-buy-british-broadcaster-6178a2be?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 07:21
+
+#### [U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend](https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 03:09
+
+#### [OPEC+ raises output levels again despite tumbling crude prices](https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 22:30
+
+#### [Hybrids are the breakout star of the U.S. car market as EV demand fades](https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 13:03
+
+#### [Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month](https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 13:00
+
+#### [‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?](https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-05 12:48
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fifa reverses suspension of star US striker after call from Trump](https://www.ft.com/content/a858d225-59b8-4a85-866d-77055e7bfd58)
+**发布时间**: 2026-07-06 08:31
+
+#### [China fires ballistic missile into Pacific nuclear-free zone](https://www.ft.com/content/c52f0a98-2e6a-4acc-a668-d4ce442c4aba)
+**发布时间**: 2026-07-06 08:23
+
+#### [Bellingham and Kane see England through after high drama at Azteca](https://www.ft.com/content/ca365a54-fdff-47ce-862f-afbc7a59907e)
+**发布时间**: 2026-07-06 06:16
+
+#### [Honeywell spin-off in merger talks to create $27bn materials group](https://www.ft.com/content/2d0945c1-570d-4684-b5bd-78392c547c79)
+**发布时间**: 2026-07-06 05:38
+
+#### [Big investors commit billions to private credit despite turmoil](https://www.ft.com/content/ea275bbd-e411-4db5-a9d2-415666f2a923)
+**发布时间**: 2026-07-06 04:00
+
+#### [Son bets the house on AI](https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066)
+**发布时间**: 2026-07-06 04:00
+
+#### [Why OpenAI and Anthropic may struggle to float](https://www.ft.com/content/7bff5ad3-a7dc-4641-be97-7f383446ff75)
+**发布时间**: 2026-07-06 04:00
+
+#### [Andy Burnham needs to start by understanding how little he knows](https://www.ft.com/content/e21fde74-724f-4898-a382-88cbac975a12)
+**发布时间**: 2026-07-06 04:00
+
+#### [Shipowners turn to dirty fossil fuels and nuclear power as green hopes sail away](https://www.ft.com/content/2eb36e45-68de-4510-bec1-73da9db98480)
+**发布时间**: 2026-07-06 04:00
 
 ---
 
