@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5e7473051d21c23ba496ef3d6eca2f3c52b9f08856bbbc850af1cc218a0312a3": {
-        "title": "【数智周报】消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Arm首席执行官：存储芯片供应整体仍吃紧；Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元",
-        "link": "https://www.tmtpost.com/8017823.html",
-        "published_date": "Sun, 07 Jun 2026 11:12:00 GMT",
-        "first_seen": "2026-06-07T08:53:51.073497"
-      },
-      "96a100cc42f5a2b6c88638c0efd63eb9b56847c676a2451f261e2cb433e52c7a": {
-        "title": "独家｜京东、腾讯联手，就AI Agent将达成合作",
-        "link": "https://www.tmtpost.com/8018104.html",
-        "published_date": "Sun, 07 Jun 2026 14:58:00 GMT",
-        "first_seen": "2026-06-07T08:53:51.073504"
-      },
-      "6865ade24fcf36bdb44d9b52f54a3beb59ca1c5f13a18513781059e6c5ebd7ac": {
-        "title": "算力利用率50%：阿里 PAI 入 ATH，算力内耗的自救",
-        "link": "https://www.tmtpost.com/8017856.html",
-        "published_date": "Sun, 07 Jun 2026 09:02:00 GMT",
-        "first_seen": "2026-06-07T08:53:51.073506"
-      },
-      "4f425c9a26ab3547077d9e4f9b21336505cdd45d285aa33388c9cf265e242526": {
-        "title": "MLCC需求暴涨，或成为“下一个存储”",
-        "link": "https://www.tmtpost.com/8018057.html",
-        "published_date": "Sun, 07 Jun 2026 13:49:00 GMT",
-        "first_seen": "2026-06-07T08:53:51.073508"
-      },
-      "00137a56d36db7e361c05d9f0eaeedb3a3e6fdb7685e1d91a32554aadbbff16b": {
-        "title": "四十年“不可成药”魔咒终被打破：一款口服药，让“癌王”死亡风险直降60%",
-        "link": "https://www.tmtpost.com/8016615.html",
-        "published_date": "Sun, 07 Jun 2026 10:42:00 GMT",
-        "first_seen": "2026-06-07T08:53:51.073510"
-      },
       "ce525198e971a1ecfe988cf309f49e85afb7c817b5999a7429e13cf2f9fb6718": {
         "title": "【钛晨报】OpenAI计划对ChatGPT进行上线以来最大规模升级；京东、腾讯联手，就AI Agent将达成合作｜独家；算力普惠再提速，全球首个“预制算力中心底座”正式投用",
         "link": "https://www.tmtpost.com/8018285.html",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/pzYuRUO0ECSKktJjKV8P?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 07 Jul 2026 14:00:00 GMT",
         "first_seen": "2026-07-07T08:21:07.254540"
+      },
+      "d1b574cdf3a6340baaa784aae49dfa115dd7033c1a8ca695217a5e8f14be4623": {
+        "title": "一份内部报告显示，美国财政部开始评估AI泡沫风险",
+        "link": "https://www.tmtpost.com/8055875.html",
+        "published_date": "Tue, 07 Jul 2026 17:54:00 GMT",
+        "first_seen": "2026-07-07T23:57:45.500831"
+      },
+      "2fbf3f804b25f5453e8c333ad723f2042259c0bf62ca039fcf4bc563be8d6548": {
+        "title": "英伟达转向全液冷，Rubin平台开启液冷“标配”时代",
+        "link": "https://www.tmtpost.com/8055974.html",
+        "published_date": "Tue, 07 Jul 2026 17:44:00 GMT",
+        "first_seen": "2026-07-07T23:57:45.500841"
+      },
+      "43ec8f380bb4c094467b2bf88e4c1243d5b3b770114f516325fac03e72f763d5": {
+        "title": "李开复亮出“中国版Palantir”底牌",
+        "link": "https://www.tmtpost.com/8056379.html",
+        "published_date": "Tue, 07 Jul 2026 21:10:00 GMT",
+        "first_seen": "2026-07-07T23:57:45.500845"
+      },
+      "fff133597850128b989d7faf2e024b116182f8784792ff18969f2ff9f5e60092": {
+        "title": "从超聚变，看服务器行业的“生死局”",
+        "link": "https://www.tmtpost.com/8056124.html",
+        "published_date": "Tue, 07 Jul 2026 18:06:00 GMT",
+        "first_seen": "2026-07-07T23:57:45.500847"
+      },
+      "eb93b4cecd3a09d2686cad91fac90a228603826f192bdfb909e9c11b159e9f22": {
+        "title": "微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps",
+        "link": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 07 Jul 2026 17:23:00 GMT",
+        "first_seen": "2026-07-07T23:57:45.500848"
       }
     },
     "Finance": {
-      "fe9f626275cf31eff534796921ca3d16f469657c1163b87896e806bc26bb2b6a": {
-        "title": "Tokio Marine boss to use Berkshire deal for global growth drive",
-        "link": "https://www.ft.com/content/20449d8d-90e4-461c-b3de-f9f30fcd474d",
-        "published_date": "Sun, 07 Jun 2026 01:08:00 GMT",
-        "first_seen": "2026-06-07T08:54:05.264775"
-      },
-      "8b0bcf2bf2efa7c4c5073fd48d68f5d96fcfda293b17e975e73edff2e5ac85aa": {
-        "title": "US weighs using Iranian assets to compensate Gulf allies for war damage",
-        "link": "https://www.ft.com/content/d19bd87f-2673-40e8-9216-8529d80b42aa",
-        "published_date": "Sun, 07 Jun 2026 02:50:00 GMT",
-        "first_seen": "2026-06-07T08:54:05.264782"
-      },
-      "4082dbd4851082781e11d0a3ff7f361bd494c7859a4847a85362335afd095edb": {
-        "title": "Expensive oil is making electric vehicles look positively cheap",
-        "link": "https://www.ft.com/content/c1530777-a7fb-428e-8eb5-78d59c6908a7",
-        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-07T08:54:05.264784"
-      },
-      "98b410f6de8e78cf708679aab6ce5959d4396b9b13425c01bc03b7296fed118b": {
-        "title": "OpenAI plots biggest ChatGPT overhaul since launch",
-        "link": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
-        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-07T08:54:05.264786"
-      },
-      "8b71112356c6ec566ed440616abebbd228fb1e7ebcd63b2989c48173d49cfc8c": {
-        "title": "Trump’s outbursts rattle Gulf allies",
-        "link": "https://www.ft.com/content/a25ad28c-f360-4331-a18e-f93b0da6c372",
-        "published_date": "Sun, 07 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-07T08:54:05.264788"
-      },
       "c11bc7a80c4c77e1413c1f39a3c3e596d4395cdcb8c1d40873310c4b4ed6fc2e": {
         "title": "Iran launches ballistic missiles at Israel",
         "link": "https://www.ft.com/content/a312b725-8921-415a-a9da-c8f6836f5459",
@@ -3729,15 +3699,39 @@
         "link": "https://www.ft.com/content/ffd323d9-8a8c-4b67-ae0d-208c8f994ece",
         "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-07T08:21:21.589559"
+      },
+      "df51829a30855f258280b4897c41ab9e3150746703db75f7fec685d9aad43c77": {
+        "title": "US launches new wave of Iran strikes after attacks on tankers",
+        "link": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
+        "published_date": "Tue, 07 Jul 2026 23:31:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.516866"
+      },
+      "24e31e6b1bc296cc9283bbc0404e42422ba96fdc6abf22a1de718299a998e69a": {
+        "title": "Le Pen is posing as the victim of a politicised judiciary",
+        "link": "https://www.ft.com/content/82523acf-a51d-4e6a-bb19-60d0c7899b6d",
+        "published_date": "Tue, 07 Jul 2026 21:37:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.516877"
+      },
+      "46c097fdb315a305e45cbaef94039048da240bb5c987aa45a65a202098a33617": {
+        "title": "French far-right leader Marine Le Pen says she will run for president",
+        "link": "https://www.ft.com/content/3c0ecc58-630b-4d74-8abd-b17eb73116cf",
+        "published_date": "Tue, 07 Jul 2026 21:34:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.516879"
+      },
+      "d9503a1ba256d297b40a220860fee703aee5f7adc2a6d157b80a6709e18a7e71": {
+        "title": "US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz",
+        "link": "https://www.ft.com/content/0a1c6329-2be0-4d7a-b7ab-82f81511bde2",
+        "published_date": "Tue, 07 Jul 2026 20:38:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.516881"
+      },
+      "0cb3bdc629115a418fd86ece718f15c9b8595e3241175d4ba6c0bf8ece4c546e": {
+        "title": "IMF names Silvana Tenreyro as its next chief economist",
+        "link": "https://www.ft.com/content/41d1c09c-a2d1-41f4-82f3-f2a402f91dec",
+        "published_date": "Tue, 07 Jul 2026 20:28:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.516882"
       }
     },
     "Ai": {
-      "bd77964292d6cf2a68ac6b16d0787a62bf6b4b0df6319ca786f6bc936a5064d8": {
-        "title": "2026-06-07日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-07/",
-        "published_date": "Sun, 07 Jun 2026 10:45:00 GMT",
-        "first_seen": "2026-06-07T08:53:33.675667"
-      },
       "783cbac9e4a53f1b077612c59dd4f8f87f4d287936415b2afa9cde0ba10d9847": {
         "title": "有余凯不投的地平线离职创业员工吗？",
         "link": "https://www.qbitai.com/2026/06/431931.html",
@@ -4907,13 +4901,37 @@
         "link": "https://www.qbitai.com/2026/07/445229.html",
         "published_date": "Tue, 07 Jul 2026 05:03:00 GMT",
         "first_seen": "2026-07-07T08:21:35.193978"
+      },
+      "742bd1dc287cd7226f01bb591cb9b504f26324df7dcec721ed48ba3cb53a18a9": {
+        "title": "The power of collaboration: How we can reduce traffic congestion",
+        "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+        "published_date": "Tue, 07 Jul 2026 16:42:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.630531"
+      },
+      "11c5927447eb66dce98e370b1851533f70b5138c920b3f233d6212bf5cdebe22": {
+        "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+        "link": "https://www.qbitai.com/2026/07/445608.html",
+        "published_date": "Tue, 07 Jul 2026 11:43:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.630541"
+      },
+      "d74f53f5ba4cf38e6d48dbb1e10e003a963081e560ef78bb901a749bc3396b8a": {
+        "title": "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+        "link": "https://www.qbitai.com/2026/07/445443.html",
+        "published_date": "Tue, 07 Jul 2026 08:32:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.630543"
+      },
+      "9d44e1532da763c8b68f4f3c3e112c8bd57f8c0aee91a021310aeafd12f34ae2": {
+        "title": "2026-07-07日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-07/",
+        "published_date": "Tue, 07 Jul 2026 10:54:00 GMT",
+        "first_seen": "2026-07-07T23:58:37.630545"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-07T08:21:07.254542",
-    "Finance": "2026-07-07T08:21:21.589562",
-    "Ai": "2026-07-07T08:21:35.193980"
+    "Technology": "2026-07-07T23:57:45.500851",
+    "Finance": "2026-07-07T23:58:37.516885",
+    "Ai": "2026-07-07T23:58:37.630546"
   }
 }
