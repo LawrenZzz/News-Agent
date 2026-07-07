@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6a77cf93f1a7f9bf39e69d50b2d5c5e86cf1aa28efff84449f31e1d02ac8241d": {
-        "title": "一边冲刺万亿美元IPO，一边高喊AI失控，Anthropic的目的是什么？",
-        "link": "https://www.tmtpost.com/8017669.html",
-        "published_date": "Sat, 06 Jun 2026 17:06:00 GMT",
-        "first_seen": "2026-06-06T10:02:57.854313"
-      },
-      "cce55a5b5b54e98f0358c191bbb0a47c0f05cd9212a085643f7b5bec0e4b9fef": {
-        "title": "新势力车企，正在悄悄变成一家AI公司",
-        "link": "https://www.tmtpost.com/8017671.html",
-        "published_date": "Sat, 06 Jun 2026 17:08:00 GMT",
-        "first_seen": "2026-06-06T10:02:57.854323"
-      },
-      "420f5a29bc5e2a0303699e847cf788ab9cab084a36260e59f3d36c34b9ce70e0": {
-        "title": "英伟达给联想递了张「牌」",
-        "link": "https://www.tmtpost.com/8016993.html",
-        "published_date": "Sat, 06 Jun 2026 10:37:00 GMT",
-        "first_seen": "2026-06-06T10:02:57.854325"
-      },
-      "7ef8a4c0adf2983174942e09f39a4267c60f506a8a503a1e33491ebb08ec7d56": {
-        "title": "姚顺雨，给出腾讯AI“隆中对”",
-        "link": "https://www.tmtpost.com/8017576.html",
-        "published_date": "Sat, 06 Jun 2026 11:30:00 GMT",
-        "first_seen": "2026-06-06T10:02:57.854327"
-      },
-      "f6c4a719889337c8d42233bb262fec22568c79e67ceb35c619c04849e5fedb46": {
-        "title": "赛力斯牵手字节跳动，能复制问界吗？",
-        "link": "https://www.tmtpost.com/8017566.html",
-        "published_date": "Sat, 06 Jun 2026 11:30:00 GMT",
-        "first_seen": "2026-06-06T10:02:57.854329"
-      },
-      "e9c1892cc4516d79c5b05f1a69abe65f467b3f8afa8fc3e9968fdd3adb271a59": {
-        "title": "Anthropic交表，MiniMax冲A，而我最想聊的是M3大模型",
-        "link": "https://www.tmtpost.com/8017665.html",
-        "published_date": "Sat, 06 Jun 2026 17:06:00 GMT",
-        "first_seen": "2026-06-07T00:04:15.665138"
-      },
-      "6f08ca5cf013ec81e102bb8a83a12fcea787e8bccf0f23a394695dd64ec2745b": {
-        "title": "OpenAI会梦到Anthropic吗？",
-        "link": "https://www.tmtpost.com/8017330.html",
-        "published_date": "Sat, 06 Jun 2026 11:05:00 GMT",
-        "first_seen": "2026-06-07T00:04:15.665146"
-      },
-      "a8e85fdcd0150183c46d06475956f0b0d65d3f1911fafb3846f7758a48562481": {
-        "title": "华为牵手国网辽宁干了件大事",
-        "link": "https://www.tmtpost.com/8017504.html",
-        "published_date": "Sat, 06 Jun 2026 11:21:00 GMT",
-        "first_seen": "2026-06-07T00:04:15.665148"
-      },
-      "eb8629c6a2cdb1cd163c842d13fba2edc02726c4bfb7d17ca5d119841abf40e8": {
-        "title": "解禁启动，3000亿摩尔线程迎来压力测试",
-        "link": "https://www.tmtpost.com/8017223.html",
-        "published_date": "Sat, 06 Jun 2026 11:05:00 GMT",
-        "first_seen": "2026-06-07T00:04:15.665150"
-      },
-      "961a1aa8ee2ff425b679c67654c8ee72f08be5b970f260c3934527a9f1234542": {
-        "title": "让 AI 生成的网页更有品味，这个爆火的 Skill 效果如何？",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534341&idx=1&sn=6955eb57829cafee5f82c0a7b0b2d6d1",
-        "published_date": "Sat, 06 Jun 2026 11:32:00 GMT",
-        "first_seen": "2026-06-07T00:04:15.665152"
-      },
       "5e7473051d21c23ba496ef3d6eca2f3c52b9f08856bbbc850af1cc218a0312a3": {
         "title": "【数智周报】消息称DeepSeek计划在首轮融资中筹集约70亿美元，估值高达590亿美元；Arm首席执行官：存储芯片供应整体仍吃紧；Alphabet拟筹集847.5亿美元加码AI基建，伯克希尔哈撒韦将投资100亿美元",
         "link": "https://www.tmtpost.com/8017823.html",
@@ -1921,39 +1861,39 @@
         "link": "https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 06 Jul 2026 11:21:00 GMT",
         "first_seen": "2026-07-06T09:00:30.233744"
+      },
+      "fa50a8414d5abe8f44d7ab8890357cd9f74472d823281f541402ac85319afb92": {
+        "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "link": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Jul 2026 10:27:00 GMT",
+        "first_seen": "2026-07-07T00:06:14.229179"
+      },
+      "c6f9ab93a5d850ba9eba447d57ae1676594342ef848db355c042d8b33c4aea5e": {
+        "title": "半年重建，腾讯再交卷：5分钟生成3D跑酷小游戏，混元 Hy3 正式发布",
+        "link": "https://www.tmtpost.com/8054215.html",
+        "published_date": "Mon, 06 Jul 2026 19:05:00 GMT",
+        "first_seen": "2026-07-07T00:06:14.229188"
+      },
+      "a8bac640a9978895bd22ecf562b5d6abff0eaefc6284da65fae9311c8e57cc8a": {
+        "title": "三年翻倍的“超级周期”，国产半导体设备的机会在哪里？",
+        "link": "https://www.tmtpost.com/8054054.html",
+        "published_date": "Mon, 06 Jul 2026 17:37:00 GMT",
+        "first_seen": "2026-07-07T00:06:14.229191"
+      },
+      "c62138d4485f68705ea4a5d544f294010d8e06f6aefc3a097a0f2e098e56fc97": {
+        "title": "收菜鸟，放速卖通：蒋凡重划阿里电商版图",
+        "link": "https://www.tmtpost.com/8053577.html",
+        "published_date": "Mon, 06 Jul 2026 18:34:00 GMT",
+        "first_seen": "2026-07-07T00:06:14.229192"
+      },
+      "497f0be4981986e3faae0f697fe194909add0a863d3f14c562c091c6c9120ea9": {
+        "title": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+        "link": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 06 Jul 2026 10:06:00 GMT",
+        "first_seen": "2026-07-07T00:06:14.229194"
       }
     },
     "Finance": {
-      "696eb73c07ea140f800134ac501ae204bb93e7d77572204c2a12bcf77a3301a6": {
-        "title": "Trump relaunches tariffs war after court struck down levies",
-        "link": "https://www.ft.com/content/7e5cfed4-dd91-435d-914a-677f97822724",
-        "published_date": "Sat, 06 Jun 2026 12:00:00 GMT",
-        "first_seen": "2026-06-07T00:04:34.220735"
-      },
-      "437741fe6b853fc79e6f9d3a0295967a3d6052c46fbbeaf437596dcf7588fcc1": {
-        "title": "What we know about the plan to give Americans an equity stake in AI",
-        "link": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
-        "published_date": "Sat, 06 Jun 2026 21:18:00 GMT",
-        "first_seen": "2026-06-07T00:04:34.220743"
-      },
-      "6200ce99b2d7f05fd75b690456056aa4475423ae6606b0e95a386d5aaecbb450": {
-        "title": "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
-        "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Jun 2026 18:50:00 GMT",
-        "first_seen": "2026-06-07T00:04:34.220746"
-      },
-      "503cce5da5a6ae9ced4605dbbba3a7b6c602d1db4ccdb57cb0cf0bc247dcdb74": {
-        "title": "Don’t rule out a ‘June swoon’ — the S&P 500 is pushing its limits",
-        "link": "https://www.marketwatch.com/story/dont-rule-out-a-june-swoon-the-s-p-500-is-pushing-its-limits-3c067a6b?mod=mw_rss_topstories",
-        "published_date": "Sat, 06 Jun 2026 16:53:00 GMT",
-        "first_seen": "2026-06-07T00:04:34.220748"
-      },
-      "9c98454c1a8d7d338c684d30ba5f5b038d5a45fbf3f913695bffc9924738f4c7": {
-        "title": "Netherlands moves to soothe rich investors over tax on paper profits",
-        "link": "https://www.ft.com/content/f64f3904-904c-4735-a555-a08ab57572bf",
-        "published_date": "Sat, 06 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-07T00:04:34.220749"
-      },
       "fe9f626275cf31eff534796921ca3d16f469657c1163b87896e806bc26bb2b6a": {
         "title": "Tokio Marine boss to use Berkshire deal for global growth drive",
         "link": "https://www.ft.com/content/20449d8d-90e4-461c-b3de-f9f30fcd474d",
@@ -3699,15 +3639,39 @@
         "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
         "published_date": "Sun, 05 Jul 2026 13:03:00 GMT",
         "first_seen": "2026-07-06T09:01:17.953586"
+      },
+      "d1b47d0e100ae40cc685dc8fc3779a61d2c6c93553ba1b2ad0337d94dd4a7189": {
+        "title": "Germany to borrow €800bn for rearmament in historic shift",
+        "link": "https://www.ft.com/content/72878c3e-a4c6-4e4d-86c1-6df11593e4ac",
+        "published_date": "Mon, 06 Jul 2026 17:15:00 GMT",
+        "first_seen": "2026-07-07T00:06:31.641237"
+      },
+      "6b7a203b23f2d7fb6cb74a7348e73c17a1cb0f936a60c397e8c0b5431db38302": {
+        "title": "Top Fed official backs Kevin Warsh’s rethink of forward guidance",
+        "link": "https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d",
+        "published_date": "Mon, 06 Jul 2026 23:47:00 GMT",
+        "first_seen": "2026-07-07T00:06:31.641244"
+      },
+      "248d1db3cb4ddff3b1448105b3735dacd8a7bde00b2a67355b07d9110b6299e5": {
+        "title": "If the stock market’s double bubble bursts, it could usher in the next crash",
+        "link": "https://www.marketwatch.com/story/if-the-stock-markets-double-bubble-bursts-it-could-usher-in-the-next-crash-de54c1b2?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Jul 2026 21:11:00 GMT",
+        "first_seen": "2026-07-07T00:06:31.641247"
+      },
+      "c7eb499dbd77762c7c4a7fc99e08f5ef57be5894fd836ab30a749b2caf7bb3c5": {
+        "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
+        "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
+        "published_date": "Mon, 06 Jul 2026 21:36:00 GMT",
+        "first_seen": "2026-07-07T00:06:31.641248"
+      },
+      "92e4f55282db4e3b7a90360f5a20a54e8e6ba88ee1b6d52602db1832aaa7468a": {
+        "title": "Hedge fund run by ex-OpenAI researcher bets on SK Hynix’s US IPO",
+        "link": "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187",
+        "published_date": "Mon, 06 Jul 2026 18:08:00 GMT",
+        "first_seen": "2026-07-07T00:06:31.641250"
       }
     },
     "Ai": {
-      "04fdacea1a33ba39432577119e08dd98a960495d5669f3858ecf895db3f97026": {
-        "title": "马斯克是SpaceX面子，她才是里子",
-        "link": "https://www.qbitai.com/2026/06/431371.html",
-        "published_date": "Sat, 06 Jun 2026 10:14:00 GMT",
-        "first_seen": "2026-06-07T00:03:56.827337"
-      },
       "bd77964292d6cf2a68ac6b16d0787a62bf6b4b0df6319ca786f6bc936a5064d8": {
         "title": "2026-06-07日刊",
         "link": "https://hex2077.dev/docs/2026-06/2026-06-07/",
@@ -4823,13 +4787,43 @@
         "link": "https://www.qbitai.com/2026/07/443186.html",
         "published_date": "Sun, 05 Jul 2026 13:38:00 GMT",
         "first_seen": "2026-07-06T09:01:29.585677"
+      },
+      "0b334fe74d3d774ee6f119e3c09cbcd868ce1d204cd1d6f496960ee73742bc5a": {
+        "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+        "link": "https://www.qbitai.com/2026/07/444733.html",
+        "published_date": "Mon, 06 Jul 2026 10:40:00 GMT",
+        "first_seen": "2026-07-07T00:07:20.115533"
+      },
+      "a01592af2e5c4ce45b88a3c8f7febee18e9a9f6a4e60c014d8c8ba3411a755f0": {
+        "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+        "link": "https://www.qbitai.com/2026/07/444721.html",
+        "published_date": "Mon, 06 Jul 2026 10:33:00 GMT",
+        "first_seen": "2026-07-07T00:07:20.115540"
+      },
+      "2c4d65d8d8629f2753c3e439ed1143dd4906da0f472606ce4343e1e02c916ea5": {
+        "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
+        "link": "https://www.qbitai.com/2026/07/444049.html",
+        "published_date": "Mon, 06 Jul 2026 10:22:00 GMT",
+        "first_seen": "2026-07-07T00:07:20.115542"
+      },
+      "043a87367844ff679f5044d7499716774f5ba64c85477b8d83205af2412b8e1b": {
+        "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+        "link": "https://www.qbitai.com/2026/07/444043.html",
+        "published_date": "Mon, 06 Jul 2026 09:54:00 GMT",
+        "first_seen": "2026-07-07T00:07:20.115544"
+      },
+      "1fb039598e0fb5d5eaf576b894531a4cce65c8244e9162657dce584cf9d8824b": {
+        "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
+        "link": "https://www.qbitai.com/2026/07/443868.html",
+        "published_date": "Mon, 06 Jul 2026 09:41:00 GMT",
+        "first_seen": "2026-07-07T00:07:20.115545"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-06T09:00:30.233747",
-    "Finance": "2026-07-06T09:01:17.953589",
-    "Ai": "2026-07-06T09:01:29.585678"
+    "Technology": "2026-07-07T00:06:14.229196",
+    "Finance": "2026-07-07T00:06:31.641252",
+    "Ai": "2026-07-07T00:07:20.115547"
   }
 }
