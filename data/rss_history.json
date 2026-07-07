@@ -1891,6 +1891,36 @@
         "link": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 06 Jul 2026 10:06:00 GMT",
         "first_seen": "2026-07-07T00:06:14.229194"
+      },
+      "859bac92b5338f1c682d781493111d7d97d46171ba7510dd6e2188be85f1c74d": {
+        "title": "AI资本周期思辨——泡沫终局预判：AI崩盘恐难现，结构性出清将至",
+        "link": "https://www.tmtpost.com/8055074.html",
+        "published_date": "Tue, 07 Jul 2026 16:08:00 GMT",
+        "first_seen": "2026-07-07T08:21:07.254525"
+      },
+      "ca52f0e8f3f9f02062eb0bea475eb2914d7e2ba76dfa2f9f486b627e5e6ff988": {
+        "title": "【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模",
+        "link": "https://www.tmtpost.com/8054405.html",
+        "published_date": "Tue, 07 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-07T08:21:07.254533"
+      },
+      "fa1c3df7392334617f4538a0906a14a18d8ea82745a128b3e67e89d1bde4a759": {
+        "title": "Claude有了“没说出口的念头”，AI意识还远吗？",
+        "link": "https://www.tmtpost.com/8055469.html",
+        "published_date": "Tue, 07 Jul 2026 15:57:00 GMT",
+        "first_seen": "2026-07-07T08:21:07.254536"
+      },
+      "60987302a6683e548b8f7253dc09c55a15393d5c34ab387cc1c6148d6e9a1a17": {
+        "title": "99万的赛博伴侣爆火，机器人厂商不想死磕工业化了？",
+        "link": "https://www.tmtpost.com/8055394.html",
+        "published_date": "Tue, 07 Jul 2026 15:12:00 GMT",
+        "first_seen": "2026-07-07T08:21:07.254538"
+      },
+      "3ecdd83adfe67db01935fc46f32f7847428145e2e584bda64437d3132d5561d4": {
+        "title": "Elastic 开源了基于认知科学的 Atlas Agent Memory",
+        "link": "https://www.infoq.cn/article/pzYuRUO0ECSKktJjKV8P?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 07 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-07T08:21:07.254540"
       }
     },
     "Finance": {
@@ -3669,6 +3699,36 @@
         "link": "https://www.ft.com/content/a6f1e92d-0232-4343-9930-6d965a67f187",
         "published_date": "Mon, 06 Jul 2026 18:08:00 GMT",
         "first_seen": "2026-07-07T00:06:31.641250"
+      },
+      "fac6f8a24ae5d09540c30c743aa57ebb22768551272ea1abb329bfe6ff9cb50a": {
+        "title": "Greek shipping companies made almost $4bn carrying Russian oil in past three years",
+        "link": "https://www.ft.com/content/d8518934-3618-43dc-af91-63a948c9bae3",
+        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-07T08:21:21.589547"
+      },
+      "feb029beb8d16f93efbdf04ea1aadb8f5705da6f4a75398639237313b2b4a531": {
+        "title": "HSBC pulls back from riskier private credit lending",
+        "link": "https://www.ft.com/content/08a93f45-24fe-4ea3-9b1e-ecfb68ee309d",
+        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-07T08:21:21.589553"
+      },
+      "ec6fcd9b43ba797d2b9da8c3f0aae06f6dc88344c45eabf6fe7583f18f97453c": {
+        "title": "German business leaders warn Merz more is needed to prevent ‘lost decade’",
+        "link": "https://www.ft.com/content/92ca68d2-f0d7-45ab-9811-437ee45e8d5d",
+        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-07T08:21:21.589556"
+      },
+      "ee1f109b6ad64c5dc7c7602a9c8cdc1b35ac141066feecb9e034dba9f9436492": {
+        "title": "How to stop AI becoming the enemy of younger workers",
+        "link": "https://www.ft.com/content/0b67e331-4ff0-4af6-85b7-0d7d6710d603",
+        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-07T08:21:21.589558"
+      },
+      "d1c54dad59d138237d8d2fd713b4ed739ddd9510c65a732a7cc0fe8036e9210a": {
+        "title": "How Europe would fight without America",
+        "link": "https://www.ft.com/content/ffd323d9-8a8c-4b67-ae0d-208c8f994ece",
+        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-07T08:21:21.589559"
       }
     },
     "Ai": {
@@ -4817,13 +4877,43 @@
         "link": "https://www.qbitai.com/2026/07/443868.html",
         "published_date": "Mon, 06 Jul 2026 09:41:00 GMT",
         "first_seen": "2026-07-07T00:07:20.115545"
+      },
+      "0226febcf5538610af53f182c4af093e6ae47c8e2f0c0268bc41689067f9a0c7": {
+        "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
+        "link": "https://www.qbitai.com/2026/07/444859.html",
+        "published_date": "Tue, 07 Jul 2026 03:14:00 GMT",
+        "first_seen": "2026-07-07T08:21:35.193966"
+      },
+      "14a89692e0ddef7e5a0ade8e11590a687ad0dcf902ab368d622783448e37c49e": {
+        "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+        "link": "https://www.qbitai.com/2026/07/445230.html",
+        "published_date": "Tue, 07 Jul 2026 04:48:00 GMT",
+        "first_seen": "2026-07-07T08:21:35.193973"
+      },
+      "332217e5be78db324d4b9192565e0f237d98f688e9742ba04f4e29a323a7c06a": {
+        "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+        "link": "https://www.qbitai.com/2026/07/445067.html",
+        "published_date": "Tue, 07 Jul 2026 03:24:00 GMT",
+        "first_seen": "2026-07-07T08:21:35.193975"
+      },
+      "e68f0f0e96f8533e52fcc7643b72321ae1c7eceba8120f82944d7b5a9253482b": {
+        "title": "Claude的脑子里，也长出了一块「意识」",
+        "link": "https://www.qbitai.com/2026/07/444741.html",
+        "published_date": "Tue, 07 Jul 2026 01:38:00 GMT",
+        "first_seen": "2026-07-07T08:21:35.193977"
+      },
+      "9fd86cfabcd5e3d542d7ffb2044d5297b06e8550aae4e1cb9e2b39d1bddc786d": {
+        "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
+        "link": "https://www.qbitai.com/2026/07/445229.html",
+        "published_date": "Tue, 07 Jul 2026 05:03:00 GMT",
+        "first_seen": "2026-07-07T08:21:35.193978"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-07T00:06:14.229196",
-    "Finance": "2026-07-07T00:06:31.641252",
-    "Ai": "2026-07-07T00:07:20.115547"
+    "Technology": "2026-07-07T08:21:07.254542",
+    "Finance": "2026-07-07T08:21:21.589562",
+    "Ai": "2026-07-07T08:21:35.193980"
   }
 }
