@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jul 2026 07:27:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 07:28:05 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 10:14:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:15:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商</title>
-      <link>https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐</title>
+      <link>https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开源模型赢了 Token 流量，Anthropic 赚走了大部分钱</title>
-      <link>https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[开源模型赢了 Token 流量，Anthropic 赚走了大部分钱]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 15:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论</title>
+      <link>https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026</title>
-      <link>https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 11:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>人人都在喊的世界模型，正在成为AI最大的“概念筐”</title>
+      <link>https://www.tmtpost.com/8056875.html</link>
+      <description>&lt;![CDATA[人人都在喊的世界模型，正在成为AI最大的“概念筐”]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056875.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手换船：短视频搁浅，AI抢滩</title>
-      <link>https://www.tmtpost.com/8056696.html</link>
-      <description>&lt;![CDATA[快手换船：短视频搁浅，AI抢滩]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056696.html</guid>
+      <title>国产半导体设备零部件，开始起势</title>
+      <link>https://www.tmtpost.com/8056313.html</link>
+      <description>&lt;![CDATA[国产半导体设备零部件，开始起势]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056313.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI产业全景透视之：3D NAND，以钼代钨</title>
-      <link>https://www.tmtpost.com/8056270.html</link>
-      <description>&lt;![CDATA[AI产业全景透视之：3D NAND，以钼代钨]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056270.html</guid>
+      <title>博通 AVGO：追不上英伟达，反遭 “小弟” 围猎？</title>
+      <link>https://www.tmtpost.com/8056786.html</link>
+      <description>&lt;![CDATA[博通 AVGO：追不上英伟达，反遭 “小弟” 围猎？]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056786.html</guid>
       <category>Technology</category>
     </item>
   </channel>
