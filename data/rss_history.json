@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ce525198e971a1ecfe988cf309f49e85afb7c817b5999a7429e13cf2f9fb6718": {
-        "title": "【钛晨报】OpenAI计划对ChatGPT进行上线以来最大规模升级；京东、腾讯联手，就AI Agent将达成合作｜独家；算力普惠再提速，全球首个“预制算力中心底座”正式投用",
-        "link": "https://www.tmtpost.com/8018285.html",
-        "published_date": "Mon, 08 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-08T00:05:42.989441"
-      },
-      "adfbcac8be641e7ee1d5b1ffc33c794ba50354ba7324bf9f5bd7fe76072f5755": {
-        "title": "英特尔与英伟达互抢地盘，乱了，都乱了",
-        "link": "https://www.tmtpost.com/8018055.html",
-        "published_date": "Sun, 07 Jun 2026 18:59:00 GMT",
-        "first_seen": "2026-06-08T00:05:42.989448"
-      },
-      "cf79e8f9f5b20f0a4b78216d2421a0df6c8350eae3dcf2079a13dda08432fe83": {
-        "title": "China‘s Top Two Large Model Firms Seeking Dual Listing in Hong Kong and Chinese Mainland",
-        "link": "https://www.tmtpost.com/8018356.html",
-        "published_date": "Sun, 07 Jun 2026 21:51:00 GMT",
-        "first_seen": "2026-06-08T00:05:42.989450"
-      },
-      "5d1acd6ee2979439f9cce384199ee2ca7aa915b013dfcd18613403ccf4e7a4cd": {
-        "title": "拼多多应该有AI焦虑吗",
-        "link": "https://www.tmtpost.com/8017809.html",
-        "published_date": "Sun, 07 Jun 2026 19:00:00 GMT",
-        "first_seen": "2026-06-08T00:05:42.989452"
-      },
-      "b86794dde093d6be68adc082f33e9c8ec5a44c1efeea595198bc44f016f28f9c": {
-        "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
-        "link": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-08T00:05:42.989454"
-      },
       "47bda32029d99ecd984de54276dfab3a292f0e844a2c69273a3c0b232eb48f08": {
         "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
         "link": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 07 Jul 2026 17:23:00 GMT",
         "first_seen": "2026-07-07T23:57:45.500848"
+      },
+      "2782bb872030ca943547f2281cbe456d3107dc76d227b2eaf49ea3d80752de16": {
+        "title": "DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商",
+        "link": "https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Jul 2026 14:56:00 GMT",
+        "first_seen": "2026-07-08T07:28:05.814867"
+      },
+      "088e01e4ac98a6ebc6b88f473b5751774e5ab956abc686cbcedfc23ec7345974": {
+        "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
+        "link": "https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Jul 2026 15:20:00 GMT",
+        "first_seen": "2026-07-08T07:28:05.814876"
+      },
+      "0b13e30be28f4ad8d5902c50f1d7cdf5ea6dc94f51aa011bc83fa3da3fa2a2bb": {
+        "title": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+        "link": "https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 08 Jul 2026 11:19:00 GMT",
+        "first_seen": "2026-07-08T07:28:05.814878"
+      },
+      "a8d6027be815e9300ad6d3ac20099b2a0b8bd40680ec5e7f8d223516e7bdede0": {
+        "title": "快手换船：短视频搁浅，AI抢滩",
+        "link": "https://www.tmtpost.com/8056696.html",
+        "published_date": "Wed, 08 Jul 2026 12:37:00 GMT",
+        "first_seen": "2026-07-08T07:28:05.814880"
+      },
+      "d197fa03e8b3aa10787727bf642164b3133b36925fff6152f83ac8fb3bcd868e": {
+        "title": "AI产业全景透视之：3D NAND，以钼代钨",
+        "link": "https://www.tmtpost.com/8056270.html",
+        "published_date": "Wed, 08 Jul 2026 12:25:00 GMT",
+        "first_seen": "2026-07-08T07:28:05.814882"
       }
     },
     "Finance": {
-      "c11bc7a80c4c77e1413c1f39a3c3e596d4395cdcb8c1d40873310c4b4ed6fc2e": {
-        "title": "Iran launches ballistic missiles at Israel",
-        "link": "https://www.ft.com/content/a312b725-8921-415a-a9da-c8f6836f5459",
-        "published_date": "Sun, 07 Jun 2026 22:23:00 GMT",
-        "first_seen": "2026-06-08T00:05:59.117010"
-      },
-      "00e9bfd56db2f206a258a0d37e5753b28aab2a08c3f1e8ce3fc0402db477a40a": {
-        "title": "S&P 500 companies can’t stop talking about higher oil prices. But few say they’ll actually hurt profits.",
-        "link": "https://www.marketwatch.com/story/s-p-500-companies-cant-stop-talking-about-higher-oil-prices-but-few-say-theyll-actually-hit-profits-c3a4e4ea?mod=mw_rss_topstories",
-        "published_date": "Sun, 07 Jun 2026 19:14:00 GMT",
-        "first_seen": "2026-06-08T00:05:59.117018"
-      },
-      "7909870b815bc91072f75b6f90cb0ee8648c0b9e019d715ea3a33a8846d254b3": {
-        "title": "Airlines face $100bn hit on jet fuel from Iran energy shock",
-        "link": "https://www.ft.com/content/3be2f94f-1d15-4f0e-9289-06a219b044f6",
-        "published_date": "Sun, 07 Jun 2026 15:25:00 GMT",
-        "first_seen": "2026-06-08T00:05:59.117020"
-      },
-      "c4523f92264f36255662ef4365eb2130ef5ea8f7f30f6b752ec54262ba10990e": {
-        "title": "Intesa prepares Monte dei Paschi bid to gatecrash BPM’s €50bn bank merger",
-        "link": "https://www.ft.com/content/a14f2550-b3af-4893-b09c-3d3d845f4a51",
-        "published_date": "Sun, 07 Jun 2026 21:23:00 GMT",
-        "first_seen": "2026-06-08T00:05:59.117022"
-      },
-      "96014b1b9475af25ea7a2afb27e8fad051cc805ebb648cb0fff460e19082f0a9": {
-        "title": "Are we at the start of a new investment super-cycle?",
-        "link": "https://www.ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
-        "published_date": "Sun, 07 Jun 2026 12:00:00 GMT",
-        "first_seen": "2026-06-08T00:05:59.117024"
-      },
       "7bba7c124f013e093062a9aa8881087a09bc8d8c8299095ce7075107c92110b0": {
         "title": "What nine different indicators say about market exuberance, according to Goldman Sachs",
         "link": "https://www.marketwatch.com/story/what-nine-different-indicators-say-about-market-exuberance-according-to-goldman-sachs-bec968f2?mod=mw_rss_topstories",
@@ -3729,27 +3699,39 @@
         "link": "https://www.ft.com/content/41d1c09c-a2d1-41f4-82f3-f2a402f91dec",
         "published_date": "Tue, 07 Jul 2026 20:28:00 GMT",
         "first_seen": "2026-07-07T23:58:37.516882"
+      },
+      "2ffc288d3d692211fb8a323574de31d095112cdce300201541dd903c4ac2d221": {
+        "title": "Japan’s borrowing costs soar to 30-year high on debt fears",
+        "link": "https://www.ft.com/content/851aa883-073f-4423-a43e-9b09fdbe7c86",
+        "published_date": "Wed, 08 Jul 2026 01:00:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.240550"
+      },
+      "d920ff5d8d85b91b3ce388d1272f2832814cf1ebcf821abc24cd66f2891c4b0f": {
+        "title": "Indonesia’s stock market hit with second downgrade warning",
+        "link": "https://www.ft.com/content/dfb44d58-e8da-4f87-a65f-00eb5b1fc63c",
+        "published_date": "Wed, 08 Jul 2026 02:28:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.240557"
+      },
+      "0170b78cb35f7c4a4622ea8a418c3d76e5fb0e44a158d55c4503568117b3ac76": {
+        "title": "Santander axes top China banker and scraps perks in Asia overhaul",
+        "link": "https://www.ft.com/content/2169b73c-7583-4d28-91d5-6459846ad769",
+        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.240559"
+      },
+      "bd78271677f58f8c4790504a47d8a31f3face6aa578ba9d188fcaa147aafd429": {
+        "title": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
+        "link": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories",
+        "published_date": "Wed, 08 Jul 2026 00:35:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.240561"
+      },
+      "96fbc4f5bdb68f45d228c8c8e5cb83d55981fbd2335a47dfbf19bb494f7c5543": {
+        "title": "Palantir’s real weak spot",
+        "link": "https://www.ft.com/content/21038b20-646e-4773-a473-110c2d62ab15",
+        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.240562"
       }
     },
     "Ai": {
-      "783cbac9e4a53f1b077612c59dd4f8f87f4d287936415b2afa9cde0ba10d9847": {
-        "title": "有余凯不投的地平线离职创业员工吗？",
-        "link": "https://www.qbitai.com/2026/06/431931.html",
-        "published_date": "Sun, 07 Jun 2026 12:43:00 GMT",
-        "first_seen": "2026-06-08T00:05:19.711992"
-      },
-      "f9c90110399915daa66874409615a86ba847b43388a2600c1f9c5621739e2dda": {
-        "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-        "link": "https://www.qbitai.com/2026/06/431694.html",
-        "published_date": "Sun, 07 Jun 2026 12:13:00 GMT",
-        "first_seen": "2026-06-08T00:05:19.712002"
-      },
-      "620094b864ca59f94b1b42f47409786c51340cbb943fb8c9bb7c45d164d56e41": {
-        "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
-        "link": "https://www.qbitai.com/2026/06/431499.html",
-        "published_date": "Sun, 07 Jun 2026 12:07:00 GMT",
-        "first_seen": "2026-06-08T00:05:19.712005"
-      },
       "fd0716821d685bdb6a69e4e589d94071b9dc2c9c86025ccc17237b1b0489b014": {
         "title": "2026-06-08日刊",
         "link": "https://hex2077.dev/docs/2026-06/2026-06-08/",
@@ -4925,13 +4907,43 @@
         "link": "https://hex2077.dev/docs/2026-07/2026-07-07/",
         "published_date": "Tue, 07 Jul 2026 10:54:00 GMT",
         "first_seen": "2026-07-07T23:58:37.630545"
+      },
+      "700ee01a194ea3764d8bbb18b39309fce6975a36c9a768faac82f2f8ae25de79": {
+        "title": "2026-07-08日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-08/",
+        "published_date": "Wed, 08 Jul 2026 10:55:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.363129"
+      },
+      "e0982555c8d04f4807ec069fe9cae6cfd5307dfe14ba146105ee651e7f5f9291": {
+        "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
+        "link": "https://www.qbitai.com/2026/07/445883.html",
+        "published_date": "Wed, 08 Jul 2026 04:47:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.363137"
+      },
+      "2d4bab61f5a122378eaf810be8b23621845b1264381ce1dbe8d00db60edff48b": {
+        "title": "60000小时炼出新开源VLA！20多种机器人都能用",
+        "link": "https://www.qbitai.com/2026/07/445678.html",
+        "published_date": "Wed, 08 Jul 2026 03:54:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.363139"
+      },
+      "70afbd98e3f5639eac2fe94ec02a1bef2f6d00b505e9040c3fc5d9ad4f02cdce": {
+        "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
+        "link": "https://www.qbitai.com/2026/07/445668.html",
+        "published_date": "Wed, 08 Jul 2026 03:04:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.363141"
+      },
+      "9246d4e35d9dec94b2e6157f6320553ecd29205c90117370184f8984509cc07e": {
+        "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
+        "link": "https://www.qbitai.com/2026/07/445531.html",
+        "published_date": "Wed, 08 Jul 2026 00:44:00 GMT",
+        "first_seen": "2026-07-08T07:28:20.363143"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-07T23:57:45.500851",
-    "Finance": "2026-07-07T23:58:37.516885",
-    "Ai": "2026-07-07T23:58:37.630546"
+    "Technology": "2026-07-08T07:28:05.814884",
+    "Finance": "2026-07-08T07:28:20.240565",
+    "Ai": "2026-07-08T07:28:20.363144"
   }
 }

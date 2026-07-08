@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Jul 2026 23:57:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jul 2026 23:57:45 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 07:27:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:28:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一份内部报告显示，美国财政部开始评估AI泡沫风险</title>
-      <link>https://www.tmtpost.com/8055875.html</link>
-      <description>&lt;![CDATA[一份内部报告显示，美国财政部开始评估AI泡沫风险]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8055875.html</guid>
+      <title>DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商</title>
+      <link>https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达转向全液冷，Rubin平台开启液冷“标配”时代</title>
-      <link>https://www.tmtpost.com/8055974.html</link>
-      <description>&lt;![CDATA[英伟达转向全液冷，Rubin平台开启液冷“标配”时代]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8055974.html</guid>
+      <title>开源模型赢了 Token 流量，Anthropic 赚走了大部分钱</title>
+      <link>https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源模型赢了 Token 流量，Anthropic 赚走了大部分钱]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>李开复亮出“中国版Palantir”底牌</title>
-      <link>https://www.tmtpost.com/8056379.html</link>
-      <description>&lt;![CDATA[李开复亮出“中国版Palantir”底牌]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 21:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056379.html</guid>
+      <title>大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026</title>
+      <link>https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从超聚变，看服务器行业的“生死局”</title>
-      <link>https://www.tmtpost.com/8056124.html</link>
-      <description>&lt;![CDATA[从超聚变，看服务器行业的“生死局”]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 18:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056124.html</guid>
+      <title>快手换船：短视频搁浅，AI抢滩</title>
+      <link>https://www.tmtpost.com/8056696.html</link>
+      <description>&lt;![CDATA[快手换船：短视频搁浅，AI抢滩]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056696.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps</title>
-      <link>https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软通过 Copilot Autofix 将基于 AI 的漏洞修复功能引入 Azure DevOps]]&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CSS70hYSA57JBUMLdf7L?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI产业全景透视之：3D NAND，以钼代钨</title>
+      <link>https://www.tmtpost.com/8056270.html</link>
+      <description>&lt;![CDATA[AI产业全景透视之：3D NAND，以钼代钨]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 12:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8056270.html</guid>
       <category>Technology</category>
     </item>
   </channel>
