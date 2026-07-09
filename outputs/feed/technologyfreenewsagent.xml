@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Jul 2026 00:07:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2026 00:08:22 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 08:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:27:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>起底东南亚AI军团：专供园区，电诈效率飙升10倍</title>
-      <link>https://www.tmtpost.com/8056877.html</link>
-      <description>&lt;![CDATA[起底东南亚AI军团：专供园区，电诈效率飙升10倍]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056877.html</guid>
+      <title>Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！</title>
+      <link>https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>车企会进入“去宁德时代”新周期吗？</title>
-      <link>https://www.tmtpost.com/8056392.html</link>
-      <description>&lt;![CDATA[车企会进入“去宁德时代”新周期吗？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056392.html</guid>
+      <title>首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？</title>
+      <link>https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[首个具身视频基模开源！LingBot-Video 如何为“机器人大脑”构建物理引擎？]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/SCC8javdsA2zgBg0c2C1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达“逼”出全液冷时代：A股哪些公司会受益？</title>
-      <link>https://www.tmtpost.com/8057120.html</link>
-      <description>&lt;![CDATA[英伟达“逼”出全液冷时代：A股哪些公司会受益？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057120.html</guid>
+      <title>百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[百万上下文下的 DeepSeek V4：SGLang 推理优化实战｜AICon深圳]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qALuq71AxiG5VLmWqSzU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亲历者讲述：Claude Code是怎样炼成的？</title>
-      <link>https://www.tmtpost.com/8057106.html</link>
-      <description>&lt;![CDATA[亲历者讲述：Claude Code是怎样炼成的？]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057106.html</guid>
+      <title>动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级</title>
+      <link>https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[动态分区拆分：Netflix 大幅削减 Cassandra 读取延迟至毫秒级]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GRDxYebxA7ywxO4seBWy?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>骑手背后的美团，悄悄跑通了万亿大模型</title>
-      <link>https://www.tmtpost.com/8056486.html</link>
-      <description>&lt;![CDATA[骑手背后的美团，悄悄跑通了万亿大模型]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 12:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8056486.html</guid>
+      <title>Claude 在 Foundry 上正式可用，但欧洲企业无法部署</title>
+      <link>https://www.infoq.cn/article/hOGtafDIR2GvccjYiLEc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude 在 Foundry 上正式可用，但欧洲企业无法部署]]&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hOGtafDIR2GvccjYiLEc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
