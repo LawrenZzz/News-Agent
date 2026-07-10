@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Jul 2026 00:02:00 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2026 00:03:15 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 08:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:20:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理</title>
-      <link>https://www.tmtpost.com/8059401.html</link>
-      <description>&lt;![CDATA[伯南克加入Anthropic长期利益信托：美联储独立性逻辑能否延伸到AI治理]]&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 07:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8059401.html</guid>
+      <title>GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx</title>
+      <link>https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPT-5.6全面围剿Claude Fable 5，“超级应用”ChatGPT Work上位，Altman紧急澄清：不会取代Coedx]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iqUrh3vqeO4xszUa1bCd?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>3个月狂吸百亿，世界模型打响2026生死卡位战</title>
-      <link>https://www.tmtpost.com/8057843.html</link>
-      <description>&lt;![CDATA[3个月狂吸百亿，世界模型打响2026生死卡位战]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8057843.html</guid>
+      <title>光模块的命门被卡住了</title>
+      <link>https://www.tmtpost.com/8059100.html</link>
+      <description>&lt;![CDATA[光模块的命门被卡住了]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059100.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 进化论：从对话到协作</title>
-      <link>https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 进化论：从对话到协作]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6StbVmZr0cicGREVjwZu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家</title>
+      <link>https://www.tmtpost.com/8059646.html</link>
+      <description>&lt;![CDATA[独家对话原力灵机唐文斌：具身行业好好做模型的公司，不超过10家]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8059646.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西</title>
-      <link>https://www.tmtpost.com/8058019.html</link>
-      <description>&lt;![CDATA[字节、美团、亚马逊都在“收拾”中层，AI抽走了他们最值钱的东西]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8058019.html</guid>
+      <title>GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打</title>
+      <link>https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub 的旧模式被 AI 击穿，Cursor、GitLab、Zed 各自开打]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7ZSdewTwDBz1mrx6wmat?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Infra 拼什么？</title>
-      <link>https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Infra 拼什么？]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/bN06GZ6lWP9tc5qVPOky?utm_source=rss&amp;utm_medium=article</guid>
+      <title>写在MiniMax解禁日，集齐了「大行、赛道、产品」三大拐点</title>
+      <link>https://www.tmtpost.com/8058960.html</link>
+      <description>&lt;![CDATA[写在MiniMax解禁日，集齐了「大行、赛道、产品」三大拐点]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 12:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8058960.html</guid>
       <category>Technology</category>
     </item>
   </channel>
