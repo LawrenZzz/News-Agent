@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "618905e0aa5d8e10605d294ee9bfdf0bba80a0ce51db62736d7ab25d3e3b8a8d": {
-        "title": "震撼！胰腺癌迎来历史性突破，创新药赛道沸腾了",
-        "link": "https://www.tmtpost.com/8021920.html",
-        "published_date": "Wed, 10 Jun 2026 16:18:00 GMT",
-        "first_seen": "2026-06-11T00:14:18.399647"
-      },
-      "b86939b39302b651643b85a20c7feaa8314febff48fab7a0b46b2a1317a9acf1": {
-        "title": "【钛晨报】国家发展改革委：抓紧研究储备一批针对性、操作性强的政策工具，根据需要及时出台实施；SpaceX的首次公开募股吸引了中东财富基金的数十亿美元认购；千问发布首个高考志愿填报Agent",
-        "link": "https://www.tmtpost.com/8023011.html",
-        "published_date": "Thu, 11 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-11T00:14:18.399655"
-      },
-      "781c7d1ced451a6d7f4da4cb10b320de5daec76cadfac7925c05cf39c2ae3559": {
-        "title": "毛利43.9%、经营现金流为负，安克创新的钱去哪了？｜出海参考",
-        "link": "https://www.tmtpost.com/8022609.html",
-        "published_date": "Wed, 10 Jun 2026 17:32:00 GMT",
-        "first_seen": "2026-06-11T00:14:18.399657"
-      },
-      "053c380a64e985c5788dd8ef7d0118dd5776dae1ea14bb42f86d3d5c16e55f11": {
-        "title": "零售与消费品公司如何在宏观经济波动中实现同比增长 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/k4K56JbfmpfPXX2eqwR5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Jun 2026 16:29:00 GMT",
-        "first_seen": "2026-06-11T00:14:18.399659"
-      },
-      "ee14e5990e5c2091df8a651abde9e2f76f0293ca8e29f4f56babcf4ebef87430": {
-        "title": "如何通过数据驱动的对话文化支撑平台工程",
-        "link": "https://www.infoq.cn/article/bmqoUAoTCIChMJfB98l2?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 10 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-11T00:14:18.399660"
-      },
       "073cd6255f4eb498d4e7135ce76295dacac1e2928a1c170e7bc1cc5a4b8a9b1a": {
         "title": "物理 AI 为何押注世界模型？",
         "link": "https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&utm_medium=article",
@@ -1951,39 +1921,39 @@
         "link": "https://www.tmtpost.com/8059130.html",
         "published_date": "Fri, 10 Jul 2026 18:20:00 GMT",
         "first_seen": "2026-07-11T00:00:53.349217"
+      },
+      "d18c3df26c2c1128dc5eb747af4bbaee875eab6e3c72e81f02dbd23a30f75f94": {
+        "title": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "link": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.828518"
+      },
+      "27fc933998c079caee0e3857e32fee99fd3a07c514a994f55aeaf8d5c165c7c3": {
+        "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.828528"
+      },
+      "959d219c7d3e6bcbcf3e95f04b0c42b48ca114853d26ed3dbe501c7a70c10a82": {
+        "title": "海力士，逃离韩国",
+        "link": "https://www.tmtpost.com/8060878.html",
+        "published_date": "Sat, 11 Jul 2026 11:52:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.828530"
+      },
+      "76a1a76c3b647f5e6be93da9ee3166ef3785633d096e1ed0d98e6f162b48e3a1": {
+        "title": "极端天气“常态化”下，能源系统如何守住“最后一道闸”？储能或将成为未来灾害下的应急兜底手段",
+        "link": "https://www.tmtpost.com/8060976.html",
+        "published_date": "Sat, 11 Jul 2026 12:31:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.828532"
+      },
+      "e41baaac2049328b8c84f613949151b4a8c6145fb3a947989f62699677ea65f1": {
+        "title": "青海、山西落地“114号文”容量电价细则，当储能拿到“底薪”之后，有人欢喜有人愁",
+        "link": "https://www.tmtpost.com/8060979.html",
+        "published_date": "Sat, 11 Jul 2026 12:22:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.828534"
       }
     },
     "Finance": {
-      "d97fd9f68926b1e2253c37d82134c216bb32e3d66b9cc66a5674d151855a8cfb": {
-        "title": "Worried that big IPOs will torpedo the stock market? These factors suggest otherwise.",
-        "link": "https://www.marketwatch.com/story/worried-that-big-ipos-will-torpedo-the-stock-market-these-factors-may-suggest-otherwise-cfb3db50?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Jun 2026 20:16:00 GMT",
-        "first_seen": "2026-06-11T00:15:03.505886"
-      },
-      "590f316fed52991840f584abaca3117e79840439803c4ad06b3cb25df7ea4a33": {
-        "title": "My elderly mother and I own a home together. Will Medicaid force its sale?",
-        "link": "https://www.marketwatch.com/story/my-elderly-mother-and-i-own-a-home-together-will-medicaid-force-its-sale-fdfbad4a?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Jun 2026 23:48:00 GMT",
-        "first_seen": "2026-06-11T00:15:03.505894"
-      },
-      "75aeccdf2468a9caf27bb919ea5e5cd52c5a6607d035f7e608aec7b46f1969ee": {
-        "title": "When a World Cup team loses, its country’s stock market also goes down. Here’s the weird reason why.",
-        "link": "https://www.marketwatch.com/story/the-weird-reason-why-a-teams-world-cup-loss-can-trigger-a-sharp-drop-in-stock-prices-ac385f51?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Jun 2026 23:25:00 GMT",
-        "first_seen": "2026-06-11T00:15:03.505897"
-      },
-      "fceeb8c7b2e61b9a3eda59507c51962eb8d339cfb1e7e5073956e5e0fa6cb557": {
-        "title": "Social Security is facing a 22% cliff — 4 ways to build an income stream Washington can’t touch",
-        "link": "https://www.marketwatch.com/story/social-security-could-face-an-automatic-22-cut-in-2032-these-4-moves-will-protect-your-retirement-a00f9463?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Jun 2026 23:24:00 GMT",
-        "first_seen": "2026-06-11T00:15:03.505899"
-      },
-      "de2dd1aaba18972b870dee2db7867ec9b78639ef166dbbb237c1e77805d2d769": {
-        "title": "Thinking about insider trading on prediction markets? Kalshi wants to make an example of you.",
-        "link": "https://www.marketwatch.com/story/thinking-about-insider-trading-on-prediction-markets-kalshi-wants-to-make-an-example-of-you-74d50486?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Jun 2026 23:22:00 GMT",
-        "first_seen": "2026-06-11T00:15:03.505900"
-      },
       "b4bc0107514821ca9c495d354c64450afa40426f2c3a6850ab1da8a97c7079f6": {
         "title": "Markets are pricing in a rate hike by the European Central Bank — which one top economist sees as a ‘mistake in the making’",
         "link": "https://www.marketwatch.com/story/markets-are-pricing-in-a-rate-hike-by-the-european-central-bank-and-that-could-be-a-mistake-in-the-making-b99771ca?mod=mw_rss_topstories",
@@ -3789,33 +3759,39 @@
         "link": "https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23",
         "published_date": "Fri, 10 Jul 2026 18:30:00 GMT",
         "first_seen": "2026-07-11T00:01:36.615524"
+      },
+      "ca4847f0e36895cff0467e7da1ca349acb3d0947c4ebbd4caf0b9d4dc0805f63": {
+        "title": "Tropical nights come to Europe",
+        "link": "https://www.ft.com/content/d78ed235-b157-4564-a099-2c7e350f0956",
+        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.874164"
+      },
+      "ee1c22be3cf78cce004e791919259bb1f310cad3ea3fb2d9e69cf3ad250a7687": {
+        "title": "Prepare for a perilous summer in markets",
+        "link": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
+        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.874172"
+      },
+      "7a04e9ca8de30960f673a3e01cc38deee7480ba7cdc8caa03ab3514a15d775cf": {
+        "title": "What’s really going on with mental health?",
+        "link": "https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8",
+        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.874174"
+      },
+      "95de2ce014108f81f8506d865cf83300fd705c652a5f3c510f354185090bae57": {
+        "title": "Europe’s slow electrification is a ‘major mistake’, warns IEA chief",
+        "link": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
+        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.874176"
+      },
+      "a4c3649eece58f402677a7803773e666a973a62e52649d51a78515980f6ff721": {
+        "title": "Inside the risky race through the Strait of Hormuz",
+        "link": "https://www.ft.com/content/68d396cd-2800-4ff8-b563-1f5c95beb9ba",
+        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.874177"
       }
     },
     "Ai": {
-      "e9ec4a4d6148bcff97bb03d5abc8d271b7895caac72eba188cefcc4ee2bc5852": {
-        "title": "New framework for auditing machine unlearning",
-        "link": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
-        "published_date": "Wed, 10 Jun 2026 17:34:00 GMT",
-        "first_seen": "2026-06-11T00:13:35.041877"
-      },
-      "fef500c98079e25e34193406dc898b65856c69af1194daeac089c1d33a7b8fb8": {
-        "title": "中国第一、全球第二！HiDream-O1-Image-1.5 登顶文生图榜单，超越谷歌、英伟达",
-        "link": "https://www.qbitai.com/2026/06/434196.html",
-        "published_date": "Wed, 10 Jun 2026 11:52:00 GMT",
-        "first_seen": "2026-06-11T00:13:35.041887"
-      },
-      "f2a5f0e25690d4b40f252ee89298f57e658171b65939f872d8d1aa5f5d176abc": {
-        "title": "东风联手九识，商用无人车也有“HI模式”了",
-        "link": "https://www.qbitai.com/2026/06/433956.html",
-        "published_date": "Wed, 10 Jun 2026 11:38:00 GMT",
-        "first_seen": "2026-06-11T00:13:35.041889"
-      },
-      "bc1484fd62e72708584698c54c739129ecca4b79bc5881a22f6a0f97ba8748ce": {
-        "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
-        "link": "https://www.qbitai.com/2026/06/433832.html",
-        "published_date": "Wed, 10 Jun 2026 10:25:00 GMT",
-        "first_seen": "2026-06-11T00:13:35.041891"
-      },
       "5a3396fe9ed2d788bdc49e5889aa42af631ff75112f92e3c9d7cd2b522d7762d": {
         "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
         "link": "https://www.qbitai.com/2026/06/434317.html",
@@ -5027,13 +5003,25 @@
         "link": "https://www.qbitai.com/2026/07/447846.html",
         "published_date": "Fri, 10 Jul 2026 17:18:00 GMT",
         "first_seen": "2026-07-11T00:02:11.137869"
+      },
+      "645f2ef5ab23305195bfbd325822353a9d5d81c8e9a44807c954ae5e2ae1d234": {
+        "title": "2026-07-11日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-11/",
+        "published_date": "Sat, 11 Jul 2026 09:09:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.998317"
+      },
+      "aa4ef4b260c52519cd202b6e424ec98bc9e0e6bdb5892ed5b426da614e21298c": {
+        "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+        "link": "https://www.qbitai.com/2026/07/447873.html",
+        "published_date": "Sat, 11 Jul 2026 05:30:00 GMT",
+        "first_seen": "2026-07-11T07:11:30.998323"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-11T00:00:53.349219",
-    "Finance": "2026-07-11T00:01:36.615527",
-    "Ai": "2026-07-11T00:02:11.137870"
+    "Technology": "2026-07-11T07:11:30.828537",
+    "Finance": "2026-07-11T07:11:30.874180",
+    "Ai": "2026-07-11T07:11:30.998326"
   }
 }
