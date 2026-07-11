@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "073cd6255f4eb498d4e7135ce76295dacac1e2928a1c170e7bc1cc5a4b8a9b1a": {
-        "title": "物理 AI 为何押注世界模型？",
-        "link": "https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Jun 2026 15:27:00 GMT",
-        "first_seen": "2026-06-11T09:13:57.045813"
-      },
-      "78bd066ef98624c5b84f6ee76b9580d59e5995a53ce01a6da3983ddfed46814e": {
-        "title": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers",
-        "link": "https://www.infoq.cn/article/l7BXlstUWDOBwI30miJU?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Jun 2026 16:59:00 GMT",
-        "first_seen": "2026-06-11T09:13:57.045820"
-      },
-      "264352ffe969e18662a3e81c566e597c7044187121f1aa7c8511aaa00a08a9fb": {
-        "title": "“Token 大爆炸”前夜，数据基础设施正在成为新的变量",
-        "link": "https://www.infoq.cn/article/TDdi5YoLaEaiTZAcfz6U?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Jun 2026 17:01:00 GMT",
-        "first_seen": "2026-06-11T09:13:57.045822"
-      },
-      "cfc345a925cee7f5041c8057514721fd80ee9c1b6eb65e1eb81bf226c61cf11c": {
-        "title": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
-        "link": "https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Jun 2026 11:47:00 GMT",
-        "first_seen": "2026-06-11T09:13:57.045823"
-      },
-      "1ca24de0cf4268ac9faeed2d337e2e7e4ea2ac982343797f623db47f2d1b57e8": {
-        "title": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
-        "link": "https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Jun 2026 11:00:00 GMT",
-        "first_seen": "2026-06-11T09:13:57.045825"
-      },
       "3b80f94b9b34c3dadd810aba45b35aa280a9763a2823f1adfbc6307d95714f50": {
         "title": "AI时代的\"光进铜退\"：为什么光互连是算力爆炸的唯一出路？",
         "link": "https://www.tmtpost.com/8024211.html",
@@ -1951,39 +1921,39 @@
         "link": "https://www.tmtpost.com/8060979.html",
         "published_date": "Sat, 11 Jul 2026 12:22:00 GMT",
         "first_seen": "2026-07-11T07:11:30.828534"
+      },
+      "96cc40eea631c63acba8b245f111d61f1dde2dcbd8607e0ce41c75b6b1137544": {
+        "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+        "link": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Jul 2026 17:00:00 GMT",
+        "first_seen": "2026-07-11T09:25:48.812936"
+      },
+      "8b7bdab3f0b930b9b93bd77da7f63b9d4377d72b85aaf91fe9a491845068fec5": {
+        "title": "跨界储能，为何有的吃苦有的吃糖",
+        "link": "https://www.tmtpost.com/8060488.html",
+        "published_date": "Sat, 11 Jul 2026 12:47:00 GMT",
+        "first_seen": "2026-07-11T09:25:48.812945"
+      },
+      "7da35b73da80d8d4f8ad9a0a606b2f21d1e62815de2d84edcb713ebef0c65fc8": {
+        "title": "两个人、两个月，卖出1500万份，独立游戏盯上了“朋友生意”",
+        "link": "https://www.tmtpost.com/8060974.html",
+        "published_date": "Sat, 11 Jul 2026 12:14:00 GMT",
+        "first_seen": "2026-07-11T09:25:48.812948"
+      },
+      "0dd166496c3143d80e12a44c6cec8cadd9d6f36338faeee9be7e11b8aad5716d": {
+        "title": "中国的自有品牌，更像供应链故事，而非渠道故事",
+        "link": "https://www.tmtpost.com/8060582.html",
+        "published_date": "Sat, 11 Jul 2026 10:43:00 GMT",
+        "first_seen": "2026-07-11T09:25:48.812950"
+      },
+      "58d25e741e6c233964680283fd0b19aa55205139aa2ba7aa9413e0b077e0f6fb": {
+        "title": "赴美双重上市，途虎真正的考题不在华尔街",
+        "link": "https://www.tmtpost.com/8060567.html",
+        "published_date": "Sat, 11 Jul 2026 10:37:00 GMT",
+        "first_seen": "2026-07-11T09:25:48.812952"
       }
     },
     "Finance": {
-      "b4bc0107514821ca9c495d354c64450afa40426f2c3a6850ab1da8a97c7079f6": {
-        "title": "Markets are pricing in a rate hike by the European Central Bank — which one top economist sees as a ‘mistake in the making’",
-        "link": "https://www.marketwatch.com/story/markets-are-pricing-in-a-rate-hike-by-the-european-central-bank-and-that-could-be-a-mistake-in-the-making-b99771ca?mod=mw_rss_topstories",
-        "published_date": "Thu, 11 Jun 2026 06:36:00 GMT",
-        "first_seen": "2026-06-11T09:14:12.053105"
-      },
-      "32ac9b08425ad1d30f338e7ea129960a810cc0185de9a6a13222f8df7d6b0bfb": {
-        "title": "We will need a new tax code for the wealth AI creates",
-        "link": "https://www.ft.com/content/b277360e-bf23-4366-afd7-acab940f66b7",
-        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-11T09:14:12.053113"
-      },
-      "c4912472c234325bd41eb3e3124e6fdacf89e5dfa194a183c9baf9ad5352e1d1": {
-        "title": "Iran war tightens ‘super-squeeze’ in metals markets",
-        "link": "https://www.ft.com/content/44d4b188-45ed-4e7e-a5eb-278da62ac601",
-        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-11T09:14:12.053115"
-      },
-      "f79ddf20f17a5133d19e0d320c071f6c02addabba38ad98900c5545d6e343c10": {
-        "title": "How SpaceX could pull millions of savers into Musk’s orbit",
-        "link": "https://ig.ft.com/spacex-ipo/",
-        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-11T09:14:12.053116"
-      },
-      "aa4d98e3d0b492f584f72ad5285f3955975f964f336c914fc73a94f5e3604764": {
-        "title": "China cancels high-level meetings with EU",
-        "link": "https://www.ft.com/content/5903318c-319b-426e-b05d-062f7620f799",
-        "published_date": "Thu, 11 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-11T09:14:12.053118"
-      },
       "00b742695a4c6aa54d0d57b47a7e335f4f913ec8a39769eab9cffab5d66d4a89": {
         "title": "Musk’s SpaceX raises $75bn in world’s biggest IPO",
         "link": "https://www.ft.com/content/1890e552-aa7e-4d7f-98f1-db4f165e8827",
@@ -3792,36 +3762,6 @@
       }
     },
     "Ai": {
-      "5a3396fe9ed2d788bdc49e5889aa42af631ff75112f92e3c9d7cd2b522d7762d": {
-        "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
-        "link": "https://www.qbitai.com/2026/06/434317.html",
-        "published_date": "Thu, 11 Jun 2026 04:18:00 GMT",
-        "first_seen": "2026-06-11T09:13:11.800316"
-      },
-      "63963e4e5f0c3225bfbd311e8df16bc2b12d221a2b85dc6750046df349b37ea9": {
-        "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
-        "link": "https://www.qbitai.com/2026/06/434326.html",
-        "published_date": "Thu, 11 Jun 2026 04:16:00 GMT",
-        "first_seen": "2026-06-11T09:13:11.800329"
-      },
-      "ba4e41cff6ae31684b517546123884ecf0a55dac80d27631018db95045bc1836": {
-        "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
-        "link": "https://www.qbitai.com/2026/06/434225.html",
-        "published_date": "Thu, 11 Jun 2026 01:18:00 GMT",
-        "first_seen": "2026-06-11T09:13:11.800331"
-      },
-      "e508834a7aa6dfd141594499ffbf6bc31d380c5ef21abc294115728dc0293294": {
-        "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
-        "link": "https://www.qbitai.com/2026/06/434316.html",
-        "published_date": "Thu, 11 Jun 2026 04:17:00 GMT",
-        "first_seen": "2026-06-11T09:13:11.800333"
-      },
-      "7cf23a01b46fa63788749ec074e2ceebd681bbee3bac4b53fff7b754c7be3348": {
-        "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
-        "link": "https://www.qbitai.com/2026/06/434571.html",
-        "published_date": "Thu, 11 Jun 2026 08:23:00 GMT",
-        "first_seen": "2026-06-11T09:13:11.800335"
-      },
       "4b8fb2d9ccfa5571b58631884bc54f75f78f6232eda904e1aa7d0247b5fa6c84": {
         "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
         "link": "https://www.qbitai.com/2026/06/434761.html",
@@ -5020,7 +4960,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-11T07:11:30.828537",
+    "Technology": "2026-07-11T09:25:48.812954",
     "Finance": "2026-07-11T07:11:30.874180",
     "Ai": "2026-07-11T07:11:30.998326"
   }
