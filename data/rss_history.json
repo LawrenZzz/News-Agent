@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3b80f94b9b34c3dadd810aba45b35aa280a9763a2823f1adfbc6307d95714f50": {
-        "title": "AI时代的\"光进铜退\"：为什么光互连是算力爆炸的唯一出路？",
-        "link": "https://www.tmtpost.com/8024211.html",
-        "published_date": "Thu, 11 Jun 2026 19:05:00 GMT",
-        "first_seen": "2026-06-12T00:19:52.722123"
-      },
-      "38c8b08ae1e32dd8e29d842ae39599348aee5375aae85d27c3b913eed08d1eb5": {
-        "title": "四个月烧光全年AI预算，为啥连Uber也烧不起token了？",
-        "link": "https://www.tmtpost.com/8023530.html",
-        "published_date": "Thu, 11 Jun 2026 13:56:00 GMT",
-        "first_seen": "2026-06-12T00:19:52.722134"
-      },
-      "af84226b179cb37151465dfc2d8f2f835941f9db88ef5a14e65a1e219cdccc84": {
-        "title": "OpenAI秘密递表！三巨头一起“抢钱”：AI史上最贵一轮融资要来了",
-        "link": "https://www.infoq.cn/article/wNJsVd21BshslzNoUXqr?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 11 Jun 2026 18:57:00 GMT",
-        "first_seen": "2026-06-12T00:19:52.722137"
-      },
-      "ac63babb908426ed07024086a011b716253100abfe05f3c8a7e78793bbafc091": {
-        "title": "物理AI进场以后，谁来定义“干得对”？",
-        "link": "https://www.tmtpost.com/8024220.html",
-        "published_date": "Thu, 11 Jun 2026 16:26:00 GMT",
-        "first_seen": "2026-06-12T00:19:52.722139"
-      },
-      "baddc8c6e6ae97d82e41052b4633ad9939a7b737f5e3946035450999534d8bf9": {
-        "title": "大模型竞争进入淘汰赛：智谱AI的“中厂”逻辑",
-        "link": "https://www.tmtpost.com/8024326.html",
-        "published_date": "Thu, 11 Jun 2026 18:12:00 GMT",
-        "first_seen": "2026-06-12T00:19:52.722141"
-      },
       "19f134db94b15044f7f61ede794a3e5a9c9f33efe6ee80eccb7a8c57d4492b26": {
         "title": "Anthropic“狼来了”：喊停的人，跑得最快",
         "link": "https://www.tmtpost.com/8024591.html",
@@ -1981,39 +1951,39 @@
         "link": "https://www.tmtpost.com/8060588.html",
         "published_date": "Sat, 11 Jul 2026 18:09:00 GMT",
         "first_seen": "2026-07-11T23:53:17.686602"
+      },
+      "a21c5f5b65982525829a174067d075550194c704847b4f0ee0a77e9de14a1b47": {
+        "title": "算力基建，遭遇急刹车？",
+        "link": "https://www.tmtpost.com/8061647.html",
+        "published_date": "Sun, 12 Jul 2026 15:21:00 GMT",
+        "first_seen": "2026-07-12T07:29:16.549385"
+      },
+      "0162f4a702fbd4ba5b5563d9b5c78d6235c52d200fb8789a4526d96476dab014": {
+        "title": "具身智能460亿融资背后的“异类玩家”",
+        "link": "https://www.tmtpost.com/8061597.html",
+        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
+        "first_seen": "2026-07-12T07:29:16.549394"
+      },
+      "1489844f4d24e04510d68529b439169e9cf6c9de6ce59879cf01b717de636745": {
+        "title": "内存三巨头，各选各路",
+        "link": "https://www.tmtpost.com/8061616.html",
+        "published_date": "Sun, 12 Jul 2026 11:16:00 GMT",
+        "first_seen": "2026-07-12T07:29:16.549396"
+      },
+      "5c88e54fae2acf819f900e48ab3a688840a3d684aff0de5d44315d9707287a4a": {
+        "title": "智谱，害怕成为下一个MiniMax",
+        "link": "https://www.tmtpost.com/8061545.html",
+        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
+        "first_seen": "2026-07-12T07:29:16.549398"
+      },
+      "dfcd785958f4333e329de6d9d2f4ad636d863b0077fc9aa1e1b6cb7e7aa1db53": {
+        "title": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-12T07:29:16.549401"
       }
     },
     "Finance": {
-      "00b742695a4c6aa54d0d57b47a7e335f4f913ec8a39769eab9cffab5d66d4a89": {
-        "title": "Musk’s SpaceX raises $75bn in world’s biggest IPO",
-        "link": "https://www.ft.com/content/1890e552-aa7e-4d7f-98f1-db4f165e8827",
-        "published_date": "Thu, 11 Jun 2026 22:39:00 GMT",
-        "first_seen": "2026-06-12T00:20:11.135687"
-      },
-      "bf836a4ea6fb3401a60a6f045011034d21138c94336dd75d857213df9f5b517f": {
-        "title": "The AI public market floodgates are opening",
-        "link": "https://www.ft.com/content/da78ce3e-fd1a-472d-b486-ee199b7c427d",
-        "published_date": "Thu, 11 Jun 2026 18:09:00 GMT",
-        "first_seen": "2026-06-12T00:20:11.135694"
-      },
-      "121697d6d6541bfb6815cab0c06cca4e6405989d2f9bc75b6ba298ee45cb5aeb": {
-        "title": "Social Security insolvency is ‘entirely solvable,’ says commissioner under Biden",
-        "link": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
-        "published_date": "Thu, 11 Jun 2026 23:46:00 GMT",
-        "first_seen": "2026-06-12T00:20:11.135697"
-      },
-      "057f13e92881843ff48b6039b805bf21a279b02229ce84d00380daf30e5aa324": {
-        "title": "Trump says US close to deal with Iran and calls off strikes",
-        "link": "https://www.ft.com/content/05472479-445d-4c16-ba85-6db47ba72373",
-        "published_date": "Thu, 11 Jun 2026 20:24:00 GMT",
-        "first_seen": "2026-06-12T00:20:11.135698"
-      },
-      "f07243fa8bf62faae026343243de306369feac7216d1b47f0135ab1c80be4422": {
-        "title": "Gold sinks to 6-month low as speculative investors exit",
-        "link": "https://www.ft.com/content/0e9b3a3c-2481-4581-90e7-6158906ff7ae",
-        "published_date": "Thu, 11 Jun 2026 15:57:00 GMT",
-        "first_seen": "2026-06-12T00:20:11.135700"
-      },
       "600b30aa65784e6e8c38db419e072fdaec41d5b44fcd580484ebc9ef06e5797b": {
         "title": "The great bond and equity conundrum",
         "link": "https://www.ft.com/content/4389caaa-b87a-4d4c-82a1-db161d3265d3",
@@ -3819,6 +3789,36 @@
         "link": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
         "published_date": "Sat, 11 Jul 2026 16:00:00 GMT",
         "first_seen": "2026-07-11T23:53:29.530668"
+      },
+      "6af68551ed8cf72fb258bd67c47f1f08ceb5fcc2ee6fea5310df772ab4d88bba": {
+        "title": "China cracks down on top ratings for corporate bonds",
+        "link": "https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8",
+        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.247457"
+      },
+      "c794af337bdf692dc5a690ff3db79a3c1b803824359126a5a02c96e766e4223f": {
+        "title": "US launches more strikes after Tehran declares Strait of Hormuz closed",
+        "link": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
+        "published_date": "Sun, 12 Jul 2026 04:17:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.247463"
+      },
+      "6bbf3d6315b38a39ccda8e31c921cedc9b6647c56fb1a47e939c60007f6f28ea": {
+        "title": "The EU has ways out of its budget trap",
+        "link": "https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764",
+        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.247465"
+      },
+      "cfc201bc587f8612d4e8e6f6431482597986eef46244dfc890cb114ef0d20a7b": {
+        "title": "Big Tech to face fines for consumer protection failures, says EU official",
+        "link": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.247467"
+      },
+      "b0bcc92ef3b181b2d0fe207c4b68ab18ba06011c37da538069c270e017835ffd": {
+        "title": "Airbnb lures fans from US hotels after World Cup marketing push",
+        "link": "https://www.ft.com/content/21d4a393-701d-4da7-847c-bd53e95ac295",
+        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.247469"
       }
     },
     "Ai": {
@@ -5021,13 +5021,31 @@
         "link": "https://www.qbitai.com/2026/07/447902.html",
         "published_date": "Sat, 11 Jul 2026 10:07:00 GMT",
         "first_seen": "2026-07-11T23:53:29.649436"
+      },
+      "a97ab4963c4b657feae7d35771aa8876e24ecf458da03c044fffadf94e70efc5": {
+        "title": "2026-07-12日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-12/",
+        "published_date": "Sun, 12 Jul 2026 10:48:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.369870"
+      },
+      "a0bf51efeb9b07ad27aeff1ac5570b2d1d8e74aff79d400423e2c82883c4fa1e": {
+        "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+        "link": "https://www.qbitai.com/2026/07/447981.html",
+        "published_date": "Sun, 12 Jul 2026 01:37:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.369878"
+      },
+      "5adf03c0e6ff8a5c77e3f0c42f2b822bfe20481998f039875aa903fd4be77c8d": {
+        "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "link": "https://www.qbitai.com/2026/07/447914.html",
+        "published_date": "Sun, 12 Jul 2026 01:14:00 GMT",
+        "first_seen": "2026-07-12T07:29:30.369880"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-11T23:53:17.686604",
-    "Finance": "2026-07-11T23:53:29.530671",
-    "Ai": "2026-07-11T23:53:29.649445"
+    "Technology": "2026-07-12T07:29:16.549402",
+    "Finance": "2026-07-12T07:29:30.247472",
+    "Ai": "2026-07-12T07:29:30.369881"
   }
 }
