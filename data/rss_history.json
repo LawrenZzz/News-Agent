@@ -1981,6 +1981,36 @@
         "link": "https://www.tmtpost.com/8061563.html",
         "published_date": "Sun, 12 Jul 2026 11:10:00 GMT",
         "first_seen": "2026-07-12T09:49:46.555245"
+      },
+      "eee0322c60b835ce7cd3315b2a14f51d474d309e08a5d9c2e11c01faeabeb8f9": {
+        "title": "【钛晨报】加快推进新一代通信网、算力网建设，国常会最新部署；三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年；美国消费信贷自2024年以来首次下降",
+        "link": "https://www.tmtpost.com/8061844.html",
+        "published_date": "Mon, 13 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-12T23:51:40.578008"
+      },
+      "e99f206799e533e6b10f5443eee9a90ceb68896128985688695de313646b5c23": {
+        "title": "中国商业航天走过十二年",
+        "link": "https://www.tmtpost.com/8061429.html",
+        "published_date": "Sun, 12 Jul 2026 15:59:00 GMT",
+        "first_seen": "2026-07-12T23:51:40.578018"
+      },
+      "b34fc2a86a69087da079a6cb34c9c829ad704e18f88ceb263289030a77a4bd34": {
+        "title": "科技板块集体“刹车”，谁在偷偷踩油门？",
+        "link": "https://www.tmtpost.com/8061635.html",
+        "published_date": "Sun, 12 Jul 2026 15:33:00 GMT",
+        "first_seen": "2026-07-12T23:51:40.578022"
+      },
+      "f37a2db3377866b6efb8b0079b85ba67ccb1d5f45b5ca8580550e73b4b387ee2": {
+        "title": "不卷9.9，这一代跨境人在创造贵20美元的新物种 ｜ 出海参考",
+        "link": "https://www.tmtpost.com/8061768.html",
+        "published_date": "Sun, 12 Jul 2026 18:16:00 GMT",
+        "first_seen": "2026-07-12T23:51:40.578025"
+      },
+      "b4f2b2c19f04db243fe15e80272cdb3133f3c480b14ac7adb209b875779b097c": {
+        "title": "阿里急转向，快递大变局",
+        "link": "https://www.tmtpost.com/8061727.html",
+        "published_date": "Sun, 12 Jul 2026 20:19:00 GMT",
+        "first_seen": "2026-07-12T23:51:40.578026"
       }
     },
     "Finance": {
@@ -3795,6 +3825,36 @@
         "link": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
         "published_date": "Sun, 12 Jul 2026 09:26:00 GMT",
         "first_seen": "2026-07-12T09:49:46.601060"
+      },
+      "9ade0e849638a9e75cde267c23da72b695d1a7a3f4ffa8d9a6883f331b0bb5ab": {
+        "title": "Why Citigroup is the one to watch when banks report earnings this week",
+        "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Jul 2026 19:31:00 GMT",
+        "first_seen": "2026-07-12T23:51:58.406941"
+      },
+      "fd8d83381f14d3af85567b01f41aa554ccd9d346b14e6faaf634ea76c6761a10": {
+        "title": "Earnings estimates have been following an unusual pattern this time around",
+        "link": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-12T23:51:58.406947"
+      },
+      "44a23679dbb313d24af5182dde9e2d6edd06f0d048ade3a20e96be04fb4170a8": {
+        "title": "The stock-market rally now hinges more on AI than oil",
+        "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Jul 2026 13:00:00 GMT",
+        "first_seen": "2026-07-12T23:51:58.406950"
+      },
+      "71a242b4cc7f1e773e5aa36820d43c14000f22a9050d8206ea26c724db766efe": {
+        "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+        "published_date": "Sun, 12 Jul 2026 23:04:00 GMT",
+        "first_seen": "2026-07-12T23:51:58.406952"
+      },
+      "e72ae8332ca84ec0c511d6f60eda46faeef876a71187d43b0fc2da5bd361f951": {
+        "title": "US launches another round of strikes on Iran as ceasefire teeters",
+        "link": "https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d",
+        "published_date": "Sun, 12 Jul 2026 22:52:00 GMT",
+        "first_seen": "2026-07-12T23:51:58.406953"
       }
     },
     "Ai": {
@@ -4996,8 +5056,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-12T09:49:46.555247",
-    "Finance": "2026-07-12T09:49:46.601069",
+    "Technology": "2026-07-12T23:51:40.578029",
+    "Finance": "2026-07-12T23:51:58.406956",
     "Ai": "2026-07-12T09:49:46.719691"
   }
 }
