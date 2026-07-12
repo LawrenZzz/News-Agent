@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "19f134db94b15044f7f61ede794a3e5a9c9f33efe6ee80eccb7a8c57d4492b26": {
-        "title": "Anthropic“狼来了”：喊停的人，跑得最快",
-        "link": "https://www.tmtpost.com/8024591.html",
-        "published_date": "Fri, 12 Jun 2026 11:26:00 GMT",
-        "first_seen": "2026-06-12T08:58:13.209045"
-      },
-      "27fe404bc358ae346a43f0a481b2c3ebbb5f45ff1d415e5015bfbefeaa01080b": {
-        "title": "智源大会圆桌：大模型没有终局，具身智能可能是中国的 AlphaGo 时刻",
-        "link": "https://www.infoq.cn/article/g31NXdeRpwyGWbGAi937?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Jun 2026 16:30:00 GMT",
-        "first_seen": "2026-06-12T08:58:13.209057"
-      },
-      "5cde1ce4712e29783f3a56c051b0e18a124f06b3ad8b03f497381d7b3d1c9b42": {
-        "title": "不是黄仁勋要改变 PC，而是 PC 要革自己的命",
-        "link": "https://www.tmtpost.com/8025703.html",
-        "published_date": "Fri, 12 Jun 2026 16:31:00 GMT",
-        "first_seen": "2026-06-12T08:58:13.209060"
-      },
-      "5806035ddd07a47c9264adee195f64b7e17e73a8a89a82ab9d45faf404cd00ac": {
-        "title": "微信AI化，才是腾讯的真正赌局",
-        "link": "https://www.tmtpost.com/8025355.html",
-        "published_date": "Fri, 12 Jun 2026 11:26:00 GMT",
-        "first_seen": "2026-06-12T08:58:13.209062"
-      },
-      "ba8ec081cf9ef196d21be887d069c5e2b11ad2e7911f86730b6dab87121d5cee": {
-        "title": "停运、骗补与逆势狂奔：氢能公交的荒诞经济学",
-        "link": "https://www.tmtpost.com/8025379.html",
-        "published_date": "Fri, 12 Jun 2026 14:26:00 GMT",
-        "first_seen": "2026-06-12T08:58:13.209064"
-      },
       "1dfd84c50981f1bbc4acb8c1cddbc59a8a3ff7fed3c5354cd99740b682351670": {
         "title": "贝索斯AI公司Prometheus 完成120亿美元B轮融资，剑指“人工通用工程师”",
         "link": "https://www.tmtpost.com/8025438.html",
@@ -1981,39 +1951,39 @@
         "link": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 12 Jul 2026 10:00:00 GMT",
         "first_seen": "2026-07-12T07:29:16.549401"
+      },
+      "c467fd78d7fb59cf7bb03cc8294dd65088d7655842ea7839ca69a8960605e7f6": {
+        "title": "绿电不愿再“流浪”：国家能源局重磅发布行动计划，布局一批自用消纳的新能源基地",
+        "link": "https://www.tmtpost.com/8061627.html",
+        "published_date": "Sun, 12 Jul 2026 16:01:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.555227"
+      },
+      "65d4d8f7b803e04c41803edf24e95e407fb6658e38171fdb47cfcc320a9d037b": {
+        "title": "巨浪已来，还是压力已至？智谱这封内部信，透露的不只是AGI野心",
+        "link": "https://www.tmtpost.com/8061646.html",
+        "published_date": "Sun, 12 Jul 2026 15:33:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.555239"
+      },
+      "1fa85cc70dfccc3da2c8d024d5e122a22e8a43b481b0da1f1f89d7854bff207a": {
+        "title": "二代豆包手机要上桌：中兴不动筷，华米OV们干看着？",
+        "link": "https://www.tmtpost.com/8061411.html",
+        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.555242"
+      },
+      "e806e37b554029024e1a192d15d0da9a18b4904d9238113dfadf3b7d51eb8923": {
+        "title": "功率半导体，沉默中爆发",
+        "link": "https://www.tmtpost.com/8061644.html",
+        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.555243"
+      },
+      "e8b1a76f3afe34f5309520db876520b2e1d6d07379b10d1e8c35d806dfe2a3a2": {
+        "title": "拆分电商业务、整治剧本带货，快手给复购喂“救心丸”",
+        "link": "https://www.tmtpost.com/8061563.html",
+        "published_date": "Sun, 12 Jul 2026 11:10:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.555245"
       }
     },
     "Finance": {
-      "600b30aa65784e6e8c38db419e072fdaec41d5b44fcd580484ebc9ef06e5797b": {
-        "title": "The great bond and equity conundrum",
-        "link": "https://www.ft.com/content/4389caaa-b87a-4d4c-82a1-db161d3265d3",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T08:58:26.180997"
-      },
-      "327f56cc08edf14ac222b11ac1fba18bb9e1ac4348a6d4b64f0086369ff13e67": {
-        "title": "Chinese investors rush to open Hong Kong accounts amid Beijing crackdown",
-        "link": "https://www.ft.com/content/eff414c9-6c8a-4200-b490-b13c642a7821",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T08:58:26.181004"
-      },
-      "490f6023cf35204ec801253e13d96d06feff1630e613716fdcbffade6b812af9": {
-        "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
-        "link": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Jun 2026 01:56:00 GMT",
-        "first_seen": "2026-06-12T08:58:26.181007"
-      },
-      "2a2bb256dd022a5235de5302fee21f9d853959eb7979351a7ed5de0c6e5ca3ac": {
-        "title": "Oil sinks to three-month low after Trump hints at Iran war deal",
-        "link": "https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e",
-        "published_date": "Fri, 12 Jun 2026 08:49:00 GMT",
-        "first_seen": "2026-06-12T08:58:26.181009"
-      },
-      "41a07c0a1ab831db1ed323c0ec3f101f6e039a23cda29d54962cecce3957f11a": {
-        "title": "The quantum computing revolution is closer than you think",
-        "link": "https://www.ft.com/content/7e461be0-5c13-4a93-a0f8-0659ae5505a2",
-        "published_date": "Fri, 12 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-12T08:58:26.181010"
-      },
       "66888210f2101387448f30c393e405ba36d305f1d88370b4854ba5ebcfed8bd6": {
         "title": "BlackRock private credit fund honours less than 40% of redemption requests",
         "link": "https://www.ft.com/content/65adec62-3505-4d01-8aa6-a609aa7cfdcc",
@@ -3819,39 +3789,15 @@
         "link": "https://www.ft.com/content/21d4a393-701d-4da7-847c-bd53e95ac295",
         "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-12T07:29:30.247469"
+      },
+      "6e64fb2e4c8dfaa1079d70809d1e15749cf6d54d74755b90fe6d85615b539695": {
+        "title": "US senator Lindsey Graham dies aged 71",
+        "link": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
+        "published_date": "Sun, 12 Jul 2026 09:26:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.601060"
       }
     },
     "Ai": {
-      "4b8fb2d9ccfa5571b58631884bc54f75f78f6232eda904e1aa7d0247b5fa6c84": {
-        "title": "BEV 杀入具身智能：跨维把机器人数据带上 Scaling 快车道",
-        "link": "https://www.qbitai.com/2026/06/434761.html",
-        "published_date": "Fri, 12 Jun 2026 04:11:00 GMT",
-        "first_seen": "2026-06-12T08:58:51.201489"
-      },
-      "9b31d7d684c60f10bbe0f0d6518a4091894369627bd39ea8b56112faed966266": {
-        "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-        "link": "https://www.qbitai.com/2026/06/434774.html",
-        "published_date": "Fri, 12 Jun 2026 04:13:00 GMT",
-        "first_seen": "2026-06-12T08:58:51.201497"
-      },
-      "4eea64de5ce019630e532d3f04354ee9887b000495a4279b6fe9a1bb084ddba1": {
-        "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-        "link": "https://www.qbitai.com/2026/06/435105.html",
-        "published_date": "Fri, 12 Jun 2026 07:27:00 GMT",
-        "first_seen": "2026-06-12T08:58:51.201499"
-      },
-      "edb6893c80d2210b3a0208814d3f98f369a42b063a9c939dc8673dda87f6e2f5": {
-        "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-        "link": "https://www.qbitai.com/2026/06/435192.html",
-        "published_date": "Fri, 12 Jun 2026 07:31:00 GMT",
-        "first_seen": "2026-06-12T08:58:51.201501"
-      },
-      "27ae90f587332244826439333c7b25d9b06412d52e2b17001e20f38f53430341": {
-        "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-        "link": "https://www.qbitai.com/2026/06/433717.html",
-        "published_date": "Fri, 12 Jun 2026 07:29:00 GMT",
-        "first_seen": "2026-06-12T08:58:51.201502"
-      },
       "45cd16ef28c94318616322e071c2f8c93c2affc3c78f2e6ef35f3a80a32baf43": {
         "title": "Research into how AI can help users understand skin conditions",
         "link": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
@@ -5039,13 +4985,19 @@
         "link": "https://www.qbitai.com/2026/07/447914.html",
         "published_date": "Sun, 12 Jul 2026 01:14:00 GMT",
         "first_seen": "2026-07-12T07:29:30.369880"
+      },
+      "269f4a2ef6431ec2be754c0141c5a83db4940245a49a4881bd8f9a31d13c95b8": {
+        "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+        "link": "https://www.qbitai.com/2026/07/448034.html",
+        "published_date": "Sun, 12 Jul 2026 08:29:00 GMT",
+        "first_seen": "2026-07-12T09:49:46.719683"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-12T07:29:16.549402",
-    "Finance": "2026-07-12T07:29:30.247472",
-    "Ai": "2026-07-12T07:29:30.369881"
+    "Technology": "2026-07-12T09:49:46.555247",
+    "Finance": "2026-07-12T09:49:46.601069",
+    "Ai": "2026-07-12T09:49:46.719691"
   }
 }
