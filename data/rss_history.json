@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9d24c3934d5aa4b8dafbbcb276b58fa87078fb730b6cfad64ccbcab2b39bc398": {
-        "title": "AI算力爆发，电子玻纤布正成为算力硬件的供给短板",
-        "link": "https://www.tmtpost.com/8026629.html",
-        "published_date": "Sat, 13 Jun 2026 14:36:00 GMT",
-        "first_seen": "2026-06-13T08:21:06.296364"
-      },
-      "c98fef4d0414e481c2382a8be4fb41374847469ce30fe7a45b149135601320fb": {
-        "title": "史上最大IPO正式开盘，一文看懂SpaceX的业务底牌",
-        "link": "https://www.tmtpost.com/8026749.html",
-        "published_date": "Sat, 13 Jun 2026 15:01:00 GMT",
-        "first_seen": "2026-06-13T08:21:06.296373"
-      },
-      "d7bc797da3dd97db45e99724658e128891966c6453a4a6d7e100a4aac4bf657b": {
-        "title": "储能行业缺人缺到什么程度？年薪300万挖不到人，高考选这三大能源专业或许能赢",
-        "link": "https://www.tmtpost.com/8026719.html",
-        "published_date": "Sat, 13 Jun 2026 14:36:00 GMT",
-        "first_seen": "2026-06-13T08:21:06.296381"
-      },
-      "6c24d4e2334f717f374783630792fc012c764796d3a685a98470f1ccc83c325d": {
-        "title": "AI驱动的网络钓鱼：技术演变与实施方式",
-        "link": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-13T08:21:06.296383"
-      },
-      "c66a34b24f3e448f8561cd3da879cde8978964f77249b77c25d77eb51cff3582": {
-        "title": "大疆虎视新影像，影石如何反围剿",
-        "link": "https://www.tmtpost.com/8026222.html",
-        "published_date": "Sat, 13 Jun 2026 10:50:00 GMT",
-        "first_seen": "2026-06-13T08:21:06.296384"
-      },
       "82bca866487ebc884eee9b54253983c8896fc8ae710514979972d68ceebba0ac": {
         "title": "市值2万亿美元，一直发射一直炸的SpaceX，怎么成了史上最大IPO?",
         "link": "https://www.tmtpost.com/8026324.html",
@@ -2011,39 +1981,39 @@
         "link": "https://sspai.com/post/112185",
         "published_date": "Mon, 13 Jul 2026 10:52:00 GMT",
         "first_seen": "2026-07-13T08:15:59.415770"
+      },
+      "f84c4fd33370caf9df07ef74e286471300947a33217924c4b8c9d16d657fd874": {
+        "title": "从原料到算力核按钮：稀土如何改写全球半导体利润格局？",
+        "link": "https://www.tmtpost.com/8062719.html",
+        "published_date": "Mon, 13 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-13T23:53:10.430282"
+      },
+      "8adc88dbff6bc06fc7ecdcc7533892e4b8737b97d3afe37d2555b0c568d508ca": {
+        "title": "光子接棒电子：一场即将在太空上演的算力革命",
+        "link": "https://www.tmtpost.com/8062524.html",
+        "published_date": "Mon, 13 Jul 2026 18:24:00 GMT",
+        "first_seen": "2026-07-13T23:53:10.430291"
+      },
+      "e9ddacf90e2aee9d5f6ca2c8ec43d3f5b6a065e8623beffe7180160c89eda787": {
+        "title": "【数智周报】外媒：DeepSeek正自研AI推理芯片； 中国部分AI大模型比美国便宜90%，抢占当地市场； 苹果起诉OpenAI窃取机密、要求其重做尚未发布的AI硬件……",
+        "link": "https://www.tmtpost.com/8062740.html",
+        "published_date": "Mon, 13 Jul 2026 16:05:00 GMT",
+        "first_seen": "2026-07-13T23:53:10.430294"
+      },
+      "d9c658edc9f0dc33cbf7671c09e725b4e137c20da95f90feeb1581d5c23cb311": {
+        "title": "中国AI产业的三大优势（中）",
+        "link": "https://www.tmtpost.com/8059509.html",
+        "published_date": "Mon, 13 Jul 2026 18:44:00 GMT",
+        "first_seen": "2026-07-13T23:53:10.430296"
+      },
+      "a1cda4516268c9dc3d41df5b9f575a6a60862f2ccd87b3a67d76ea77d0eabbcf": {
+        "title": "小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程，从免费开源到卖“低价”模型",
+        "link": "https://www.infoq.cn/article/Fg7xEo3RGENyoefojZVD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Jul 2026 18:28:00 GMT",
+        "first_seen": "2026-07-13T23:53:10.430298"
       }
     },
     "Finance": {
-      "6c183c65d02bce615e48db1a8664af0dc01f6b440c4371efc873c59a403b577b": {
-        "title": "How AI is disrupting investment",
-        "link": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:21:15.914453"
-      },
-      "b7a9e64541abad4564d1bbf886c661cc9b2253aab7f60f73837deafd0e53ac64": {
-        "title": "How to tame the inflation python",
-        "link": "https://www.ft.com/content/01c5ea35-a0fa-469f-b8bb-356d98c05fb0",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:21:15.914460"
-      },
-      "301fc46aca55eb20289dea2f0f70df33eed525d54e34bb095ef5536ec1781d67": {
-        "title": "Anthropic suspends latest AI models after US blocks access to foreigners",
-        "link": "https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb",
-        "published_date": "Sat, 13 Jun 2026 02:01:00 GMT",
-        "first_seen": "2026-06-13T08:21:15.914462"
-      },
-      "ace02f81919846d933177959ee6f175cfedf0af84e808d9b4022ff84eafb484e": {
-        "title": "France opposes ‘anglicisation’ of EU trade talks",
-        "link": "https://www.ft.com/content/fa0545f4-3663-460b-b4ab-773bb3ce7294",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:21:15.914463"
-      },
-      "018c58dcff48bfc813c6f5a36c100b7c7cd00da7509b7f72544e4d633f24678b": {
-        "title": "Goldman and JPMorgan ease office working rules to counter World Cup disruption",
-        "link": "https://www.ft.com/content/d2afe6bb-9c02-4893-a246-b63d6ae724f6",
-        "published_date": "Sat, 13 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-13T08:21:15.914465"
-      },
       "19bcde4d50626ba7ecc3572882857f3b5e302506264232d79c7c1261911b792c": {
         "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
         "link": "https://www.ft.com/content/a7f4246d-9ae2-4f7b-90af-e5a53c52203b",
@@ -3855,21 +3825,39 @@
         "link": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
         "published_date": "Mon, 13 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-13T08:16:16.423134"
+      },
+      "d7105c0b55a59831c1c08dbd0a07f99834f3c080d55ae5b7b32a2140472b734d": {
+        "title": "Top Fed official warns ‘hot’ inflation could trigger rate rise",
+        "link": "https://www.ft.com/content/74ced145-3cc2-42f7-873a-84d2764b0b4d",
+        "published_date": "Mon, 13 Jul 2026 17:23:00 GMT",
+        "first_seen": "2026-07-13T23:53:31.055824"
+      },
+      "3f69b13cb3254cb713551efc960ebda6389f6a6bff2e2b29a5e3c750f1b8d8fd": {
+        "title": "Why a borrowing binge by investors is a warning sign for the stock market",
+        "link": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 22:19:00 GMT",
+        "first_seen": "2026-07-13T23:53:31.055830"
+      },
+      "0d0ed4ea021620e73066f35daf0994b8ff86bfa9369e75adf33c41b4e4015080": {
+        "title": "US launches air strikes as Iran targets tankers with cruise missiles",
+        "link": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+        "published_date": "Mon, 13 Jul 2026 22:59:00 GMT",
+        "first_seen": "2026-07-13T23:53:31.055832"
+      },
+      "f36beb886d8ca323be89f86a144413f6a3a3249700ccf90b3eb2c8f0ae7ba641": {
+        "title": "Stocks and bonds drop as mounting US-Iran tensions spook investors",
+        "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
+        "published_date": "Mon, 13 Jul 2026 20:41:00 GMT",
+        "first_seen": "2026-07-13T23:53:31.055834"
+      },
+      "f6fc508d08c1a7e4beb2ec6bb00f8b7ae11976b5d392860835d73822ed126e0b": {
+        "title": "Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.",
+        "link": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Jul 2026 20:35:00 GMT",
+        "first_seen": "2026-07-13T23:53:31.055836"
       }
     },
     "Ai": {
-      "fb4bbd4d5a9cf748fb52ae552c4bbc40eb847957ca255f1d8a0a79b1a7ca26f9": {
-        "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-        "link": "https://www.qbitai.com/2026/06/435394.html",
-        "published_date": "Sat, 13 Jun 2026 05:19:00 GMT",
-        "first_seen": "2026-06-13T08:21:16.032172"
-      },
-      "df19bf8146cc031cbbba10d8a434e8add5eeba4574151456d28b43d46d022e75": {
-        "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-        "link": "https://www.qbitai.com/2026/06/435339.html",
-        "published_date": "Sat, 13 Jun 2026 04:05:00 GMT",
-        "first_seen": "2026-06-13T08:21:16.032179"
-      },
       "ece78c1597e57fb7eb0a03effc36381fea0193fea0636c478ff3f4898eef06c8": {
         "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
         "link": "https://www.qbitai.com/2026/06/435483.html",
@@ -5057,13 +5045,43 @@
         "link": "https://www.qbitai.com/2026/07/448820.html",
         "published_date": "Mon, 13 Jul 2026 05:24:00 GMT",
         "first_seen": "2026-07-13T08:16:35.432077"
+      },
+      "113caab0506dba11ad5b820c336f59fdb1a1939bd0c6257424a8370c064a2dd5": {
+        "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
+        "link": "https://www.qbitai.com/2026/07/449327.html",
+        "published_date": "Mon, 13 Jul 2026 15:15:00 GMT",
+        "first_seen": "2026-07-13T23:54:19.599722"
+      },
+      "60f0d98cd1d3c0602ac13c2f308bdfec04c0ffc8edcd19c79185d0a8e2a7d1c7": {
+        "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+        "link": "https://www.qbitai.com/2026/07/449311.html",
+        "published_date": "Mon, 13 Jul 2026 11:59:00 GMT",
+        "first_seen": "2026-07-13T23:54:19.599730"
+      },
+      "0ea5696a1a2992d418d727281d2e32915eb1849174815b49e681af756121c48f": {
+        "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+        "link": "https://www.qbitai.com/2026/07/449156.html",
+        "published_date": "Mon, 13 Jul 2026 09:27:00 GMT",
+        "first_seen": "2026-07-13T23:54:19.599732"
+      },
+      "b9b4385f097a4ac8c0ac6d0a43a71a6ca9acea631bfe15b5c1ae107385064145": {
+        "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
+        "link": "https://www.qbitai.com/2026/07/449150.html",
+        "published_date": "Mon, 13 Jul 2026 08:28:00 GMT",
+        "first_seen": "2026-07-13T23:54:19.599734"
+      },
+      "1f7a1974f3b853b577548da87aa3d8b431da14193f7595a07aaa33866beaa40d": {
+        "title": "问界母公司突发亏损预警！一季度还在盈利",
+        "link": "https://www.qbitai.com/2026/07/449005.html",
+        "published_date": "Mon, 13 Jul 2026 08:17:00 GMT",
+        "first_seen": "2026-07-13T23:54:19.599736"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-13T08:15:59.415772",
-    "Finance": "2026-07-13T08:16:16.423137",
-    "Ai": "2026-07-13T08:16:35.432079"
+    "Technology": "2026-07-13T23:53:10.430300",
+    "Finance": "2026-07-13T23:53:31.055838",
+    "Ai": "2026-07-13T23:54:19.599738"
   }
 }
