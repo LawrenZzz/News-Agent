@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "82bca866487ebc884eee9b54253983c8896fc8ae710514979972d68ceebba0ac": {
-        "title": "市值2万亿美元，一直发射一直炸的SpaceX，怎么成了史上最大IPO?",
-        "link": "https://www.tmtpost.com/8026324.html",
-        "published_date": "Sat, 13 Jun 2026 11:08:00 GMT",
-        "first_seen": "2026-06-14T00:05:20.312993"
-      },
-      "dda29a6aea29e53b0248dbb1f19492e51985b452941f3d29bf5326a48616f5cd": {
-        "title": "MiniMax暴跌65%，AI泡沫破裂了？",
-        "link": "https://www.tmtpost.com/8026420.html",
-        "published_date": "Sat, 13 Jun 2026 19:47:00 GMT",
-        "first_seen": "2026-06-14T00:05:20.313008"
-      },
-      "82a1be0d297381913b9958c4d7267dc982cac18b0f4b1adcd12ad0396b5bcc4b": {
-        "title": "阿里AI首席科学家周靖人被曝离职，千问迎来新考验",
-        "link": "https://www.tmtpost.com/8026813.html",
-        "published_date": "Sat, 13 Jun 2026 19:48:00 GMT",
-        "first_seen": "2026-06-14T00:05:20.313020"
-      },
-      "4c622f1eb0303c4615de573f74ad2646382dec1960fbbee412c7d145cba8a6f4": {
-        "title": "大疆出招，影石反击：北美专利战全面打响",
-        "link": "https://www.tmtpost.com/8026433.html",
-        "published_date": "Sat, 13 Jun 2026 15:01:00 GMT",
-        "first_seen": "2026-06-14T00:05:20.313022"
-      },
-      "a1b3f395bc064cfee40357c8203b69b92bb66eb20c6871c141ba6d505f0f4ddb": {
-        "title": "志愿填报Agent：腾讯克制，阿里激进",
-        "link": "https://www.tmtpost.com/8026183.html",
-        "published_date": "Sat, 13 Jun 2026 10:30:00 GMT",
-        "first_seen": "2026-06-14T00:05:20.313024"
-      },
       "cd6e9e8dc4d228514ac0e21a9765f2ca701078eb5c11871eb2e8a8007c43248a": {
         "title": "【数智周报】  钉钉换帅，92年技术极客陈宇森接任钉钉CEO；OpenAI向美国证监会秘密提交IPO的S-1草案；苹果、谷歌、英伟达合作开发新一代AI模型；Anthropic发布Mythos系列新模型",
         "link": "https://www.tmtpost.com/8027129.html",
@@ -2011,39 +1981,39 @@
         "link": "https://www.infoq.cn/article/Fg7xEo3RGENyoefojZVD?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 13 Jul 2026 18:28:00 GMT",
         "first_seen": "2026-07-13T23:53:10.430298"
+      },
+      "60154ad01ee423d2c899463ad45a930c2f08d5acac47763d73fd9d52b14dacf2": {
+        "title": "The Last Mile of AI Adoption: Why Enterprise Data is Bottlenecking Even the Best Models",
+        "link": "https://www.tmtpost.com/8064151.html",
+        "published_date": "Tue, 14 Jul 2026 14:42:00 GMT",
+        "first_seen": "2026-07-14T07:11:31.877896"
+      },
+      "2f9b0c365be5dc15ba8f32612e2c0bf5385b9409d4ff484b151876a8f61e467b": {
+        "title": "智驾行业的2026上半年：兜底成为新门槛，淘汰赛加速",
+        "link": "https://www.tmtpost.com/8063386.html",
+        "published_date": "Tue, 14 Jul 2026 15:02:00 GMT",
+        "first_seen": "2026-07-14T07:11:31.877907"
+      },
+      "8015f242a9512934e8c34b75bc7ec1922fc11cd9dd02efb3ac61d5d6c058733f": {
+        "title": "Seed吃肉，Flow喝汤，当字节不再“All in”一个AI",
+        "link": "https://www.tmtpost.com/8063367.html",
+        "published_date": "Tue, 14 Jul 2026 15:02:00 GMT",
+        "first_seen": "2026-07-14T07:11:31.877909"
+      },
+      "1e797c69f84f954b49a67b4b88106f4fbe004530065e333bd98233cea8ece4ec": {
+        "title": "从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践",
+        "link": "https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Jul 2026 10:30:00 GMT",
+        "first_seen": "2026-07-14T07:11:31.877912"
+      },
+      "b653520d7e8f0943b6b202d8673b60a0b07fe82e23c16503bb0a8cce4a9fc650": {
+        "title": "【钛晨报】李强主持召开经济形势专家和企业家座谈会；Meta宣布将追加400亿美元投资路易斯安那州数据中心；字节跳动回应：没有做智能驾驶业务的计划",
+        "link": "https://www.tmtpost.com/8063498.html",
+        "published_date": "Tue, 14 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-14T07:11:31.877913"
       }
     },
     "Finance": {
-      "19bcde4d50626ba7ecc3572882857f3b5e302506264232d79c7c1261911b792c": {
-        "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
-        "link": "https://www.ft.com/content/a7f4246d-9ae2-4f7b-90af-e5a53c52203b",
-        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-14T00:05:36.057912"
-      },
-      "7bbcb7d3686c1794f85a3cd68374d1af01f67e87bd7904bc70a7bf3392e12824": {
-        "title": "The true national debt just hit $1 million per U.S. household",
-        "link": "https://www.marketwatch.com/story/the-true-national-debt-just-hit-1-million-per-u-s-household-bd0924d1?mod=mw_rss_topstories",
-        "published_date": "Sat, 13 Jun 2026 19:00:00 GMT",
-        "first_seen": "2026-06-14T00:05:36.057922"
-      },
-      "79ae5258e8e9c47092ddc5390b85b5413b8ba06180541dee65fe5e79594bcab8": {
-        "title": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
-        "link": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
-        "published_date": "Sat, 13 Jun 2026 19:31:00 GMT",
-        "first_seen": "2026-06-14T00:05:36.057925"
-      },
-      "3e6274cb3ef3a75e02ce143d467448c8b1975997f10b2f59a6d40c4fcf18440d": {
-        "title": "Investment firms join Donald Trump’s $100bn race for Venezuelan oil",
-        "link": "https://www.ft.com/content/6982febe-5d1b-4e16-9505-fbee84ca60ab",
-        "published_date": "Sat, 13 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-14T00:05:36.057932"
-      },
-      "b670b99c567bc43c2b22e1f56b61f04bc1d88947d12b5f4cfac16f5271b57ec3": {
-        "title": "Social Security benefits and costs are perfectly reasonable — no case exists for massive cuts",
-        "link": "https://www.marketwatch.com/story/social-security-benefits-and-costs-are-perfectly-reasonable-no-case-exists-for-massive-cuts-fb41f21f?mod=mw_rss_topstories",
-        "published_date": "Sat, 13 Jun 2026 19:00:00 GMT",
-        "first_seen": "2026-06-14T00:05:36.057936"
-      },
       "6f2a670588791e2fd77fc52d75e74f2c29c18d1348788d2217d5a3fe2812103b": {
         "title": "China tees up digital payments system to compete with dollar",
         "link": "https://www.ft.com/content/76de5ca6-9ae8-49ae-a0cb-64d09040f327",
@@ -3855,15 +3825,39 @@
         "link": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
         "published_date": "Mon, 13 Jul 2026 20:35:00 GMT",
         "first_seen": "2026-07-13T23:53:31.055836"
+      },
+      "3f7b9303058a1c666741521eb204ed590e31478dbe8b641cc89667432ebea627": {
+        "title": "Nvidia halves Asia buyer list in China chip crackdown",
+        "link": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
+        "published_date": "Tue, 14 Jul 2026 03:25:00 GMT",
+        "first_seen": "2026-07-14T07:11:44.883383"
+      },
+      "9622cbdf00c96df5fb3fc7df5e497c5be1bed1565056bb6b0911691547312b71": {
+        "title": "China’s growth: five things to watch as economic pressure mounts",
+        "link": "https://www.ft.com/content/c21b8869-6539-414b-8fe2-255b329b8688",
+        "published_date": "Tue, 14 Jul 2026 04:31:00 GMT",
+        "first_seen": "2026-07-14T07:11:44.883390"
+      },
+      "a04411c9b2f906d69c365795846dcf3eb38cc9b34ff15b4193d68fddb1909b3b": {
+        "title": "SoftBank’s Son ridicules AI critics for ‘spitting upwards’",
+        "link": "https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00",
+        "published_date": "Tue, 14 Jul 2026 05:09:00 GMT",
+        "first_seen": "2026-07-14T07:11:44.883392"
+      },
+      "e58132ef64ba03fddd22aac30b07fa1b84dba4e24b79ab9ea2eb524ad1070140": {
+        "title": "AI and the new Mechanical Turk",
+        "link": "https://www.ft.com/content/acd0ef98-b462-4800-88b9-2c78c54f2559",
+        "published_date": "Tue, 14 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-14T07:11:44.883394"
+      },
+      "714abf400c90503f935ff760914c320b044a916d9dcf1efc41960aa2f9607287": {
+        "title": "China’s monthly car exports surge past 1mn for first time",
+        "link": "https://www.ft.com/content/37324f66-7167-4083-a28e-6ffc505c4cda",
+        "published_date": "Tue, 14 Jul 2026 03:53:00 GMT",
+        "first_seen": "2026-07-14T07:11:44.883395"
       }
     },
     "Ai": {
-      "ece78c1597e57fb7eb0a03effc36381fea0193fea0636c478ff3f4898eef06c8": {
-        "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-        "link": "https://www.qbitai.com/2026/06/435483.html",
-        "published_date": "Sat, 13 Jun 2026 12:40:00 GMT",
-        "first_seen": "2026-06-14T00:05:36.177831"
-      },
       "88878476f9ddcb7e0a3205dc4f69b529138d6f56923c44d1e62d75c741df3817": {
         "title": "宇树机器人要登珠峰了！",
         "link": "https://www.qbitai.com/2026/06/435817.html",
@@ -5075,13 +5069,43 @@
         "link": "https://www.qbitai.com/2026/07/449005.html",
         "published_date": "Mon, 13 Jul 2026 08:17:00 GMT",
         "first_seen": "2026-07-13T23:54:19.599736"
+      },
+      "5de813fb02e80f127c7d1b8ac6bb7852300c8cb0ced5070c5670d293a2ff6047": {
+        "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
+        "link": "https://www.qbitai.com/2026/07/449568.html",
+        "published_date": "Tue, 14 Jul 2026 03:46:00 GMT",
+        "first_seen": "2026-07-14T07:11:57.127594"
+      },
+      "4b235bf7d2c981c288744ca66aa35ae97bfa1a4ee8379cd82d3801a6d5dfaac9": {
+        "title": "GPT-5.6-sol入榜DRACO：OpenSquilla集成方案仍在Brave组质量、成本双领先",
+        "link": "https://www.qbitai.com/2026/07/449842.html",
+        "published_date": "Tue, 14 Jul 2026 05:13:00 GMT",
+        "first_seen": "2026-07-14T07:11:57.127602"
+      },
+      "6f8c12d059f79ab84b4e0688915707d7599b201970cef75337d79b3d41ba385e": {
+        "title": "逐际动力再融2亿美元提速港股IPO，张巍：营收对赌不符合具身商业逻辑",
+        "link": "https://www.qbitai.com/2026/07/449474.html",
+        "published_date": "Tue, 14 Jul 2026 02:02:00 GMT",
+        "first_seen": "2026-07-14T07:11:57.127603"
+      },
+      "73b82e8e45006e789b8866e39cb78c6f704b3956b332faaceb3348b313a24c16": {
+        "title": "产业与全球资本共同加注，爱诗科技完成29.8亿元C轮融资",
+        "link": "https://www.qbitai.com/2026/07/449836.html",
+        "published_date": "Tue, 14 Jul 2026 04:06:00 GMT",
+        "first_seen": "2026-07-14T07:11:57.127605"
+      },
+      "2741cf1282a909d68f1c9175553d7d046e52f58ebfc378502390bbc0367bd4ce": {
+        "title": "100+Skill导演级专家随叫随到！这回视频Agent终于有了可用级产品",
+        "link": "https://www.qbitai.com/2026/07/449566.html",
+        "published_date": "Tue, 14 Jul 2026 03:34:00 GMT",
+        "first_seen": "2026-07-14T07:11:57.127606"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-13T23:53:10.430300",
-    "Finance": "2026-07-13T23:53:31.055838",
-    "Ai": "2026-07-13T23:54:19.599738"
+    "Technology": "2026-07-14T07:11:31.877915",
+    "Finance": "2026-07-14T07:11:44.883398",
+    "Ai": "2026-07-14T07:11:57.127608"
   }
 }
