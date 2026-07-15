@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "793b1f4a368822f74db5aa93ed6342033a62bebac5b99a96badfa083e4316c87": {
-        "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
-        "link": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-15T00:08:25.394866"
-      },
-      "b1ab84498bfc88aced469bc20d431e6c3366f4c82230f2bff4cd1263b2294043": {
-        "title": "MiniMax站在十字路口：解禁、涨价与全球巨头的三重绞杀",
-        "link": "https://www.tmtpost.com/8027254.html",
-        "published_date": "Sun, 14 Jun 2026 17:15:00 GMT",
-        "first_seen": "2026-06-15T00:08:25.394883"
-      },
-      "136ad8a626e71ad9c1fe7eed160e6ddc382609351b2ae84e753ef0cab72157ab": {
-        "title": "别只看专利互掐，大疆和影石真正要抢的是索尼们的千亿饭碗 | 出海参考",
-        "link": "https://www.tmtpost.com/8027299.html",
-        "published_date": "Sun, 14 Jun 2026 19:17:00 GMT",
-        "first_seen": "2026-06-15T00:08:25.394886"
-      },
-      "6f8f92bc2ca8644289593472dfc397a71f294baef5615215db1faaf19ba34a13": {
-        "title": "高管花式退场，阿里AI不需要“一号位”",
-        "link": "https://www.tmtpost.com/8026958.html",
-        "published_date": "Sun, 14 Jun 2026 09:50:00 GMT",
-        "first_seen": "2026-06-15T00:08:25.394888"
-      },
-      "53d4213ee936ad037aca4885152bdf3a2f2f1b581d5afbba146f96bb743f8c72": {
-        "title": "滴滴去掉“出行”，网约车老大也要重新找入口",
-        "link": "https://www.tmtpost.com/8027052.html",
-        "published_date": "Sun, 14 Jun 2026 10:06:00 GMT",
-        "first_seen": "2026-06-15T00:08:25.394891"
-      },
       "890dcfac9fd55030ddf949cd700fc3ec8843438fd434c4eae0b2e81db64842da": {
         "title": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
         "link": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article",
@@ -2041,39 +2011,39 @@
         "link": "https://www.tmtpost.com/8064199.html",
         "published_date": "Tue, 14 Jul 2026 18:58:00 GMT",
         "first_seen": "2026-07-14T23:52:37.561865"
+      },
+      "08ea195e844887960d9387e2ad75e16fa51c808533b1b3fa568420c72094ea6f": {
+        "title": "WordPress 7.0 发布：内置 AI 基础能力、改进管理后台与设计套件",
+        "link": "https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Jul 2026 11:29:00 GMT",
+        "first_seen": "2026-07-15T07:14:51.992868"
+      },
+      "ef3a7344cd0a02065d03232a3ebe7e8c6ca900eccc8f45084e19968ec1769d44": {
+        "title": "Open AI和阶跃星辰同时亮剑，硬刚AI硬件",
+        "link": "https://www.tmtpost.com/8065629.html",
+        "published_date": "Wed, 15 Jul 2026 12:53:00 GMT",
+        "first_seen": "2026-07-15T07:14:51.992877"
+      },
+      "c408749c93f0355fe395a0a2525bf8c353734cbe0260fed58c9512aac03816b1": {
+        "title": "DeepSeek冲刺IPO，“AI四小强”的估值都要重算了",
+        "link": "https://www.tmtpost.com/8065869.html",
+        "published_date": "Wed, 15 Jul 2026 14:33:00 GMT",
+        "first_seen": "2026-07-15T07:14:51.992885"
+      },
+      "26884bf761cad3870de57fcd5edf7e9e7187d45afa3cb891256db3fc4151b002": {
+        "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
+        "link": "https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Jul 2026 15:00:00 GMT",
+        "first_seen": "2026-07-15T07:14:51.992887"
+      },
+      "a5760f6c1a62d8f1226a382e323888bffd613f26a08a44e63b01c78f9291d63c": {
+        "title": "AI 大厂集体转向，大模型迎来“杰文斯时刻”",
+        "link": "https://www.tmtpost.com/8065636.html",
+        "published_date": "Wed, 15 Jul 2026 12:58:00 GMT",
+        "first_seen": "2026-07-15T07:14:51.992889"
       }
     },
     "Finance": {
-      "f85752698ed22399a65b9b798ed1d616b16b62aa6eac556bccd56872aa54a09d": {
-        "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-        "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-        "published_date": "Sun, 14 Jun 2026 17:34:00 GMT",
-        "first_seen": "2026-06-15T00:08:41.091222"
-      },
-      "8475542d06b0df673a7942d50566fbf826b0bb659dedada53ffaab75ee33d892": {
-        "title": "Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don’t know what to expect.",
-        "link": "https://www.marketwatch.com/story/will-the-real-kevin-warsh-please-stand-up-ahead-of-his-first-fed-meeting-economists-honestly-dont-know-what-to-expect-6fa95c8c?mod=mw_rss_topstories",
-        "published_date": "Sun, 14 Jun 2026 21:00:00 GMT",
-        "first_seen": "2026-06-15T00:08:41.091234"
-      },
-      "d68020a131ce88b0cfca2aec7e4080f0879dba8fb0f1f149d56ebc528a7dca04": {
-        "title": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran",
-        "link": "https://www.marketwatch.com/story/trump-says-u-s-had-reached-peace-deal-with-iran-57a93e56?mod=mw_rss_topstories",
-        "published_date": "Sun, 14 Jun 2026 23:44:00 GMT",
-        "first_seen": "2026-06-15T00:08:41.091236"
-      },
-      "054fbbb338da1bcbfa2e9ca8167258a82ab54fe28c79ff7f5686c234ee79a102": {
-        "title": "Strait of Hormuz backlog could take weeks to clear after US-Iran deal",
-        "link": "https://www.ft.com/content/c2d4e116-c49a-4f6b-9b2e-d10d37e4c2e8",
-        "published_date": "Sun, 14 Jun 2026 23:03:00 GMT",
-        "first_seen": "2026-06-15T00:08:41.091239"
-      },
-      "af04e200a1e76b5e0803208dd0ce474ad8a71dfae93a30c616b9f3135655fcea": {
-        "title": "What is in the US-Iran deal?",
-        "link": "https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934",
-        "published_date": "Sun, 14 Jun 2026 23:17:00 GMT",
-        "first_seen": "2026-06-15T00:08:41.091240"
-      },
       "71f5a21aa704a90a25e241d554c037b18a8cb2d545e73f3b479c72cc2319c824": {
         "title": "Oil prices slump to three-month low after U.S. and Iran agree to framework of peace deal",
         "link": "https://www.marketwatch.com/story/oil-prices-decline-after-u-s-iran-agree-to-framework-of-peace-deal-ae25ba9f?mod=mw_rss_topstories",
@@ -3915,6 +3885,36 @@
         "link": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
         "published_date": "Tue, 14 Jul 2026 16:23:00 GMT",
         "first_seen": "2026-07-14T23:52:59.313757"
+      },
+      "a84c77e90c3c2234967c65e7edc49bcb213dfcc976e0a0c2bed16e6ef1625cee": {
+        "title": "China’s economy grows at one of lowest rates in decades",
+        "link": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
+        "published_date": "Wed, 15 Jul 2026 05:53:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.429066"
+      },
+      "4aefccdf5a8a60f01e6358998bd84b8acbb78e2c5d0981a4c0f2b6cec3da05a5": {
+        "title": "ASML raises forecasts as AI boom drives chipmaking demand",
+        "link": "https://www.ft.com/content/731ec5ef-e9e1-40f5-b0bd-09e71787a938",
+        "published_date": "Wed, 15 Jul 2026 05:54:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.429073"
+      },
+      "fe661ea8e4151903fe720b3b8f2b94f9dddbf398193f6a836e268f27c45e00ef": {
+        "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
+        "link": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Jul 2026 00:28:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.429076"
+      },
+      "aeb73e6e29157d3b0c129ad7f109f88ea3fd64efa440f9df02c94f63332426fa": {
+        "title": "Chipmaker CXMT seeks $10bn in largest China IPO since 2010",
+        "link": "https://www.ft.com/content/fcfbcbc0-181f-49ce-bda8-c4133e09695c",
+        "published_date": "Wed, 15 Jul 2026 04:55:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.429077"
+      },
+      "d393c1a7e13a56a3e470159dc166453ce26ec8198b92914cf2a88bacb19fa6b6": {
+        "title": "BYD can take Toyota’s crown without the US market, says top executive",
+        "link": "https://www.ft.com/content/ee2919bc-d6f3-4e07-b823-983265b0b8f9",
+        "published_date": "Wed, 15 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.429079"
       }
     },
     "Ai": {
@@ -5195,13 +5195,37 @@
         "link": "https://www.qbitai.com/2026/07/449850.html",
         "published_date": "Tue, 14 Jul 2026 11:04:00 GMT",
         "first_seen": "2026-07-14T23:52:59.401888"
+      },
+      "2d66f6574c6f85a342319cf9282333dd7b6492d0580816e48324b9f520c3b3b2": {
+        "title": "2026-07-15日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-15/",
+        "published_date": "Wed, 15 Jul 2026 10:58:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.554651"
+      },
+      "98242bfeb0d20fd0a71a30d728bb12a6228e79799b3025e88570374cc48af7fd": {
+        "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
+        "link": "https://www.qbitai.com/2026/07/450385.html",
+        "published_date": "Wed, 15 Jul 2026 04:46:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.554659"
+      },
+      "a243918b72107149d07a8d7d2772c6adc97eaa7e5164a1ff2e762ecb4a04d965": {
+        "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+        "link": "https://www.qbitai.com/2026/07/450250.html",
+        "published_date": "Wed, 15 Jul 2026 03:48:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.554661"
+      },
+      "a46c91738737775d1ce9c14adf56454046d41b8ee1673a7a34b6fdf5e44978fc": {
+        "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
+        "link": "https://www.qbitai.com/2026/07/450101.html",
+        "published_date": "Wed, 15 Jul 2026 00:54:00 GMT",
+        "first_seen": "2026-07-15T07:15:07.554663"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-14T23:52:37.561867",
-    "Finance": "2026-07-14T23:52:59.313760",
-    "Ai": "2026-07-14T23:52:59.401890"
+    "Technology": "2026-07-15T07:14:51.992891",
+    "Finance": "2026-07-15T07:15:07.429081",
+    "Ai": "2026-07-15T07:15:07.554665"
   }
 }
