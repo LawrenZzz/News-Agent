@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "890dcfac9fd55030ddf949cd700fc3ec8843438fd434c4eae0b2e81db64842da": {
-        "title": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
-        "link": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Jun 2026 18:11:00 GMT",
-        "first_seen": "2026-06-15T10:53:21.226353"
-      },
-      "a6817212a317ec5f667237fc9ed7c94f4c99d00f5c9976c992b487bac457bb23": {
-        "title": "WWDC 2026，硅谷历史上最昂贵的认输：1.2 万亿参数 Siri 来自 Gemini，但你的手机跑不了",
-        "link": "https://www.infoq.cn/article/LSwQ3hQpZ1INX40icTSE?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-15T10:53:21.226361"
-      },
-      "050eb9c1fa7cb9b603303eeed9460873b2aad0abfdcdb7feafeabaea0f6de982": {
-        "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
-        "link": "https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 15 Jun 2026 10:31:00 GMT",
-        "first_seen": "2026-06-15T10:53:21.226364"
-      },
-      "b04e2364761448d515c52a124178d9df3a06238bb34d44b462182e8b2e02eb36": {
-        "title": "SK海力士尝试“以钼代钨”，钼金属需求大爆发",
-        "link": "https://www.tmtpost.com/8028655.html",
-        "published_date": "Mon, 15 Jun 2026 18:05:00 GMT",
-        "first_seen": "2026-06-15T10:53:21.226366"
-      },
-      "b0f6b1758ac1751e49bdb57fe0173cf33266e03814ce2078f33a4fa2f4de1352": {
-        "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
-        "link": "https://sspai.com/post/111045",
-        "published_date": "Mon, 15 Jun 2026 07:09:00 GMT",
-        "first_seen": "2026-06-15T10:53:21.226367"
-      },
       "086a3448a6901af7f668926c7153ba8c45fa1155a0688fe7ac9f59bacf304b08": {
         "title": "均普智能联合博登、上海交大正式发布全球首个面向真实机器人强化学习大规模数据集",
         "link": "https://www.tmtpost.com/8029068.html",
@@ -2071,39 +2041,39 @@
         "link": "https://www.tmtpost.com/8065866.html",
         "published_date": "Wed, 15 Jul 2026 14:26:00 GMT",
         "first_seen": "2026-07-15T10:01:02.587854"
+      },
+      "80c764f214d9e55dc08b739e9a30e3758e2692368501ca45674133a0264ce1ec": {
+        "title": "【钛晨报】央行：加大逆周期和跨周期调节力度；网信办发布7款提供手机端侧生成式人工智能服务备案信息；长鑫科技：上市后仍将保持无实际控制人的控制权架构",
+        "link": "https://www.tmtpost.com/8066673.html",
+        "published_date": "Thu, 16 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-15T23:58:18.628425"
+      },
+      "e62db52babfe831c38fa8c23a77c87832e3f8f23d8d636ea9662ac3eede1a1f9": {
+        "title": "字节入局物理AI，第二波“盛宴”开启？",
+        "link": "https://www.tmtpost.com/8066225.html",
+        "published_date": "Wed, 15 Jul 2026 18:48:00 GMT",
+        "first_seen": "2026-07-15T23:58:18.628434"
+      },
+      "9f21b3d1be07b4a1fc730e90c6671952674d448dc93ae651020886022bdf8e8a": {
+        "title": "印奇为什么造了一部不打算卖的手机？",
+        "link": "https://www.tmtpost.com/8066008.html",
+        "published_date": "Wed, 15 Jul 2026 16:14:00 GMT",
+        "first_seen": "2026-07-15T23:58:18.628436"
+      },
+      "359df29974359edea6df643030ad92ab2322dbefe40b6cb57fc94c5a7d243c46": {
+        "title": "Anthropic为什么不做硬件？",
+        "link": "https://www.tmtpost.com/8065992.html",
+        "published_date": "Wed, 15 Jul 2026 16:15:00 GMT",
+        "first_seen": "2026-07-15T23:58:18.628439"
+      },
+      "d91484569e47dea31febe5ef6309ca51261793c2790f8241420ac7a68531e717": {
+        "title": "当数据库的两端，都不再是人",
+        "link": "https://www.infoq.cn/article/sDyPWhAWPHttlQJTUwq3?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 15 Jul 2026 10:42:00 GMT",
+        "first_seen": "2026-07-15T23:58:18.628441"
       }
     },
     "Finance": {
-      "71f5a21aa704a90a25e241d554c037b18a8cb2d545e73f3b479c72cc2319c824": {
-        "title": "Oil prices slump to three-month low after U.S. and Iran agree to framework of peace deal",
-        "link": "https://www.marketwatch.com/story/oil-prices-decline-after-u-s-iran-agree-to-framework-of-peace-deal-ae25ba9f?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Jun 2026 09:27:00 GMT",
-        "first_seen": "2026-06-15T10:53:35.750025"
-      },
-      "d11924df876a857df23e0e92bd5ec3646a4e6fcc7f920f37e8736edaad46a51e": {
-        "title": "Global stocks power to record highs as deal ignites ‘risk on’ rally",
-        "link": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
-        "published_date": "Mon, 15 Jun 2026 08:52:00 GMT",
-        "first_seen": "2026-06-15T10:53:35.750031"
-      },
-      "ec13852a9ef77454e1167e6ccf937f49404644c5330d8ef42e937cb8e0769c52": {
-        "title": "Here’s the potential stock-market reaction from new restrictions on AI models",
-        "link": "https://www.marketwatch.com/story/heres-the-potential-stock-market-reaction-from-new-restrictions-on-ai-models-1aec4a5e?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Jun 2026 10:44:00 GMT",
-        "first_seen": "2026-06-15T10:53:35.750033"
-      },
-      "68cd26b125d33e757f24d40ec104d55e9ec1d1dd6cea7f58ebbbaed37a023bf3": {
-        "title": "Elon Musk makes sky-high trillion-dollar forecast for SpaceX revenue",
-        "link": "https://www.marketwatch.com/story/elon-musk-makes-sky-high-trillion-dollar-forecast-for-spacex-revenue-721db931?mod=mw_rss_topstories",
-        "published_date": "Mon, 15 Jun 2026 09:37:00 GMT",
-        "first_seen": "2026-06-15T10:53:35.750035"
-      },
-      "879b03abe0ccec8198807cd5dae64d35dd50d4e32c52fdbef4eb8debc33c5d82": {
-        "title": "Legal AI start-up Legora to double headcount",
-        "link": "https://www.ft.com/content/51b43d91-ae82-4142-9ff6-3252720e2906",
-        "published_date": "Mon, 15 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-15T10:53:35.750037"
-      },
       "2c25aa165a860520305d2b6041230e7bf314331b81f951435bed3c4b41bcd18f": {
         "title": "Stocks surge as US-Iran deal ignites global rally",
         "link": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
@@ -3975,39 +3945,39 @@
         "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
         "published_date": "Wed, 15 Jul 2026 09:15:00 GMT",
         "first_seen": "2026-07-15T10:01:13.696357"
+      },
+      "6408f33292467b733942b21790a0320103afacdf0cb3a85b2075f841837f9218": {
+        "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
+        "link": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
+        "published_date": "Wed, 15 Jul 2026 19:49:00 GMT",
+        "first_seen": "2026-07-15T23:59:04.803089"
+      },
+      "d0627ea5b9c2c486d8ddb0c83604afdd2b1268918e3490175c009fd731dde7ec": {
+        "title": "This powerful stock-market momentum trade has hit a wall after seeing biggest unwind since 2001",
+        "link": "https://www.marketwatch.com/story/this-powerful-stock-market-momentum-trade-has-hit-a-wall-after-seeing-biggest-unwind-since-2001-52ad4151?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Jul 2026 22:10:00 GMT",
+        "first_seen": "2026-07-15T23:59:04.803096"
+      },
+      "4905aaac6872911f9be85eac01e81f8852434715ab10251d190da9276e053061": {
+        "title": "SpaceX’s stock breaks below its IPO price for the first time. Why it could still fall further.",
+        "link": "https://www.marketwatch.com/story/spacexs-stock-breaks-below-its-ipo-price-for-the-first-time-8826dc9a?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Jul 2026 21:40:00 GMT",
+        "first_seen": "2026-07-15T23:59:04.803098"
+      },
+      "7097e83f4abf5f775d38e60e2f5729661371a704899d5985e66b90297c07cc4f": {
+        "title": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
+        "link": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Jul 2026 22:21:00 GMT",
+        "first_seen": "2026-07-15T23:59:04.803100"
+      },
+      "3fc439209d1555f80c4fd038079d3394aef2f20f37b533884171b332f4cd3d87": {
+        "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
+        "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
+        "published_date": "Wed, 15 Jul 2026 23:34:00 GMT",
+        "first_seen": "2026-07-15T23:59:04.803102"
       }
     },
     "Ai": {
-      "88878476f9ddcb7e0a3205dc4f69b529138d6f56923c44d1e62d75c741df3817": {
-        "title": "宇树机器人要登珠峰了！",
-        "link": "https://www.qbitai.com/2026/06/435817.html",
-        "published_date": "Mon, 15 Jun 2026 09:17:00 GMT",
-        "first_seen": "2026-06-15T10:54:01.539627"
-      },
-      "ed93073b176553a499027166dbf9f4ea28af8259091f51f36fa247cbb269eb34": {
-        "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
-        "link": "https://www.qbitai.com/2026/06/435804.html",
-        "published_date": "Mon, 15 Jun 2026 06:54:00 GMT",
-        "first_seen": "2026-06-15T10:54:01.539637"
-      },
-      "bda0e3ab846844504f8bf9ae5d2897eda7cab44b0657368162bc29b20220364c": {
-        "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
-        "link": "https://www.qbitai.com/2026/06/435802.html",
-        "published_date": "Mon, 15 Jun 2026 06:52:00 GMT",
-        "first_seen": "2026-06-15T10:54:01.539640"
-      },
-      "ecc260413706f9f372a0bb21d407cddee32bbe9ed3d5b580225c061f2f1690a7": {
-        "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
-        "link": "https://www.qbitai.com/2026/06/435574.html",
-        "published_date": "Mon, 15 Jun 2026 06:08:00 GMT",
-        "first_seen": "2026-06-15T10:54:01.539641"
-      },
-      "a8031bdc7266e15f26d7f273aa725c6af826ee3f4d253de03bf3acc925b243a7": {
-        "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-        "link": "https://www.qbitai.com/2026/06/435558.html",
-        "published_date": "Mon, 15 Jun 2026 05:43:00 GMT",
-        "first_seen": "2026-06-15T10:54:01.539643"
-      },
       "13117826daf0ec85b60fa98b604421f45d95ce644f633a1b8cf49c37e6f3e30b": {
         "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
         "link": "https://www.qbitai.com/2026/06/435848.html",
@@ -5297,13 +5267,19 @@
         "link": "https://www.qbitai.com/2026/07/450657.html",
         "published_date": "Wed, 15 Jul 2026 07:22:00 GMT",
         "first_seen": "2026-07-15T10:01:13.817624"
+      },
+      "d3789bab6a68921c9742ec1ad2e782ddbbb2598de74495b5c83ac9312a2c5d9c": {
+        "title": "Towards demystifying the creativity of diffusion models",
+        "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+        "published_date": "Wed, 15 Jul 2026 18:06:00 GMT",
+        "first_seen": "2026-07-15T23:59:04.924572"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-15T10:01:02.587857",
-    "Finance": "2026-07-15T10:01:13.696359",
-    "Ai": "2026-07-15T10:01:13.817626"
+    "Technology": "2026-07-15T23:58:18.628443",
+    "Finance": "2026-07-15T23:59:04.803105",
+    "Ai": "2026-07-15T23:59:04.924580"
   }
 }
