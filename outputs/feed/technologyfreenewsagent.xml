@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 00:03:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 00:04:15 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 07:15:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:16:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元</title>
-      <link>https://www.tmtpost.com/8067923.html</link>
-      <description>&lt;![CDATA[【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067923.html</guid>
+      <title>Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限</title>
+      <link>https://www.tmtpost.com/8067981.html</link>
+      <description>&lt;![CDATA[Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067981.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/8067651.html</link>
-      <description>&lt;![CDATA[AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067651.html</guid>
+      <title>从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂</title>
+      <link>https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果智能入华，阿里百度赢麻</title>
-      <link>https://www.tmtpost.com/8067563.html</link>
-      <description>&lt;![CDATA[苹果智能入华，阿里百度赢麻]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067563.html</guid>
+      <title>Kimi新模型K3刷屏，Coding得分超越Fable 5</title>
+      <link>https://www.tmtpost.com/8068444.html</link>
+      <description>&lt;![CDATA[Kimi新模型K3刷屏，Coding得分超越Fable 5]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068444.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>芯片股波动，但阿斯麦永远赚钱</title>
-      <link>https://www.tmtpost.com/8067583.html</link>
-      <description>&lt;![CDATA[芯片股波动，但阿斯麦永远赚钱]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067583.html</guid>
+      <title>最近，投资人都在研究给机器人“喂饭”</title>
+      <link>https://www.tmtpost.com/8068658.html</link>
+      <description>&lt;![CDATA[最近，投资人都在研究给机器人“喂饭”]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068658.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IPO申购狂热之下，长鑫存储还要跨过两重关</title>
-      <link>https://www.tmtpost.com/8067850.html</link>
-      <description>&lt;![CDATA[IPO申购狂热之下，长鑫存储还要跨过两重关]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 20:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067850.html</guid>
+      <title>具身智能的真机数采，到了分水岭</title>
+      <link>https://www.tmtpost.com/8068523.html</link>
+      <description>&lt;![CDATA[具身智能的真机数采，到了分水岭]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068523.html</guid>
       <category>Technology</category>
     </item>
   </channel>
