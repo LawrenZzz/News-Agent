@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a1c80db4901b45390e7934e92023668cf3944477c985a0c5097ad5bd177cf9c3": {
-        "title": "端侧智能的全球化落地：云端的\"强\"，解不了端侧的\"痛\"｜「Talk To The World」@Singapore AI Week",
-        "link": "https://www.tmtpost.com/8029636.html",
-        "published_date": "Tue, 16 Jun 2026 17:35:00 GMT",
-        "first_seen": "2026-06-16T10:07:08.789589"
-      },
-      "a3c2d17a653904dd1f5c65ab2187d28097e70a32b991d7497b7b5f32d7624f77": {
-        "title": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
-        "link": "https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 16 Jun 2026 09:44:00 GMT",
-        "first_seen": "2026-06-16T10:07:08.789604"
-      },
-      "1771fa793e6eaea66eee8ace9570cc97c04863f43570131f8907a7bab7e9cf78": {
-        "title": "宇树科技补短板：合作英伟达，花20亿搞研发",
-        "link": "https://www.tmtpost.com/8029722.html",
-        "published_date": "Tue, 16 Jun 2026 17:22:00 GMT",
-        "first_seen": "2026-06-16T10:07:08.789608"
-      },
-      "d77956be8a9cbf340e5f18fb77c00868c4e76d515ac675974a90e0674484953d": {
-        "title": "讽刺：Anthropic求监管，第一个被监管“反噬”",
-        "link": "https://www.tmtpost.com/8029624.html",
-        "published_date": "Tue, 16 Jun 2026 16:49:00 GMT",
-        "first_seen": "2026-06-16T10:07:08.789610"
-      },
-      "3dc21b4a542382e18b3e81f67415a9a07db72acad16952501d99a290bed14693": {
-        "title": "“铜箔大王”踩中AI超级周期，旗下CCL龙头半年暴涨2200亿",
-        "link": "https://www.tmtpost.com/8029350.html",
-        "published_date": "Tue, 16 Jun 2026 16:03:00 GMT",
-        "first_seen": "2026-06-16T10:07:08.789612"
-      },
       "3f1f23a9a5cc96832fd9c16a7bd7408575f1d9ea095335abc1ed4315282d6b31": {
         "title": "亚马逊云科技发布新一代 Amazon OpenSearch Serverless",
         "link": "https://www.infoq.cn/article/1JmJurL7fQtvpujOTIMg?utm_source=rss&utm_medium=article",
@@ -2101,39 +2071,39 @@
         "link": "https://www.tmtpost.com/8066456.html",
         "published_date": "Thu, 16 Jul 2026 08:10:00 GMT",
         "first_seen": "2026-07-16T10:06:34.302576"
+      },
+      "852ce793d2c9f5046af861be6ebd1fdc0ca9f4195331bc8951870893589522c3": {
+        "title": "【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元",
+        "link": "https://www.tmtpost.com/8067923.html",
+        "published_date": "Fri, 17 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.149327"
+      },
+      "ee31a50371c150b55b931dd8850a22cc340168b1172a8e9f303a06c3209bbd9d": {
+        "title": "AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/8067651.html",
+        "published_date": "Thu, 16 Jul 2026 18:04:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.149334"
+      },
+      "28141f4376914a416074963c890a990d4ba9aad035b6a5325c7b8419aef35e9b": {
+        "title": "苹果智能入华，阿里百度赢麻",
+        "link": "https://www.tmtpost.com/8067563.html",
+        "published_date": "Thu, 16 Jul 2026 18:53:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.149336"
+      },
+      "7b800bb2411cbf2314d0f3520a4b1259bfc1219e6da002703d3610e50660257f": {
+        "title": "芯片股波动，但阿斯麦永远赚钱",
+        "link": "https://www.tmtpost.com/8067583.html",
+        "published_date": "Thu, 16 Jul 2026 18:53:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.149338"
+      },
+      "c12a9b51194d82e854a46cba322d126ebd55d547e2e71a10b3b90300ff8b1b3b": {
+        "title": "IPO申购狂热之下，长鑫存储还要跨过两重关",
+        "link": "https://www.tmtpost.com/8067850.html",
+        "published_date": "Thu, 16 Jul 2026 20:51:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.149339"
       }
     },
     "Finance": {
-      "76e7ca84e8d429ff4e0807f522b187291cebb6558dea32f75cb7208b9a4df90b": {
-        "title": "Bank of Japan raises rates to 1% for first time since 1995",
-        "link": "https://www.ft.com/content/1e887867-8533-423b-977c-c019759f7787",
-        "published_date": "Tue, 16 Jun 2026 08:01:00 GMT",
-        "first_seen": "2026-06-16T10:07:25.047997"
-      },
-      "c2980271c7735c763caec2fa64eabddc13721d4fe07f37e73a4ebd631bf27ffd": {
-        "title": "Economists bet on higher rates as Kevin Warsh takes reins at the Fed",
-        "link": "https://www.ft.com/content/ee4e7722-5488-4c22-ae04-fce60440c28c",
-        "published_date": "Tue, 16 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-16T10:07:25.048004"
-      },
-      "4728ee00f05adf55c6466dede332eef6f7af4632f0e23e2522ebe69d70ba05cd": {
-        "title": "The world is more dangerous. Why is risk cheaper?",
-        "link": "https://www.ft.com/content/3cae57bd-c2d8-4ed5-87a8-644a27c86d93",
-        "published_date": "Tue, 16 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-16T10:07:25.048007"
-      },
-      "a029cac06de9b7cb916d3c52d87306bf8de592e45198195c11563e705317bd7f": {
-        "title": "Private equity bosses warn of AI threat to bets on law and accountancy",
-        "link": "https://www.ft.com/content/d368d0b8-9264-408b-b0af-0f0b660e1c8f",
-        "published_date": "Tue, 16 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-16T10:07:25.048009"
-      },
-      "b15788fd82d784817171ea9530db0a58df2da084590b795a5171a18c9b96c8e7": {
-        "title": "OpenAI spending hit $34bn last year ahead of planned IPO",
-        "link": "https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828",
-        "published_date": "Tue, 16 Jun 2026 03:28:00 GMT",
-        "first_seen": "2026-06-16T10:07:25.048012"
-      },
       "16ec958f6ebf95ea3f4e9aa2a922f8c90701a3e9e9aeb76fefb60a00520572e1": {
         "title": "Intel takes a major step toward turning around a business that’s bleeding cash",
         "link": "https://www.marketwatch.com/story/intel-takes-a-major-step-toward-turning-around-a-business-thats-bleeding-cash-ab68cc94?mod=mw_rss_topstories",
@@ -4035,39 +4005,39 @@
         "link": "https://www.marketwatch.com/story/alec-and-hilaria-baldwin-pull-19-million-hamptons-home-off-the-marketagain-6505ebdd?mod=mw_rss_topstories",
         "published_date": "Thu, 16 Jul 2026 09:01:00 GMT",
         "first_seen": "2026-07-16T10:06:11.912828"
+      },
+      "8373127388a5f53201ccca4ca1271ebd0f2f991fc74e2310b559860e9cc8b995": {
+        "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
+        "link": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Jul 2026 23:17:00 GMT",
+        "first_seen": "2026-07-17T00:03:45.024740"
+      },
+      "bd0e775276012dbbd0337ff802623b5e496514f584daaf05057a340c32e8f975": {
+        "title": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
+        "link": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Jul 2026 21:32:00 GMT",
+        "first_seen": "2026-07-17T00:03:45.024752"
+      },
+      "db2da188a2a785f51d8836971a8f7ad024243eabd5a5d80576747ae29191fb68": {
+        "title": "US chip and memory stocks slide in fresh bout of Wall Street tumult",
+        "link": "https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1",
+        "published_date": "Thu, 16 Jul 2026 21:14:00 GMT",
+        "first_seen": "2026-07-17T00:03:45.024755"
+      },
+      "c4ac9e59f6a0bfe2aed59f5fc2d8706344badfa235bac3b5a0ef23c2070328b4": {
+        "title": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline",
+        "link": "https://www.ft.com/content/eb6e0b25-6682-46bc-a879-136a38d1d7d6?syn-25a6b1a6=1",
+        "published_date": "Thu, 16 Jul 2026 16:14:00 GMT",
+        "first_seen": "2026-07-17T00:03:45.024757"
+      },
+      "f48dc76284da681f36eaec7745a3fb618c2b075982c027e1957fe9fb39a642a6": {
+        "title": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
+        "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+        "published_date": "Thu, 16 Jul 2026 22:45:00 GMT",
+        "first_seen": "2026-07-17T00:03:45.024759"
       }
     },
     "Ai": {
-      "2f7fd3e93405f6ccc059046cb3cfdcb16f2486855128dad1b2369cec73f51bb0": {
-        "title": "三连发！阿里发布首个具身大模型Qwen-Robot系列",
-        "link": "https://www.qbitai.com/2026/06/435873.html",
-        "published_date": "Tue, 16 Jun 2026 04:39:00 GMT",
-        "first_seen": "2026-06-16T10:07:44.156362"
-      },
-      "2b32cf1bc1d57c3d0ccb2fa708a1e21ad835bfe68d598af4aff8b11dc681fe7f": {
-        "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
-        "link": "https://www.qbitai.com/2026/06/435861.html",
-        "published_date": "Tue, 16 Jun 2026 01:32:00 GMT",
-        "first_seen": "2026-06-16T10:07:44.156369"
-      },
-      "0c1a24c552d0b6cac01deea76d2d8c12666032da89323aaebbfc9f005eb6bb7f": {
-        "title": "从技术向运营生产力“质变”：神州数码以AI for Process构建AI落地产业的“飞轮”",
-        "link": "https://www.qbitai.com/2026/06/435859.html",
-        "published_date": "Tue, 16 Jun 2026 04:10:00 GMT",
-        "first_seen": "2026-06-16T10:07:44.156372"
-      },
-      "e347a3e7bf6f3db6ff845c98aeae0c0a2b72f7ab9075b140e026c57bb7bf754f": {
-        "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
-        "link": "https://www.qbitai.com/2026/06/435853.html",
-        "published_date": "Tue, 16 Jun 2026 02:47:00 GMT",
-        "first_seen": "2026-06-16T10:07:44.156374"
-      },
-      "579bb928046ab7f5ff5fb9b740c9b3682182ba583945b65fc16dbcdeaea94f0b": {
-        "title": "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员",
-        "link": "https://www.qbitai.com/2026/06/435882.html",
-        "published_date": "Tue, 16 Jun 2026 06:40:00 GMT",
-        "first_seen": "2026-06-16T10:07:44.156376"
-      },
       "d385251c79cf7db9dd744be71a5ab845a569cfc69084a76f300029eb8b4c3d73": {
         "title": "From pixels to planning: Earth AI for nature restoration",
         "link": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
@@ -5363,13 +5333,25 @@
         "link": "https://www.qbitai.com/2026/07/451049.html",
         "published_date": "Thu, 16 Jul 2026 07:34:00 GMT",
         "first_seen": "2026-07-16T10:06:34.421216"
+      },
+      "4bb0fe35f4f55880e6034b1224ef7456188d3aab57dae5ed17193f266894ab1d": {
+        "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+        "link": "https://www.qbitai.com/2026/07/451576.html",
+        "published_date": "Thu, 16 Jul 2026 15:12:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.266831"
+      },
+      "553648af055ea9ff7e9901b0902eda417a0fbb95e50883581669060b0f353806": {
+        "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+        "link": "https://www.qbitai.com/2026/07/451403.html",
+        "published_date": "Thu, 16 Jul 2026 10:51:00 GMT",
+        "first_seen": "2026-07-17T00:04:15.266840"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-16T10:06:34.302578",
-    "Finance": "2026-07-16T10:06:11.912830",
-    "Ai": "2026-07-16T10:06:34.421218"
+    "Technology": "2026-07-17T00:04:15.149342",
+    "Finance": "2026-07-17T00:03:45.024761",
+    "Ai": "2026-07-17T00:04:15.266842"
   }
 }

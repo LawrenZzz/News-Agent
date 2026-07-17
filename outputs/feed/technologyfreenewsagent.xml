@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Jul 2026 10:05:00 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 10:06:34 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 00:03:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:04:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away</title>
-      <link>https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元</title>
+      <link>https://www.tmtpost.com/8067923.html</link>
+      <description>&lt;![CDATA[【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067923.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同</title>
-      <link>https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/8067651.html</link>
+      <description>&lt;![CDATA[AIDC步入GW时代，未来数据中心怎么建？丨ToB产业观察]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067651.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上市，会改变DeepSeek吗？</title>
-      <link>https://www.tmtpost.com/8067219.html</link>
-      <description>&lt;![CDATA[上市，会改变DeepSeek吗？]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067219.html</guid>
+      <title>苹果智能入华，阿里百度赢麻</title>
+      <link>https://www.tmtpost.com/8067563.html</link>
+      <description>&lt;![CDATA[苹果智能入华，阿里百度赢麻]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067563.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果AI备案过关，但拿到的可能是一张旧门票</title>
-      <link>https://www.tmtpost.com/8067194.html</link>
-      <description>&lt;![CDATA[苹果AI备案过关，但拿到的可能是一张旧门票]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8067194.html</guid>
+      <title>芯片股波动，但阿斯麦永远赚钱</title>
+      <link>https://www.tmtpost.com/8067583.html</link>
+      <description>&lt;![CDATA[芯片股波动，但阿斯麦永远赚钱]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067583.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>你还在手写 Prompt？聪明的人早就用上了循环工程，AI 的自动驾驶时代来了</title>
-      <link>https://www.tmtpost.com/8066456.html</link>
-      <description>&lt;![CDATA[你还在手写 Prompt？聪明的人早就用上了循环工程，AI 的自动驾驶时代来了]]&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8066456.html</guid>
+      <title>IPO申购狂热之下，长鑫存储还要跨过两重关</title>
+      <link>https://www.tmtpost.com/8067850.html</link>
+      <description>&lt;![CDATA[IPO申购狂热之下，长鑫存储还要跨过两重关]]&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 20:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067850.html</guid>
       <category>Technology</category>
     </item>
   </channel>
