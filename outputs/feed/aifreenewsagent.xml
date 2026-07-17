@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 09:52:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 09:55:10 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 23:48:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:51:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和</title>
-      <link>https://www.qbitai.com/2026/07/452914.html</link>
-      <description>&lt;![CDATA[IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/452914.html</guid>
+      <title>算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”</title>
+      <link>https://www.qbitai.com/2026/07/453208.html</link>
+      <description>&lt;![CDATA[算力的尽头，不是更多算力——全球顶尖科学家7月18日聚首上海，共议AI时代的“未来计算”]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453208.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU</title>
+      <link>https://www.qbitai.com/2026/07/453352.html</link>
+      <description>&lt;![CDATA[逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453352.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%</title>
+      <link>https://www.qbitai.com/2026/07/453211.html</link>
+      <description>&lt;![CDATA[WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453211.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下</title>
+      <link>https://www.qbitai.com/2026/07/453084.html</link>
+      <description>&lt;![CDATA[上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/453084.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>文远发布物理AI大模型WITT：让每一公里都变成模型能力</title>
+      <link>https://www.qbitai.com/2026/07/452961.html</link>
+      <description>&lt;![CDATA[文远发布物理AI大模型WITT：让每一公里都变成模型能力]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 10:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/452961.html</guid>
       <category>Ai</category>
     </item>
   </channel>

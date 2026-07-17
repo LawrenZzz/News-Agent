@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 09:54:00 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 09:55:10 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 23:50:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:51:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>王坚：下一代基础模型，不在语言，而在科学数据</title>
-      <link>https://www.tmtpost.com/8069227.html</link>
-      <description>&lt;![CDATA[王坚：下一代基础模型，不在语言，而在科学数据]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069227.html</guid>
+      <title>5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻</title>
+      <link>https://www.tmtpost.com/8068786.html</link>
+      <description>&lt;![CDATA[5个月10倍：智谱ARR破10亿美元，中国大模型的价值验证时刻]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068786.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI降价75%，奥特曼称是被DeepSeek逼的？</title>
-      <link>https://www.tmtpost.com/8069117.html</link>
-      <description>&lt;![CDATA[OpenAI降价75%，奥特曼称是被DeepSeek逼的？]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069117.html</guid>
+      <title>The Labor of Machines: Why Capital is Valuing Unproven Robotics Companies at Billions</title>
+      <link>https://www.tmtpost.com/8069652.html</link>
+      <description>&lt;![CDATA[The Labor of Machines: Why Capital is Valuing Unproven Robotics Companies at Billions]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 19:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069652.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market</title>
-      <link>https://www.tmtpost.com/8069058.html</link>
-      <description>&lt;![CDATA[Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 16:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8069058.html</guid>
+      <title>「豆包二代手机」 幕后：字节和中兴「相互成全」</title>
+      <link>https://www.tmtpost.com/8067771.html</link>
+      <description>&lt;![CDATA[「豆包二代手机」 幕后：字节和中兴「相互成全」]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8067771.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板</title>
-      <link>https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 14:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC</title>
+      <link>https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[搭载全球首个智能体原生操作系统 Step AOS，STEPX Neo 亮相 2026 WAIC]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 22:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/62J9L28365BtFlSFxVjE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>加密行业，全员卷入 AI 军备竞赛</title>
-      <link>https://www.tmtpost.com/8068948.html</link>
-      <description>&lt;![CDATA[加密行业，全员卷入 AI 军备竞赛]]&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8068948.html</guid>
+      <title>Agent会干活了，却不会过日子</title>
+      <link>https://www.tmtpost.com/8068255.html</link>
+      <description>&lt;![CDATA[Agent会干活了，却不会过日子]]&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 18:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068255.html</guid>
       <category>Technology</category>
     </item>
   </channel>
