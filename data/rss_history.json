@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b76993da9a416c03e5463105f87a0d6e1f95a1b7c6ce347da129609186871c87": {
-        "title": "AI 企业 Day 0 出海，如何少走技术弯路？",
-        "link": "https://www.infoq.cn/article/xwaUhLdpgsKrGVkVMhSO?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 16:41:00 GMT",
-        "first_seen": "2026-06-17T09:30:36.364711"
-      },
-      "ac39f6aa714efa201a03fd29f5c7853afff232664dfd07c7816ccd58dbf5f107": {
-        "title": "Lyft借助地图智能技术缓解封闭式小区接驾难题",
-        "link": "https://www.infoq.cn/article/mo0XQK6h2xAcVEqafKVN?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 11:53:00 GMT",
-        "first_seen": "2026-06-17T09:30:36.364722"
-      },
-      "b18775649a4e041f0423e2011ed27f812f65b1461e006a5b32c9f23ceab926f7": {
-        "title": "全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单",
-        "link": "https://www.infoq.cn/article/y9letxDfTZ72Ls1JX27u?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 11:12:00 GMT",
-        "first_seen": "2026-06-17T09:30:36.364724"
-      },
-      "bcff18974d083ac02ee2b13471000b05c4989b16b119586f24cdf74b52776bdf": {
-        "title": "三年百万级服务器排障实战，OpenCloudOS开源OS层 AI诊断系统",
-        "link": "https://www.infoq.cn/article/N8OtrKJAucsocHwY650b?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 10:37:00 GMT",
-        "first_seen": "2026-06-17T09:30:36.364726"
-      },
-      "5896570bb6069bf3c9fb1d53bab872ef389ecd5da5cf79d5b2619d6ba31738be": {
-        "title": "利用“项目即服务”构建和扩展平台",
-        "link": "https://www.infoq.cn/article/u7v5y362ZR206BBUrdZ7?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 09:43:00 GMT",
-        "first_seen": "2026-06-17T09:30:36.364728"
-      },
       "111838dc06abc404dd388472615782c46fa98d9b791c67a7b1fd60341c257899": {
         "title": "SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表",
         "link": "https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4?utm_source=rss&utm_medium=article",
@@ -2101,39 +2071,39 @@
         "link": "https://www.tmtpost.com/8068523.html",
         "published_date": "Fri, 17 Jul 2026 11:06:00 GMT",
         "first_seen": "2026-07-17T07:16:32.818878"
+      },
+      "4e384cb123868541f8318d92789365fab5eab5a02dd09b426e0b6673d83f6026": {
+        "title": "王坚：下一代基础模型，不在语言，而在科学数据",
+        "link": "https://www.tmtpost.com/8069227.html",
+        "published_date": "Fri, 17 Jul 2026 17:31:00 GMT",
+        "first_seen": "2026-07-17T09:55:10.821323"
+      },
+      "96cae7072f2d353489bd156396b8cdf930e65f7076a079b00b577ad49e3afd0d": {
+        "title": "OpenAI降价75%，奥特曼称是被DeepSeek逼的？",
+        "link": "https://www.tmtpost.com/8069117.html",
+        "published_date": "Fri, 17 Jul 2026 17:20:00 GMT",
+        "first_seen": "2026-07-17T09:55:10.821330"
+      },
+      "c7214f7ad23c79a31a184c371a3065789ca2ccb5ea2b557ee48f083d95fdef48": {
+        "title": "Moonshot AI Releases 2.8-Trillion-Parameter Kimi K3 into a Saturated AI Market",
+        "link": "https://www.tmtpost.com/8069058.html",
+        "published_date": "Fri, 17 Jul 2026 16:04:00 GMT",
+        "first_seen": "2026-07-17T09:55:10.821333"
+      },
+      "207fa262afe69083feb0b02e10c29960b36dbc663eff6b573edc397a097b1885": {
+        "title": "Stripe 发布基准测试：AI 智能体可开发集成方案，但校验环节存在短板",
+        "link": "https://www.infoq.cn/article/zVfybMt5i742CqhWYjR4?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 17 Jul 2026 14:15:00 GMT",
+        "first_seen": "2026-07-17T09:55:10.821334"
+      },
+      "aa2fbcb7390e3d12f280f511325f165c69823052442f1eb11422a69f25ace9ae": {
+        "title": "加密行业，全员卷入 AI 军备竞赛",
+        "link": "https://www.tmtpost.com/8068948.html",
+        "published_date": "Fri, 17 Jul 2026 17:36:00 GMT",
+        "first_seen": "2026-07-17T09:55:10.821336"
       }
     },
     "Finance": {
-      "820859b97291d93e56ae681c3be8e0922c5ac9501984fc481efc70af21282444": {
-        "title": "The moment of peak stagflation has passed. Here’s how some strategists recommend to trade it.",
-        "link": "https://www.marketwatch.com/story/the-moment-of-peak-stagflation-has-passed-heres-how-some-strategists-recommend-to-trade-it-37f3339e?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Jun 2026 09:21:00 GMT",
-        "first_seen": "2026-06-17T09:31:08.799783"
-      },
-      "d186956505761c7c0325388e89698e4e95bf39aab524e3797607cd199919879e": {
-        "title": "Investors pile into bullish dollar bets as ‘US exceptionalism’ trade returns",
-        "link": "https://www.ft.com/content/c2369546-6857-47fe-84bb-30f4290c9bb5",
-        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-17T09:31:08.799790"
-      },
-      "6af694818057e84998edab27f485136a1b5365b161f715d883e1d2fe43c9abdd": {
-        "title": "Middle East peace deal could herald oil glut next year, IEA says",
-        "link": "https://www.ft.com/content/43a47462-3102-4f77-a2fe-d9cf1217ac2f",
-        "published_date": "Wed, 17 Jun 2026 08:00:00 GMT",
-        "first_seen": "2026-06-17T09:31:08.799792"
-      },
-      "2fcc075fe1a743a015526665853f11527586747b4324f6202306cd29515b039f": {
-        "title": "China’s tech champion tests limits of US chip controls",
-        "link": "https://www.ft.com/content/234c9aeb-33aa-469e-844d-f721e81296cf",
-        "published_date": "Wed, 17 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-17T09:31:08.799793"
-      },
-      "19e92f5d50a2b1d88ce5e481dff742af33f7311dce55f5cb99175d83d401bfd0": {
-        "title": "BMW issues a big profit warning it once again blames on China. The automaker is plotting a major strategy shift",
-        "link": "https://www.marketwatch.com/story/bmw-issues-a-big-profit-warning-it-once-again-blames-on-china-the-automaker-is-plotting-a-major-strategy-shift-d28e7428?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Jun 2026 08:11:00 GMT",
-        "first_seen": "2026-06-17T09:31:08.799795"
-      },
       "db9a158852cca04a499c86cfdaa5c5c36f98099f72d580be47a5b008b91c9be7": {
         "title": "US and Iran sign deal as Trump vows to release frozen funds and ease sanctions",
         "link": "https://www.ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37",
@@ -4035,39 +4005,33 @@
         "link": "https://www.ft.com/content/ecf0a6cc-5de2-4a48-95aa-d0a459e5aff8?syn-25a6b1a6=1",
         "published_date": "Fri, 17 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-17T07:16:13.371634"
+      },
+      "efb5e381b79f71268c2ffdb093aa4d4ffb37f19c46efb9ee1aaa9174dcaf0b52": {
+        "title": "Bad week for ‘the ants’ as ripple effects of Korean crash spread out across Asia",
+        "link": "https://www.marketwatch.com/story/bad-week-for-the-ants-as-ripple-effects-of-korean-crash-spread-out-across-asia-8a5e4a43?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Jul 2026 09:36:00 GMT",
+        "first_seen": "2026-07-17T09:54:48.031662"
+      },
+      "efda2719616f8a7d2fbf64073af68b3af6940b420d58db58dbef9238a37039a8": {
+        "title": "‘I am at a loss’: My brother is dying. We are not close. What responsibility do I have to help him?",
+        "link": "https://www.marketwatch.com/story/i-am-at-a-loss-my-brother-is-dying-we-are-not-close-what-responsibility-do-i-have-to-help-him-08af705a?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Jul 2026 09:30:00 GMT",
+        "first_seen": "2026-07-17T09:54:48.031675"
+      },
+      "2709ed1c89ab902029a94161138989d0f00eda04fad802f5f5772ae5aad5de98": {
+        "title": "Buyer snaps up Josh Duhamel’s $3 million L.A. home as actor embraces his Minnesota ‘doomsday prepper’ cabin",
+        "link": "https://www.marketwatch.com/story/buyer-snaps-up-josh-duhamels-3-million-l-a-home-as-actor-embraces-his-minnesota-doomsday-prepper-cabin-6666879e?mod=mw_rss_topstories",
+        "published_date": "Fri, 17 Jul 2026 09:01:00 GMT",
+        "first_seen": "2026-07-17T09:54:48.031678"
+      },
+      "3f57c3c7298b8c990ddd883ec8ba61dabe70b16a143e60d100b7c0507de40ae8": {
+        "title": "Global tech stocks fall as AI trade goes into reverse",
+        "link": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
+        "published_date": "Fri, 17 Jul 2026 09:29:00 GMT",
+        "first_seen": "2026-07-17T09:54:48.031680"
       }
     },
     "Ai": {
-      "525561ea8877816868d55ad13f3d9cbdc6aafd432d97c23fc7e8e6620d004b71": {
-        "title": "2026-06-17日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-17/",
-        "published_date": "Wed, 17 Jun 2026 11:06:00 GMT",
-        "first_seen": "2026-06-17T09:31:34.947293"
-      },
-      "8b8afd2c016d3f5342e5429dc85e57e9ea7943af07cc8d587522e66dea458197": {
-        "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
-        "link": "https://www.qbitai.com/2026/06/436160.html",
-        "published_date": "Wed, 17 Jun 2026 06:56:00 GMT",
-        "first_seen": "2026-06-17T09:31:34.947301"
-      },
-      "3b67e704bf93716a88ee9ab6d9477c448fe7e2c0102439992dc9404980bdcc91": {
-        "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
-        "link": "https://www.qbitai.com/2026/06/436148.html",
-        "published_date": "Wed, 17 Jun 2026 06:22:00 GMT",
-        "first_seen": "2026-06-17T09:31:34.947303"
-      },
-      "b713d17dc7ba0fd61a4e562d060d6fcd48ba8664b7b9209c48dc6664c3dbeda7": {
-        "title": "林俊旸新公司卜拉格亮相！首轮估值135亿，腾讯高榕红杉全投了",
-        "link": "https://www.qbitai.com/2026/06/436138.html",
-        "published_date": "Wed, 17 Jun 2026 06:17:00 GMT",
-        "first_seen": "2026-06-17T09:31:34.947304"
-      },
-      "3b8f14eb4224f8346af7c9f95dd73f632d9c8df934a3f866eb49aafa8efc3956": {
-        "title": "Grok 4.3现已在Amazon Bedrock上正式可用",
-        "link": "https://www.qbitai.com/2026/06/436134.html",
-        "published_date": "Wed, 17 Jun 2026 05:59:00 GMT",
-        "first_seen": "2026-06-17T09:31:34.947305"
-      },
       "26726c21151a9d92cb619b1955618f92f29dc2b0fad8e6e3e81dcce94dca1362": {
         "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
         "link": "https://www.qbitai.com/2026/06/436456.html",
@@ -5333,13 +5297,19 @@
         "link": "https://www.qbitai.com/2026/07/451691.html",
         "published_date": "Fri, 17 Jul 2026 02:41:00 GMT",
         "first_seen": "2026-07-17T07:16:32.937337"
+      },
+      "292c2fb6d30ad9405d4ab00f897bbe5d624de1dfd8bc475e134eb132ede4f559": {
+        "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
+        "link": "https://www.qbitai.com/2026/07/452914.html",
+        "published_date": "Fri, 17 Jul 2026 08:09:00 GMT",
+        "first_seen": "2026-07-17T09:55:10.943492"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-17T07:16:32.818881",
-    "Finance": "2026-07-17T07:16:13.371637",
-    "Ai": "2026-07-17T07:16:32.937339"
+    "Technology": "2026-07-17T09:55:10.821339",
+    "Finance": "2026-07-17T09:54:48.031682",
+    "Ai": "2026-07-17T09:55:10.943501"
   }
 }
