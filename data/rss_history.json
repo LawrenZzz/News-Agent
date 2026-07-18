@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cd683245b3353ed7edf673240a879aa9d9321298edefe4bfccad89941597db34": {
-        "title": "40亿元不是估值底线： 大模型公司的新“资格分界线”",
-        "link": "https://www.tmtpost.com/8033053.html",
-        "published_date": "Thu, 18 Jun 2026 15:52:00 GMT",
-        "first_seen": "2026-06-18T09:13:44.213084"
-      },
-      "f41f8e0b85d7c5d35ad81b746677987d796ff904f4161e9da856bd2e675b8992": {
-        "title": "SpaceX要让太空算力从科幻走向现实，但它划算吗？",
-        "link": "https://www.tmtpost.com/8032956.html",
-        "published_date": "Thu, 18 Jun 2026 15:05:00 GMT",
-        "first_seen": "2026-06-18T09:13:44.213097"
-      },
-      "d8ec1e0d5dddf7a3d831811928756152d8bf6055fde725f1e551ece436faa7d7": {
-        "title": "用结构替代数据，因果世界模型如何重塑具身智能大脑",
-        "link": "https://www.tmtpost.com/8033154.html",
-        "published_date": "Thu, 18 Jun 2026 14:45:00 GMT",
-        "first_seen": "2026-06-18T09:13:44.213099"
-      },
-      "c0aba9dd35caa8d56aec31b1859361cdea6862c1b10f86d49123deac2e821a31": {
-        "title": "当AI开始规模化应用，企业如何跨越“死亡之谷”？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/8033077.html",
-        "published_date": "Thu, 18 Jun 2026 13:00:00 GMT",
-        "first_seen": "2026-06-18T09:13:44.213101"
-      },
-      "ca695824856f4a1cebf5367ac40a7779d3f555413d6af33902222510b7e3947a": {
-        "title": "Chrome 推出 WebMCP 标准提案（Origin Trial）：为智能体提供原生 Web 操作能力",
-        "link": "https://www.infoq.cn/article/wCUdx4sZt94siodQI7u0?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 11:35:00 GMT",
-        "first_seen": "2026-06-18T09:13:44.213102"
-      },
       "c198e0d233e0a5b7c82609a01894abd95459f5509d0166558153a4f644a73664": {
         "title": "Transformer之父离开谷歌，奥特曼等了他十年",
         "link": "https://www.tmtpost.com/8033380.html",
@@ -2131,39 +2101,39 @@
         "link": "https://www.tmtpost.com/8069499.html",
         "published_date": "Sat, 18 Jul 2026 10:18:00 GMT",
         "first_seen": "2026-07-18T07:01:04.388296"
+      },
+      "7fa0c8eee345975c2d099b2c5d9f4960189c6c6a02bcc4083a03d5fac6a1ed80": {
+        "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
+        "link": "https://www.tmtpost.com/8070307.html",
+        "published_date": "Sat, 18 Jul 2026 15:32:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.138606"
+      },
+      "1ac3a0d6741846e132b611d5e6a8680c31eaced8bc5662422524dd0e1ad8c4af": {
+        "title": "为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.138611"
+      },
+      "1cae90a22fec942ccf660909085b76d4653b660a0bc13cf5d231940fcac44e9d": {
+        "title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
+        "link": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.138613"
+      },
+      "156d80b22c6b0dd574f0beda355feafb188da2e564e9fa55509ab0970334bb05": {
+        "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+        "link": "https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Jul 2026 08:54:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.138614"
+      },
+      "f55f7b25b5ba1900954032c96af758852141ee572ca89681ccaf84110d6b6c55": {
+        "title": "WAIC，我们看到这六个趋势",
+        "link": "https://www.tmtpost.com/8070197.html",
+        "published_date": "Sat, 18 Jul 2026 10:22:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.138615"
       }
     },
     "Finance": {
-      "9a1aece5a832d0e26946a03092b70b0c0ee55d6688dc5017584a12a5378f8d01": {
-        "title": "Inside the push to weaken Washington’s toughest financial watchdog",
-        "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 02:05:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.658340"
-      },
-      "78a23f8c57057a4cdb8ce02cad6af232a6f748907edb46bbade9052e94e3eeec": {
-        "title": "JPMorgan Chase cuts off Anthropic access for its Hong Kong staff",
-        "link": "https://www.ft.com/content/de83d303-6a03-456b-bfb9-7b11dd502ab3",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.658346"
-      },
-      "49d158f04d64ab4e6fc09ee01cf605b51e17298539c2c5340a88943dd06c0016": {
-        "title": "What is the point of Berkshire Hathaway?",
-        "link": "https://www.ft.com/content/6d48256f-dfdf-4fc0-b1ca-a38909e686eb",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.658348"
-      },
-      "1da8c2dd438021bf76da0b60a88c3d73a07bdbbb9b47fb17876ce17326ce457e": {
-        "title": "Kevin Warsh’s debut",
-        "link": "https://www.ft.com/content/2fb2e603-0934-4f99-af71-1c1d06d5be1e",
-        "published_date": "Thu, 18 Jun 2026 05:30:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.658350"
-      },
-      "1e771fd8c3303d288166c1f2855ea98682ab88b777cb5094965d50adaa294ce3": {
-        "title": "BA owner warns EU competition rules make easyJet bid ‘very difficult’",
-        "link": "https://www.ft.com/content/f435414b-a07d-457e-b3e8-946b6ae7bfea",
-        "published_date": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.658351"
-      },
       "3e88512f9a15e129a8ec4a30767d04ef12387327dc29dba97fcc98e6ceda26ec": {
         "title": "SpaceX plots $20bn bond deal after record IPO",
         "link": "https://www.ft.com/content/8b73b4ce-3855-4b89-9110-3d892567f28a",
@@ -4089,27 +4059,15 @@
         "link": "https://www.ft.com/content/6338b5eb-30d9-487f-978b-27af79d734b9?syn-25a6b1a6=1",
         "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-18T07:00:46.606081"
+      },
+      "cd5fd09ba90a0ca889a160ce43f304c7572125a2822544b5cce5a06e5216758d": {
+        "title": "German army looks to Ukraine for battlefield lessons",
+        "link": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-18T09:21:18.398390"
       }
     },
     "Ai": {
-      "695f01c1c093cd3f22a0a5446b62b06dec55f15fafb40f72652cff66b8b5fa7f": {
-        "title": "2026-06-18日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-18/",
-        "published_date": "Thu, 18 Jun 2026 11:40:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.751973"
-      },
-      "943bedbfaeffcdda18167d108258fcaa04b24ef34a8b4b2b8cf9592abefe3490": {
-        "title": "哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅",
-        "link": "https://www.qbitai.com/2026/06/436477.html",
-        "published_date": "Thu, 18 Jun 2026 05:12:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.751981"
-      },
-      "9cce4630bd72091f34289b35b635d5137f559aaa3b260f892045e6e29abeb64a": {
-        "title": "国产算力正在进入Token标准化时代",
-        "link": "https://www.qbitai.com/2026/06/436468.html",
-        "published_date": "Thu, 18 Jun 2026 01:45:00 GMT",
-        "first_seen": "2026-06-18T09:13:55.751983"
-      },
       "8554721f1d5927c6f5d9745c40db1cad8105a2dd4e7f7b080d258b583bfd4bc2": {
         "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
         "link": "https://www.qbitai.com/2026/06/436758.html",
@@ -5393,13 +5351,31 @@
         "link": "https://www.qbitai.com/2026/07/453530.html",
         "published_date": "Sat, 18 Jul 2026 03:01:00 GMT",
         "first_seen": "2026-07-18T07:01:17.941786"
+      },
+      "336be95e052336249a5a4a9b592ecf5712f3d6f80825a47e81c3173ea086f0e4": {
+        "title": "妙啊！无人机直连卫星传Token",
+        "link": "https://www.qbitai.com/2026/07/453789.html",
+        "published_date": "Sat, 18 Jul 2026 08:17:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.201657"
+      },
+      "7a37ffc575c70c987d4c82b6cb5b057861e5b4be9fce026bd18d9e8f46e34091": {
+        "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+        "link": "https://www.qbitai.com/2026/07/453705.html",
+        "published_date": "Sat, 18 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.201664"
+      },
+      "924566db9c88a17bdcb92dd73456a93eff52236962381cc211312af4e2867788": {
+        "title": "2026-07-18日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-18/",
+        "published_date": "Sat, 18 Jul 2026 11:44:00 GMT",
+        "first_seen": "2026-07-18T09:21:33.201665"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-18T07:01:04.388298",
-    "Finance": "2026-07-18T07:00:46.606083",
-    "Ai": "2026-07-18T07:01:17.941788"
+    "Technology": "2026-07-18T09:21:33.138616",
+    "Finance": "2026-07-18T09:21:18.398396",
+    "Ai": "2026-07-18T09:21:33.201667"
   }
 }
