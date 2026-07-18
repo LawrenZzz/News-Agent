@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "111838dc06abc404dd388472615782c46fa98d9b791c67a7b1fd60341c257899": {
-        "title": "SpaceX 600 亿美元收购 Cursor！马斯克不补课，直接买课代表",
-        "link": "https://www.infoq.cn/article/D9oPd77E8bEpRvpE7oM4?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 00:46:00 GMT",
-        "first_seen": "2026-06-18T00:16:32.610950"
-      },
-      "6d684d3bd24161e11a06bef4cf444882b326faa6769d7863e0cde87d3ae84d91": {
-        "title": "万亿估值前夜，OpenAI 被曝一年亏约 2600 亿",
-        "link": "https://www.infoq.cn/article/XHlhul82geYax30TcJbP?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 18 Jun 2026 00:44:00 GMT",
-        "first_seen": "2026-06-18T00:16:32.610960"
-      },
-      "5dab916552644569cf0a69f244211805eb67d15f5c87a8c11dd459cef2a96bea": {
-        "title": "“零数据”机器人来了，验证两月即可上岗！这群清华博士破局世界模型，靠“本能”让机器人上手就会",
-        "link": "https://www.infoq.cn/article/mxw8pKVvLpuF20CQJr6j?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 18:01:00 GMT",
-        "first_seen": "2026-06-18T00:16:32.610963"
-      },
-      "2ddf1805d552338d066421bb253ac7efeec51aa22483a65cf0b1b1e162ff3568": {
-        "title": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
-        "link": "https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 15:28:00 GMT",
-        "first_seen": "2026-06-18T00:16:32.610965"
-      },
-      "21dddaabf53e4be7f3e789a190f47dee4f27af6141636c9949b25307c1c2bc22": {
-        "title": "人形机器人价格大跳水，比iPhone还便宜：一场关于生产力而非形态的产业竞速",
-        "link": "https://www.infoq.cn/article/9jUgTpozqbBvjIBXiVXD?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 17 Jun 2026 10:12:00 GMT",
-        "first_seen": "2026-06-18T00:16:32.610967"
-      },
       "cd683245b3353ed7edf673240a879aa9d9321298edefe4bfccad89941597db34": {
         "title": "40亿元不是估值底线： 大模型公司的新“资格分界线”",
         "link": "https://www.tmtpost.com/8033053.html",
@@ -2131,39 +2101,39 @@
         "link": "https://www.tmtpost.com/8068255.html",
         "published_date": "Fri, 17 Jul 2026 18:37:00 GMT",
         "first_seen": "2026-07-17T23:51:03.074662"
+      },
+      "b98022490c4f17c7587ee8a911af4a55e7e16e3e9e0feb0aed113127c88e5ce9": {
+        "title": "苹果AI终于入华，但iPhone的“智能主权”开始松动",
+        "link": "https://www.tmtpost.com/8070181.html",
+        "published_date": "Sat, 18 Jul 2026 10:18:00 GMT",
+        "first_seen": "2026-07-18T07:01:04.388285"
+      },
+      "0d0f927d4852236f7243c062a02e4ab52e2359288fba3392871bbf78930f182b": {
+        "title": "中国 AI 产业核心要素出海发展白皮书",
+        "link": "https://www.infoq.cn/minibook/GSbtyU9968lerf5gwPpU?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 18 Jul 2026 12:02:00 GMT",
+        "first_seen": "2026-07-18T07:01:04.388292"
+      },
+      "dd2d5a56f553456701e2ea14cb237587cd04c086d9682c64e0396d270dd3ae7b": {
+        "title": "复旦大学联合天空智算首发天地一体化算力智能体SatAgent",
+        "link": "https://www.tmtpost.com/8070172.html",
+        "published_date": "Sat, 18 Jul 2026 10:49:00 GMT",
+        "first_seen": "2026-07-18T07:01:04.388293"
+      },
+      "a02c6888e51439c59c95ee3cd1350e1dedf3831e9a01938d57663a0d5d432a54": {
+        "title": "2026世界人工智能大会观察：算力与制造业，支撑AI脱虚向实",
+        "link": "https://www.tmtpost.com/8069767.html",
+        "published_date": "Sat, 18 Jul 2026 12:48:00 GMT",
+        "first_seen": "2026-07-18T07:01:04.388294"
+      },
+      "1d6e9fb44b3c7c570245c5a507892fd567bb2face1e2b4f3fd1e561ee7da22cf": {
+        "title": "MLCC产业通史（一）：命脉断供，英美雷达云母军工困局",
+        "link": "https://www.tmtpost.com/8069499.html",
+        "published_date": "Sat, 18 Jul 2026 10:18:00 GMT",
+        "first_seen": "2026-07-18T07:01:04.388296"
       }
     },
     "Finance": {
-      "db9a158852cca04a499c86cfdaa5c5c36f98099f72d580be47a5b008b91c9be7": {
-        "title": "US and Iran sign deal as Trump vows to release frozen funds and ease sanctions",
-        "link": "https://www.ft.com/content/d4f89b6b-c213-4550-924b-a9ae45e24c37",
-        "published_date": "Wed, 17 Jun 2026 22:41:00 GMT",
-        "first_seen": "2026-06-18T00:16:53.616066"
-      },
-      "6bfb6be45428592b7c97ff8f97eb049f49a3e258dc55dbb28979caf21b8b0cba": {
-        "title": "It’s ‘unavoidable’: Apple says it will be forced to raise prices due to the AI boom",
-        "link": "https://www.marketwatch.com/story/its-unavoidable-apple-says-it-will-be-forced-to-raise-prices-due-to-the-ai-boom-e3d1e4c4?mod=mw_rss_topstories",
-        "published_date": "Wed, 17 Jun 2026 23:19:00 GMT",
-        "first_seen": "2026-06-18T00:16:53.616073"
-      },
-      "5a21496794f90ac660358b102098ea438574f962793039abae557084c6a026e8": {
-        "title": "Fed officials tilt towards rate rise as Kevin Warsh era begins",
-        "link": "https://www.ft.com/content/f2463587-91e9-4da4-94b2-9cb9a270b74a",
-        "published_date": "Wed, 17 Jun 2026 21:12:00 GMT",
-        "first_seen": "2026-06-18T00:16:53.616075"
-      },
-      "0dfda62cd562b79e412709a16f4e82774b231e5120938465bd5d072c3bdbe8dd": {
-        "title": "Rumble gets 22,000 Nvidia chips, but the video company’s CEO insists this isn’t a fad-like pivot",
-        "link": "https://www.marketwatch.com/story/rumble-gets-22-000-nvidia-chips-but-the-video-companys-ceo-insists-this-isnt-a-fad-like-pivot-b52b2036?mod=mw_rss_topstories",
-        "published_date": "Thu, 18 Jun 2026 00:13:00 GMT",
-        "first_seen": "2026-06-18T00:16:53.616077"
-      },
-      "ca37f8ab39ddf6c77e44f9a1647f5d4f8018680eef50a1014a981575c531a7f6": {
-        "title": "Thoma Bravo hands Medallia to lenders in one of PE’s biggest losses",
-        "link": "https://www.ft.com/content/ae4b6c77-9b3d-46fb-a7fc-59f072e7291b",
-        "published_date": "Wed, 17 Jun 2026 16:30:00 GMT",
-        "first_seen": "2026-06-18T00:16:53.616079"
-      },
       "9a1aece5a832d0e26946a03092b70b0c0ee55d6688dc5017584a12a5378f8d01": {
         "title": "Inside the push to weaken Washington’s toughest financial watchdog",
         "link": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
@@ -4089,39 +4059,39 @@
         "link": "https://www.ft.com/content/55f5860b-6ef0-42ed-a87f-c49af6ef9d29",
         "published_date": "Fri, 17 Jul 2026 17:52:00 GMT",
         "first_seen": "2026-07-17T23:50:35.159039"
+      },
+      "2de4da095807807a6a3ec3224289dcee9f4dfa1abf0d67c21b3a7fea3d71bf20": {
+        "title": "Asia AI bets power record equities run for Wall Street banks",
+        "link": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-18T07:00:46.606066"
+      },
+      "65262d0c51a9076d7856ec2480e7ce0fb019e61c6ff83a6f7d2d11714a84e2e7": {
+        "title": "The next crash: why this time might not be different",
+        "link": "https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-18T07:00:46.606076"
+      },
+      "5dca28d5d0519eda82405fd5a6dca2a44e84725f547c7c58789da619c36deec5": {
+        "title": "Washington pushes EU to announce import rules rollback",
+        "link": "https://www.ft.com/content/580f2b36-1d00-40b8-a12a-cc7d7067a046?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-18T07:00:46.606078"
+      },
+      "1b7188e0f6c75b750f4cd46a31d4e4a1a1fae1513a9fbae9002b77062fe93d8b": {
+        "title": "Gibraltar land grab stirs age-old dispute with Spain",
+        "link": "https://www.ft.com/content/58d83b39-79c6-41f0-89c8-04856483d4e1?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-18T07:00:46.606079"
+      },
+      "09f1caec8aecaf536088850487ac6d319866d1bb11cac7687add45ab804fbccc": {
+        "title": "My journey down the rabbit hole at the Conspiracy World Cup",
+        "link": "https://www.ft.com/content/6338b5eb-30d9-487f-978b-27af79d734b9?syn-25a6b1a6=1",
+        "published_date": "Sat, 18 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-18T07:00:46.606081"
       }
     },
     "Ai": {
-      "26726c21151a9d92cb619b1955618f92f29dc2b0fad8e6e3e81dcce94dca1362": {
-        "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
-        "link": "https://www.qbitai.com/2026/06/436456.html",
-        "published_date": "Wed, 17 Jun 2026 13:07:00 GMT",
-        "first_seen": "2026-06-18T00:17:14.402565"
-      },
-      "57e207e14d561a40ac761d32900b6fe24810ae27138aceaab69d201785bd7c4e": {
-        "title": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
-        "link": "https://www.qbitai.com/2026/06/436213.html",
-        "published_date": "Wed, 17 Jun 2026 10:16:00 GMT",
-        "first_seen": "2026-06-18T00:17:14.402572"
-      },
-      "6616d424105f70674a51004042c94adf53a59d7e9c1752bfe285135d18b2af4f": {
-        "title": "星海图创始人高继扬：具身智能三层技术路线，没有捷径可走",
-        "link": "https://www.qbitai.com/2026/06/436223.html",
-        "published_date": "Wed, 17 Jun 2026 10:55:00 GMT",
-        "first_seen": "2026-06-18T00:17:14.402574"
-      },
-      "c01a7829fc384b1555665455591bbe184efc3711ab21099d368c23ed1ff78a9d": {
-        "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
-        "link": "https://www.qbitai.com/2026/06/436224.html",
-        "published_date": "Wed, 17 Jun 2026 10:51:00 GMT",
-        "first_seen": "2026-06-18T00:17:14.402576"
-      },
-      "e8321237a2413f2b34d5f7d5656b1a830f6e8126286ae7a4d889eda794022270": {
-        "title": "AI转型最大的门槛，不是技术，是人",
-        "link": "https://www.qbitai.com/2026/06/436435.html",
-        "published_date": "Wed, 17 Jun 2026 12:36:00 GMT",
-        "first_seen": "2026-06-18T00:17:14.402578"
-      },
       "695f01c1c093cd3f22a0a5446b62b06dec55f15fafb40f72652cff66b8b5fa7f": {
         "title": "2026-06-18日刊",
         "link": "https://hex2077.dev/docs/2026-06/2026-06-18/",
@@ -5393,13 +5363,43 @@
         "link": "https://www.qbitai.com/2026/07/452961.html",
         "published_date": "Fri, 17 Jul 2026 10:11:00 GMT",
         "first_seen": "2026-07-17T23:51:17.138996"
+      },
+      "8e1a2e664211acdf0ac28b970ea078de5a3a5f6ea8dfeb6bfd1a5c249e5dd5e2": {
+        "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
+        "link": "https://www.qbitai.com/2026/07/453617.html",
+        "published_date": "Sat, 18 Jul 2026 03:31:00 GMT",
+        "first_seen": "2026-07-18T07:01:17.941768"
+      },
+      "a0cf9ec5978220e791815a25f2caae188dcde418649b27b1ed1c80d90fd1b685": {
+        "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+        "link": "https://www.qbitai.com/2026/07/453641.html",
+        "published_date": "Sat, 18 Jul 2026 03:41:00 GMT",
+        "first_seen": "2026-07-18T07:01:17.941779"
+      },
+      "3a8c29d5452af0e03fc48fd7bfb1e49d3ce97d2d6143a262243d779f62ce9a2c": {
+        "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
+        "link": "https://www.qbitai.com/2026/07/453631.html",
+        "published_date": "Sat, 18 Jul 2026 03:39:00 GMT",
+        "first_seen": "2026-07-18T07:01:17.941781"
+      },
+      "2ce50790441a3cc625cf8a21d0889ce76461be966cc37402edda0b35fe12c7b6": {
+        "title": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+        "link": "https://www.qbitai.com/2026/07/453506.html",
+        "published_date": "Sat, 18 Jul 2026 01:17:00 GMT",
+        "first_seen": "2026-07-18T07:01:17.941784"
+      },
+      "2badcb8aea60d922cdda35dac0ee44470054cff0d081a91d7f1affa6ed2e2e51": {
+        "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
+        "link": "https://www.qbitai.com/2026/07/453530.html",
+        "published_date": "Sat, 18 Jul 2026 03:01:00 GMT",
+        "first_seen": "2026-07-18T07:01:17.941786"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-17T23:51:03.074664",
-    "Finance": "2026-07-17T23:50:35.159040",
-    "Ai": "2026-07-17T23:51:17.138997"
+    "Technology": "2026-07-18T07:01:04.388298",
+    "Finance": "2026-07-18T07:00:46.606083",
+    "Ai": "2026-07-18T07:01:17.941788"
   }
 }
