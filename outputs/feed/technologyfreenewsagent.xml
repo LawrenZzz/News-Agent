@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Jul 2026 09:21:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2026 09:21:33 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 23:51:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:52:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>算力定价权的转移——从&quot;你有多少张卡&quot;到&quot;Token成本多少&quot;</title>
-      <link>https://www.tmtpost.com/8070307.html</link>
-      <description>&lt;![CDATA[算力定价权的转移——从&quot;你有多少张卡&quot;到&quot;Token成本多少&quot;]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070307.html</guid>
+      <title>商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环</title>
+      <link>https://www.tmtpost.com/8070465.html</link>
+      <description>&lt;![CDATA[商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 20:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070465.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026 WAIC，具身首次走上神坛</title>
+      <link>https://www.tmtpost.com/8069915.html</link>
+      <description>&lt;![CDATA[2026 WAIC，具身首次走上神坛]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 09:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069915.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 智能体算力消耗过快，传统账单风控跟不上速度</title>
-      <link>https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 智能体算力消耗过快，传统账单风控跟不上速度]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&amp;utm_medium=article</guid>
+      <title>独家对话吴德周：从硬件到平台，不想再做“传统”AI眼镜</title>
+      <link>https://www.tmtpost.com/8069850.html</link>
+      <description>&lt;![CDATA[独家对话吴德周：从硬件到平台，不想再做“传统”AI眼镜]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 20:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8069850.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座</title>
-      <link>https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”</title>
+      <link>https://www.tmtpost.com/8070543.html</link>
+      <description>&lt;![CDATA[中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 21:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070543.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WAIC，我们看到这六个趋势</title>
-      <link>https://www.tmtpost.com/8070197.html</link>
-      <description>&lt;![CDATA[WAIC，我们看到这六个趋势]]&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070197.html</guid>
+      <title>天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家</title>
+      <link>https://www.tmtpost.com/8070478.html</link>
+      <description>&lt;![CDATA[天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家]]&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 20:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8070478.html</guid>
       <category>Technology</category>
     </item>
   </channel>
