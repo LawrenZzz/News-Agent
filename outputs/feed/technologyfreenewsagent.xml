@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Jul 2026 09:50:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2026 09:50:42 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 07:57:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:57:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>八位顶尖科学家一起开公司，田渊栋首揭46.5亿美元创业内幕</title>
-      <link>https://www.tmtpost.com/8070765.html</link>
-      <description>&lt;![CDATA[八位顶尖科学家一起开公司，田渊栋首揭46.5亿美元创业内幕]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 16:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070765.html</guid>
+      <title>谷歌发布A2UI v0.9：可移植、框架无关的生成式UI</title>
+      <link>https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌发布A2UI v0.9：可移植、框架无关的生成式UI]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子</title>
-      <link>https://www.tmtpost.com/8070798.html</link>
-      <description>&lt;![CDATA[SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 16:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070798.html</guid>
+      <title>GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论</title>
+      <link>https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型进不了内网之后，企业 AI 的生意才真正开始</title>
-      <link>https://www.tmtpost.com/8070771.html</link>
-      <description>&lt;![CDATA[大模型进不了内网之后，企业 AI 的生意才真正开始]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070771.html</guid>
+      <title>AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！</title>
+      <link>https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 14:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>努比亚、阶跃、荣耀，谁在定义AI手机？</title>
-      <link>https://www.tmtpost.com/8070760.html</link>
-      <description>&lt;![CDATA[努比亚、阶跃、荣耀，谁在定义AI手机？]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070760.html</guid>
+      <title>亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个</title>
+      <link>https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高校花钱查 AI，学生花钱降 AI</title>
-      <link>https://www.tmtpost.com/8070745.html</link>
-      <description>&lt;![CDATA[高校花钱查 AI，学生花钱降 AI]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 16:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8070745.html</guid>
+      <title>企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 14:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
