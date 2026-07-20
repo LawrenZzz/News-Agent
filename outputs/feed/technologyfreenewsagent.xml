@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Jul 2026 07:57:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 07:57:50 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 10:49:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:49:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌发布A2UI v0.9：可移植、框架无关的生成式UI</title>
-      <link>https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌发布A2UI v0.9：可移植、框架无关的生成式UI]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 13:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望</title>
+      <link>https://www.tmtpost.com/8068237.html</link>
+      <description>&lt;![CDATA[全球首例！中国脑机接口落地，370万名脊髓损伤患者迎来新希望]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8068237.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论</title>
-      <link>https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 14:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&amp;utm_medium=article</guid>
+      <title>K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅</title>
+      <link>https://www.tmtpost.com/8071690.html</link>
+      <description>&lt;![CDATA[K3发布48小时，服务器满载、英伟达暴跌、Anthropic连夜改订阅]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8071690.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！</title>
-      <link>https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>太空算力：当AI竞争开始延伸到地球之外</title>
+      <link>https://www.tmtpost.com/8071099.html</link>
+      <description>&lt;![CDATA[太空算力：当AI竞争开始延伸到地球之外]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8071099.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个</title>
-      <link>https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 15:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>台积电：赚钱逻辑变了</title>
+      <link>https://www.tmtpost.com/8072223.html</link>
+      <description>&lt;![CDATA[台积电：赚钱逻辑变了]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 18:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8072223.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 14:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>肝外递送拿下百亿BD！中国争夺全球话语权</title>
+      <link>https://www.tmtpost.com/8072145.html</link>
+      <description>&lt;![CDATA[肝外递送拿下百亿BD！中国争夺全球话语权]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 18:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8072145.html</guid>
       <category>Technology</category>
     </item>
   </channel>
