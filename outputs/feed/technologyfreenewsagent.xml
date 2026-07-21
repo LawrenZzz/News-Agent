@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Jul 2026 10:23:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 10:24:17 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 23:55:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:56:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>千问进苹果，大模型开始「隐身」</title>
-      <link>https://www.tmtpost.com/8073933.html</link>
-      <description>&lt;![CDATA[千问进苹果，大模型开始「隐身」]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8073933.html</guid>
+      <title>【钛晨报】IPv6技术创新和融合应用实施方案发布，部署10方面36项重点任务；证监会：持续加强市场基础制度建设，增强市场内在稳定性；北京：下半年将布局建设Token工厂，力争新增智能算力5万P</title>
+      <link>https://www.tmtpost.com/8074503.html</link>
+      <description>&lt;![CDATA[【钛晨报】IPv6技术创新和融合应用实施方案发布，部署10方面36项重点任务；证监会：持续加强市场基础制度建设，增强市场内在稳定性；北京：下半年将布局建设Token工厂，力争新增智能算力5万P]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8074503.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”</title>
-      <link>https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>印奇的手机，阶跃星辰的赌局</title>
+      <link>https://www.tmtpost.com/8071509.html</link>
+      <description>&lt;![CDATA[印奇的手机，阶跃星辰的赌局]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8071509.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛</title>
-      <link>https://www.tmtpost.com/8073956.html</link>
-      <description>&lt;![CDATA[机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8073956.html</guid>
+      <title>预售破万单，市值蒸发超200亿：情感机器人遭遇“监管与量产”双重淬火</title>
+      <link>https://www.tmtpost.com/8073975.html</link>
+      <description>&lt;![CDATA[预售破万单，市值蒸发超200亿：情感机器人遭遇“监管与量产”双重淬火]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073975.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”</title>
-      <link>https://www.tmtpost.com/8073606.html</link>
-      <description>&lt;![CDATA[对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 13:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8073606.html</guid>
+      <title>通往数据主权之路：本地优先计算面临的挑战与优先事项</title>
+      <link>https://www.infoq.cn/article/p6lR4aHNP5N7mdmw3UiJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[通往数据主权之路：本地优先计算面临的挑战与优先事项]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/p6lR4aHNP5N7mdmw3UiJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？</title>
-      <link>https://www.tmtpost.com/8071867.html</link>
-      <description>&lt;![CDATA[对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？]]&gt;</description>
+      <title>星环科技发布GPU原生数据库 试水AI Agent数据底座</title>
+      <link>https://www.tmtpost.com/8073241.html</link>
+      <description>&lt;![CDATA[星环科技发布GPU原生数据库 试水AI Agent数据底座]]&gt;</description>
       <pubDate>Tue, 21 Jul 2026 12:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8071867.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073241.html</guid>
       <category>Technology</category>
     </item>
   </channel>
