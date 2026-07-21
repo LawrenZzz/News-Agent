@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Jul 2026 07:32:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 07:33:02 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 10:23:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:24:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹</title>
-      <link>https://www.infoq.cn/article/ob3ZAxR7XI1YiJzWwb1D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[马斯克连夜开源Grok Build，但84万行代码里还留着上传用户整个代码库的痕迹]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 14:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ob3ZAxR7XI1YiJzWwb1D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>千问进苹果，大模型开始「隐身」</title>
+      <link>https://www.tmtpost.com/8073933.html</link>
+      <description>&lt;![CDATA[千问进苹果，大模型开始「隐身」]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073933.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>沿用DeepSeek架构，美国大模型开始抄中国作业</title>
-      <link>https://www.tmtpost.com/8073623.html</link>
-      <description>&lt;![CDATA[沿用DeepSeek架构，美国大模型开始抄中国作业]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8073623.html</guid>
+      <title>Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”</title>
+      <link>https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Hugging Face遭攻击后，只能靠GLM 5.2救场？白宫AI顾问急眼喊话：“我们要没竞争力了”]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 16:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xcmJWdpD1F509hxYy6N9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞</title>
-      <link>https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 将崩溃调试视为流行病学研究，修复了存在 18 之久年的 GNU libunwind 漏洞]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 09:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6aAupoiW1H6WqbR0kO7W?utm_source=rss&amp;utm_medium=article</guid>
+      <title>机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛</title>
+      <link>https://www.tmtpost.com/8073956.html</link>
+      <description>&lt;![CDATA[机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073956.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron</title>
-      <link>https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[16 万 Star 的 OpenCode 彻底重写：API 全部重做、Bun 换 Node、桌面端迁移 Electron]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6yN5sFxOqoBX2h32YtjC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”</title>
+      <link>https://www.tmtpost.com/8073606.html</link>
+      <description>&lt;![CDATA[对话小米俞之奡：从泰坦合金到电池，AI正批量制造材料“六边形战士”]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 13:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8073606.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软跟进谷歌支持 Go 语言开发 AI 智能体，OpenAI 与 Anthropic 落后一步</title>
-      <link>https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软跟进谷歌支持 Go 语言开发 AI 智能体，OpenAI 与 Anthropic 落后一步]]&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 14:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JRHq6KiOTaA3IKMUD9TZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？</title>
+      <link>https://www.tmtpost.com/8071867.html</link>
+      <description>&lt;![CDATA[对话中国电子云黄锋：90%的行业落地智能体死在Demo里，剩下10%靠什么活下来？]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8071867.html</guid>
       <category>Technology</category>
     </item>
   </channel>
