@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 22 Jul 2026 07:32:00 GMT</pubDate>
-    <lastBuildDate>Wed, 22 Jul 2026 07:33:59 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 10:21:00 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:24:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型</title>
-      <link>https://www.qbitai.com/2026/07/456178.html</link>
-      <description>&lt;![CDATA[酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 01:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456178.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣</title>
-      <link>https://www.qbitai.com/2026/07/456728.html</link>
-      <description>&lt;![CDATA[物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 03:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456728.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>我在WAIC 2026看见的十大趋势</title>
-      <link>https://www.qbitai.com/2026/07/456974.html</link>
-      <description>&lt;![CDATA[我在WAIC 2026看见的十大趋势]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 03:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456974.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>业内首款超算+智算的大规模计算底座，在WAIC上我们找到了</title>
-      <link>https://www.qbitai.com/2026/07/457054.html</link>
-      <description>&lt;![CDATA[业内首款超算+智算的大规模计算底座，在WAIC上我们找到了]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 05:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457054.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”</title>
-      <link>https://www.qbitai.com/2026/07/457049.html</link>
-      <description>&lt;![CDATA[Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”]]&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 04:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/457049.html</guid>
+      <title>2026-07-22日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-22/</link>
+      <description>&lt;![CDATA[2026-07-22日刊]]&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-22/</guid>
       <category>Ai</category>
     </item>
   </channel>
