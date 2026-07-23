@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3851c27b1d6ec3370c2e00009c4621ec863b0c1255ca55fd6a7953a3a7469e0e": {
-        "title": "中美AI对弈之下的算力难题",
-        "link": "https://www.tmtpost.com/8036519.html",
-        "published_date": "Tue, 23 Jun 2026 18:10:00 GMT",
-        "first_seen": "2026-06-23T23:55:21.011721"
-      },
-      "64bb751317e7ad26614ee43ee5fd047fa7bdca044e6085366200a52c08a9164c": {
-        "title": "【钛晨报】这些行业迎利好！九部门发文培育壮大汽车后市场消费；性能突破2EFlops，中国超算时隔九年再度登顶全球；误发地震预警，小米电视紧急致歉",
-        "link": "https://www.tmtpost.com/8038616.html",
-        "published_date": "Wed, 24 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-23T23:55:21.011732"
-      },
-      "3e8492c2eb11062b7f5a310e74af1b0e4b100d85ae7d70f7437ddd09b11e4953": {
-        "title": "Google DeepMind CEO：AGI已走在正确路上，但还缺最后一两块拼图",
-        "link": "https://www.tmtpost.com/8038028.html",
-        "published_date": "Tue, 23 Jun 2026 18:05:00 GMT",
-        "first_seen": "2026-06-23T23:55:21.011735"
-      },
-      "5f0c67f773789a5f48030de141c759f2d7275ab5a1a15d7a8548588e68aa6f7a": {
-        "title": "Meta 几周内毁掉二十年工程文化，给所有“AI 优先”公司上了一课",
-        "link": "https://www.infoq.cn/article/CuH2KDSV1bvb6btQOeRf?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Jun 2026 19:04:00 GMT",
-        "first_seen": "2026-06-23T23:55:21.011737"
-      },
-      "f2b2c198f2d3175eeb108726d64ab697482056d92e9145fe2ee0a4519d7e6baa": {
-        "title": "Loop Engineering 火了：AI Agent 开始自己干活，公司准备好背锅了吗？",
-        "link": "https://www.tmtpost.com/8036774.html",
-        "published_date": "Tue, 23 Jun 2026 12:55:00 GMT",
-        "first_seen": "2026-06-23T23:55:21.011739"
-      },
       "94d915ce373cc08ba4099930877d4eaf3685d1503512ce1abd9b4246646ff248": {
         "title": "巨头打响Context之战，重构AI护城河",
         "link": "https://www.tmtpost.com/8038497.html",
@@ -2251,39 +2221,39 @@
         "link": "https://www.tmtpost.com/8076699.html",
         "published_date": "Thu, 23 Jul 2026 16:38:00 GMT",
         "first_seen": "2026-07-23T10:21:05.836155"
+      },
+      "32c15d361eaea224352b9d436ac7e6dacd119097b6c1f8e54ebeb6f589a643b9": {
+        "title": "智源最新研究提出警报：大模型智能体可能带来生物安全风险",
+        "link": "https://www.tmtpost.com/8077514.html",
+        "published_date": "Thu, 23 Jul 2026 20:59:00 GMT",
+        "first_seen": "2026-07-23T23:57:50.217496"
+      },
+      "2443ef5fc33f9f01bb4f1a26351d49f4faa0d541c798a03c7bb601afd1f26e9d": {
+        "title": "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”",
+        "link": "https://www.tmtpost.com/8077591.html",
+        "published_date": "Thu, 23 Jul 2026 20:58:00 GMT",
+        "first_seen": "2026-07-23T23:57:50.217503"
+      },
+      "3a7a9e0a6eba06257a78fd0a21ca674d793f0f84e2f2f0577e6479f79282390a": {
+        "title": "梁文锋投资人闭门会实录（全）：DeepSeek的AGI之路与“克制”哲学",
+        "link": "https://www.tmtpost.com/8076737.html",
+        "published_date": "Thu, 23 Jul 2026 16:42:00 GMT",
+        "first_seen": "2026-07-23T23:57:50.217505"
+      },
+      "88971b575970367948e06992c135bffbc5d27534c086fade60233767d6a5231c": {
+        "title": "锂赛道弱预期压倒强现实：业绩暴增、锂价走弱、股价腰斩 | 行业风向标",
+        "link": "https://www.tmtpost.com/8077625.html",
+        "published_date": "Thu, 23 Jul 2026 21:00:00 GMT",
+        "first_seen": "2026-07-23T23:57:50.217507"
+      },
+      "0cc67bf2ad37f5d859e29c84aa25ce2bbcf98a10136db74aba5398d375ac4361": {
+        "title": "圆桌访谈：AI 产业进入新阶段了吗？",
+        "link": "https://www.infoq.cn/video/7RkQ9IXvQpwoMCPj4YiQ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 23 Jul 2026 20:00:00 GMT",
+        "first_seen": "2026-07-23T23:57:50.217508"
       }
     },
     "Finance": {
-      "5d6605cfef108dd297b80d799a536a4701e9addc63393f6d833182889fe55e0a": {
-        "title": "Alphabet’s stock is set to join the Dow, pivoting index’s industrial roots toward tech",
-        "link": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Jun 2026 23:11:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.844443"
-      },
-      "2df0748a83f26d55fb7faa108487acac1d83c1b893966ffe74402217314b07f5": {
-        "title": "Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods",
-        "link": "https://www.ft.com/content/4d3dd2b7-cb6b-410b-8c15-203904f32294",
-        "published_date": "Tue, 23 Jun 2026 23:01:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.844451"
-      },
-      "4be65bc5e1e6a0cc9b3a43ca3c06ece7128d08189128a62acb8508a63303e70b": {
-        "title": "EU allies join US pact to break reliance on Chinese AI supply chains",
-        "link": "https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc",
-        "published_date": "Tue, 23 Jun 2026 22:08:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.844453"
-      },
-      "e683db4791b8544d3816a66f8168e4da368c917efa13039ded5122731660686c": {
-        "title": "US manufacturing jobs fall at fastest rate since the pandemic",
-        "link": "https://www.ft.com/content/fbee05c0-03bb-4907-9390-ef56155a4579",
-        "published_date": "Tue, 23 Jun 2026 16:12:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.844455"
-      },
-      "ea10585770fc7f7ea3c149f6744d368bcdabdb44752ea91b59e326bdd72a7e36": {
-        "title": "SpaceX pulls off one of the biggest AI debt deals yet",
-        "link": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Jun 2026 23:14:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.844458"
-      },
       "9c92a007fd49f93f2763f003e2ad3909e33cddf189f43b84a73361082bd33142": {
         "title": "Venezuela to reveal $240bn debt pile in world’s largest restructuring",
         "link": "https://www.ft.com/content/b7f25ca2-827c-40f9-ab1a-57067d8ec90d",
@@ -4281,27 +4251,39 @@
         "link": "https://www.marketwatch.com/story/texas-instruments-shares-are-sliding-and-its-rival-is-doing-even-worse-whats-going-on-in-the-world-of-analog-semiconductors-e999a8ac?mod=mw_rss_topstories",
         "published_date": "Thu, 23 Jul 2026 08:36:00 GMT",
         "first_seen": "2026-07-23T10:20:36.950671"
+      },
+      "a2005fb860b13b6544b01c7360e5633d3f9b9ea9176cf67be37facaef0887f71": {
+        "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+        "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Jul 2026 22:03:00 GMT",
+        "first_seen": "2026-07-23T23:58:11.878329"
+      },
+      "3cf37bb71b16c0dd8be52dc807e0bcaeff48edbf948437e78fcaceafbf9f81cf": {
+        "title": "US justice department to streamline company merger reviews",
+        "link": "https://www.ft.com/content/a5c66044-8999-48a5-b9cc-51341f177930?syn-25a6b1a6=1",
+        "published_date": "Thu, 23 Jul 2026 17:56:00 GMT",
+        "first_seen": "2026-07-23T23:58:11.878336"
+      },
+      "ff0aa075d441da5293343f42f77f037f8abb63e3ec55d3c0ca1df64f20f5ba63": {
+        "title": "Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’",
+        "link": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Jul 2026 21:14:00 GMT",
+        "first_seen": "2026-07-23T23:58:11.878338"
+      },
+      "c9d3af058e69a977c09be8f258e94552e9c2073e97f61b7bfe6f2ea011254550": {
+        "title": "US hits 60 countries with new duties as Trump rebuilds tariff wall",
+        "link": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1",
+        "published_date": "Thu, 23 Jul 2026 22:59:00 GMT",
+        "first_seen": "2026-07-23T23:58:11.878340"
+      },
+      "d04d1f2f00b72f6978876d645ba5868eabc6c4ffb5028a771954983a1f8d777f": {
+        "title": "Trump’s dubious nuclear deal with Saudi Arabia",
+        "link": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a",
+        "published_date": "Thu, 23 Jul 2026 17:56:00 GMT",
+        "first_seen": "2026-07-23T23:58:11.878347"
       }
     },
     "Ai": {
-      "8db597d488d157a06461988b16484b71ffdb344551e0b89864c3b0c7a49fb623": {
-        "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
-        "link": "https://www.qbitai.com/2026/06/437694.html",
-        "published_date": "Tue, 23 Jun 2026 13:54:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.950463"
-      },
-      "f2000ff25dba735b09cc4c46598784b76f8ca11ef7a7d003129631241b9aa51f": {
-        "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
-        "link": "https://www.qbitai.com/2026/06/437672.html",
-        "published_date": "Tue, 23 Jun 2026 13:47:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.950471"
-      },
-      "59424e7c074c11d5ebdf95449ecde808a04d7c27e8f594d163f56effe2df3526": {
-        "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
-        "link": "https://www.qbitai.com/2026/06/437503.html",
-        "published_date": "Tue, 23 Jun 2026 13:37:00 GMT",
-        "first_seen": "2026-06-23T23:55:40.950473"
-      },
       "60aa2e4e6f50ee63278bbf25be1fb6afd60ae5037fdbe478d4e737e8d26a8d43": {
         "title": "刚刚，Claude Code大升级！卡帕西：LLM第三次变革",
         "link": "https://www.qbitai.com/2026/06/437734.html",
@@ -5705,13 +5687,19 @@
         "link": "https://hex2077.dev/docs/2026-07/2026-07-23/",
         "published_date": "Thu, 23 Jul 2026 11:08:00 GMT",
         "first_seen": "2026-07-23T10:21:05.965926"
+      },
+      "6e11e4b4407709b11297128a5955b913bacd4c4393cdd0997348987cf2052a14": {
+        "title": "智能体政策新闻相关背景和简要解读",
+        "link": "https://www.qbitai.com/2026/07/457787.html",
+        "published_date": "Thu, 23 Jul 2026 11:08:00 GMT",
+        "first_seen": "2026-07-23T23:57:30.574236"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-23T10:21:05.836157",
-    "Finance": "2026-07-23T10:20:36.950673",
-    "Ai": "2026-07-23T10:21:05.965929"
+    "Technology": "2026-07-23T23:57:50.217510",
+    "Finance": "2026-07-23T23:58:11.878348",
+    "Ai": "2026-07-23T23:57:30.574247"
   }
 }
