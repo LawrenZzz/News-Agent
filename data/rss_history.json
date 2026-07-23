@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3acbe236da9a56ef8b70e08087d715831811b3f1e1e3ee268d4bd422f1d61305": {
-        "title": "一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？",
-        "link": "https://www.tmtpost.com/8037455.html",
-        "published_date": "Tue, 23 Jun 2026 13:07:00 GMT",
-        "first_seen": "2026-06-23T08:29:27.725350"
-      },
-      "dd718eb41380ae6061b8571b461c5990ef26e4f5c30ca78c84e48f1f8d8eac33": {
-        "title": "OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
-        "link": "https://www.tmtpost.com/8037825.html",
-        "published_date": "Tue, 23 Jun 2026 16:10:00 GMT",
-        "first_seen": "2026-06-23T08:29:27.725358"
-      },
-      "623bc9b9fa548dc8e668373debe1595c607adf8b180277bd910eca0c5c0038e5": {
-        "title": "2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
-        "link": "https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Jun 2026 10:00:00 GMT",
-        "first_seen": "2026-06-23T08:29:27.725361"
-      },
-      "3b2081029808fc4bb9d13fe0bfca8102c11e7c03837d3677f45922226d3eba64": {
-        "title": "谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍",
-        "link": "https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Jun 2026 11:11:00 GMT",
-        "first_seen": "2026-06-23T08:29:27.725363"
-      },
-      "7c22aa1f32630db8aadd90d0d1791fd73b032ae255f0666cd17ae16ea94e3869": {
-        "title": "Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码",
-        "link": "https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Jun 2026 16:15:00 GMT",
-        "first_seen": "2026-06-23T08:29:27.725365"
-      },
       "3851c27b1d6ec3370c2e00009c4621ec863b0c1255ca55fd6a7953a3a7469e0e": {
         "title": "中美AI对弈之下的算力难题",
         "link": "https://www.tmtpost.com/8036519.html",
@@ -2251,39 +2221,39 @@
         "link": "https://www.infoq.cn/article/39UvyRHmCOs2Emx9T8Hl?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 23 Jul 2026 11:43:00 GMT",
         "first_seen": "2026-07-23T07:30:08.711759"
+      },
+      "613d1d870d9ae8763fed1c59e96f63fb2dbfbc6ab4f15273cc2cd571f09e81ad": {
+        "title": "英伟达PhysX奠基人张立华入局物理 AI，带队自研新一代物理世界模型Fysiverse｜独家",
+        "link": "https://www.tmtpost.com/8076733.html",
+        "published_date": "Thu, 23 Jul 2026 17:49:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.836141"
+      },
+      "ca3222cbb1a92f7a9325bfaf16739b716db2d7edab97fca103fa4f73c01ef587": {
+        "title": "自动驾驶迈入运行安全时代，李骏院士：AI开车车企全责，车辆终身纳入安全监管",
+        "link": "https://www.tmtpost.com/8076618.html",
+        "published_date": "Thu, 23 Jul 2026 16:22:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.836148"
+      },
+      "8939cc888a2c93267c7042112e161a0822649530416c86e689a23de147932e3a": {
+        "title": "一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节",
+        "link": "https://www.tmtpost.com/8075805.html",
+        "published_date": "Thu, 23 Jul 2026 11:48:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.836150"
+      },
+      "15dffec29d47eba4d4d865d2fb88a6004aa5acf41e40dd13849df50e7f515c2f": {
+        "title": "PrimalVerse完成数亿元种子轮融资，主攻4D世界模型基模｜独家",
+        "link": "https://www.tmtpost.com/8076725.html",
+        "published_date": "Thu, 23 Jul 2026 14:45:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.836153"
+      },
+      "4995343c6651f031f541a5f163c5000c8b4919267b7ef7e5b702db668919eaf7": {
+        "title": "谷歌加码AI投资两千亿，微软和亚马逊跟不跟？",
+        "link": "https://www.tmtpost.com/8076699.html",
+        "published_date": "Thu, 23 Jul 2026 16:38:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.836155"
       }
     },
     "Finance": {
-      "058b33bef107c009f19c493a1e3744943b8707d1651254facdee07255bc908eb": {
-        "title": "Warsh has a chance to enact lasting reform at the Fed",
-        "link": "https://www.ft.com/content/f0b24cda-de76-41c0-9464-ac1dba7633c3",
-        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-23T08:29:44.268207"
-      },
-      "369d0ee8afd57251deba378823d5a54d062193aa779995b779fa58a3bf2160ac": {
-        "title": "Big Tech leads sell-off in global stocks",
-        "link": "https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4",
-        "published_date": "Tue, 23 Jun 2026 07:21:00 GMT",
-        "first_seen": "2026-06-23T08:29:44.268213"
-      },
-      "f019abac92f4de4cc6f8e5f514dd82257fcbeb07ef0aeb01de6a8abde5fdb2ce": {
-        "title": "Citadel: the hedge fund that became an energy giant",
-        "link": "https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda",
-        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-23T08:29:44.268216"
-      },
-      "6d3e9783eaf79d5545ca6276fd787cda90c62ae789ed80d4dd6644cd46a2351d": {
-        "title": "Private equity bosses turn to carried interest loans as payouts stall",
-        "link": "https://www.ft.com/content/1fe784c5-f52c-48c0-a99e-4d1b83546c32",
-        "published_date": "Tue, 23 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-23T08:29:44.268218"
-      },
-      "51b865d1a2bf4a8e8602d69d9771cfd7b76a14b550cb2b900085c77ec31f9179": {
-        "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
-        "link": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
-        "published_date": "Tue, 23 Jun 2026 00:23:00 GMT",
-        "first_seen": "2026-06-23T08:29:44.268219"
-      },
       "5d6605cfef108dd297b80d799a536a4701e9addc63393f6d833182889fe55e0a": {
         "title": "Alphabet’s stock is set to join the Dow, pivoting index’s industrial roots toward tech",
         "link": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
@@ -4281,39 +4251,39 @@
         "link": "https://www.ft.com/content/fda9e7c8-87cd-49f8-bdf1-01adf293670f?syn-25a6b1a6=1",
         "published_date": "Thu, 23 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-23T07:29:51.873366"
+      },
+      "a89f71c0bd60469fa1d0e6ef812313b2115918bb4caccfb088bb91227d92960a": {
+        "title": "Oil price surge drives global bond sell-off",
+        "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
+        "published_date": "Thu, 23 Jul 2026 08:22:00 GMT",
+        "first_seen": "2026-07-23T10:20:36.950645"
+      },
+      "3fea6d507d3a050945b6a30abc16f858bebfe76770f3e22bd5dc63084f859051": {
+        "title": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher",
+        "link": "https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Jul 2026 09:48:00 GMT",
+        "first_seen": "2026-07-23T10:20:36.950657"
+      },
+      "e23b1bd534e5b04ae2ce73c44e604ba44fe30281b69e64344e10ee16fc88a9bc": {
+        "title": "EU fines Google €890mn in test of Trump’s threats to protect Big Tech",
+        "link": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1",
+        "published_date": "Thu, 23 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-23T10:20:36.950660"
+      },
+      "3880128c079878353b98b329701ce5a4a8db793904d861d3fa2c61858ad1348f": {
+        "title": "Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager",
+        "link": "https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Jul 2026 09:34:00 GMT",
+        "first_seen": "2026-07-23T10:20:36.950663"
+      },
+      "5180d9affdc56df1917f04354c47781b5841e14118244266d18aa63ffb761f22": {
+        "title": "Texas Instruments shares are sliding, and its rival is doing even worse. What’s going on in the world of analog semiconductors.",
+        "link": "https://www.marketwatch.com/story/texas-instruments-shares-are-sliding-and-its-rival-is-doing-even-worse-whats-going-on-in-the-world-of-analog-semiconductors-e999a8ac?mod=mw_rss_topstories",
+        "published_date": "Thu, 23 Jul 2026 08:36:00 GMT",
+        "first_seen": "2026-07-23T10:20:36.950671"
       }
     },
     "Ai": {
-      "cc26213157d8b3249ac7012e87c163d4e6d9a6efb098ab69ef78045d0e9ce408": {
-        "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
-        "link": "https://www.qbitai.com/2026/06/437382.html",
-        "published_date": "Tue, 23 Jun 2026 06:06:00 GMT",
-        "first_seen": "2026-06-23T08:29:54.360714"
-      },
-      "a00ba346b4e664741d072bdab085585c4ce2d7200d16125170b5ec730b5d1f6a": {
-        "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
-        "link": "https://www.qbitai.com/2026/06/437340.html",
-        "published_date": "Tue, 23 Jun 2026 06:02:00 GMT",
-        "first_seen": "2026-06-23T08:29:54.360720"
-      },
-      "ffe599cddee31dcc2ebc93f9130234dc2cd9d35f32a832cc82e14c8366b847b0": {
-        "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
-        "link": "https://www.qbitai.com/2026/06/437330.html",
-        "published_date": "Tue, 23 Jun 2026 00:33:00 GMT",
-        "first_seen": "2026-06-23T08:29:54.360723"
-      },
-      "23aa8eb3091546810129c801e6cf2554eb4bdcd732685945d99dd81e06dd4465": {
-        "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-        "link": "https://www.qbitai.com/2026/06/437425.html",
-        "published_date": "Tue, 23 Jun 2026 07:31:00 GMT",
-        "first_seen": "2026-06-23T08:29:54.360724"
-      },
-      "df7b6f035643ac37d60d9f322e9ff17e93d1428e5dde619d928a110158b871c8": {
-        "title": "可口可乐的世界杯TVC，居然是prompt生成的",
-        "link": "https://www.qbitai.com/2026/06/437381.html",
-        "published_date": "Tue, 23 Jun 2026 06:10:00 GMT",
-        "first_seen": "2026-06-23T08:29:54.360726"
-      },
       "8db597d488d157a06461988b16484b71ffdb344551e0b89864c3b0c7a49fb623": {
         "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
         "link": "https://www.qbitai.com/2026/06/437694.html",
@@ -5723,13 +5693,25 @@
         "link": "https://www.qbitai.com/2026/07/457694.html",
         "published_date": "Thu, 23 Jul 2026 06:58:00 GMT",
         "first_seen": "2026-07-23T07:30:26.125272"
+      },
+      "8036485507589bccfb8876c2b0781ea3fc3b0545886648c516f26ee13c31892c": {
+        "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
+        "link": "https://www.qbitai.com/2026/07/457698.html",
+        "published_date": "Thu, 23 Jul 2026 08:23:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.965917"
+      },
+      "1f975c8a91714cf925ce792235ff0827bc6fdafba5d7ef1b9b30589854a9c36e": {
+        "title": "2026-07-23日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-23/",
+        "published_date": "Thu, 23 Jul 2026 11:08:00 GMT",
+        "first_seen": "2026-07-23T10:21:05.965926"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-23T07:30:08.711761",
-    "Finance": "2026-07-23T07:29:51.873368",
-    "Ai": "2026-07-23T07:30:26.125274"
+    "Technology": "2026-07-23T10:21:05.836157",
+    "Finance": "2026-07-23T10:20:36.950673",
+    "Ai": "2026-07-23T10:21:05.965929"
   }
 }
