@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "dd679b0e42985c28feef1b2dfa47810d143208e51c7c6d5df329eb53a5aa628d": {
-        "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
-        "link": "https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Jun 2026 12:43:00 GMT",
-        "first_seen": "2026-06-25T08:24:55.928671"
-      },
-      "d811ad3dd6a0f87ce1bdf092d0ede7c659ff724d831fc56ed92f2a9521170dc1": {
-        "title": "OpenAI博通联手发芯片，黄仁勋还能保持松弛吗？",
-        "link": "https://www.tmtpost.com/8040671.html",
-        "published_date": "Thu, 25 Jun 2026 14:31:00 GMT",
-        "first_seen": "2026-06-25T08:24:55.928683"
-      },
-      "69a91876e20cb77dbf68ba2a0fbd50032debbaa936c87f3aa4a4137f2d187169": {
-        "title": "Coinbase 事后分析报告揭示：AWS 局部故障如何导致了持续数小时的交易中断",
-        "link": "https://www.infoq.cn/article/tNJCNG5TP8JoZcY9A3MZ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Jun 2026 13:35:00 GMT",
-        "first_seen": "2026-06-25T08:24:55.928686"
-      },
-      "722f73279352f12e91c7bab9000b798fcd0497737e84ff886d4e3e0571596bfa": {
-        "title": "AI 编程代理拥有了自己的 Stack Overflow",
-        "link": "https://www.infoq.cn/article/hqc2uU1TPpbMyyz2pFy8?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Jun 2026 16:00:00 GMT",
-        "first_seen": "2026-06-25T08:24:55.928688"
-      },
-      "6e2a0c9b1fa3810e61492c5ba46ff1a88afb6da9c2591829f52915286e41a93c": {
-        "title": "PostgreSQL 19 Beta 版引入 SQL 图查询和并发表重新打包功能",
-        "link": "https://www.infoq.cn/article/HOFzjxIov0SxEpmZccYT?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 25 Jun 2026 11:03:00 GMT",
-        "first_seen": "2026-06-25T08:24:55.928690"
-      },
       "72278b2e33c98c81df25457bdf501d36159e166cb612af780d43dd1a9be6b2cb": {
         "title": "【钛晨报】\"十五五\"能源规划出台：2030年非化石能源将成电量主体；IBM推出全球首款亚1纳米芯片技术；上交所半年报预约披露时间出炉，中船特气拔得头筹",
         "link": "https://www.tmtpost.com/8041868.html",
@@ -2311,39 +2281,39 @@
         "link": "https://www.tmtpost.com/8078954.html",
         "published_date": "Sat, 25 Jul 2026 10:48:00 GMT",
         "first_seen": "2026-07-25T07:14:46.688632"
+      },
+      "1d94ee7db149c41bc4fb4a384e48d8a514329c0182eab0c69f6e6ef59caab761": {
+        "title": "Anthropic发布Opus 5，性能直逼Fable 5，价格却只有一半？！",
+        "link": "https://www.tmtpost.com/8078944.html",
+        "published_date": "Sat, 25 Jul 2026 10:13:00 GMT",
+        "first_seen": "2026-07-25T09:52:53.988508"
+      },
+      "2d285cc29dcc1e2cc2ed9161b610c013a114587c501595ff25463a8e2af00fe4": {
+        "title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳",
+        "link": "https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-25T09:52:53.988516"
+      },
+      "ef5c5f5bd6a8b849049bed57efaa1dcf63aa86db2c6f0cc036cfb55aa8b1a0dd": {
+        "title": "GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍",
+        "link": "https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-25T09:52:53.988519"
+      },
+      "1565d2454cfbb1d7385fcd53f247825c5d9a43ed8f5c0558a771159d7e572968": {
+        "title": "百川智能联创全员出走，王小川孤军奋战",
+        "link": "https://www.tmtpost.com/8078868.html",
+        "published_date": "Sat, 25 Jul 2026 09:52:00 GMT",
+        "first_seen": "2026-07-25T09:52:53.988521"
+      },
+      "61a92c048f1b1d9d01d1a0032edac99a0a91cd57f7f2265f0b42c2aeee44a5eb": {
+        "title": "越疆科技过会了，但股权争议还没完",
+        "link": "https://www.tmtpost.com/8078751.html",
+        "published_date": "Sat, 25 Jul 2026 09:44:00 GMT",
+        "first_seen": "2026-07-25T09:52:53.988523"
       }
     },
     "Finance": {
-      "4b2a6032f5971d768762818d6654b6160f03db661225d34f03a06db951d3eefa": {
-        "title": "These hidden PCE inflation triggers could force a Fed rate hike — and shock the market",
-        "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
-        "published_date": "Thu, 25 Jun 2026 01:06:00 GMT",
-        "first_seen": "2026-06-25T08:25:12.802689"
-      },
-      "e965b13ed2704a81e31ec94668be50c553ac132c6292ad65e5ba89ef4e35d1b6": {
-        "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
-        "link": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories",
-        "published_date": "Thu, 25 Jun 2026 00:47:00 GMT",
-        "first_seen": "2026-06-25T08:25:12.802695"
-      },
-      "ae95ab4005e3e5af469b766c6f684445ef1c21c8d0939953f92f35fe5ea5f1e0": {
-        "title": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
-        "link": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
-        "published_date": "Thu, 25 Jun 2026 01:09:00 GMT",
-        "first_seen": "2026-06-25T08:25:12.802697"
-      },
-      "6ace65d410a32627311e0b45a831658faca1f01aad88d160ad4f5a99820db113": {
-        "title": "Oil price back at prewar levels as Gulf flows pick up",
-        "link": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719",
-        "published_date": "Thu, 25 Jun 2026 03:14:00 GMT",
-        "first_seen": "2026-06-25T08:25:12.802699"
-      },
-      "2cb740e4b01c3da5729a4d3b325a444eb75d3950e808d69f94ffcd767ba5a8f9": {
-        "title": "The reason China is building most of the world’s robots",
-        "link": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68",
-        "published_date": "Thu, 25 Jun 2026 00:51:00 GMT",
-        "first_seen": "2026-06-25T08:25:12.802701"
-      },
       "15a54a78e0883d1d21cc806d70dc2b3bead71117b2da78033b7e351a4db16176": {
         "title": "Competition intensifies for Anthropic and OpenAI ahead of IPOs",
         "link": "https://www.ft.com/content/8c02de04-5516-405b-941d-289e586d8eb8",
@@ -4401,39 +4371,21 @@
         "link": "https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1",
         "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-25T07:15:00.753872"
+      },
+      "4ad6156d94d008eb0508ae8f9393b26236054c3d8651d231a4ef470bb08c0910": {
+        "title": "Nato military HQ intern arrested on suspicion of spying",
+        "link": "https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1",
+        "published_date": "Sat, 25 Jul 2026 09:22:00 GMT",
+        "first_seen": "2026-07-25T09:52:54.034672"
+      },
+      "2db8f38d2ab5dee89cef8895cd9bead4fbd184aecb1687d96352398485132868": {
+        "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal",
+        "link": "https://www.ft.com/content/780bc4bb-1916-4fe2-ad2b-22663c66f16e?syn-25a6b1a6=1",
+        "published_date": "Sat, 25 Jul 2026 08:44:00 GMT",
+        "first_seen": "2026-07-25T09:52:54.034679"
       }
     },
     "Ai": {
-      "cd8f0f00876fb29b3f60011e6af063684e78ae362075aff884e40af6fc456f2b": {
-        "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
-        "link": "https://www.qbitai.com/2026/06/438351.html",
-        "published_date": "Thu, 25 Jun 2026 04:35:00 GMT",
-        "first_seen": "2026-06-25T08:25:30.373681"
-      },
-      "95dd79fdbc6e1bd3166e87a8ce8cff7e3196e24d61489aadd7a35e75aa75658d": {
-        "title": "不靠单款爆款吃红利，中国AI应用首现3亿ARR独角兽！腾讯顺为红杉继续加码",
-        "link": "https://www.qbitai.com/2026/06/438336.html",
-        "published_date": "Thu, 25 Jun 2026 04:29:00 GMT",
-        "first_seen": "2026-06-25T08:25:30.373688"
-      },
-      "4f4680e591b1fc829e04c5ed0336f9820d8c832ca9a022977c2f8eef412f8871": {
-        "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-        "link": "https://www.qbitai.com/2026/06/438365.html",
-        "published_date": "Thu, 25 Jun 2026 07:02:00 GMT",
-        "first_seen": "2026-06-25T08:25:30.373690"
-      },
-      "6edd9c898d4f2186a607e4a02775cc4265f6b99c35ce692f176629ac3cd07033": {
-        "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
-        "link": "https://www.qbitai.com/2026/06/438297.html",
-        "published_date": "Thu, 25 Jun 2026 02:22:00 GMT",
-        "first_seen": "2026-06-25T08:25:30.373692"
-      },
-      "5e9ac49e0ba32408d40ea6a513be55c45c2e61214643b46aad053d79189737c9": {
-        "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
-        "link": "https://www.qbitai.com/2026/06/438204.html",
-        "published_date": "Thu, 25 Jun 2026 00:32:00 GMT",
-        "first_seen": "2026-06-25T08:25:30.373694"
-      },
       "02a012ef311acd4fb90e062c985fa97e35d5215accd79bd6d9bd6c87abdff4af": {
         "title": "Optimizing cloud economics with linear elastic caching",
         "link": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
@@ -5830,8 +5782,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-25T07:14:46.688634",
-    "Finance": "2026-07-25T07:15:00.753873",
+    "Technology": "2026-07-25T09:52:53.988525",
+    "Finance": "2026-07-25T09:52:54.034682",
     "Ai": "2026-07-25T07:14:26.238170"
   }
 }
