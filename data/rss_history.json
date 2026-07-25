@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2a4281de9efa44888eb244f3aa87cd9244f5dea6ebf3fd01d465fe8c808e33ab": {
-        "title": "【钛晨报】工信部总工程师：加强新一代通信网和算力网规划建设；消息人士：高通正与字节跳动洽谈提供定制芯片设计服务；央行：6月25日开展5000亿元MLF操作",
-        "link": "https://www.tmtpost.com/8039810.html",
-        "published_date": "Thu, 25 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-25T00:09:08.412012"
-      },
-      "a538717beb996ae76c23e623e948dc38d56bf6024c247ef36a2f6f8c252bf08e": {
-        "title": "恒为科技4.67亿现金“换时间”豪赌算力新叙事，监管连夜发函",
-        "link": "https://www.tmtpost.com/8039720.html",
-        "published_date": "Wed, 24 Jun 2026 20:37:00 GMT",
-        "first_seen": "2026-06-25T00:09:08.412020"
-      },
-      "2617032628fecda1ad619be7777cf769c4ca4408b02fdf87e9f613d5edeb0df4": {
-        "title": "洞见AI液冷时代：技术破局——从风冷极限到液冷革命",
-        "link": "https://www.tmtpost.com/8038972.html",
-        "published_date": "Wed, 24 Jun 2026 18:43:00 GMT",
-        "first_seen": "2026-06-25T00:09:08.412023"
-      },
-      "bb49fcce825f8e18e3a7e5a0cfc660eb2f77db5f976221b1f5ae9211e1c1059b": {
-        "title": "为什么大量企业Agent死在原型阶段？亚马逊云科技储瑞松：Agent工程是关键",
-        "link": "https://www.infoq.cn/article/zod9SeNbe75T8YtrIcEC?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Jun 2026 17:22:00 GMT",
-        "first_seen": "2026-06-25T00:09:08.412025"
-      },
-      "785151a8ea9f2cfd45157aa97289c8528c49d2cd8b8d31adbcd102ac2a500b1f": {
-        "title": "先歌国际：低研发高毛利并存，临上会紧急删改募投｜IPO观察",
-        "link": "https://www.tmtpost.com/8037904.html",
-        "published_date": "Wed, 24 Jun 2026 15:12:00 GMT",
-        "first_seen": "2026-06-25T00:09:08.412027"
-      },
       "dd679b0e42985c28feef1b2dfa47810d143208e51c7c6d5df329eb53a5aa628d": {
         "title": "这家Agent 公司从 Claude 切到 DeepSeek v4：一年省下数百万美元，迁移工作量却是预期的 100 倍",
         "link": "https://www.infoq.cn/article/KfCaAKEXqDsmrDCxr4P1?utm_source=rss&utm_medium=article",
@@ -2311,39 +2281,39 @@
         "link": "https://www.tmtpost.com/8078009.html",
         "published_date": "Fri, 24 Jul 2026 16:55:00 GMT",
         "first_seen": "2026-07-25T00:01:39.621058"
+      },
+      "ef6bada566c0618f70720abb8c1855c0051be8e05de09ba73e22c8fc76ce4a8e": {
+        "title": "Agent手机的三条路线与一场权力游戏",
+        "link": "https://www.tmtpost.com/8078891.html",
+        "published_date": "Sat, 25 Jul 2026 10:13:00 GMT",
+        "first_seen": "2026-07-25T07:14:46.688621"
+      },
+      "86c8fa83451e13ba9956c9c749fd231f51a3435ab11f46132ee08c7e052e3ba0": {
+        "title": "黄仁勋第一次发推，就联合微软、Meta等企业给中国开源模型说好话",
+        "link": "https://www.tmtpost.com/8078942.html",
+        "published_date": "Sat, 25 Jul 2026 09:57:00 GMT",
+        "first_seen": "2026-07-25T07:14:46.688627"
+      },
+      "1b8b20a3628b51998386e2e2f07a198b46412566ed9dca30b04814f34d62de84": {
+        "title": "圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？",
+        "link": "https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Jul 2026 08:00:00 GMT",
+        "first_seen": "2026-07-25T07:14:46.688629"
+      },
+      "9d61b6ac12d47a3fe8783710a335100f88cc74ba9adf4f079ce063c6b0e009ef": {
+        "title": "Opus 5 反超 Fable 5，Anthropic 的定价牌局被打乱了？",
+        "link": "https://www.tmtpost.com/8078939.html",
+        "published_date": "Sat, 25 Jul 2026 12:15:00 GMT",
+        "first_seen": "2026-07-25T07:14:46.688631"
+      },
+      "c6e13f0aa66e3abc20d70bdafbb9f2bb4159e1e802c0d6c083150caebaa4245a": {
+        "title": "特斯拉重构资产负债表",
+        "link": "https://www.tmtpost.com/8078954.html",
+        "published_date": "Sat, 25 Jul 2026 10:48:00 GMT",
+        "first_seen": "2026-07-25T07:14:46.688632"
       }
     },
     "Finance": {
-      "2dd4112cc8024b1e43013583fd3b58da1e20d250e5416918ecf3681cd9dc960d": {
-        "title": "US banks would lose $700bn in economic crash, Fed stress tests find",
-        "link": "https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17",
-        "published_date": "Wed, 24 Jun 2026 23:49:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.241964"
-      },
-      "a5bbdc31ec11175531eddb38b6937d7af939e67d9dbc633b15d12a9d9ee2127e": {
-        "title": "Bain Capital to buy majority stake in VW’s marine engine unit in €7.4bn deal",
-        "link": "https://www.ft.com/content/b6e139a2-b499-4958-81ad-5eb0a04571dd",
-        "published_date": "Wed, 24 Jun 2026 23:00:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.241971"
-      },
-      "173e579b7c5abca25819d951e48625bbf318bf2f3b98563753b2ae281b705b33": {
-        "title": "Credible deterrence requires a new Nato bank",
-        "link": "https://www.ft.com/content/cef7b1a9-1ccc-40bd-9e87-cca118a528a3",
-        "published_date": "Wed, 24 Jun 2026 16:28:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.241973"
-      },
-      "79b90c90d6cb5b204cfe2b54d7725760ac5c5fb0898a718654e54e7df5379073": {
-        "title": "Broadcom unveils a custom chip for OpenAI as it challenges Nvidia’s dominance",
-        "link": "https://www.marketwatch.com/story/broadcom-unveils-a-custom-chip-for-openai-as-it-challenges-nvidias-dominance-b9b17dd1?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Jun 2026 21:19:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.241975"
-      },
-      "0f1bfaf74dfdea1761f59e2444a9bc950c93b4b4338b434fb73708f1e8851d48": {
-        "title": "Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude",
-        "link": "https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c",
-        "published_date": "Wed, 24 Jun 2026 21:36:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.241977"
-      },
       "4b2a6032f5971d768762818d6654b6160f03db661225d34f03a06db951d3eefa": {
         "title": "These hidden PCE inflation triggers could force a Fed rate hike — and shock the market",
         "link": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
@@ -4401,33 +4371,39 @@
         "link": "https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1",
         "published_date": "Fri, 24 Jul 2026 21:26:00 GMT",
         "first_seen": "2026-07-25T00:01:58.140039"
+      },
+      "9ccbf50a9f19531b23bd6360d5756c13c83cc43c6ef2f19f035cedf4da638957": {
+        "title": "India and South Africa lead push to amass emergency fuel stockpiles",
+        "link": "https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1",
+        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-25T07:15:00.753862"
+      },
+      "6d25834967119bba448a63ac5170fa88b803ab41ce6e83caf9bc818664594337": {
+        "title": "India’s ‘Cockroach’ Gen Z has had enough",
+        "link": "https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37",
+        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-25T07:15:00.753867"
+      },
+      "57e6b378443318f2454cb5376642a8dbdaec34fee787207a8245c68567fee6dd": {
+        "title": "France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread",
+        "link": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
+        "published_date": "Sat, 25 Jul 2026 06:04:00 GMT",
+        "first_seen": "2026-07-25T07:15:00.753869"
+      },
+      "10ad90b1826f4be886879b917cff84895f4d2477a92409caa673970e64e441f9": {
+        "title": "Why this philosopher turned down Anthropic",
+        "link": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
+        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-25T07:15:00.753871"
+      },
+      "73d1d8562f014091bf6bf1437ca7d928376251d4ab119fa8ff81e5bfb24189e7": {
+        "title": "Andy Burnham’s regional privilege",
+        "link": "https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1",
+        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-25T07:15:00.753872"
       }
     },
     "Ai": {
-      "bdb19b520b5fffe9efb34015eee1c154bc6e9bd0703e790da18d27c1dc642c76": {
-        "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
-        "link": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
-        "published_date": "Wed, 24 Jun 2026 16:51:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.367810"
-      },
-      "466cf833431daa9af7c6657d8539f69bfa7871778ef7c7d26d9d569ec5a9f8ef": {
-        "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
-        "link": "https://www.qbitai.com/2026/06/438174.html",
-        "published_date": "Wed, 24 Jun 2026 11:09:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.367818"
-      },
-      "9b6ea8f506b7ad0d8bbc4579057c279eccf5b53a27817b29d5f2c1f70c20fa86": {
-        "title": "1小时真机RL微调成功率破95%！HIL-ResRL：即插即用的VLA“外挂”神器",
-        "link": "https://www.qbitai.com/2026/06/438166.html",
-        "published_date": "Wed, 24 Jun 2026 10:38:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.367820"
-      },
-      "dca937d7908b8c967256ca6acd78e96b122a2622edbc554d8fbdf2b801b7fab7": {
-        "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
-        "link": "https://www.qbitai.com/2026/06/438157.html",
-        "published_date": "Wed, 24 Jun 2026 09:58:00 GMT",
-        "first_seen": "2026-06-25T00:09:37.367822"
-      },
       "cd8f0f00876fb29b3f60011e6af063684e78ae362075aff884e40af6fc456f2b": {
         "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
         "link": "https://www.qbitai.com/2026/06/438351.html",
@@ -5843,13 +5819,19 @@
         "link": "https://www.qbitai.com/2026/07/460042.html",
         "published_date": "Fri, 24 Jul 2026 11:10:00 GMT",
         "first_seen": "2026-07-25T00:01:18.900162"
+      },
+      "fa95cdd9e4ed72b4a3d44e324ed0bf298da0968b25affc949fb14123a8332250": {
+        "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+        "link": "https://www.qbitai.com/2026/07/460174.html",
+        "published_date": "Sat, 25 Jul 2026 03:21:00 GMT",
+        "first_seen": "2026-07-25T07:14:26.238162"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-25T00:01:39.621061",
-    "Finance": "2026-07-25T00:01:58.140040",
-    "Ai": "2026-07-25T00:01:18.900164"
+    "Technology": "2026-07-25T07:14:46.688634",
+    "Finance": "2026-07-25T07:15:00.753873",
+    "Ai": "2026-07-25T07:14:26.238170"
   }
 }
