@@ -2341,6 +2341,36 @@
         "link": "https://www.tmtpost.com/8081960.html",
         "published_date": "Tue, 28 Jul 2026 17:32:00 GMT",
         "first_seen": "2026-07-28T10:32:52.267699"
+      },
+      "326720e1c97f165823ea196889d3026ffd16517ef7017f25010e83bd4cad6c35": {
+        "title": "月耗万亿Token：金山办公为什么不自己训练大模型",
+        "link": "https://www.tmtpost.com/8081855.html",
+        "published_date": "Tue, 28 Jul 2026 12:18:00 GMT",
+        "first_seen": "2026-07-28T23:57:53.889902"
+      },
+      "d45b50dfb467aa45c31dab4924aa542d5b3813006e96b29d9ea6bf3c6a6bd359": {
+        "title": "硅谷开始在大模型上“消费降级”了",
+        "link": "https://www.tmtpost.com/8082154.html",
+        "published_date": "Tue, 28 Jul 2026 18:52:00 GMT",
+        "first_seen": "2026-07-28T23:57:53.889912"
+      },
+      "7203d4e02e73cffd5bcb8b391411b9e5bcee94d92600f2221c0c0c7be6d46d4d": {
+        "title": "豪掷50亿美元！离开OpenAI后，他拿下黄仁勋投资",
+        "link": "https://www.tmtpost.com/8082304.html",
+        "published_date": "Tue, 28 Jul 2026 18:52:00 GMT",
+        "first_seen": "2026-07-28T23:57:53.889914"
+      },
+      "2cead15ff025d79a1eead9d8ff99ea7bf3aeb4e2dd8df0b4899f120250934c5c": {
+        "title": "傍上Anthropic，比特币矿厂咸鱼翻身了？",
+        "link": "https://www.tmtpost.com/8081830.html",
+        "published_date": "Tue, 28 Jul 2026 19:01:00 GMT",
+        "first_seen": "2026-07-28T23:57:53.889915"
+      },
+      "82d87bf0e3bc2421064c5551a20c264fab9db8f67de4fc26aaa1941e732e5435": {
+        "title": "基因治疗，与18岁少年之死",
+        "link": "https://www.tmtpost.com/8081670.html",
+        "published_date": "Tue, 28 Jul 2026 11:17:00 GMT",
+        "first_seen": "2026-07-28T23:57:53.889917"
       }
     },
     "Finance": {
@@ -4437,6 +4467,36 @@
         "link": "https://www.marketwatch.com/story/she-is-on-medicaid-my-sick-friend-pleaded-with-me-to-be-her-executor-can-i-decline-after-she-dies-135129d3?mod=mw_rss_topstories",
         "published_date": "Tue, 28 Jul 2026 10:15:00 GMT",
         "first_seen": "2026-07-28T10:33:01.358153"
+      },
+      "a2a1461a57ffb3a9f0108acfbbfb9580dda21a1b0f2576ad565faca030bbe99d": {
+        "title": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+        "link": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 20:54:00 GMT",
+        "first_seen": "2026-07-28T23:58:12.349035"
+      },
+      "ff5837ca536981279e2360841fd2cfac7c50f712bbf984107e39ced75655aeed": {
+        "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
+        "link": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 23:18:00 GMT",
+        "first_seen": "2026-07-28T23:58:12.349041"
+      },
+      "586439c29a82177ffe9758c2048444e0424a7d7721e68cbd8ec91f3b54eaa6dd": {
+        "title": "World’s biggest EV battery maker pivots to AI, grids and ships",
+        "link": "https://www.ft.com/content/13351971-76dd-4284-a81e-3ffd8ec4e351?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 21:00:00 GMT",
+        "first_seen": "2026-07-28T23:58:12.349043"
+      },
+      "ce8e8594e2afa251c5f58e7140ecd137f309ef7fb1dfdcdaa2d8ef6b0422b614": {
+        "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
+        "link": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 22:06:00 GMT",
+        "first_seen": "2026-07-28T23:58:12.349045"
+      },
+      "626958e05515e9a9fc237ba1dd2edc2aba4710ad2e1344626d0c98f47a2a21ef": {
+        "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
+        "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 21:08:00 GMT",
+        "first_seen": "2026-07-28T23:58:12.349046"
       }
     },
     "Ai": {
@@ -5848,8 +5908,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-28T10:32:52.267701",
-    "Finance": "2026-07-28T10:33:01.358155",
+    "Technology": "2026-07-28T23:57:53.889918",
+    "Finance": "2026-07-28T23:58:12.349048",
     "Ai": "2026-07-28T10:32:25.320111"
   }
 }

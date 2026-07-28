@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Jul 2026 10:32:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 10:32:52 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 23:57:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:57:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kimi K3 开源：2.8 万亿参数的门槛与红利</title>
-      <link>https://www.tmtpost.com/8081260.html</link>
-      <description>&lt;![CDATA[Kimi K3 开源：2.8 万亿参数的门槛与红利]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081260.html</guid>
+      <title>月耗万亿Token：金山办公为什么不自己训练大模型</title>
+      <link>https://www.tmtpost.com/8081855.html</link>
+      <description>&lt;![CDATA[月耗万亿Token：金山办公为什么不自己训练大模型]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 12:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081855.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星</title>
-      <link>https://www.tmtpost.com/8082130.html</link>
-      <description>&lt;![CDATA[撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 17:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8082130.html</guid>
+      <title>硅谷开始在大模型上“消费降级”了</title>
+      <link>https://www.tmtpost.com/8082154.html</link>
+      <description>&lt;![CDATA[硅谷开始在大模型上“消费降级”了]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 18:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8082154.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从Token到Action：北京走进物理AI时刻</title>
-      <link>https://www.tmtpost.com/8081728.html</link>
-      <description>&lt;![CDATA[从Token到Action：北京走进物理AI时刻]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081728.html</guid>
+      <title>豪掷50亿美元！离开OpenAI后，他拿下黄仁勋投资</title>
+      <link>https://www.tmtpost.com/8082304.html</link>
+      <description>&lt;![CDATA[豪掷50亿美元！离开OpenAI后，他拿下黄仁勋投资]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 18:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8082304.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI人事变阵：阿里收权，腾讯整军，字节留人</title>
-      <link>https://www.tmtpost.com/8081194.html</link>
-      <description>&lt;![CDATA[AI人事变阵：阿里收权，腾讯整军，字节留人]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081194.html</guid>
+      <title>傍上Anthropic，比特币矿厂咸鱼翻身了？</title>
+      <link>https://www.tmtpost.com/8081830.html</link>
+      <description>&lt;![CDATA[傍上Anthropic，比特币矿厂咸鱼翻身了？]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081830.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值</title>
-      <link>https://www.tmtpost.com/8081960.html</link>
-      <description>&lt;![CDATA[希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 17:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081960.html</guid>
+      <title>基因治疗，与18岁少年之死</title>
+      <link>https://www.tmtpost.com/8081670.html</link>
+      <description>&lt;![CDATA[基因治疗，与18岁少年之死]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081670.html</guid>
       <category>Technology</category>
     </item>
   </channel>
