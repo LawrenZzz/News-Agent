@@ -2311,6 +2311,36 @@
         "link": "https://www.tmtpost.com/8080916.html",
         "published_date": "Mon, 27 Jul 2026 22:06:00 GMT",
         "first_seen": "2026-07-28T00:01:20.894328"
+      },
+      "90736f30aed0c1422d78593a62b039f06256fd3353043209da51be7d84f9aad8": {
+        "title": "英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流",
+        "link": "https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 11:22:00 GMT",
+        "first_seen": "2026-07-28T07:37:46.181818"
+      },
+      "263ec9d637226c77de6353d708f20e4e88900e5946fe489356082742a28e21ea": {
+        "title": "武汉也在憋大招，8000亿的国产海力士要来了",
+        "link": "https://www.tmtpost.com/8081171.html",
+        "published_date": "Tue, 28 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-28T07:37:46.181824"
+      },
+      "2a600f97b7e1e6a8dbabb3d235369d4732360e10c05e7f21506987d9b75999bc": {
+        "title": "谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”",
+        "link": "https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Jul 2026 14:00:00 GMT",
+        "first_seen": "2026-07-28T07:37:46.181826"
+      },
+      "b7b82c63ade4711f1d44084edc2fe4ddc3f08e5cb6eb5e12667508859098e03f": {
+        "title": "AMD，撬动AI芯片的旧格局？",
+        "link": "https://www.tmtpost.com/8076049.html",
+        "published_date": "Tue, 28 Jul 2026 09:30:00 GMT",
+        "first_seen": "2026-07-28T07:37:46.181827"
+      },
+      "7fda25fa62cb63c7830e54246b9b7e95ecd93bc9fd1cabfd7ceef24dc4f4b7ee": {
+        "title": "AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？",
+        "link": "https://www.tmtpost.com/8081053.html",
+        "published_date": "Tue, 28 Jul 2026 10:51:00 GMT",
+        "first_seen": "2026-07-28T07:37:46.181829"
       }
     },
     "Finance": {
@@ -4377,6 +4407,36 @@
         "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
         "published_date": "Mon, 27 Jul 2026 21:03:00 GMT",
         "first_seen": "2026-07-28T00:01:50.482047"
+      },
+      "cd977a2030bc2d573c98f5cb08513af9c784230b81dfa632b309cf79d4faccb8": {
+        "title": "AI stock sell-off deepens as investors dump chipmakers",
+        "link": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 07:24:00 GMT",
+        "first_seen": "2026-07-28T07:37:55.815269"
+      },
+      "7112662ccf801a348d5f965d7b5728bd118a8f70c9a5edd6fb63d157369cdde3": {
+        "title": "Nvidia behind $50bn lease on Texas data centre that will use its chips",
+        "link": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-28T07:37:55.815275"
+      },
+      "9be15b6e9308b95d807118a875d3b449ded9660b5832f11870add73817df7d8f": {
+        "title": "TotalEnergies benefits from EU sanctions reprieve on Russian gas",
+        "link": "https://www.ft.com/content/0ee947e4-0b2a-48e4-93de-2c7985662f14?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-28T07:37:55.815277"
+      },
+      "85e3d39a22a7e14101e8e5931db2f4146fa79277e67aaeeb0f9a8bd4bada9c38": {
+        "title": "EU hesitates to target Irish plant accused of supplying Russia’s war industry",
+        "link": "https://www.ft.com/content/ef7ff634-b738-4975-91b5-2edffc51da68?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-28T07:37:55.815294"
+      },
+      "a91e88143b0d8ce8805b33e679fcb7b1e04615644eee34b118a68b81bd8ce99c": {
+        "title": "The UAE’s bold gambit on Iran",
+        "link": "https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 04:00:00 GMT",
+        "first_seen": "2026-07-28T07:37:55.815297"
       }
     },
     "Ai": {
@@ -5753,13 +5813,43 @@
         "link": "https://www.qbitai.com/2026/07/461392.html",
         "published_date": "Mon, 27 Jul 2026 08:54:00 GMT",
         "first_seen": "2026-07-28T00:00:52.680398"
+      },
+      "3b5e7e3e4363bd37efe61619e361935c334a2368b114d313f7abbb95d7a6224f": {
+        "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+        "link": "https://www.qbitai.com/2026/07/461911.html",
+        "published_date": "Tue, 28 Jul 2026 05:46:00 GMT",
+        "first_seen": "2026-07-28T07:37:25.141622"
+      },
+      "5caf1e1e7f756758df12c1d91ad040dc714d9f4f8d454d6025e7af31f3137180": {
+        "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+        "link": "https://www.qbitai.com/2026/07/461827.html",
+        "published_date": "Tue, 28 Jul 2026 05:25:00 GMT",
+        "first_seen": "2026-07-28T07:37:25.141631"
+      },
+      "236b35469e61eed57756930ed79166504bbcf417fb0cb3f93d0388049cb36341": {
+        "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+        "link": "https://www.qbitai.com/2026/07/461650.html",
+        "published_date": "Tue, 28 Jul 2026 04:18:00 GMT",
+        "first_seen": "2026-07-28T07:37:25.141633"
+      },
+      "e8e44e5ebdd8a99834d951577bac92d4d2690aeb96910da7e47ba7cf74707707": {
+        "title": "智能体走向终端，个人AI时代正在到来",
+        "link": "https://www.qbitai.com/2026/07/461565.html",
+        "published_date": "Tue, 28 Jul 2026 01:38:00 GMT",
+        "first_seen": "2026-07-28T07:37:25.141634"
+      },
+      "c9bff0f8591e87d22fa5d125b8ed3a714cfd4ac9627a4a025fdaf273addfc09f": {
+        "title": "突发，翁荔离职Thinking Machines",
+        "link": "https://www.qbitai.com/2026/07/461517.html",
+        "published_date": "Tue, 28 Jul 2026 01:21:00 GMT",
+        "first_seen": "2026-07-28T07:37:25.141636"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-28T00:01:20.894331",
-    "Finance": "2026-07-28T00:01:50.482049",
-    "Ai": "2026-07-28T00:00:52.680401"
+    "Technology": "2026-07-28T07:37:46.181831",
+    "Finance": "2026-07-28T07:37:55.815298",
+    "Ai": "2026-07-28T07:37:25.141637"
   }
 }
