@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ea5e80b72701c0896e61e9e79dce7ef05f234b20a76d9f51403a5b5d2336e81a": {
-        "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
-        "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Jun 2026 11:06:00 GMT",
-        "first_seen": "2026-06-28T08:20:36.515128"
-      },
-      "1c6e66105a63d925232ef8790cabbad089f3d381fa63df860e571ff90ad6a31c": {
-        "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
-        "link": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Jun 2026 14:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:36.515140"
-      },
-      "c31c46f16b05d695186f1d6d565684823764ce92f6c1a46125afbcdc4126377f": {
-        "title": "Rokid发布智能眼镜AIOS YodaOS，称行业尚处“BlackBerry时代”",
-        "link": "https://www.tmtpost.com/8044056.html",
-        "published_date": "Sun, 28 Jun 2026 10:23:00 GMT",
-        "first_seen": "2026-06-28T08:20:36.515142"
-      },
-      "7d22ef029edda19eb2dd51621c7425ce0bdf4bad0e58c110ee934e8c1323a2a9": {
-        "title": "GitLab 19.0将Agentic AI嵌入凭证、合并请求与供应链安全",
-        "link": "https://www.infoq.cn/article/ICdHZotGllYog0ocIrxA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 28 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:36.515144"
-      },
-      "0f27d4ef1735441b2722ea7b9ea61d69890a624f7d090be508ed88cf560c905e": {
-        "title": "急眼的Anthropic炒作蒸馏，背后是叙事权之战",
-        "link": "https://www.tmtpost.com/8043972.html",
-        "published_date": "Sun, 28 Jun 2026 08:22:00 GMT",
-        "first_seen": "2026-06-28T08:20:36.515146"
-      },
       "d6936a0da0bfc55678053390f485a06a02397b30775329d5c023fd44bb127947": {
         "title": "从手机到云端AI：高通如何撕开英伟达垄断缺口？",
         "link": "https://www.tmtpost.com/8044290.html",
@@ -2341,39 +2311,39 @@
         "link": "https://www.tmtpost.com/8081053.html",
         "published_date": "Tue, 28 Jul 2026 10:51:00 GMT",
         "first_seen": "2026-07-28T07:37:46.181829"
+      },
+      "28ef3715e5bd90e872446f9ab69f41396bea48ff67433dd03b7c7d82798b7843": {
+        "title": "Kimi K3 开源：2.8 万亿参数的门槛与红利",
+        "link": "https://www.tmtpost.com/8081260.html",
+        "published_date": "Tue, 28 Jul 2026 18:15:00 GMT",
+        "first_seen": "2026-07-28T10:32:52.267684"
+      },
+      "1af8735f3d22c178d092c524fb26c4ffb9620d96184d606c926003d860a491ca": {
+        "title": "撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星",
+        "link": "https://www.tmtpost.com/8082130.html",
+        "published_date": "Tue, 28 Jul 2026 17:01:00 GMT",
+        "first_seen": "2026-07-28T10:32:52.267692"
+      },
+      "558b14f6446700751012670cf4c31d1948d92146c17dac4288bb57692f0f3b7a": {
+        "title": "从Token到Action：北京走进物理AI时刻",
+        "link": "https://www.tmtpost.com/8081728.html",
+        "published_date": "Tue, 28 Jul 2026 13:08:00 GMT",
+        "first_seen": "2026-07-28T10:32:52.267695"
+      },
+      "8a09435b3a005ccd29186bc6882a48620d4515bbc4dd757a889922df87a5dce8": {
+        "title": "AI人事变阵：阿里收权，腾讯整军，字节留人",
+        "link": "https://www.tmtpost.com/8081194.html",
+        "published_date": "Tue, 28 Jul 2026 18:15:00 GMT",
+        "first_seen": "2026-07-28T10:32:52.267697"
+      },
+      "4f9130605499b34c3873c2f53bd7b6deafa4668c8003530b3abdbeb99b63b042": {
+        "title": "希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值",
+        "link": "https://www.tmtpost.com/8081960.html",
+        "published_date": "Tue, 28 Jul 2026 17:32:00 GMT",
+        "first_seen": "2026-07-28T10:32:52.267699"
       }
     },
     "Finance": {
-      "49d7d05e32be4f5576952e06234ab92e69042add4341ac343c1485a91f55763a": {
-        "title": "Bond giant Pimco flexes muscles with private placements push",
-        "link": "https://www.ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
-        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:49.012648"
-      },
-      "12db2b8dc40ab2c9a6e66c1b5c5c464b194dc23ba31eb3b9573350dfb1c69853": {
-        "title": "Mines will hold back Strait of Hormuz shipping for months, CEO warns",
-        "link": "https://www.ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45",
-        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:49.012657"
-      },
-      "e2222fc22dfdcfeb2c04052fe93216c8ba03bb8642c0916d9684cb8746a0f078": {
-        "title": "Google caps Meta’s Gemini use as AI demand strains capacity",
-        "link": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
-        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:49.012659"
-      },
-      "bfa63888d8cbf2d144fc56e2db19bd91978f48db5eaaf6cb277b7a03884c9175": {
-        "title": "Apple to fight $500mn patent bill at UK Supreme Court",
-        "link": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
-        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:49.012661"
-      },
-      "e9130f37f4f45f33da63cf053c46479b0172dc71583dda155ee8860193b05449": {
-        "title": "America seeks its McDonald’s model for missile making",
-        "link": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51",
-        "published_date": "Sun, 28 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-28T08:20:49.012663"
-      },
       "c86354e04c66f1ee3361e8d2367a270ad861bf074e3e516d714609ff85d9cdbe": {
         "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns",
         "link": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
@@ -4437,15 +4407,39 @@
         "link": "https://www.ft.com/content/6d2d0b89-0d26-4e49-8e52-a53bdc178974?syn-25a6b1a6=1",
         "published_date": "Tue, 28 Jul 2026 04:00:00 GMT",
         "first_seen": "2026-07-28T07:37:55.815297"
+      },
+      "b367b811f40deae1d108c708ddf3d30c3bc88d35494f4963484c6fd3c154f165": {
+        "title": "‘Picks and shovels’ trade comes unstuck as AI hardware stocks plunge on competitive threat from China",
+        "link": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 10:16:00 GMT",
+        "first_seen": "2026-07-28T10:33:01.358140"
+      },
+      "4673a07c66fb4c5f75cd9a09ae8e6332c4dcf49c4cc6e78191a45989fe14b9b6": {
+        "title": "Zelenskyy returns to Oval Office as Trump shifts towards Ukraine",
+        "link": "https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1",
+        "published_date": "Tue, 28 Jul 2026 09:13:00 GMT",
+        "first_seen": "2026-07-28T10:33:01.358147"
+      },
+      "66b2e2e1df303e3ecaef0c02ba7dfc94ec74b5a6e737f986de8972238591c34a": {
+        "title": "My financial adviser is against a withdrawal plan for my $2.3 million portfolio. Is he making a mistake?",
+        "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 10:15:00 GMT",
+        "first_seen": "2026-07-28T10:33:01.358150"
+      },
+      "1025735ec49381cb416fefca9c337a9cf4005663b1769c02797af081830d052d": {
+        "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+        "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 09:15:00 GMT",
+        "first_seen": "2026-07-28T10:33:01.358152"
+      },
+      "0c102c9e2bd5f38f4b62b51d208d4f6e61ddf1f997d7a7a2027dd679bf1cfbbe": {
+        "title": "‘She is on Medicaid’: My sick friend pleaded with me to be her executor. Can I decline after she dies?",
+        "link": "https://www.marketwatch.com/story/she-is-on-medicaid-my-sick-friend-pleaded-with-me-to-be-her-executor-can-i-decline-after-she-dies-135129d3?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Jul 2026 10:15:00 GMT",
+        "first_seen": "2026-07-28T10:33:01.358153"
       }
     },
     "Ai": {
-      "9c77e5a959ad0c83387f42c3569bf5be6238cfd4a4e8d95aaa6b48746b3b248d": {
-        "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
-        "link": "https://www.qbitai.com/2026/06/439464.html",
-        "published_date": "Sun, 28 Jun 2026 06:04:00 GMT",
-        "first_seen": "2026-06-28T08:20:49.121127"
-      },
       "bb582347ab779886c229b85c1c41aaa122782ac54fa3ce9125c800e5fdc46c70": {
         "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
         "link": "https://www.qbitai.com/2026/06/439603.html",
@@ -5843,13 +5837,19 @@
         "link": "https://www.qbitai.com/2026/07/461517.html",
         "published_date": "Tue, 28 Jul 2026 01:21:00 GMT",
         "first_seen": "2026-07-28T07:37:25.141636"
+      },
+      "e779fc74905f641f6103dc3715417598e1693e8e7611bb534eeeca9af36b1cac": {
+        "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+        "link": "https://www.qbitai.com/2026/07/461949.html",
+        "published_date": "Tue, 28 Jul 2026 08:17:00 GMT",
+        "first_seen": "2026-07-28T10:32:25.320100"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-28T07:37:46.181831",
-    "Finance": "2026-07-28T07:37:55.815298",
-    "Ai": "2026-07-28T07:37:25.141637"
+    "Technology": "2026-07-28T10:32:52.267701",
+    "Finance": "2026-07-28T10:33:01.358155",
+    "Ai": "2026-07-28T10:32:25.320111"
   }
 }

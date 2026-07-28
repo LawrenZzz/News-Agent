@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Jul 2026 07:37:00 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 07:37:46 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 10:32:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:32:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流</title>
-      <link>https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kimi K3 开源：2.8 万亿参数的门槛与红利</title>
+      <link>https://www.tmtpost.com/8081260.html</link>
+      <description>&lt;![CDATA[Kimi K3 开源：2.8 万亿参数的门槛与红利]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081260.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>武汉也在憋大招，8000亿的国产海力士要来了</title>
-      <link>https://www.tmtpost.com/8081171.html</link>
-      <description>&lt;![CDATA[武汉也在憋大招，8000亿的国产海力士要来了]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081171.html</guid>
+      <title>撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星</title>
+      <link>https://www.tmtpost.com/8082130.html</link>
+      <description>&lt;![CDATA[撕开铁幕：一家中国DRAM公司如何用三星的方式挑战三星]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8082130.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”</title>
-      <link>https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌 AlphaEvolve 正式上线，提供“进化式代码优化即服务”]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3UKNEJewovoQDcN0jpoy?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Token到Action：北京走进物理AI时刻</title>
+      <link>https://www.tmtpost.com/8081728.html</link>
+      <description>&lt;![CDATA[从Token到Action：北京走进物理AI时刻]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081728.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AMD，撬动AI芯片的旧格局？</title>
-      <link>https://www.tmtpost.com/8076049.html</link>
-      <description>&lt;![CDATA[AMD，撬动AI芯片的旧格局？]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076049.html</guid>
+      <title>AI人事变阵：阿里收权，腾讯整军，字节留人</title>
+      <link>https://www.tmtpost.com/8081194.html</link>
+      <description>&lt;![CDATA[AI人事变阵：阿里收权，腾讯整军，字节留人]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 18:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081194.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？</title>
-      <link>https://www.tmtpost.com/8081053.html</link>
-      <description>&lt;![CDATA[AI越懂你，风险越大：长期记忆为何成为情感大模型的第一道生死线？]]&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 10:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081053.html</guid>
+      <title>希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值</title>
+      <link>https://www.tmtpost.com/8081960.html</link>
+      <description>&lt;![CDATA[希音IPO：从“小单快返”读懂全球最大时尚目的地的长期价值]]&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 17:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081960.html</guid>
       <category>Technology</category>
     </item>
   </channel>
