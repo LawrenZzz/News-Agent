@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e6a9f8ade742c33d6d8ed66046bf7add56094382220a151a866eeaab08d0a186": {
-        "title": "【数智周报】DeepSeek：计划将所有部门的规模扩大至少一倍；黄仁勋股东大会放言：本轮AI基建周期长达数十年；字节豆包Seedance 2.5将在7月初正式发布",
-        "link": "https://www.tmtpost.com/8043821.html",
-        "published_date": "Sat, 27 Jun 2026 16:44:00 GMT",
-        "first_seen": "2026-06-27T10:04:43.479425"
-      },
-      "416303f34cdd18c7a37a44b0d4c1316d574afb83e83a55ab237577aed3b49209": {
-        "title": "美光发财报，存储大门彻底被打开",
-        "link": "https://www.tmtpost.com/8043185.html",
-        "published_date": "Sat, 27 Jun 2026 09:15:00 GMT",
-        "first_seen": "2026-06-27T10:04:43.479434"
-      },
-      "e79a84779f5cdae734ed2e54584a950d9ca9a3548a4f470c730d8bd5185d03e5": {
-        "title": "AI 创业者还没赚钱，先被自己的用户用破产了",
-        "link": "https://www.tmtpost.com/8043335.html",
-        "published_date": "Sat, 27 Jun 2026 09:36:00 GMT",
-        "first_seen": "2026-06-27T10:04:43.479436"
-      },
-      "16061b6f3cdfa5920851fb4da73559b23850f4f5063267bd77a8f064eb921980": {
-        "title": "大模型榜单，能不能信？",
-        "link": "https://www.tmtpost.com/8043209.html",
-        "published_date": "Sat, 27 Jun 2026 09:22:00 GMT",
-        "first_seen": "2026-06-27T10:04:43.479439"
-      },
-      "59bc422b1dddac7881848178893eab38db850db035dfd525950612cad5cf6d93": {
-        "title": "豆包收费，张一鸣帮张小龙探路",
-        "link": "https://www.tmtpost.com/8043650.html",
-        "published_date": "Sat, 27 Jun 2026 16:09:00 GMT",
-        "first_seen": "2026-06-27T10:04:43.479441"
-      },
-      "dd094d82604d9c185b65c701f349b3d81b6b08988cb4f694d6da84c2a2bb1e7d": {
-        "title": "民企“上桌吃饭”？国新办发布会解读“十五五”能源规划，拆解未来五年能源投资到底要往哪里投",
-        "link": "https://www.tmtpost.com/8043664.html",
-        "published_date": "Sat, 27 Jun 2026 15:47:00 GMT",
-        "first_seen": "2026-06-28T00:00:25.101127"
-      },
-      "17e44f178eafa6efbdb8dc8226ede6d778bc2eecf09090c3e8816da9052de4f2": {
-        "title": "探访北京探月学校：AI时代“超级高中生” 、大学外的第三种可能与中国创新教育",
-        "link": "https://www.tmtpost.com/8043613.html",
-        "published_date": "Sat, 27 Jun 2026 15:40:00 GMT",
-        "first_seen": "2026-06-28T00:00:25.101139"
-      },
-      "da159ae26f46be005dccdf56222f866cee450976e2083158c7a737aed3a5fb91": {
-        "title": "信心、创新、根基，三维度拆解五粮液股东会传递的信心",
-        "link": "https://www.tmtpost.com/8043684.html",
-        "published_date": "Sat, 27 Jun 2026 12:29:00 GMT",
-        "first_seen": "2026-06-28T00:00:25.101142"
-      },
-      "adf0742449bcd62a2878129898542dd939dac34924b5cfd7d9c84a2a2e7c440b": {
-        "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
-        "link": "https://sspai.com/post/111347",
-        "published_date": "Sat, 27 Jun 2026 19:36:00 GMT",
-        "first_seen": "2026-06-28T00:00:25.101145"
-      },
-      "3b2caed583fc15411554dd09134b6951dc89ac85f04f78aeb6ba2c85c1e6ce3c": {
-        "title": "GPT-5.6：最强的模型，最窄的门",
-        "link": "https://www.tmtpost.com/8043420.html",
-        "published_date": "Sat, 27 Jun 2026 17:41:00 GMT",
-        "first_seen": "2026-06-28T00:00:25.101146"
-      },
       "ea5e80b72701c0896e61e9e79dce7ef05f234b20a76d9f51403a5b5d2336e81a": {
         "title": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
         "link": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U?utm_source=rss&utm_medium=article",
@@ -2341,45 +2281,39 @@
         "link": "https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 27 Jul 2026 11:43:00 GMT",
         "first_seen": "2026-07-27T08:28:53.016156"
+      },
+      "fe2470ca30accd06ea9afd06ea006e91e89c105afaf4002df150dc43a6efa220": {
+        "title": "China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble",
+        "link": "https://www.tmtpost.com/8081218.html",
+        "published_date": "Mon, 27 Jul 2026 19:12:00 GMT",
+        "first_seen": "2026-07-28T00:01:20.894315"
+      },
+      "e06c86d306cf43cc1033828f0f148c2649847ec4b8ba4694584b0e6517409df9": {
+        "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
+        "link": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 16:51:00 GMT",
+        "first_seen": "2026-07-28T00:01:20.894322"
+      },
+      "08e2e60ae5c340317cc51538c6ec371bc85ab80bd232e9fa6c43c8e88e2e7a15": {
+        "title": "维谛技术田军：电链与冷链将重构AI算力基础设施",
+        "link": "https://www.tmtpost.com/8080820.html",
+        "published_date": "Mon, 27 Jul 2026 18:19:00 GMT",
+        "first_seen": "2026-07-28T00:01:20.894324"
+      },
+      "3355c4b61946a992030a8ce365f7a6b38d6540868ded3ca8d8bac947c110f550": {
+        "title": "曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报",
+        "link": "https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 27 Jul 2026 11:46:00 GMT",
+        "first_seen": "2026-07-28T00:01:20.894326"
+      },
+      "62a75dce225bcc300b5998a8fc1504fc2b0cd06f1fb7eaec6089cd38d05e8c72": {
+        "title": "英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个\"掀桌子\"的｜首发",
+        "link": "https://www.tmtpost.com/8080916.html",
+        "published_date": "Mon, 27 Jul 2026 22:06:00 GMT",
+        "first_seen": "2026-07-28T00:01:20.894328"
       }
     },
     "Finance": {
-      "51b027d15a16bf5b5894c9896187a049db2bb96f3fed70261bce3d1e1834c2d5": {
-        "title": "US launches strikes on Iran after Tehran attacks container ship",
-        "link": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
-        "published_date": "Sat, 27 Jun 2026 08:06:00 GMT",
-        "first_seen": "2026-06-27T10:04:43.522958"
-      },
-      "1bc259cf472b20ffefe2dd3faac693462f3bbcfc53a2ecd6d78f8492e77b6021": {
-        "title": "US carries out second day of strikes against Iran",
-        "link": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
-        "published_date": "Sat, 27 Jun 2026 23:48:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.126232"
-      },
-      "31f779a2b30ec592c48e0a6eef0c3677d0d785950ac282ad7ddff2b16023f2bb": {
-        "title": "Javier Milei’s top aide resigns over corruption scandal in Argentina",
-        "link": "https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191",
-        "published_date": "Sat, 27 Jun 2026 22:22:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.126240"
-      },
-      "d90114a2813f2dea076fd04f4e6abf46be401b5e7ebbd455295d5062fc976231": {
-        "title": "Venezuela earthquake death toll climbs amid anger over slow response",
-        "link": "https://www.ft.com/content/d9021458-083a-4086-9da0-8639b6e176e1",
-        "published_date": "Sat, 27 Jun 2026 20:31:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.126242"
-      },
-      "5c5b391f55fc7f4888e4c8801e1afe4ca37d545fd147ca696a4b6b677e059711": {
-        "title": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
-        "link": "https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
-        "published_date": "Sat, 27 Jun 2026 20:00:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.126244"
-      },
-      "16087a11b986102f9835c1a08a80e9b3e9ce55020a3fa32b2aebdfe620bdc644": {
-        "title": "New York’s socialist insurgency raises alarm among anxious Democrats",
-        "link": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
-        "published_date": "Sat, 27 Jun 2026 11:00:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.126246"
-      },
       "49d7d05e32be4f5576952e06234ab92e69042add4341ac343c1485a91f55763a": {
         "title": "Bond giant Pimco flexes muscles with private placements push",
         "link": "https://www.ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
@@ -4413,27 +4347,39 @@
         "link": "https://www.ft.com/content/9ed6a6f4-c6a6-4027-9c54-19bffcd88913?syn-25a6b1a6=1",
         "published_date": "Mon, 27 Jul 2026 05:26:00 GMT",
         "first_seen": "2026-07-27T08:29:10.157095"
+      },
+      "1af604a2a9f7d4919cdcb22ad34b96c85e13ccb50c7f461f7ace91a35aff8301": {
+        "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+        "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:46:00 GMT",
+        "first_seen": "2026-07-28T00:01:50.482032"
+      },
+      "f1bbd0f23d9b96fa52867e2a47a4ea0f863066ec669d3dc7fe22e361802a2d10": {
+        "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+        "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:46:00 GMT",
+        "first_seen": "2026-07-28T00:01:50.482041"
+      },
+      "0936aaeddd0091a73721091eacb3bbff80109b736ac539e4d38dfc1c0e732c7b": {
+        "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
+        "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:37:00 GMT",
+        "first_seen": "2026-07-28T00:01:50.482043"
+      },
+      "fe368a3fd316be15f543840311b49981e377e3f81d14854972650d37466757f4": {
+        "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
+        "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:35:00 GMT",
+        "first_seen": "2026-07-28T00:01:50.482045"
+      },
+      "5dd952a0de0feb39fb5eec99062f844d058c237e2ed3516637e2a34e360b41ed": {
+        "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
+        "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
+        "published_date": "Mon, 27 Jul 2026 21:03:00 GMT",
+        "first_seen": "2026-07-28T00:01:50.482047"
       }
     },
     "Ai": {
-      "9287eb7ef64131642992102586b3e17e5d0116de52e0ebe456502e2193e49c13": {
-        "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-        "link": "https://www.qbitai.com/2026/06/439393.html",
-        "published_date": "Sat, 27 Jun 2026 12:29:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.249042"
-      },
-      "a1b7108f3cd34b872753a9186eef52eb040719ebef3b99d81cdada4d3ec33043": {
-        "title": "第一批一人公司，现在怎么样了？",
-        "link": "https://www.qbitai.com/2026/06/439237.html",
-        "published_date": "Sat, 27 Jun 2026 12:23:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.249049"
-      },
-      "313c0688e807926655b747390d3ce48caa959a4fc5911ec042da5ce39a44da32": {
-        "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
-        "link": "https://www.qbitai.com/2026/06/439236.html",
-        "published_date": "Sat, 27 Jun 2026 12:19:00 GMT",
-        "first_seen": "2026-06-28T00:00:37.249051"
-      },
       "9c77e5a959ad0c83387f42c3569bf5be6238cfd4a4e8d95aaa6b48746b3b248d": {
         "title": "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员",
         "link": "https://www.qbitai.com/2026/06/439464.html",
@@ -5789,13 +5735,31 @@
         "link": "https://www.qbitai.com/2026/07/461149.html",
         "published_date": "Mon, 27 Jul 2026 01:57:00 GMT",
         "first_seen": "2026-07-27T08:28:30.263125"
+      },
+      "8d5f2ff5587e7719845af23b9808ddeb8510b43fc72856c0ddfc837caccfbc31": {
+        "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+        "link": "https://www.qbitai.com/2026/07/461444.html",
+        "published_date": "Mon, 27 Jul 2026 09:55:00 GMT",
+        "first_seen": "2026-07-28T00:00:52.680385"
+      },
+      "12414ba65f84bf9d7b528df06aa445adcc72a4f8a622f322dd216a344a848419": {
+        "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+        "link": "https://www.qbitai.com/2026/07/461398.html",
+        "published_date": "Mon, 27 Jul 2026 09:05:00 GMT",
+        "first_seen": "2026-07-28T00:00:52.680396"
+      },
+      "c002269cb039b416685dd47f443e8ba4ec24b34bfdce9f962b044f5da51bdf35": {
+        "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+        "link": "https://www.qbitai.com/2026/07/461392.html",
+        "published_date": "Mon, 27 Jul 2026 08:54:00 GMT",
+        "first_seen": "2026-07-28T00:00:52.680398"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-27T08:28:53.016159",
-    "Finance": "2026-07-27T08:29:10.157097",
-    "Ai": "2026-07-27T08:28:30.263127"
+    "Technology": "2026-07-28T00:01:20.894331",
+    "Finance": "2026-07-28T00:01:50.482049",
+    "Ai": "2026-07-28T00:00:52.680401"
   }
 }

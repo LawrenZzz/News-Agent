@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Jul 2026 08:28:00 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 08:28:53 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:01:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网</title>
-      <link>https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 09:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble</title>
+      <link>https://www.tmtpost.com/8081218.html</link>
+      <description>&lt;![CDATA[China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8081218.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？</title>
-      <link>https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从Token到任务：Agentic AI 如何改变基础设施的关注焦点</title>
+      <link>https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从Token到任务：Agentic AI 如何改变基础设施的关注焦点]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>如何破解大模型的“金鱼记忆”困境</title>
-      <link>https://www.tmtpost.com/8080178.html</link>
-      <description>&lt;![CDATA[如何破解大模型的“金鱼记忆”困境]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 14:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8080178.html</guid>
+      <title>维谛技术田军：电链与冷链将重构AI算力基础设施</title>
+      <link>https://www.tmtpost.com/8080820.html</link>
+      <description>&lt;![CDATA[维谛技术田军：电链与冷链将重构AI算力基础设施]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8080820.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台</title>
-      <link>https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报</title>
+      <link>https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动</title>
-      <link>https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动]]&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 11:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个&quot;掀桌子&quot;的｜首发</title>
+      <link>https://www.tmtpost.com/8080916.html</link>
+      <description>&lt;![CDATA[英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个&quot;掀桌子&quot;的｜首发]]&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8080916.html</guid>
       <category>Technology</category>
     </item>
   </channel>
