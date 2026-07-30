@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e7e04636ff06b097adca3f90a6ebaac64dde59f1dd4f7b262cb7eb7c1ea7f7f3": {
-        "title": "读懂物理AI：AI产业的下半场，不止是概念狂欢",
-        "link": "https://www.tmtpost.com/8046804.html",
-        "published_date": "Tue, 30 Jun 2026 15:17:00 GMT",
-        "first_seen": "2026-06-30T08:26:57.134944"
-      },
-      "296ac20b72f97137a1ab351f722ca0bec606aed3976f101430e271215152ba22": {
-        "title": "Agent 狂吞 Token，表面是模型之争，底层全是煤电博弈",
-        "link": "https://www.infoq.cn/article/5sAu5pdOatCpxaIU4vOw?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Jun 2026 11:02:00 GMT",
-        "first_seen": "2026-06-30T08:26:57.134953"
-      },
-      "4153efc671c5a1b4120367f5e8e4245a57172c65d1836989d5d76a51f4a701be": {
-        "title": "智能体上车，高通想守住座舱的下一张门票",
-        "link": "https://www.tmtpost.com/8027015.html",
-        "published_date": "Tue, 30 Jun 2026 15:03:00 GMT",
-        "first_seen": "2026-06-30T08:26:57.134956"
-      },
-      "aa84a4a4cfc3e0359f9a05c5bb82805fe0f5fb37b2961389ffaa099fb3c87d44": {
-        "title": "风口上的世界模型，到底是什么？",
-        "link": "https://www.tmtpost.com/8046051.html",
-        "published_date": "Tue, 30 Jun 2026 14:30:00 GMT",
-        "first_seen": "2026-06-30T08:26:57.134959"
-      },
-      "5283e84f4569050fcf86e5833979184fdb81f0a0919d7bb7f3cfe981934abdb4": {
-        "title": "AI 接进企业之后，API 安全开始成为新盲区",
-        "link": "https://www.infoq.cn/article/QODhrm0I3LSV0uGhFdWt?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 30 Jun 2026 14:15:00 GMT",
-        "first_seen": "2026-06-30T08:26:57.134961"
-      },
       "2f22b8c7b46425c29defd3d2c567d43fe5f94b7a6b45d8874108673c63a24804": {
         "title": "源杰科技：从咸阳小厂到新生代股王，“异路”崛起全解析 | 深度",
         "link": "https://www.tmtpost.com/8047108.html",
@@ -2371,39 +2341,39 @@
         "link": "https://www.tmtpost.com/8084310.html",
         "published_date": "Thu, 30 Jul 2026 09:13:00 GMT",
         "first_seen": "2026-07-30T07:34:39.770342"
+      },
+      "c570ef82dae8a3ff6fbaef53d5667c9120d5575a3c5bdd3c44de792ecee06ff6": {
+        "title": "从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+        "link": "https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Jul 2026 17:12:00 GMT",
+        "first_seen": "2026-07-30T10:23:21.021220"
+      },
+      "670715e3ee687e00dafcc885b0a9be6981d65f54806ba370d5fe13410cc40289": {
+        "title": "深度访谈｜第二次权力转移：当Agent拿走数据库的行动权",
+        "link": "https://www.infoq.cn/article/B2GjIEBr0c1L0amoKmNf?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Jul 2026 15:41:00 GMT",
+        "first_seen": "2026-07-30T10:23:21.021227"
+      },
+      "d916c012de759aef459c37f7346c67fabb0b94d08f0af46026c5cbd2b492debd": {
+        "title": "1v1 对话：具身行业的“取巧”路，何时结束？",
+        "link": "https://www.infoq.cn/video/Fb2cph8EEHQH3mGhkCCF?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Jul 2026 17:33:00 GMT",
+        "first_seen": "2026-07-30T10:23:21.021230"
+      },
+      "392fc1bbd50da7c64d22bd05c29add9778c01d2a20f5f808e44ff2ae5dd47ebc": {
+        "title": "中国机器人，提前经历“大疆时刻”",
+        "link": "https://www.tmtpost.com/8084201.html",
+        "published_date": "Thu, 30 Jul 2026 15:40:00 GMT",
+        "first_seen": "2026-07-30T10:23:21.021231"
+      },
+      "89f4ae3ecf70d4662fd5798cf2c695f7f9926a480679c5db8e42c37db2c9552b": {
+        "title": "国产大模型，贵到用不起？",
+        "link": "https://www.tmtpost.com/8084364.html",
+        "published_date": "Thu, 30 Jul 2026 09:13:00 GMT",
+        "first_seen": "2026-07-30T10:23:21.021233"
       }
     },
     "Finance": {
-      "9b6d0bc7742f93414aeab71a95c27bd2eb719148ede27fb85d3ee6c8183e7e2b": {
-        "title": "The great wealth transfer rattling Wall Street",
-        "link": "https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9",
-        "published_date": "Tue, 30 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-30T08:27:08.215300"
-      },
-      "27df3b858e2c4a40205828749cb0d6116e03a3a4c2f77b94ae1140fb8bc93bb5": {
-        "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
-        "link": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
-        "published_date": "Tue, 30 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-30T08:27:08.215306"
-      },
-      "6a4dd13cceb2bd2c7cecdd460fe66f36ecb200eebbc0befb7a6b4092d3186684": {
-        "title": "Yen weakens to 40-year low",
-        "link": "https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510",
-        "published_date": "Tue, 30 Jun 2026 01:51:00 GMT",
-        "first_seen": "2026-06-30T08:27:08.215309"
-      },
-      "261e8cbd35d4598a401fb3bfcd65529cd0bda2cc7057a0c47f88c33b3ef08965": {
-        "title": "Elliott’s acolytes: how Paul Singer’s hedge fund became a spinout factory",
-        "link": "https://www.ft.com/content/b5fc43da-45b1-4e56-a278-6edbeba04b7d",
-        "published_date": "Tue, 30 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-30T08:27:08.215311"
-      },
-      "520059c0039fc7bde09a6371d8fd60d780a396813dc15cd89d369b1612f479d3": {
-        "title": "EY employee charged with accessing Australian prime minister’s bank details",
-        "link": "https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a",
-        "published_date": "Tue, 30 Jun 2026 07:57:00 GMT",
-        "first_seen": "2026-06-30T08:27:08.215313"
-      },
       "5af3dd746fcbc75034a34dedbf1d8066b3de4cbf962b646ded793dcb703c6506": {
         "title": "Nike earnings crushed Wall Street’s estimates — but here’s the catch",
         "link": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
@@ -4497,39 +4467,39 @@
         "link": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
         "published_date": "Thu, 30 Jul 2026 05:08:00 GMT",
         "first_seen": "2026-07-30T07:34:55.002874"
+      },
+      "89e6a2b6dcc6f35fc861e9c8e7812624dca6fc6498fca34adfd543882d5916cf": {
+        "title": "BoE expected to ‘talk tough’ but leave rates on hold",
+        "link": "https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 09:06:00 GMT",
+        "first_seen": "2026-07-30T10:23:32.856228"
+      },
+      "6cf30990a5a747d59b70f137edfffe26bf4a6e9ed5c9fcf451246aa35c8fab57": {
+        "title": "Social Security’s biggest problem isn’t a design flaw. It’s a missing trust fund.",
+        "link": "https://www.marketwatch.com/story/social-securitys-biggest-problem-isnt-a-design-flaw-its-a-missing-trust-fund-75cd1351?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-30T10:23:32.856235"
+      },
+      "b30505b3a378e64348362ca56e95ac938bbd9eda9f80b878fb4b429483f4ce2f": {
+        "title": "Winner of US-China AI rivalry falls 2% in Hong Kong debut",
+        "link": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 08:28:00 GMT",
+        "first_seen": "2026-07-30T10:23:32.856238"
+      },
+      "0c2219844b3eacc58f31009f5f5e7a86a3f3a0e8b5e3d49b6e231a740fee7861": {
+        "title": "Samsung delivers record-setting profits, but the shares still can’t catch a break from investors.",
+        "link": "https://www.marketwatch.com/story/samsung-delivers-record-setting-profits-but-the-shares-still-cant-catch-a-break-from-investors-daefa19a?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Jul 2026 08:39:00 GMT",
+        "first_seen": "2026-07-30T10:23:32.856239"
+      },
+      "a536dafd0c5258ed7e7d9609744cbfb471d95e43d3bf39b3b0baa820e6b54e6d": {
+        "title": "My friend and her husband own extensive real estate. How can her children from a previous marriage get their fair share?",
+        "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Jul 2026 09:15:00 GMT",
+        "first_seen": "2026-07-30T10:23:32.856241"
       }
     },
     "Ai": {
-      "461b32ce14719b21e7dd851e29c63233158f678235c3999b9061a79c3dd7a65e": {
-        "title": "Agent之间，有互联网了！",
-        "link": "https://www.qbitai.com/2026/06/440199.html",
-        "published_date": "Tue, 30 Jun 2026 05:23:00 GMT",
-        "first_seen": "2026-06-30T08:27:21.614980"
-      },
-      "6f6f912f21788e66edd76bb593db8cb49a62448e8622cc2e807f82b6c9b46f3f": {
-        "title": "智谱唐杰：成功企业靠管理那是曾经，AI时代不行了",
-        "link": "https://www.qbitai.com/2026/06/440024.html",
-        "published_date": "Tue, 30 Jun 2026 03:27:00 GMT",
-        "first_seen": "2026-06-30T08:27:21.614988"
-      },
-      "324706f387b5a05404f9b5e0193f1dcc676396a8b380becbb734a8ae9d5fc706": {
-        "title": "24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙",
-        "link": "https://www.qbitai.com/2026/06/440236.html",
-        "published_date": "Tue, 30 Jun 2026 05:53:00 GMT",
-        "first_seen": "2026-06-30T08:27:21.614990"
-      },
-      "df4dd36f6d67f6e6f81f44e4e4e75dc1ed32ee3f71dd6acf7b523d3759fabf84": {
-        "title": "破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨",
-        "link": "https://www.qbitai.com/2026/06/440162.html",
-        "published_date": "Tue, 30 Jun 2026 04:08:00 GMT",
-        "first_seen": "2026-06-30T08:27:21.614992"
-      },
-      "1f670e1504e8c971056f1af0530dac1a66343cc17b51b9e4397867a076cca7bb": {
-        "title": "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta",
-        "link": "https://www.qbitai.com/2026/06/440332.html",
-        "published_date": "Tue, 30 Jun 2026 06:51:00 GMT",
-        "first_seen": "2026-06-30T08:27:21.614993"
-      },
       "8e667cf9977bcf0c85e7d4de6594a5c4105216e89778ef6d18a17cc0a0c36e4c": {
         "title": "Expanding our Heat Resilience data to 50+ global cities",
         "link": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
@@ -5951,13 +5921,43 @@
         "link": "https://www.qbitai.com/2026/07/462979.html",
         "published_date": "Thu, 30 Jul 2026 05:30:00 GMT",
         "first_seen": "2026-07-30T07:34:23.373870"
+      },
+      "9d5a5972eae9c7c91314daffec304a7c86904d8a2da1e6944b220143b934629c": {
+        "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+        "link": "https://www.qbitai.com/2026/07/463433.html",
+        "published_date": "Thu, 30 Jul 2026 08:57:00 GMT",
+        "first_seen": "2026-07-30T10:22:59.585882"
+      },
+      "f76823c3fa5ed1fa360e1d4728de3bcf2b4a5ca76ae3d8eb32221455cae307e5": {
+        "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
+        "link": "https://www.qbitai.com/2026/07/463204.html",
+        "published_date": "Thu, 30 Jul 2026 08:06:00 GMT",
+        "first_seen": "2026-07-30T10:22:59.585893"
+      },
+      "4f3e0cb22f36b4ab40a2bbc16eea785146e2c4fc000cbd54c750caa59ee12341": {
+        "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+        "link": "https://www.qbitai.com/2026/07/463297.html",
+        "published_date": "Thu, 30 Jul 2026 07:51:00 GMT",
+        "first_seen": "2026-07-30T10:22:59.585896"
+      },
+      "244bdb02a7ce1d5356ec28dcfa18a0cd4f0e031971ca50546f118bfa5ed9a512": {
+        "title": "李飞飞的世界模型，终于开始训练机器人了",
+        "link": "https://www.qbitai.com/2026/07/463217.html",
+        "published_date": "Thu, 30 Jul 2026 07:47:00 GMT",
+        "first_seen": "2026-07-30T10:22:59.585898"
+      },
+      "35994e42e63d9d90bd78fdcd8c86b6f66d85fa1bb95274d6380f2bba18a92b3d": {
+        "title": "2026-07-30日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-30/",
+        "published_date": "Thu, 30 Jul 2026 10:20:00 GMT",
+        "first_seen": "2026-07-30T10:22:59.585900"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-30T07:34:39.770344",
-    "Finance": "2026-07-30T07:34:55.002877",
-    "Ai": "2026-07-30T07:34:23.373872"
+    "Technology": "2026-07-30T10:23:21.021236",
+    "Finance": "2026-07-30T10:23:32.856242",
+    "Ai": "2026-07-30T10:22:59.585902"
   }
 }
