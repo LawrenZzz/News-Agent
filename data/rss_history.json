@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "49434a207b381eb635e4b53ba78c10140934b36903c18069f53859bd6315b99e": {
-        "title": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
-        "link": "https://www.infoq.cn/article/VceiPBYzkY9lSAOubvtP?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Jun 2026 15:29:00 GMT",
-        "first_seen": "2026-06-29T09:26:37.105256"
-      },
-      "9ea774d463f5af8e41c4af0e925356a68b3a617c2041410b0387118c917c6a81": {
-        "title": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
-        "link": "https://www.infoq.cn/article/6FP1sl5CrwdggVrXrwIN?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Jun 2026 09:58:00 GMT",
-        "first_seen": "2026-06-29T09:26:37.105264"
-      },
-      "caaa7b13e57b82903869c8b38a84043c5539e7dae3cc6c9a5f4b01dd03839d42": {
-        "title": "GPT-5.6首发，比Fable 5便宜一半！深度评估者直接“开麦”：能力测试中疯狂作弊",
-        "link": "https://www.infoq.cn/article/MODueV4HEMT4Hb92HebD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Jun 2026 16:04:00 GMT",
-        "first_seen": "2026-06-29T09:26:37.105266"
-      },
-      "c949e40d2588d64abb0624d9ecc97fc7e0d5784182fef1834dca181f54a7a150": {
-        "title": "AWS Graviton5 正式发布，具备 192 个内核和经过正式验证的虚拟机隔离功能",
-        "link": "https://www.infoq.cn/article/ONqpdtmlUXgF32G1vqT2?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Jun 2026 11:50:00 GMT",
-        "first_seen": "2026-06-29T09:26:37.105268"
-      },
-      "64e8332af759646af58af94d1acd82b7fe1e4b31433167b65f7cdd98efca8ae9": {
-        "title": "RA Capital：赶走中国创新药等于放弃全球定价权",
-        "link": "https://www.tmtpost.com/8045488.html",
-        "published_date": "Mon, 29 Jun 2026 16:43:00 GMT",
-        "first_seen": "2026-06-29T09:26:37.105270"
-      },
       "e9c7ef678dea00a89d6f4701d54a9adead2bfe9136ee3cdaafbe7db65bd2adc7": {
         "title": "【钛晨报】国常会最新部署：要加力推进人工智能创新突破；美团、淘宝闪购、京东外卖达成共识；三星、SK海力士和美光在美遭集体诉讼",
         "link": "https://www.tmtpost.com/8046236.html",
@@ -2371,39 +2341,39 @@
         "link": "https://www.infoq.cn/article/BXOUaAvzZQpGrzMg3lDK?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 29 Jul 2026 11:22:00 GMT",
         "first_seen": "2026-07-29T07:42:29.823839"
+      },
+      "3c6ba27f435a655416a49fbba2f0dd7a713ce88ab4b6e91f46460bfb0f4d1fd7": {
+        "title": "AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案",
+        "link": "https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Jul 2026 16:00:00 GMT",
+        "first_seen": "2026-07-29T23:59:54.523745"
+      },
+      "dd803434e6ab24216e1add3072b89e72e26b9485aaafc08716f938faf3c5a5a2": {
+        "title": "清华教授李升波提出具身智能破局新路线：物理原生智能是实用化答案，世界模型成核心",
+        "link": "https://www.infoq.cn/article/ircg5ZZVmWMLFG7ElCd6?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Jul 2026 10:30:00 GMT",
+        "first_seen": "2026-07-29T23:59:54.523751"
+      },
+      "804e98944db8081af46633aecc279026d1e000a98ec45013bca3eb4a63f676c2": {
+        "title": "【钛晨报】央行等九部门：加强科技金融领域数据开放共享和融合运用；公开发售获16.84倍认购，中际旭创今日登陆港交所；智驾“小蓝灯”相关国标已启动制修订",
+        "link": "https://www.tmtpost.com/8084357.html",
+        "published_date": "Thu, 30 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-29T23:59:54.523753"
+      },
+      "16fc27238e687787974c53ff659d597b2b28349f3bc7d06456fc781513a47394": {
+        "title": "模型越来越强之后，Infra 将被 AI 接管？",
+        "link": "https://www.infoq.cn/article/wJRP0eEsTxoCxgatkDms?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 29 Jul 2026 10:37:00 GMT",
+        "first_seen": "2026-07-29T23:59:54.523755"
+      },
+      "988c9756beef7c0ffd7682faffd631cac35ab35c0acd2318b5d472927aa91626": {
+        "title": "海力士营业利润大涨557%，股价为什么跌了？",
+        "link": "https://www.tmtpost.com/8083482.html",
+        "published_date": "Wed, 29 Jul 2026 18:40:00 GMT",
+        "first_seen": "2026-07-29T23:59:54.523756"
       }
     },
     "Finance": {
-      "4f7a1dbda98801fa6443ec8456df533b417347c8f90c9aec1211468d558be1cd": {
-        "title": "The central bank of central  banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
-        "link": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Jun 2026 09:13:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.835277"
-      },
-      "6798df8de802c67cf95a5f1a9938f3348b8bbd35a6c59ae8d4d08977ad784a08": {
-        "title": "AI fuels record $200bn M&A boom in US power sector",
-        "link": "https://www.ft.com/content/6e15876d-1882-45e2-a13c-16a1327079d7",
-        "published_date": "Mon, 29 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.835283"
-      },
-      "307cb9fe7dbfa6bee2e587ea25abf4c8596cb8fc6347e25facac4fdc15b37f3a": {
-        "title": "Freight shipping costs surge as companies race to beat new Trump tariffs",
-        "link": "https://www.ft.com/content/8bf7cfa4-5412-41d3-b84e-e89f84265fe8",
-        "published_date": "Mon, 29 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.835286"
-      },
-      "48bb1f75b98d77618f9fe10802ee7664f1a001fbeb6934299a023f31f8680c61": {
-        "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Jun 2026 03:02:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.835287"
-      },
-      "1952e5c8a2a6871fd51403554c76e32a7abc008f4ceb2e92a5a6ec2d00256116": {
-        "title": "Volkswagen’s brutal jobs cull sparks prospect of sale of crown jewels",
-        "link": "https://www.ft.com/content/95650ff3-44b1-4018-8ba4-5702304177e5",
-        "published_date": "Mon, 29 Jun 2026 04:00:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.835289"
-      },
       "9b648345d76386ed1054afa9bc94efcab0d17e73b708817e40667593dd1af75d": {
         "title": "Supreme Court blocks Trump from sacking Fed governor Cook",
         "link": "https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb",
@@ -4497,33 +4467,39 @@
         "link": "https://www.ft.com/content/af4fa147-7fdd-42eb-8eb2-3f624a89a4e4?syn-25a6b1a6=1",
         "published_date": "Wed, 29 Jul 2026 02:15:00 GMT",
         "first_seen": "2026-07-29T07:42:42.907418"
+      },
+      "feaf9f0f315693ad3cdc365530ba85841e4f162a26593f8eb1da0f96039a6729": {
+        "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
+        "link": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1",
+        "published_date": "Wed, 29 Jul 2026 21:01:00 GMT",
+        "first_seen": "2026-07-30T00:00:17.086344"
+      },
+      "c8be7f8569cf62bf2351b33c969200fb76112c0dbc4306b3f08bef94fe3eeded": {
+        "title": "Fed’s favourite inflation gauge to be lowered by stats agency change",
+        "link": "https://www.ft.com/content/bf4c32f3-735d-4742-a5b6-65b404f70cc7?syn-25a6b1a6=1",
+        "published_date": "Wed, 29 Jul 2026 10:00:00 GMT",
+        "first_seen": "2026-07-30T00:00:17.086350"
+      },
+      "19d34dc53372b6f25e717ec444a9eebe8f27e08b2165c9ca321c49257848232c": {
+        "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+        "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+        "published_date": "Wed, 29 Jul 2026 21:56:00 GMT",
+        "first_seen": "2026-07-30T00:00:17.086352"
+      },
+      "44ab2dc0f9b63382c84294a8215a089fbab0552e4fc54604dcffb331be88a8e1": {
+        "title": "Microsoft’s cloud business boosts sales as capex climbs to $41bn",
+        "link": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+        "published_date": "Wed, 29 Jul 2026 21:31:00 GMT",
+        "first_seen": "2026-07-30T00:00:17.086354"
+      },
+      "b43b840a21c6334a26c27b92169f7f28bc2856d58c409c66354e37920a7f1a5f": {
+        "title": "US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply",
+        "link": "https://www.ft.com/content/86f37415-cc80-4ea6-bc03-87c96cb831f4?syn-25a6b1a6=1",
+        "published_date": "Wed, 29 Jul 2026 17:03:00 GMT",
+        "first_seen": "2026-07-30T00:00:17.086355"
       }
     },
     "Ai": {
-      "1ef0d3553cecdff6e7f04a622ae347ed27ff81018628b2970e385ee33e31053e": {
-        "title": "2026-06-29日刊",
-        "link": "https://hex2077.dev/docs/2026-06/2026-06-29/",
-        "published_date": "Mon, 29 Jun 2026 12:42:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.955366"
-      },
-      "acfc57a44ef1a36277edbd257e555e024403b3e68133ee8c0acefdaeb0d72dab": {
-        "title": "啥？做AI短剧可以免费，免费，免费了！",
-        "link": "https://www.qbitai.com/2026/06/439750.html",
-        "published_date": "Mon, 29 Jun 2026 05:01:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.955373"
-      },
-      "1c6504673ce23b4214fc198f07a9aedb83261090c6d4df7411cabecf2c784881": {
-        "title": "“词元盗用”正在成为AI商业化面临的新风险",
-        "link": "https://www.qbitai.com/2026/06/439746.html",
-        "published_date": "Mon, 29 Jun 2026 02:42:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.955375"
-      },
-      "3c7447db23399dd739c72c2f2015bcfb2911b0346108bbf35d69b2da1aebada0": {
-        "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
-        "link": "https://www.qbitai.com/2026/06/439728.html",
-        "published_date": "Mon, 29 Jun 2026 00:09:00 GMT",
-        "first_seen": "2026-06-29T09:26:55.955377"
-      },
       "e5826f285838f540b28430717c5746042a7b59d9bb814936fbe74768ad4781ad": {
         "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
         "link": "https://www.qbitai.com/2026/06/439891.html",
@@ -5927,13 +5903,37 @@
         "link": "https://www.qbitai.com/2026/07/462062.html",
         "published_date": "Wed, 29 Jul 2026 01:53:00 GMT",
         "first_seen": "2026-07-29T07:42:04.983841"
+      },
+      "086a63922d64203d4c0fc3edfc4e6905c1a1e19d0e7691cb257ae5f3c47e7c8f": {
+        "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+        "link": "https://www.qbitai.com/2026/07/462943.html",
+        "published_date": "Wed, 29 Jul 2026 11:25:00 GMT",
+        "first_seen": "2026-07-29T23:59:34.966156"
+      },
+      "eed3914cceec5eb729ba25728b7e27843e058f90b0b66dbdd2d888c226111dd4": {
+        "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+        "link": "https://www.qbitai.com/2026/07/462447.html",
+        "published_date": "Wed, 29 Jul 2026 08:13:00 GMT",
+        "first_seen": "2026-07-29T23:59:34.966165"
+      },
+      "8042068810f648821430cbdb18ee02d5d3f918d7a514003c10511e7b520ff30a": {
+        "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
+        "link": "https://www.qbitai.com/2026/07/462384.html",
+        "published_date": "Wed, 29 Jul 2026 08:04:00 GMT",
+        "first_seen": "2026-07-29T23:59:34.966168"
+      },
+      "51fdbdd2a6470d67ffc57a3df84945c3aba7b99f2555ca2fe3c1b95322f1073a": {
+        "title": "2026-07-29日刊",
+        "link": "https://hex2077.dev/docs/2026-07/2026-07-29/",
+        "published_date": "Wed, 29 Jul 2026 10:32:00 GMT",
+        "first_seen": "2026-07-29T23:59:34.966169"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-29T07:42:29.823842",
-    "Finance": "2026-07-29T07:42:42.907420",
-    "Ai": "2026-07-29T07:42:04.983843"
+    "Technology": "2026-07-29T23:59:54.523759",
+    "Finance": "2026-07-30T00:00:17.086356",
+    "Ai": "2026-07-29T23:59:34.966171"
   }
 }

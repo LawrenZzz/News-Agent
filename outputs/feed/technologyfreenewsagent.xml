@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Jul 2026 07:41:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 07:42:29 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 23:59:00 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:59:54 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT“失控”被索赔1亿美元，微软反手扔王炸：新模型踩翻Mythos、价格砍半，还拉上“苦主”组了联盟</title>
-      <link>https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT“失控”被索赔1亿美元，微软反手扔王炸：新模型踩翻Mythos、价格砍半，还拉上“苦主”组了联盟]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案</title>
+      <link>https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>最强模型“跳票”，市值一夜蒸发2000亿美元！谷歌连上三款“省油”模型，死磕每一个token的钱</title>
-      <link>https://www.infoq.cn/article/It5CxXxYowEE0pE7IKJU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[最强模型“跳票”，市值一夜蒸发2000亿美元！谷歌连上三款“省油”模型，死磕每一个token的钱]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 11:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/It5CxXxYowEE0pE7IKJU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>清华教授李升波提出具身智能破局新路线：物理原生智能是实用化答案，世界模型成核心</title>
+      <link>https://www.infoq.cn/article/ircg5ZZVmWMLFG7ElCd6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[清华教授李升波提出具身智能破局新路线：物理原生智能是实用化答案，世界模型成核心]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 10:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ircg5ZZVmWMLFG7ElCd6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋组了个联盟，AI圈几乎全员到齐，只有这一家唱反调</title>
-      <link>https://www.tmtpost.com/8083127.html</link>
-      <description>&lt;![CDATA[黄仁勋组了个联盟，AI圈几乎全员到齐，只有这一家唱反调]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 12:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8083127.html</guid>
+      <title>【钛晨报】央行等九部门：加强科技金融领域数据开放共享和融合运用；公开发售获16.84倍认购，中际旭创今日登陆港交所；智驾“小蓝灯”相关国标已启动制修订</title>
+      <link>https://www.tmtpost.com/8084357.html</link>
+      <description>&lt;![CDATA[【钛晨报】央行等九部门：加强科技金融领域数据开放共享和融合运用；公开发售获16.84倍认购，中际旭创今日登陆港交所；智驾“小蓝灯”相关国标已启动制修订]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8084357.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI浪潮狂奔VS算力供给失衡：走出规模陷阱，中国式算力基建如何突围？</title>
-      <link>https://www.tmtpost.com/8081552.html</link>
-      <description>&lt;![CDATA[AI浪潮狂奔VS算力供给失衡：走出规模陷阱，中国式算力基建如何突围？]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8081552.html</guid>
+      <title>模型越来越强之后，Infra 将被 AI 接管？</title>
+      <link>https://www.infoq.cn/article/wJRP0eEsTxoCxgatkDms?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模型越来越强之后，Infra 将被 AI 接管？]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 10:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wJRP0eEsTxoCxgatkDms?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋首推引爆开源论战：Anthropic 员工催 CUDA、Windows 开源，吴恩达反击：你可以不开源，但别阻止别人</title>
-      <link>https://www.infoq.cn/article/BXOUaAvzZQpGrzMg3lDK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[黄仁勋首推引爆开源论战：Anthropic 员工催 CUDA、Windows 开源，吴恩达反击：你可以不开源，但别阻止别人]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/BXOUaAvzZQpGrzMg3lDK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>海力士营业利润大涨557%，股价为什么跌了？</title>
+      <link>https://www.tmtpost.com/8083482.html</link>
+      <description>&lt;![CDATA[海力士营业利润大涨557%，股价为什么跌了？]]&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8083482.html</guid>
       <category>Technology</category>
     </item>
   </channel>
