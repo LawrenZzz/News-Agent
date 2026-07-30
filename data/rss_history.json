@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e9c7ef678dea00a89d6f4701d54a9adead2bfe9136ee3cdaafbe7db65bd2adc7": {
-        "title": "【钛晨报】国常会最新部署：要加力推进人工智能创新突破；美团、淘宝闪购、京东外卖达成共识；三星、SK海力士和美光在美遭集体诉讼",
-        "link": "https://www.tmtpost.com/8046236.html",
-        "published_date": "Tue, 30 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-30T00:02:23.057157"
-      },
-      "e9699836e778bc98a9802c76c2e44c618b2e0e27816a976ff190b7855f5653fb": {
-        "title": "腾讯买了百度芯片",
-        "link": "https://www.tmtpost.com/8045700.html",
-        "published_date": "Mon, 29 Jun 2026 18:32:00 GMT",
-        "first_seen": "2026-06-30T00:02:23.057168"
-      },
-      "79a1f2aff9e18b7f5ecc369134c3c9d68a175ec5339b0399eb1153255c4c40bf": {
-        "title": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
-        "link": "https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Jun 2026 10:03:00 GMT",
-        "first_seen": "2026-06-30T00:02:23.057171"
-      },
-      "7dd8b064abda55b56eef919c9c55365cb3c73b1be2f75067a277ca040a9f98fd": {
-        "title": "被 AI 坑惨的福特，召回 350 名老工程师救场",
-        "link": "https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 29 Jun 2026 17:45:00 GMT",
-        "first_seen": "2026-06-30T00:02:23.057173"
-      },
-      "aee49d3dedfdc4c2fd1a86d12350e3cdf2fed97e369b19bb5cfaf17816301c95": {
-        "title": "10万人重组计划背后，大众开始向德国本土开刀",
-        "link": "https://www.tmtpost.com/8045924.html",
-        "published_date": "Mon, 29 Jun 2026 19:18:00 GMT",
-        "first_seen": "2026-06-30T00:02:23.057175"
-      },
       "e7e04636ff06b097adca3f90a6ebaac64dde59f1dd4f7b262cb7eb7c1ea7f7f3": {
         "title": "读懂物理AI：AI产业的下半场，不止是概念狂欢",
         "link": "https://www.tmtpost.com/8046804.html",
@@ -2371,39 +2341,39 @@
         "link": "https://www.tmtpost.com/8083482.html",
         "published_date": "Wed, 29 Jul 2026 18:40:00 GMT",
         "first_seen": "2026-07-29T23:59:54.523756"
+      },
+      "76e905edc13b86eff92274ccaadc754f5992b0e9a73a9888d355c9ff9017f57b": {
+        "title": "巨头AI资本支出增速放缓初现端倪，Meta和微软同日释放新信号",
+        "link": "https://www.tmtpost.com/8085091.html",
+        "published_date": "Thu, 30 Jul 2026 14:42:00 GMT",
+        "first_seen": "2026-07-30T07:34:39.770327"
+      },
+      "b0beb4577825cad67dd997454b0655b0c7033ebaa774be68c35dc9f2c49d82a3": {
+        "title": "全硅谷拼了，只求保住中国大模型的使用权",
+        "link": "https://www.tmtpost.com/8084420.html",
+        "published_date": "Thu, 30 Jul 2026 10:33:00 GMT",
+        "first_seen": "2026-07-30T07:34:39.770335"
+      },
+      "cb537a9e3e7376bcb0382c2d7b74840f9ebc38de0cd11cad062c66a2b4cf4b3a": {
+        "title": "OpenAI为什么造耳机",
+        "link": "https://www.tmtpost.com/8082260.html",
+        "published_date": "Thu, 30 Jul 2026 10:53:00 GMT",
+        "first_seen": "2026-07-30T07:34:39.770338"
+      },
+      "35cd5ab0fc5473feb9519d823679c99491befa2947a13fa453169bc0ab52e4d3": {
+        "title": "当汽车拥有智能“大脑”，车企开始争夺“身体控制权”",
+        "link": "https://www.tmtpost.com/8084927.html",
+        "published_date": "Thu, 30 Jul 2026 14:38:00 GMT",
+        "first_seen": "2026-07-30T07:34:39.770340"
+      },
+      "aec714115f5578a57b8d768424175ccf6112b62fef617338400afb4142132157": {
+        "title": "独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化",
+        "link": "https://www.tmtpost.com/8084310.html",
+        "published_date": "Thu, 30 Jul 2026 09:13:00 GMT",
+        "first_seen": "2026-07-30T07:34:39.770342"
       }
     },
     "Finance": {
-      "9b648345d76386ed1054afa9bc94efcab0d17e73b708817e40667593dd1af75d": {
-        "title": "Supreme Court blocks Trump from sacking Fed governor Cook",
-        "link": "https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb",
-        "published_date": "Mon, 29 Jun 2026 16:27:00 GMT",
-        "first_seen": "2026-06-30T00:02:45.254258"
-      },
-      "620949b717578be077bc968cce6a3b9f27d3011045a92bec4784c4cabfc8c555": {
-        "title": "Most Americans have no idea how close we just came to financial chaos",
-        "link": "https://www.marketwatch.com/story/most-americans-have-no-idea-how-close-we-just-came-to-financial-chaos-50c0b33c?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Jun 2026 21:05:00 GMT",
-        "first_seen": "2026-06-30T00:02:45.254265"
-      },
-      "aa1056b783a5c5f5eee5f0974b10d66ccb2b024f2818b2eee0a9af35a6066a49": {
-        "title": "Bye-bye, ‘HODL’: Strategy now has a plan to sell bitcoin to raise cash and buy its stock",
-        "link": "https://www.marketwatch.com/story/strategy-can-now-sell-bitcoin-to-buy-back-stock-the-opposite-of-what-its-been-doing-db506fdb?mod=mw_rss_topstories",
-        "published_date": "Mon, 29 Jun 2026 20:41:00 GMT",
-        "first_seen": "2026-06-30T00:02:45.254267"
-      },
-      "90c290f718d58653fc584dc1ada358c571237d0a93c85d15c677543ce471b61a": {
-        "title": "Maersk raises profit guidance as new US tariffs fuel demand",
-        "link": "https://www.ft.com/content/44094a86-b170-448f-8305-55625b16bd29",
-        "published_date": "Mon, 29 Jun 2026 20:32:00 GMT",
-        "first_seen": "2026-06-30T00:02:45.254269"
-      },
-      "c1a7eacedc29ec72a5ba00e6cb83a7e1850b48c97baf67b3ab2383379511c05e": {
-        "title": "Comcast’s Hollywood break-up marks its GE moment",
-        "link": "https://www.ft.com/content/16b80794-3898-4010-b7d8-5c8cf59dd7ef",
-        "published_date": "Mon, 29 Jun 2026 17:43:00 GMT",
-        "first_seen": "2026-06-30T00:02:45.254271"
-      },
       "9b6d0bc7742f93414aeab71a95c27bd2eb719148ede27fb85d3ee6c8183e7e2b": {
         "title": "The great wealth transfer rattling Wall Street",
         "link": "https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9",
@@ -4497,15 +4467,39 @@
         "link": "https://www.ft.com/content/86f37415-cc80-4ea6-bc03-87c96cb831f4?syn-25a6b1a6=1",
         "published_date": "Wed, 29 Jul 2026 17:03:00 GMT",
         "first_seen": "2026-07-30T00:00:17.086355"
+      },
+      "2ac46d31d6e5de8b0c0d2c4b29f6c40302fb1f7ccbe355aaf49ba7070c7d8027": {
+        "title": "US launches strikes on Iran after Trump vows to deliver ‘beating’",
+        "link": "https://www.ft.com/content/42e83b67-cfb8-46af-b50e-3ac77748ce38?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 01:46:00 GMT",
+        "first_seen": "2026-07-30T07:34:55.002861"
+      },
+      "543b3455f0a268bfe4e59926383f2be4d07f92f228b055723d8fc43f5a9acb70": {
+        "title": "Chinese stocks on track for worst month in decade",
+        "link": "https://www.ft.com/content/5052b22e-aeca-4043-88af-dd7da3661a49?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 05:28:00 GMT",
+        "first_seen": "2026-07-30T07:34:55.002868"
+      },
+      "673855885678f9d2b051942d755a69715f2aceda3b510c148b50f72c764a2e03": {
+        "title": "Microsoft signs $130bn in data centre leases as it races to meet AI demand",
+        "link": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 01:05:00 GMT",
+        "first_seen": "2026-07-30T07:34:55.002871"
+      },
+      "458b52be2e792e40842f6a9c117fbc046cd198aa7f79e886cef0641a116ca22b": {
+        "title": "One of the market’s ‘most durable growth’ sectors has been passed over for AI, says JPMorgan",
+        "link": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
+        "published_date": "Thu, 30 Jul 2026 07:11:00 GMT",
+        "first_seen": "2026-07-30T07:34:55.002872"
+      },
+      "2a83625187d7aac3d3e8545319f0c42fcb77df68b08c6882aad3bb0f1057a8ec": {
+        "title": "Winner of US-China AI rivalry falls 10% in Hong Kong debut",
+        "link": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 05:08:00 GMT",
+        "first_seen": "2026-07-30T07:34:55.002874"
       }
     },
     "Ai": {
-      "e5826f285838f540b28430717c5746042a7b59d9bb814936fbe74768ad4781ad": {
-        "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
-        "link": "https://www.qbitai.com/2026/06/439891.html",
-        "published_date": "Mon, 29 Jun 2026 14:33:00 GMT",
-        "first_seen": "2026-06-30T00:02:45.373796"
-      },
       "461b32ce14719b21e7dd851e29c63233158f678235c3999b9061a79c3dd7a65e": {
         "title": "Agent之间，有互联网了！",
         "link": "https://www.qbitai.com/2026/06/440199.html",
@@ -5927,13 +5921,43 @@
         "link": "https://hex2077.dev/docs/2026-07/2026-07-29/",
         "published_date": "Wed, 29 Jul 2026 10:32:00 GMT",
         "first_seen": "2026-07-29T23:59:34.966169"
+      },
+      "4320e44bd6304408b57c3daf3220f8fbfecc7c164d354618fff247b34512dbc6": {
+        "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+        "link": "https://www.qbitai.com/2026/07/463123.html",
+        "published_date": "Thu, 30 Jul 2026 06:14:00 GMT",
+        "first_seen": "2026-07-30T07:34:23.373854"
+      },
+      "1d2a63792c6a52d34af006c290bbbc3d4a843bed75fe16be98497925c0862eaa": {
+        "title": "“接力跑”盘活全国算力，PD分离终于破局：延迟砍半、成本直降近40%！",
+        "link": "https://www.qbitai.com/2026/07/463012.html",
+        "published_date": "Thu, 30 Jul 2026 06:14:00 GMT",
+        "first_seen": "2026-07-30T07:34:23.373864"
+      },
+      "aa70af42fc292df0d4478366eeeed676a6e621343cc00dec80410ad1780d7646": {
+        "title": "一年连融三轮数亿元！字节+清华姚班，重构企业软件工程",
+        "link": "https://www.qbitai.com/2026/07/463013.html",
+        "published_date": "Thu, 30 Jul 2026 06:10:00 GMT",
+        "first_seen": "2026-07-30T07:34:23.373866"
+      },
+      "f97795d4b640bbfb66904d138728e088eba81149718bc0e7adbd4a72006bb71b": {
+        "title": "这这这…翁荔光速回OpenAI上班了",
+        "link": "https://www.qbitai.com/2026/07/462947.html",
+        "published_date": "Thu, 30 Jul 2026 00:31:00 GMT",
+        "first_seen": "2026-07-30T07:34:23.373868"
+      },
+      "52d8a4e4d90451597e3626db6a2d390ee5742d9b898b0a7b7e2798a4cefb607e": {
+        "title": "WorkBuddy重大升级，AI时代的Office来了",
+        "link": "https://www.qbitai.com/2026/07/462979.html",
+        "published_date": "Thu, 30 Jul 2026 05:30:00 GMT",
+        "first_seen": "2026-07-30T07:34:23.373870"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-29T23:59:54.523759",
-    "Finance": "2026-07-30T00:00:17.086356",
-    "Ai": "2026-07-29T23:59:34.966171"
+    "Technology": "2026-07-30T07:34:39.770344",
+    "Finance": "2026-07-30T07:34:55.002877",
+    "Ai": "2026-07-30T07:34:23.373872"
   }
 }
