@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 31 Jul 2026 00:03:00 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Jul 2026 00:03:35 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 07:50:00 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:50:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年</title>
-      <link>https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 19:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产</title>
+      <link>http://www.geekpark.net/news/368198</link>
+      <description>&lt;![CDATA[OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 03:04:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368198</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence</title>
-      <link>https://www.tmtpost.com/8085252.html</link>
-      <description>&lt;![CDATA[How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8085252.html</guid>
+      <title>GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据</title>
+      <link>https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日</title>
-      <link>https://www.tmtpost.com/8085654.html</link>
-      <description>&lt;![CDATA[【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8085654.html</guid>
+      <title>微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了</title>
+      <link>https://www.infoq.cn/article/cWloUAofMHCLHpvscihh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 10:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/cWloUAofMHCLHpvscihh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋，给中国超节点带货</title>
-      <link>https://www.tmtpost.com/8085024.html</link>
-      <description>&lt;![CDATA[黄仁勋，给中国超节点带货]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8085024.html</guid>
+      <title>UBTECH’s Humanlike Robot Bet Tests Whether Machines Can Become More Than Industrial Tools</title>
+      <link>https://www.tmtpost.com/8086616.html</link>
+      <description>&lt;![CDATA[UBTECH’s Humanlike Robot Bet Tests Whether Machines Can Become More Than Industrial Tools]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 13:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8086616.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>错过500亿遗憾离场，3万亿“共富”，长鑫上市背后的一些细节</title>
-      <link>https://www.tmtpost.com/8083998.html</link>
-      <description>&lt;![CDATA[错过500亿遗憾离场，3万亿“共富”，长鑫上市背后的一些细节]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8083998.html</guid>
+      <title>豆包收编飞书，大厂猛攻AI办公</title>
+      <link>https://www.tmtpost.com/8086400.html</link>
+      <description>&lt;![CDATA[豆包收编飞书，大厂猛攻AI办公]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8086400.html</guid>
       <category>Technology</category>
     </item>
   </channel>
