@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Jul 2026 10:22:00 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2026 10:23:21 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 00:03:00 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:03:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”</title>
-      <link>https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年</title>
+      <link>https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 19:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>深度访谈｜第二次权力转移：当Agent拿走数据库的行动权</title>
-      <link>https://www.infoq.cn/article/B2GjIEBr0c1L0amoKmNf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[深度访谈｜第二次权力转移：当Agent拿走数据库的行动权]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/B2GjIEBr0c1L0amoKmNf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence</title>
+      <link>https://www.tmtpost.com/8085252.html</link>
+      <description>&lt;![CDATA[How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 16:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8085252.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>1v1 对话：具身行业的“取巧”路，何时结束？</title>
-      <link>https://www.infoq.cn/video/Fb2cph8EEHQH3mGhkCCF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[1v1 对话：具身行业的“取巧”路，何时结束？]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 17:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/Fb2cph8EEHQH3mGhkCCF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日</title>
+      <link>https://www.tmtpost.com/8085654.html</link>
+      <description>&lt;![CDATA[【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日]]&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8085654.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国机器人，提前经历“大疆时刻”</title>
-      <link>https://www.tmtpost.com/8084201.html</link>
-      <description>&lt;![CDATA[中国机器人，提前经历“大疆时刻”]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 15:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084201.html</guid>
+      <title>黄仁勋，给中国超节点带货</title>
+      <link>https://www.tmtpost.com/8085024.html</link>
+      <description>&lt;![CDATA[黄仁勋，给中国超节点带货]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8085024.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产大模型，贵到用不起？</title>
-      <link>https://www.tmtpost.com/8084364.html</link>
-      <description>&lt;![CDATA[国产大模型，贵到用不起？]]&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 09:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8084364.html</guid>
+      <title>错过500亿遗憾离场，3万亿“共富”，长鑫上市背后的一些细节</title>
+      <link>https://www.tmtpost.com/8083998.html</link>
+      <description>&lt;![CDATA[错过500亿遗憾离场，3万亿“共富”，长鑫上市背后的一些细节]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8083998.html</guid>
       <category>Technology</category>
     </item>
   </channel>

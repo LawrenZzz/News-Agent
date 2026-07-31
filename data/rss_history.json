@@ -2371,6 +2371,36 @@
         "link": "https://www.tmtpost.com/8084364.html",
         "published_date": "Thu, 30 Jul 2026 09:13:00 GMT",
         "first_seen": "2026-07-30T10:23:21.021233"
+      },
+      "2f621d8ca6daf3bf8da2fe182b5e9247099bdb67965e4abe3411e12403e694b7": {
+        "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
+        "link": "https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 30 Jul 2026 19:50:00 GMT",
+        "first_seen": "2026-07-31T00:03:35.869823"
+      },
+      "47a4284795535829ba6f82eb40ea51ff67b8eb91b9549d004e6047cac4f331a6": {
+        "title": "How Kimi K3 and Open-Weight Scaling Are Breaking the Proprietary Monopoly on Frontier Intelligence",
+        "link": "https://www.tmtpost.com/8085252.html",
+        "published_date": "Thu, 30 Jul 2026 16:02:00 GMT",
+        "first_seen": "2026-07-31T00:03:35.869830"
+      },
+      "d20cfdd6713f4c00f524576e42398555ca5173b37f36357dd2d9f888f69b9ebc": {
+        "title": "【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
+        "link": "https://www.tmtpost.com/8085654.html",
+        "published_date": "Fri, 31 Jul 2026 07:20:00 GMT",
+        "first_seen": "2026-07-31T00:03:35.869833"
+      },
+      "2ab7c46a9b360c8b4b7c51b0961054295d42a19569112040c500b8b6e2fc2a34": {
+        "title": "黄仁勋，给中国超节点带货",
+        "link": "https://www.tmtpost.com/8085024.html",
+        "published_date": "Thu, 30 Jul 2026 19:00:00 GMT",
+        "first_seen": "2026-07-31T00:03:35.869835"
+      },
+      "05ca2d79eba5bc37524f99e0731a18d4db62e09a897931d7974d75a32efe937a": {
+        "title": "错过500亿遗憾离场，3万亿“共富”，长鑫上市背后的一些细节",
+        "link": "https://www.tmtpost.com/8083998.html",
+        "published_date": "Thu, 30 Jul 2026 10:33:00 GMT",
+        "first_seen": "2026-07-31T00:03:35.869837"
       }
     },
     "Finance": {
@@ -4497,6 +4527,36 @@
         "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
         "published_date": "Thu, 30 Jul 2026 09:15:00 GMT",
         "first_seen": "2026-07-30T10:23:32.856241"
+      },
+      "e1fbc24056912c445caadfa4e1ddd1e32d83f1210902ea7802adce73dcd44c2b": {
+        "title": "Trump ‘not sure’ he will let Ukraine build Patriot missiles",
+        "link": "https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 23:30:00 GMT",
+        "first_seen": "2026-07-31T00:04:24.338652"
+      },
+      "caa9acb5e5c9542a13c1bf3c23bb646dac3d237571c0a4e554b22d125d1edff6": {
+        "title": "Apple forecasts slower growth as AI build-out strains tech supply chains",
+        "link": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 23:17:00 GMT",
+        "first_seen": "2026-07-31T00:04:24.338662"
+      },
+      "e800877e367cc59593ff2054eb4888a280563fdea40d3324f59925885b8b1ebf": {
+        "title": "Amazon increases AI infrastructure spending to $220bn this year",
+        "link": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 22:52:00 GMT",
+        "first_seen": "2026-07-31T00:04:24.338664"
+      },
+      "0c0f155166ebf6aab025e2f397071407d5d9f4cd2ec25b4eabf3238149819f07": {
+        "title": "Spain’s migrant crisis triggers Italian call for EU travel restrictions",
+        "link": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 21:50:00 GMT",
+        "first_seen": "2026-07-31T00:04:24.338666"
+      },
+      "35c607e732f862774df745c44c695cab03b2807bca320d4c0cca67555f2692e8": {
+        "title": "Fifa’s $20bn commercial spin-off at risk as Europe unites behind World Cup boycott",
+        "link": "https://www.ft.com/content/b12a08f4-442c-4f10-9688-0f93553a292f?syn-25a6b1a6=1",
+        "published_date": "Thu, 30 Jul 2026 20:02:00 GMT",
+        "first_seen": "2026-07-31T00:04:24.338668"
       }
     },
     "Ai": {
@@ -5951,13 +6011,19 @@
         "link": "https://hex2077.dev/docs/2026-07/2026-07-30/",
         "published_date": "Thu, 30 Jul 2026 10:20:00 GMT",
         "first_seen": "2026-07-30T10:22:59.585900"
+      },
+      "d4b6f7f3f6e6df3910b29738ec9d9aa9450a58eb0a8d053bfb3db08576ea6632": {
+        "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+        "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+        "published_date": "Thu, 30 Jul 2026 20:36:00 GMT",
+        "first_seen": "2026-07-31T00:03:08.229776"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-30T10:23:21.021236",
-    "Finance": "2026-07-30T10:23:32.856242",
-    "Ai": "2026-07-30T10:22:59.585902"
+    "Technology": "2026-07-31T00:03:35.869839",
+    "Finance": "2026-07-31T00:04:24.338669",
+    "Ai": "2026-07-31T00:03:08.229786"
   }
 }
