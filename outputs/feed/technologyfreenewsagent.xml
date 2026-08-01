@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 31 Jul 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 00:00:43 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 07:27:00 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:27:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Autonomous Intelligence and the End of Productivity Software</title>
-      <link>https://www.tmtpost.com/8087563.html</link>
-      <description>&lt;![CDATA[Autonomous Intelligence and the End of Productivity Software]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8087563.html</guid>
+      <title>AI 重构公司，字节肢解飞书，豆包接驳抖音</title>
+      <link>https://www.tmtpost.com/8087238.html</link>
+      <description>&lt;![CDATA[AI 重构公司，字节肢解飞书，豆包接驳抖音]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 10:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087238.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从计算到存储：二维半导体产业链正在形成</title>
-      <link>https://www.tmtpost.com/8085581.html</link>
-      <description>&lt;![CDATA[从计算到存储：二维半导体产业链正在形成]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8085581.html</guid>
+      <title>FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考</title>
+      <link>https://www.tmtpost.com/8087586.html</link>
+      <description>&lt;![CDATA[FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087586.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026</title>
-      <link>https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谁在成为人形机器人的Tier 1？</title>
+      <link>https://www.tmtpost.com/8087356.html</link>
+      <description>&lt;![CDATA[谁在成为人形机器人的Tier 1？]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8087356.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>光模块估值双轨制：上游稀缺重估与下游科技股叙事的认知断裂</title>
-      <link>https://www.tmtpost.com/8086478.html</link>
-      <description>&lt;![CDATA[光模块估值双轨制：上游稀缺重估与下游科技股叙事的认知断裂]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8086478.html</guid>
+      <title>92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了</title>
+      <link>https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 14:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包收飞书，钉钉降悟空，BAT想“锁死”AI打工人？</title>
-      <link>https://www.tmtpost.com/8086165.html</link>
-      <description>&lt;![CDATA[豆包收飞书，钉钉降悟空，BAT想“锁死”AI打工人？]]&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 14:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8086165.html</guid>
+      <title>硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务</title>
+      <link>https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务]]&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
