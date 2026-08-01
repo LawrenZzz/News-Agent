@@ -2401,6 +2401,36 @@
         "link": "https://www.infoq.cn/article/xeM23uOSNw0s7Q8xUCTp?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 31 Jul 2026 09:00:00 GMT",
         "first_seen": "2026-07-31T10:36:30.073983"
+      },
+      "618fce0efa6d343530be19d45469b61a5de3da5cf3396f089ae8fbcc1bc56c61": {
+        "title": "Autonomous Intelligence and the End of Productivity Software",
+        "link": "https://www.tmtpost.com/8087563.html",
+        "published_date": "Fri, 31 Jul 2026 19:34:00 GMT",
+        "first_seen": "2026-08-01T00:00:43.723687"
+      },
+      "e49b2fa1a66c9805a13d0e9f62b87f962a9cfb0e0484a81ae83a3d824f334415": {
+        "title": "从计算到存储：二维半导体产业链正在形成",
+        "link": "https://www.tmtpost.com/8085581.html",
+        "published_date": "Fri, 31 Jul 2026 18:46:00 GMT",
+        "first_seen": "2026-08-01T00:00:43.723697"
+      },
+      "482c6da4cd6616fa688a75673c0a8e4f135b5272395a9944d67b0f37630499a5": {
+        "title": "Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026",
+        "link": "https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 31 Jul 2026 18:48:00 GMT",
+        "first_seen": "2026-08-01T00:00:43.723700"
+      },
+      "fe7b8f6b8dde9c05a3c1349643f9783c4f8087fea0c5561746ec764d274f9b73": {
+        "title": "光模块估值双轨制：上游稀缺重估与下游科技股叙事的认知断裂",
+        "link": "https://www.tmtpost.com/8086478.html",
+        "published_date": "Fri, 31 Jul 2026 18:41:00 GMT",
+        "first_seen": "2026-08-01T00:00:43.723702"
+      },
+      "e33009971cf4ee52bde30a8d879c149018ff5f82378cf3f7be13485b9ef8bae4": {
+        "title": "豆包收飞书，钉钉降悟空，BAT想“锁死”AI打工人？",
+        "link": "https://www.tmtpost.com/8086165.html",
+        "published_date": "Fri, 31 Jul 2026 14:48:00 GMT",
+        "first_seen": "2026-08-01T00:00:43.723704"
       }
     },
     "Finance": {
@@ -4557,6 +4587,36 @@
         "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
         "published_date": "Fri, 31 Jul 2026 09:35:00 GMT",
         "first_seen": "2026-07-31T10:36:47.105285"
+      },
+      "5e247f796ccc763836af00ee1c8120ba09c4af53dbb0a57bc451a319a2a50fb8": {
+        "title": "US Treasury undertakes historic intervention in yen market",
+        "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
+        "published_date": "Fri, 31 Jul 2026 23:03:00 GMT",
+        "first_seen": "2026-08-01T00:01:04.432006"
+      },
+      "f5ad31f9f51c6756a897722f93cada7e7770d0e16bb130aafd39aa4ba169b14b": {
+        "title": "I helped bring in US bank stress tests. Now it is time to drop them",
+        "link": "https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3",
+        "published_date": "Fri, 31 Jul 2026 16:00:00 GMT",
+        "first_seen": "2026-08-01T00:01:04.432013"
+      },
+      "c1c20f39676e76e097ce41981b1620c6e716f77c7dcebbe75d912e756adb1716": {
+        "title": "Amazon completes $50bn investment in OpenAI",
+        "link": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
+        "published_date": "Fri, 31 Jul 2026 21:29:00 GMT",
+        "first_seen": "2026-08-01T00:01:04.432015"
+      },
+      "d0b71a5bd22e7112f65dc3167a4b86d8e77fd8a4558d1747ff2f2c49fab90f81": {
+        "title": "Bond sell-off sent warning on Fed’s credibility, says top central bank official",
+        "link": "https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1",
+        "published_date": "Fri, 31 Jul 2026 23:10:00 GMT",
+        "first_seen": "2026-08-01T00:01:04.432016"
+      },
+      "ade4d1a4d3a3a4b718229e68cafaa767b6f31b03eb4f44cf76a5e50b8ec7f988": {
+        "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+        "link": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
+        "published_date": "Fri, 31 Jul 2026 21:46:00 GMT",
+        "first_seen": "2026-08-01T00:01:04.432018"
       }
     },
     "Ai": {
@@ -5998,8 +6058,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-07-31T10:36:30.073985",
-    "Finance": "2026-07-31T10:36:47.105286",
+    "Technology": "2026-08-01T00:00:43.723706",
+    "Finance": "2026-08-01T00:01:04.432020",
     "Ai": "2026-07-31T10:36:06.165395"
   }
 }
