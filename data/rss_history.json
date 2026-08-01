@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "db9cabb6ce85362bbc116db3dfda641fd0b4fb3e7caa300cecde35fe4cc2b182": {
-        "title": "Cloudflare CEO 警告：未来两年，Agent 会让互联网每周爆出一个 Log4j",
-        "link": "https://www.infoq.cn/article/zhoGu6x9CdUJ3XMFvyK1?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 10:25:00 GMT",
-        "first_seen": "2026-07-02T08:12:15.026934"
-      },
-      "d8c1a3658516a7f773b2ac243f0e48ea9376d9430935c03b5c069f079c8d7bf3": {
-        "title": "GitLab 调研：AI 工具仅加快编码，整体软件交付效率并未提升",
-        "link": "https://www.infoq.cn/article/8WD205mNH9OGrkf8BRYO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 15:00:00 GMT",
-        "first_seen": "2026-07-02T08:12:15.026947"
-      },
-      "bca099ddfef62ba13b68b407be12bf771bcd79604c4f507ef0dfbaad8c1bcf6f": {
-        "title": "Dapr 1.18 推出可验证执行功能，为 AI 智能体与工作流赋予密码学信任能力",
-        "link": "https://www.infoq.cn/article/U3gIuyf8VccCdKZeiyCi?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 09:29:00 GMT",
-        "first_seen": "2026-07-02T08:12:15.026950"
-      },
-      "b83d4d85c03957ae27d443d7f0fbbc3ba5e73f28c7bdc0a4d582c39102a72200": {
-        "title": "Vercel 推出开源 AI 智能体开发框架 Eve",
-        "link": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 10:54:00 GMT",
-        "first_seen": "2026-07-02T08:12:15.026952"
-      },
-      "22e51be94c0fd99916e1776a629c938ab786b37490888698f83fedb8fa1eccc5": {
-        "title": "让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
-        "link": "https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 02 Jul 2026 12:45:00 GMT",
-        "first_seen": "2026-07-02T08:12:15.026954"
-      },
       "b38c8a74905310938afdf4eaa0d563189a96bc22d783216f0e65a67a0bdd20d2": {
         "title": "AI大厂，正在互相设防",
         "link": "https://www.tmtpost.com/8050490.html",
@@ -2431,39 +2401,39 @@
         "link": "https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 01 Aug 2026 10:00:00 GMT",
         "first_seen": "2026-08-01T07:27:45.357734"
+      },
+      "d217d8e779811a6c3e7345985e30419deb02288536c6b108c91bae04845f81e8": {
+        "title": "数百万本书，被Claude“阅后即焚”",
+        "link": "https://www.tmtpost.com/8088012.html",
+        "published_date": "Sat, 01 Aug 2026 16:41:00 GMT",
+        "first_seen": "2026-08-01T09:55:34.394901"
+      },
+      "9b7ce981a45750d0289035576cff8feec9b40c772da8971faa2156d2c8a105e8": {
+        "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
+        "link": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 01 Aug 2026 17:20:00 GMT",
+        "first_seen": "2026-08-01T09:55:34.394909"
+      },
+      "bae5b94824386876263372de0638845776d30a1c0a377c6fde315e25056afc2d": {
+        "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
+        "link": "https://www.tmtpost.com/8088046.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T09:55:34.394911"
+      },
+      "eeb5bb4ee0d4ba09a3206731f44b9f90f93882014c19bd6ce2b1ff2cc4e9ea9f": {
+        "title": "苹果的5万亿美元时刻：最强财报，最弱AI",
+        "link": "https://www.tmtpost.com/8087556.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T09:55:34.394914"
+      },
+      "75a453681ea42b597c0143aee5e4123b93b94d02812eb84ec13e61bb685d1c67": {
+        "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
+        "link": "https://www.tmtpost.com/8087383.html",
+        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
+        "first_seen": "2026-08-01T09:55:34.394915"
       }
     },
     "Finance": {
-      "d97e9ad7523b52b7e9deb553703f6a94bb4847684a698d84d7dcd7454d7e8704": {
-        "title": "Can Kevin Warsh tame the Fed’s $7tn balance sheet?",
-        "link": "https://www.ft.com/content/86f9a870-8198-47aa-a89f-56e7f148b9fb",
-        "published_date": "Thu, 02 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-02T08:12:26.846328"
-      },
-      "556dc4a879087c8add2c36d462a58365c33adf05eb3d79f7525bb2eec874fabc": {
-        "title": "OpenAI proposes handing Trump administration 5% stake",
-        "link": "https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b",
-        "published_date": "Thu, 02 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-02T08:12:26.846337"
-      },
-      "ad6ca3fe90e7771b31094bae13462592ef1eb472880c76028761c4541a3b4885": {
-        "title": "Russia unleashes huge bombardment of Kyiv",
-        "link": "https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6",
-        "published_date": "Thu, 02 Jul 2026 06:49:00 GMT",
-        "first_seen": "2026-07-02T08:12:26.846340"
-      },
-      "776f0635466b09f59fb3a53b9ed7b49882370c23c7d52407c4c6e5497b536ea5": {
-        "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop",
-        "link": "https://www.marketwatch.com/story/protein-packed-cheerios-and-cat-food-how-general-mills-plans-to-combat-a-tough-spending-backdrop-90734fed?mod=mw_rss_topstories",
-        "published_date": "Thu, 02 Jul 2026 00:15:00 GMT",
-        "first_seen": "2026-07-02T08:12:26.846341"
-      },
-      "2714e1ff3333d5e4ea215356cc0db918c9e3d4c2ce613375d3b56076e7cdcbb3": {
-        "title": "Sony is first console giant to stop making physical games",
-        "link": "https://www.ft.com/content/c1a7b7de-2d82-469b-80d5-0f9ef0e95420",
-        "published_date": "Thu, 02 Jul 2026 02:54:00 GMT",
-        "first_seen": "2026-07-02T08:12:26.846343"
-      },
       "05d2087ec547c520f0afb9ec3e0b87cae6e0010d901ca1ef38cd53dc8987a44a": {
         "title": "US economy undershoots forecasts with 57,000 jobs added in June",
         "link": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea",
@@ -4617,39 +4587,15 @@
         "link": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
         "published_date": "Sat, 01 Aug 2026 01:57:00 GMT",
         "first_seen": "2026-08-01T07:27:54.706250"
+      },
+      "1b7ca8ee1ceb618a69d1aeac71e8aec07c358cd1aa2cfa6284abccb035cdc789": {
+        "title": "Fifa abandons $20bn investment plan after global backlash",
+        "link": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
+        "published_date": "Sat, 01 Aug 2026 08:44:00 GMT",
+        "first_seen": "2026-08-01T09:55:34.443890"
       }
     },
     "Ai": {
-      "bf002ae148cde5348d72bfa83439f84134fb5830a8911e95505661889fc18005": {
-        "title": "训练世界模型，开始从人类的肌肉和脑子里偷师了",
-        "link": "https://www.qbitai.com/2026/07/441725.html",
-        "published_date": "Thu, 02 Jul 2026 05:44:00 GMT",
-        "first_seen": "2026-07-02T08:12:39.852405"
-      },
-      "69f018bcbdebcfbdcbcfaef5fbaae3fd18c3f3212fd0b1cf2a99bd7f3d656c0b": {
-        "title": "世界模型来了因果技术标杆！具身大脑真要长脑子了",
-        "link": "https://www.qbitai.com/2026/07/441490.html",
-        "published_date": "Thu, 02 Jul 2026 04:36:00 GMT",
-        "first_seen": "2026-07-02T08:12:39.852412"
-      },
-      "f58d396ce13f52bbd60f45f37201af1c4833cdab1365026f5fa9d2d50216c26c": {
-        "title": "天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进",
-        "link": "https://www.qbitai.com/2026/07/441786.html",
-        "published_date": "Thu, 02 Jul 2026 06:23:00 GMT",
-        "first_seen": "2026-07-02T08:12:39.852414"
-      },
-      "cf87adf3c947660138f98c0774786e1cc13303a6c635b2ab86149c24330a359d": {
-        "title": "人才黑洞！UC伯克利系主任都加入A社了",
-        "link": "https://www.qbitai.com/2026/07/441447.html",
-        "published_date": "Thu, 02 Jul 2026 03:49:00 GMT",
-        "first_seen": "2026-07-02T08:12:39.852416"
-      },
-      "160051c17a0bee471549fa2595a7df3ca9aff7304885de4e0b540b37e4984d1c": {
-        "title": "AI眼镜不再依赖手机！这次真要单飞了",
-        "link": "https://www.qbitai.com/2026/07/441491.html",
-        "published_date": "Thu, 02 Jul 2026 04:20:00 GMT",
-        "first_seen": "2026-07-02T08:12:39.852417"
-      },
       "c2863c112ca9e51f1512f32c45f809a07d646c4d46f9b9afb07aad43bb5674e0": {
         "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
         "link": "https://www.qbitai.com/2026/07/442134.html",
@@ -6065,13 +6011,19 @@
         "link": "https://www.qbitai.com/2026/08/464364.html",
         "published_date": "Sat, 01 Aug 2026 02:52:00 GMT",
         "first_seen": "2026-08-01T07:27:27.800506"
+      },
+      "dfcce21fa18b315d04887e5f54ac0d60e60bab4bce089bb817c34bc9d4d4f8fc": {
+        "title": "2026-08-01日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-01/",
+        "published_date": "Sat, 01 Aug 2026 10:52:00 GMT",
+        "first_seen": "2026-08-01T09:55:12.419257"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-01T07:27:45.357736",
-    "Finance": "2026-08-01T07:27:54.706252",
-    "Ai": "2026-08-01T07:27:27.800508"
+    "Technology": "2026-08-01T09:55:34.394917",
+    "Finance": "2026-08-01T09:55:34.443897",
+    "Ai": "2026-08-01T09:55:12.419268"
   }
 }
