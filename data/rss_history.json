@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9aa8b6508bf1181d0c7c06da8a07f2146be32f7df7ea929783a7db1381bfe6ba": {
-        "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
-        "link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Jul 2026 18:00:00 GMT",
-        "first_seen": "2026-07-03T10:42:14.695483"
-      },
-      "a921f2099eba6fe81e7d556e9375b7146dee3d6dc9bd4f9b272dcf97480177ff": {
-        "title": "英伟达发明了“算力贷”",
-        "link": "https://www.tmtpost.com/8051463.html",
-        "published_date": "Fri, 03 Jul 2026 16:54:00 GMT",
-        "first_seen": "2026-07-03T10:42:14.695494"
-      },
-      "e83372af8e1ded57244f725271f222aa259b9d15267c99245e5de63f849b1728": {
-        "title": "Meta为什么必须做“云”",
-        "link": "https://www.tmtpost.com/8051005.html",
-        "published_date": "Fri, 03 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-03T10:42:14.695497"
-      },
-      "ee42196a2eb85bdedcbeee5c231a341e93a32f73842fb6fda74cb89d5c32cbdf": {
-        "title": "2026，谁在为机器“人”买单？",
-        "link": "https://www.tmtpost.com/8051595.html",
-        "published_date": "Fri, 03 Jul 2026 12:50:00 GMT",
-        "first_seen": "2026-07-03T10:42:14.695499"
-      },
-      "85a9ac917145237e7b0fd2d779e3f4e7c05da53fcb5d707e50196c3ed60b4444": {
-        "title": "踩准创业板新规，西井科技冲刺“A股无人驾驶第一股”：赛力斯为第一大客户",
-        "link": "https://www.tmtpost.com/8052162.html",
-        "published_date": "Fri, 03 Jul 2026 17:43:00 GMT",
-        "first_seen": "2026-07-03T10:42:14.695501"
-      },
       "fbcb1dbfbe7e98e72548bd27c8058376a2eeaba9b848fad7c5153cb0ca2cc156": {
         "title": "可灵AI两部作品同时拿下戛纳金狮，视频大模型闯进商业创意主战场",
         "link": "https://www.tmtpost.com/8052433.html",
@@ -2461,6 +2431,36 @@
         "link": "https://www.tmtpost.com/8088161.html",
         "published_date": "Sun, 02 Aug 2026 08:22:00 GMT",
         "first_seen": "2026-08-02T09:54:51.956706"
+      },
+      "8db26e98430b594c3f82ed6694c2b586a60416141d55926df5d12e239e3b9836": {
+        "title": "【钛晨报】事关货币政策、债券市场，央行明确下半年重点；亚马逊完成对OpenAI总计500亿美元全额投资；“欧佩克+”主要产油国宣布9月继续增产",
+        "link": "https://www.tmtpost.com/8088550.html",
+        "published_date": "Mon, 03 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-02T23:56:51.468833"
+      },
+      "775694016faae738021e2dafa60dc1a2135ea1837877456796c5be31bfda972c": {
+        "title": "Loop才火了六周，AI Coding为什么又开始谈Graph？",
+        "link": "https://www.tmtpost.com/8088190.html",
+        "published_date": "Sun, 02 Aug 2026 19:24:00 GMT",
+        "first_seen": "2026-08-02T23:56:51.468842"
+      },
+      "a734eb68d8eda342c2f25e852c0c263fca6faf0a773378dceeff404553af5fda": {
+        "title": "派早报：DeepSeek V4 Flash 正式版发布",
+        "link": "https://sspai.com/post/113014",
+        "published_date": "Mon, 03 Aug 2026 06:49:00 GMT",
+        "first_seen": "2026-08-02T23:56:51.468844"
+      },
+      "3a370c4dc8e8b996c74edd27111f8dcca4d378269c124f06cb99d71c48384810": {
+        "title": "商业航天运力的“罗生门”",
+        "link": "https://www.tmtpost.com/8088371.html",
+        "published_date": "Sun, 02 Aug 2026 19:24:00 GMT",
+        "first_seen": "2026-08-02T23:56:51.468846"
+      },
+      "0e2d7ec0262e0065924678b54944678a78d4d5da8bef7218b626c95967ef11e0": {
+        "title": "贝索斯用AI寻找下一块硅",
+        "link": "https://www.tmtpost.com/8088394.html",
+        "published_date": "Sun, 02 Aug 2026 19:24:00 GMT",
+        "first_seen": "2026-08-02T23:56:51.468848"
       }
     },
     "Finance": {
@@ -4629,6 +4629,36 @@
         "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
         "published_date": "Sun, 02 Aug 2026 08:45:00 GMT",
         "first_seen": "2026-08-02T09:54:52.004603"
+      },
+      "9c20b7b469a906000c6a76445202e33bd12ae50c62ea6018b1a81124dd3f3c59": {
+        "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
+        "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+        "published_date": "Sun, 02 Aug 2026 20:52:00 GMT",
+        "first_seen": "2026-08-02T23:57:07.510116"
+      },
+      "6a8d0cd979e43e19d1cee44c96b5998947aa779ac9710da78fb96c89fae7e78e": {
+        "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
+        "link": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
+        "published_date": "Sun, 02 Aug 2026 17:32:00 GMT",
+        "first_seen": "2026-08-02T23:57:07.510122"
+      },
+      "9af6ee89120208c0480c4f26840a05c15b46509b8e96a09c528ae5e525945e4c": {
+        "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+        "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+        "published_date": "Sun, 02 Aug 2026 12:00:00 GMT",
+        "first_seen": "2026-08-02T23:57:07.510124"
+      },
+      "7e23d898c10c276a71b68ef73ed7bfc4e501e62889516237b05b1885ef1e0b5f": {
+        "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
+        "link": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
+        "published_date": "Sun, 02 Aug 2026 16:00:00 GMT",
+        "first_seen": "2026-08-02T23:57:07.510126"
+      },
+      "068df703433202c512c87cffead9ca037815ae723486fa2a714665e9649a013d": {
+        "title": "Morgan Stanley’s IPO after-party: a wealth management bonanza",
+        "link": "https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1",
+        "published_date": "Sun, 02 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-02T23:57:07.510128"
       }
     },
     "Ai": {
@@ -6028,8 +6058,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-02T09:54:51.956708",
-    "Finance": "2026-08-02T09:54:52.004611",
+    "Technology": "2026-08-02T23:56:51.468850",
+    "Finance": "2026-08-02T23:57:07.510131",
     "Ai": "2026-08-02T07:31:45.358438"
   }
 }
