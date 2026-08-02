@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cacd083a98b3dd0f383d115b0dd8aa26587feb3e145df817d3f87c88991c4a37": {
-        "title": "投资人疯抢具身智能",
-        "link": "https://www.tmtpost.com/8051824.html",
-        "published_date": "Fri, 03 Jul 2026 15:46:00 GMT",
-        "first_seen": "2026-07-03T08:01:23.192524"
-      },
-      "16e3a24ec9daa0c5e3ae5d52e13501bf7e206562bc3e142dec822d40f63afa8b": {
-        "title": "AI账单暴涨，实际效益难言：谁在助推“Token通胀”？",
-        "link": "https://www.tmtpost.com/8051758.html",
-        "published_date": "Fri, 03 Jul 2026 15:40:00 GMT",
-        "first_seen": "2026-07-03T08:01:23.192532"
-      },
-      "a9c5d0d1bee185002bf9560f769f3055496b49e9c7e92f8716609bace831df3f": {
-        "title": "大晓机器人首席科学家陶大程：世界模型的使命不是完整复制世界，而是精准支撑行动",
-        "link": "https://www.infoq.cn/article/tZe66KJ12UsjrqpeSiaA?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Jul 2026 15:17:00 GMT",
-        "first_seen": "2026-07-03T08:01:23.192535"
-      },
-      "30cce525769fa0b44d3f80d0deec1148ce738f818c86dd8ec4aa05b8d1625866": {
-        "title": "谁在卡灵巧手的脖子？",
-        "link": "https://www.tmtpost.com/8051427.html",
-        "published_date": "Fri, 03 Jul 2026 12:13:00 GMT",
-        "first_seen": "2026-07-03T08:01:23.192537"
-      },
-      "701d82bcdd20f8dd00085633959203cd7be17e72ea35aec9149073ae903bef2a": {
-        "title": "AI助力阅文，读者、作者何去何从？",
-        "link": "https://www.tmtpost.com/8051714.html",
-        "published_date": "Fri, 03 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-03T08:01:23.192538"
-      },
       "9aa8b6508bf1181d0c7c06da8a07f2146be32f7df7ea929783a7db1381bfe6ba": {
         "title": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
         "link": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC?utm_source=rss&utm_medium=article",
@@ -2461,39 +2431,39 @@
         "link": "https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 02 Aug 2026 09:11:00 GMT",
         "first_seen": "2026-08-02T07:32:02.528848"
+      },
+      "bd18448109502f22135cbd9b2fa212bb7192b18228cdead8264a55a7bfa39009": {
+        "title": "基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳",
+        "link": "https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 02 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-02T09:54:51.956687"
+      },
+      "6093468f61c306e7410bbba2bc11362543c526b9cbd4cc0f21b1c47d6c101556": {
+        "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
+        "link": "https://www.tmtpost.com/8088337.html",
+        "published_date": "Sun, 02 Aug 2026 10:43:00 GMT",
+        "first_seen": "2026-08-02T09:54:51.956699"
+      },
+      "098c66fb7f9d9e1ff2f078b5a8462904678bc01fffc1b003c6f4c15ea6a8ea34": {
+        "title": "这 2 个 GitHub 上开源 AI 同事，在 GitHub 上火了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535704&idx=1&sn=623306f6ea42ed3afa182ecf9c5a3e3d",
+        "published_date": "Sun, 02 Aug 2026 10:13:00 GMT",
+        "first_seen": "2026-08-02T09:54:51.956702"
+      },
+      "249e02799ee0dbdbc2a864e3977cca642cf3bfe3b0c69aecc0084ece935683c6": {
+        "title": "Seedance2.5来了，字节能打败自己吗？",
+        "link": "https://www.tmtpost.com/8088164.html",
+        "published_date": "Sun, 02 Aug 2026 08:25:00 GMT",
+        "first_seen": "2026-08-02T09:54:51.956704"
+      },
+      "5e28a1f81d34a96cad61d12b7361a5d7b385215c45b1540898562dc94b1c149e": {
+        "title": "WorkBuddy给腾讯长脸了",
+        "link": "https://www.tmtpost.com/8088161.html",
+        "published_date": "Sun, 02 Aug 2026 08:22:00 GMT",
+        "first_seen": "2026-08-02T09:54:51.956706"
       }
     },
     "Finance": {
-      "c3c910e30b5aaf8d15a4d25b278fdac44cdd434e5fd9c1400b6d75d25fc811de": {
-        "title": "Investing in an age of lawlessness",
-        "link": "https://www.ft.com/content/94aa54f6-7fe0-4829-8877-d6408ffe3d0f",
-        "published_date": "Fri, 03 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.000325"
-      },
-      "d1fed6e7ac61585e82968edc11946cf3c574a26553626f2e445a57d4a97061fa": {
-        "title": "Surging Wall Street profit forecasts fuel fears of ‘earnings bubble’",
-        "link": "https://www.ft.com/content/1d3da122-c043-4e51-bb95-ac68d41ab838",
-        "published_date": "Fri, 03 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.000332"
-      },
-      "65ccdb2e8ed086c6d8291dacdd88e000548772778d1a489f4006fba5200fac8a": {
-        "title": "How Jamie Dimon’s long succession race claimed another victim",
-        "link": "https://www.ft.com/content/4ab13dd4-b71d-45cf-bc44-8b17cb0ee8e0",
-        "published_date": "Fri, 03 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.000334"
-      },
-      "59a1834127a5cfc23ce924a335f3400a9281d1f701f042764693c4f5b2177a27": {
-        "title": "Gymshark founder in talks to buy back stake from General Atlantic",
-        "link": "https://www.ft.com/content/2096f4b1-7590-42d4-9a8b-a1358ad6f77b",
-        "published_date": "Fri, 03 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.000336"
-      },
-      "82d48f1c8a2df15db19c70d9d59727baf76aafd39e1a2033f27c4a4764c67407": {
-        "title": "Anthropic moves to close loopholes that allow Chinese access to Claude",
-        "link": "https://www.ft.com/content/ad033063-60f9-4c0c-8d8a-9193a83e6f60",
-        "published_date": "Fri, 03 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.000338"
-      },
       "98d66535660d695a84dde2a15bb3a62a50c359858988530ce56362705618ddbd": {
         "title": "Iran begins mourning for Khamenei under tight security",
         "link": "https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88543d08",
@@ -4653,33 +4623,15 @@
         "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
         "published_date": "Sun, 02 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-02T07:32:15.004777"
+      },
+      "5c100eaf68c85b1053097afc671263e8cf89b6ec2bc52467278a4742e6ee8d3f": {
+        "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
+        "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
+        "published_date": "Sun, 02 Aug 2026 08:45:00 GMT",
+        "first_seen": "2026-08-02T09:54:52.004603"
       }
     },
     "Ai": {
-      "e256533510caba723f1c3031c1c9812bd30b0d3e1f42bc6c08f288480223f95b": {
-        "title": "2026-07-03日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-03/",
-        "published_date": "Fri, 03 Jul 2026 10:15:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.113081"
-      },
-      "ca54853f90e43a2a5c888ae070a6543dcafc9f21a85242b572127436d96b9cc3": {
-        "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-        "link": "https://www.qbitai.com/2026/07/442311.html",
-        "published_date": "Fri, 03 Jul 2026 05:24:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.113089"
-      },
-      "aeb8e6ecb889249c0e0ab2c462f97cf445ce375f868f8f06092f2a9894b92f19": {
-        "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
-        "link": "https://www.qbitai.com/2026/07/442167.html",
-        "published_date": "Fri, 03 Jul 2026 03:36:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.113091"
-      },
-      "9293433841e82b219e041f4538362b83ca5314bb7793ea56fae5daede2c62385": {
-        "title": "世界模型的新用途：不做选手，去当裁判",
-        "link": "https://www.qbitai.com/2026/07/442138.html",
-        "published_date": "Fri, 03 Jul 2026 01:19:00 GMT",
-        "first_seen": "2026-07-03T08:01:54.113093"
-      },
       "646d1c7c231b7fc822d8daa4c21498247262f837f0bef4dbf1c5c7734e4f34be": {
         "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
         "link": "https://www.qbitai.com/2026/07/442746.html",
@@ -6076,8 +6028,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-02T07:32:02.528850",
-    "Finance": "2026-08-02T07:32:15.004779",
+    "Technology": "2026-08-02T09:54:51.956708",
+    "Finance": "2026-08-02T09:54:52.004611",
     "Ai": "2026-08-02T07:31:45.358438"
   }
 }
