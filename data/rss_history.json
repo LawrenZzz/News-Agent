@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c8b3711b339a2c2bcbbc7fa33efee729d4369b709a855f3ab8fc1f40e8b83e38": {
-        "title": "李飞飞、Jim Fan、徐丹飞联手，给具身智能指了一条新路",
-        "link": "https://www.tmtpost.com/8051935.html",
-        "published_date": "Sun, 05 Jul 2026 09:21:00 GMT",
-        "first_seen": "2026-07-05T07:56:08.389234"
-      },
-      "c251ba79378f9bcb77bc31bfd941537e369672c9d91f22c71345a19ca4e6e7f1": {
-        "title": "华为43%，寒武11%：2026年国产AI芯片的产能饥饿游戏",
-        "link": "https://www.tmtpost.com/8051488.html",
-        "published_date": "Sun, 05 Jul 2026 09:22:00 GMT",
-        "first_seen": "2026-07-05T07:56:08.389243"
-      },
-      "4077b6609194038744e8a2eea9d56aec303e1c31f22424990899c90191c72853": {
-        "title": "AI应用层，谁在真正赚钱？",
-        "link": "https://www.tmtpost.com/8053021.html",
-        "published_date": "Sun, 05 Jul 2026 09:19:00 GMT",
-        "first_seen": "2026-07-05T07:56:08.389246"
-      },
-      "bdc6e0d2c1f742969d782116a690038a27b7ef2b89b4041b2c1ac58699fc6a8d": {
-        "title": "AI引爆存储，江波龙上半年净利暴涨超600倍",
-        "link": "https://www.tmtpost.com/8053032.html",
-        "published_date": "Sun, 05 Jul 2026 09:19:00 GMT",
-        "first_seen": "2026-07-05T07:56:08.389248"
-      },
-      "bb845434b33fd69b88baf159720210eb790478a0d2bbc732b662d69b820f06fd": {
-        "title": "最高99万！优必选机器人卖爆，但实机有落差",
-        "link": "https://www.tmtpost.com/8053041.html",
-        "published_date": "Sun, 05 Jul 2026 09:22:00 GMT",
-        "first_seen": "2026-07-05T07:56:08.389250"
-      },
-      "e7ba3a6355c18b57b47cfa44ca2cdb2eddf202a01bced1bd4757387353947d26": {
-        "title": "AI 越记住你，越可能\"带着偏见理解你\"",
-        "link": "https://www.tmtpost.com/8053185.html",
-        "published_date": "Sun, 05 Jul 2026 17:28:00 GMT",
-        "first_seen": "2026-07-05T10:09:32.682894"
-      },
-      "54437e26dac87a31a12ff43040329941b7091f8d99c702da04a0a34b3eaf925d": {
-        "title": "Edge AI Daily 早报（7月5日）",
-        "link": "https://www.tmtpost.com/8053089.html",
-        "published_date": "Sun, 05 Jul 2026 08:39:00 GMT",
-        "first_seen": "2026-07-05T10:09:32.682904"
-      },
-      "1d7835c77fe1ca8c4fbdfe4371543402613a0bd09514c094029deaa07be8f25f": {
-        "title": "存储“二道贩子”江波龙，凭什么净利暴涨740倍？",
-        "link": "https://www.tmtpost.com/8052838.html",
-        "published_date": "Sun, 05 Jul 2026 09:19:00 GMT",
-        "first_seen": "2026-07-05T10:09:32.682907"
-      },
-      "ccd53345d53e7cdf134f80c0fa66a81029c30b03e0152a010befd54ab1ea336a": {
-        "title": "自测会不会被 Claude Code 标记为中国用户，有人做了个网页。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535120&idx=1&sn=7fabb3074ffa59a0b1059a2eb63aff4c",
-        "published_date": "Sun, 05 Jul 2026 11:01:00 GMT",
-        "first_seen": "2026-07-05T10:09:32.682909"
-      },
-      "c2507a05bc4c69eb4f54579a1cbab544a6381a4610be4ba4c258d15296179002": {
-        "title": "从销量回升到结构改善，昊铂埃安重建增长逻辑",
-        "link": "https://www.tmtpost.com/8053005.html",
-        "published_date": "Sun, 05 Jul 2026 11:53:00 GMT",
-        "first_seen": "2026-07-05T10:09:32.682911"
-      },
       "72d1a8ff1225e95c335e44def579806ca62f17792c01acb03f257fb82810711a": {
         "title": "腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放",
         "link": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article",
@@ -2431,39 +2371,39 @@
         "link": "https://www.tmtpost.com/8090186.html",
         "published_date": "Tue, 04 Aug 2026 11:27:00 GMT",
         "first_seen": "2026-08-04T07:43:57.414893"
+      },
+      "7eaf7c759def40504bae225fc240a579dd65f69181f1ff099e88d7c06e7debf5": {
+        "title": "以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限",
+        "link": "https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Aug 2026 14:15:00 GMT",
+        "first_seen": "2026-08-04T10:35:29.461116"
+      },
+      "e45bb94090fd402a71ffb9aae83b777e96065b68af19ff1a1c18fb9f0eb2165b": {
+        "title": "空客将“免受域外法律约束”列为其云服务招标的评分标准",
+        "link": "https://www.infoq.cn/article/oef2KK0GlgTwuwHr4B8Q?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Aug 2026 18:00:00 GMT",
+        "first_seen": "2026-08-04T10:35:29.461123"
+      },
+      "3c505ef891652712ffaf23ad86f840e35617b5023e51dc493689823180ddaf34": {
+        "title": "蚂蚁灵波拟募资15亿，押注机器人大脑",
+        "link": "https://www.tmtpost.com/8089637.html",
+        "published_date": "Tue, 04 Aug 2026 18:14:00 GMT",
+        "first_seen": "2026-08-04T10:35:29.461125"
+      },
+      "05fdf4b7c0185fa0e46dc244a7011421a9d265b69cf7a3aa33808361819869d9": {
+        "title": "千问迎战Kimi、DeepSeek，阿里的胜算在哪？",
+        "link": "https://www.tmtpost.com/8090976.html",
+        "published_date": "Tue, 04 Aug 2026 17:49:00 GMT",
+        "first_seen": "2026-08-04T10:35:29.461127"
+      },
+      "c1779919c82dba5f19d10f3fe224c49b30971cb72a30e916b07de283f8019fc6": {
+        "title": "光芯解码-企业突围篇：赛道核心玩家大盘点",
+        "link": "https://www.tmtpost.com/8090088.html",
+        "published_date": "Tue, 04 Aug 2026 13:54:00 GMT",
+        "first_seen": "2026-08-04T10:35:29.461129"
       }
     },
     "Finance": {
-      "61679cdc4bc1fc47638ef0eed8e8376cb99899648fa4719869af57c1dc8e32f2": {
-        "title": "Wall Street banks recover in China amid trading boom",
-        "link": "https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2",
-        "published_date": "Sun, 05 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.563655"
-      },
-      "8d953d91b1da55495982e9811f461f4b82bd16beb2f278d6a32394a6d0e228b4": {
-        "title": "Uber stalls European food delivery push as it pursues Delivery Hero takeover",
-        "link": "https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5",
-        "published_date": "Sun, 05 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.563661"
-      },
-      "89372c58fb753b0e712273a379cff7db70ff9fe33969bae7de5d90c97d9bb711": {
-        "title": "Oil market opens up as retail traders pour in",
-        "link": "https://www.ft.com/content/b64227fd-3fae-4fea-bb83-4cc463fa09ed",
-        "published_date": "Sun, 05 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.563663"
-      },
-      "9c2ebfcdea9f303c5018186658ed87660b8f063b5c5c7192e271f495a87853c4": {
-        "title": "Ukraine striking Russian energy infrastructure at unprecedented rate",
-        "link": "https://www.ft.com/content/13687b48-9e54-44a1-bd4d-600bbc052baf",
-        "published_date": "Sun, 05 Jul 2026 07:09:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.563665"
-      },
-      "008d1d3113ade3273a75546c97f42d79234be8f56976e1b706a182deb006471a": {
-        "title": "How Bending Spoons built a $23bn tech empire from struggling brands",
-        "link": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f",
-        "published_date": "Sun, 05 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.563667"
-      },
       "259ca735d898f9b26e090dfe0464a74b26af44e3efc533a5dde7518338868c40": {
         "title": "The chip pullback is ushering in a bumpy market. These sectors are the best bets now, according to Morgan Stanley.",
         "link": "https://www.marketwatch.com/story/the-chip-pullback-is-ushering-in-a-bumpy-market-these-sectors-are-the-best-bets-now-according-to-morgan-stanley-661566a7?mod=mw_rss_topstories",
@@ -4629,21 +4569,39 @@
         "link": "https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1",
         "published_date": "Tue, 04 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-04T07:44:09.610578"
+      },
+      "318b32f3b0b65ee3e218c9e94e1477eb59095d6964a8016ddaf4af5ff29cce54": {
+        "title": "AI displacement in the workplace is increasing – and affecting young people most",
+        "link": "https://www.marketwatch.com/story/ai-displacement-in-the-workplace-is-increasing-and-affecting-young-people-most-22ab61cc?mod=mw_rss_topstories",
+        "published_date": "Tue, 04 Aug 2026 09:39:00 GMT",
+        "first_seen": "2026-08-04T10:35:49.036124"
+      },
+      "ae3227779ad4255f333443f02930462b8cde35d079bdb57d9ebe50909003ba11": {
+        "title": "Energy shock delivers 144% boost in profits for BP",
+        "link": "https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories",
+        "published_date": "Tue, 04 Aug 2026 09:25:00 GMT",
+        "first_seen": "2026-08-04T10:35:49.036131"
+      },
+      "ecc93fe096f35cf9ed6dd4426201cb691f59c1b3918a87cae0ce5be007564256": {
+        "title": "Ukrainian drones hit Wildberries warehouses in overnight strikes",
+        "link": "https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1",
+        "published_date": "Tue, 04 Aug 2026 08:57:00 GMT",
+        "first_seen": "2026-08-04T10:35:49.036133"
+      },
+      "fd68faa4d245755a114f01a6409684abd10a9e52487bf6d5eb1faefe32e41942": {
+        "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+        "link": "https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories",
+        "published_date": "Tue, 04 Aug 2026 10:15:00 GMT",
+        "first_seen": "2026-08-04T10:35:49.036135"
+      },
+      "1012f695253e62e81628513afd67ab7c8711382555fc2c913fdc253ff1022dcd": {
+        "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+        "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+        "published_date": "Tue, 04 Aug 2026 10:30:00 GMT",
+        "first_seen": "2026-08-04T10:35:49.036137"
       }
     },
     "Ai": {
-      "2d3808b38613d83b0e4e29e4b0aa0c038bed09adfbf6fdb4263952b21148ac7a": {
-        "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
-        "link": "https://www.qbitai.com/2026/07/443066.html",
-        "published_date": "Sun, 05 Jul 2026 06:59:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.679411"
-      },
-      "09084b07a2cdeecb7d67a8fa39ae68531901b9d90c7acf17e97d68eacdb26fb0": {
-        "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-        "link": "https://www.qbitai.com/2026/07/442964.html",
-        "published_date": "Sun, 05 Jul 2026 06:52:00 GMT",
-        "first_seen": "2026-07-05T07:56:20.679419"
-      },
       "e77617d7587d2678c187e8e27642949583187335536521c934d7b5f458b155a7": {
         "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
         "link": "https://www.qbitai.com/2026/07/443399.html",
@@ -6029,13 +5987,43 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-04/",
         "published_date": "Tue, 04 Aug 2026 10:47:00 GMT",
         "first_seen": "2026-08-04T07:43:37.180321"
+      },
+      "443724402449408361eb0d48f8a0c6564ff695115acf700f2efc78959a0a393f": {
+        "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+        "link": "https://www.qbitai.com/2026/08/465792.html",
+        "published_date": "Tue, 04 Aug 2026 09:22:00 GMT",
+        "first_seen": "2026-08-04T10:35:04.987302"
+      },
+      "64f9c4440b446c24e24a1783e3954f74768f088a45e47b13e348ab53d946cc6b": {
+        "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+        "link": "https://www.qbitai.com/2026/08/466262.html",
+        "published_date": "Tue, 04 Aug 2026 09:18:00 GMT",
+        "first_seen": "2026-08-04T10:35:04.987313"
+      },
+      "5324f2a9ffaa9d686d03032d33a609a9ef0717c674288060e52134cfc67bbcf0": {
+        "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+        "link": "https://www.qbitai.com/2026/08/466032.html",
+        "published_date": "Tue, 04 Aug 2026 09:13:00 GMT",
+        "first_seen": "2026-08-04T10:35:04.987315"
+      },
+      "f1aa0aa0393f9c52aff3cc1f68964e4cad241b7c65f366d77bd8e4a3f0814c48": {
+        "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+        "link": "https://www.qbitai.com/2026/08/465973.html",
+        "published_date": "Tue, 04 Aug 2026 08:58:00 GMT",
+        "first_seen": "2026-08-04T10:35:04.987317"
+      },
+      "d21a2a0ee19af34d3c66ac76ebc1b5839f564ff068a595d7bfb8145b7c716c88": {
+        "title": "DeepSeek低价风暴打服硅谷！海外平台争相倒贴V4 Flash",
+        "link": "https://www.qbitai.com/2026/08/465814.html",
+        "published_date": "Tue, 04 Aug 2026 08:18:00 GMT",
+        "first_seen": "2026-08-04T10:35:04.987319"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-04T07:43:57.414895",
-    "Finance": "2026-08-04T07:44:09.610580",
-    "Ai": "2026-08-04T07:43:37.180330"
+    "Technology": "2026-08-04T10:35:29.461131",
+    "Finance": "2026-08-04T10:35:49.036138",
+    "Ai": "2026-08-04T10:35:04.987321"
   }
 }
