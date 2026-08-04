@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1c1ceeb007bd13fd2c2c3f2977d4797f8b08e76e98e38bf490e84ce3cb38c734": {
-        "title": "从ARD协议说起，Agent行业的拐点到了",
-        "link": "https://www.tmtpost.com/8052499.html",
-        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-04T10:07:03.789093"
-      },
-      "2b958f8347009ab2a2e02a4a76168b6563eaa0619f4b6d90f2bf07d95cb12546": {
-        "title": "Deepseek调价居然和电有关？AI开收“高峰电费”，算电协同到底是怎么个“协同”？",
-        "link": "https://www.tmtpost.com/8052737.html",
-        "published_date": "Sat, 04 Jul 2026 15:55:00 GMT",
-        "first_seen": "2026-07-04T10:07:03.789102"
-      },
-      "83db25e98d1983d6f1876045620c19e1cac4c59a9ff6ae7881f2b0eca954ed08": {
-        "title": "OpenAI要怎么卖广告",
-        "link": "https://www.tmtpost.com/8052577.html",
-        "published_date": "Sat, 04 Jul 2026 15:56:00 GMT",
-        "first_seen": "2026-07-04T10:07:03.789105"
-      },
-      "d6b140626c6694689ed80474c2f63b6013887ad0b53b9f346ec96917dd7aa608": {
-        "title": "订单排到2027年，谁在支撑人形机器人的“量产元年”？",
-        "link": "https://www.tmtpost.com/8052511.html",
-        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-04T10:07:03.789107"
-      },
-      "e8ba02f9b807fd47525d92c047c1cd973043db113186f4d54dfcbc0bdf8bbd24": {
-        "title": "芯片冷却，涌现大量“黑科技”",
-        "link": "https://www.tmtpost.com/8052444.html",
-        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
-        "first_seen": "2026-07-04T10:07:03.789109"
-      },
       "02a64ec346981774dc7454506a88410c4d9bd0b8a19d21d7e6baef90261e2ce9": {
         "title": "【数智周报】  智平方完成近50亿元融资；豆包：智能体功能将于7月15日下线；可灵AI落地近30亿美元融资 ；Anthropic推出Claude Science",
         "link": "https://www.tmtpost.com/8052985.html",
@@ -2431,6 +2401,36 @@
         "link": "https://www.tmtpost.com/8088903.html",
         "published_date": "Mon, 03 Aug 2026 11:31:00 GMT",
         "first_seen": "2026-08-03T08:27:22.455448"
+      },
+      "58b2754c1f4f3e640e17e38615f965acd70fb4cb7df26a0a6fc59bf3b11629cc": {
+        "title": "Altman 带着GPT-6进白宫？OpenAI 新模型曝光，或成美国首批过审模型",
+        "link": "https://www.infoq.cn/article/uRoTVrUKptoRHzFwSpxj?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 03 Aug 2026 11:55:00 GMT",
+        "first_seen": "2026-08-04T00:07:08.187268"
+      },
+      "d7dda172da652b5e6d8ccd67cefe48914cb31b907ab2cb7aa076434c4926ce1b": {
+        "title": "AI科研范式革命：花200美元即可攻克一道数学世纪难题",
+        "link": "https://www.tmtpost.com/8089368.html",
+        "published_date": "Mon, 03 Aug 2026 19:13:00 GMT",
+        "first_seen": "2026-08-04T00:07:08.187274"
+      },
+      "f08e38bba8b2493abe85ed617c8efa2508155b2dd400c6a435b97facd8b89080": {
+        "title": "【钛晨报】李强签署国务院令，公布修订后的《集成电路布图设计保护条例》；针对跨境、跨币种业务新增流动性管理要求，券商流动性管理迎新规；月之暗面回应港股IPO传闻：消息不实",
+        "link": "https://www.tmtpost.com/8089688.html",
+        "published_date": "Tue, 04 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-04T00:07:08.187276"
+      },
+      "dc00d76c5f38529a7d5f65336405265fe7a4a52ed59d338305bfe7decfc0a7ac": {
+        "title": "200个任务、1700万帧！大晓开源L5级具身数据集ACE-Data-0，把真实家庭变成机器人的物理世界教材",
+        "link": "https://www.infoq.cn/article/KlOeH3DoO10hQixeYQvM?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 03 Aug 2026 17:57:00 GMT",
+        "first_seen": "2026-08-04T00:07:08.187278"
+      },
+      "a81ffae3560e026fc9ccd399ce1b7c80d5fd67a9ddb6268660db106b8c111389": {
+        "title": "对话博登智能赵捷：十亿订单在手，具身智能最缺的仍是高质量数据",
+        "link": "https://www.tmtpost.com/8085920.html",
+        "published_date": "Mon, 03 Aug 2026 19:48:00 GMT",
+        "first_seen": "2026-08-04T00:07:08.187280"
       }
     },
     "Finance": {
@@ -4599,6 +4599,36 @@
         "link": "https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1",
         "published_date": "Mon, 03 Aug 2026 07:47:00 GMT",
         "first_seen": "2026-08-03T08:27:33.160323"
+      },
+      "8ec39e3459568da20284d23e73d8334eade845eb93b25caba4071cedbaf84d2e": {
+        "title": "AstraZeneca and Bristol-Myers: when Big Pharma isn’t big enough",
+        "link": "https://www.ft.com/content/6282b88a-6f49-40cc-b1d8-5e147e7e37f1?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 16:33:00 GMT",
+        "first_seen": "2026-08-04T00:07:26.884660"
+      },
+      "acd04019ade6254c289136cc664ad3f6572d5f29cb587439ea0ce70fa42838af": {
+        "title": "Japan vows further yen intervention with US if needed",
+        "link": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+        "published_date": "Mon, 03 Aug 2026 15:09:00 GMT",
+        "first_seen": "2026-08-04T00:07:26.884666"
+      },
+      "f4b363de010a24859d4e92e59a6be55086c0457e4ebb7d8d06155fdab64ce534": {
+        "title": "Palantir’s stock climbs after earnings, as AI drives turbocharged growth",
+        "link": "https://www.marketwatch.com/story/palantirs-stock-gains-as-ai-drives-turbocharged-growth-e006b70a?mod=mw_rss_topstories",
+        "published_date": "Mon, 03 Aug 2026 21:59:00 GMT",
+        "first_seen": "2026-08-04T00:07:26.884669"
+      },
+      "aa6663d385f42a76d2ab09210c031b219a24b6110550dcd1d2b084844bab3a35": {
+        "title": "How big was the American JPY intervention?",
+        "link": "https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9",
+        "published_date": "Mon, 03 Aug 2026 17:14:00 GMT",
+        "first_seen": "2026-08-04T00:07:26.884671"
+      },
+      "465081e879492ac81eccc51472d11c5b450a8d865fc1adb9e5927792f0840e4f": {
+        "title": "This indicator is giving the bull market another lease on life",
+        "link": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
+        "published_date": "Mon, 03 Aug 2026 20:44:00 GMT",
+        "first_seen": "2026-08-04T00:07:26.884673"
       }
     },
     "Ai": {
@@ -5981,13 +6011,25 @@
         "link": "https://www.qbitai.com/2026/08/465662.html",
         "published_date": "Mon, 03 Aug 2026 06:58:00 GMT",
         "first_seen": "2026-08-03T08:27:00.098523"
+      },
+      "3cedef2160905f55a076d110781957c2a6e93361c1e4e445c655f8ac7cd54823": {
+        "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+        "link": "https://www.qbitai.com/2026/08/465673.html",
+        "published_date": "Mon, 03 Aug 2026 11:59:00 GMT",
+        "first_seen": "2026-08-04T00:06:47.465746"
+      },
+      "033503cbbdcdacc09c9ce74ce26df724035bc02201f5218645813828db88187a": {
+        "title": "2026-08-03日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-03/",
+        "published_date": "Mon, 03 Aug 2026 10:56:00 GMT",
+        "first_seen": "2026-08-04T00:06:47.465757"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-03T08:27:22.455450",
-    "Finance": "2026-08-03T08:27:33.160325",
-    "Ai": "2026-08-03T08:27:00.098525"
+    "Technology": "2026-08-04T00:07:08.187282",
+    "Finance": "2026-08-04T00:07:26.884675",
+    "Ai": "2026-08-04T00:06:47.465760"
   }
 }
