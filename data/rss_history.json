@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "02a64ec346981774dc7454506a88410c4d9bd0b8a19d21d7e6baef90261e2ce9": {
-        "title": "【数智周报】  智平方完成近50亿元融资；豆包：智能体功能将于7月15日下线；可灵AI落地近30亿美元融资 ；Anthropic推出Claude Science",
-        "link": "https://www.tmtpost.com/8052985.html",
-        "published_date": "Sat, 04 Jul 2026 19:38:00 GMT",
-        "first_seen": "2026-07-05T00:22:12.205219"
-      },
-      "a3055eab4583c5e46ae527c23456f25eb0aa9c08fb71bfd6fa7281267bb64c76": {
-        "title": "15年首次调整车船税，新能源车的“免税滤镜”正在慢慢消失",
-        "link": "https://www.tmtpost.com/8052855.html",
-        "published_date": "Sat, 04 Jul 2026 15:42:00 GMT",
-        "first_seen": "2026-07-05T00:22:12.205233"
-      },
-      "ea0c7dc17da409629244f3c9d4955e469b23d8ff6ce814fce065054360656f97": {
-        "title": "程一笑要带可灵AI打“对赌局”",
-        "link": "https://www.tmtpost.com/8052804.html",
-        "published_date": "Sat, 04 Jul 2026 15:25:00 GMT",
-        "first_seen": "2026-07-05T00:22:12.205236"
-      },
-      "29ee76a6fb904fb4866d7f7cc3ed3b5c2972682cdbae01dd659298dd16407f93": {
-        "title": "99万买个不干活的机器人，“陪伴经济”催生下一个万亿风口？",
-        "link": "https://www.tmtpost.com/8052428.html",
-        "published_date": "Sat, 04 Jul 2026 11:55:00 GMT",
-        "first_seen": "2026-07-05T00:22:12.205238"
-      },
-      "cecca0542b36e2cc0345a27dd1ecfcb185147cc43ee6b922142f2ceebf49b216": {
-        "title": "WPS：整改之后，才是大考",
-        "link": "https://www.tmtpost.com/8052708.html",
-        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
-        "first_seen": "2026-07-05T00:22:12.205240"
-      },
       "c8b3711b339a2c2bcbbc7fa33efee729d4369b709a855f3ab8fc1f40e8b83e38": {
         "title": "李飞飞、Jim Fan、徐丹飞联手，给具身智能指了一条新路",
         "link": "https://www.tmtpost.com/8051935.html",
@@ -2431,39 +2401,39 @@
         "link": "https://www.tmtpost.com/8085920.html",
         "published_date": "Mon, 03 Aug 2026 19:48:00 GMT",
         "first_seen": "2026-08-04T00:07:08.187280"
+      },
+      "3306092c26806ec59614b21bfa86d8185780979b5fc634afce19c04eeb95b5d9": {
+        "title": "物理AI不是下一个风口，而是下一轮工业革命",
+        "link": "https://www.tmtpost.com/8090414.html",
+        "published_date": "Tue, 04 Aug 2026 14:41:00 GMT",
+        "first_seen": "2026-08-04T07:43:57.414880"
+      },
+      "1ab3abbf7a4ae434b6c8c8fe62343cbcf5f04a8be556068cfd56d44b89378d6d": {
+        "title": "自动驾驶下半场，决胜逻辑早已跳出“唯规模论”？",
+        "link": "https://www.tmtpost.com/8089028.html",
+        "published_date": "Tue, 04 Aug 2026 14:22:00 GMT",
+        "first_seen": "2026-08-04T07:43:57.414887"
+      },
+      "a799e8599281518daa8a48011234eec31dbc8326087cd73418c67260ed22ab75": {
+        "title": "投资人拆解脑机接口：不是所有“技术领先”都值得下注",
+        "link": "https://www.tmtpost.com/8090362.html",
+        "published_date": "Tue, 04 Aug 2026 13:52:00 GMT",
+        "first_seen": "2026-08-04T07:43:57.414889"
+      },
+      "f3c2b520feb4e0152f934c5262bf3c3df38154af0e6e49528c353e1584f11824": {
+        "title": "一个季度多签960亿：Meta把未来20年的机房都租了，谁来兜底？",
+        "link": "https://www.tmtpost.com/8089647.html",
+        "published_date": "Tue, 04 Aug 2026 14:16:00 GMT",
+        "first_seen": "2026-08-04T07:43:57.414891"
+      },
+      "b0b657436cf43f6101aee51046f624243203102d26c79f30a092ec952a14855c": {
+        "title": "嘉立创IPO：950万工程师生态背后，硬件创新基础设施的长期价值重估",
+        "link": "https://www.tmtpost.com/8090186.html",
+        "published_date": "Tue, 04 Aug 2026 11:27:00 GMT",
+        "first_seen": "2026-08-04T07:43:57.414893"
       }
     },
     "Finance": {
-      "c81b8a6b39edf1173f1882e29861e4974c9e4d6998cfdaa4df96c7164c25ecda": {
-        "title": "Why June’s jobs and inflation data are bullish for bonds",
-        "link": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
-        "published_date": "Sat, 04 Jul 2026 18:37:00 GMT",
-        "first_seen": "2026-07-05T00:22:26.260137"
-      },
-      "bc3bd92581a18ce0a398007f6d08371fd3a667bb68f68b4f6c6140352c5370af": {
-        "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
-        "link": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
-        "published_date": "Sat, 04 Jul 2026 18:19:00 GMT",
-        "first_seen": "2026-07-05T00:22:26.260144"
-      },
-      "a51895a6d951fa98a78b27f450b6e9a3c81213e7baf930f48ed0d62a01bf9d37": {
-        "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-        "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-        "published_date": "Sat, 04 Jul 2026 18:56:00 GMT",
-        "first_seen": "2026-07-05T00:22:26.260148"
-      },
-      "0f1fd866763566f5a0c9c3b6049dca84fd8c15c7b627cf4bee319c2c84d28a8e": {
-        "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-        "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-        "published_date": "Sat, 04 Jul 2026 20:56:00 GMT",
-        "first_seen": "2026-07-05T00:22:26.260150"
-      },
-      "37212cb5b4a87b90a734df3892857c61ece3b3422056510c260cdc65e23ca3ff": {
-        "title": "Jelly Roll’s ex-wife Bunnie Xo says he gave her their $6 million Tennessee estate in divorce",
-        "link": "https://www.marketwatch.com/story/jelly-rolls-ex-wife-bunnie-xo-says-he-gave-her-their-6-million-tennessee-estate-in-divorce-97a6c910?mod=mw_rss_topstories",
-        "published_date": "Sat, 04 Jul 2026 17:57:00 GMT",
-        "first_seen": "2026-07-05T00:22:26.260152"
-      },
       "61679cdc4bc1fc47638ef0eed8e8376cb99899648fa4719869af57c1dc8e32f2": {
         "title": "Wall Street banks recover in China amid trading boom",
         "link": "https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2",
@@ -4629,6 +4599,36 @@
         "link": "https://www.marketwatch.com/story/this-indicator-is-giving-the-bull-market-another-lease-on-life-47479269?mod=mw_rss_topstories",
         "published_date": "Mon, 03 Aug 2026 20:44:00 GMT",
         "first_seen": "2026-08-04T00:07:26.884673"
+      },
+      "ff62ef79286c0f90fe9fd1be93aa8c0cb0e465e476c99610bd7e4d8f97164541": {
+        "title": "Bessent’s yen intervention signals new era of US ‘currency activism’",
+        "link": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1",
+        "published_date": "Tue, 04 Aug 2026 03:35:00 GMT",
+        "first_seen": "2026-08-04T07:44:09.610566"
+      },
+      "15ab02853c67bf0afe3b775819f7a84af7d943b708f2049a244445c16da9ae60": {
+        "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+        "link": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
+        "published_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-04T07:44:09.610572"
+      },
+      "023a14ec1716be9febb2f3305f8b61ee0a95d283b731fe1092a877b5ebb4d149": {
+        "title": "BP to sell $4bn US biogas business as profits more than double",
+        "link": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
+        "published_date": "Tue, 04 Aug 2026 07:24:00 GMT",
+        "first_seen": "2026-08-04T07:44:09.610574"
+      },
+      "49acc766c812dece8f711bc87661faafbddba798ce05439ed31fadcf83e66421": {
+        "title": "HSBC resumes share buybacks as quarterly profit soars to $10.1bn",
+        "link": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
+        "published_date": "Tue, 04 Aug 2026 05:39:00 GMT",
+        "first_seen": "2026-08-04T07:44:09.610576"
+      },
+      "af502c90ea59af78f460eedbb096a774dafa1dce0d6ce706d9a251e0dc569162": {
+        "title": "Russia expands shadow LNG fleet to beat EU crackdown",
+        "link": "https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1",
+        "published_date": "Tue, 04 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-04T07:44:09.610578"
       }
     },
     "Ai": {
@@ -6023,13 +6023,19 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-03/",
         "published_date": "Mon, 03 Aug 2026 10:56:00 GMT",
         "first_seen": "2026-08-04T00:06:47.465757"
+      },
+      "9cbb48de09ead0908a68e77204d3917873bffb0779cea8657dbd53fb62d48032": {
+        "title": "2026-08-04日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-04/",
+        "published_date": "Tue, 04 Aug 2026 10:47:00 GMT",
+        "first_seen": "2026-08-04T07:43:37.180321"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-04T00:07:08.187282",
-    "Finance": "2026-08-04T00:07:26.884675",
-    "Ai": "2026-08-04T00:06:47.465760"
+    "Technology": "2026-08-04T07:43:57.414895",
+    "Finance": "2026-08-04T07:44:09.610580",
+    "Ai": "2026-08-04T07:43:37.180330"
   }
 }

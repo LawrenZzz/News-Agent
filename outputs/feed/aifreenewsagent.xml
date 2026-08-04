@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 00:04:00 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 00:06:47 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 07:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:43:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>这个新生图模型有点夯：4K直出的，国产的，开源的！</title>
-      <link>https://www.qbitai.com/2026/08/465673.html</link>
-      <description>&lt;![CDATA[这个新生图模型有点夯：4K直出的，国产的，开源的！]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/465673.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-08-03日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-03/</link>
-      <description>&lt;![CDATA[2026-08-03日刊]]&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 10:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-03/</guid>
+      <title>2026-08-04日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-04/</link>
+      <description>&lt;![CDATA[2026-08-04日刊]]&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 10:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-04/</guid>
       <category>Ai</category>
     </item>
   </channel>
