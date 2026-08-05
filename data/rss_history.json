@@ -2431,6 +2431,36 @@
         "link": "https://www.infoq.cn/article/8TfMHMQEm0fW0wXu3IlB?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 04 Aug 2026 19:14:00 GMT",
         "first_seen": "2026-08-05T00:01:21.601541"
+      },
+      "02421b7a85c565e17c5ce41a0badd843c7e3e3d5dad29a7657fbda79c2911b40": {
+        "title": "29 秒视频教会机器人新技能，清华北理工自变量联合开源 HOST",
+        "link": "https://www.tmtpost.com/8091702.html",
+        "published_date": "Wed, 05 Aug 2026 11:35:00 GMT",
+        "first_seen": "2026-08-05T07:38:17.215180"
+      },
+      "2f02e7d280dde3689493cad0c3ac4e43ac616bf8f68b299dacdccac86d3b77d8": {
+        "title": "谷歌连发三模型，把机器人调教成“全能打工人”！几小时速配、从头控到脚，还能“组团”开干",
+        "link": "https://www.infoq.cn/article/Zx9Z9etgapBsdOL9FtW1?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 05 Aug 2026 15:19:00 GMT",
+        "first_seen": "2026-08-05T07:38:17.215186"
+      },
+      "d634e98e098c91c7be43ad47fa6885772dbfbc482e76055bf37687d8f4194398": {
+        "title": "亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索",
+        "link": "https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 05 Aug 2026 14:26:00 GMT",
+        "first_seen": "2026-08-05T07:38:17.215189"
+      },
+      "b9dba58890bb57ad03ad464ac4aab698491b6c53c88f4ff2ca1ff0232bd5819a": {
+        "title": "AI 根因分析从模型推理转向上下文工程",
+        "link": "https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 05 Aug 2026 10:24:00 GMT",
+        "first_seen": "2026-08-05T07:38:17.215190"
+      },
+      "d53633f3e80f41d238bfe1782f50657a9340d9cf419a78077bdd71771fdd0119": {
+        "title": "毒圈缩圈：AI大模型的“斩杀线”还在上移",
+        "link": "https://www.tmtpost.com/8091516.html",
+        "published_date": "Wed, 05 Aug 2026 10:05:00 GMT",
+        "first_seen": "2026-08-05T07:38:17.215192"
       }
     },
     "Finance": {
@@ -4659,6 +4689,36 @@
         "link": "https://www.ft.com/content/4bc98c31-d430-4e84-9353-6b9a6154d4d6?syn-25a6b1a6=1",
         "published_date": "Tue, 04 Aug 2026 20:10:00 GMT",
         "first_seen": "2026-08-05T00:02:10.012336"
+      },
+      "0d5b2393729b272220620e06b978a9388b5680523fafb7daf024ae2f57e25751": {
+        "title": "China launches global tax hunt going back decades",
+        "link": "https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41?syn-25a6b1a6=1",
+        "published_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-05T07:38:29.343075"
+      },
+      "58ae03a8654e9020c735f3dd3ee0a5e5a0744ab6be796ac8332e90ac1b5e7ff0": {
+        "title": "The real message in the yen intervention",
+        "link": "https://www.ft.com/content/86dbf0c1-d127-4255-85af-602afc30228e?syn-25a6b1a6=1",
+        "published_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-05T07:38:29.343082"
+      },
+      "413587c355c2295953cfac401bddd54324c7b7ba77e6c7410637efb518402829": {
+        "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google",
+        "link": "https://www.ft.com/content/c492ce6b-483b-4196-8f2a-9bd1afda92d3?syn-25a6b1a6=1",
+        "published_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-05T07:38:29.343084"
+      },
+      "60c3b7ad4e4796c4801568f1b55d7c2bd1386df43a9a050f38c56d7738545ac9": {
+        "title": "Nik Storonsky in talks over new share award if Revolut hits $500bn valuation",
+        "link": "https://www.ft.com/content/7a284485-f648-45da-9f0b-a8b19bbdb99b?syn-25a6b1a6=1",
+        "published_date": "Wed, 05 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-05T07:38:29.343086"
+      },
+      "ee7246c337352767ce458d4368374e2273ab37bf7042925fd9756f3a54ffdc55": {
+        "title": "Trump trapped between escalation and an Iran deal on Tehran’s terms",
+        "link": "https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1",
+        "published_date": "Wed, 05 Aug 2026 00:50:00 GMT",
+        "first_seen": "2026-08-05T07:38:29.343088"
       }
     },
     "Ai": {
@@ -6083,13 +6143,37 @@
         "link": "https://www.qbitai.com/2026/08/466386.html",
         "published_date": "Tue, 04 Aug 2026 13:14:00 GMT",
         "first_seen": "2026-08-05T00:00:16.320639"
+      },
+      "34050f28ca722aefd169dcaf74403eedbb828c49115bbf7ea94dd4bacf77a9d7": {
+        "title": "2026-08-05日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-05/",
+        "published_date": "Wed, 05 Aug 2026 11:01:00 GMT",
+        "first_seen": "2026-08-05T07:37:52.131843"
+      },
+      "e2a7d1f121bec6aaf1d04ccb8285606b70f74f671a1cdc902f4d4696fca7f8a4": {
+        "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+        "link": "https://www.qbitai.com/2026/08/466739.html",
+        "published_date": "Wed, 05 Aug 2026 06:33:00 GMT",
+        "first_seen": "2026-08-05T07:37:52.131853"
+      },
+      "b0b164bda6c5ae3228a3410c8d8e4d453c20dfb7cb21aa94b418ca8f5002697b": {
+        "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+        "link": "https://www.qbitai.com/2026/08/466553.html",
+        "published_date": "Wed, 05 Aug 2026 05:53:00 GMT",
+        "first_seen": "2026-08-05T07:37:52.131856"
+      },
+      "44dc0a8aadc33711e30075c3022e464d78bcf6c19eee061b1a2a2eb865a7b16c": {
+        "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+        "link": "https://www.qbitai.com/2026/08/466454.html",
+        "published_date": "Wed, 05 Aug 2026 04:28:00 GMT",
+        "first_seen": "2026-08-05T07:37:52.131858"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-05T00:01:21.601543",
-    "Finance": "2026-08-05T00:02:10.012338",
-    "Ai": "2026-08-05T00:00:16.320647"
+    "Technology": "2026-08-05T07:38:17.215195",
+    "Finance": "2026-08-05T07:38:29.343090",
+    "Ai": "2026-08-05T07:37:52.131860"
   }
 }
