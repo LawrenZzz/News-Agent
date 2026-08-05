@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 05 Aug 2026 07:37:00 GMT</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 07:38:17 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 10:32:00 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:32:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>29 秒视频教会机器人新技能，清华北理工自变量联合开源 HOST</title>
-      <link>https://www.tmtpost.com/8091702.html</link>
-      <description>&lt;![CDATA[29 秒视频教会机器人新技能，清华北理工自变量联合开源 HOST]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 11:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8091702.html</guid>
+      <title>黄仁勋联合70家巨头的反垄断檄文：硅谷“大分裂”背后，一场关乎算力基本盘的生死博弈</title>
+      <link>https://www.tmtpost.com/8092004.html</link>
+      <description>&lt;![CDATA[黄仁勋联合70家巨头的反垄断檄文：硅谷“大分裂”背后，一场关乎算力基本盘的生死博弈]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 16:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8092004.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌连发三模型，把机器人调教成“全能打工人”！几小时速配、从头控到脚，还能“组团”开干</title>
-      <link>https://www.infoq.cn/article/Zx9Z9etgapBsdOL9FtW1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌连发三模型，把机器人调教成“全能打工人”！几小时速配、从头控到脚，还能“组团”开干]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Zx9Z9etgapBsdOL9FtW1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Anthropic百亿美元算力长协浮出水面</title>
+      <link>https://www.tmtpost.com/8092430.html</link>
+      <description>&lt;![CDATA[Anthropic百亿美元算力长协浮出水面]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8092430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索</title>
-      <link>https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技发布 GuardDuty Investigation Agent：让 AI 帮安全团队追查攻击线索]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 14:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YZEahCZsDt3lZhHYvLPX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>打官司、挖人，苹果和OpenAI的硬件大战才刚开始</title>
+      <link>https://www.tmtpost.com/8091859.html</link>
+      <description>&lt;![CDATA[打官司、挖人，苹果和OpenAI的硬件大战才刚开始]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8091859.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 根因分析从模型推理转向上下文工程</title>
-      <link>https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 根因分析从模型推理转向上下文工程]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 10:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071?utm_source=rss&amp;utm_medium=article</guid>
+      <title>为什么供应链“计划-执行-反馈”闭环是人类迄今最难的AI问题</title>
+      <link>https://www.tmtpost.com/8092454.html</link>
+      <description>&lt;![CDATA[为什么供应链“计划-执行-反馈”闭环是人类迄今最难的AI问题]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8092454.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>毒圈缩圈：AI大模型的“斩杀线”还在上移</title>
-      <link>https://www.tmtpost.com/8091516.html</link>
-      <description>&lt;![CDATA[毒圈缩圈：AI大模型的“斩杀线”还在上移]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 10:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8091516.html</guid>
+      <title>特斯拉还在画饼，中国机器人已经霸榜全球前五</title>
+      <link>https://www.tmtpost.com/8092448.html</link>
+      <description>&lt;![CDATA[特斯拉还在画饼，中国机器人已经霸榜全球前五]]&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8092448.html</guid>
       <category>Technology</category>
     </item>
   </channel>

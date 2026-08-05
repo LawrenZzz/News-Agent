@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "72d1a8ff1225e95c335e44def579806ca62f17792c01acb03f257fb82810711a": {
-        "title": "腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放",
-        "link": "https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Jul 2026 16:22:00 GMT",
-        "first_seen": "2026-07-06T09:00:30.233726"
-      },
-      "0e043cbf88b3aace9aa8d6e2641f5ec4201673f1da9d766f5a39ed6d98d0f68c": {
-        "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
-        "link": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Jul 2026 16:00:00 GMT",
-        "first_seen": "2026-07-06T09:00:30.233737"
-      },
-      "ce0397727586c9de73e90a552901c7b1c39bf43bee4eb4d3af78c15df4b63d56": {
-        "title": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
-        "link": "https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Jul 2026 15:46:00 GMT",
-        "first_seen": "2026-07-06T09:00:30.233740"
-      },
-      "5929cd26f295fd63ce59d7a28afd30f215a8c82955b7074779b40972d72f6488": {
-        "title": "GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？",
-        "link": "https://www.infoq.cn/article/MOVBghUgQrXWr9igbK2p?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Jul 2026 15:02:00 GMT",
-        "first_seen": "2026-07-06T09:00:30.233743"
-      },
-      "4fd20497eac6a9c2a39add2d9d8b4771a14c7e533e0455623152ec41eefbaea8": {
-        "title": "Windows平台安全与保护AI智能体的竞赛",
-        "link": "https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Jul 2026 11:21:00 GMT",
-        "first_seen": "2026-07-06T09:00:30.233744"
-      },
       "fa50a8414d5abe8f44d7ab8890357cd9f74472d823281f541402ac85319afb92": {
         "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
         "link": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
@@ -2461,39 +2431,39 @@
         "link": "https://www.tmtpost.com/8091516.html",
         "published_date": "Wed, 05 Aug 2026 10:05:00 GMT",
         "first_seen": "2026-08-05T07:38:17.215192"
+      },
+      "1006befd50cb82a7e256f7af649071b32897871b71a3eb4a539fbf0b18b9e30f": {
+        "title": "黄仁勋联合70家巨头的反垄断檄文：硅谷“大分裂”背后，一场关乎算力基本盘的生死博弈",
+        "link": "https://www.tmtpost.com/8092004.html",
+        "published_date": "Wed, 05 Aug 2026 16:36:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.164324"
+      },
+      "1db341efa28dee0df6cf6705e9fb4eca1ad93914808500105f1447a379da95c7": {
+        "title": "Anthropic百亿美元算力长协浮出水面",
+        "link": "https://www.tmtpost.com/8092430.html",
+        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.164331"
+      },
+      "bb5d4ba329428b2a80ff4e097a6a7c550e5a8a6731cc53442b4fe81789354364": {
+        "title": "打官司、挖人，苹果和OpenAI的硬件大战才刚开始",
+        "link": "https://www.tmtpost.com/8091859.html",
+        "published_date": "Wed, 05 Aug 2026 10:27:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.164333"
+      },
+      "7a992bd134fd772c6fd6e7eac4356b87ac56a64ef4f782cfea227df0682451cc": {
+        "title": "为什么供应链“计划-执行-反馈”闭环是人类迄今最难的AI问题",
+        "link": "https://www.tmtpost.com/8092454.html",
+        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.164335"
+      },
+      "3c08371cb524c7578ad61ca3cccc434c4d3d08b15df656cb0a09379f0d491ed9": {
+        "title": "特斯拉还在画饼，中国机器人已经霸榜全球前五",
+        "link": "https://www.tmtpost.com/8092448.html",
+        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.164337"
       }
     },
     "Finance": {
-      "259ca735d898f9b26e090dfe0464a74b26af44e3efc533a5dde7518338868c40": {
-        "title": "The chip pullback is ushering in a bumpy market. These sectors are the best bets now, according to Morgan Stanley.",
-        "link": "https://www.marketwatch.com/story/the-chip-pullback-is-ushering-in-a-bumpy-market-these-sectors-are-the-best-bets-now-according-to-morgan-stanley-661566a7?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Jul 2026 08:54:00 GMT",
-        "first_seen": "2026-07-06T09:01:17.953575"
-      },
-      "e042e6ffa3b14469b14221fe11d918ef651af17527d66936b0446d8e6562392f": {
-        "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
-        "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Jul 2026 13:00:00 GMT",
-        "first_seen": "2026-07-06T09:01:17.953581"
-      },
-      "5506bfa4bd62faab3b24975a82c06aadf9671d516a989d614c6648616f65ec5c": {
-        "title": "Big investors commit billions to private credit despite turmoil",
-        "link": "https://www.ft.com/content/ea275bbd-e411-4db5-a9d2-415666f2a923",
-        "published_date": "Mon, 06 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-06T09:01:17.953583"
-      },
-      "dfafc89222284f07bc5ebb0a2617d96dbfc97b3f207ce7510841b888a1d5f932": {
-        "title": "Why OpenAI and Anthropic may struggle to float",
-        "link": "https://www.ft.com/content/7bff5ad3-a7dc-4641-be97-7f383446ff75",
-        "published_date": "Mon, 06 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-06T09:01:17.953585"
-      },
-      "75da0667537cd355e900eab94b2d0b01775354084d4a457178bbb90ef7667a6a": {
-        "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
-        "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Jul 2026 13:03:00 GMT",
-        "first_seen": "2026-07-06T09:01:17.953586"
-      },
       "d1b47d0e100ae40cc685dc8fc3779a61d2c6c93553ba1b2ad0337d94dd4a7189": {
         "title": "Germany to borrow €800bn for rearmament in historic shift",
         "link": "https://www.ft.com/content/72878c3e-a4c6-4e4d-86c1-6df11593e4ac",
@@ -4719,39 +4689,33 @@
         "link": "https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1",
         "published_date": "Wed, 05 Aug 2026 00:50:00 GMT",
         "first_seen": "2026-08-05T07:38:29.343088"
+      },
+      "96b1a7fd149e9ae218e635c056a0da7a79756463e91115fd88d6fb88a1d8c7c8": {
+        "title": "Where are they now? The ex-Trump lawyers in plum US government posts",
+        "link": "https://www.ft.com/content/71e1a474-4e57-4cbf-a35e-d612476f5aaa?syn-25a6b1a6=1",
+        "published_date": "Wed, 05 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.215831"
+      },
+      "491a9612576dd0c5f3cbc0b2ca6d4e38c705934b42dd37f7743fb40da5d39422": {
+        "title": "Elon Musk addresses memory-chip stock concerns with one simple observation",
+        "link": "https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
+        "published_date": "Wed, 05 Aug 2026 09:45:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.215839"
+      },
+      "31ea9b673e908a2a0227c4f852d1c92ce8209945563c8dcfa355cae7edbe6845": {
+        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+        "published_date": "Wed, 05 Aug 2026 09:15:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.215841"
+      },
+      "47ae268e52827a9085a6417aabeb7cc99275c9591bdd2edb8dc088e815683513": {
+        "title": "This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home",
+        "link": "https://www.marketwatch.com/story/this-is-the-whopping-amount-joe-rogan-earns-from-the-podcast-he-airs-at-his-14-4-million-austin-home-0fccf407?mod=mw_rss_topstories",
+        "published_date": "Wed, 05 Aug 2026 09:02:00 GMT",
+        "first_seen": "2026-08-05T10:32:45.215843"
       }
     },
     "Ai": {
-      "e77617d7587d2678c187e8e27642949583187335536521c934d7b5f458b155a7": {
-        "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
-        "link": "https://www.qbitai.com/2026/07/443399.html",
-        "published_date": "Mon, 06 Jul 2026 01:45:00 GMT",
-        "first_seen": "2026-07-06T09:01:29.585666"
-      },
-      "db698cf92f6e1d39f53f74b11afd7d8a71d7a73f1f58f8ceeb50193dcbecf30a": {
-        "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
-        "link": "https://www.qbitai.com/2026/07/443559.html",
-        "published_date": "Mon, 06 Jul 2026 04:14:00 GMT",
-        "first_seen": "2026-07-06T09:01:29.585672"
-      },
-      "aa23fc63d6c2b911da14ad48ac7fa134808226aaa17dd8c79d3dd5c348da69c7": {
-        "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
-        "link": "https://www.qbitai.com/2026/07/443522.html",
-        "published_date": "Mon, 06 Jul 2026 01:54:00 GMT",
-        "first_seen": "2026-07-06T09:01:29.585674"
-      },
-      "febe22967eafe9c9a1d92455e7129fbaceefeed3b72903ca9b61db084753f705": {
-        "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
-        "link": "https://www.qbitai.com/2026/07/443339.html",
-        "published_date": "Sun, 05 Jul 2026 14:30:00 GMT",
-        "first_seen": "2026-07-06T09:01:29.585676"
-      },
-      "d7bc700420a99bbc21494c7d0ea64390373ada8d18076d18f8d45c0cc2e4d990": {
-        "title": "华为更新韬定律论文！",
-        "link": "https://www.qbitai.com/2026/07/443186.html",
-        "published_date": "Sun, 05 Jul 2026 13:38:00 GMT",
-        "first_seen": "2026-07-06T09:01:29.585677"
-      },
       "0b334fe74d3d774ee6f119e3c09cbcd868ce1d204cd1d6f496960ee73742bc5a": {
         "title": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
         "link": "https://www.qbitai.com/2026/07/444733.html",
@@ -6167,13 +6131,19 @@
         "link": "https://www.qbitai.com/2026/08/466454.html",
         "published_date": "Wed, 05 Aug 2026 04:28:00 GMT",
         "first_seen": "2026-08-05T07:37:52.131858"
+      },
+      "6e26894279c02173bafb71b26036dc503d3d92369bebe87eb5aa8d8c6aeb28bb": {
+        "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
+        "link": "https://www.qbitai.com/2026/08/466998.html",
+        "published_date": "Wed, 05 Aug 2026 09:38:00 GMT",
+        "first_seen": "2026-08-05T10:32:22.900010"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-05T07:38:17.215195",
-    "Finance": "2026-08-05T07:38:29.343090",
-    "Ai": "2026-08-05T07:37:52.131860"
+    "Technology": "2026-08-05T10:32:45.164339",
+    "Finance": "2026-08-05T10:32:45.215845",
+    "Ai": "2026-08-05T10:32:22.900018"
   }
 }
