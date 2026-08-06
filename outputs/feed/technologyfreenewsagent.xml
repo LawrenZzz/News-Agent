@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 05 Aug 2026 23:58:00 GMT</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 23:59:08 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 07:37:00 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:37:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI</title>
-      <link>https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 22:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业</title>
+      <link>https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>The Office Agent Race Shifts From Chatbots to Organizational Work</title>
-      <link>https://www.tmtpost.com/8092632.html</link>
-      <description>&lt;![CDATA[The Office Agent Race Shifts From Chatbots to Organizational Work]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 18:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8092632.html</guid>
+      <title>Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路</title>
+      <link>https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 14:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI的钱，被谁赚走了？</title>
-      <link>https://www.tmtpost.com/8091813.html</link>
-      <description>&lt;![CDATA[AI的钱，被谁赚走了？]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 17:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8091813.html</guid>
+      <title>别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难</title>
+      <link>https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长鑫科技上市史，在巨头裂缝里照进光</title>
-      <link>https://www.tmtpost.com/8092230.html</link>
-      <description>&lt;![CDATA[长鑫科技上市史，在巨头裂缝里照进光]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8092230.html</guid>
+      <title>卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌</title>
+      <link>https://www.tmtpost.com/8093334.html</link>
+      <description>&lt;![CDATA[卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 13:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8093334.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>IPO冲刺中，智元机器人核心班底“华为化”：前谷歌科学家从合伙人名单消失</title>
-      <link>https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[IPO冲刺中，智元机器人核心班底“华为化”：前谷歌科学家从合伙人名单消失]]&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI金属：AI基础设施建设浪潮下的金属原材料产业研究（中）</title>
+      <link>https://www.tmtpost.com/8092055.html</link>
+      <description>&lt;![CDATA[AI金属：AI基础设施建设浪潮下的金属原材料产业研究（中）]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 15:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8092055.html</guid>
       <category>Technology</category>
     </item>
   </channel>
