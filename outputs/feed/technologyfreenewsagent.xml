@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 06 Aug 2026 07:37:00 GMT</pubDate>
-    <lastBuildDate>Thu, 06 Aug 2026 07:37:28 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 10:36:00 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:37:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业</title>
-      <link>https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S</title>
+      <link>http://www.geekpark.net/news/368495</link>
+      <description>&lt;![CDATA[谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368495</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路</title>
-      <link>https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 14:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&amp;utm_medium=article</guid>
+      <title>NVIDIA Turns to Chinese Base-Station Makers to Push AI Computing to the Network Edge</title>
+      <link>https://www.tmtpost.com/8094065.html</link>
+      <description>&lt;![CDATA[NVIDIA Turns to Chinese Base-Station Makers to Push AI Computing to the Network Edge]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8094065.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难</title>
-      <link>https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>SpaceX上市后首份财报引发暴跌？理想中的万亿营收太空AI公司，正在靠地面AI云挣钱</title>
+      <link>https://www.tmtpost.com/8093971.html</link>
+      <description>&lt;![CDATA[SpaceX上市后首份财报引发暴跌？理想中的万亿营收太空AI公司，正在靠地面AI云挣钱]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8093971.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌</title>
-      <link>https://www.tmtpost.com/8093334.html</link>
-      <description>&lt;![CDATA[卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8093334.html</guid>
+      <title>谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？</title>
+      <link>https://www.tmtpost.com/8093802.html</link>
+      <description>&lt;![CDATA[谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8093802.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI金属：AI基础设施建设浪潮下的金属原材料产业研究（中）</title>
-      <link>https://www.tmtpost.com/8092055.html</link>
-      <description>&lt;![CDATA[AI金属：AI基础设施建设浪潮下的金属原材料产业研究（中）]]&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8092055.html</guid>
+      <title>AI原生组织：谁思考、谁执行、谁负责、谁进化</title>
+      <link>https://www.tmtpost.com/8094183.html</link>
+      <description>&lt;![CDATA[AI原生组织：谁思考、谁执行、谁负责、谁进化]]&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8094183.html</guid>
       <category>Technology</category>
     </item>
   </channel>

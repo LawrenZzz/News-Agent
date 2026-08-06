@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "859bac92b5338f1c682d781493111d7d97d46171ba7510dd6e2188be85f1c74d": {
-        "title": "AI资本周期思辨——泡沫终局预判：AI崩盘恐难现，结构性出清将至",
-        "link": "https://www.tmtpost.com/8055074.html",
-        "published_date": "Tue, 07 Jul 2026 16:08:00 GMT",
-        "first_seen": "2026-07-07T08:21:07.254525"
-      },
-      "ca52f0e8f3f9f02062eb0bea475eb2914d7e2ba76dfa2f9f486b627e5e6ff988": {
-        "title": "【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模",
-        "link": "https://www.tmtpost.com/8054405.html",
-        "published_date": "Tue, 07 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-07T08:21:07.254533"
-      },
-      "fa1c3df7392334617f4538a0906a14a18d8ea82745a128b3e67e89d1bde4a759": {
-        "title": "Claude有了“没说出口的念头”，AI意识还远吗？",
-        "link": "https://www.tmtpost.com/8055469.html",
-        "published_date": "Tue, 07 Jul 2026 15:57:00 GMT",
-        "first_seen": "2026-07-07T08:21:07.254536"
-      },
-      "60987302a6683e548b8f7253dc09c55a15393d5c34ab387cc1c6148d6e9a1a17": {
-        "title": "99万的赛博伴侣爆火，机器人厂商不想死磕工业化了？",
-        "link": "https://www.tmtpost.com/8055394.html",
-        "published_date": "Tue, 07 Jul 2026 15:12:00 GMT",
-        "first_seen": "2026-07-07T08:21:07.254538"
-      },
-      "3ecdd83adfe67db01935fc46f32f7847428145e2e584bda64437d3132d5561d4": {
-        "title": "Elastic 开源了基于认知科学的 Atlas Agent Memory",
-        "link": "https://www.infoq.cn/article/pzYuRUO0ECSKktJjKV8P?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 07 Jul 2026 14:00:00 GMT",
-        "first_seen": "2026-07-07T08:21:07.254540"
-      },
       "d1b574cdf3a6340baaa784aae49dfa115dd7033c1a8ca695217a5e8f14be4623": {
         "title": "一份内部报告显示，美国财政部开始评估AI泡沫风险",
         "link": "https://www.tmtpost.com/8055875.html",
@@ -2491,39 +2461,39 @@
         "link": "https://www.tmtpost.com/8092055.html",
         "published_date": "Thu, 06 Aug 2026 15:09:00 GMT",
         "first_seen": "2026-08-06T07:37:28.614163"
+      },
+      "c41318d5ad26c66ffc5dd201ff4787cfd7fe6f94fdd9f9df824261e9f5dc5661": {
+        "title": "谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S",
+        "link": "http://www.geekpark.net/news/368495",
+        "published_date": "Thu, 06 Aug 2026 15:51:00 GMT",
+        "first_seen": "2026-08-06T10:37:03.756641"
+      },
+      "a72b7f87423cb539bdfb99c8ad78d63daa101103c56105a88667e92258afc516": {
+        "title": "NVIDIA Turns to Chinese Base-Station Makers to Push AI Computing to the Network Edge",
+        "link": "https://www.tmtpost.com/8094065.html",
+        "published_date": "Thu, 06 Aug 2026 17:03:00 GMT",
+        "first_seen": "2026-08-06T10:37:03.756648"
+      },
+      "b1dfc5d8bd130609fe36fbe0cf1843c1b31c193fc79e1a0776e36ef0bf0ed319": {
+        "title": "SpaceX上市后首份财报引发暴跌？理想中的万亿营收太空AI公司，正在靠地面AI云挣钱",
+        "link": "https://www.tmtpost.com/8093971.html",
+        "published_date": "Thu, 06 Aug 2026 18:01:00 GMT",
+        "first_seen": "2026-08-06T10:37:03.756651"
+      },
+      "1d6d25c4f19962efa41bdcaabebbb83c631271c7c7e0782bdb35e8d29e9e2a78": {
+        "title": "谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？",
+        "link": "https://www.tmtpost.com/8093802.html",
+        "published_date": "Thu, 06 Aug 2026 14:57:00 GMT",
+        "first_seen": "2026-08-06T10:37:03.756653"
+      },
+      "a46b98367c3dce3189a0203e9cb0f044beb55909719f26e6de9ea5b70d20b50c": {
+        "title": "AI原生组织：谁思考、谁执行、谁负责、谁进化",
+        "link": "https://www.tmtpost.com/8094183.html",
+        "published_date": "Thu, 06 Aug 2026 18:23:00 GMT",
+        "first_seen": "2026-08-06T10:37:03.756654"
       }
     },
     "Finance": {
-      "fac6f8a24ae5d09540c30c743aa57ebb22768551272ea1abb329bfe6ff9cb50a": {
-        "title": "Greek shipping companies made almost $4bn carrying Russian oil in past three years",
-        "link": "https://www.ft.com/content/d8518934-3618-43dc-af91-63a948c9bae3",
-        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-07T08:21:21.589547"
-      },
-      "feb029beb8d16f93efbdf04ea1aadb8f5705da6f4a75398639237313b2b4a531": {
-        "title": "HSBC pulls back from riskier private credit lending",
-        "link": "https://www.ft.com/content/08a93f45-24fe-4ea3-9b1e-ecfb68ee309d",
-        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-07T08:21:21.589553"
-      },
-      "ec6fcd9b43ba797d2b9da8c3f0aae06f6dc88344c45eabf6fe7583f18f97453c": {
-        "title": "German business leaders warn Merz more is needed to prevent ‘lost decade’",
-        "link": "https://www.ft.com/content/92ca68d2-f0d7-45ab-9811-437ee45e8d5d",
-        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-07T08:21:21.589556"
-      },
-      "ee1f109b6ad64c5dc7c7602a9c8cdc1b35ac141066feecb9e034dba9f9436492": {
-        "title": "How to stop AI becoming the enemy of younger workers",
-        "link": "https://www.ft.com/content/0b67e331-4ff0-4af6-85b7-0d7d6710d603",
-        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-07T08:21:21.589558"
-      },
-      "d1c54dad59d138237d8d2fd713b4ed739ddd9510c65a732a7cc0fe8036e9210a": {
-        "title": "How Europe would fight without America",
-        "link": "https://www.ft.com/content/ffd323d9-8a8c-4b67-ae0d-208c8f994ece",
-        "published_date": "Tue, 07 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-07T08:21:21.589559"
-      },
       "df51829a30855f258280b4897c41ab9e3150746703db75f7fec685d9aad43c77": {
         "title": "US launches new wave of Iran strikes after attacks on tankers",
         "link": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
@@ -4773,39 +4743,39 @@
         "link": "https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1",
         "published_date": "Thu, 06 Aug 2026 00:07:00 GMT",
         "first_seen": "2026-08-06T07:37:39.938971"
+      },
+      "efcfafb9a81e90e5de1deca38bed3cd71c09f8026989d7f6806b1456e7de6e66": {
+        "title": "Investors are misreading this major economy — and creating a rare opportunity in government bonds",
+        "link": "https://www.marketwatch.com/story/why-the-country-with-great-political-turmoil-still-has-the-best-bonds-to-buy-a099b325?mod=mw_rss_topstories",
+        "published_date": "Thu, 06 Aug 2026 09:40:00 GMT",
+        "first_seen": "2026-08-06T10:37:14.871544"
+      },
+      "1b9795e41edcc7405ba323ec66c4fc1ae5873205f08699b18150d26fd192fd7a": {
+        "title": "Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done",
+        "link": "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories",
+        "published_date": "Thu, 06 Aug 2026 10:08:00 GMT",
+        "first_seen": "2026-08-06T10:37:14.871552"
+      },
+      "b0c3d6dfe697329de6dff76bf606545299279fb163cd0690afcd67a88b93c8a2": {
+        "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+        "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+        "published_date": "Thu, 06 Aug 2026 09:00:00 GMT",
+        "first_seen": "2026-08-06T10:37:14.871554"
+      },
+      "6d317beb4c00502e20c0629e0e0e9e91c9b96d686fbcf3f8b7cfc319a2a03148": {
+        "title": "Sandisk is falling after earnings. Here’s what Wall Street says.",
+        "link": "https://www.marketwatch.com/story/sandisk-is-falling-after-earnings-heres-what-wall-street-says-591537ec?mod=mw_rss_topstories",
+        "published_date": "Thu, 06 Aug 2026 09:56:00 GMT",
+        "first_seen": "2026-08-06T10:37:14.871556"
+      },
+      "dcd194922847378e1b7317d539c5438a4054dc75b8746f6afe85a946c5261944": {
+        "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
+        "link": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
+        "published_date": "Thu, 06 Aug 2026 09:15:00 GMT",
+        "first_seen": "2026-08-06T10:37:14.871558"
       }
     },
     "Ai": {
-      "0226febcf5538610af53f182c4af093e6ae47c8e2f0c0268bc41689067f9a0c7": {
-        "title": "征程赶超｜WAIC 2026理论突破：以数理双向赋能为钥，开启AI范式革新新征程",
-        "link": "https://www.qbitai.com/2026/07/444859.html",
-        "published_date": "Tue, 07 Jul 2026 03:14:00 GMT",
-        "first_seen": "2026-07-07T08:21:35.193966"
-      },
-      "14a89692e0ddef7e5a0ade8e11590a687ad0dcf902ab368d622783448e37c49e": {
-        "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
-        "link": "https://www.qbitai.com/2026/07/445230.html",
-        "published_date": "Tue, 07 Jul 2026 04:48:00 GMT",
-        "first_seen": "2026-07-07T08:21:35.193973"
-      },
-      "332217e5be78db324d4b9192565e0f237d98f688e9742ba04f4e29a323a7c06a": {
-        "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
-        "link": "https://www.qbitai.com/2026/07/445067.html",
-        "published_date": "Tue, 07 Jul 2026 03:24:00 GMT",
-        "first_seen": "2026-07-07T08:21:35.193975"
-      },
-      "e68f0f0e96f8533e52fcc7643b72321ae1c7eceba8120f82944d7b5a9253482b": {
-        "title": "Claude的脑子里，也长出了一块「意识」",
-        "link": "https://www.qbitai.com/2026/07/444741.html",
-        "published_date": "Tue, 07 Jul 2026 01:38:00 GMT",
-        "first_seen": "2026-07-07T08:21:35.193977"
-      },
-      "9fd86cfabcd5e3d542d7ffb2044d5297b06e8550aae4e1cb9e2b39d1bddc786d": {
-        "title": "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni",
-        "link": "https://www.qbitai.com/2026/07/445229.html",
-        "published_date": "Tue, 07 Jul 2026 05:03:00 GMT",
-        "first_seen": "2026-07-07T08:21:35.193978"
-      },
       "742bd1dc287cd7226f01bb591cb9b504f26324df7dcec721ed48ba3cb53a18a9": {
         "title": "The power of collaboration: How we can reduce traffic congestion",
         "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
@@ -6209,13 +6179,25 @@
         "link": "https://www.qbitai.com/2026/08/467262.html",
         "published_date": "Thu, 06 Aug 2026 05:29:00 GMT",
         "first_seen": "2026-08-06T07:37:06.081935"
+      },
+      "34b17d30c52eed6de02f6328063e37932b38fb470c00177f37a32e46dae1f076": {
+        "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
+        "link": "https://www.qbitai.com/2026/08/467447.html",
+        "published_date": "Thu, 06 Aug 2026 08:02:00 GMT",
+        "first_seen": "2026-08-06T10:36:34.138602"
+      },
+      "82b34a68c851b5b68c23034593b366eb013163811d47d751d26bcd9f3f3ac8c1": {
+        "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
+        "link": "https://www.qbitai.com/2026/08/467444.html",
+        "published_date": "Thu, 06 Aug 2026 07:43:00 GMT",
+        "first_seen": "2026-08-06T10:36:34.138612"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-06T07:37:28.614167",
-    "Finance": "2026-08-06T07:37:39.938973",
-    "Ai": "2026-08-06T07:37:06.081937"
+    "Technology": "2026-08-06T10:37:03.756657",
+    "Finance": "2026-08-06T10:37:14.871559",
+    "Ai": "2026-08-06T10:36:34.138616"
   }
 }
