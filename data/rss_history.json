@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2782bb872030ca943547f2281cbe456d3107dc76d227b2eaf49ea3d80752de16": {
-        "title": "DeepSeek被曝自研AI推理芯片，一年前已启动，正对接代工与存储厂商",
-        "link": "https://www.infoq.cn/article/sLYxUorQQs5K17DILrx8?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 14:56:00 GMT",
-        "first_seen": "2026-07-08T07:28:05.814867"
-      },
-      "088e01e4ac98a6ebc6b88f473b5751774e5ab956abc686cbcedfc23ec7345974": {
-        "title": "开源模型赢了 Token 流量，Anthropic 赚走了大部分钱",
-        "link": "https://www.infoq.cn/article/7qI7yUXcZIwazjEW2Aho?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 15:20:00 GMT",
-        "first_seen": "2026-07-08T07:28:05.814876"
-      },
-      "0b13e30be28f4ad8d5902c50f1d7cdf5ea6dc94f51aa011bc83fa3da3fa2a2bb": {
-        "title": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
-        "link": "https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 11:19:00 GMT",
-        "first_seen": "2026-07-08T07:28:05.814878"
-      },
-      "a8d6027be815e9300ad6d3ac20099b2a0b8bd40680ec5e7f8d223516e7bdede0": {
-        "title": "快手换船：短视频搁浅，AI抢滩",
-        "link": "https://www.tmtpost.com/8056696.html",
-        "published_date": "Wed, 08 Jul 2026 12:37:00 GMT",
-        "first_seen": "2026-07-08T07:28:05.814880"
-      },
-      "d197fa03e8b3aa10787727bf642164b3133b36925fff6152f83ac8fb3bcd868e": {
-        "title": "AI产业全景透视之：3D NAND，以钼代钨",
-        "link": "https://www.tmtpost.com/8056270.html",
-        "published_date": "Wed, 08 Jul 2026 12:25:00 GMT",
-        "first_seen": "2026-07-08T07:28:05.814882"
-      },
       "d185c1bfa131a6b595d2fad4bb9645a53ffda958cd63c6d6df5c4afb667fb2db": {
         "title": "360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐",
         "link": "https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&utm_medium=article",
@@ -2521,39 +2491,39 @@
         "link": "https://www.tmtpost.com/8094916.html",
         "published_date": "Fri, 07 Aug 2026 10:08:00 GMT",
         "first_seen": "2026-08-07T06:08:21.826476"
+      },
+      "a4092335aeb13a94992d35e401c60c04113b6fa6b162bf376794907b2b110b1f": {
+        "title": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "link": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 15:00:00 GMT",
+        "first_seen": "2026-08-07T08:55:55.596696"
+      },
+      "e8fa836e7d0572fddba7247d39c7de08552e867d295e97e8828e2b7d929df323": {
+        "title": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "link": "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 13:33:00 GMT",
+        "first_seen": "2026-08-07T08:55:55.596703"
+      },
+      "cc52ea3740e34381381b71962dc77ff5dd9b89e544abcbfa957aa1582dad91f7": {
+        "title": "黎曼动力携手光轮智能与诺亦腾机器人，推进2026年百万小时具身智能数据建设",
+        "link": "https://www.infoq.cn/article/hI2W3XTUo2GNylxSXDC8?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 15:18:00 GMT",
+        "first_seen": "2026-08-07T08:55:55.596705"
+      },
+      "c7e0644644a3a0a9eccdc1eedc541fb8ea262ef2b9a5b5077f0b68f618556dbb": {
+        "title": "DNS 战场再起变化：Cloudflare 开始挑战 AWS Route 53",
+        "link": "https://www.infoq.cn/article/B2JUs2zafHE0fE0AYaNY?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 11:28:00 GMT",
+        "first_seen": "2026-08-07T08:55:55.596707"
+      },
+      "e31223fea1904aa00b05ccd9d7c93e5f3a509cab9176d96f9574ae554577cb6b": {
+        "title": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "link": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 11:53:00 GMT",
+        "first_seen": "2026-08-07T08:55:55.596709"
       }
     },
     "Finance": {
-      "2ffc288d3d692211fb8a323574de31d095112cdce300201541dd903c4ac2d221": {
-        "title": "Japan’s borrowing costs soar to 30-year high on debt fears",
-        "link": "https://www.ft.com/content/851aa883-073f-4423-a43e-9b09fdbe7c86",
-        "published_date": "Wed, 08 Jul 2026 01:00:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.240550"
-      },
-      "d920ff5d8d85b91b3ce388d1272f2832814cf1ebcf821abc24cd66f2891c4b0f": {
-        "title": "Indonesia’s stock market hit with second downgrade warning",
-        "link": "https://www.ft.com/content/dfb44d58-e8da-4f87-a65f-00eb5b1fc63c",
-        "published_date": "Wed, 08 Jul 2026 02:28:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.240557"
-      },
-      "0170b78cb35f7c4a4622ea8a418c3d76e5fb0e44a158d55c4503568117b3ac76": {
-        "title": "Santander axes top China banker and scraps perks in Asia overhaul",
-        "link": "https://www.ft.com/content/2169b73c-7583-4d28-91d5-6459846ad769",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.240559"
-      },
-      "bd78271677f58f8c4790504a47d8a31f3face6aa578ba9d188fcaa147aafd429": {
-        "title": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
-        "link": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 00:35:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.240561"
-      },
-      "96fbc4f5bdb68f45d228c8c8e5cb83d55981fbd2335a47dfbf19bb494f7c5543": {
-        "title": "Palantir’s real weak spot",
-        "link": "https://www.ft.com/content/21038b20-646e-4773-a473-110c2d62ab15",
-        "published_date": "Wed, 08 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.240562"
-      },
       "b9969411cdaed59a3a3010d367866d25bab9b5c10948562793e18035ce0684fa": {
         "title": "US and Iran trade strikes after attacks on tankers",
         "link": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
@@ -4836,36 +4806,6 @@
       }
     },
     "Ai": {
-      "700ee01a194ea3764d8bbb18b39309fce6975a36c9a768faac82f2f8ae25de79": {
-        "title": "2026-07-08日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-08/",
-        "published_date": "Wed, 08 Jul 2026 10:55:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.363129"
-      },
-      "e0982555c8d04f4807ec069fe9cae6cfd5307dfe14ba146105ee651e7f5f9291": {
-        "title": "DeepSeek秘密造芯！专攻推理，一年前已启动，招聘全程不公开",
-        "link": "https://www.qbitai.com/2026/07/445883.html",
-        "published_date": "Wed, 08 Jul 2026 04:47:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.363137"
-      },
-      "2d4bab61f5a122378eaf810be8b23621845b1264381ce1dbe8d00db60edff48b": {
-        "title": "60000小时炼出新开源VLA！20多种机器人都能用",
-        "link": "https://www.qbitai.com/2026/07/445678.html",
-        "published_date": "Wed, 08 Jul 2026 03:54:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.363139"
-      },
-      "70afbd98e3f5639eac2fe94ec02a1bef2f6d00b505e9040c3fc5d9ad4f02cdce": {
-        "title": "支持17家机器人厂商20多种构型，蚂蚁灵波LingBot-VLA 2.0正式开源",
-        "link": "https://www.qbitai.com/2026/07/445668.html",
-        "published_date": "Wed, 08 Jul 2026 03:04:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.363141"
-      },
-      "9246d4e35d9dec94b2e6157f6320553ecd29205c90117370184f8984509cc07e": {
-        "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
-        "link": "https://www.qbitai.com/2026/07/445531.html",
-        "published_date": "Wed, 08 Jul 2026 00:44:00 GMT",
-        "first_seen": "2026-07-08T07:28:20.363143"
-      },
       "8112817a7a4f1926aef17549a0e80299e964c2ee4d2a823371b0c2a03cae4666": {
         "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
         "link": "https://www.qbitai.com/2026/07/446075.html",
@@ -6275,13 +6215,31 @@
         "link": "https://www.qbitai.com/2026/08/467840.html",
         "published_date": "Fri, 07 Aug 2026 02:56:00 GMT",
         "first_seen": "2026-08-07T06:07:56.933881"
+      },
+      "2f4a1dea1a07416e2fb3b15b7c1bac257b92ecc2cb2c8da5a26bd7295548f4df": {
+        "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+        "link": "https://www.qbitai.com/2026/08/468324.html",
+        "published_date": "Fri, 07 Aug 2026 07:43:00 GMT",
+        "first_seen": "2026-08-07T08:55:34.149952"
+      },
+      "52e4ebfcbf1a4d404979474c8c93c65199012134367ea0a7074aa7e780bf1cb3": {
+        "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+        "link": "https://www.qbitai.com/2026/08/466738.html",
+        "published_date": "Fri, 07 Aug 2026 06:21:00 GMT",
+        "first_seen": "2026-08-07T08:55:34.149962"
+      },
+      "427f7329fad2ce7a18fff0fdb6c233c41a6e65538ca8994a38ecde3addefacfc": {
+        "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+        "link": "https://www.qbitai.com/2026/08/468305.html",
+        "published_date": "Fri, 07 Aug 2026 06:18:00 GMT",
+        "first_seen": "2026-08-07T08:55:34.149965"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-07T06:08:21.826478",
+    "Technology": "2026-08-07T08:55:55.596711",
     "Finance": "2026-08-07T06:07:56.809817",
-    "Ai": "2026-08-07T06:07:56.933883"
+    "Ai": "2026-08-07T08:55:34.149968"
   }
 }
