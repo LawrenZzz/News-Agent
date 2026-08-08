@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Aug 2026 05:40:00 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2026 05:40:23 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:37:14 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从PPT到生产线，巨头们跨过具身智能“理想国”</title>
-      <link>https://www.tmtpost.com/8095622.html</link>
-      <description>&lt;![CDATA[从PPT到生产线，巨头们跨过具身智能“理想国”]]&gt;</description>
-      <pubDate>Sat, 08 Aug 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8095622.html</guid>
+      <title>王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道</title>
+      <link>http://www.geekpark.net/news/368565</link>
+      <description>&lt;![CDATA[王兴兴回应 DeepSeek 投资宇树：将展开重点合作；微信内测朋友圈 AI 新功能；美国科学家首次用AI设计出新型病毒｜极客早知道]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/368565</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”</title>
-      <link>https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 22:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行｜AICon深圳]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hQp9boye2rpPH7ZWUvXL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%</title>
-      <link>https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>终于有人承认在院线电影里用 AI 了，未来的电影，还有“含 AI 量”为零的可能吗？</title>
+      <link>https://www.tmtpost.com/8095471.html</link>
+      <description>&lt;![CDATA[终于有人承认在院线电影里用 AI 了，未来的电影，还有“含 AI 量”为零的可能吗？]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8095471.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观</title>
-      <link>http://www.geekpark.net/news/368556</link>
-      <description>&lt;![CDATA[DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观]]&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368556</guid>
+      <title>聊聊DeepSeek涨价：低价是手段，不是目的</title>
+      <link>https://www.tmtpost.com/8095791.html</link>
+      <description>&lt;![CDATA[聊聊DeepSeek涨价：低价是手段，不是目的]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 09:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8095791.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了</title>
-      <link>https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了]]&gt;</description>
-      <pubDate>Sat, 08 Aug 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>光伏遭遇内外夹击，八大巨头同签行业倡议书，特朗普再次挥舞关税大棒，价格战到底能不能结束了？</title>
+      <link>https://www.tmtpost.com/8096059.html</link>
+      <description>&lt;![CDATA[光伏遭遇内外夹击，八大巨头同签行业倡议书，特朗普再次挥舞关税大棒，价格战到底能不能结束了？]]&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8096059.html</guid>
       <category>Technology</category>
     </item>
   </channel>
