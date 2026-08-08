@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d185c1bfa131a6b595d2fad4bb9645a53ffda958cd63c6d6df5c4afb667fb2db": {
-        "title": "360 周鸿祎：做中国版 Mythos 不能照搬美国路线，基模能力的差距可以通过Harness补齐",
-        "link": "https://www.infoq.cn/article/yr7WuLJw9gfHU9NckJpv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 15:30:00 GMT",
-        "first_seen": "2026-07-08T10:15:12.716389"
-      },
-      "80680891d39b3d6ee0637512ef4ca7431197adb82bbb6af29a267bd83e691395": {
-        "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
-        "link": "https://www.infoq.cn/article/d2tmcGi9Fy6PMkNGpo9y?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 08 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-08T10:15:12.716400"
-      },
-      "27fc548864d176c41b0df8e0e6b85bc832337f962b200603a8ad8a721bf1ce64": {
-        "title": "人人都在喊的世界模型，正在成为AI最大的“概念筐”",
-        "link": "https://www.tmtpost.com/8056875.html",
-        "published_date": "Wed, 08 Jul 2026 15:25:00 GMT",
-        "first_seen": "2026-07-08T10:15:12.716403"
-      },
-      "4c0a691c1d5e8503ae86a4506648ae9d59f0513e2b4886be833ad1e245bba01e": {
-        "title": "国产半导体设备零部件，开始起势",
-        "link": "https://www.tmtpost.com/8056313.html",
-        "published_date": "Wed, 08 Jul 2026 15:58:00 GMT",
-        "first_seen": "2026-07-08T10:15:12.716405"
-      },
-      "a661009aaeb1f6a33a2421798f3e317b54255ed518a7f54d2efa0732d15fcb84": {
-        "title": "博通 AVGO：追不上英伟达，反遭 “小弟” 围猎？",
-        "link": "https://www.tmtpost.com/8056786.html",
-        "published_date": "Wed, 08 Jul 2026 16:37:00 GMT",
-        "first_seen": "2026-07-08T10:15:12.716407"
-      },
-      "60e0f67d51ac6e3ed46188ef2a23e9b593d9a312933f8700cc20d7d8405af4ad": {
-        "title": "起底东南亚AI军团：专供园区，电诈效率飙升10倍",
-        "link": "https://www.tmtpost.com/8056877.html",
-        "published_date": "Wed, 08 Jul 2026 18:32:00 GMT",
-        "first_seen": "2026-07-09T00:08:22.184824"
-      },
-      "f532fff782e4c7de9a17c2a108754467df8b454e6445a6f2e7847056eb243d92": {
-        "title": "车企会进入“去宁德时代”新周期吗？",
-        "link": "https://www.tmtpost.com/8056392.html",
-        "published_date": "Wed, 08 Jul 2026 12:26:00 GMT",
-        "first_seen": "2026-07-09T00:08:22.184834"
-      },
-      "d638117c068ee9359de7cb9401ec94fbe2512c461b69f517cfa201bac2471e34": {
-        "title": "英伟达“逼”出全液冷时代：A股哪些公司会受益？",
-        "link": "https://www.tmtpost.com/8057120.html",
-        "published_date": "Wed, 08 Jul 2026 18:32:00 GMT",
-        "first_seen": "2026-07-09T00:08:22.184837"
-      },
-      "4527e09e7345230f83016deb0c75beab2850b0b6bb99419af8032b9f523dddde": {
-        "title": "亲历者讲述：Claude Code是怎样炼成的？",
-        "link": "https://www.tmtpost.com/8057106.html",
-        "published_date": "Wed, 08 Jul 2026 18:49:00 GMT",
-        "first_seen": "2026-07-09T00:08:22.184839"
-      },
-      "b3ea17b4d4d583c09baecb982e50ba5adceda42d6e8f067c4604b5cb92f2e7cc": {
-        "title": "骑手背后的美团，悄悄跑通了万亿大模型",
-        "link": "https://www.tmtpost.com/8056486.html",
-        "published_date": "Wed, 08 Jul 2026 12:26:00 GMT",
-        "first_seen": "2026-07-09T00:08:22.184841"
-      },
       "ca4d36bc4d1c54a6f83c559798f0e06d60b0a2ce304815398386ce94c575961d": {
         "title": "Claude“脑内小剧场”首曝光：隐藏工作空间自发涌现类人意识，谷歌DeepMind权威认证！",
         "link": "https://www.infoq.cn/article/7Rgp3820XIGYqEV9JPSq?utm_source=rss&utm_medium=article",
@@ -2521,69 +2461,39 @@
         "link": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 07 Aug 2026 11:53:00 GMT",
         "first_seen": "2026-08-07T08:55:55.596709"
+      },
+      "8464ede1d93ad111b145c4ec3764126cd10846fc825a05eaff06ed06552f5c74": {
+        "title": "从PPT到生产线，巨头们跨过具身智能“理想国”",
+        "link": "https://www.tmtpost.com/8095622.html",
+        "published_date": "Sat, 08 Aug 2026 09:58:00 GMT",
+        "first_seen": "2026-08-08T05:40:23.998551"
+      },
+      "c9118dcf1aa2db89bfef1995e5b4700e73a550b9f66e5c4e9defcc782d66c07b": {
+        "title": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+        "link": "https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 22:07:00 GMT",
+        "first_seen": "2026-08-08T05:40:23.998558"
+      },
+      "62072d34537329f4fb0f92723cf6431b6192ffcf60944bb705f3ff054f565bbd": {
+        "title": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "link": "https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 07 Aug 2026 18:16:00 GMT",
+        "first_seen": "2026-08-08T05:40:23.998560"
+      },
+      "dc69c8919ee5f6f88626d8cdf1f2220f7d6b54763db3ac24b651226e45055523": {
+        "title": "DeepSeek 的「斩杀线」，正在重塑 AI 行业的世界观",
+        "link": "http://www.geekpark.net/news/368556",
+        "published_date": "Fri, 07 Aug 2026 17:56:00 GMT",
+        "first_seen": "2026-08-08T05:40:23.998562"
+      },
+      "2f97fded0b78ae2b5120be9b8ad41de55eb064a3ac9ca3216b165bc90554b0ab": {
+        "title": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+        "link": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 08 Aug 2026 08:00:00 GMT",
+        "first_seen": "2026-08-08T05:40:23.998564"
       }
     },
     "Finance": {
-      "b9969411cdaed59a3a3010d367866d25bab9b5c10948562793e18035ce0684fa": {
-        "title": "US and Iran trade strikes after attacks on tankers",
-        "link": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
-        "published_date": "Wed, 08 Jul 2026 07:49:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.023444"
-      },
-      "1ada81fa14fcd05dcb7c6bd67a8bc467da78332dbf90ed15054cd3f0af1c97e4": {
-        "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over",
-        "link": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 09:21:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.023451"
-      },
-      "072821e55dfae180165615a12722076f7e35620fb186fa31bd29369dabe9c853": {
-        "title": "It was the world’s hottest stock market. Now South Korea’s stock market has entered bear-market territory",
-        "link": "https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 08:53:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.023453"
-      },
-      "1d70c7cc105067c90b531787de0a542cf6a389defed0f9aa250b02021fef9e11": {
-        "title": "Alibaba just had its best day in 10 months. Is it time for China techs to catch up?",
-        "link": "https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 08:57:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.023455"
-      },
-      "ed4fe74385cd4d2b4989f1200f9e3ce00d5a078f3752161d9780daec11067ca5": {
-        "title": "I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-        "link": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 09:16:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.023457"
-      },
-      "fb794fb99c5ca8d9caf6e95fb872c147d52994471469bd402149ac9afb7b7e0d": {
-        "title": "The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling",
-        "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 20:32:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.196869"
-      },
-      "7f119d77764ae83ac2913e8cd4e228376923855c79079f8093978bf0b24842b1": {
-        "title": "Inflation fears mount at Warsh’s first Fed meeting",
-        "link": "https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5",
-        "published_date": "Wed, 08 Jul 2026 18:58:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.196875"
-      },
-      "3c63be4c962c9861635a3a664a38e89c52718aebaa72bf7f5f598724950462c7": {
-        "title": "Higher gas prices aren’t the only way rising tensions with Iran will hit home",
-        "link": "https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories",
-        "published_date": "Thu, 09 Jul 2026 00:01:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.196877"
-      },
-      "f09b64415d3da516f1463764bad864362e2e642e345c8f6e57005f0f7c8d2850": {
-        "title": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
-        "link": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 21:01:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.196879"
-      },
-      "836c428b24f83262296de79b972b220bf4763b49731d42447e16871e9c54f6e4": {
-        "title": "I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?",
-        "link": "https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories",
-        "published_date": "Wed, 08 Jul 2026 22:48:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.196881"
-      },
       "5386e4f790a45d11e4f6b246fd9c309ac2f1145b2d10c21169d8ba17d6c66814": {
         "title": "Private assets could make sense for retail investors — at the right price",
         "link": "https://www.ft.com/content/2221f54b-1660-4adf-a574-581bd6cda601",
@@ -4803,51 +4713,39 @@
         "link": "https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories",
         "published_date": "Fri, 07 Aug 2026 02:35:00 GMT",
         "first_seen": "2026-08-07T06:07:56.809815"
+      },
+      "925e97ce6458919654119f58cbe10dd6cddbb2528f8ea563ca5e9f4efe1c79e2": {
+        "title": "US economy unexpectedly sheds 23,000 jobs in July",
+        "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+        "published_date": "Fri, 07 Aug 2026 20:02:00 GMT",
+        "first_seen": "2026-08-08T05:40:38.021768"
+      },
+      "499c19db38fa158bef1e055a5e641ff6b4ff2b112be30fdbd6c8f9566ca93a6a": {
+        "title": "The US bares its financial weak spot",
+        "link": "https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1",
+        "published_date": "Sat, 08 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-08T05:40:38.021775"
+      },
+      "d4751bd7cd911b8d3eee6735616c63218ea073a78aaa57eb17fc157a4fb5b489": {
+        "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+        "link": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+        "published_date": "Fri, 07 Aug 2026 22:05:00 GMT",
+        "first_seen": "2026-08-08T05:40:38.021777"
+      },
+      "fe4a357118a38643964ff66df0d06faa7ef140ba466b789cc36d841e01fa833c": {
+        "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
+        "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+        "published_date": "Fri, 07 Aug 2026 20:04:00 GMT",
+        "first_seen": "2026-08-08T05:40:38.021779"
+      },
+      "30823b4b8fccd21d42925582e39379f94893b98c83fcb55b068a1f2b386110ff": {
+        "title": "China’s biggest travel site grapples with watchdog’s reservations",
+        "link": "https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1",
+        "published_date": "Sat, 08 Aug 2026 00:54:00 GMT",
+        "first_seen": "2026-08-08T05:40:38.021781"
       }
     },
     "Ai": {
-      "8112817a7a4f1926aef17549a0e80299e964c2ee4d2a823371b0c2a03cae4666": {
-        "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
-        "link": "https://www.qbitai.com/2026/07/446075.html",
-        "published_date": "Wed, 08 Jul 2026 09:08:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.141809"
-      },
-      "25c9557b5d135ffcf1057c4469f22cb66e96f3d8ff9c8bf1787be34a98257895": {
-        "title": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
-        "link": "https://www.qbitai.com/2026/07/446076.html",
-        "published_date": "Wed, 08 Jul 2026 08:55:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.141817"
-      },
-      "c0b9634fc91481b82b2b8bf882de7ac9073571099210b3297c2555d547eb8573": {
-        "title": "阿里斩获国际AI顶会最佳资源论文奖，提出Agent评测新范式",
-        "link": "https://www.qbitai.com/2026/07/446069.html",
-        "published_date": "Wed, 08 Jul 2026 07:51:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.141820"
-      },
-      "bd390bd17ee0a00c9326ef600068421dbfc4d62f340405958ec17ef13ae92594": {
-        "title": "高德发布Phys AI Data：首个面向物理AI训练与应用的一站式空间数据基座",
-        "link": "https://www.qbitai.com/2026/07/445946.html",
-        "published_date": "Wed, 08 Jul 2026 07:42:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.141821"
-      },
-      "5feb7ba2383d5ddf54dc5f01c93038cba318d3e87b14939817e651a9d95c5c0d": {
-        "title": "智能伙伴 共创未来！WAIC 2026即将举行并首发主题片",
-        "link": "https://www.qbitai.com/2026/07/445904.html",
-        "published_date": "Wed, 08 Jul 2026 07:33:00 GMT",
-        "first_seen": "2026-07-08T10:15:30.141823"
-      },
-      "8909c8e7fe164379ff338310930b6e5de62cb83bc553fedbd8251b321c764a92": {
-        "title": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
-        "link": "https://www.qbitai.com/2026/07/446411.html",
-        "published_date": "Wed, 08 Jul 2026 13:29:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.315966"
-      },
-      "43415aead52a959f04ca5c8bf56b9fb60346fd7d278eaa22e17185ddbc948b67": {
-        "title": "具身智能“高考”难疯了！人类100分，最强模型12.8",
-        "link": "https://www.qbitai.com/2026/07/446363.html",
-        "published_date": "Wed, 08 Jul 2026 13:07:00 GMT",
-        "first_seen": "2026-07-09T00:08:41.315974"
-      },
       "e8e46bda5732219dfe7d76f1a40b90ec2c79fa15c74bfec3e90fe78a284bf4d4": {
         "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
         "link": "https://www.qbitai.com/2026/07/446548.html",
@@ -6233,13 +6131,37 @@
         "link": "https://www.qbitai.com/2026/08/468305.html",
         "published_date": "Fri, 07 Aug 2026 06:18:00 GMT",
         "first_seen": "2026-08-07T08:55:34.149965"
+      },
+      "4c1984fa0ac74f512261f9f09878d8eb52024c5ef2d8ddbd9a23276815614d8d": {
+        "title": "2026-08-08日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-08/",
+        "published_date": "Sat, 08 Aug 2026 10:25:00 GMT",
+        "first_seen": "2026-08-08T05:40:03.240566"
+      },
+      "e2edbdd61117b9e1662c171345831d519dda07f9bf4d7d5aac8946858c6a11af": {
+        "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+        "link": "https://www.qbitai.com/2026/08/468462.html",
+        "published_date": "Sat, 08 Aug 2026 04:33:00 GMT",
+        "first_seen": "2026-08-08T05:40:03.240595"
+      },
+      "9bc3d551986b19af53feb03e5419d88dfa9aedcb1d64b559c708eeb514ace87d": {
+        "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "link": "https://www.qbitai.com/2026/08/468398.html",
+        "published_date": "Sat, 08 Aug 2026 02:45:00 GMT",
+        "first_seen": "2026-08-08T05:40:03.240599"
+      },
+      "1f744fa3f7d6021a7b8d25f2dda258d7ee5e3bdefca67ae17f6803ea6bbd619d": {
+        "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+        "link": "https://www.qbitai.com/2026/08/468338.html",
+        "published_date": "Sat, 08 Aug 2026 02:35:00 GMT",
+        "first_seen": "2026-08-08T05:40:03.240600"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-07T08:55:55.596711",
-    "Finance": "2026-08-07T06:07:56.809817",
-    "Ai": "2026-08-07T08:55:34.149968"
+    "Technology": "2026-08-08T05:40:23.998566",
+    "Finance": "2026-08-08T05:40:38.021782",
+    "Ai": "2026-08-08T05:40:03.240603"
   }
 }
