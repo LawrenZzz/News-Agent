@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Aug 2026 08:38:00 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2026 08:38:57 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 23:28:00 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:28:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Jeff Dean挥别谷歌48小时首秀：我眼中AI的下一个十年</title>
-      <link>https://www.tmtpost.com/8096544.html</link>
-      <description>&lt;![CDATA[Jeff Dean挥别谷歌48小时首秀：我眼中AI的下一个十年]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8096544.html</guid>
+      <title>【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo</title>
+      <link>https://www.tmtpost.com/8096820.html</link>
+      <description>&lt;![CDATA[【钛晨报】7月物价温和运行：CPI同比上涨0.5%，AI消费电子成新兴涨价动能；原字节跳动机器人一号位加入小米；苹果被曝正在测试长鑫科技存储芯片，用于iPhone和MacBoo]]&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8096820.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍</title>
-      <link>http://www.geekpark.net/news/368577</link>
-      <description>&lt;![CDATA[苹果删除Apple智能接入阿里千问页面；苹果或近期上调 iPhone17 价格；5 年后 AI 网络流量是人类 1000 倍]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 07:56:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368577</guid>
+      <title>做底座还是做入口？国产AI 到下决心的时候了！</title>
+      <link>https://www.tmtpost.com/8096705.html</link>
+      <description>&lt;![CDATA[做底座还是做入口？国产AI 到下决心的时候了！]]&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8096705.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Wheeled Robots Gain Ground as Embodied AI Moves from Labs to Work Floors</title>
-      <link>https://www.tmtpost.com/8096593.html</link>
-      <description>&lt;![CDATA[Wheeled Robots Gain Ground as Embodied AI Moves from Labs to Work Floors]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 13:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8096593.html</guid>
+      <title>935亿之后，具身智能的账该怎么算？</title>
+      <link>https://www.tmtpost.com/8096557.html</link>
+      <description>&lt;![CDATA[935亿之后，具身智能的账该怎么算？]]&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8096557.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器</title>
-      <link>http://www.geekpark.net/news/368579</link>
-      <description>&lt;![CDATA[OpenAI 用 1 年时间证明，你并不用为 AI 换浏览器]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368579</guid>
+      <title>AI存储股暴跌，高盛为何敢押注HBM翻倍？</title>
+      <link>https://www.tmtpost.com/8096591.html</link>
+      <description>&lt;![CDATA[AI存储股暴跌，高盛为何敢押注HBM翻倍？]]&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 17:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8096591.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cambricon Turns a Profit Surge into an Inventory Test</title>
-      <link>https://www.tmtpost.com/8096505.html</link>
-      <description>&lt;![CDATA[Cambricon Turns a Profit Surge into an Inventory Test]]&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 07:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8096505.html</guid>
+      <title>宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家</title>
+      <link>https://www.tmtpost.com/8096400.html</link>
+      <description>&lt;![CDATA[宇树上市的财富盛宴：171名员工造富，美团、红杉或成最大赢家]]&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8096400.html</guid>
       <category>Technology</category>
     </item>
   </channel>
