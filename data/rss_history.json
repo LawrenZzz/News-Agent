@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d18c3df26c2c1128dc5eb747af4bbaee875eab6e3c72e81f02dbd23a30f75f94": {
-        "title": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
-        "link": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Jul 2026 09:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.828518"
-      },
-      "27fc933998c079caee0e3857e32fee99fd3a07c514a994f55aeaf8d5c165c7c3": {
-        "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.828528"
-      },
-      "959d219c7d3e6bcbcf3e95f04b0c42b48ca114853d26ed3dbe501c7a70c10a82": {
-        "title": "海力士，逃离韩国",
-        "link": "https://www.tmtpost.com/8060878.html",
-        "published_date": "Sat, 11 Jul 2026 11:52:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.828530"
-      },
-      "76a1a76c3b647f5e6be93da9ee3166ef3785633d096e1ed0d98e6f162b48e3a1": {
-        "title": "极端天气“常态化”下，能源系统如何守住“最后一道闸”？储能或将成为未来灾害下的应急兜底手段",
-        "link": "https://www.tmtpost.com/8060976.html",
-        "published_date": "Sat, 11 Jul 2026 12:31:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.828532"
-      },
-      "e41baaac2049328b8c84f613949151b4a8c6145fb3a947989f62699677ea65f1": {
-        "title": "青海、山西落地“114号文”容量电价细则，当储能拿到“底薪”之后，有人欢喜有人愁",
-        "link": "https://www.tmtpost.com/8060979.html",
-        "published_date": "Sat, 11 Jul 2026 12:22:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.828534"
-      },
       "96cc40eea631c63acba8b245f111d61f1dde2dcbd8607e0ce41c75b6b1137544": {
         "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
         "link": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8097093.html",
         "published_date": "Mon, 10 Aug 2026 12:04:00 GMT",
         "first_seen": "2026-08-10T06:11:33.116004"
+      },
+      "f41ee0d8bb1f25609d39f8b235061f0c1d3d5fb2c029735d8687499036f4203e": {
+        "title": "宇树科技上市，具身智能开始第一次“清场”",
+        "link": "https://www.tmtpost.com/8097114.html",
+        "published_date": "Mon, 10 Aug 2026 10:59:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.825520"
+      },
+      "d1d96c405b8926522785144505a8070c46f14ca3c2fb381792484489de095902": {
+        "title": "AI推理规模上升后，华为开始重新定义“存储”的位置",
+        "link": "https://www.infoq.cn/article/qBHKWa0AabfP0Fs8rGrk?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 15:24:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.825526"
+      },
+      "f87114c5c76650e8a3a184f9ab2f0623e0a2ce05998ff877bdafb0efecee6ae7": {
+        "title": "苹果测试长鑫存储，存储器市场在释放什么信号",
+        "link": "https://www.tmtpost.com/8097379.html",
+        "published_date": "Mon, 10 Aug 2026 13:05:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.825528"
+      },
+      "da3c83e3205c8c67613aa96e42e6782927270b0d33dabe4b7ff4d3677b3d36e0": {
+        "title": "具身智能的大脑，200亿一张门票",
+        "link": "https://www.tmtpost.com/8097290.html",
+        "published_date": "Mon, 10 Aug 2026 14:58:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.825529"
+      },
+      "75bbfbcc5910e1850de25f8b7178b292e908b5e43f704d9438c18b45a23807c8": {
+        "title": "DeepSeek涨价，阿里抽成：大客户会买账还是跑路？",
+        "link": "https://www.tmtpost.com/8097408.html",
+        "published_date": "Mon, 10 Aug 2026 14:49:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.825531"
       }
     },
     "Finance": {
-      "ca4847f0e36895cff0467e7da1ca349acb3d0947c4ebbd4caf0b9d4dc0805f63": {
-        "title": "Tropical nights come to Europe",
-        "link": "https://www.ft.com/content/d78ed235-b157-4564-a099-2c7e350f0956",
-        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.874164"
-      },
-      "ee1c22be3cf78cce004e791919259bb1f310cad3ea3fb2d9e69cf3ad250a7687": {
-        "title": "Prepare for a perilous summer in markets",
-        "link": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
-        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.874172"
-      },
-      "7a04e9ca8de30960f673a3e01cc38deee7480ba7cdc8caa03ab3514a15d775cf": {
-        "title": "What’s really going on with mental health?",
-        "link": "https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8",
-        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.874174"
-      },
-      "95de2ce014108f81f8506d865cf83300fd705c652a5f3c510f354185090bae57": {
-        "title": "Europe’s slow electrification is a ‘major mistake’, warns IEA chief",
-        "link": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
-        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.874176"
-      },
-      "a4c3649eece58f402677a7803773e666a973a62e52649d51a78515980f6ff721": {
-        "title": "Inside the risky race through the Strait of Hormuz",
-        "link": "https://www.ft.com/content/68d396cd-2800-4ff8-b563-1f5c95beb9ba",
-        "published_date": "Sat, 11 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.874177"
-      },
       "cae9db61e4df4f86181101c62dde4288eddb981968df3e7775459381dde1238b": {
         "title": "How AI rebrands fail to deliver a lasting share price boost",
         "link": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
@@ -4803,21 +4773,33 @@
         "link": "https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1",
         "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-10T06:11:42.761445"
+      },
+      "d768f14eb880d7c772cea2617d49ad378bcd295597061a3178d5b66ee190c93d": {
+        "title": "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
+        "link": "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 09:15:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.861735"
+      },
+      "cfe3085b39b4f4fd6dad111b9026eea1e487f6a72a6334949103ee98d05fa2fe": {
+        "title": "How ‘Ted Lasso’ turned an affluent London neighborhood into a tourist hotspot",
+        "link": "https://www.marketwatch.com/story/how-ted-lasso-turned-an-affluent-london-neighborhood-into-a-tourist-hotspot-a7cbf0eb?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 09:04:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.861741"
+      },
+      "452f531225c7bffd8ccc76ce52babfb93ced18c9e2e9ac504e20192bd787c115": {
+        "title": "From ‘Billionaire Bunker’ to Beverly Hills: The properties that make up Jeff Bezos’ $500 million real estate empire",
+        "link": "https://www.marketwatch.com/story/from-billionaire-bunker-to-beverly-hills-the-properties-that-make-up-jeff-bezos-500-million-real-estate-empire-5aec38c3?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 09:02:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.861742"
+      },
+      "d9c4c329819b5ccfe645f10b255886bd71aa1197d8cd4e73a33b88dc145a14f8": {
+        "title": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+        "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 08:21:00 GMT",
+        "first_seen": "2026-08-10T09:17:01.861744"
       }
     },
     "Ai": {
-      "645f2ef5ab23305195bfbd325822353a9d5d81c8e9a44807c954ae5e2ae1d234": {
-        "title": "2026-07-11日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-11/",
-        "published_date": "Sat, 11 Jul 2026 09:09:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.998317"
-      },
-      "aa4ef4b260c52519cd202b6e424ec98bc9e0e6bdb5892ed5b426da614e21298c": {
-        "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-        "link": "https://www.qbitai.com/2026/07/447873.html",
-        "published_date": "Sat, 11 Jul 2026 05:30:00 GMT",
-        "first_seen": "2026-07-11T07:11:30.998323"
-      },
       "d5da08efc55b31b32e668083cbe6170eb00f57b2925ef0ceb24c2aa65b7a831b": {
         "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
         "link": "https://www.qbitai.com/2026/07/447902.html",
@@ -6197,13 +6179,25 @@
         "link": "https://www.qbitai.com/2026/08/469500.html",
         "published_date": "Mon, 10 Aug 2026 05:37:00 GMT",
         "first_seen": "2026-08-10T06:10:45.478392"
+      },
+      "f1fec50ea959ff3466498727198d9b816a59176270a5cbfa4146c2df19f9e601": {
+        "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
+        "link": "https://www.qbitai.com/2026/08/469520.html",
+        "published_date": "Mon, 10 Aug 2026 06:58:00 GMT",
+        "first_seen": "2026-08-10T09:16:38.936616"
+      },
+      "57259923daeec166aa6da392f647caebf7bb06a750ac0cbd2635027f0ae8b4a2": {
+        "title": "2026-08-10日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-10/",
+        "published_date": "Mon, 10 Aug 2026 10:44:00 GMT",
+        "first_seen": "2026-08-10T09:16:38.936626"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-10T06:11:33.116007",
-    "Finance": "2026-08-10T06:11:42.761447",
-    "Ai": "2026-08-10T06:10:45.478394"
+    "Technology": "2026-08-10T09:17:01.825532",
+    "Finance": "2026-08-10T09:17:01.861745",
+    "Ai": "2026-08-10T09:16:38.936628"
   }
 }
