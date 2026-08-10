@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "96cc40eea631c63acba8b245f111d61f1dde2dcbd8607e0ce41c75b6b1137544": {
-        "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
-        "link": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Jul 2026 17:00:00 GMT",
-        "first_seen": "2026-07-11T09:25:48.812936"
-      },
-      "8b7bdab3f0b930b9b93bd77da7f63b9d4377d72b85aaf91fe9a491845068fec5": {
-        "title": "跨界储能，为何有的吃苦有的吃糖",
-        "link": "https://www.tmtpost.com/8060488.html",
-        "published_date": "Sat, 11 Jul 2026 12:47:00 GMT",
-        "first_seen": "2026-07-11T09:25:48.812945"
-      },
-      "7da35b73da80d8d4f8ad9a0a606b2f21d1e62815de2d84edcb713ebef0c65fc8": {
-        "title": "两个人、两个月，卖出1500万份，独立游戏盯上了“朋友生意”",
-        "link": "https://www.tmtpost.com/8060974.html",
-        "published_date": "Sat, 11 Jul 2026 12:14:00 GMT",
-        "first_seen": "2026-07-11T09:25:48.812948"
-      },
-      "0dd166496c3143d80e12a44c6cec8cadd9d6f36338faeee9be7e11b8aad5716d": {
-        "title": "中国的自有品牌，更像供应链故事，而非渠道故事",
-        "link": "https://www.tmtpost.com/8060582.html",
-        "published_date": "Sat, 11 Jul 2026 10:43:00 GMT",
-        "first_seen": "2026-07-11T09:25:48.812950"
-      },
-      "58d25e741e6c233964680283fd0b19aa55205139aa2ba7aa9413e0b077e0f6fb": {
-        "title": "赴美双重上市，途虎真正的考题不在华尔街",
-        "link": "https://www.tmtpost.com/8060567.html",
-        "published_date": "Sat, 11 Jul 2026 10:37:00 GMT",
-        "first_seen": "2026-07-11T09:25:48.812952"
-      },
       "08cd5e7c2e7e753c5c2253dafe835181a40b627dfc9d019dc71d01780ecd027a": {
         "title": "GPT-5.6背后最恐怖的真相，AI已经开始自我进化了",
         "link": "https://www.tmtpost.com/8061074.html",
@@ -2551,6 +2521,36 @@
         "link": "https://www.tmtpost.com/8097408.html",
         "published_date": "Mon, 10 Aug 2026 14:49:00 GMT",
         "first_seen": "2026-08-10T09:17:01.825531"
+      },
+      "2f1dc1bcde84090ed669c1dee153a369a45d2b98913479ec76d663e8893eb0fd": {
+        "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
+        "link": "https://www.tmtpost.com/8098284.html",
+        "published_date": "Tue, 11 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-10T23:32:58.640945"
+      },
+      "d42eac9086237fa012b173588f3b345947481414a076e87b76ae73ecc9688b0b": {
+        "title": "宇树科技今日申购，或出一批90后千万富豪；字节拟训练超5万亿参数模型，张一鸣：反对蒸馏；数百管理层被裁难找下家，猎头：没那么多岗｜AI周报",
+        "link": "https://www.infoq.cn/article/xWWwhH3iPjwRakLOQiXQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 09:31:00 GMT",
+        "first_seen": "2026-08-10T23:32:58.640955"
+      },
+      "7212a03dee516ea45813b7d4e823fd70424ea809423d49d1170949282c40c925": {
+        "title": "长鑫IPO一步登顶三万亿：安徽「延迟满足」性格的胜利",
+        "link": "https://www.tmtpost.com/8082275.html",
+        "published_date": "Mon, 10 Aug 2026 18:45:00 GMT",
+        "first_seen": "2026-08-10T23:32:58.640957"
+      },
+      "33877e176b53c7888a4ddbb22081d7a5780e926f00dd045ca13f588d789283b9": {
+        "title": "破局“数据困境”：橡木果发布全球首个“具身本能模型”Natus AGE-0，获招商局创投与蔚来资本天使轮投资",
+        "link": "https://www.infoq.cn/article/dXkqWgtLOtDEl82dzQR6?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 14:24:00 GMT",
+        "first_seen": "2026-08-10T23:32:58.640959"
+      },
+      "f0eca1f033d93d094d20a4c8f32a72ac4caf366e0722c81d5501531e54d2af82": {
+        "title": "当特朗普用多晶硅关税逼马斯克上轨道：AI+机器人全栈税的到期日",
+        "link": "https://www.tmtpost.com/8096937.html",
+        "published_date": "Mon, 10 Aug 2026 10:02:00 GMT",
+        "first_seen": "2026-08-10T23:32:58.640960"
       }
     },
     "Finance": {
@@ -4797,6 +4797,36 @@
         "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
         "published_date": "Mon, 10 Aug 2026 08:21:00 GMT",
         "first_seen": "2026-08-10T09:17:01.861744"
+      },
+      "299330bcc2f8a9c836fb93a9d6b0ceb3b6e0479fabbc7b0e0c090c52789199db": {
+        "title": "Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
+        "link": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 21:32:00 GMT",
+        "first_seen": "2026-08-10T23:33:15.567973"
+      },
+      "bc64ba7ffe7ecee4af92a96cc50944ac84368a59df8c48540bc9ab81ed768f69": {
+        "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+        "link": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 21:42:00 GMT",
+        "first_seen": "2026-08-10T23:33:15.567985"
+      },
+      "32e1649312ff30a7e673a367e66e8364fd94c74e179292d91eff81b524654ad8": {
+        "title": "Just how big is the hidden leverage of AI hyperscalers?",
+        "link": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
+        "published_date": "Mon, 10 Aug 2026 12:27:00 GMT",
+        "first_seen": "2026-08-10T23:33:15.567987"
+      },
+      "fad04d75e98c56757873aa70dc908b3aa178f0697ee6048d6562134298d098f1": {
+        "title": "Yen sinks as effect of US-Japan intervention fades",
+        "link": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 20:17:00 GMT",
+        "first_seen": "2026-08-10T23:33:15.567990"
+      },
+      "53e75918d10ecdbd756c4f0dd7251232989deda74a5ef68bf0003cac744a1f3d": {
+        "title": "Intel plans to sell $15 billion worth of stock after it has risen 400% in a year",
+        "link": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 22:46:00 GMT",
+        "first_seen": "2026-08-10T23:33:15.567991"
       }
     },
     "Ai": {
@@ -6191,13 +6221,31 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-10/",
         "published_date": "Mon, 10 Aug 2026 10:44:00 GMT",
         "first_seen": "2026-08-10T09:16:38.936626"
+      },
+      "2cfb8caa56cdb3cd80e16e8151ee773d342a8e19e734ef75d44635800c13b44f": {
+        "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+        "link": "https://www.qbitai.com/2026/08/469795.html",
+        "published_date": "Mon, 10 Aug 2026 13:58:00 GMT",
+        "first_seen": "2026-08-10T23:32:24.860685"
+      },
+      "02b18c48eb25901d39eff2f923401f36f9c57491324f338572332fa4031831bd": {
+        "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+        "link": "https://www.qbitai.com/2026/08/469721.html",
+        "published_date": "Mon, 10 Aug 2026 13:53:00 GMT",
+        "first_seen": "2026-08-10T23:32:24.860715"
+      },
+      "c554c3f8bd43f746ea02b775539d40f1d5513c2b4f5ad2da7a9bf1b8fe5bb162": {
+        "title": "模型路线趋同之后，Physical AI的胜负手变了",
+        "link": "https://www.qbitai.com/2026/08/469544.html",
+        "published_date": "Mon, 10 Aug 2026 09:20:00 GMT",
+        "first_seen": "2026-08-10T23:32:24.860717"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-10T09:17:01.825532",
-    "Finance": "2026-08-10T09:17:01.861745",
-    "Ai": "2026-08-10T09:16:38.936628"
+    "Technology": "2026-08-10T23:32:58.640963",
+    "Finance": "2026-08-10T23:33:15.567993",
+    "Ai": "2026-08-10T23:32:24.860720"
   }
 }
