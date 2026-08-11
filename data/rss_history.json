@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a21c5f5b65982525829a174067d075550194c704847b4f0ee0a77e9de14a1b47": {
-        "title": "算力基建，遭遇急刹车？",
-        "link": "https://www.tmtpost.com/8061647.html",
-        "published_date": "Sun, 12 Jul 2026 15:21:00 GMT",
-        "first_seen": "2026-07-12T07:29:16.549385"
-      },
-      "0162f4a702fbd4ba5b5563d9b5c78d6235c52d200fb8789a4526d96476dab014": {
-        "title": "具身智能460亿融资背后的“异类玩家”",
-        "link": "https://www.tmtpost.com/8061597.html",
-        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
-        "first_seen": "2026-07-12T07:29:16.549394"
-      },
-      "1489844f4d24e04510d68529b439169e9cf6c9de6ce59879cf01b717de636745": {
-        "title": "内存三巨头，各选各路",
-        "link": "https://www.tmtpost.com/8061616.html",
-        "published_date": "Sun, 12 Jul 2026 11:16:00 GMT",
-        "first_seen": "2026-07-12T07:29:16.549396"
-      },
-      "5c88e54fae2acf819f900e48ab3a688840a3d684aff0de5d44315d9707287a4a": {
-        "title": "智谱，害怕成为下一个MiniMax",
-        "link": "https://www.tmtpost.com/8061545.html",
-        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
-        "first_seen": "2026-07-12T07:29:16.549398"
-      },
-      "dfcd785958f4333e329de6d9d2f4ad636d863b0077fc9aa1e1b6cb7e7aa1db53": {
-        "title": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-12T07:29:16.549401"
-      },
       "c467fd78d7fb59cf7bb03cc8294dd65088d7655842ea7839ca69a8960605e7f6": {
         "title": "绿电不愿再“流浪”：国家能源局重磅发布行动计划，布局一批自用消纳的新能源基地",
         "link": "https://www.tmtpost.com/8061627.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 11 Aug 2026 10:00:00 GMT",
         "first_seen": "2026-08-11T05:53:36.118351"
+      },
+      "84927d88028ae7bf1803a42cb682dab8b4ba523bd45942af71b29db117675c88": {
+        "title": "OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face",
+        "link": "https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 16:36:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.900721"
+      },
+      "d3e5928626bf7ca3a538714cfebbaac2aee5f2a7a59511c6eb468559bd6dd3c5": {
+        "title": "Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?",
+        "link": "https://www.tmtpost.com/8099034.html",
+        "published_date": "Tue, 11 Aug 2026 15:01:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.900730"
+      },
+      "d2bfe8e52b4d6bebbf259452ae7a2ebcdcc94ad47ff516c304fd7dae48e639c1": {
+        "title": "10万亿参数大模型，注定要被关进笼子里",
+        "link": "https://www.tmtpost.com/8098885.html",
+        "published_date": "Tue, 11 Aug 2026 13:12:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.900733"
+      },
+      "58f7d4f3f52c51b4a2efffd3276bfbb214de62a50584f68f242d331f1e572b6e": {
+        "title": "让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践",
+        "link": "https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 14:18:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.900734"
+      },
+      "3317886e3a2f92094f8d3313b55a0c76ad76d6588f0aebc798e4c4ddb7bcd3fd": {
+        "title": "开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流",
+        "link": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 09:00:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.900737"
       }
     },
     "Finance": {
-      "6af68551ed8cf72fb258bd67c47f1f08ceb5fcc2ee6fea5310df772ab4d88bba": {
-        "title": "China cracks down on top ratings for corporate bonds",
-        "link": "https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8",
-        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.247457"
-      },
-      "c794af337bdf692dc5a690ff3db79a3c1b803824359126a5a02c96e766e4223f": {
-        "title": "US launches more strikes after Tehran declares Strait of Hormuz closed",
-        "link": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-        "published_date": "Sun, 12 Jul 2026 04:17:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.247463"
-      },
-      "6bbf3d6315b38a39ccda8e31c921cedc9b6647c56fb1a47e939c60007f6f28ea": {
-        "title": "The EU has ways out of its budget trap",
-        "link": "https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764",
-        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.247465"
-      },
-      "cfc201bc587f8612d4e8e6f6431482597986eef46244dfc890cb114ef0d20a7b": {
-        "title": "Big Tech to face fines for consumer protection failures, says EU official",
-        "link": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
-        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.247467"
-      },
-      "b0bcc92ef3b181b2d0fe207c4b68ab18ba06011c37da538069c270e017835ffd": {
-        "title": "Airbnb lures fans from US hotels after World Cup marketing push",
-        "link": "https://www.ft.com/content/21d4a393-701d-4da7-847c-bd53e95ac295",
-        "published_date": "Sun, 12 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.247469"
-      },
       "6e64fb2e4c8dfaa1079d70809d1e15749cf6d54d74755b90fe6d85615b539695": {
         "title": "US senator Lindsey Graham dies aged 71",
         "link": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
@@ -4827,27 +4797,33 @@
         "link": "https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1",
         "published_date": "Tue, 11 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-11T05:54:24.549365"
+      },
+      "c24debcc4b8558166551c2112d624e9b6be9dec7989fdcfbca9fbccc895cf411": {
+        "title": "Intel now says it is selling $20 billion of stock",
+        "link": "https://www.marketwatch.com/story/intel-now-says-it-is-selling-20-billion-of-stock-166e2dfe?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 08:42:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.951002"
+      },
+      "3c8d143880a24ca2a530eade3ea40ee8265055adf16a975c1ecc1ca0808cecae": {
+        "title": "Bears are in pain as the S&P 500 hits record highs. That may mean more upside for stocks.",
+        "link": "https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 08:40:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.951008"
+      },
+      "2bbe605fa878781092e91060723c5c647abb2c45af7423c63c0d1089aa274d64": {
+        "title": "The Bessent bond-market scorecard doesn’t look as strong as it once did",
+        "link": "https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 07:35:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.951010"
+      },
+      "cf9d5164391dde7e5d396bf451fbe9e866704e1e9cb9432405cdc3ad272c6f88": {
+        "title": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
+        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 06:15:00 GMT",
+        "first_seen": "2026-08-11T08:50:12.951012"
       }
     },
     "Ai": {
-      "a97ab4963c4b657feae7d35771aa8876e24ecf458da03c044fffadf94e70efc5": {
-        "title": "2026-07-12日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-12/",
-        "published_date": "Sun, 12 Jul 2026 10:48:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.369870"
-      },
-      "a0bf51efeb9b07ad27aeff1ac5570b2d1d8e74aff79d400423e2c82883c4fa1e": {
-        "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-        "link": "https://www.qbitai.com/2026/07/447981.html",
-        "published_date": "Sun, 12 Jul 2026 01:37:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.369878"
-      },
-      "5adf03c0e6ff8a5c77e3f0c42f2b822bfe20481998f039875aa903fd4be77c8d": {
-        "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-        "link": "https://www.qbitai.com/2026/07/447914.html",
-        "published_date": "Sun, 12 Jul 2026 01:14:00 GMT",
-        "first_seen": "2026-07-12T07:29:30.369880"
-      },
       "269f4a2ef6431ec2be754c0141c5a83db4940245a49a4881bd8f9a31d13c95b8": {
         "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
         "link": "https://www.qbitai.com/2026/07/448034.html",
@@ -6268,8 +6244,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-11T05:53:36.118353",
-    "Finance": "2026-08-11T05:54:24.549367",
+    "Technology": "2026-08-11T08:50:12.900739",
+    "Finance": "2026-08-11T08:50:12.951015",
     "Ai": "2026-08-11T05:53:09.121563"
   }
 }

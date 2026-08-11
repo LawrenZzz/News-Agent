@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Aug 2026 05:52:00 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2026 05:53:36 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 08:49:00 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:50:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产</title>
-      <link>https://www.tmtpost.com/8098476.html</link>
-      <description>&lt;![CDATA[5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 09:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8098476.html</guid>
+      <title>OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face</title>
+      <link>https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 16:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>超导量子计算距离规模化、工程化落地还有多远？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/8098852.html</link>
-      <description>&lt;![CDATA[超导量子计算距离规模化、工程化落地还有多远？丨ToB产业观察]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 13:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8098852.html</guid>
+      <title>Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?</title>
+      <link>https://www.tmtpost.com/8099034.html</link>
+      <description>&lt;![CDATA[Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 15:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8099034.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>国产FPGA，机会来了</title>
-      <link>https://www.tmtpost.com/8098056.html</link>
-      <description>&lt;![CDATA[国产FPGA，机会来了]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8098056.html</guid>
+      <title>10万亿参数大模型，注定要被关进笼子里</title>
+      <link>https://www.tmtpost.com/8098885.html</link>
+      <description>&lt;![CDATA[10万亿参数大模型，注定要被关进笼子里]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 13:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8098885.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI吃掉SaaS利润后：Zoho为什么自研服务器</title>
-      <link>https://www.tmtpost.com/8098550.html</link>
-      <description>&lt;![CDATA[AI吃掉SaaS利润后：Zoho为什么自研服务器]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8098550.html</guid>
+      <title>让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践</title>
+      <link>https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 14:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>企业 AI Native 研发流程升级与重塑｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[企业 AI Native 研发流程升级与重塑｜AICon深圳]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov?utm_source=rss&amp;utm_medium=article</guid>
+      <title>开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流</title>
+      <link>https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
