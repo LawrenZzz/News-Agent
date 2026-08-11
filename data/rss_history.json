@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c467fd78d7fb59cf7bb03cc8294dd65088d7655842ea7839ca69a8960605e7f6": {
-        "title": "绿电不愿再“流浪”：国家能源局重磅发布行动计划，布局一批自用消纳的新能源基地",
-        "link": "https://www.tmtpost.com/8061627.html",
-        "published_date": "Sun, 12 Jul 2026 16:01:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.555227"
-      },
-      "65d4d8f7b803e04c41803edf24e95e407fb6658e38171fdb47cfcc320a9d037b": {
-        "title": "巨浪已来，还是压力已至？智谱这封内部信，透露的不只是AGI野心",
-        "link": "https://www.tmtpost.com/8061646.html",
-        "published_date": "Sun, 12 Jul 2026 15:33:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.555239"
-      },
-      "1fa85cc70dfccc3da2c8d024d5e122a22e8a43b481b0da1f1f89d7854bff207a": {
-        "title": "二代豆包手机要上桌：中兴不动筷，华米OV们干看着？",
-        "link": "https://www.tmtpost.com/8061411.html",
-        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.555242"
-      },
-      "e806e37b554029024e1a192d15d0da9a18b4904d9238113dfadf3b7d51eb8923": {
-        "title": "功率半导体，沉默中爆发",
-        "link": "https://www.tmtpost.com/8061644.html",
-        "published_date": "Sun, 12 Jul 2026 15:55:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.555243"
-      },
-      "e8b1a76f3afe34f5309520db876520b2e1d6d07379b10d1e8c35d806dfe2a3a2": {
-        "title": "拆分电商业务、整治剧本带货，快手给复购喂“救心丸”",
-        "link": "https://www.tmtpost.com/8061563.html",
-        "published_date": "Sun, 12 Jul 2026 11:10:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.555245"
-      },
       "eee0322c60b835ce7cd3315b2a14f51d474d309e08a5d9c2e11c01faeabeb8f9": {
         "title": "【钛晨报】加快推进新一代通信网、算力网建设，国常会最新部署；三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年；美国消费信贷自2024年以来首次下降",
         "link": "https://www.tmtpost.com/8061844.html",
@@ -2551,15 +2521,39 @@
         "link": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 11 Aug 2026 09:00:00 GMT",
         "first_seen": "2026-08-11T08:50:12.900737"
+      },
+      "f6d8560dfabae41a80d8807067df311aaf345c71e1cec33efccc472702143d1d": {
+        "title": "英伟达调动5000亿美元，算力金融化加速",
+        "link": "https://www.tmtpost.com/8098887.html",
+        "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
+        "first_seen": "2026-08-11T23:35:47.136200"
+      },
+      "816ec80c7ac14ba5b492f18e15ab55dfbeb67005d372a2c035eb4bc3ef082a9c": {
+        "title": "华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？",
+        "link": "https://www.tmtpost.com/8099113.html",
+        "published_date": "Tue, 11 Aug 2026 18:19:00 GMT",
+        "first_seen": "2026-08-11T23:35:47.136207"
+      },
+      "d28882baff0ba2ae1756c99af8361d99bc08f9af7733a2f86d82d341b1f2dcf8": {
+        "title": "【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元",
+        "link": "https://www.tmtpost.com/8099470.html",
+        "published_date": "Wed, 12 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-11T23:35:47.136210"
+      },
+      "f8ad8b762661c6415d5987967f09a0ee04294306ab8108cc1f977a0fae11bcf1": {
+        "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
+        "link": "https://www.tmtpost.com/8098796.html",
+        "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
+        "first_seen": "2026-08-11T23:35:47.136212"
+      },
+      "d68c60a8dbd5d4b89e400dc497113a36a3902ecc97bb8e0ba0b9dba775268abd": {
+        "title": "苹果的买方霸权，第一次在中国失效",
+        "link": "https://www.tmtpost.com/8098899.html",
+        "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
+        "first_seen": "2026-08-11T23:35:47.136214"
       }
     },
     "Finance": {
-      "6e64fb2e4c8dfaa1079d70809d1e15749cf6d54d74755b90fe6d85615b539695": {
-        "title": "US senator Lindsey Graham dies aged 71",
-        "link": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
-        "published_date": "Sun, 12 Jul 2026 09:26:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.601060"
-      },
       "9ade0e849638a9e75cde267c23da72b695d1a7a3f4ffa8d9a6883f331b0bb5ab": {
         "title": "Why Citigroup is the one to watch when banks report earnings this week",
         "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
@@ -4821,15 +4815,39 @@
         "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
         "published_date": "Tue, 11 Aug 2026 06:15:00 GMT",
         "first_seen": "2026-08-11T08:50:12.951012"
+      },
+      "c6e0723b3d05f2f488be5a49b3e0e66ed9026e0022662246c4e2c1b22a3134b0": {
+        "title": "Panama Canal fees hit record high as El Niño and Iran war choke shipping",
+        "link": "https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1",
+        "published_date": "Tue, 11 Aug 2026 21:07:00 GMT",
+        "first_seen": "2026-08-11T23:36:03.316299"
+      },
+      "1a3c5160c46a28120b4ef2502f8bc62a1ac5a3996dab1f3aaef834c50268c492": {
+        "title": "CoreWeave’s stock soars as earnings show major AI momentum",
+        "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 23:29:00 GMT",
+        "first_seen": "2026-08-11T23:36:03.316306"
+      },
+      "f0043a4c42bcc1ad70345b04275d16a161eb978c7fa24c856494b4278e4fb82c": {
+        "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
+        "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 20:32:00 GMT",
+        "first_seen": "2026-08-11T23:36:03.316309"
+      },
+      "3b0653a5b80e906752930cf18391569c23eddc9d34095afd39d1081d7043fb0f": {
+        "title": "Volatility tumbles as markets shrug off Middle East risks",
+        "link": "https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1",
+        "published_date": "Tue, 11 Aug 2026 12:20:00 GMT",
+        "first_seen": "2026-08-11T23:36:03.316311"
+      },
+      "6f4d59d5334a72babb15fcb97399673ab49a44c6492420e349bda0d80d7bef60": {
+        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+        "published_date": "Tue, 11 Aug 2026 22:00:00 GMT",
+        "first_seen": "2026-08-11T23:36:03.316312"
       }
     },
     "Ai": {
-      "269f4a2ef6431ec2be754c0141c5a83db4940245a49a4881bd8f9a31d13c95b8": {
-        "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
-        "link": "https://www.qbitai.com/2026/07/448034.html",
-        "published_date": "Sun, 12 Jul 2026 08:29:00 GMT",
-        "first_seen": "2026-07-12T09:49:46.719683"
-      },
       "f299eaebd04b57bc5748d415d2975570c36e23f1f7e3323e78661ad584d39932": {
         "title": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题",
         "link": "https://www.qbitai.com/2026/07/448239.html",
@@ -6239,13 +6257,43 @@
         "link": "https://www.qbitai.com/2026/08/469860.html",
         "published_date": "Tue, 11 Aug 2026 00:46:00 GMT",
         "first_seen": "2026-08-11T05:53:09.121560"
+      },
+      "496675201364defc459094aa9f0d88343fb1ef6ca0ffcd26f2aa5e9edcafddf3": {
+        "title": "2026-08-11日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-11/",
+        "published_date": "Tue, 11 Aug 2026 20:29:00 GMT",
+        "first_seen": "2026-08-11T23:35:21.257107"
+      },
+      "778a083886688ec6adcb356af8e68f82f37b0a9acfe75daed06319af79dd3182": {
+        "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+        "link": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+        "published_date": "Tue, 11 Aug 2026 17:04:00 GMT",
+        "first_seen": "2026-08-11T23:35:21.257118"
+      },
+      "f5e7c67eed03926149dd25dddbdcf9aed40c51e4aa40efc302412197b0bfc0c9": {
+        "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+        "link": "https://www.qbitai.com/2026/08/470674.html",
+        "published_date": "Tue, 11 Aug 2026 13:57:00 GMT",
+        "first_seen": "2026-08-11T23:35:21.257122"
+      },
+      "20ebef71c3b6bec451c9d2eee37546c7ee15625ddc3fea2490ad031771816c9a": {
+        "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+        "link": "https://www.qbitai.com/2026/08/470621.html",
+        "published_date": "Tue, 11 Aug 2026 11:36:00 GMT",
+        "first_seen": "2026-08-11T23:35:21.257124"
+      },
+      "8b50bfeccbda8f08765e812e373cff93c69bf0d4cbcdc0a5ffe81724280c2f17": {
+        "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+        "link": "https://www.qbitai.com/2026/08/470576.html",
+        "published_date": "Tue, 11 Aug 2026 09:24:00 GMT",
+        "first_seen": "2026-08-11T23:35:21.257125"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-11T08:50:12.900739",
-    "Finance": "2026-08-11T08:50:12.951015",
-    "Ai": "2026-08-11T05:53:09.121563"
+    "Technology": "2026-08-11T23:35:47.136217",
+    "Finance": "2026-08-11T23:36:03.316314",
+    "Ai": "2026-08-11T23:35:21.257144"
   }
 }

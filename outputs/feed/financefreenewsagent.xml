@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Aug 2026 08:49:00 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2026 08:50:12 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 23:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:36:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,35 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Intel now says it is selling $20 billion of stock</title>
-      <link>https://www.marketwatch.com/story/intel-now-says-it-is-selling-20-billion-of-stock-166e2dfe?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Intel now says it is selling $20 billion of stock]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 08:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/intel-now-says-it-is-selling-20-billion-of-stock-166e2dfe?mod=mw_rss_topstories</guid>
+      <title>Panama Canal fees hit record high as El Niño and Iran war choke shipping</title>
+      <link>https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Panama Canal fees hit record high as El Niño and Iran war choke shipping]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Bears are in pain as the S&amp;P 500 hits record highs. That may mean more upside for stocks.</title>
-      <link>https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Bears are in pain as the S&amp;P 500 hits record highs. That may mean more upside for stocks.]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 08:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories</guid>
+      <title>CoreWeave’s stock soars as earnings show major AI momentum</title>
+      <link>https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[CoreWeave’s stock soars as earnings show major AI momentum]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 23:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>The Bessent bond-market scorecard doesn’t look as strong as it once did</title>
-      <link>https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The Bessent bond-market scorecard doesn’t look as strong as it once did]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 07:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories</guid>
+      <title>Oracle’s stock has taken a hit as AI spending concerns resurface</title>
+      <link>https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Oracle’s stock has taken a hit as AI spending concerns resurface]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 20:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?</title>
-      <link>https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 06:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories</guid>
+      <title>Volatility tumbles as markets shrug off Middle East risks</title>
+      <link>https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Volatility tumbles as markets shrug off Middle East risks]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 12:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Is $1 million enough for a household to retire? The answer keeps changing.</title>
+      <link>https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Is $1 million enough for a household to retire? The answer keeps changing.]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

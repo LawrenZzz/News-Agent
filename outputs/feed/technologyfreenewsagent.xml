@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Aug 2026 08:49:00 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2026 08:50:12 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 23:35:00 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:35:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face</title>
-      <link>https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 16:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&amp;utm_medium=article</guid>
+      <title>英伟达调动5000亿美元，算力金融化加速</title>
+      <link>https://www.tmtpost.com/8098887.html</link>
+      <description>&lt;![CDATA[英伟达调动5000亿美元，算力金融化加速]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8098887.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?</title>
-      <link>https://www.tmtpost.com/8099034.html</link>
-      <description>&lt;![CDATA[Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 15:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8099034.html</guid>
+      <title>华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？</title>
+      <link>https://www.tmtpost.com/8099113.html</link>
+      <description>&lt;![CDATA[华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8099113.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10万亿参数大模型，注定要被关进笼子里</title>
-      <link>https://www.tmtpost.com/8098885.html</link>
-      <description>&lt;![CDATA[10万亿参数大模型，注定要被关进笼子里]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 13:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8098885.html</guid>
+      <title>【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元</title>
+      <link>https://www.tmtpost.com/8099470.html</link>
+      <description>&lt;![CDATA[【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元]]&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8099470.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践</title>
-      <link>https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节AI，不装了：收税12%、不蒸馏、赌5万亿</title>
+      <link>https://www.tmtpost.com/8098796.html</link>
+      <description>&lt;![CDATA[字节AI，不装了：收税12%、不蒸馏、赌5万亿]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8098796.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流</title>
-      <link>https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流]]&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>苹果的买方霸权，第一次在中国失效</title>
+      <link>https://www.tmtpost.com/8098899.html</link>
+      <description>&lt;![CDATA[苹果的买方霸权，第一次在中国失效]]&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 18:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8098899.html</guid>
       <category>Technology</category>
     </item>
   </channel>
