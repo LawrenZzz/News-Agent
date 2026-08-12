@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "eee0322c60b835ce7cd3315b2a14f51d474d309e08a5d9c2e11c01faeabeb8f9": {
-        "title": "【钛晨报】加快推进新一代通信网、算力网建设，国常会最新部署；三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年；美国消费信贷自2024年以来首次下降",
-        "link": "https://www.tmtpost.com/8061844.html",
-        "published_date": "Mon, 13 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-12T23:51:40.578008"
-      },
-      "e99f206799e533e6b10f5443eee9a90ceb68896128985688695de313646b5c23": {
-        "title": "中国商业航天走过十二年",
-        "link": "https://www.tmtpost.com/8061429.html",
-        "published_date": "Sun, 12 Jul 2026 15:59:00 GMT",
-        "first_seen": "2026-07-12T23:51:40.578018"
-      },
-      "b34fc2a86a69087da079a6cb34c9c829ad704e18f88ceb263289030a77a4bd34": {
-        "title": "科技板块集体“刹车”，谁在偷偷踩油门？",
-        "link": "https://www.tmtpost.com/8061635.html",
-        "published_date": "Sun, 12 Jul 2026 15:33:00 GMT",
-        "first_seen": "2026-07-12T23:51:40.578022"
-      },
-      "f37a2db3377866b6efb8b0079b85ba67ccb1d5f45b5ca8580550e73b4b387ee2": {
-        "title": "不卷9.9，这一代跨境人在创造贵20美元的新物种 ｜ 出海参考",
-        "link": "https://www.tmtpost.com/8061768.html",
-        "published_date": "Sun, 12 Jul 2026 18:16:00 GMT",
-        "first_seen": "2026-07-12T23:51:40.578025"
-      },
-      "b4f2b2c19f04db243fe15e80272cdb3133f3c480b14ac7adb209b875779b097c": {
-        "title": "阿里急转向，快递大变局",
-        "link": "https://www.tmtpost.com/8061727.html",
-        "published_date": "Sun, 12 Jul 2026 20:19:00 GMT",
-        "first_seen": "2026-07-12T23:51:40.578026"
-      },
       "0e94263c99c948f2d5ce10439e4d3bb30c8b633628f69b8003121ca9639a52b3": {
         "title": "AI推理成本首次算清：GPU利用率不到52%，千万别自建！",
         "link": "https://www.infoq.cn/article/hocbRjZumiBA6MN4s7bu?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8098899.html",
         "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
         "first_seen": "2026-08-11T23:35:47.136214"
+      },
+      "fbea71364dda3a93e133cad5dd305c50a30cd8f981cfd1744192814b255433e6": {
+        "title": "小扎万字长文炮轰闭源：蒸馏无罪，Meta 正式重回开源模型路线",
+        "link": "https://www.infoq.cn/article/9sy33cA91Fp8z5mlOvNu?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Aug 2026 10:43:00 GMT",
+        "first_seen": "2026-08-12T06:12:25.082795"
+      },
+      "1ee2bcb33ded66527cb6e3231215abedbc9bb19082132b9487dae54e47663a11": {
+        "title": "DoorDash使用Envoy和Valkey构建了1.5M RPS的代理缓存，可用性达99.99999%",
+        "link": "https://www.infoq.cn/article/4pXftxRySRf5FB5hJK9o?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Aug 2026 11:32:00 GMT",
+        "first_seen": "2026-08-12T06:12:25.082803"
+      },
+      "7a2df5ee511bf494a2a804c972ec1dffba65bee7f44a2fedb15ebb6666c78dcb": {
+        "title": "机器人大脑之争进入深水区：为什么物理世界需要从头设计模型",
+        "link": "https://www.infoq.cn/article/rcSr7bVQFB9Uskadg74T?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Aug 2026 10:19:00 GMT",
+        "first_seen": "2026-08-12T06:12:25.082805"
+      },
+      "ff64d01d80c4f94182bbc5ed2250a340e9f30b7d447e947630dbffa95ddc9e67": {
+        "title": "长时储能产业化的新节点，比拼的逻辑变了",
+        "link": "https://www.tmtpost.com/8099232.html",
+        "published_date": "Wed, 12 Aug 2026 11:54:00 GMT",
+        "first_seen": "2026-08-12T06:12:25.082806"
+      },
+      "be1468bb0a4e4e9632ef101d041f43940dec01585eb70bb1f87dbf4d1784c428": {
+        "title": "千条广告“抢”一个 30 秒位置，平台如何实时做出选择？",
+        "link": "https://www.infoq.cn/article/LDrAypWCIbNuL3XS30PE?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Aug 2026 13:30:00 GMT",
+        "first_seen": "2026-08-12T06:12:25.082808"
       }
     },
     "Finance": {
-      "9ade0e849638a9e75cde267c23da72b695d1a7a3f4ffa8d9a6883f331b0bb5ab": {
-        "title": "Why Citigroup is the one to watch when banks report earnings this week",
-        "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-        "published_date": "Sun, 12 Jul 2026 19:31:00 GMT",
-        "first_seen": "2026-07-12T23:51:58.406941"
-      },
-      "fd8d83381f14d3af85567b01f41aa554ccd9d346b14e6faaf634ea76c6761a10": {
-        "title": "Earnings estimates have been following an unusual pattern this time around",
-        "link": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-        "published_date": "Sun, 12 Jul 2026 14:00:00 GMT",
-        "first_seen": "2026-07-12T23:51:58.406947"
-      },
-      "44a23679dbb313d24af5182dde9e2d6edd06f0d048ade3a20e96be04fb4170a8": {
-        "title": "The stock-market rally now hinges more on AI than oil",
-        "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
-        "published_date": "Sun, 12 Jul 2026 13:00:00 GMT",
-        "first_seen": "2026-07-12T23:51:58.406950"
-      },
-      "71a242b4cc7f1e773e5aa36820d43c14000f22a9050d8206ea26c724db766efe": {
-        "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
-        "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
-        "published_date": "Sun, 12 Jul 2026 23:04:00 GMT",
-        "first_seen": "2026-07-12T23:51:58.406952"
-      },
-      "e72ae8332ca84ec0c511d6f60eda46faeef876a71187d43b0fc2da5bd361f951": {
-        "title": "US launches another round of strikes on Iran as ceasefire teeters",
-        "link": "https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d",
-        "published_date": "Sun, 12 Jul 2026 22:52:00 GMT",
-        "first_seen": "2026-07-12T23:51:58.406953"
-      },
       "66f52df5391b76c760f751a72d8706b1d482c2f7de07c5f547fb61a70bcda63f": {
         "title": "AI is not enough to arrest China’s decline",
         "link": "https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053",
@@ -4845,6 +4815,36 @@
         "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
         "published_date": "Tue, 11 Aug 2026 22:00:00 GMT",
         "first_seen": "2026-08-11T23:36:03.316312"
+      },
+      "5831953ef982602435087d836dbdd42874e22a1569b0afa3d1aa9a649528319d": {
+        "title": "Europe’s carbon mechanism is a tariff by another name",
+        "link": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
+        "published_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-12T06:12:36.800079"
+      },
+      "b4bd5d91f0f25ef0fa07dd7ce3eb05a00221cfe61d72773b40b1e4fc4b4ffeca": {
+        "title": "China’s great jobs squeeze",
+        "link": "https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-12T06:12:36.800085"
+      },
+      "24f20744bcfdaa5e1fc960138f148446c0d095a2e3bfab51c190b8ddc1313129": {
+        "title": "Singapore Airlines loses almost $800mn on Air India bet — with more pain forecast",
+        "link": "https://www.ft.com/content/5ed01c06-573f-4864-bc11-6cea70593197?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 02:59:00 GMT",
+        "first_seen": "2026-08-12T06:12:36.800088"
+      },
+      "8fd145deb77a595629197def6eb0e05efc7fe72b36ef94c684b86882c9faf4f1": {
+        "title": "China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack",
+        "link": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 04:11:00 GMT",
+        "first_seen": "2026-08-12T06:12:36.800090"
+      },
+      "7a71325a469e0f5e0844dd058e27e36693973173a030b764b207b314850cb989": {
+        "title": "JD Vance asked Ukraine to halt strikes on tankers using Russian port",
+        "link": "https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-12T06:12:36.800091"
       }
     },
     "Ai": {
@@ -6287,13 +6287,31 @@
         "link": "https://www.qbitai.com/2026/08/470576.html",
         "published_date": "Tue, 11 Aug 2026 09:24:00 GMT",
         "first_seen": "2026-08-11T23:35:21.257125"
+      },
+      "732366ae615b2529221fc269aa3173925c5dad0e8985a74cf609a7f6fd38b23d": {
+        "title": "2026-08-12日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-12/",
+        "published_date": "Wed, 12 Aug 2026 10:24:00 GMT",
+        "first_seen": "2026-08-12T06:12:01.925059"
+      },
+      "4d4d15d9b086f6ed634ea3ddf47dbc1231d050e5640170664c6f350158d1475c": {
+        "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+        "link": "https://www.qbitai.com/2026/08/470874.html",
+        "published_date": "Wed, 12 Aug 2026 04:29:00 GMT",
+        "first_seen": "2026-08-12T06:12:01.925070"
+      },
+      "924d6a71c6ef6609a45ac2a1eeca910867b8375899686ffd041d11cd3ef006ee": {
+        "title": "刚刚，Manus恢复独立运营",
+        "link": "https://www.qbitai.com/2026/08/470805.html",
+        "published_date": "Wed, 12 Aug 2026 02:51:00 GMT",
+        "first_seen": "2026-08-12T06:12:01.925072"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-11T23:35:47.136217",
-    "Finance": "2026-08-11T23:36:03.316314",
-    "Ai": "2026-08-11T23:35:21.257144"
+    "Technology": "2026-08-12T06:12:25.082811",
+    "Finance": "2026-08-12T06:12:36.800093",
+    "Ai": "2026-08-12T06:12:01.925075"
   }
 }
