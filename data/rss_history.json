@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0e94263c99c948f2d5ce10439e4d3bb30c8b633628f69b8003121ca9639a52b3": {
-        "title": "AI推理成本首次算清：GPU利用率不到52%，千万别自建！",
-        "link": "https://www.infoq.cn/article/hocbRjZumiBA6MN4s7bu?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Jul 2026 14:26:00 GMT",
-        "first_seen": "2026-07-13T08:15:59.415751"
-      },
-      "cccf3df9a00f4981237953935a424a20ee0e62ef2e26e1d410f65c21a8d4820d": {
-        "title": "苹果的诉讼，可能让OpenAI的硬件野心倒退多年",
-        "link": "https://www.tmtpost.com/8062553.html",
-        "published_date": "Mon, 13 Jul 2026 13:36:00 GMT",
-        "first_seen": "2026-07-13T08:15:59.415762"
-      },
-      "37596b54bdd5c30dae519c6af88337265078cf466717c7bf09d8bb550ae3ad15": {
-        "title": "具身智能投资图谱：为什么车企偏爱有“工程化经验”的创始人？",
-        "link": "https://www.tmtpost.com/8062421.html",
-        "published_date": "Mon, 13 Jul 2026 12:25:00 GMT",
-        "first_seen": "2026-07-13T08:15:59.415765"
-      },
-      "40417ea90fba6a77af5e1ca2ecf7d30b2577169c140be5c22c9de78cf9c7957f": {
-        "title": "从看见问题到解决问题，Agent 正重新定义可观测",
-        "link": "https://www.infoq.cn/article/ZuIv7zKERvxvy34i1P0t?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Jul 2026 14:44:00 GMT",
-        "first_seen": "2026-07-13T08:15:59.415767"
-      },
-      "6addb6bbed30baaeed42793d4f8f7804751f5ef3c4a9eb1fd8e23b09b13d59b9": {
-        "title": "你这图「保真」吗？AI 生图时代的信息防伪",
-        "link": "https://sspai.com/post/112185",
-        "published_date": "Mon, 13 Jul 2026 10:52:00 GMT",
-        "first_seen": "2026-07-13T08:15:59.415770"
-      },
       "f84c4fd33370caf9df07ef74e286471300947a33217924c4b8c9d16d657fd874": {
         "title": "从原料到算力核按钮：稀土如何改写全球半导体利润格局？",
         "link": "https://www.tmtpost.com/8062719.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/LDrAypWCIbNuL3XS30PE?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 12 Aug 2026 13:30:00 GMT",
         "first_seen": "2026-08-12T06:12:25.082808"
+      },
+      "841a2bd57aa3faaf36400c16a79641b642145ca8512641a6586d22a33f5b6f33": {
+        "title": "算力即资产，还是算力即生产力，中美AI路径分岔",
+        "link": "https://www.tmtpost.com/8098622.html",
+        "published_date": "Wed, 12 Aug 2026 11:09:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.269390"
+      },
+      "0dd0b8fcf055804326ed06d140dac9989a6e5c9212f718172910aed384387fcb": {
+        "title": "AI Content Matches Human Output Online, and a Detection Industry Rises to Keep Pace",
+        "link": "https://www.tmtpost.com/8100694.html",
+        "published_date": "Wed, 12 Aug 2026 16:51:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.269397"
+      },
+      "5abfc990cff2b74e5822f382fb769482c165b5573947e8a6d79d8b8d6d11948b": {
+        "title": "桌面办公Agent卡位战：谁先占领你的电脑？",
+        "link": "https://www.tmtpost.com/8099969.html",
+        "published_date": "Wed, 12 Aug 2026 11:24:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.269399"
+      },
+      "3045a9d6d3e5275c567128a3294e604eb13dd5d346b6ae6f53b3c90b886afbaf": {
+        "title": "日本开始“补课”人形机器人，但无法复制中国模式",
+        "link": "https://www.tmtpost.com/8100526.html",
+        "published_date": "Wed, 12 Aug 2026 16:28:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.269401"
+      },
+      "d006ce8ad97b4c8f7712daebc02408a06ac3db4c4c3ed2ec9ed278eb8320204a": {
+        "title": "10万亿参数大模型还没影，字节先造了个一级部门",
+        "link": "https://www.tmtpost.com/8099914.html",
+        "published_date": "Wed, 12 Aug 2026 11:02:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.269404"
       }
     },
     "Finance": {
-      "66f52df5391b76c760f751a72d8706b1d482c2f7de07c5f547fb61a70bcda63f": {
-        "title": "AI is not enough to arrest China’s decline",
-        "link": "https://www.ft.com/content/0dbbef33-059b-4ec9-b504-31f37a0c4053",
-        "published_date": "Mon, 13 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-13T08:16:16.423122"
-      },
-      "d4db07ed4d573b3b49a46e04373b57527bd874f96fa06fc69e4c891fac64eb3f": {
-        "title": "Jane Fraser’s ruthless remake of Citigroup",
-        "link": "https://www.ft.com/content/632c0f53-66f2-4c7d-8e4f-bae514cef713",
-        "published_date": "Mon, 13 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-13T08:16:16.423129"
-      },
-      "740ce540f08637094e9a910f7c11b03bf384ceaca2b762fa7bec8f2d46f9513c": {
-        "title": "Dimon pressed over whether he lobbied UK government on Epstein’s advice",
-        "link": "https://www.ft.com/content/4f4940cb-5ab4-4c65-bb2c-1503ed4734c1",
-        "published_date": "Mon, 13 Jul 2026 04:01:00 GMT",
-        "first_seen": "2026-07-13T08:16:16.423131"
-      },
-      "70a735ec8b264ccb1cdd7369a6fa3e9661e6c81405f0089e2a2caa1e26c53da9": {
-        "title": "Investors cut back bets on Asian chipmakers after blistering rally",
-        "link": "https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30",
-        "published_date": "Mon, 13 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-13T08:16:16.423133"
-      },
-      "7b5e8b90b7295698db86f032e5d8c27a3a731a026e7947beb6f558636ead4d35": {
-        "title": "Wall Street feasts on fees from SpaceX IPO and mega-mergers",
-        "link": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
-        "published_date": "Mon, 13 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-13T08:16:16.423134"
-      },
       "d7105c0b55a59831c1c08dbd0a07f99834f3c080d55ae5b7b32a2140472b734d": {
         "title": "Top Fed official warns ‘hot’ inflation could trigger rate rise",
         "link": "https://www.ft.com/content/74ced145-3cc2-42f7-873a-84d2764b0b4d",
@@ -4845,39 +4815,39 @@
         "link": "https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1",
         "published_date": "Wed, 12 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-12T06:12:36.800091"
+      },
+      "8a6a7acd1b618c98c5ff3a93fa972ca1737fc04b27dac4565d7291a5e99da422": {
+        "title": "Musician John Oates sells his idyllic Colorado ranch for $6.9 million",
+        "link": "https://www.marketwatch.com/story/musician-john-oates-sells-his-idyllic-colorado-ranch-for-6-9-million-2676c716?mod=mw_rss_topstories",
+        "published_date": "Wed, 12 Aug 2026 09:01:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.319489"
+      },
+      "831050cffd81c14552c53d51e8a54665ad9baf9f8008fe9d59242ab5281cbaed": {
+        "title": "A stock just surged on news Situational Awareness had bought it. But its current fate is unclear.",
+        "link": "https://www.marketwatch.com/story/a-stock-just-surged-on-news-situational-awareness-had-bought-it-but-its-current-fate-is-unclear-00f17a97?mod=mw_rss_topstories",
+        "published_date": "Wed, 12 Aug 2026 08:22:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.319496"
+      },
+      "a9fb4a528457dcd52972243fed2030a611b679d21e9cf2722c10deace49c9aeb": {
+        "title": "World prepares for one of nature’s greatest spectacles: a total solar eclipse",
+        "link": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 07:17:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.319498"
+      },
+      "daf61c58c803a6511a48905b93c511db71b60edca6fe7a2bd1baba83fe0d5de6": {
+        "title": "Tata chair to step down as succession row escalates",
+        "link": "https://www.ft.com/content/89c3c50c-1fc5-4673-b67d-ddc0b824c6c5?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 07:13:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.319500"
+      },
+      "6f224c039d389bdd3bdb2d136138c5ded02bb31797a6c1100d554479f871a14b": {
+        "title": "Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race",
+        "link": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 06:17:00 GMT",
+        "first_seen": "2026-08-12T09:09:50.319501"
       }
     },
     "Ai": {
-      "f299eaebd04b57bc5748d415d2975570c36e23f1f7e3323e78661ad584d39932": {
-        "title": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题",
-        "link": "https://www.qbitai.com/2026/07/448239.html",
-        "published_date": "Mon, 13 Jul 2026 04:14:00 GMT",
-        "first_seen": "2026-07-13T08:16:35.432066"
-      },
-      "0f71ac849c2f4c7631146efd73dec510c9793726b8fcd42d919fdd0b87cab1dc": {
-        "title": "CNCF发布招商银行AI调度平台案例 源于范式的HAMi技术获生产级验证",
-        "link": "https://www.qbitai.com/2026/07/448824.html",
-        "published_date": "Mon, 13 Jul 2026 06:07:00 GMT",
-        "first_seen": "2026-07-13T08:16:35.432072"
-      },
-      "982e4c0edd918778eb9b778c7a771c7a76ee26f9d36e9698b59279c1ce80756d": {
-        "title": "GPT-5.6刚发布，OpenAI安全主管就跑路了？？",
-        "link": "https://www.qbitai.com/2026/07/448825.html",
-        "published_date": "Mon, 13 Jul 2026 06:10:00 GMT",
-        "first_seen": "2026-07-13T08:16:35.432074"
-      },
-      "2795e43ded30cf7942a7065d9c248793751e8dba52588f2d8c9ef04239f3a06a": {
-        "title": "全球开发者狂喜！Codex移除5小时限制，Fable 5订阅再延7天，有人烧token烧到住院",
-        "link": "https://www.qbitai.com/2026/07/448139.html",
-        "published_date": "Mon, 13 Jul 2026 04:54:00 GMT",
-        "first_seen": "2026-07-13T08:16:35.432076"
-      },
-      "d07eaf389deab185e35741e81bca994951afd627ed9d07ac47527d647ae42343": {
-        "title": "趋境科技完成A轮融资，半年内募资10亿",
-        "link": "https://www.qbitai.com/2026/07/448820.html",
-        "published_date": "Mon, 13 Jul 2026 05:24:00 GMT",
-        "first_seen": "2026-07-13T08:16:35.432077"
-      },
       "113caab0506dba11ad5b820c336f59fdb1a1939bd0c6257424a8370c064a2dd5": {
         "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
         "link": "https://www.qbitai.com/2026/07/449327.html",
@@ -6305,13 +6275,19 @@
         "link": "https://www.qbitai.com/2026/08/470805.html",
         "published_date": "Wed, 12 Aug 2026 02:51:00 GMT",
         "first_seen": "2026-08-12T06:12:01.925072"
+      },
+      "d0440a7aaceb490d07a084ec29ee032d6ba4c9c92dc89bc2310c01023567929d": {
+        "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+        "link": "https://www.qbitai.com/2026/08/470901.html",
+        "published_date": "Wed, 12 Aug 2026 07:31:00 GMT",
+        "first_seen": "2026-08-12T09:09:31.960494"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-12T06:12:25.082811",
-    "Finance": "2026-08-12T06:12:36.800093",
-    "Ai": "2026-08-12T06:12:01.925075"
+    "Technology": "2026-08-12T09:09:50.269406",
+    "Finance": "2026-08-12T09:09:50.319503",
+    "Ai": "2026-08-12T09:09:31.960504"
   }
 }

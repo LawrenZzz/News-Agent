@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Aug 2026 06:11:00 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2026 06:12:25 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 09:09:00 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:09:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>小扎万字长文炮轰闭源：蒸馏无罪，Meta 正式重回开源模型路线</title>
-      <link>https://www.infoq.cn/article/9sy33cA91Fp8z5mlOvNu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[小扎万字长文炮轰闭源：蒸馏无罪，Meta 正式重回开源模型路线]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9sy33cA91Fp8z5mlOvNu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力即资产，还是算力即生产力，中美AI路径分岔</title>
+      <link>https://www.tmtpost.com/8098622.html</link>
+      <description>&lt;![CDATA[算力即资产，还是算力即生产力，中美AI路径分岔]]&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8098622.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DoorDash使用Envoy和Valkey构建了1.5M RPS的代理缓存，可用性达99.99999%</title>
-      <link>https://www.infoq.cn/article/4pXftxRySRf5FB5hJK9o?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[DoorDash使用Envoy和Valkey构建了1.5M RPS的代理缓存，可用性达99.99999%]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 11:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4pXftxRySRf5FB5hJK9o?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI Content Matches Human Output Online, and a Detection Industry Rises to Keep Pace</title>
+      <link>https://www.tmtpost.com/8100694.html</link>
+      <description>&lt;![CDATA[AI Content Matches Human Output Online, and a Detection Industry Rises to Keep Pace]]&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 16:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8100694.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>机器人大脑之争进入深水区：为什么物理世界需要从头设计模型</title>
-      <link>https://www.infoq.cn/article/rcSr7bVQFB9Uskadg74T?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[机器人大脑之争进入深水区：为什么物理世界需要从头设计模型]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rcSr7bVQFB9Uskadg74T?utm_source=rss&amp;utm_medium=article</guid>
+      <title>桌面办公Agent卡位战：谁先占领你的电脑？</title>
+      <link>https://www.tmtpost.com/8099969.html</link>
+      <description>&lt;![CDATA[桌面办公Agent卡位战：谁先占领你的电脑？]]&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8099969.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>长时储能产业化的新节点，比拼的逻辑变了</title>
-      <link>https://www.tmtpost.com/8099232.html</link>
-      <description>&lt;![CDATA[长时储能产业化的新节点，比拼的逻辑变了]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8099232.html</guid>
+      <title>日本开始“补课”人形机器人，但无法复制中国模式</title>
+      <link>https://www.tmtpost.com/8100526.html</link>
+      <description>&lt;![CDATA[日本开始“补课”人形机器人，但无法复制中国模式]]&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 16:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8100526.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>千条广告“抢”一个 30 秒位置，平台如何实时做出选择？</title>
-      <link>https://www.infoq.cn/article/LDrAypWCIbNuL3XS30PE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[千条广告“抢”一个 30 秒位置，平台如何实时做出选择？]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LDrAypWCIbNuL3XS30PE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>10万亿参数大模型还没影，字节先造了个一级部门</title>
+      <link>https://www.tmtpost.com/8099914.html</link>
+      <description>&lt;![CDATA[10万亿参数大模型还没影，字节先造了个一级部门]]&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8099914.html</guid>
       <category>Technology</category>
     </item>
   </channel>
