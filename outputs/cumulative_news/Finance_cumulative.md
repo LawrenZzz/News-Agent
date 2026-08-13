@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 09:09
+**最后更新时间**: 2026-08-13 06:15
+
+---
+
+## 🆕 最新更新 (2026-08-13 06:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Boardroom battle at India’s $280bn behemoth heralds start of ‘Noel Tata era’](https://www.ft.com/content/525d9d60-f902-4b89-ad34-ba96d03be97e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:50
+
+#### [Anthropic investors bet on $2tn valuation in record IPO](https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Wanted: a leader to rescue the UN](https://www.ft.com/content/8349e039-a02c-4586-92d8-7f95d3fcd15a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Trump is taxing the dark matter that pays America’s way](https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d)
+**发布时间**: 2026-08-13 04:00
+
+#### [What your out-of-office really means](https://www.ft.com/content/46caeb96-13a3-4231-ae9a-7230225d09b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [‘Endearing’ rise in women buying their own diamonds, says Swarovski boss](https://www.ft.com/content/93dcc888-6998-48a5-86f7-3303e0770f12?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Wealth managers cut fees to win AI’s paper millionaires](https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones](https://www.ft.com/content/f2f2a881-1d4d-47db-a7d9-c6c50ee29a6a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Wall Street giants bet Nvidia’s AI chips will defy the laws of finance](https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 21:11
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back](https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 01:16
+
+#### [My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?](https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 01:00
+
+#### [China’s next economic ambition: workshop for the Muslim world](https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:35
+
+#### [Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own](https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:34
+
+#### [Lumentum’s stock surges, giving a further boost to the optical-networking trade](https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:31
+
+#### [Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?](https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:00
+
+#### [Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last](https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:00
 
 ---
 

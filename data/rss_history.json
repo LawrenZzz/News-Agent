@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f84c4fd33370caf9df07ef74e286471300947a33217924c4b8c9d16d657fd874": {
-        "title": "从原料到算力核按钮：稀土如何改写全球半导体利润格局？",
-        "link": "https://www.tmtpost.com/8062719.html",
-        "published_date": "Mon, 13 Jul 2026 18:43:00 GMT",
-        "first_seen": "2026-07-13T23:53:10.430282"
-      },
-      "8adc88dbff6bc06fc7ecdcc7533892e4b8737b97d3afe37d2555b0c568d508ca": {
-        "title": "光子接棒电子：一场即将在太空上演的算力革命",
-        "link": "https://www.tmtpost.com/8062524.html",
-        "published_date": "Mon, 13 Jul 2026 18:24:00 GMT",
-        "first_seen": "2026-07-13T23:53:10.430291"
-      },
-      "e9ddacf90e2aee9d5f6ca2c8ec43d3f5b6a065e8623beffe7180160c89eda787": {
-        "title": "【数智周报】外媒：DeepSeek正自研AI推理芯片； 中国部分AI大模型比美国便宜90%，抢占当地市场； 苹果起诉OpenAI窃取机密、要求其重做尚未发布的AI硬件……",
-        "link": "https://www.tmtpost.com/8062740.html",
-        "published_date": "Mon, 13 Jul 2026 16:05:00 GMT",
-        "first_seen": "2026-07-13T23:53:10.430294"
-      },
-      "d9c658edc9f0dc33cbf7671c09e725b4e137c20da95f90feeb1581d5c23cb311": {
-        "title": "中国AI产业的三大优势（中）",
-        "link": "https://www.tmtpost.com/8059509.html",
-        "published_date": "Mon, 13 Jul 2026 18:44:00 GMT",
-        "first_seen": "2026-07-13T23:53:10.430296"
-      },
-      "a1cda4516268c9dc3d41df5b9f575a6a60862f2ccd87b3a67d76ea77d0eabbcf": {
-        "title": "小扎“消失”三年后发帖，只为它：Meta最强Agent模型进军编程，从免费开源到卖“低价”模型",
-        "link": "https://www.infoq.cn/article/Fg7xEo3RGENyoefojZVD?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 13 Jul 2026 18:28:00 GMT",
-        "first_seen": "2026-07-13T23:53:10.430298"
-      },
       "60154ad01ee423d2c899463ad45a930c2f08d5acac47763d73fd9d52b14dacf2": {
         "title": "The Last Mile of AI Adoption: Why Enterprise Data is Bottlenecking Even the Best Models",
         "link": "https://www.tmtpost.com/8064151.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8099914.html",
         "published_date": "Wed, 12 Aug 2026 11:02:00 GMT",
         "first_seen": "2026-08-12T09:09:50.269404"
+      },
+      "4311c22b9c853c1c554ae96cf13cdc9994e108d8f5ca57fa162f2c49091b61b8": {
+        "title": "Azure Cosmos DB 严重漏洞曝光：一条查询可攻破所有租户数据库",
+        "link": "https://www.infoq.cn/article/L9IqUuWzSB4zgP0PBqG2?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 13 Aug 2026 11:53:00 GMT",
+        "first_seen": "2026-08-13T06:15:37.404878"
+      },
+      "63a5d8a10b3794514dd6cf53c865b495ae1c6bcfe2c96102eaa7eeacb70b2dbc": {
+        "title": "Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的",
+        "link": "https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 12 Aug 2026 17:22:00 GMT",
+        "first_seen": "2026-08-13T06:15:37.404912"
+      },
+      "b355ae45e18b7eaa54e481da6e4b9b8bb38e0446db3532b0070b6b14649ff93c": {
+        "title": "北大、NTU等推出世界动作模型ω-0，重塑人形机器人的居家作业模式",
+        "link": "https://www.tmtpost.com/8101182.html",
+        "published_date": "Thu, 13 Aug 2026 11:44:00 GMT",
+        "first_seen": "2026-08-13T06:15:37.404916"
+      },
+      "a144d76dfa0d889e6b5c08f8e5068c0bc81a56bc5a3f4d395dd6f4949d1e5d42": {
+        "title": "特斯拉为什么拆Model S/ X 产线，推进Optimus量产？",
+        "link": "https://www.tmtpost.com/8100084.html",
+        "published_date": "Wed, 12 Aug 2026 15:11:00 GMT",
+        "first_seen": "2026-08-13T06:15:37.404918"
+      },
+      "4989b6bb8165f8d141729a6afdbcabd8920e049d153afcd96c3d148dbbbaadbc": {
+        "title": "医疗AI的下一道门槛，不是准确率",
+        "link": "https://www.tmtpost.com/8099916.html",
+        "published_date": "Wed, 12 Aug 2026 11:13:00 GMT",
+        "first_seen": "2026-08-13T06:15:37.404919"
       }
     },
     "Finance": {
-      "d7105c0b55a59831c1c08dbd0a07f99834f3c080d55ae5b7b32a2140472b734d": {
-        "title": "Top Fed official warns ‘hot’ inflation could trigger rate rise",
-        "link": "https://www.ft.com/content/74ced145-3cc2-42f7-873a-84d2764b0b4d",
-        "published_date": "Mon, 13 Jul 2026 17:23:00 GMT",
-        "first_seen": "2026-07-13T23:53:31.055824"
-      },
-      "3f69b13cb3254cb713551efc960ebda6389f6a6bff2e2b29a5e3c750f1b8d8fd": {
-        "title": "Why a borrowing binge by investors is a warning sign for the stock market",
-        "link": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
-        "published_date": "Mon, 13 Jul 2026 22:19:00 GMT",
-        "first_seen": "2026-07-13T23:53:31.055830"
-      },
-      "0d0ed4ea021620e73066f35daf0994b8ff86bfa9369e75adf33c41b4e4015080": {
-        "title": "US launches air strikes as Iran targets tankers with cruise missiles",
-        "link": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
-        "published_date": "Mon, 13 Jul 2026 22:59:00 GMT",
-        "first_seen": "2026-07-13T23:53:31.055832"
-      },
-      "f36beb886d8ca323be89f86a144413f6a3a3249700ccf90b3eb2c8f0ae7ba641": {
-        "title": "Stocks and bonds drop as mounting US-Iran tensions spook investors",
-        "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
-        "published_date": "Mon, 13 Jul 2026 20:41:00 GMT",
-        "first_seen": "2026-07-13T23:53:31.055834"
-      },
-      "f6fc508d08c1a7e4beb2ec6bb00f8b7ae11976b5d392860835d73822ed126e0b": {
-        "title": "Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.",
-        "link": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
-        "published_date": "Mon, 13 Jul 2026 20:35:00 GMT",
-        "first_seen": "2026-07-13T23:53:31.055836"
-      },
       "3f7b9303058a1c666741521eb204ed590e31478dbe8b641cc89667432ebea627": {
         "title": "Nvidia halves Asia buyer list in China chip crackdown",
         "link": "https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421",
@@ -4845,39 +4815,39 @@
         "link": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
         "published_date": "Wed, 12 Aug 2026 06:17:00 GMT",
         "first_seen": "2026-08-12T09:09:50.319501"
+      },
+      "b56c1f9d63e49279b4e0b448f866b30a24e64f5d09b156354f52c155eabfe1fd": {
+        "title": "Anthropic investors bet on $2tn valuation in record IPO",
+        "link": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
+        "published_date": "Thu, 13 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-13T06:15:54.888356"
+      },
+      "b3d935d7817a758654f27892cac287c603fe04c32e9dcb97fb7294f182056156": {
+        "title": "Wall Street giants bet Nvidia’s AI chips will defy the laws of finance",
+        "link": "https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1",
+        "published_date": "Wed, 12 Aug 2026 21:11:00 GMT",
+        "first_seen": "2026-08-13T06:15:54.888363"
+      },
+      "35aa6e2854a3840c0e54d0f4043b6a838c649cb659d4f891edfcad9d13f1d684": {
+        "title": "Wealth managers cut fees to win AI’s paper millionaires",
+        "link": "https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1",
+        "published_date": "Thu, 13 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-13T06:15:54.888365"
+      },
+      "c2cb9095e42f948f1167102d0e6bfe4145e504cdbbcf83eb082595d6cf506b4c": {
+        "title": "Boardroom battle at India’s $280bn behemoth heralds start of ‘Noel Tata era’",
+        "link": "https://www.ft.com/content/525d9d60-f902-4b89-ad34-ba96d03be97e?syn-25a6b1a6=1",
+        "published_date": "Thu, 13 Aug 2026 04:50:00 GMT",
+        "first_seen": "2026-08-13T06:15:54.888367"
+      },
+      "c77c561aa9fffcc375126931d4988a764a7d2c9611141e502651e98cf89cee3b": {
+        "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last",
+        "link": "https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories",
+        "published_date": "Wed, 12 Aug 2026 22:00:00 GMT",
+        "first_seen": "2026-08-13T06:15:54.888369"
       }
     },
     "Ai": {
-      "113caab0506dba11ad5b820c336f59fdb1a1939bd0c6257424a8370c064a2dd5": {
-        "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
-        "link": "https://www.qbitai.com/2026/07/449327.html",
-        "published_date": "Mon, 13 Jul 2026 15:15:00 GMT",
-        "first_seen": "2026-07-13T23:54:19.599722"
-      },
-      "60f0d98cd1d3c0602ac13c2f308bdfec04c0ffc8edcd19c79185d0a8e2a7d1c7": {
-        "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
-        "link": "https://www.qbitai.com/2026/07/449311.html",
-        "published_date": "Mon, 13 Jul 2026 11:59:00 GMT",
-        "first_seen": "2026-07-13T23:54:19.599730"
-      },
-      "0ea5696a1a2992d418d727281d2e32915eb1849174815b49e681af756121c48f": {
-        "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
-        "link": "https://www.qbitai.com/2026/07/449156.html",
-        "published_date": "Mon, 13 Jul 2026 09:27:00 GMT",
-        "first_seen": "2026-07-13T23:54:19.599732"
-      },
-      "b9b4385f097a4ac8c0ac6d0a43a71a6ca9acea631bfe15b5c1ae107385064145": {
-        "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
-        "link": "https://www.qbitai.com/2026/07/449150.html",
-        "published_date": "Mon, 13 Jul 2026 08:28:00 GMT",
-        "first_seen": "2026-07-13T23:54:19.599734"
-      },
-      "1f7a1974f3b853b577548da87aa3d8b431da14193f7595a07aaa33866beaa40d": {
-        "title": "问界母公司突发亏损预警！一季度还在盈利",
-        "link": "https://www.qbitai.com/2026/07/449005.html",
-        "published_date": "Mon, 13 Jul 2026 08:17:00 GMT",
-        "first_seen": "2026-07-13T23:54:19.599736"
-      },
       "5de813fb02e80f127c7d1b8ac6bb7852300c8cb0ced5070c5670d293a2ff6047": {
         "title": "高德发布通用世界模型工坊ABot-World Studio：5090单卡可生成小时级实时交互式视频与3D场景",
         "link": "https://www.qbitai.com/2026/07/449568.html",
@@ -6281,13 +6251,43 @@
         "link": "https://www.qbitai.com/2026/08/470901.html",
         "published_date": "Wed, 12 Aug 2026 07:31:00 GMT",
         "first_seen": "2026-08-12T09:09:31.960494"
+      },
+      "b5b6a2a717729edb8261b7fcccef277b59a9927a41823c220dbbddc9a2ed1afe": {
+        "title": "刚刚，DeepSeek V4 Pro正式版发布，多项对标Fable 5",
+        "link": "https://www.qbitai.com/2026/08/471642.html",
+        "published_date": "Thu, 13 Aug 2026 03:54:00 GMT",
+        "first_seen": "2026-08-13T06:16:06.544057"
+      },
+      "69de990d0139ff03657069f51bea18fd4408a094b9952ea1f99cf22564988ac0": {
+        "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+        "link": "https://www.qbitai.com/2026/08/471049.html",
+        "published_date": "Wed, 12 Aug 2026 13:10:00 GMT",
+        "first_seen": "2026-08-13T06:16:06.544065"
+      },
+      "6ae9386da9e54d4c3e478412883a0e225fadf6792310eb813ba2fec34fb0ba15": {
+        "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+        "link": "https://www.qbitai.com/2026/08/471030.html",
+        "published_date": "Wed, 12 Aug 2026 10:54:00 GMT",
+        "first_seen": "2026-08-13T06:16:06.544067"
+      },
+      "4baedd5facefbf2b97d244adabd3d6fce3767e13f799db0f1ecb9d0b3237ff68": {
+        "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+        "link": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+        "published_date": "Wed, 12 Aug 2026 09:51:00 GMT",
+        "first_seen": "2026-08-13T06:16:06.544068"
+      },
+      "face6f306a506fb70df1e74be05dd3b1351219beb23efabfdf667f42c37a358d": {
+        "title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+        "link": "https://www.qbitai.com/2026/08/471451.html",
+        "published_date": "Thu, 13 Aug 2026 03:00:00 GMT",
+        "first_seen": "2026-08-13T06:16:06.544070"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-12T09:09:50.269406",
-    "Finance": "2026-08-12T09:09:50.319503",
-    "Ai": "2026-08-12T09:09:31.960504"
+    "Technology": "2026-08-13T06:15:37.404921",
+    "Finance": "2026-08-13T06:15:54.888371",
+    "Ai": "2026-08-13T06:16:06.544071"
   }
 }
