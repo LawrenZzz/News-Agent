@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 13 Aug 2026 06:15:00 GMT</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2026 06:15:37 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 09:08:00 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:08:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Azure Cosmos DB 严重漏洞曝光：一条查询可攻破所有租户数据库</title>
-      <link>https://www.infoq.cn/article/L9IqUuWzSB4zgP0PBqG2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Azure Cosmos DB 严重漏洞曝光：一条查询可攻破所有租户数据库]]&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L9IqUuWzSB4zgP0PBqG2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI ROI的真正鸿沟：不是技术差距，而是组织与客户旅程的错配</title>
+      <link>https://www.tmtpost.com/8101528.html</link>
+      <description>&lt;![CDATA[AI ROI的真正鸿沟：不是技术差距，而是组织与客户旅程的错配]]&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8101528.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的</title>
-      <link>https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel 发布新语言 Zero：代码不是写给人看的，而是写给 AI 的]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KEq5kQG53vxPd0bXCY7y?utm_source=rss&amp;utm_medium=article</guid>
+      <title>物理AI时代的产业逻辑推演——AIDC算力底座</title>
+      <link>https://www.tmtpost.com/8101800.html</link>
+      <description>&lt;![CDATA[物理AI时代的产业逻辑推演——AIDC算力底座]]&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8101800.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>北大、NTU等推出世界动作模型ω-0，重塑人形机器人的居家作业模式</title>
-      <link>https://www.tmtpost.com/8101182.html</link>
-      <description>&lt;![CDATA[北大、NTU等推出世界动作模型ω-0，重塑人形机器人的居家作业模式]]&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8101182.html</guid>
+      <title>0.1 分性能差，60倍价格差：不甘“平替”，DeepSeek双杀硅谷</title>
+      <link>https://www.tmtpost.com/8101961.html</link>
+      <description>&lt;![CDATA[0.1 分性能差，60倍价格差：不甘“平替”，DeepSeek双杀硅谷]]&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8101961.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>特斯拉为什么拆Model S/ X 产线，推进Optimus量产？</title>
-      <link>https://www.tmtpost.com/8100084.html</link>
-      <description>&lt;![CDATA[特斯拉为什么拆Model S/ X 产线，推进Optimus量产？]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8100084.html</guid>
+      <title>腾讯A⁠I开始算回报：从增强旧业务，到寻找下一门新生意</title>
+      <link>https://www.tmtpost.com/8101476.html</link>
+      <description>&lt;![CDATA[腾讯A⁠I开始算回报：从增强旧业务，到寻找下一门新生意]]&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8101476.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>医疗AI的下一道门槛，不是准确率</title>
-      <link>https://www.tmtpost.com/8099916.html</link>
-      <description>&lt;![CDATA[医疗AI的下一道门槛，不是准确率]]&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8099916.html</guid>
+      <title>东南亚电商的利润幻觉：GMV增长为何换不来利润</title>
+      <link>https://www.tmtpost.com/8101815.html</link>
+      <description>&lt;![CDATA[东南亚电商的利润幻觉：GMV增长为何换不来利润]]&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8101815.html</guid>
       <category>Technology</category>
     </item>
   </channel>
