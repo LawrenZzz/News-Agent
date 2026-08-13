@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "025fc87ad3ffcc434dc2a00eec51ffa9c77ff58db98a275abcc46290dc73c89e": {
-        "title": "国产算力“出息了”，国内首个全国产十万卡集群落地",
-        "link": "https://www.tmtpost.com/8064226.html",
-        "published_date": "Tue, 14 Jul 2026 15:54:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.653463"
-      },
-      "9e12d04dd037dbe3d3bf1d1d90b4f9f2c49a4ddbfcddff70c4d0b5f18c5bd85f": {
-        "title": "苹果诉OpenAI：一场400人“搬家”引发的硬件主权战争",
-        "link": "https://www.tmtpost.com/8061734.html",
-        "published_date": "Tue, 14 Jul 2026 17:08:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.653476"
-      },
-      "2a6b2706a509fdcfa8ba12bb44e19f135486116a80892985e6f4dab33230530b": {
-        "title": "用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环",
-        "link": "https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Jul 2026 16:25:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.653479"
-      },
-      "542e17ebd274cc327469d1491ba7af5d066b8a41515ca7cf7dedeedda01634c0": {
-        "title": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
-        "link": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Jul 2026 16:00:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.653481"
-      },
-      "2d0cc51052fc845862029601c31991eb7e532358b3588d0ad44dc48d50af1f7e": {
-        "title": "面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 14 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.653483"
-      },
       "6e8b080f2bcb17ed5d3df0d1e9c43465f8f6ebb6d7062ea36ef5555edd99a2f9": {
         "title": "AI进入“重工业时代”：万亿算力基建，如何赚钱？",
         "link": "https://www.tmtpost.com/8063974.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8101815.html",
         "published_date": "Thu, 13 Aug 2026 15:30:00 GMT",
         "first_seen": "2026-08-13T09:08:47.409807"
+      },
+      "5f6b4006b6b7ab21c1400cfddb41e23901f30ce184544c990f4d47480967161c": {
+        "title": "On-Device AI Moves From Technical Preference to Supply-Chain Reality",
+        "link": "https://www.tmtpost.com/8102743.html",
+        "published_date": "Fri, 14 Aug 2026 07:24:00 GMT",
+        "first_seen": "2026-08-13T23:39:07.298407"
+      },
+      "7f308e80a700cb79a76ea49440803a600601da66e0e04df2a7d2b0ad76ffb629": {
+        "title": "详解腾讯Q2财报：为何宁可现金流干到负也要“锁算力”？",
+        "link": "https://www.tmtpost.com/8101810.html",
+        "published_date": "Thu, 13 Aug 2026 17:43:00 GMT",
+        "first_seen": "2026-08-13T23:39:07.298413"
+      },
+      "a40c3730e217a5dc2366ff9b6bae1e933b27b96135bfc0f1b07fb04a3705b1a6": {
+        "title": "罕见表态，张一鸣全面升级AI大战",
+        "link": "https://www.tmtpost.com/8102072.html",
+        "published_date": "Thu, 13 Aug 2026 18:38:00 GMT",
+        "first_seen": "2026-08-13T23:39:07.298414"
+      },
+      "523011d86c952b87c75a79ea12f95df8b8076fff4a88bbf334fb58739e64e0c6": {
+        "title": "宇树上市，智元递表：中国机器人按下发令枪",
+        "link": "https://www.tmtpost.com/8102269.html",
+        "published_date": "Thu, 13 Aug 2026 18:37:00 GMT",
+        "first_seen": "2026-08-13T23:39:07.298416"
+      },
+      "ad46e13dc3b9fa0f2c69c5352f641cec15d0d36206e5b372d4c9c61794cbe9e2": {
+        "title": "实测正式版 DeepSeek V4 Pro，补齐 Agent 能力｜AI 上新",
+        "link": "http://www.geekpark.net/news/368777",
+        "published_date": "Thu, 13 Aug 2026 16:55:00 GMT",
+        "first_seen": "2026-08-13T23:39:07.298417"
       }
     },
     "Finance": {
-      "8f8fe71f89ddd1beb70cf28464f432150473d38fed76fbda26dfe0fe220328ef": {
-        "title": "Wall Street to report bumper quarter as dealmaking returns",
-        "link": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
-        "published_date": "Tue, 14 Jul 2026 09:29:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.701275"
-      },
-      "d8417dedd635b2ea99d4d50d71cd3f118a4efb3b72cdd29095fd9406fb3e2dfb": {
-        "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-        "link": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-        "published_date": "Tue, 14 Jul 2026 09:21:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.701283"
-      },
-      "62b0d57e75f3daca6107b505ead529642b21c2b3b7b0dbf36eacafe01c64c220": {
-        "title": "Oil prices see largest two-day percentage gain in four months on U.S.-Iran fighting",
-        "link": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Jul 2026 09:17:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.701285"
-      },
-      "87ed7cbec0c1cd34d7cf0270bb476c0a8cc79749d1f42721cc513fa095d44b87": {
-        "title": "One of the world’s weakest currencies makes this Asian capital the world’s cheapest major city — for now",
-        "link": "https://www.marketwatch.com/story/one-of-the-worlds-cheapest-currencies-makes-this-asian-capital-the-worlds-cheapest-major-city-for-now-84f8a9b5?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Jul 2026 09:12:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.701287"
-      },
-      "95bc3c89cd77036668623787020e70b898b3ea1588b715964e044f2691420acd": {
-        "title": "‘Impeccably designed’: You can rent Orlando Bloom’s former Beverly Hills estate for just $31,000 a month",
-        "link": "https://www.marketwatch.com/story/impeccably-designed-you-can-rent-orlando-blooms-former-beverly-hills-estate-for-just-31-000-a-month-760c3a9c?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Jul 2026 09:02:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.701289"
-      },
       "a022399160be6a3a79ec15efe65b50a4d7179c7104b762c50b5e0f260dd94be7": {
         "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
         "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
@@ -4833,15 +4803,39 @@
         "link": "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
         "published_date": "Thu, 13 Aug 2026 07:20:00 GMT",
         "first_seen": "2026-08-13T09:08:47.493597"
+      },
+      "0fcce272c96dcab7c35c60556ac2e1a7b94e20ef31105aea306b1cf71b7ae3b0": {
+        "title": "US sells 30-year bonds at highest borrowing costs since 2001",
+        "link": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1",
+        "published_date": "Thu, 13 Aug 2026 21:21:00 GMT",
+        "first_seen": "2026-08-13T23:39:19.636135"
+      },
+      "f036ceb4ee893ac86e196e54df3c031cf5094731bfb7e05b516b3a0899608197": {
+        "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+        "link": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
+        "published_date": "Thu, 13 Aug 2026 22:40:00 GMT",
+        "first_seen": "2026-08-13T23:39:19.636141"
+      },
+      "76323049f55e16df96cd16e8572e2b06fccb5383e3c3ba1cf84c34302847590e": {
+        "title": "AI has opened up big holes in cyber security",
+        "link": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
+        "published_date": "Thu, 13 Aug 2026 17:14:00 GMT",
+        "first_seen": "2026-08-13T23:39:19.636143"
+      },
+      "2139574984d91fcec9ef138763c4db5de3ebd96b3f8c43aa58719ddf06d73562": {
+        "title": "FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire",
+        "link": "https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae?syn-25a6b1a6=1",
+        "published_date": "Thu, 13 Aug 2026 20:04:00 GMT",
+        "first_seen": "2026-08-13T23:39:19.636144"
+      },
+      "5f4d4c8824251eb484bbb4e8a4051eec13d6c3e2b821fb684e0aaad6e5fee15d": {
+        "title": "Markets are looking eerily calm as investors chase FOMO rally",
+        "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+        "published_date": "Thu, 13 Aug 2026 22:05:00 GMT",
+        "first_seen": "2026-08-13T23:39:19.636146"
       }
     },
     "Ai": {
-      "83d69a389eb3d319c183185213ebbb5e1efbd7f0c598a769bb7888b2d419af70": {
-        "title": "2026-07-14日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-14/",
-        "published_date": "Tue, 14 Jul 2026 13:32:00 GMT",
-        "first_seen": "2026-07-14T09:55:51.819116"
-      },
       "e39aeeecb87db6bc109f47c8485310112e79709339e4d293311a590a558a077d": {
         "title": "阶跃入局，重构智能体时代操作系统",
         "link": "https://www.qbitai.com/2026/07/449979.html",
@@ -6251,13 +6245,43 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-13/",
         "published_date": "Thu, 13 Aug 2026 11:14:00 GMT",
         "first_seen": "2026-08-13T09:08:26.631573"
+      },
+      "7041a02122e3de4f800c0d1b22f91ec482254f4e88e00325c4904a1cad021fe9": {
+        "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+        "link": "https://www.qbitai.com/2026/08/472016.html",
+        "published_date": "Thu, 13 Aug 2026 11:29:00 GMT",
+        "first_seen": "2026-08-13T23:38:40.480585"
+      },
+      "9067bb46447ccbc95b77b574566240c7e185d8f70c0c274d4d088c6c3c46d849": {
+        "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+        "link": "https://www.qbitai.com/2026/08/472059.html",
+        "published_date": "Thu, 13 Aug 2026 12:34:00 GMT",
+        "first_seen": "2026-08-13T23:38:40.480597"
+      },
+      "68e287cf3c7009b99e4012eaca1b84bd6dff92b823e9107f433fa98585951aa6": {
+        "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+        "link": "https://www.qbitai.com/2026/08/472060.html",
+        "published_date": "Thu, 13 Aug 2026 11:53:00 GMT",
+        "first_seen": "2026-08-13T23:38:40.480599"
+      },
+      "6be92a82f3e9df01aa6d6303f4d099ec4d5628b59c2fbb73a940b5b22d35fad3": {
+        "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+        "link": "https://www.qbitai.com/2026/08/472067.html",
+        "published_date": "Thu, 13 Aug 2026 12:04:00 GMT",
+        "first_seen": "2026-08-13T23:38:40.480601"
+      },
+      "2d1e2cbaf9fbfa7effecaebd958aa1bbfbc9cbcc19283d14137af4e9e0d8e81f": {
+        "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+        "link": "https://www.qbitai.com/2026/08/471884.html",
+        "published_date": "Thu, 13 Aug 2026 10:01:00 GMT",
+        "first_seen": "2026-08-13T23:38:40.480603"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-13T09:08:47.409811",
-    "Finance": "2026-08-13T09:08:47.493600",
-    "Ai": "2026-08-13T09:08:26.631576"
+    "Technology": "2026-08-13T23:39:07.298419",
+    "Finance": "2026-08-13T23:39:19.636147",
+    "Ai": "2026-08-13T23:38:40.480605"
   }
 }
