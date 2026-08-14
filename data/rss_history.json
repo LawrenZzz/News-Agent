@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6e8b080f2bcb17ed5d3df0d1e9c43465f8f6ebb6d7062ea36ef5555edd99a2f9": {
-        "title": "AI进入“重工业时代”：万亿算力基建，如何赚钱？",
-        "link": "https://www.tmtpost.com/8063974.html",
-        "published_date": "Tue, 14 Jul 2026 19:25:00 GMT",
-        "first_seen": "2026-07-14T23:52:37.561850"
-      },
-      "9c2f90245be9269a209c0392b65f8b51ecf0ebe9c5c0a3fd582b67b1d98f611d": {
-        "title": "老黄的赌局",
-        "link": "https://www.tmtpost.com/8063393.html",
-        "published_date": "Tue, 14 Jul 2026 19:25:00 GMT",
-        "first_seen": "2026-07-14T23:52:37.561859"
-      },
-      "41ff3db523d508bf55e6f9d8267cea1472967c5976b7fa4bec7f4d22bd00db3e": {
-        "title": "中国机器人，让美国人焦虑了",
-        "link": "https://www.tmtpost.com/8064381.html",
-        "published_date": "Tue, 14 Jul 2026 19:20:00 GMT",
-        "first_seen": "2026-07-14T23:52:37.561862"
-      },
-      "3e6b87f9f3166ef24f3e74020e4c8f525af1658f7b3f4ff3543945f4f2ce1f68": {
-        "title": "“不听劝”的印奇，为什么坚持做智能体手机？ ｜ 对话阶跃星辰",
-        "link": "https://www.tmtpost.com/8064239.html",
-        "published_date": "Tue, 14 Jul 2026 18:58:00 GMT",
-        "first_seen": "2026-07-14T23:52:37.561864"
-      },
-      "bbdb2a5302b315d17837822eb361e6990782330453f8d7dd789591c403667cc4": {
-        "title": "物理AI，让自动驾驶迎来了“第二春”",
-        "link": "https://www.tmtpost.com/8064199.html",
-        "published_date": "Tue, 14 Jul 2026 18:58:00 GMT",
-        "first_seen": "2026-07-14T23:52:37.561865"
-      },
       "08ea195e844887960d9387e2ad75e16fa51c808533b1b3fa568420c72094ea6f": {
         "title": "WordPress 7.0 发布：内置 AI 基础能力、改进管理后台与设计套件",
         "link": "https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "http://www.geekpark.net/news/368777",
         "published_date": "Thu, 13 Aug 2026 16:55:00 GMT",
         "first_seen": "2026-08-13T23:39:07.298417"
+      },
+      "3bdd02fb00eaa9ac7d3ed96114768fd91d61e16549d74e7d35c86c6a1d57f25d": {
+        "title": "5000亿美元涌向算力：英伟达想要给AI装上金融杠杆",
+        "link": "https://www.tmtpost.com/8102827.html",
+        "published_date": "Fri, 14 Aug 2026 09:57:00 GMT",
+        "first_seen": "2026-08-14T06:13:56.446609"
+      },
+      "0dc3c2fc961f1405355a4ac4b367e881e3874be9dc11ba3789ee6fcc81908d84": {
+        "title": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+        "link": "https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 14 Aug 2026 10:35:00 GMT",
+        "first_seen": "2026-08-14T06:13:56.446618"
+      },
+      "1c6b34ed9750b906cd69a5822a24f120e16dad28faf1473bd0f22f305e5c8706": {
+        "title": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
+        "link": "http://www.geekpark.net/news/368789",
+        "published_date": "Fri, 14 Aug 2026 08:52:00 GMT",
+        "first_seen": "2026-08-14T06:13:56.446620"
+      },
+      "eff263b6f2fac17d402da63ea52d988162d8005e193da76f0ec67a0463018c66": {
+        "title": "摩尔线程：国产GPU最接近\"翻过雪山\"的时刻",
+        "link": "https://www.tmtpost.com/8102974.html",
+        "published_date": "Fri, 14 Aug 2026 10:14:00 GMT",
+        "first_seen": "2026-08-14T06:13:56.446622"
+      },
+      "df253438f79d415dddbd9713d526aaf001ed0b632d55897d6f40d0c4f5f6b027": {
+        "title": "AI 正在重塑故障处理流程，但棘手问题仍需人类解决",
+        "link": "https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 14 Aug 2026 13:54:00 GMT",
+        "first_seen": "2026-08-14T06:13:56.446624"
       }
     },
     "Finance": {
-      "a022399160be6a3a79ec15efe65b50a4d7179c7104b762c50b5e0f260dd94be7": {
-        "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-        "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Jul 2026 20:56:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.313747"
-      },
-      "71197d0db58bad83e6b145988b3784e988f72a67c6cb40941b4e6ec52c6a9f93": {
-        "title": "This overlooked index is a better investment than the S&P 500",
-        "link": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Jul 2026 23:32:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.313753"
-      },
-      "24ec7eab193fa9f1e1bdc30a0a148d4678e0b2b5bb4ee6b59c7f9ad7ebfd7199": {
-        "title": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
-        "link": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories",
-        "published_date": "Tue, 14 Jul 2026 21:03:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.313755"
-      },
-      "0a42cd5f859cd6bb2bffb30fbd9df313f7b31cd5bfaedb088dd5bcd9e0e05a75": {
-        "title": "IBM shares plunge 25% as customers shift spending to AI",
-        "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-        "published_date": "Tue, 14 Jul 2026 20:11:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.313756"
-      },
-      "a3b4528a41500347ff4839e04feb6ac408de8d5f8b5fb7be482f91df10db7483": {
-        "title": "Wall Street banks smash records on stock trading boom",
-        "link": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
-        "published_date": "Tue, 14 Jul 2026 16:23:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.313757"
-      },
       "a84c77e90c3c2234967c65e7edc49bcb213dfcc976e0a0c2bed16e6ef1625cee": {
         "title": "China’s economy grows at one of lowest rates in decades",
         "link": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
@@ -4833,39 +4803,39 @@
         "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
         "published_date": "Thu, 13 Aug 2026 22:05:00 GMT",
         "first_seen": "2026-08-13T23:39:19.636146"
+      },
+      "227251bbbfb5c078160fba9d94ad99ea1ffde902fb200bcdb60ef95ef1ce6b1d": {
+        "title": "Investigation into Farage to resume after he wins Clacton by-election",
+        "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 05:35:00 GMT",
+        "first_seen": "2026-08-14T06:14:25.896024"
+      },
+      "10cc4fd496b38b7cb8f0de5baea47f1480ad5a929e16a62bc760ce3ac58fd624": {
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "link": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-14T06:14:25.896033"
+      },
+      "08852fe3751a8cf970b06bd5b0f9a1b17365760d694c8debd3ca3cccfa88845f": {
+        "title": "The exodus from Israel",
+        "link": "https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-14T06:14:25.896036"
+      },
+      "15039bd81f5b35600b458e737166687d4aaf6fedcb08d71e2ccb383e62ea53ac": {
+        "title": "The quest to find the world’s best honey",
+        "link": "https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-14T06:14:25.896038"
+      },
+      "903e90250d7bfaec6b549207383a446925774e7670f00da6b996f0df327eb9bc": {
+        "title": "Pakistan and the new great game of Risk",
+        "link": "https://www.ft.com/content/a9573d72-7bb2-462f-83d7-c0fe36f8c98d?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-14T06:14:25.896040"
       }
     },
     "Ai": {
-      "e39aeeecb87db6bc109f47c8485310112e79709339e4d293311a590a558a077d": {
-        "title": "阶跃入局，重构智能体时代操作系统",
-        "link": "https://www.qbitai.com/2026/07/449979.html",
-        "published_date": "Tue, 14 Jul 2026 18:43:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.401865"
-      },
-      "eeccfcb28c978d0e4bece76d64e801791a1aca1a5c0436b35bca1a65c13f35b1": {
-        "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
-        "link": "https://www.qbitai.com/2026/07/448475.html",
-        "published_date": "Tue, 14 Jul 2026 12:36:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.401884"
-      },
-      "f2abab595a72094cae67cfe553fb8aaada6062294323b1ba6c6ff0fe1687bfc7": {
-        "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
-        "link": "https://www.qbitai.com/2026/07/449906.html",
-        "published_date": "Tue, 14 Jul 2026 12:04:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.401885"
-      },
-      "d27194aa7e2271cb2d1f37b92c6029cc81533458c99c9f7053aef66039435e6f": {
-        "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
-        "link": "https://www.qbitai.com/2026/07/449863.html",
-        "published_date": "Tue, 14 Jul 2026 11:05:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.401887"
-      },
-      "91a6fba26b421f7bf4fa0b0c9b61ae8db33de8ab94a45be46fa03b6164ce37ad": {
-        "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
-        "link": "https://www.qbitai.com/2026/07/449850.html",
-        "published_date": "Tue, 14 Jul 2026 11:04:00 GMT",
-        "first_seen": "2026-07-14T23:52:59.401888"
-      },
       "2d66f6574c6f85a342319cf9282333dd7b6492d0580816e48324b9f520c3b3b2": {
         "title": "2026-07-15日刊",
         "link": "https://hex2077.dev/docs/2026-07/2026-07-15/",
@@ -6275,13 +6245,19 @@
         "link": "https://www.qbitai.com/2026/08/471884.html",
         "published_date": "Thu, 13 Aug 2026 10:01:00 GMT",
         "first_seen": "2026-08-13T23:38:40.480603"
+      },
+      "3e729e0da55007160a299ba6f200e7b0e8632c60b6485c2ba56308e0bf6a1854": {
+        "title": "2026-08-14日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-14/",
+        "published_date": "Fri, 14 Aug 2026 10:52:00 GMT",
+        "first_seen": "2026-08-14T06:11:48.798489"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-13T23:39:07.298419",
-    "Finance": "2026-08-13T23:39:19.636147",
-    "Ai": "2026-08-13T23:38:40.480605"
+    "Technology": "2026-08-14T06:13:56.446626",
+    "Finance": "2026-08-14T06:14:25.896042",
+    "Ai": "2026-08-14T06:11:48.798500"
   }
 }
