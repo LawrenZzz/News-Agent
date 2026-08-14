@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Aug 2026 06:11:00 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 06:13:56 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 09:09:00 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:10:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>5000亿美元涌向算力：英伟达想要给AI装上金融杠杆</title>
-      <link>https://www.tmtpost.com/8102827.html</link>
-      <description>&lt;![CDATA[5000亿美元涌向算力：英伟达想要给AI装上金融杠杆]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8102827.html</guid>
+      <title>DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件</title>
+      <link>https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 14:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案</title>
-      <link>https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>工业智能体“拼落地”，谁能真正上产线？</title>
+      <link>https://www.tmtpost.com/8103269.html</link>
+      <description>&lt;![CDATA[工业智能体“拼落地”，谁能真正上产线？]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8103269.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元</title>
-      <link>http://www.geekpark.net/news/368789</link>
-      <description>&lt;![CDATA[DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368789</guid>
+      <title>谷歌AI人事动荡：全栈是护城河，也是纷争的起源</title>
+      <link>https://www.tmtpost.com/8103323.html</link>
+      <description>&lt;![CDATA[谷歌AI人事动荡：全栈是护城河，也是纷争的起源]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8103323.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>摩尔线程：国产GPU最接近&quot;翻过雪山&quot;的时刻</title>
-      <link>https://www.tmtpost.com/8102974.html</link>
-      <description>&lt;![CDATA[摩尔线程：国产GPU最接近&quot;翻过雪山&quot;的时刻]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8102974.html</guid>
+      <title>绕过搜索，微信Agent会复刻竞价排名吗？</title>
+      <link>https://www.tmtpost.com/8103215.html</link>
+      <description>&lt;![CDATA[绕过搜索，微信Agent会复刻竞价排名吗？]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8103215.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 正在重塑故障处理流程，但棘手问题仍需人类解决</title>
-      <link>https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 正在重塑故障处理流程，但棘手问题仍需人类解决]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 13:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞</title>
+      <link>https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
