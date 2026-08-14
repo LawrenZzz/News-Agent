@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Aug 2026 09:09:00 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 09:10:18 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 23:19:00 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:20:53 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>‘American Pie’ star Seann William Scott lists stunning Malibu waterfront home for $17.5 million</title>
-      <link>https://www.marketwatch.com/story/american-pie-star-seann-william-scott-lists-stunning-malibu-waterfront-home-for-17-5-million-dc7e97b1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘American Pie’ star Seann William Scott lists stunning Malibu waterfront home for $17.5 million]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/american-pie-star-seann-william-scott-lists-stunning-malibu-waterfront-home-for-17-5-million-dc7e97b1?mod=mw_rss_topstories</guid>
+      <title>Nvidia discloses $21bn stake in SpaceX</title>
+      <link>https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Nvidia discloses $21bn stake in SpaceX]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 22:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Investigation into Farage resumes after he wins Clacton by-election</title>
-      <link>https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Investigation into Farage resumes after he wins Clacton by-election]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1</guid>
+      <title>Jane Street suffers $15bn hit after meltdown at Situational Awareness</title>
+      <link>https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Jane Street suffers $15bn hit after meltdown at Situational Awareness]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock</title>
+      <link>https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 21:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits</title>
+      <link>https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 18:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors pile back into US stocks as bullishness returns to Wall Street</title>
+      <link>https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Investors pile back into US stocks as bullishness returns to Wall Street]]&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

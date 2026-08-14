@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "827adb4a87346c34569672e25053690b7db0cf702a0e26fea1ee5320681d43f5": {
-        "title": "旷视科技就这么没了",
-        "link": "https://www.tmtpost.com/8065965.html",
-        "published_date": "Wed, 15 Jul 2026 16:34:00 GMT",
-        "first_seen": "2026-07-15T10:01:02.587830"
-      },
-      "d4559af02c08ade3dc774d7d1162193d775f053149b803b6bc96f7a73053ce29": {
-        "title": "DeepSeek Explores IPO and Fresh Funding Just Weeks After Landmark $7 Billion Round",
-        "link": "https://www.tmtpost.com/8066015.html",
-        "published_date": "Wed, 15 Jul 2026 15:40:00 GMT",
-        "first_seen": "2026-07-15T10:01:02.587842"
-      },
-      "4baf2c8e32b2b2caa7ace95ec4a3667feddb92c70cbbd6d618d266f43e0d4d34": {
-        "title": "暴涨99%，安徽半导体巨头，狂砸75亿扩产",
-        "link": "https://www.tmtpost.com/8065233.html",
-        "published_date": "Wed, 15 Jul 2026 16:29:00 GMT",
-        "first_seen": "2026-07-15T10:01:02.587850"
-      },
-      "8f9a3f619bbda1f2879a56847e7b1f0f18960ec6b37710a0530c0e7c57bc179f": {
-        "title": "又一个电池大厂，宣告破产",
-        "link": "https://www.tmtpost.com/8065659.html",
-        "published_date": "Wed, 15 Jul 2026 13:44:00 GMT",
-        "first_seen": "2026-07-15T10:01:02.587852"
-      },
-      "a7f84e64e26303ff7e61e4a27473755a380624d4309aacc7bebcb7450e294499": {
-        "title": "AI Coding的价值，正在从“谁的模型更强”悄悄转向“谁的工具链更密”",
-        "link": "https://www.tmtpost.com/8065866.html",
-        "published_date": "Wed, 15 Jul 2026 14:26:00 GMT",
-        "first_seen": "2026-07-15T10:01:02.587854"
-      },
       "80c764f214d9e55dc08b739e9a30e3758e2692368501ca45674133a0264ce1ec": {
         "title": "【钛晨报】央行：加大逆周期和跨周期调节力度；网信办发布7款提供手机端侧生成式人工智能服务备案信息；长鑫科技：上市后仍将保持无实际控制人的控制权架构",
         "link": "https://www.tmtpost.com/8066673.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 14 Aug 2026 14:28:00 GMT",
         "first_seen": "2026-08-14T09:10:18.239300"
+      },
+      "04ff49ef3e4233ed6201f737ff4529e1a942fb5182f8b2252b1535cc730f5ccf": {
+        "title": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+        "link": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 15 Aug 2026 00:01:00 GMT",
+        "first_seen": "2026-08-14T23:20:34.148195"
+      },
+      "3cc7d758cd16676218f98a11d273293a0e9fba7dd5c40f113517f99750880299": {
+        "title": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
+        "link": "http://www.geekpark.net/news/368809",
+        "published_date": "Fri, 14 Aug 2026 12:17:00 GMT",
+        "first_seen": "2026-08-14T23:20:34.148207"
+      },
+      "2ce68acf5339657b0aaf25c69d581af0b134ff0e2bcc4033e6fdb8c61554062f": {
+        "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "link": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 15 Aug 2026 00:19:00 GMT",
+        "first_seen": "2026-08-14T23:20:34.148210"
+      },
+      "8f0b99b7915d3cc5a19b5aec3c6ccb5ea73fa9a206bf81d15133f620509e9124": {
+        "title": "Robotruck重新升温，无人货运开始算经济账",
+        "link": "https://www.tmtpost.com/8100924.html",
+        "published_date": "Fri, 14 Aug 2026 18:55:00 GMT",
+        "first_seen": "2026-08-14T23:20:34.148212"
+      },
+      "a16a2e1bc8b461e266f81721f034c1f63964ea963dc64d5660badbb0d04d57f3": {
+        "title": "从“工具”到“同事”——AI 时代的产品进化",
+        "link": "https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 14 Aug 2026 14:37:00 GMT",
+        "first_seen": "2026-08-14T23:20:34.148214"
       }
     },
     "Finance": {
-      "0e882cb434dd249a76c1a37dd4fd776c243e7e928e86d3ceab939c3502c61994": {
-        "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn’t enough.",
-        "link": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 09:20:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.696345"
-      },
-      "b246d972cca143724c3dcc3837146f928970bc60f503a873fd303860353dd59a": {
-        "title": "ASML is scrambling to build more capacity after blockbuster beat-and-raise quarter",
-        "link": "https://www.marketwatch.com/story/asml-is-scrambling-to-build-more-capacity-after-blockbuster-beat-and-raise-quarter-89e2febb?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 09:04:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.696352"
-      },
-      "c7164a7b4651db72867663fc6d166b57ad990cd1e5687e8371d5e4896a8a49a0": {
-        "title": "It’s boom and bust in the hedge-fund world as both liquidations and new launches spike",
-        "link": "https://www.marketwatch.com/story/its-boom-and-bust-in-the-hedge-fund-world-as-both-liquidations-and-new-launches-spike-0c99b896?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 09:49:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.696354"
-      },
-      "a2b16b92f675f9e404d609b301741a34095d1d0d0e38241ac0c3cfde30887e2c": {
-        "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.",
-        "link": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 09:36:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.696355"
-      },
-      "2187ace31e7b27a7ee029ef41b8808e0b1eec90cb5bc6c2cfe1b97c40ecad9e1": {
-        "title": "‘I don’t want to sound callous’: Nobody knows when they’ll die. Don’t base when you claim Social Security on that.",
-        "link": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 09:15:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.696357"
-      },
       "6408f33292467b733942b21790a0320103afacdf0cb3a85b2075f841837f9218": {
         "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
         "link": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
@@ -4815,27 +4785,39 @@
         "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
         "published_date": "Fri, 14 Aug 2026 08:25:00 GMT",
         "first_seen": "2026-08-14T09:10:18.285090"
+      },
+      "9b077c1141b05adbd0257b3cdb46fa6c93139291fb0b61d504629e798bd21bb1": {
+        "title": "Nvidia discloses $21bn stake in SpaceX",
+        "link": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 22:28:00 GMT",
+        "first_seen": "2026-08-14T23:20:53.500666"
+      },
+      "3f8591acf0f503317691e51565ae23da16fa96050bfb2dc9232d168cdf7f62d5": {
+        "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
+        "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 21:55:00 GMT",
+        "first_seen": "2026-08-14T23:20:53.500672"
+      },
+      "9cf8fd5eadd36060dfb498efc36c4745870f297204b3394e7801ea0eaab4fb84": {
+        "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+        "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+        "published_date": "Fri, 14 Aug 2026 21:34:00 GMT",
+        "first_seen": "2026-08-14T23:20:53.500674"
+      },
+      "a9c772cda437e83207582d30235a0410d89a65fd330340d81b65ab50daa3d876": {
+        "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
+        "link": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
+        "published_date": "Fri, 14 Aug 2026 18:47:00 GMT",
+        "first_seen": "2026-08-14T23:20:53.500676"
+      },
+      "b7d6152a25665de21f362541f643415e849811c405b899fd811733d5bed91885": {
+        "title": "Investors pile back into US stocks as bullishness returns to Wall Street",
+        "link": "https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1",
+        "published_date": "Fri, 14 Aug 2026 14:35:00 GMT",
+        "first_seen": "2026-08-14T23:20:53.500678"
       }
     },
     "Ai": {
-      "6a25d243ae5e832c5a35a67648fdc8e14801cde7c166001ac140ac1fdd99e229": {
-        "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-        "link": "https://www.qbitai.com/2026/07/450709.html",
-        "published_date": "Wed, 15 Jul 2026 09:03:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.817613"
-      },
-      "eb6d5a25d47dcf80f955f9d6e7c06549ea64bab396b922ef97b499795c920c7a": {
-        "title": "我和「二次元老公」约上会了！全球首个可以玩的实时交互模型，Xmax X2.0发布",
-        "link": "https://www.qbitai.com/2026/07/450130.html",
-        "published_date": "Wed, 15 Jul 2026 08:09:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.817622"
-      },
-      "6344f7a1834907865628be0809b098604b4762d2f09ac5f1c5b57721496cd3b1": {
-        "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
-        "link": "https://www.qbitai.com/2026/07/450657.html",
-        "published_date": "Wed, 15 Jul 2026 07:22:00 GMT",
-        "first_seen": "2026-07-15T10:01:13.817624"
-      },
       "d3789bab6a68921c9742ec1ad2e782ddbbb2598de74495b5c83ac9312a2c5d9c": {
         "title": "Towards demystifying the creativity of diffusion models",
         "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
@@ -6209,13 +6191,43 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-14/",
         "published_date": "Fri, 14 Aug 2026 10:52:00 GMT",
         "first_seen": "2026-08-14T06:11:48.798489"
+      },
+      "92abff47cab41d9cbacb536453a524e977393914b820a9396f08a8da97f169bf": {
+        "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+        "link": "https://www.qbitai.com/2026/08/473153.html",
+        "published_date": "Fri, 14 Aug 2026 14:51:00 GMT",
+        "first_seen": "2026-08-14T23:21:05.500226"
+      },
+      "20e250a606a7db49787d19634ffd9e07ca4bb6572cad84dca206ae64ad2ad179": {
+        "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+        "link": "https://www.qbitai.com/2026/08/473379.html",
+        "published_date": "Fri, 14 Aug 2026 15:41:00 GMT",
+        "first_seen": "2026-08-14T23:21:05.500233"
+      },
+      "3ad2021bd96cd4d0a80bbb65120f7f4c24a303a5d6338580b66f5e21003c2d05": {
+        "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+        "link": "https://www.qbitai.com/2026/08/473038.html",
+        "published_date": "Fri, 14 Aug 2026 08:47:00 GMT",
+        "first_seen": "2026-08-14T23:21:05.500235"
+      },
+      "4e2ad1a403a9bf36927e9e645ce1f05568605f5a2a92823b6058226e7a7f50de": {
+        "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+        "link": "https://www.qbitai.com/2026/08/472722.html",
+        "published_date": "Fri, 14 Aug 2026 07:29:00 GMT",
+        "first_seen": "2026-08-14T23:21:05.500237"
+      },
+      "5c95328bed306dde501c1119d88f904781dca28c0f51bf11bf554656dad41395": {
+        "title": "7亿年薪留不住！余家辉离职Meta创业",
+        "link": "https://www.qbitai.com/2026/08/473261.html",
+        "published_date": "Fri, 14 Aug 2026 14:59:00 GMT",
+        "first_seen": "2026-08-14T23:21:05.500238"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-14T09:10:18.239302",
-    "Finance": "2026-08-14T09:10:18.285093",
-    "Ai": "2026-08-14T06:11:48.798500"
+    "Technology": "2026-08-14T23:20:34.148216",
+    "Finance": "2026-08-14T23:20:53.500680",
+    "Ai": "2026-08-14T23:21:05.500240"
   }
 }
