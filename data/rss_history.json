@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "80c764f214d9e55dc08b739e9a30e3758e2692368501ca45674133a0264ce1ec": {
-        "title": "【钛晨报】央行：加大逆周期和跨周期调节力度；网信办发布7款提供手机端侧生成式人工智能服务备案信息；长鑫科技：上市后仍将保持无实际控制人的控制权架构",
-        "link": "https://www.tmtpost.com/8066673.html",
-        "published_date": "Thu, 16 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-15T23:58:18.628425"
-      },
-      "e62db52babfe831c38fa8c23a77c87832e3f8f23d8d636ea9662ac3eede1a1f9": {
-        "title": "字节入局物理AI，第二波“盛宴”开启？",
-        "link": "https://www.tmtpost.com/8066225.html",
-        "published_date": "Wed, 15 Jul 2026 18:48:00 GMT",
-        "first_seen": "2026-07-15T23:58:18.628434"
-      },
-      "9f21b3d1be07b4a1fc730e90c6671952674d448dc93ae651020886022bdf8e8a": {
-        "title": "印奇为什么造了一部不打算卖的手机？",
-        "link": "https://www.tmtpost.com/8066008.html",
-        "published_date": "Wed, 15 Jul 2026 16:14:00 GMT",
-        "first_seen": "2026-07-15T23:58:18.628436"
-      },
-      "359df29974359edea6df643030ad92ab2322dbefe40b6cb57fc94c5a7d243c46": {
-        "title": "Anthropic为什么不做硬件？",
-        "link": "https://www.tmtpost.com/8065992.html",
-        "published_date": "Wed, 15 Jul 2026 16:15:00 GMT",
-        "first_seen": "2026-07-15T23:58:18.628439"
-      },
-      "d91484569e47dea31febe5ef6309ca51261793c2790f8241420ac7a68531e717": {
-        "title": "当数据库的两端，都不再是人",
-        "link": "https://www.infoq.cn/article/sDyPWhAWPHttlQJTUwq3?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 15 Jul 2026 10:42:00 GMT",
-        "first_seen": "2026-07-15T23:58:18.628441"
-      },
       "6b88505d79c23ef5ed131330c67890896139080ebee4986be7b47e7c00f0c7c9": {
         "title": "从 AI Coding 到 AI Native SDLC：企业级人机协同研发范式的演进与落地｜AICon深圳",
         "link": "https://www.infoq.cn/article/H8IqlmqWsza0ev6KvvGm?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&utm_medium=article",
         "published_date": "Fri, 14 Aug 2026 14:37:00 GMT",
         "first_seen": "2026-08-14T23:20:34.148214"
+      },
+      "15930f65d57c9d546a5275ff0a14f5160d66dd7aa1ea5861096be2c12e4ec430": {
+        "title": "算力已成硬通货：腾讯528亿抢的到底是什么",
+        "link": "https://www.tmtpost.com/8104215.html",
+        "published_date": "Sat, 15 Aug 2026 11:26:00 GMT",
+        "first_seen": "2026-08-15T05:22:51.252106"
+      },
+      "0ba7e1f019c226d90f8ccf5ac6f9608ca8acebdfcf58f1bd8028aca3ab992663": {
+        "title": "赚得越多，亏得越狠：CoreWeave财报背后的AI算力重资产困局",
+        "link": "https://www.tmtpost.com/8104480.html",
+        "published_date": "Sat, 15 Aug 2026 09:54:00 GMT",
+        "first_seen": "2026-08-15T05:22:51.252114"
+      },
+      "6ed56c95228c27267f89b85d7d3d85c2ceb9956337c29a7c4e5f1bffb0249a5b": {
+        "title": "张一鸣的10万亿参数大模型：还能跑赢时间吗？",
+        "link": "https://www.tmtpost.com/8104495.html",
+        "published_date": "Sat, 15 Aug 2026 11:26:00 GMT",
+        "first_seen": "2026-08-15T05:22:51.252117"
+      },
+      "6494fb91cdf241156fd40b2bd5f0948d115604fef7cfd60cd153389270079c51": {
+        "title": "实测GLM-5.3：同一个模型，为什么会像两个AI？",
+        "link": "https://www.tmtpost.com/8104309.html",
+        "published_date": "Sat, 15 Aug 2026 10:27:00 GMT",
+        "first_seen": "2026-08-15T05:22:51.252118"
+      },
+      "632f22f6fc514d470a69a72c7c4b84f8c47759c225451b460eb6c3faec8914aa": {
+        "title": "面向多模态推理的高效长上下文建模｜AICon深圳",
+        "link": "https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 15 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-15T05:22:51.252120"
       }
     },
     "Finance": {
-      "6408f33292467b733942b21790a0320103afacdf0cb3a85b2075f841837f9218": {
-        "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
-        "link": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
-        "published_date": "Wed, 15 Jul 2026 19:49:00 GMT",
-        "first_seen": "2026-07-15T23:59:04.803089"
-      },
-      "d0627ea5b9c2c486d8ddb0c83604afdd2b1268918e3490175c009fd731dde7ec": {
-        "title": "This powerful stock-market momentum trade has hit a wall after seeing biggest unwind since 2001",
-        "link": "https://www.marketwatch.com/story/this-powerful-stock-market-momentum-trade-has-hit-a-wall-after-seeing-biggest-unwind-since-2001-52ad4151?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 22:10:00 GMT",
-        "first_seen": "2026-07-15T23:59:04.803096"
-      },
-      "4905aaac6872911f9be85eac01e81f8852434715ab10251d190da9276e053061": {
-        "title": "SpaceX’s stock breaks below its IPO price for the first time. Why it could still fall further.",
-        "link": "https://www.marketwatch.com/story/spacexs-stock-breaks-below-its-ipo-price-for-the-first-time-8826dc9a?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 21:40:00 GMT",
-        "first_seen": "2026-07-15T23:59:04.803098"
-      },
-      "7097e83f4abf5f775d38e60e2f5729661371a704899d5985e66b90297c07cc4f": {
-        "title": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
-        "link": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 22:21:00 GMT",
-        "first_seen": "2026-07-15T23:59:04.803100"
-      },
-      "3fc439209d1555f80c4fd038079d3394aef2f20f37b533884171b332f4cd3d87": {
-        "title": "The trucking market is tighter than it’s been in years — but investors are upbeat on J.B. Hunt",
-        "link": "https://www.marketwatch.com/story/the-trucking-market-is-tighter-than-its-been-in-years-but-investors-are-upbeat-on-j-b-hunt-af0f1587?mod=mw_rss_topstories",
-        "published_date": "Wed, 15 Jul 2026 23:34:00 GMT",
-        "first_seen": "2026-07-15T23:59:04.803102"
-      },
       "c843c91c53a956873385dc2998e3fb07add739b1eaa689b91b7c049c31f14b93": {
         "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
         "link": "https://www.ft.com/content/af8f4659-df0c-4c83-9fcc-8239714d0928",
@@ -4815,15 +4785,39 @@
         "link": "https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1",
         "published_date": "Fri, 14 Aug 2026 14:35:00 GMT",
         "first_seen": "2026-08-14T23:20:53.500678"
+      },
+      "23d099fb8206076ffa7b4325078c45443e4231bb8064e229077dfa805ec94751": {
+        "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+        "link": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
+        "published_date": "Sat, 15 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-15T05:23:26.694315"
+      },
+      "1cf442a38db6f8865a24f0e8430645b9222e5859d034fe8393ecd2afb6ce99a8": {
+        "title": "Traders are spoiling for a fight over the yen",
+        "link": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1",
+        "published_date": "Sat, 15 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-15T05:23:26.694321"
+      },
+      "52e54537786aa78306d224177ae41c6841085b9e8349b0d1865e467bbd9fe984": {
+        "title": "America’s AI election",
+        "link": "https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926",
+        "published_date": "Sat, 15 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-15T05:23:26.694323"
+      },
+      "33d9dcf9d99549760ddcab6423d0267620a3d4c73f8ccf8eae1e2d5863a4f86d": {
+        "title": "China poised to lift travel ban on Manus founders",
+        "link": "https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1",
+        "published_date": "Sat, 15 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-15T05:23:26.694325"
+      },
+      "a61713ba6a849a986b1275afb100e341ff0eaef5dc282e82a23a3300bea89da4": {
+        "title": "Which is the next No 1 city on Earth?",
+        "link": "https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1",
+        "published_date": "Sat, 15 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-15T05:23:26.694326"
       }
     },
     "Ai": {
-      "d3789bab6a68921c9742ec1ad2e782ddbbb2598de74495b5c83ac9312a2c5d9c": {
-        "title": "Towards demystifying the creativity of diffusion models",
-        "link": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-        "published_date": "Wed, 15 Jul 2026 18:06:00 GMT",
-        "first_seen": "2026-07-15T23:59:04.924572"
-      },
       "b48df45699f27ff59acf4da145f1e1e5c2f8ed26f3575a68d90b782da24993a4": {
         "title": "2026-07-16日刊",
         "link": "https://hex2077.dev/docs/2026-07/2026-07-16/",
@@ -6221,13 +6215,19 @@
         "link": "https://www.qbitai.com/2026/08/473261.html",
         "published_date": "Fri, 14 Aug 2026 14:59:00 GMT",
         "first_seen": "2026-08-14T23:21:05.500238"
+      },
+      "193f88a3900673ef783a1c97b9473861f40b2a1583d6dbf13b1d1844e1e50cab": {
+        "title": "2026-08-15日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-15/",
+        "published_date": "Sat, 15 Aug 2026 10:41:00 GMT",
+        "first_seen": "2026-08-15T05:23:26.839361"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-14T23:20:34.148216",
-    "Finance": "2026-08-14T23:20:53.500680",
-    "Ai": "2026-08-14T23:21:05.500240"
+    "Technology": "2026-08-15T05:22:51.252122",
+    "Finance": "2026-08-15T05:23:26.694329",
+    "Ai": "2026-08-15T05:23:26.839370"
   }
 }

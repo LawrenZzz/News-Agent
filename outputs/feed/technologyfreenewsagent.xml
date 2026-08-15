@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Aug 2026 23:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 23:20:34 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 05:22:00 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:22:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线</title>
-      <link>https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&amp;utm_medium=article</guid>
+      <title>算力已成硬通货：腾讯528亿抢的到底是什么</title>
+      <link>https://www.tmtpost.com/8104215.html</link>
+      <description>&lt;![CDATA[算力已成硬通货：腾讯528亿抢的到底是什么]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8104215.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了</title>
-      <link>http://www.geekpark.net/news/368809</link>
-      <description>&lt;![CDATA[DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 12:17:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368809</guid>
+      <title>赚得越多，亏得越狠：CoreWeave财报背后的AI算力重资产困局</title>
+      <link>https://www.tmtpost.com/8104480.html</link>
+      <description>&lt;![CDATA[赚得越多，亏得越狠：CoreWeave财报背后的AI算力重资产困局]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 09:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8104480.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事</title>
-      <link>https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 00:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>张一鸣的10万亿参数大模型：还能跑赢时间吗？</title>
+      <link>https://www.tmtpost.com/8104495.html</link>
+      <description>&lt;![CDATA[张一鸣的10万亿参数大模型：还能跑赢时间吗？]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 11:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8104495.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Robotruck重新升温，无人货运开始算经济账</title>
-      <link>https://www.tmtpost.com/8100924.html</link>
-      <description>&lt;![CDATA[Robotruck重新升温，无人货运开始算经济账]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 18:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8100924.html</guid>
+      <title>实测GLM-5.3：同一个模型，为什么会像两个AI？</title>
+      <link>https://www.tmtpost.com/8104309.html</link>
+      <description>&lt;![CDATA[实测GLM-5.3：同一个模型，为什么会像两个AI？]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 10:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8104309.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“工具”到“同事”——AI 时代的产品进化</title>
-      <link>https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从“工具”到“同事”——AI 时代的产品进化]]&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 14:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>面向多模态推理的高效长上下文建模｜AICon深圳</title>
+      <link>https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[面向多模态推理的高效长上下文建模｜AICon深圳]]&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OgbViICigja8tasE0lwi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
