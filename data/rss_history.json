@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1f8116e6d1c667a90d2d191f05004ec5c5dd5bb5b64a94fc5ed36e7d0456c650": {
-        "title": "反转？Linus 亲自为 AI 站台并怒怼反对派：AI和编译器一样是工具，不爽就walk away",
-        "link": "https://www.infoq.cn/article/6WyXSL8U09AT6dWV1RNq?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Jul 2026 17:00:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.302563"
-      },
-      "5d0d746130a61d1a271270e74234e381b7768c3ae86af3fc3eb618a59bcbb10f": {
-        "title": "谷歌 Genkit 推出 Agents API：支持分离式任务轮次与人机协同",
-        "link": "https://www.infoq.cn/article/ckLEtt7bN6AAURuEjfFF?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 16 Jul 2026 16:00:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.302570"
-      },
-      "aa9a4d39395514c5d0b9b8dd59b9bf538acb3fcf9d017e6a65f0c6815996cd4b": {
-        "title": "上市，会改变DeepSeek吗？",
-        "link": "https://www.tmtpost.com/8067219.html",
-        "published_date": "Thu, 16 Jul 2026 16:04:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.302572"
-      },
-      "0be36af68c9e5d65f4a378aa2ba6eb664051995bcfc14f1d2882791a742ae7ff": {
-        "title": "苹果AI备案过关，但拿到的可能是一张旧门票",
-        "link": "https://www.tmtpost.com/8067194.html",
-        "published_date": "Thu, 16 Jul 2026 16:27:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.302574"
-      },
-      "bab909545d322f3d14a446fe5f0c4712e9958eabe4a38e3ef132e32cd911b625": {
-        "title": "你还在手写 Prompt？聪明的人早就用上了循环工程，AI 的自动驾驶时代来了",
-        "link": "https://www.tmtpost.com/8066456.html",
-        "published_date": "Thu, 16 Jul 2026 08:10:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.302576"
-      },
       "852ce793d2c9f5046af861be6ebd1fdc0ca9f4195331bc8951870893589522c3": {
         "title": "【钛晨报】教育部增设27个职业教育新专业，2027年开始招生；日本拟采购2.75万颗英伟达Rubin芯片，开发本土机器人AI模型；DeepSeek估值超3500亿元",
         "link": "https://www.tmtpost.com/8067923.html",
@@ -2551,39 +2521,39 @@
         "link": "https://sspai.com/post/111974",
         "published_date": "Sat, 15 Aug 2026 15:07:00 GMT",
         "first_seen": "2026-08-15T08:24:13.228199"
+      },
+      "a7d01274bc15247061b79ce04a1eacfd81ea65ab2b48def4c9f11a5f4caceb7b": {
+        "title": "GLM-5.3 来了，编程能力提升 50%，两周发现 2404 个漏洞。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536022&idx=1&sn=8d467e7c4ea2140b97e16b73f0f7a9ad",
+        "published_date": "Sat, 15 Aug 2026 16:54:00 GMT",
+        "first_seen": "2026-08-15T23:18:05.393845"
+      },
+      "46d0aaddd7fcd9f0e8b56d5eb2a6156a621b24fb2ccfdb7e1b624b5d6c11e100": {
+        "title": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "link": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 15 Aug 2026 21:52:00 GMT",
+        "first_seen": "2026-08-15T23:18:05.393866"
+      },
+      "996ae32ccabc5ced4ef99fd3a31a2e042f00a848098675e3832c522cfa2b689b": {
+        "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
+        "link": "https://www.tmtpost.com/8104597.html",
+        "published_date": "Sat, 15 Aug 2026 20:04:00 GMT",
+        "first_seen": "2026-08-15T23:18:05.393870"
+      },
+      "26c889249abffd3d5111b976f09e0ecfbe439b7a9d291265db4fd04d548146f1": {
+        "title": "兴锋作浪，大模型和机器人抢着“联姻”",
+        "link": "https://www.tmtpost.com/8104508.html",
+        "published_date": "Sat, 15 Aug 2026 20:04:00 GMT",
+        "first_seen": "2026-08-15T23:18:05.393872"
+      },
+      "2b95a0cd6d194e8d1c058979dbddf97a0cd8dbde7a47155d53b845ad35be01ec": {
+        "title": "美团不开药店，却想成为25万家药店的“总店”？",
+        "link": "https://www.tmtpost.com/8104282.html",
+        "published_date": "Sat, 15 Aug 2026 18:23:00 GMT",
+        "first_seen": "2026-08-15T23:18:05.393876"
       }
     },
     "Finance": {
-      "2ed340f56d42fd395d502c63033a42017088e856e4537b69f68fe14d245599b2": {
-        "title": "TSMC posts record quarter — but expectations are now ‘exceptionally high,’ says fund manager",
-        "link": "https://www.marketwatch.com/story/tsmc-posts-record-quarter-but-expectations-are-now-exceptionally-high-says-fund-manager-145cd3ab?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Jul 2026 09:32:00 GMT",
-        "first_seen": "2026-07-16T10:06:11.912811"
-      },
-      "9f67f15c1d5801e2d9e6f2c14a6b908bac5dbd370df6d2004cd6bb8aed5013be": {
-        "title": "Turbo-charged SK Hynix volatility shows no sign of abating as AI euphoria swings to fatigue",
-        "link": "https://www.marketwatch.com/story/turbo-charged-sk-hynix-volatility-shows-no-sign-of-abating-as-ai-euphoria-swings-to-fatigue-f5a5b95b?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Jul 2026 09:57:00 GMT",
-        "first_seen": "2026-07-16T10:06:11.912821"
-      },
-      "9a1a45352abaa1312b41b7841daeb521ef6532b5a1866906e789fe06f462026c": {
-        "title": "I’m 67, own two mortgage-free homes worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
-        "link": "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Jul 2026 09:49:00 GMT",
-        "first_seen": "2026-07-16T10:06:11.912824"
-      },
-      "6f2cae6df6dbd80b49306ceb685f729b4fec1948e10a802efc9ee53842b975e4": {
-        "title": "Hyundai Motor deal with SoftBank for Boston Dynamics stake is as wild as the robot videos",
-        "link": "https://www.marketwatch.com/story/hyundai-motor-deal-with-softbank-for-boston-dynamics-stake-is-as-wild-as-the-robot-videos-222645e5?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Jul 2026 09:49:00 GMT",
-        "first_seen": "2026-07-16T10:06:11.912826"
-      },
-      "a7d23f207e0c40a38a6c0f022ac2805cc93f2a12a2fd399bb48e14e16c0a6a4a": {
-        "title": "Alec and Hilaria Baldwin pull $19 million Hamptons home off the market—again",
-        "link": "https://www.marketwatch.com/story/alec-and-hilaria-baldwin-pull-19-million-hamptons-home-off-the-marketagain-6505ebdd?mod=mw_rss_topstories",
-        "published_date": "Thu, 16 Jul 2026 09:01:00 GMT",
-        "first_seen": "2026-07-16T10:06:11.912828"
-      },
       "8373127388a5f53201ccca4ca1271ebd0f2f991fc74e2310b559860e9cc8b995": {
         "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
         "link": "https://www.marketwatch.com/story/americans-say-they-need-1-2-million-to-retire-most-are-too-deep-in-debt-to-get-there-689c683b?mod=mw_rss_topstories",
@@ -4785,21 +4755,39 @@
         "link": "https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1",
         "published_date": "Sat, 15 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-15T05:23:26.694326"
+      },
+      "a9d65a7d2f597439e9bb76b4e3563417822ced68d59ca4a73dab9ff0d4cc424b": {
+        "title": "Think interest rates are high now? These charts offer a different perspective.",
+        "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+        "published_date": "Sat, 15 Aug 2026 19:01:00 GMT",
+        "first_seen": "2026-08-15T23:18:18.522979"
+      },
+      "a9e27bfdaa6e8748a224b1c48a32e918e0710673116b42115204a6c7b69c8d5b": {
+        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+        "published_date": "Sat, 15 Aug 2026 18:05:00 GMT",
+        "first_seen": "2026-08-15T23:18:18.522986"
+      },
+      "7734ac16aa53f34904aee0a2c9d7139be3b71e45f06a6c8b7c1496e56e9fe95f": {
+        "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
+        "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+        "published_date": "Sat, 15 Aug 2026 16:16:00 GMT",
+        "first_seen": "2026-08-15T23:18:18.522988"
+      },
+      "430df6803749c7ef4eb6050d0d3ef0ca771ccca4482323d887441917b0d1c9a0": {
+        "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+        "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
+        "published_date": "Sat, 15 Aug 2026 20:00:00 GMT",
+        "first_seen": "2026-08-15T23:18:18.522990"
+      },
+      "68856329fc868e3a7912dd9165434a1a6f1bc87232cf7612b03280293f35547e": {
+        "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
+        "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
+        "published_date": "Sat, 15 Aug 2026 15:28:00 GMT",
+        "first_seen": "2026-08-15T23:18:18.522991"
       }
     },
     "Ai": {
-      "37ba66f08ad6f76ed98df969720177b59a89d97ade4bf124cc7c04715ec9f12a": {
-        "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
-        "link": "https://www.qbitai.com/2026/07/451084.html",
-        "published_date": "Thu, 16 Jul 2026 08:04:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.421208"
-      },
-      "62707c26b0a22a9e51f2b193ffdcd104f440229a63d9293ca2e9846758334c3a": {
-        "title": "一位失忆患者，揭开了AI记忆的误区",
-        "link": "https://www.qbitai.com/2026/07/451049.html",
-        "published_date": "Thu, 16 Jul 2026 07:34:00 GMT",
-        "first_seen": "2026-07-16T10:06:34.421216"
-      },
       "4bb0fe35f4f55880e6034b1224ef7456188d3aab57dae5ed17193f266894ab1d": {
         "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
         "link": "https://www.qbitai.com/2026/07/451576.html",
@@ -6196,8 +6184,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-15T08:24:13.228200",
-    "Finance": "2026-08-15T05:23:26.694329",
+    "Technology": "2026-08-15T23:18:05.393879",
+    "Finance": "2026-08-15T23:18:18.522994",
     "Ai": "2026-08-15T08:24:13.418180"
   }
 }
