@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0e824791b92e746610fadc313883cd247fdf18f3158560bdf959c3491b9e2c76": {
-        "title": "Google 被迫开门，ChatGPT 将拿到搜索数据和安卓权限",
-        "link": "https://www.tmtpost.com/8067981.html",
-        "published_date": "Fri, 17 Jul 2026 11:12:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.818864"
-      },
-      "4ddcb9ef6d1b9b983373ced54898873ffe9adedc961df63ca460eb52d6456756": {
-        "title": "从GPU到Token：英伟达Vera Rubin如何重构下一代AI工厂",
-        "link": "https://www.infoq.cn/article/s8EpYCpdF3YiSkSbYfGG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Jul 2026 10:09:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.818872"
-      },
-      "480a309aefbca74f87a71539904fb13e57187f801190477366d0c3334a0c5174": {
-        "title": "Kimi新模型K3刷屏，Coding得分超越Fable 5",
-        "link": "https://www.tmtpost.com/8068444.html",
-        "published_date": "Fri, 17 Jul 2026 12:29:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.818874"
-      },
-      "bdd3a22a758a07550dd8ee3ac164f3bf507b5407e08720a26f6410709e68c6c7": {
-        "title": "最近，投资人都在研究给机器人“喂饭”",
-        "link": "https://www.tmtpost.com/8068658.html",
-        "published_date": "Fri, 17 Jul 2026 12:43:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.818877"
-      },
-      "b67670a65e2ec7d17c1a198f4fdc8a20484fe4159f9bb3fa80ee045407b4b485": {
-        "title": "具身智能的真机数采，到了分水岭",
-        "link": "https://www.tmtpost.com/8068523.html",
-        "published_date": "Fri, 17 Jul 2026 11:06:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.818878"
-      },
       "4e384cb123868541f8318d92789365fab5eab5a02dd09b426e0b6673d83f6026": {
         "title": "王坚：下一代基础模型，不在语言，而在科学数据",
         "link": "https://www.tmtpost.com/8069227.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8104764.html",
         "published_date": "Sun, 16 Aug 2026 08:52:00 GMT",
         "first_seen": "2026-08-16T05:25:38.146807"
+      },
+      "780f15be7f439b6e7b467ea0261dd00126487078df71bb7b5512241a07f7e418": {
+        "title": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
+        "link": "http://www.geekpark.net/news/368854",
+        "published_date": "Sun, 16 Aug 2026 09:15:00 GMT",
+        "first_seen": "2026-08-16T08:25:04.984368"
+      },
+      "7f745cae4a649d33b1c59f47161edce5028c10478586789043039b53ef917b0f": {
+        "title": "一份数据，多种用途：Spotify 用 RAP 打通分析与在线服务",
+        "link": "https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 16 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-16T08:25:04.984376"
+      },
+      "5152013202a6e7e19dd0bc34dc58a508101d576999155ca4b5920a712290916b": {
+        "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
+        "link": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 16 Aug 2026 08:00:00 GMT",
+        "first_seen": "2026-08-16T08:25:04.984378"
+      },
+      "7f07d75706358024b29bbd2d4cb9bfb873d28a8751de8997d60611134e7bda0f": {
+        "title": "Edge AI Daily 早报（8月16日）",
+        "link": "https://www.tmtpost.com/8104869.html",
+        "published_date": "Sun, 16 Aug 2026 08:45:00 GMT",
+        "first_seen": "2026-08-16T08:25:04.984380"
+      },
+      "83883b0c1756b9477776e83fc211d4300e3aaa8c8ca6573ae55a722c60a1b4c8": {
+        "title": "美团不做线下药店，像是一场经精心计算的“缓兵之计”",
+        "link": "https://www.tmtpost.com/8104718.html",
+        "published_date": "Sun, 16 Aug 2026 08:26:00 GMT",
+        "first_seen": "2026-08-16T08:25:04.984382"
       }
     },
     "Finance": {
-      "ee4fc0d4685fa864c72c67c7a33cf65a17122968724afe577bd25f7588ffcd6f": {
-        "title": "Global stocks fall as AI trade goes into reverse",
-        "link": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
-        "published_date": "Fri, 17 Jul 2026 06:52:00 GMT",
-        "first_seen": "2026-07-17T07:16:13.371617"
-      },
-      "400ab2ee5baee0c5a0d2edaafe76ef1e6bc1affdd2483b03da08ce8220eaa09c": {
-        "title": "US escalates attacks on Iran as it expands range of targets",
-        "link": "https://www.ft.com/content/119c8222-89ce-4c45-ad77-9bb4aab06bdd?syn-25a6b1a6=1",
-        "published_date": "Fri, 17 Jul 2026 00:56:00 GMT",
-        "first_seen": "2026-07-17T07:16:13.371627"
-      },
-      "42a14d1fe33aca1764715cce35c60c5067388736512743abf1334ed47294bb4d": {
-        "title": "Xi sets out China’s goal to be global AI leader",
-        "link": "https://www.ft.com/content/ddb316b4-c6ae-4b9b-9d4a-63d63201d4fc?syn-25a6b1a6=1",
-        "published_date": "Fri, 17 Jul 2026 03:59:00 GMT",
-        "first_seen": "2026-07-17T07:16:13.371630"
-      },
-      "f7923fc4a6db759de275965607362eaa8f79457def316b30bcae37769290c7cd": {
-        "title": "Chinese AI start-up Moonshot launches model challenging Anthropic’s lead",
-        "link": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1",
-        "published_date": "Fri, 17 Jul 2026 00:58:00 GMT",
-        "first_seen": "2026-07-17T07:16:13.371632"
-      },
-      "a987b86087b86ef4137ad401e60b3280482b2c3a066f747efb64c5313121d0bb": {
-        "title": "How far will Iran go for the Strait of Hormuz?",
-        "link": "https://www.ft.com/content/ecf0a6cc-5de2-4a48-95aa-d0a459e5aff8?syn-25a6b1a6=1",
-        "published_date": "Fri, 17 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-17T07:16:13.371634"
-      },
       "efb5e381b79f71268c2ffdb093aa4d4ffb37f19c46efb9ee1aaa9174dcaf0b52": {
         "title": "Bad week for ‘the ants’ as ripple effects of Korean crash spread out across Asia",
         "link": "https://www.marketwatch.com/story/bad-week-for-the-ants-as-ripple-effects-of-korean-crash-spread-out-across-asia-8a5e4a43?mod=mw_rss_topstories",
@@ -4788,24 +4758,6 @@
       }
     },
     "Ai": {
-      "d5bbd1e05dda3f4b1eb81b62bb72a4ed1b80f64b13baeccdce85be3d0fc97fa2": {
-        "title": "2026-07-17日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-17/",
-        "published_date": "Fri, 17 Jul 2026 10:42:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.937325"
-      },
-      "aa01a231be569b4fb606ab45e6d9003430b04f9737a3e9f89b605ae3be51f7ef": {
-        "title": "OpenAI官方教你8招玩透ChatGPT！",
-        "link": "https://www.qbitai.com/2026/07/452611.html",
-        "published_date": "Fri, 17 Jul 2026 05:11:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.937334"
-      },
-      "c838b073ee51238888ff1b572cf446e8797e51ec4ab6f088cf426c86d479f4d0": {
-        "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-        "link": "https://www.qbitai.com/2026/07/451691.html",
-        "published_date": "Fri, 17 Jul 2026 02:41:00 GMT",
-        "first_seen": "2026-07-17T07:16:32.937337"
-      },
       "292c2fb6d30ad9405d4ab00f897bbe5d624de1dfd8bc475e134eb132ede4f559": {
         "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
         "link": "https://www.qbitai.com/2026/07/452914.html",
@@ -6173,13 +6125,25 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-16/",
         "published_date": "Sun, 16 Aug 2026 10:57:00 GMT",
         "first_seen": "2026-08-16T05:25:48.104910"
+      },
+      "977bd1339071e316c5df447377f27100fdb20665750c347b46e44450dd7ffc3f": {
+        "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "link": "https://www.qbitai.com/2026/08/473972.html",
+        "published_date": "Sun, 16 Aug 2026 05:37:00 GMT",
+        "first_seen": "2026-08-16T08:25:05.170090"
+      },
+      "f15111a40bb7a78a1f6618a0b24059f647f204d84c3b24dc23e5db47345e1527": {
+        "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+        "link": "https://www.qbitai.com/2026/08/473947.html",
+        "published_date": "Sun, 16 Aug 2026 05:28:00 GMT",
+        "first_seen": "2026-08-16T08:25:05.170097"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-16T05:25:38.146809",
+    "Technology": "2026-08-16T08:25:04.984384",
     "Finance": "2026-08-16T05:25:47.962346",
-    "Ai": "2026-08-16T05:25:48.104918"
+    "Ai": "2026-08-16T08:25:05.170100"
   }
 }
