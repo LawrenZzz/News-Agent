@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Aug 2026 08:39:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 08:39:48 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 23:19:00 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:19:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI解散风险团队，冲刺史上最大IPO：先把安全放下</title>
-      <link>https://www.tmtpost.com/8105814.html</link>
-      <description>&lt;![CDATA[OpenAI解散风险团队，冲刺史上最大IPO：先把安全放下]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105814.html</guid>
+      <title>Alibaba Sells Its Gaming Unit to Trustar Capital as It Sharpens Focus on AI</title>
+      <link>https://www.tmtpost.com/8105947.html</link>
+      <description>&lt;![CDATA[Alibaba Sells Its Gaming Unit to Trustar Capital as It Sharpens Focus on AI]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 17:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8105947.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>甲骨文企业AI战略曝光：Agent进数据库、GPU跑满、多云砍掉流量费</title>
-      <link>https://www.infoq.cn/article/7wuQJXJqFVR3rZb8Usyg?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[甲骨文企业AI战略曝光：Agent进数据库、GPU跑满、多云砍掉流量费]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7wuQJXJqFVR3rZb8Usyg?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/8105860.html</link>
+      <description>&lt;![CDATA[AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8105860.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix详述其基于Triton与vLLM的内部LLM服务平台</title>
-      <link>https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix详述其基于Triton与vLLM的内部LLM服务平台]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>智谱 VS Deepseek，两条分叉的自进化树</title>
+      <link>https://www.tmtpost.com/8105866.html</link>
+      <description>&lt;![CDATA[智谱 VS Deepseek，两条分叉的自进化树]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8105866.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>渲染内存降95%、GC卡顿率降90%：KMP 是怎么在鸿蒙上跑起来的</title>
-      <link>https://www.infoq.cn/article/M7RAkplwuMQrs72dSYfj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[渲染内存降95%、GC卡顿率降90%：KMP 是怎么在鸿蒙上跑起来的]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/M7RAkplwuMQrs72dSYfj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI</title>
+      <link>https://www.tmtpost.com/8103184.html</link>
+      <description>&lt;![CDATA[AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8103184.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>显卡涨疯了，但涨的不是 GPU——是显存</title>
-      <link>https://www.tmtpost.com/8105330.html</link>
-      <description>&lt;![CDATA[显卡涨疯了，但涨的不是 GPU——是显存]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 12:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105330.html</guid>
+      <title>Token未来更贵还是更便宜？定价权之争白热化</title>
+      <link>https://www.tmtpost.com/8101913.html</link>
+      <description>&lt;![CDATA[Token未来更贵还是更便宜？定价权之争白热化]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 13:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8101913.html</guid>
       <category>Technology</category>
     </item>
   </channel>

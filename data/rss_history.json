@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7fa0c8eee345975c2d099b2c5d9f4960189c6c6a02bcc4083a03d5fac6a1ed80": {
-        "title": "算力定价权的转移——从\"你有多少张卡\"到\"Token成本多少\"",
-        "link": "https://www.tmtpost.com/8070307.html",
-        "published_date": "Sat, 18 Jul 2026 15:32:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.138606"
-      },
-      "1ac3a0d6741846e132b611d5e6a8680c31eaced8bc5662422524dd0e1ad8c4af": {
-        "title": "为什么 AI Agent 拿到数据却不会推理？可观测对象图语义层的设计与开源实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/KPd6YwU0Y1iCMGMakSmE?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.138611"
-      },
-      "1cae90a22fec942ccf660909085b76d4653b660a0bc13cf5d231940fcac44e9d": {
-        "title": "AI 智能体算力消耗过快，传统账单风控跟不上速度",
-        "link": "https://www.infoq.cn/article/secM60Za0CNxIYvQO47m?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Jul 2026 09:00:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.138613"
-      },
-      "156d80b22c6b0dd574f0beda355feafb188da2e564e9fa55509ab0970334bb05": {
-        "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
-        "link": "https://www.infoq.cn/article/GICIrEsTJwEgGsDYFvCM?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 18 Jul 2026 08:54:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.138614"
-      },
-      "f55f7b25b5ba1900954032c96af758852141ee572ca89681ccaf84110d6b6c55": {
-        "title": "WAIC，我们看到这六个趋势",
-        "link": "https://www.tmtpost.com/8070197.html",
-        "published_date": "Sat, 18 Jul 2026 10:22:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.138615"
-      },
       "5fca0a170974c5c778741ebe49ce7594098ccd324cc655602d83db33097655c5": {
         "title": "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环",
         "link": "https://www.tmtpost.com/8070465.html",
@@ -2551,15 +2521,39 @@
         "link": "https://www.tmtpost.com/8105330.html",
         "published_date": "Mon, 17 Aug 2026 12:09:00 GMT",
         "first_seen": "2026-08-17T08:39:48.859043"
+      },
+      "9f912adc85676087bd7cb45a1facd04ebacb8b30234e8b9ca69acfda90878377": {
+        "title": "Alibaba Sells Its Gaming Unit to Trustar Capital as It Sharpens Focus on AI",
+        "link": "https://www.tmtpost.com/8105947.html",
+        "published_date": "Mon, 17 Aug 2026 17:07:00 GMT",
+        "first_seen": "2026-08-17T23:19:44.628382"
+      },
+      "84f71efae6dceaad77799370d87068e85638e9399fe8a615c67013a9f80103dc": {
+        "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
+        "link": "https://www.tmtpost.com/8105860.html",
+        "published_date": "Mon, 17 Aug 2026 17:42:00 GMT",
+        "first_seen": "2026-08-17T23:19:44.628390"
+      },
+      "14e8c4c4d24b3bff55dd0563ed9203d5910450557728a8b095ab151c54dfe729": {
+        "title": "智谱 VS Deepseek，两条分叉的自进化树",
+        "link": "https://www.tmtpost.com/8105866.html",
+        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
+        "first_seen": "2026-08-17T23:19:44.628394"
+      },
+      "31ef17e7037f6031dfdf1d8987448d47379fe03b306d0ef79e16a69cfc35551f": {
+        "title": "AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI",
+        "link": "https://www.tmtpost.com/8103184.html",
+        "published_date": "Mon, 17 Aug 2026 16:49:00 GMT",
+        "first_seen": "2026-08-17T23:19:44.628395"
+      },
+      "5ac7d2daa4045c3f775b1a3ff066844dcebbee3607ad88723dd5b75777108ce1": {
+        "title": "Token未来更贵还是更便宜？定价权之争白热化",
+        "link": "https://www.tmtpost.com/8101913.html",
+        "published_date": "Mon, 17 Aug 2026 13:39:00 GMT",
+        "first_seen": "2026-08-17T23:19:44.628397"
       }
     },
     "Finance": {
-      "cd5fd09ba90a0ca889a160ce43f304c7572125a2822544b5cce5a06e5216758d": {
-        "title": "German army looks to Ukraine for battlefield lessons",
-        "link": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
-        "published_date": "Sat, 18 Jul 2026 09:00:00 GMT",
-        "first_seen": "2026-07-18T09:21:18.398390"
-      },
       "2ca57985f5ff58aeae8959570d6eaa082e8f940441e8257445b693f08883f7d6": {
         "title": "US strikes Iran after two American troops are killed in Jordan",
         "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
@@ -4743,27 +4737,39 @@
         "link": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
         "published_date": "Mon, 17 Aug 2026 07:39:00 GMT",
         "first_seen": "2026-08-17T08:39:48.910909"
+      },
+      "8dff6969b6929e3bc8875b5f2049bef330efd8ec4d1d99a3642a04ab597ed0a6": {
+        "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+        "link": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+        "published_date": "Mon, 17 Aug 2026 21:15:00 GMT",
+        "first_seen": "2026-08-17T23:19:59.925742"
+      },
+      "a88e24ba962982325fdcddcb261f89bddee30439eaa710606979f637795a2ab0": {
+        "title": "US tech stock correction likely, warn ECB economists",
+        "link": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
+        "published_date": "Mon, 17 Aug 2026 14:40:00 GMT",
+        "first_seen": "2026-08-17T23:19:59.925748"
+      },
+      "8b2d9e5f1fd5d157fb28fd9692b25b9c838373a2204fa8774e6b71ed26781b7a": {
+        "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+        "link": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
+        "published_date": "Mon, 17 Aug 2026 22:33:00 GMT",
+        "first_seen": "2026-08-17T23:19:59.925750"
+      },
+      "d6b8194c11f89963fc2ecc60e873a54dc092fffbe958521fec3f452e51c5dbc9": {
+        "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
+        "link": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
+        "published_date": "Mon, 17 Aug 2026 20:28:00 GMT",
+        "first_seen": "2026-08-17T23:19:59.925752"
+      },
+      "0973516fd28ff8aa9da62aa269aae3f1b23531d582ed756be65e47134b67661a": {
+        "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
+        "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
+        "published_date": "Mon, 17 Aug 2026 19:48:00 GMT",
+        "first_seen": "2026-08-17T23:19:59.925753"
       }
     },
     "Ai": {
-      "336be95e052336249a5a4a9b592ecf5712f3d6f80825a47e81c3173ea086f0e4": {
-        "title": "妙啊！无人机直连卫星传Token",
-        "link": "https://www.qbitai.com/2026/07/453789.html",
-        "published_date": "Sat, 18 Jul 2026 08:17:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.201657"
-      },
-      "7a37ffc575c70c987d4c82b6cb5b057861e5b4be9fce026bd18d9e8f46e34091": {
-        "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
-        "link": "https://www.qbitai.com/2026/07/453705.html",
-        "published_date": "Sat, 18 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.201664"
-      },
-      "924566db9c88a17bdcb92dd73456a93eff52236962381cc211312af4e2867788": {
-        "title": "2026-07-18日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-18/",
-        "published_date": "Sat, 18 Jul 2026 11:44:00 GMT",
-        "first_seen": "2026-07-18T09:21:33.201665"
-      },
       "c79cf8ec7b40670a412e4c855aa4b646bd5dfec9f8d780489fae9abb19488ef1": {
         "title": "WAIC看了一圈，这家公司的机器人在认真打工",
         "link": "https://www.qbitai.com/2026/07/454040.html",
@@ -6089,13 +6095,31 @@
         "link": "https://www.qbitai.com/2026/08/474334.html",
         "published_date": "Mon, 17 Aug 2026 07:39:00 GMT",
         "first_seen": "2026-08-17T08:39:49.058743"
+      },
+      "b508210c33f2903fcc40eb37ba3025465149357ff211adc204f05616097a11c6": {
+        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+        "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+        "published_date": "Mon, 17 Aug 2026 10:34:00 GMT",
+        "first_seen": "2026-08-17T23:20:00.070268"
+      },
+      "dab612b932521e837080c65df9845398c59de689760d84825cb4bcb216b6b2a5": {
+        "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+        "link": "https://www.qbitai.com/2026/08/474537.html",
+        "published_date": "Mon, 17 Aug 2026 09:30:00 GMT",
+        "first_seen": "2026-08-17T23:20:00.070275"
+      },
+      "89b1fb3d9e29dd983e1f0eefa56de453e02312d01cf1f9d10785a0f90793d740": {
+        "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+        "link": "https://www.qbitai.com/2026/08/474518.html",
+        "published_date": "Mon, 17 Aug 2026 09:04:00 GMT",
+        "first_seen": "2026-08-17T23:20:00.070277"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-17T08:39:48.859044",
-    "Finance": "2026-08-17T08:39:48.910912",
-    "Ai": "2026-08-17T08:39:49.058751"
+    "Technology": "2026-08-17T23:19:44.628399",
+    "Finance": "2026-08-17T23:19:59.925755",
+    "Ai": "2026-08-17T23:20:00.070279"
   }
 }
