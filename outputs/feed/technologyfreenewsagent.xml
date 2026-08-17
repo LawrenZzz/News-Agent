@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Aug 2026 05:33:00 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 05:33:25 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 08:39:00 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:39:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>算力之后是语料：AI的新瓶颈正在重塑内容产业的定价权？</title>
-      <link>https://www.tmtpost.com/8105410.html</link>
-      <description>&lt;![CDATA[算力之后是语料：AI的新瓶颈正在重塑内容产业的定价权？]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105410.html</guid>
+      <title>OpenAI解散风险团队，冲刺史上最大IPO：先把安全放下</title>
+      <link>https://www.tmtpost.com/8105814.html</link>
+      <description>&lt;![CDATA[OpenAI解散风险团队，冲刺史上最大IPO：先把安全放下]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 15:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8105814.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>物理AI的操作系统战争——谁在定义机器人的「小脑」？</title>
-      <link>https://www.tmtpost.com/8105533.html</link>
-      <description>&lt;![CDATA[物理AI的操作系统战争——谁在定义机器人的「小脑」？]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105533.html</guid>
+      <title>甲骨文企业AI战略曝光：Agent进数据库、GPU跑满、多云砍掉流量费</title>
+      <link>https://www.infoq.cn/article/7wuQJXJqFVR3rZb8Usyg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[甲骨文企业AI战略曝光：Agent进数据库、GPU跑满、多云砍掉流量费]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7wuQJXJqFVR3rZb8Usyg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扶稳坐好，世界模型，元年已到</title>
-      <link>https://www.tmtpost.com/8105530.html</link>
-      <description>&lt;![CDATA[扶稳坐好，世界模型，元年已到]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105530.html</guid>
+      <title>Netflix详述其基于Triton与vLLM的内部LLM服务平台</title>
+      <link>https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix详述其基于Triton与vLLM的内部LLM服务平台]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/J9Zi9LELcpxFRe23PHdY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里甩卖游戏帝国，一切只为AGI？</title>
-      <link>https://www.tmtpost.com/8105655.html</link>
-      <description>&lt;![CDATA[阿里甩卖游戏帝国，一切只为AGI？]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105655.html</guid>
+      <title>渲染内存降95%、GC卡顿率降90%：KMP 是怎么在鸿蒙上跑起来的</title>
+      <link>https://www.infoq.cn/article/M7RAkplwuMQrs72dSYfj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[渲染内存降95%、GC卡顿率降90%：KMP 是怎么在鸿蒙上跑起来的]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M7RAkplwuMQrs72dSYfj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SK海力士：2027年将爆发最严重存储荒</title>
-      <link>https://www.tmtpost.com/8105210.html</link>
-      <description>&lt;![CDATA[SK海力士：2027年将爆发最严重存储荒]]&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 09:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105210.html</guid>
+      <title>显卡涨疯了，但涨的不是 GPU——是显存</title>
+      <link>https://www.tmtpost.com/8105330.html</link>
+      <description>&lt;![CDATA[显卡涨疯了，但涨的不是 GPU——是显存]]&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 12:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8105330.html</guid>
       <category>Technology</category>
     </item>
   </channel>
