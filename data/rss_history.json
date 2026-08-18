@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5fca0a170974c5c778741ebe49ce7594098ccd324cc655602d83db33097655c5": {
-        "title": "商汤发布旗舰级SenseNova U1 Pro，多模态智能体实现长程任务闭环",
-        "link": "https://www.tmtpost.com/8070465.html",
-        "published_date": "Sat, 18 Jul 2026 20:06:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.588095"
-      },
-      "aff4a13178a08a1015834aa43eb98b2fadc0dd3966cdedc34633db5801be9222": {
-        "title": "2026 WAIC，具身首次走上神坛",
-        "link": "https://www.tmtpost.com/8069915.html",
-        "published_date": "Sat, 18 Jul 2026 09:45:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.588102"
-      },
-      "c91fd8f5abdfde1801757f28283e7099d7e376a5415badbed18ee9c522cb9bb0": {
-        "title": "独家对话吴德周：从硬件到平台，不想再做“传统”AI眼镜",
-        "link": "https://www.tmtpost.com/8069850.html",
-        "published_date": "Sat, 18 Jul 2026 20:40:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.588104"
-      },
-      "869bffbea2ae31dd07d6b63b60a9144c08858d19faeea31e4770701ad7c4936c": {
-        "title": "中科闻歌发布首个AI决策“全家桶”，企业决策卷入“10分钟时代”",
-        "link": "https://www.tmtpost.com/8070543.html",
-        "published_date": "Sat, 18 Jul 2026 21:53:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.588106"
-      },
-      "f68c7c301a90bc0480071b421bbace31bacb72e11177b2d4468fd4975d3e7f94": {
-        "title": "天谱乐大模型发布4.7，让AI音乐更懂“二次创作”｜独家",
-        "link": "https://www.tmtpost.com/8070478.html",
-        "published_date": "Sat, 18 Jul 2026 20:14:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.588107"
-      },
       "ae228e43cdb11400c81f7ffdba222ee20f42574d778b18f6b621867b9b2b3d0e": {
         "title": "苹果AI入华，把“灵魂”交给阿里、百度",
         "link": "https://www.tmtpost.com/8070495.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8101913.html",
         "published_date": "Mon, 17 Aug 2026 13:39:00 GMT",
         "first_seen": "2026-08-17T23:19:44.628397"
+      },
+      "487618655d31c8fec3511993f76c9d0d303531b4e9bd8eacc3134e2df48ffa3e": {
+        "title": "OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮",
+        "link": "https://www.tmtpost.com/8106969.html",
+        "published_date": "Tue, 18 Aug 2026 12:47:00 GMT",
+        "first_seen": "2026-08-18T05:26:22.091374"
+      },
+      "73f6ad234f171074409858fc4e5a962eea6c6311bc409b7fa6b4c1d1cd885bad": {
+        "title": "阿里“大生态”退潮，AI成唯一主线",
+        "link": "https://www.tmtpost.com/8106658.html",
+        "published_date": "Tue, 18 Aug 2026 11:13:00 GMT",
+        "first_seen": "2026-08-18T05:26:22.091386"
+      },
+      "c1b3810f203ba49278e5dc8c87a836185e502cfc4e5ac3c83d29f2b62baffd97": {
+        "title": "GitHub 加固默认安全策略，延时防护与软件包签名之争引热议",
+        "link": "https://www.infoq.cn/article/t0bchRo0KBVZFRTPwPXt?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Aug 2026 11:46:00 GMT",
+        "first_seen": "2026-08-18T05:26:22.091388"
+      },
+      "85de7f3b238d13697547c7292c6fdb1656c8392dfdcdcebd82d1cff9d1bf2ece": {
+        "title": "Cloudflare 推出 Precursor，通过持续性行为分析识别恶意机器人与 AI 自动化程序",
+        "link": "https://www.infoq.cn/article/7QNfsJhpgskMtVllCpWJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Aug 2026 10:58:00 GMT",
+        "first_seen": "2026-08-18T05:26:22.091390"
+      },
+      "a761a447aba692c6ddad4c693f557abc6789d53ae7c9c7f78b5687af6c3b4d9c": {
+        "title": "宇树发布「机器超人」：原地跳高 2m；豆包上线新功能，手机可远程控制电脑；吉利汽车架构调整，李书福辞任董事会主席｜极客早知道",
+        "link": "http://www.geekpark.net/news/368929",
+        "published_date": "Tue, 18 Aug 2026 07:55:00 GMT",
+        "first_seen": "2026-08-18T05:26:22.091392"
       }
     },
     "Finance": {
-      "2ca57985f5ff58aeae8959570d6eaa082e8f940441e8257445b693f08883f7d6": {
-        "title": "US strikes Iran after two American troops are killed in Jordan",
-        "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-        "published_date": "Sat, 18 Jul 2026 22:54:00 GMT",
-        "first_seen": "2026-07-18T23:51:44.498952"
-      },
-      "46e52be2720a89eb130d3da2b5ee6cf7786674a977d81291169b1c78530426b1": {
-        "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
-        "link": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
-        "published_date": "Sat, 18 Jul 2026 17:22:00 GMT",
-        "first_seen": "2026-07-18T23:51:44.498960"
-      },
-      "f7d2a35ae8bb222785a6115ac5bf1125243a27380047e033d2a410087adc7d92": {
-        "title": "Traders are increasingly betting against SpaceX just weeks after IPO",
-        "link": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
-        "published_date": "Sat, 18 Jul 2026 11:00:00 GMT",
-        "first_seen": "2026-07-18T23:51:44.498963"
-      },
-      "f5cf2549bed494aca5bdd85fa62bbc619b1cf7afa744b742e2bcf205809a6ee1": {
-        "title": "Netflix is spending big money on sports. Is the company making the right bets?",
-        "link": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-        "published_date": "Sat, 18 Jul 2026 18:54:00 GMT",
-        "first_seen": "2026-07-18T23:51:44.498965"
-      },
-      "58c752be1466b5207f0a1a6c47ba3080578eeb919e8635585687d2add7a08db0": {
-        "title": "These are the obstacles still keeping women from retirement security",
-        "link": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
-        "published_date": "Sat, 18 Jul 2026 18:48:00 GMT",
-        "first_seen": "2026-07-18T23:51:44.498967"
-      },
       "432f3aaa271ea82f658e47b1400c04175158c1314ff4a56c6f2a757da755090d": {
         "title": "Singapore weighs hedge fund tax cuts to rival Hong Kong",
         "link": "https://www.ft.com/content/d3221c90-c2a4-4bdd-8e0d-6e069bf0ca25?syn-25a6b1a6=1",
@@ -4767,39 +4737,39 @@
         "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
         "published_date": "Mon, 17 Aug 2026 19:48:00 GMT",
         "first_seen": "2026-08-17T23:19:59.925753"
+      },
+      "72ecee3ef1ed2c37574fabba5a0adaa80c376d1011868a5f9ebbc7c2121bec69": {
+        "title": "‘Not worth the squeeze’: global private equity makes zero deals in China",
+        "link": "https://www.ft.com/content/55cb2786-c7ef-438e-8830-c3dc2c1452ce?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.364903"
+      },
+      "a68b12e45b287ae2b54910dc1bfee88db0ccf7250c7e7870ad83255288391301": {
+        "title": "AI hasn’t gone rogue. It’s worse than that",
+        "link": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.364910"
+      },
+      "6309d46b812cf0f9fc7173adc6fdf7785eec41faa422217ddd3ed6dc663be984": {
+        "title": "Chris Hohn’s hedge fund bets on Italian luxury hotels",
+        "link": "https://www.ft.com/content/351cf8e1-cdef-46a9-ac32-b2e76c72ed1a?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.364912"
+      },
+      "01e54965e0c46e723fadccef0430256c517c5765a62123396a3ae97df45dfd75": {
+        "title": "Airlines in ‘stand-off’ over price cuts as jet fuel costs ease",
+        "link": "https://www.ft.com/content/9d8f4215-4d19-43df-ab81-b9f8adb057c8?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.364914"
+      },
+      "aa1d2ad4264b512be1b7b344927907c958dc32ffdbc749f89c844fd9ea29786b": {
+        "title": "Trump ballroom official held quiet Kremlin talks",
+        "link": "https://www.ft.com/content/d88a8878-425d-4225-bda4-576c6c42734e?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.364916"
       }
     },
     "Ai": {
-      "c79cf8ec7b40670a412e4c855aa4b646bd5dfec9f8d780489fae9abb19488ef1": {
-        "title": "WAIC看了一圈，这家公司的机器人在认真打工",
-        "link": "https://www.qbitai.com/2026/07/454040.html",
-        "published_date": "Sat, 18 Jul 2026 13:23:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.709014"
-      },
-      "fae3e3031887ff98e31b6b3c2726683dc37a6db74b00b9de95321716bb74f096": {
-        "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
-        "link": "https://www.qbitai.com/2026/07/454015.html",
-        "published_date": "Sat, 18 Jul 2026 11:19:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.709022"
-      },
-      "0f0670c6c108a7fcdf0751b9e4e424e539b5cb6bfd0c1cab30923ec7d8a9d01d": {
-        "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
-        "link": "https://www.qbitai.com/2026/07/454003.html",
-        "published_date": "Sat, 18 Jul 2026 11:04:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.709024"
-      },
-      "dc0914c33ead73f27eabc167a86ebf7fc52c61711768d3133ee9d35b79298238": {
-        "title": "让VLA更懂接触，优理奇UniTac让机器人拥有“触觉想象力”",
-        "link": "https://www.qbitai.com/2026/07/453897.html",
-        "published_date": "Sat, 18 Jul 2026 10:55:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.709026"
-      },
-      "55ca4b33baf5ca3c507122374fa442e1644d90df21bef558ea30930c516c82a0": {
-        "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
-        "link": "https://www.qbitai.com/2026/07/453889.html",
-        "published_date": "Sat, 18 Jul 2026 10:12:00 GMT",
-        "first_seen": "2026-07-18T23:52:01.709027"
-      },
       "4d4221c520d9c872e05b602abe5b1bd1791909e6514c0719fde2ee42dffb8ebf": {
         "title": "WAIC 2026 | 摩尔线程首次公开多项训练推理实践成果，三大“AI工厂”持续释放算力价值",
         "link": "https://www.qbitai.com/2026/07/454170.html",
@@ -6113,13 +6083,31 @@
         "link": "https://www.qbitai.com/2026/08/474518.html",
         "published_date": "Mon, 17 Aug 2026 09:04:00 GMT",
         "first_seen": "2026-08-17T23:20:00.070277"
+      },
+      "1c540abd5db612c9f9bd447f96b67664cfd95a1a1f07551a2f6d97c398c29374": {
+        "title": "2026-08-18日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-18/",
+        "published_date": "Tue, 18 Aug 2026 11:47:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.494354"
+      },
+      "3697ed1a8f5d52cff7d8d8d950be1c40d1915a88c7bf39ff82d407cce564044a": {
+        "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
+        "link": "https://www.qbitai.com/2026/08/474647.html",
+        "published_date": "Tue, 18 Aug 2026 04:40:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.494363"
+      },
+      "e4bb41f1e3a9f1deb4fe4094a11f15ccd80a7ef80e62946c15d451411dd6dc46": {
+        "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
+        "link": "https://www.qbitai.com/2026/08/474611.html",
+        "published_date": "Tue, 18 Aug 2026 03:31:00 GMT",
+        "first_seen": "2026-08-18T05:26:37.494365"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-17T23:19:44.628399",
-    "Finance": "2026-08-17T23:19:59.925755",
-    "Ai": "2026-08-17T23:20:00.070279"
+    "Technology": "2026-08-18T05:26:22.091394",
+    "Finance": "2026-08-18T05:26:37.364918",
+    "Ai": "2026-08-18T05:26:37.494366"
   }
 }
