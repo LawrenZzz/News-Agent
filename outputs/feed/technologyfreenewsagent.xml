@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 18 Aug 2026 05:26:00 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2026 05:26:22 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 08:31:00 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:32:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮</title>
-      <link>https://www.tmtpost.com/8106969.html</link>
-      <description>&lt;![CDATA[OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 12:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8106969.html</guid>
+      <title>GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者</title>
+      <link>https://www.tmtpost.com/8106430.html</link>
+      <description>&lt;![CDATA[GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 13:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8106430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里“大生态”退潮，AI成唯一主线</title>
-      <link>https://www.tmtpost.com/8106658.html</link>
-      <description>&lt;![CDATA[阿里“大生态”退潮，AI成唯一主线]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8106658.html</guid>
+      <title>Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中</title>
+      <link>https://www.infoq.cn/article/sjSVpfSFB3cQwzP3lMHZ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 10:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sjSVpfSFB3cQwzP3lMHZ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 加固默认安全策略，延时防护与软件包签名之争引热议</title>
-      <link>https://www.infoq.cn/article/t0bchRo0KBVZFRTPwPXt?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 加固默认安全策略，延时防护与软件包签名之争引热议]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 11:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/t0bchRo0KBVZFRTPwPXt?utm_source=rss&amp;utm_medium=article</guid>
+      <title>共识之外：Linux 生态系统中 AI 政策的碎片化现象</title>
+      <link>https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[共识之外：Linux 生态系统中 AI 政策的碎片化现象]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 推出 Precursor，通过持续性行为分析识别恶意机器人与 AI 自动化程序</title>
-      <link>https://www.infoq.cn/article/7QNfsJhpgskMtVllCpWJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 推出 Precursor，通过持续性行为分析识别恶意机器人与 AI 自动化程序]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 10:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7QNfsJhpgskMtVllCpWJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里云的野心，不在 Agent Builder</title>
+      <link>https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里云的野心，不在 Agent Builder]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>宇树发布「机器超人」：原地跳高 2m；豆包上线新功能，手机可远程控制电脑；吉利汽车架构调整，李书福辞任董事会主席｜极客早知道</title>
-      <link>http://www.geekpark.net/news/368929</link>
-      <description>&lt;![CDATA[宇树发布「机器超人」：原地跳高 2m；豆包上线新功能，手机可远程控制电脑；吉利汽车架构调整，李书福辞任董事会主席｜极客早知道]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 07:55:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/368929</guid>
+      <title>模型跑起来之后：视觉 AI 还需要哪些系统能力？</title>
+      <link>https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模型跑起来之后：视觉 AI 还需要哪些系统能力？]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 11:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ae228e43cdb11400c81f7ffdba222ee20f42574d778b18f6b621867b9b2b3d0e": {
-        "title": "苹果AI入华，把“灵魂”交给阿里、百度",
-        "link": "https://www.tmtpost.com/8070495.html",
-        "published_date": "Sun, 19 Jul 2026 08:54:00 GMT",
-        "first_seen": "2026-07-19T07:27:26.776600"
-      },
-      "586f75a7e9c66b219de1ef26fec9699e231a15aaba819a26ad8b270a2e3f6c25": {
-        "title": "腾讯发布三大具身基座模型，打通“感知—行动”闭环，工业实测成功率超95%",
-        "link": "https://www.infoq.cn/article/uD0p2FcQE2JKSwYY1wXK?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Jul 2026 07:55:00 GMT",
-        "first_seen": "2026-07-19T07:27:26.776606"
-      },
-      "29364b97266b39c8a1dae55470359c647ce26364b5c700f1a098243c1fa2e21a": {
-        "title": "Databricks估值飙升1880亿美元，CEO：采用中国开源模型是AI成本控制关键一环",
-        "link": "https://www.tmtpost.com/8070738.html",
-        "published_date": "Sun, 19 Jul 2026 13:04:00 GMT",
-        "first_seen": "2026-07-19T07:27:26.776608"
-      },
-      "288d766cf53d40118db0c41bb4f23150efb2eae320ad92daeee690b092212fec": {
-        "title": "边端AI不只缺算力：安谋科技重做CPU、NPU、VPU与AI操作系统",
-        "link": "https://www.infoq.cn/article/iIoJ2qhXbXCH2ozGqCJ6?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Jul 2026 11:09:00 GMT",
-        "first_seen": "2026-07-19T07:27:26.776610"
-      },
-      "4ff2e2e6a527f97263b1acfeea45a024288da80709cea994f8bf7a8d6ceedac2": {
-        "title": "从大模型到 AI 执行系统：构建企业级可控 Agent 体系｜AICon深圳",
-        "link": "https://www.infoq.cn/article/eTGhBWBHXum6AuVU45Ab?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 19 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-19T07:27:26.776612"
-      },
       "769d6d191a21b98902caa78f6c1c7824bb8e385bc23177446b7242cee15c068f": {
         "title": "八位顶尖科学家一起开公司，田渊栋首揭46.5亿美元创业内幕",
         "link": "https://www.tmtpost.com/8070765.html",
@@ -2551,39 +2521,39 @@
         "link": "http://www.geekpark.net/news/368929",
         "published_date": "Tue, 18 Aug 2026 07:55:00 GMT",
         "first_seen": "2026-08-18T05:26:22.091392"
+      },
+      "01f2ea45c8657517c9f68a02f05f274347396f5d22d9f68fb93007de16189b23": {
+        "title": "GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者",
+        "link": "https://www.tmtpost.com/8106430.html",
+        "published_date": "Tue, 18 Aug 2026 13:48:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.156547"
+      },
+      "06f9d2ae6fae97582dfa235ba1e39ebd996ac53b5fc1023458c5a2bfd65d2ab9": {
+        "title": "Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中",
+        "link": "https://www.infoq.cn/article/sjSVpfSFB3cQwzP3lMHZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Aug 2026 10:38:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.156557"
+      },
+      "2f85c0427851fb22b9eff103d2326659c46cd0fa3ee50c6c0b10ada14fbb83ef": {
+        "title": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+        "link": "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Aug 2026 16:15:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.156560"
+      },
+      "f72df34fa8c6ff4c10a7208918522d0c354a14ce2d9f33367ec79b93c8f25c41": {
+        "title": "阿里云的野心，不在 Agent Builder",
+        "link": "https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Aug 2026 15:32:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.156562"
+      },
+      "33139cd17a452d4ea00dc1563f25f0e971cab4d3449ef356b024344a6c98930f": {
+        "title": "模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+        "link": "https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 18 Aug 2026 11:17:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.156563"
       }
     },
     "Finance": {
-      "432f3aaa271ea82f658e47b1400c04175158c1314ff4a56c6f2a757da755090d": {
-        "title": "Singapore weighs hedge fund tax cuts to rival Hong Kong",
-        "link": "https://www.ft.com/content/d3221c90-c2a4-4bdd-8e0d-6e069bf0ca25?syn-25a6b1a6=1",
-        "published_date": "Sun, 19 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-19T07:27:04.780073"
-      },
-      "ee21683acbe56768cfaeb713006261d37cb3c483f1009bf83cf10d752477187a": {
-        "title": "Chinese leaders zero in on need for stimulus for economy",
-        "link": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
-        "published_date": "Sun, 19 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-19T07:27:04.780082"
-      },
-      "1d9590d7d6f0cb347641f285b95031a64a6344045a33cf8cad0136089fe3442c": {
-        "title": "Luxury groups face inventory squeeze under EU destruction ban",
-        "link": "https://www.ft.com/content/2578648c-967f-4d9d-8ec0-b22a205ece7f?syn-25a6b1a6=1",
-        "published_date": "Sun, 19 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-19T07:27:04.780085"
-      },
-      "4cf8e48cf1b48a262b5518a30ab697e31c35f23379f967020e582f918f63121c": {
-        "title": "Why ‘rightwing’ is no longer such a dirty word in Britain",
-        "link": "https://www.ft.com/content/658e1eb4-2c33-4755-8f44-0261d24dd1b7?syn-25a6b1a6=1",
-        "published_date": "Sun, 19 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-19T07:27:04.780086"
-      },
-      "22f4988a0df3667d6f3f503c267e49377d33a6d7fc9d1d1759f5831bd4d5bbd8": {
-        "title": "UK seeks extradition of Andrew and Tristan Tate after arrest in Miami",
-        "link": "https://www.ft.com/content/fee3f969-f592-4735-8d99-e7ab3049d194",
-        "published_date": "Sun, 19 Jul 2026 01:38:00 GMT",
-        "first_seen": "2026-07-19T07:27:04.780088"
-      },
       "c4dc8285b99bf545ce400d4e1ffccddd4d5596bf6d7c1b908b550e4ee1f492e4": {
         "title": "US strikes Iran after two American troops killed in Jordan",
         "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
@@ -4770,36 +4740,6 @@
       }
     },
     "Ai": {
-      "4d4221c520d9c872e05b602abe5b1bd1791909e6514c0719fde2ee42dffb8ebf": {
-        "title": "WAIC 2026 | 摩尔线程首次公开多项训练推理实践成果，三大“AI工厂”持续释放算力价值",
-        "link": "https://www.qbitai.com/2026/07/454170.html",
-        "published_date": "Sun, 19 Jul 2026 06:23:00 GMT",
-        "first_seen": "2026-07-19T07:27:39.813869"
-      },
-      "59566456d259fa0f1cc45ad53a1fb5c32d1b417e6e4c211ecfd87f95d3b588d8": {
-        "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
-        "link": "https://www.qbitai.com/2026/07/453802.html",
-        "published_date": "Sun, 19 Jul 2026 01:01:00 GMT",
-        "first_seen": "2026-07-19T07:27:39.813875"
-      },
-      "b776ef6f472ae02d27bdc3dd57b7f3005f66dd9e709a2e06c996b0df56f7d716": {
-        "title": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式",
-        "link": "https://www.qbitai.com/2026/07/454165.html",
-        "published_date": "Sun, 19 Jul 2026 05:38:00 GMT",
-        "first_seen": "2026-07-19T07:27:39.813878"
-      },
-      "1b5ad0656c12269ed66ab47b96ae93db82b96107ebe350d64f2c09a2fa4a07f7": {
-        "title": "魔法原子Magic-VLA K02攻克叠盒封胶长程任务，成功率超90%",
-        "link": "https://www.qbitai.com/2026/07/454155.html",
-        "published_date": "Sun, 19 Jul 2026 02:36:00 GMT",
-        "first_seen": "2026-07-19T07:27:39.813879"
-      },
-      "1031638e5d763d3ccb2092daca3f1ae9b4eed0ce95bdc401c0963b5de6dcbcc1": {
-        "title": "这，可能是今年WAIC最惊艳的图片！",
-        "link": "https://www.qbitai.com/2026/07/454049.html",
-        "published_date": "Sun, 19 Jul 2026 02:08:00 GMT",
-        "first_seen": "2026-07-19T07:27:39.813881"
-      },
       "9ed2cadcc0dc0d713a4eeea26e7165a171481cc969448b00bf7dd1b4b7a71700": {
         "title": "看了20万小时「人类干活实录」，机器人悟了",
         "link": "https://www.qbitai.com/2026/07/454592.html",
@@ -6101,13 +6041,31 @@
         "link": "https://www.qbitai.com/2026/08/474611.html",
         "published_date": "Tue, 18 Aug 2026 03:31:00 GMT",
         "first_seen": "2026-08-18T05:26:37.494365"
+      },
+      "9ef941377167cfa74f0c343ca35e6fe1b4cf45f27bf230429c5e4a7acb5ccbaa": {
+        "title": "今日起，阿里“千问办公”接入企业微信",
+        "link": "https://www.qbitai.com/2026/08/474803.html",
+        "published_date": "Tue, 18 Aug 2026 07:17:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.340097"
+      },
+      "d8ef78867cebbcb159f650d40be81ed013c69f4fd5eb3a4fc8eeeb7fb671cae8": {
+        "title": "吉利汽车业绩高点，李书福激流勇退",
+        "link": "https://www.qbitai.com/2026/08/474736.html",
+        "published_date": "Tue, 18 Aug 2026 06:46:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.340105"
+      },
+      "064aa466405e9c96ccbd6a63ee95c1a759946fe7648b60faa0ce2796222ea84b": {
+        "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
+        "link": "https://www.qbitai.com/2026/08/474673.html",
+        "published_date": "Tue, 18 Aug 2026 05:58:00 GMT",
+        "first_seen": "2026-08-18T08:32:08.340107"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-18T05:26:22.091394",
+    "Technology": "2026-08-18T08:32:08.156566",
     "Finance": "2026-08-18T05:26:37.364918",
-    "Ai": "2026-08-18T05:26:37.494366"
+    "Ai": "2026-08-18T08:32:08.340109"
   }
 }
