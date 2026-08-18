@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 18 Aug 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2026 08:32:08 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 23:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:22:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者</title>
-      <link>https://www.tmtpost.com/8106430.html</link>
-      <description>&lt;![CDATA[GitHub宕机七小时，代码世界的“权威源”第一次有了挑战者]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 13:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8106430.html</guid>
+      <title>英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账</title>
+      <link>https://www.tmtpost.com/8107418.html</link>
+      <description>&lt;![CDATA[英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8107418.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中</title>
-      <link>https://www.infoq.cn/article/sjSVpfSFB3cQwzP3lMHZ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Dario “破防小作文”超千万人围观！LeCun 开炮：信任危机是因为你搞权力集中]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 10:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sjSVpfSFB3cQwzP3lMHZ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>新能源渗透率首破60%——“上半场”赢了，“下半场”更难</title>
+      <link>https://www.tmtpost.com/8107232.html</link>
+      <description>&lt;![CDATA[新能源渗透率首破60%——“上半场”赢了，“下半场”更难]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 21:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8107232.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>共识之外：Linux 生态系统中 AI 政策的碎片化现象</title>
-      <link>https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[共识之外：Linux 生态系统中 AI 政策的碎片化现象]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 16:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI收入连续两个季度过半，百度换了一张估值表</title>
+      <link>https://www.tmtpost.com/8107731.html</link>
+      <description>&lt;![CDATA[AI收入连续两个季度过半，百度换了一张估值表]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8107731.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里云的野心，不在 Agent Builder</title>
-      <link>https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里云的野心，不在 Agent Builder]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阿里退出游戏，出售灵犀互娱为哪般？</title>
+      <link>https://www.tmtpost.com/8107193.html</link>
+      <description>&lt;![CDATA[阿里退出游戏，出售灵犀互娱为哪般？]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 21:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8107193.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>模型跑起来之后：视觉 AI 还需要哪些系统能力？</title>
-      <link>https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[模型跑起来之后：视觉 AI 还需要哪些系统能力？]]&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 11:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&amp;utm_medium=article</guid>
+      <title>银行风控逻辑开始&quot;看Token不看砖头&quot;了</title>
+      <link>https://www.tmtpost.com/8106372.html</link>
+      <description>&lt;![CDATA[银行风控逻辑开始&quot;看Token不看砖头&quot;了]]&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8106372.html</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "769d6d191a21b98902caa78f6c1c7824bb8e385bc23177446b7242cee15c068f": {
-        "title": "八位顶尖科学家一起开公司，田渊栋首揭46.5亿美元创业内幕",
-        "link": "https://www.tmtpost.com/8070765.html",
-        "published_date": "Sun, 19 Jul 2026 16:28:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.177067"
-      },
-      "59d5c5abcbfeed7ab51d4907aebc144a52f8a59cf3afc8645e642c55b881956a": {
-        "title": "SK海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子",
-        "link": "https://www.tmtpost.com/8070798.html",
-        "published_date": "Sun, 19 Jul 2026 16:26:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.177073"
-      },
-      "a5600c1f2102c29bbe271032c108365b73e92a24f62ac9982a55f3045e59541c": {
-        "title": "大模型进不了内网之后，企业 AI 的生意才真正开始",
-        "link": "https://www.tmtpost.com/8070771.html",
-        "published_date": "Sun, 19 Jul 2026 16:15:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.177075"
-      },
-      "b5109dde41430e4fe985d031a7c9f5e55bb79a2d4cea882696ef9cbb024113b8": {
-        "title": "努比亚、阶跃、荣耀，谁在定义AI手机？",
-        "link": "https://www.tmtpost.com/8070760.html",
-        "published_date": "Sun, 19 Jul 2026 16:31:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.177077"
-      },
-      "1890abce2e994cbd2e7a8e28b3d298ae0a590489e1973a40386c437edbd39267": {
-        "title": "高校花钱查 AI，学生花钱降 AI",
-        "link": "https://www.tmtpost.com/8070745.html",
-        "published_date": "Sun, 19 Jul 2026 16:31:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.177079"
-      },
       "44cb00a83765788c42ac46ebb3475ccd46280ecf3d1ec82597c4ab3b853caad1": {
         "title": "谷歌发布A2UI v0.9：可移植、框架无关的生成式UI",
         "link": "https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&utm_medium=article",
@@ -2551,15 +2521,39 @@
         "link": "https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 18 Aug 2026 11:17:00 GMT",
         "first_seen": "2026-08-18T08:32:08.156563"
+      },
+      "6d457ceb02d2dad4c28df00b38cc8136d126f1b4673a7ef2ea71be7b134f8aa2": {
+        "title": "英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账",
+        "link": "https://www.tmtpost.com/8107418.html",
+        "published_date": "Tue, 18 Aug 2026 17:21:00 GMT",
+        "first_seen": "2026-08-18T23:22:12.826897"
+      },
+      "81a419cd41c6dde830d78f98e6bdeca7707b316fdcffdab8f7449e6cec95dd34": {
+        "title": "新能源渗透率首破60%——“上半场”赢了，“下半场”更难",
+        "link": "https://www.tmtpost.com/8107232.html",
+        "published_date": "Tue, 18 Aug 2026 21:58:00 GMT",
+        "first_seen": "2026-08-18T23:22:12.826908"
+      },
+      "0923ec107864bf8e95cf143f66044db07e44d498077c3ae13891b4dba25a392a": {
+        "title": "AI收入连续两个季度过半，百度换了一张估值表",
+        "link": "https://www.tmtpost.com/8107731.html",
+        "published_date": "Tue, 18 Aug 2026 21:01:00 GMT",
+        "first_seen": "2026-08-18T23:22:12.826911"
+      },
+      "0f78722e108a264f82a7a423e7950c24bee42702a1c85efb216919349e011279": {
+        "title": "阿里退出游戏，出售灵犀互娱为哪般？",
+        "link": "https://www.tmtpost.com/8107193.html",
+        "published_date": "Tue, 18 Aug 2026 21:39:00 GMT",
+        "first_seen": "2026-08-18T23:22:12.826913"
+      },
+      "e2ad20ff0119a0af3fc6521446bc332b9f7c769d25b18edcf168294a7c4dd0bd": {
+        "title": "银行风控逻辑开始\"看Token不看砖头\"了",
+        "link": "https://www.tmtpost.com/8106372.html",
+        "published_date": "Tue, 18 Aug 2026 16:10:00 GMT",
+        "first_seen": "2026-08-18T23:22:12.826915"
       }
     },
     "Finance": {
-      "c4dc8285b99bf545ce400d4e1ffccddd4d5596bf6d7c1b908b550e4ee1f492e4": {
-        "title": "US strikes Iran after two American troops killed in Jordan",
-        "link": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-        "published_date": "Sun, 19 Jul 2026 09:13:00 GMT",
-        "first_seen": "2026-07-19T09:50:21.769859"
-      },
       "3038203917fe1a02f2a6f6d2a73f35d80039a9c28f6f635e68b5c26f1302508d": {
         "title": "China’s ‘national team’ buys shares worth $9bn to prop up market",
         "link": "https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
@@ -4737,21 +4731,39 @@
         "link": "https://www.ft.com/content/d88a8878-425d-4225-bda4-576c6c42734e?syn-25a6b1a6=1",
         "published_date": "Tue, 18 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-18T05:26:37.364916"
+      },
+      "a3a452dd76ae33ebf325c2fa93cf8e24f062ae78c58e80b1bf0987896ff8eaab": {
+        "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+        "link": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
+        "published_date": "Tue, 18 Aug 2026 22:31:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.312519"
+      },
+      "eb885ca0c554ffb6ec934266a19a3d90de8c55ccbacb56bc5fc27f10f01d6dd3": {
+        "title": "US chip stocks slide as government borrowing costs hit multiyear highs",
+        "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 20:36:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.312526"
+      },
+      "41f9d275931102d21885eb49e60807725619533e8fddc4250825cc19257ab0af": {
+        "title": "Soaring diesel prices rip across US economy",
+        "link": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 19:33:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.312529"
+      },
+      "3dc497f5078574af9febfbd8c8fa6f70c8f5988ac704cf21580eb6db694508fd": {
+        "title": "Canada faces deadline to stop US tariffs on $20bn of exports",
+        "link": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
+        "published_date": "Tue, 18 Aug 2026 22:58:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.312531"
+      },
+      "d73346922c8f7cddb6b30e0326e005cf14d511a4808e95ef40fb55e27cfca5c7": {
+        "title": "After an Alzheimer’s diagnosis it’s not to late to get your finances in order",
+        "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
+        "published_date": "Tue, 18 Aug 2026 20:44:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.312533"
       }
     },
     "Ai": {
-      "9ed2cadcc0dc0d713a4eeea26e7165a171481cc969448b00bf7dd1b4b7a71700": {
-        "title": "看了20万小时「人类干活实录」，机器人悟了",
-        "link": "https://www.qbitai.com/2026/07/454592.html",
-        "published_date": "Sun, 19 Jul 2026 08:32:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.298855"
-      },
-      "8bda14fdb3f11baf4d052c6df1ca4d17dd56ee864dbf20fe046a94412aa2d677": {
-        "title": "2026-07-19日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-19/",
-        "published_date": "Sun, 19 Jul 2026 10:35:00 GMT",
-        "first_seen": "2026-07-19T09:50:42.298862"
-      },
       "1a20da13b06c4f300c9ef90606c90ac965a96f95a2301445c2151fdf2193b6ae": {
         "title": "刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛",
         "link": "https://www.qbitai.com/2026/07/455277.html",
@@ -6059,13 +6071,43 @@
         "link": "https://www.qbitai.com/2026/08/474673.html",
         "published_date": "Tue, 18 Aug 2026 05:58:00 GMT",
         "first_seen": "2026-08-18T08:32:08.340107"
+      },
+      "a1cf87991908aa406fe97c8b4f9d910a80ef7d74aaf7ff771fc9d146b8fb943e": {
+        "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+        "link": "https://www.qbitai.com/2026/08/474907.html",
+        "published_date": "Tue, 18 Aug 2026 11:07:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.456683"
+      },
+      "2d46b5dba1f321f3575c27ed8554a85b731f5f7b5ab9b5e9326ae6eae850a95c": {
+        "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
+        "link": "https://www.qbitai.com/2026/08/474868.html",
+        "published_date": "Tue, 18 Aug 2026 10:40:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.456692"
+      },
+      "6aa76e660bf1ece13f3c66b5d52947dd630d1d6b65fcc33ca2c3c64062407251": {
+        "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+        "link": "https://www.qbitai.com/2026/08/474857.html",
+        "published_date": "Tue, 18 Aug 2026 10:04:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.456695"
+      },
+      "8ac1da73fb57a3d983df174f950a3afffeb42757081b77326cd0cf098f9bc863": {
+        "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
+        "link": "https://www.qbitai.com/2026/08/474838.html",
+        "published_date": "Tue, 18 Aug 2026 09:57:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.456696"
+      },
+      "f1edbadae9f9d216213f6705908811c037e1f1838b68fdbf10e957a04bbc50e5": {
+        "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "link": "https://www.qbitai.com/2026/08/474840.html",
+        "published_date": "Tue, 18 Aug 2026 09:38:00 GMT",
+        "first_seen": "2026-08-18T23:22:33.456698"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-18T08:32:08.156566",
-    "Finance": "2026-08-18T05:26:37.364918",
-    "Ai": "2026-08-18T08:32:08.340109"
+    "Technology": "2026-08-18T23:22:12.826917",
+    "Finance": "2026-08-18T23:22:33.312535",
+    "Ai": "2026-08-18T23:22:33.456700"
   }
 }
