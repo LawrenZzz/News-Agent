@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Aug 2026 05:29:00 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 05:29:38 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 23:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:21:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>对话前DeepMind曹原：AI for Science爆发，一个新时代到来了</title>
-      <link>https://www.tmtpost.com/8107695.html</link>
-      <description>&lt;![CDATA[对话前DeepMind曹原：AI for Science爆发，一个新时代到来了]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8107695.html</guid>
+      <title>独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线</title>
+      <link>http://www.geekpark.net/news/369051</link>
+      <description>&lt;![CDATA[独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 20:29:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369051</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>市值4449亿，人形机器人第一股来了！</title>
-      <link>https://www.tmtpost.com/8108353.html</link>
-      <description>&lt;![CDATA[市值4449亿，人形机器人第一股来了！]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8108353.html</guid>
+      <title>对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能</title>
+      <link>https://www.tmtpost.com/8109017.html</link>
+      <description>&lt;![CDATA[对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 18:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8109017.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当开源大模型开始谈分成</title>
-      <link>https://www.tmtpost.com/8107377.html</link>
-      <description>&lt;![CDATA[当开源大模型开始谈分成]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8107377.html</guid>
+      <title>告别“堆卡”：2026，中国算力开启“Token价值产出”大考</title>
+      <link>https://www.tmtpost.com/8108840.html</link>
+      <description>&lt;![CDATA[告别“堆卡”：2026，中国算力开启“Token价值产出”大考]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 17:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8108840.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI能拆解动作，却拆不出那个&quot;咔哒一声&quot;：从泳池到企业软件，同一个真相</title>
-      <link>https://www.tmtpost.com/8105748.html</link>
-      <description>&lt;![CDATA[AI能拆解动作，却拆不出那个&quot;咔哒一声&quot;：从泳池到企业软件，同一个真相]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 11:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8105748.html</guid>
+      <title>苹果牵手阿里、特斯拉绑定字节：全球AI下半场，中国坐庄了？</title>
+      <link>https://www.tmtpost.com/8108375.html</link>
+      <description>&lt;![CDATA[苹果牵手阿里、特斯拉绑定字节：全球AI下半场，中国坐庄了？]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 17:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8108375.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>百度和小米，都到了换挡关口</title>
-      <link>https://www.tmtpost.com/8108368.html</link>
-      <description>&lt;![CDATA[百度和小米，都到了换挡关口]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 10:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8108368.html</guid>
+      <title>支付宝何以不再执念DAU</title>
+      <link>https://www.tmtpost.com/8109230.html</link>
+      <description>&lt;![CDATA[支付宝何以不再执念DAU]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8109230.html</guid>
       <category>Technology</category>
     </item>
   </channel>
