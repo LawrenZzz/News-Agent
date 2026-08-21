@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Aug 2026 05:28:00 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 05:29:07 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 08:35:00 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:35:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WRC2026：机器人产业的竞争，正在从本体转向大脑</title>
-      <link>https://www.tmtpost.com/8111037.html</link>
-      <description>&lt;![CDATA[WRC2026：机器人产业的竞争，正在从本体转向大脑]]&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8111037.html</guid>
+      <title>造AI的人比用AI的人更分裂：李飞飞捅破了这层窗户纸</title>
+      <link>https://www.tmtpost.com/8111815.html</link>
+      <description>&lt;![CDATA[造AI的人比用AI的人更分裂：李飞飞捅破了这层窗户纸]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8111815.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网</title>
-      <link>https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网]]&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 10:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI智能体之间也会“传染”：Anthropic揭示“思维病毒”</title>
+      <link>https://www.tmtpost.com/8108120.html</link>
+      <description>&lt;![CDATA[AI智能体之间也会“传染”：Anthropic揭示“思维病毒”]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8108120.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI基建大决战</title>
-      <link>https://www.tmtpost.com/8111160.html</link>
-      <description>&lt;![CDATA[AI基建大决战]]&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8111160.html</guid>
+      <title>小红书悄悄开源发布了自己的大模型，内容平台也要造底座</title>
+      <link>http://www.geekpark.net/news/369161</link>
+      <description>&lt;![CDATA[小红书悄悄开源发布了自己的大模型，内容平台也要造底座]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369161</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达、SK海力士：必须拿下CPO！</title>
-      <link>https://www.tmtpost.com/8110816.html</link>
-      <description>&lt;![CDATA[英伟达、SK海力士：必须拿下CPO！]]&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8110816.html</guid>
+      <title>初级岗位消失、高级人才断层：下一代高级工程师从哪里来？</title>
+      <link>https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[初级岗位消失、高级人才断层：下一代高级工程师从哪里来？]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>「算力」成为新一代「房产」</title>
-      <link>https://www.tmtpost.com/8111576.html</link>
-      <description>&lt;![CDATA[「算力」成为新一代「房产」]]&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 12:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8111576.html</guid>
+      <title>“AI4S”进入深水区，国产算力如何满足需求？丨ToB产业观察</title>
+      <link>https://www.tmtpost.com/8111478.html</link>
+      <description>&lt;![CDATA[“AI4S”进入深水区，国产算力如何满足需求？丨ToB产业观察]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8111478.html</guid>
       <category>Technology</category>
     </item>
   </channel>

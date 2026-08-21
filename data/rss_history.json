@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c59e117d66d66c6b23a35b43d86694c66ac0d9418bfaeea3ca400d60ccff9339": {
-        "title": "安谋科技公开新一代NPU架构 并牵头发起开源AI操作系统联盟",
-        "link": "https://www.tmtpost.com/8073630.html",
-        "published_date": "Wed, 22 Jul 2026 12:50:00 GMT",
-        "first_seen": "2026-07-22T07:33:47.747273"
-      },
-      "a3d2236616716ac9d2ec4f5d2e6b1ec8070e16918b2bb21d21902d7d0e3a419d": {
-        "title": "Kimi K3爆火引发“算力荒”，“不着急上市”的杨植麒急了？",
-        "link": "https://www.tmtpost.com/8074520.html",
-        "published_date": "Wed, 22 Jul 2026 14:32:00 GMT",
-        "first_seen": "2026-07-22T07:33:47.747280"
-      },
-      "c9b2387618bab310df47848f0262021e99d6a9b24c3eb2e4d568b0f00c357660": {
-        "title": "西部数据展示百TB硬盘路线图：HAMR与ePMR双线并进，2029年冲刺100TB",
-        "link": "https://www.tmtpost.com/8074085.html",
-        "published_date": "Wed, 22 Jul 2026 12:31:00 GMT",
-        "first_seen": "2026-07-22T07:33:47.747283"
-      },
-      "f9b03b7eea78e446154bd299c9f7d2036c113eb79c8a2093e3f9b8999a0ce996": {
-        "title": "大厂AI入口大战升级，谁是最能干活的桌面Agent？",
-        "link": "https://www.tmtpost.com/8074357.html",
-        "published_date": "Wed, 22 Jul 2026 11:57:00 GMT",
-        "first_seen": "2026-07-22T07:33:47.747285"
-      },
-      "5f9119b9726a5a83f4d5883ba77b14db18b4d2ac5efcbb979805f82ead1b4948": {
-        "title": "京东押注物理 AI，打通数字到物理世界的链路",
-        "link": "https://www.tmtpost.com/8072404.html",
-        "published_date": "Wed, 22 Jul 2026 12:35:00 GMT",
-        "first_seen": "2026-07-22T07:33:47.747286"
-      },
       "79ee4d8d47db22df5db4678778309ecd9881f00df817a10b9e8590bcba375f7b": {
         "title": "上海WAIC深度观察：模型隐身，Agent疯野",
         "link": "https://www.tmtpost.com/8074627.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8111576.html",
         "published_date": "Fri, 21 Aug 2026 12:23:00 GMT",
         "first_seen": "2026-08-21T05:29:07.082855"
+      },
+      "ed28ad03c42e90f06a3a0ca5a0c03119809dc67f55a950b5ad3d6c19da41a340": {
+        "title": "造AI的人比用AI的人更分裂：李飞飞捅破了这层窗户纸",
+        "link": "https://www.tmtpost.com/8111815.html",
+        "published_date": "Fri, 21 Aug 2026 16:11:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.127089"
+      },
+      "c472617c6ba7950bbab48e11abd3cf17358d209382571730159c675f5cfdada6": {
+        "title": "AI智能体之间也会“传染”：Anthropic揭示“思维病毒”",
+        "link": "https://www.tmtpost.com/8108120.html",
+        "published_date": "Fri, 21 Aug 2026 14:53:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.127099"
+      },
+      "d8af34a3476ae8d09cba33f41d3a523e06d7c0b3428869a3f0c4637dc46f131f": {
+        "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
+        "link": "http://www.geekpark.net/news/369161",
+        "published_date": "Fri, 21 Aug 2026 14:12:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.127102"
+      },
+      "79be538f7b60a86553661bb6cd885ca7eae99a017f7186a9b07c7d280d16d59e": {
+        "title": "初级岗位消失、高级人才断层：下一代高级工程师从哪里来？",
+        "link": "https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 12:00:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.127104"
+      },
+      "912c9f1e3b035236d229ecb5b9daa6b64e718e45619288f1053af11146ab00fa": {
+        "title": "“AI4S”进入深水区，国产算力如何满足需求？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/8111478.html",
+        "published_date": "Fri, 21 Aug 2026 11:10:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.127106"
       }
     },
     "Finance": {
-      "958f9fa819a505a000a37d66c331538b2b988ec16331a4b898555e973a689239": {
-        "title": "Samsung in talks to invest in Mistral at €20bn valuation",
-        "link": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:33:27.623376"
-      },
-      "d5999540b684bd0559c049309b81e02bdf29c953b2a0fe4be05813387728f7bb": {
-        "title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
-        "link": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 00:11:00 GMT",
-        "first_seen": "2026-07-22T07:33:27.623387"
-      },
-      "e09514fb2a8a00eb1528bf4444cc2c19e38d8adae7e897ec306d97e19880d645": {
-        "title": "UK ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek",
-        "link": "https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:33:27.623390"
-      },
-      "bd4fbad943b08c7f292e2d79146c0771889ec867ffcd1bc48204cf24cfcd8062": {
-        "title": "Who will win the war of neo-mercantilists?",
-        "link": "https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:33:27.623392"
-      },
-      "9cf85b0bf766bdb6c0111a8b960db59ea6124b6a4129fcf990af027c08021b2b": {
-        "title": "The US has collected about $13bn of Venezuela’s oil money. Where is it?",
-        "link": "https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:33:27.623394"
-      },
       "814fc6ef3612a253e4a6d75fb1116d95296c2c75b31c533b399f5c583d2b3034": {
         "title": "The ECB is expected to hold rates. But analysts say hawkish hints could be coming — and a hike isn’t impossible",
         "link": "https://www.marketwatch.com/story/the-ecb-is-expected-to-hold-rates-but-analysts-say-hawkish-hints-could-be-coming-and-a-hike-isnt-impossible-b92463bf?mod=mw_rss_topstories",
@@ -4743,39 +4713,15 @@
         "link": "https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1",
         "published_date": "Fri, 21 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-21T05:29:55.571330"
+      },
+      "608855dfafcf3e23b87f985d5257149537d2c625a7de8422ee37c1e248250a82": {
+        "title": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM",
+        "link": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 07:17:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.177118"
       }
     },
     "Ai": {
-      "47107877874d21b928b0e649f63d3e67356730f1451a84880274fa17cee5e127": {
-        "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
-        "link": "https://www.qbitai.com/2026/07/456178.html",
-        "published_date": "Wed, 22 Jul 2026 01:46:00 GMT",
-        "first_seen": "2026-07-22T07:33:59.185364"
-      },
-      "f562d8fd992017e503852539b1f062964bdc14a4bc094a813330bd3792998a45": {
-        "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
-        "link": "https://www.qbitai.com/2026/07/456728.html",
-        "published_date": "Wed, 22 Jul 2026 03:06:00 GMT",
-        "first_seen": "2026-07-22T07:33:59.185371"
-      },
-      "2fc86c000292c6f526dcee1ada9db096cbef3ea937996a6df9ceffa8cc6cc14d": {
-        "title": "我在WAIC 2026看见的十大趋势",
-        "link": "https://www.qbitai.com/2026/07/456974.html",
-        "published_date": "Wed, 22 Jul 2026 03:46:00 GMT",
-        "first_seen": "2026-07-22T07:33:59.185374"
-      },
-      "8b4330bfcca710e6246437f2d1097718ff36a0999c49d9c39624419fc6d10667": {
-        "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
-        "link": "https://www.qbitai.com/2026/07/457054.html",
-        "published_date": "Wed, 22 Jul 2026 05:47:00 GMT",
-        "first_seen": "2026-07-22T07:33:59.185376"
-      },
-      "08416e0d12fd44e2ddf744bca5763237818a91250359a19963d7b7ff9e8239b6": {
-        "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-        "link": "https://www.qbitai.com/2026/07/457049.html",
-        "published_date": "Wed, 22 Jul 2026 04:10:00 GMT",
-        "first_seen": "2026-07-22T07:33:59.185377"
-      },
       "af6fe40386b195dffa344125933bf227ad04846c1c5eed79f18b79fa73bac64c": {
         "title": "2026-07-22日刊",
         "link": "https://hex2077.dev/docs/2026-07/2026-07-22/",
@@ -6077,13 +6023,25 @@
         "link": "https://www.qbitai.com/2026/08/476413.html",
         "published_date": "Fri, 21 Aug 2026 03:14:00 GMT",
         "first_seen": "2026-08-21T05:30:21.397605"
+      },
+      "a6b0316e74f320f3d88555bb3edc70cf296fb44fd339e65255996d2cd9111dd5": {
+        "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+        "link": "https://www.qbitai.com/2026/08/476591.html",
+        "published_date": "Fri, 21 Aug 2026 06:40:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.317561"
+      },
+      "32a2b8ab41f6b356b340a6504ce0783edd3236fdf3f4869b4af9ce1debe606c8": {
+        "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+        "link": "https://www.qbitai.com/2026/08/476532.html",
+        "published_date": "Fri, 21 Aug 2026 05:38:00 GMT",
+        "first_seen": "2026-08-21T08:35:45.317570"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-21T05:29:07.082858",
-    "Finance": "2026-08-21T05:29:55.571333",
-    "Ai": "2026-08-21T05:30:21.397607"
+    "Technology": "2026-08-21T08:35:45.127108",
+    "Finance": "2026-08-21T08:35:45.177128",
+    "Ai": "2026-08-21T08:35:45.317572"
   }
 }
