@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Aug 2026 08:32:00 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 08:39:06 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 05:27:00 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 05:30:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？</title>
-      <link>https://www.qbitai.com/2026/08/476120.html</link>
-      <description>&lt;![CDATA[宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？]]&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 06:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476120.html</guid>
+      <title>Jeff Dean离职后首次公开访谈火力有点猛。。。</title>
+      <link>https://www.qbitai.com/2026/08/476468.html</link>
+      <description>&lt;![CDATA[Jeff Dean离职后首次公开访谈火力有点猛。。。]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 04:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476468.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5</title>
+      <link>https://www.qbitai.com/2026/08/476199.html</link>
+      <description>&lt;![CDATA[闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476199.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%</title>
+      <link>https://www.qbitai.com/2026/08/476409.html</link>
+      <description>&lt;![CDATA[国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 02:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476409.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>首批！优必选行者具身智能大模型完成生成式人工智能服务备案</title>
+      <link>https://www.qbitai.com/2026/08/476406.html</link>
+      <description>&lt;![CDATA[首批！优必选行者具身智能大模型完成生成式人工智能服务备案]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 02:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476406.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…</title>
+      <link>https://www.qbitai.com/2026/08/476413.html</link>
+      <description>&lt;![CDATA[WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…]]&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 03:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/476413.html</guid>
       <category>Ai</category>
     </item>
   </channel>
