@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "79ee4d8d47db22df5db4678778309ecd9881f00df817a10b9e8590bcba375f7b": {
-        "title": "上海WAIC深度观察：模型隐身，Agent疯野",
-        "link": "https://www.tmtpost.com/8074627.html",
-        "published_date": "Wed, 22 Jul 2026 16:18:00 GMT",
-        "first_seen": "2026-07-22T10:24:26.563707"
-      },
-      "0dc999e1f20ffdfbda63559fe01813144905384e48a1da61b4ced3955fd1eab7": {
-        "title": "AI竞争，为什么先比算力？",
-        "link": "https://www.tmtpost.com/8074544.html",
-        "published_date": "Wed, 22 Jul 2026 16:32:00 GMT",
-        "first_seen": "2026-07-22T10:24:26.563715"
-      },
-      "588a3ec70bd2fc056bf4f6f1220a791d58c5c0e6fc9a2b20e7a3f17872950d4e": {
-        "title": "不靠最强模型也能赢？谷歌正用一款“冷冻”芯片复制搜索时代的“全栈碾压”",
-        "link": "https://www.infoq.cn/article/QGd73qDEWeoy1HxshQMH?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 16:45:00 GMT",
-        "first_seen": "2026-07-22T10:24:26.563717"
-      },
-      "0c6228043c18f83743c020130ca800923139a84b3dccabd884b12a966b3118ab": {
-        "title": "Jiuwen Symbiosis深度解析：从数字世界走向物理世界，为Physical AI打造Symbiosis (共生)",
-        "link": "https://www.infoq.cn/article/BmyIPDkVKj11vspmB6su?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 12:10:00 GMT",
-        "first_seen": "2026-07-22T10:24:26.563719"
-      },
-      "77082cbc56a08159adca91873e480f838d38bcc826070ac786b12f97af3aa06d": {
-        "title": "西部数据 Tim Rausch：AI不是只有GPU，数据最终还要回到存储系统",
-        "link": "https://www.infoq.cn/article/d5wZmCfW9GSEA7FMg40C?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 14:12:00 GMT",
-        "first_seen": "2026-07-22T10:24:26.563720"
-      },
       "6ebd32ae85621dd8a8049cb1871606be3ea413e3b9d09e87c176d9ec98feacfb": {
         "title": "深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深",
         "link": "https://www.tmtpost.com/8075899.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8111478.html",
         "published_date": "Fri, 21 Aug 2026 11:10:00 GMT",
         "first_seen": "2026-08-21T08:35:45.127106"
+      },
+      "f06d15e344ddadbc916c3e0ab1245f3da2f6f33c112f0590493810a3300463ad": {
+        "title": "Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？",
+        "link": "https://www.tmtpost.com/8111837.html",
+        "published_date": "Fri, 21 Aug 2026 18:12:00 GMT",
+        "first_seen": "2026-08-21T23:21:15.029941"
+      },
+      "e477b388ac9efa127c1d64d39bd5ee859fdfa1ffde6c85ff7ad04ffcc5a695c3": {
+        "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "link": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 17:00:00 GMT",
+        "first_seen": "2026-08-21T23:21:15.029951"
+      },
+      "14246b235136241941bf647b070ef63c1740371df44410794f01822836eb85b9": {
+        "title": "宇树4449亿封神：人形机器人的时代，正式开盘",
+        "link": "https://www.tmtpost.com/8110854.html",
+        "published_date": "Fri, 21 Aug 2026 10:10:00 GMT",
+        "first_seen": "2026-08-21T23:21:15.029954"
+      },
+      "67b4d563a40742e77d91bef7f04f7166d4f3177547feda1ea739434e5630485f": {
+        "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
+        "link": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 14:25:00 GMT",
+        "first_seen": "2026-08-21T23:21:15.029956"
+      },
+      "d34c264f9029456cc0d7e2cf66ea94d1e3bf1d07d7ce4ac3afab484ae067eab8": {
+        "title": "具身机器人的万亿狂欢，在等待工厂的一张复购单",
+        "link": "https://www.tmtpost.com/8111584.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:21:15.029958"
       }
     },
     "Finance": {
-      "814fc6ef3612a253e4a6d75fb1116d95296c2c75b31c533b399f5c583d2b3034": {
-        "title": "The ECB is expected to hold rates. But analysts say hawkish hints could be coming — and a hike isn’t impossible",
-        "link": "https://www.marketwatch.com/story/the-ecb-is-expected-to-hold-rates-but-analysts-say-hawkish-hints-could-be-coming-and-a-hike-isnt-impossible-b92463bf?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 10:01:00 GMT",
-        "first_seen": "2026-07-22T10:24:03.472175"
-      },
-      "2d86b24705611792efd1235da07902ab6132923810adc4a6d251f5c69283ce19": {
-        "title": "Oil rises past $95 after Trump threatens further Iran escalation",
-        "link": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 08:08:00 GMT",
-        "first_seen": "2026-07-22T10:24:03.472186"
-      },
-      "bd6bc2529caf463bb15c27fc0e71140d2f2cfb80f290c39e1561fd70bdfa0ea5": {
-        "title": "Goldman Sachs and Morgan Stanley had a monster quarter. Analysts say these giants could be next.",
-        "link": "https://www.marketwatch.com/story/goldman-sachs-and-morgan-stanley-had-a-monster-quarter-analysts-say-these-giants-could-be-next-47b42e15?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 09:44:00 GMT",
-        "first_seen": "2026-07-22T10:24:03.472190"
-      },
-      "3a119a42330ef6f8dfa2a65837127b65c16aa413ec7e6b802f815fa1d88448c8": {
-        "title": "I wanted to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
-        "link": "https://www.marketwatch.com/story/i-wanted-to-transfer-17-000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-4-000-credit-limit-7ad0a3f0?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 10:15:00 GMT",
-        "first_seen": "2026-07-22T10:24:03.472192"
-      },
-      "102cbd2ba581e0d6b12adbdf9d3fe5d9b37017cd77abb2e0eb8a117cd75990f9": {
-        "title": "This could be the right time to buy a momentum fund",
-        "link": "https://www.marketwatch.com/story/this-could-be-the-right-time-to-buy-a-momentum-fund-05e7a1fa?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-22T10:24:03.472194"
-      },
       "cc17a198258312fdb166d6dd50fc9e85d15bb7b13f2a69276a27b799964977f2": {
         "title": "IBM just cut its outlook, but not by as much as investors feared",
         "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
@@ -4719,15 +4689,39 @@
         "link": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
         "published_date": "Fri, 21 Aug 2026 07:17:00 GMT",
         "first_seen": "2026-08-21T08:35:45.177118"
+      },
+      "f784bb1bef464876490b151cbc0c5820a522e811c9be49ef98678bb39b63d2f1": {
+        "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+        "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 20:11:00 GMT",
+        "first_seen": "2026-08-21T23:21:32.920537"
+      },
+      "7066f0f08d38eb9ab6cc2882055d9676b780216bf3d2e7c227ee50fb2e4dbce4": {
+        "title": "The bond scare and the balance of power",
+        "link": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
+        "published_date": "Fri, 21 Aug 2026 14:10:00 GMT",
+        "first_seen": "2026-08-21T23:21:32.920543"
+      },
+      "a1192f25838550ea36c0d0940c6e877dfad0927d6f00e8dcfb8b74e4e17be250": {
+        "title": "Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar",
+        "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 21:46:00 GMT",
+        "first_seen": "2026-08-21T23:21:32.920546"
+      },
+      "10bf2ced1c2c78960566d2b7830330e29ebd1274573b19ae6f7f691012fedcee": {
+        "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
+        "link": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 18:29:00 GMT",
+        "first_seen": "2026-08-21T23:21:32.920548"
+      },
+      "4cfede5c9e275858237f7107716e43236af597c9dcc1e9eb31dac7a8c959ea5d": {
+        "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
+        "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 22:27:00 GMT",
+        "first_seen": "2026-08-21T23:21:32.920549"
       }
     },
     "Ai": {
-      "af6fe40386b195dffa344125933bf227ad04846c1c5eed79f18b79fa73bac64c": {
-        "title": "2026-07-22日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-22/",
-        "published_date": "Wed, 22 Jul 2026 10:38:00 GMT",
-        "first_seen": "2026-07-22T10:24:26.683578"
-      },
       "4e3c5cf2935d1136d1cef9a9d3eb803756dc6844a749aac77ce1081bf26e4e34": {
         "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
         "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
@@ -6035,13 +6029,43 @@
         "link": "https://www.qbitai.com/2026/08/476532.html",
         "published_date": "Fri, 21 Aug 2026 05:38:00 GMT",
         "first_seen": "2026-08-21T08:35:45.317570"
+      },
+      "44dbc6e138f6896e9de9a8113bd65d70ae427d2e935abcc06f89339a6d4135e1": {
+        "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+        "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+        "published_date": "Fri, 21 Aug 2026 17:02:00 GMT",
+        "first_seen": "2026-08-21T23:21:33.049928"
+      },
+      "a580917d164c8aed670f3ae155b6d3c94bba6f697276a1850cadf5a2c829ce0a": {
+        "title": "How mobility gives language models a deeper understanding of place",
+        "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+        "published_date": "Fri, 21 Aug 2026 10:54:00 GMT",
+        "first_seen": "2026-08-21T23:21:33.049935"
+      },
+      "5309160ae25803ef587d26c1d1a2c61ea9fbe96bf32bc68a7308c152f40cddd3": {
+        "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+        "link": "https://www.qbitai.com/2026/08/476778.html",
+        "published_date": "Fri, 21 Aug 2026 11:47:00 GMT",
+        "first_seen": "2026-08-21T23:21:33.049937"
+      },
+      "47eb67ce63e9e01778548ecd34dad821fc1ee05d88f39981b29f1b682ff2823a": {
+        "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+        "link": "https://www.qbitai.com/2026/08/476733.html",
+        "published_date": "Fri, 21 Aug 2026 09:44:00 GMT",
+        "first_seen": "2026-08-21T23:21:33.049939"
+      },
+      "21176a46ffbd3e4c4d894c3d310c4a3441d50c69f3206827859b2b59a61fe06f": {
+        "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+        "link": "https://www.qbitai.com/2026/08/476628.html",
+        "published_date": "Fri, 21 Aug 2026 09:00:00 GMT",
+        "first_seen": "2026-08-21T23:21:33.049940"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-21T08:35:45.127108",
-    "Finance": "2026-08-21T08:35:45.177128",
-    "Ai": "2026-08-21T08:35:45.317572"
+    "Technology": "2026-08-21T23:21:15.029960",
+    "Finance": "2026-08-21T23:21:32.920552",
+    "Ai": "2026-08-21T23:21:33.049941"
   }
 }
