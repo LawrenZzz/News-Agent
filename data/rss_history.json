@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6ebd32ae85621dd8a8049cb1871606be3ea413e3b9d09e87c176d9ec98feacfb": {
-        "title": "深圳上市公司价值重估：金融与硬科技托举上限，创新密度背后分化加深",
-        "link": "https://www.tmtpost.com/8075899.html",
-        "published_date": "Wed, 22 Jul 2026 23:17:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.408539"
-      },
-      "c13dc67faeb097d22661511ae0aa253f829ce42e535ab806250e1fccec8fea0d": {
-        "title": "【钛晨报】体育强国建设“十五五”规划发布，到2030年产业规模破7万亿元；OpenAI计划到2030年云支出达7500亿美元；北京国管：已统筹自有资金累计投入近百亿元布局股票市场",
-        "link": "https://www.tmtpost.com/8075793.html",
-        "published_date": "Thu, 23 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.408549"
-      },
-      "6530ad4ec666cdbcad8346787134e8e47e6420e1ce7525b99426b6139df76d23": {
-        "title": "驱动 Agentic Enterprise：让企业上下文转化为可治理的 Agentic 行动 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/shzCr5FsOcHUyBc8CEsj?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 18:44:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.408551"
-      },
-      "a17d80b43e7070b5620d1f564acc1acba69bd2688d8b8572cffe686218ea01aa": {
-        "title": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？",
-        "link": "https://sspai.com/post/112545",
-        "published_date": "Wed, 22 Jul 2026 17:43:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.408552"
-      },
-      "c9d01628ba68186c350cd6df5cd89e697ea3753a739bbe2c3b53d33850232b24": {
-        "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
-        "link": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 17:46:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.408554"
-      },
       "bf5d6ebae96b0f49fce300b5b818b912c54dbb7e823d8b3e941525c8879894f9": {
         "title": "郑纬民院士：国产算力的瓶颈不在芯片，在生态",
         "link": "https://www.tmtpost.com/8075814.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8111584.html",
         "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
         "first_seen": "2026-08-21T23:21:15.029958"
+      },
+      "00aa6292496c67e8900179016b8618fe20bb66da1b2ae89f62d87ee408b8a134": {
+        "title": "微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车",
+        "link": "http://www.geekpark.net/news/369206",
+        "published_date": "Sat, 22 Aug 2026 08:23:00 GMT",
+        "first_seen": "2026-08-22T05:24:36.409311"
+      },
+      "b5841ccfaeb9d00cccf90facce2d91b77b92ce052672d8352e68fac6771a64b7": {
+        "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
+        "link": "https://www.tmtpost.com/8112064.html",
+        "published_date": "Sat, 22 Aug 2026 10:11:00 GMT",
+        "first_seen": "2026-08-22T05:24:36.409320"
+      },
+      "44475cb9265dcadf0f3b0297194ea4f9a01e563ff8341507ab6ab17195843b15": {
+        "title": "国产存储开始补齐最后一块缺口",
+        "link": "https://www.tmtpost.com/8112231.html",
+        "published_date": "Sat, 22 Aug 2026 09:42:00 GMT",
+        "first_seen": "2026-08-22T05:24:36.409323"
+      },
+      "5dd315fa467945e87f2aad79723a93d656647fb6de57ee887a598c696d627c3a": {
+        "title": "阿里接力赛：淘天见顶，外卖降权，算力狂飙，AI赌未来",
+        "link": "https://www.tmtpost.com/8112056.html",
+        "published_date": "Sat, 22 Aug 2026 10:04:00 GMT",
+        "first_seen": "2026-08-22T05:24:36.409325"
+      },
+      "d251532f593f58086b65b04255446915a9c402a2d74a6b513142baecb2bffe92": {
+        "title": "npm 终于动手了：默认封杀 postinstall 脚本",
+        "link": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 22 Aug 2026 11:05:00 GMT",
+        "first_seen": "2026-08-22T05:24:36.409327"
       }
     },
     "Finance": {
-      "cc17a198258312fdb166d6dd50fc9e85d15bb7b13f2a69276a27b799964977f2": {
-        "title": "IBM just cut its outlook, but not by as much as investors feared",
-        "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 21:39:00 GMT",
-        "first_seen": "2026-07-23T00:01:38.260251"
-      },
-      "af5209f1b16a62763d23334c39fd65583d6f7160e0addc45f4c26058a98ffb6f": {
-        "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-        "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 21:01:00 GMT",
-        "first_seen": "2026-07-23T00:01:38.260262"
-      },
-      "0c4c3b6d04aed28129896201ca4a3f53db5e14f356bf041d91ead20d15854236": {
-        "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-        "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 20:19:00 GMT",
-        "first_seen": "2026-07-23T00:01:38.260265"
-      },
-      "f56ede1537676e6cea40ae3d14a53a09d04a7d82f4a467421ef665d9ae8bd425": {
-        "title": "The Treasury market touches a worrying milestone not seen since 2007",
-        "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 20:13:00 GMT",
-        "first_seen": "2026-07-23T00:01:38.260267"
-      },
-      "25dd706ee7530a767a99b899a5ae6d4a72df5a0a9f6edf69d369b1c5c5dc098a": {
-        "title": "Google burns through $6bn in cash as AI spending climbs again",
-        "link": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 22:39:00 GMT",
-        "first_seen": "2026-07-23T00:01:38.260276"
-      },
       "863403024993b740afa08af2cc8dd8c4a80bbc934bffbd4aa9ec192604a0a8bf": {
         "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
         "link": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
@@ -4719,27 +4689,39 @@
         "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
         "published_date": "Fri, 21 Aug 2026 22:27:00 GMT",
         "first_seen": "2026-08-21T23:21:32.920549"
+      },
+      "48d40bcd0df314e77683d3251d3d0995b0d7c79d4fb94d2752044cd3429c162f": {
+        "title": "Canada vows to match US tariffs as trade talks collapse",
+        "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+        "published_date": "Sat, 22 Aug 2026 04:51:00 GMT",
+        "first_seen": "2026-08-22T05:24:46.418954"
+      },
+      "cc8a31c809c76403cc588b2cb12f6728f8e7ff9152df924a416605c8f8dbfc60": {
+        "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel",
+        "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
+        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-22T05:24:46.418961"
+      },
+      "c98ee51d951eb6ff4cc145b66ba9bacfbb150796ddf2f2e2df2ccd0ca6d22d42": {
+        "title": "Bossing the bond market around never works",
+        "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
+        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-22T05:24:46.418964"
+      },
+      "63a18121c73236a4953c10c2ba4315572bdbbc5ad102fff8dfd1e6aeb8d67e36": {
+        "title": "EU slips further behind US in race for critical minerals",
+        "link": "https://www.ft.com/content/c6220205-ee40-4b71-95c0-d53399a17cd1?syn-25a6b1a6=1",
+        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-22T05:24:46.418966"
+      },
+      "595d5849b5111ec25ba40b396882fba327b2ad5ab88d33ddaea83b184c3f0138": {
+        "title": "Qatar cuts state spending at home and abroad as war shrinks economy",
+        "link": "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1",
+        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-22T05:24:46.418968"
       }
     },
     "Ai": {
-      "4e3c5cf2935d1136d1cef9a9d3eb803756dc6844a749aac77ce1081bf26e4e34": {
-        "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
-        "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-        "published_date": "Wed, 22 Jul 2026 21:32:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.498244"
-      },
-      "c53f9a0f4555e0fa38b5698f0178c886c10db8fd1e991c1d83eeb195b2675dea": {
-        "title": "Towards a quantum computer that learns from its errors",
-        "link": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-        "published_date": "Wed, 22 Jul 2026 18:40:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.498252"
-      },
-      "25a632e217c02623a26290155b3d02f6220fe6ffa65de8e8081e22ecdd8b210b": {
-        "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
-        "link": "https://www.qbitai.com/2026/07/457223.html",
-        "published_date": "Wed, 22 Jul 2026 17:35:00 GMT",
-        "first_seen": "2026-07-23T00:02:10.498253"
-      },
       "f3a1fa3f912a9e0cd3ba0314d1d35c114b44a1fe25d0ec596a01c9fd2a4442f4": {
         "title": "芯片卖了56万片之后，阿里平头哥把最值钱的东西开源了",
         "link": "https://www.qbitai.com/2026/07/457405.html",
@@ -6064,8 +6046,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-21T23:21:15.029960",
-    "Finance": "2026-08-21T23:21:32.920552",
+    "Technology": "2026-08-22T05:24:36.409329",
+    "Finance": "2026-08-22T05:24:46.418971",
     "Ai": "2026-08-21T23:21:33.049941"
   }
 }
