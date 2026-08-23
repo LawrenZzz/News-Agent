@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "379da7b0787b1bbcdcf46f2ccd58d0b6f397680bf419d0192259dd312c15634f": {
-        "title": "算力短缺，巨头疯抢“超节点”",
-        "link": "https://www.tmtpost.com/8077782.html",
-        "published_date": "Fri, 24 Jul 2026 14:43:00 GMT",
-        "first_seen": "2026-07-24T07:31:00.539199"
-      },
-      "f29338d560da420d6699f29cb6b381a085769da4c6568fc7206ffd81081c1d1b": {
-        "title": "曦智科技沈亦晨：算力逼近物理极限，光将驱动AI基础设施变革",
-        "link": "https://www.tmtpost.com/8078233.html",
-        "published_date": "Fri, 24 Jul 2026 14:23:00 GMT",
-        "first_seen": "2026-07-24T07:31:00.539206"
-      },
-      "a5f4ffe1621ffacd3836e4b21c869eaf7e82de3aef9790036e84ee24c0d9bbb9": {
-        "title": "对话芯展速许玮：“内存墙”下，AI缺的是GPU的“放大器”",
-        "link": "https://www.tmtpost.com/8078123.html",
-        "published_date": "Fri, 24 Jul 2026 12:44:00 GMT",
-        "first_seen": "2026-07-24T07:31:00.539209"
-      },
-      "6d10e03b73d8b6937313f44dd3c0f2a344e4922969cddad2d432e693fef73538": {
-        "title": "圆桌访谈：具身智能的落地分水岭——哪些场景真的跑出了商业闭环？",
-        "link": "https://www.infoq.cn/video/8dRT4X0eMoQA8xP9YB7q?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Jul 2026 10:58:00 GMT",
-        "first_seen": "2026-07-24T07:31:00.539211"
-      },
-      "9409bbb6d8fbbe211a1da77172456e0cec6d5f5b3cfba72b5471eae169e83726": {
-        "title": "AI手机的“皇帝新衣”",
-        "link": "https://www.tmtpost.com/8077783.html",
-        "published_date": "Fri, 24 Jul 2026 14:43:00 GMT",
-        "first_seen": "2026-07-24T07:31:00.539213"
-      },
       "fba7e3bd686bde88226f856c2218f930a77c05eb5e51513d3e7c1598f7672e56": {
         "title": "“脑机接口第一股”，IPO倒计时",
         "link": "https://www.tmtpost.com/8078394.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8113108.html",
         "published_date": "Sun, 23 Aug 2026 11:11:00 GMT",
         "first_seen": "2026-08-23T05:26:35.370520"
+      },
+      "267a1e31ffd0fe9e24a50ffc3592ecbdd7a1db515618c97f69e0fbd1181cab40": {
+        "title": "伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？",
+        "link": "https://www.tmtpost.com/8113322.html",
+        "published_date": "Sun, 23 Aug 2026 16:13:00 GMT",
+        "first_seen": "2026-08-23T08:28:26.377221"
+      },
+      "c8f730792ee0c2207a1a37056990e978a5b91aadbb1c0b706468289e0bd9a1af": {
+        "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "link": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 23 Aug 2026 14:09:00 GMT",
+        "first_seen": "2026-08-23T08:28:26.377232"
+      },
+      "0056cffa2f92f13025e07cab5a349009235d2c9b5e9aa85357f88bafb678b4d0": {
+        "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
+        "link": "http://www.geekpark.net/news/369215",
+        "published_date": "Sun, 23 Aug 2026 08:20:00 GMT",
+        "first_seen": "2026-08-23T08:28:26.377235"
+      },
+      "5118bf067d8ba66d2be19f2386b753e2022fa6dbc5113553e9712ffd6ca2c403": {
+        "title": "阿里七年来最大的资本运作",
+        "link": "https://www.tmtpost.com/8113306.html",
+        "published_date": "Sun, 23 Aug 2026 16:03:00 GMT",
+        "first_seen": "2026-08-23T08:28:26.377238"
+      },
+      "972e5cd655c1da86f78bc0f521a9eb992c37982f5d677c033c0273ac3a4cd975": {
+        "title": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话",
+        "link": "https://www.tmtpost.com/8111128.html",
+        "published_date": "Sun, 23 Aug 2026 10:42:00 GMT",
+        "first_seen": "2026-08-23T08:28:26.377241"
       }
     },
     "Finance": {
-      "49455ee6fd078869d62061e415d5ceadc12fe79dac0adce0a65483ae15fde160": {
-        "title": "Russia’s biggest online retailer becomes target in Ukraine drone war",
-        "link": "https://www.ft.com/content/5c9ae967-8e85-470f-974b-43667cc6f1c1?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 06:48:00 GMT",
-        "first_seen": "2026-07-24T07:30:41.892723"
-      },
-      "32a4881a90df9dbbeec5899aa0474012cfce99e2d553a2d331ffb169e054a1a4": {
-        "title": "Oil hits $100 as Trump weighs ‘massive attack’",
-        "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 04:33:00 GMT",
-        "first_seen": "2026-07-24T07:30:41.892733"
-      },
-      "746c80863c2fbc4be9e4db0efe3657fb587f324a4a55e02ab0e525f12f812cce": {
-        "title": "The field marshal’s gambit",
-        "link": "https://www.ft.com/content/4b680401-648e-48ea-a52b-ad7a76370872?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-24T07:30:41.892736"
-      },
-      "bb10594815d04ccdaa39cfb229764a3b2cba3f0526fad747131124650ca3b4b9": {
-        "title": "Welcome to the era of financial candyfloss",
-        "link": "https://www.ft.com/content/7bcf8215-fd76-4620-bdc3-8c1b0ea13bba?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-24T07:30:41.892738"
-      },
-      "f836fd17ef47fd082e736ef1d5417b9c6d21fd180552ec59dbda65923af5b531": {
-        "title": "South Korea’s cash-rich winners of AI boom go on US buying spree",
-        "link": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 03:06:00 GMT",
-        "first_seen": "2026-07-24T07:30:41.892745"
-      },
       "09f65c9d53dd8b46d3678ed9d2f9bcd04027c8ec6ed54acc5a2d9176ed913b63": {
         "title": "Here’s how much revenue S&P 500 companies make from overseas",
         "link": "https://www.marketwatch.com/story/heres-how-much-revenue-s-p-500-companies-make-from-overseas-ce10f434?mod=mw_rss_topstories",
@@ -4692,36 +4662,6 @@
       }
     },
     "Ai": {
-      "854d536eaa95f04b72c572d01f330cd0c9266d784eb346ac1b486e1c50517e5e": {
-        "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
-        "link": "https://www.qbitai.com/2026/07/457792.html",
-        "published_date": "Fri, 24 Jul 2026 01:48:00 GMT",
-        "first_seen": "2026-07-24T07:31:16.309473"
-      },
-      "555f17f116c929a6a58454947cdccbbcb48e04b1f69c5438d2bc93ba59538882": {
-        "title": "李飞飞学生发起国际具身人类数据标准，光轮智能成唯一参与中国企业",
-        "link": "https://www.qbitai.com/2026/07/457920.html",
-        "published_date": "Fri, 24 Jul 2026 03:27:00 GMT",
-        "first_seen": "2026-07-24T07:31:16.309480"
-      },
-      "1f5975831e4ee8605674c5298c744e788a4457c17748610df9b99d1cc6b7241b": {
-        "title": "嚯！35家大型央国企实测后，因果世界模型落地了",
-        "link": "https://www.qbitai.com/2026/07/458357.html",
-        "published_date": "Fri, 24 Jul 2026 04:21:00 GMT",
-        "first_seen": "2026-07-24T07:31:16.309482"
-      },
-      "d5e16facae62286b725756ed6c454edb6aeb9a454faa9bf297c54a5835c69565": {
-        "title": "10万字速记一口吞，金山办公新Agent开始直接交活了",
-        "link": "https://www.qbitai.com/2026/07/458438.html",
-        "published_date": "Fri, 24 Jul 2026 04:45:00 GMT",
-        "first_seen": "2026-07-24T07:31:16.309484"
-      },
-      "e4a7780b0318cb649390bec27689dd5ffa6099b6978c965abfe997228ed05a7a": {
-        "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
-        "link": "https://www.qbitai.com/2026/07/458687.html",
-        "published_date": "Fri, 24 Jul 2026 05:41:00 GMT",
-        "first_seen": "2026-07-24T07:31:16.309485"
-      },
       "b653573193d84c138202d0853dcbcc47587aabad2343bde28cddb2c23374e2f7": {
         "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
         "link": "https://www.qbitai.com/2026/07/459262.html",
@@ -5993,13 +5933,19 @@
         "link": "https://www.qbitai.com/2026/08/476965.html",
         "published_date": "Sat, 22 Aug 2026 08:53:00 GMT",
         "first_seen": "2026-08-23T05:26:57.015954"
+      },
+      "e009bc6fe8dbc3f3698b2cb91e2de981f4c2d58569a74284cd007565085cbb63": {
+        "title": "2026-08-23日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-23/",
+        "published_date": "Sun, 23 Aug 2026 10:34:00 GMT",
+        "first_seen": "2026-08-23T08:28:26.559227"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-23T05:26:35.370522",
+    "Technology": "2026-08-23T08:28:26.377244",
     "Finance": "2026-08-23T05:26:43.954016",
-    "Ai": "2026-08-23T05:26:57.015956"
+    "Ai": "2026-08-23T08:28:26.559235"
   }
 }
