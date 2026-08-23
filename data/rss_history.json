@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "32c15d361eaea224352b9d436ac7e6dacd119097b6c1f8e54ebeb6f589a643b9": {
-        "title": "智源最新研究提出警报：大模型智能体可能带来生物安全风险",
-        "link": "https://www.tmtpost.com/8077514.html",
-        "published_date": "Thu, 23 Jul 2026 20:59:00 GMT",
-        "first_seen": "2026-07-23T23:57:50.217496"
-      },
-      "2443ef5fc33f9f01bb4f1a26351d49f4faa0d541c798a03c7bb601afd1f26e9d": {
-        "title": "华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”",
-        "link": "https://www.tmtpost.com/8077591.html",
-        "published_date": "Thu, 23 Jul 2026 20:58:00 GMT",
-        "first_seen": "2026-07-23T23:57:50.217503"
-      },
-      "3a7a9e0a6eba06257a78fd0a21ca674d793f0f84e2f2f0577e6479f79282390a": {
-        "title": "梁文锋投资人闭门会实录（全）：DeepSeek的AGI之路与“克制”哲学",
-        "link": "https://www.tmtpost.com/8076737.html",
-        "published_date": "Thu, 23 Jul 2026 16:42:00 GMT",
-        "first_seen": "2026-07-23T23:57:50.217505"
-      },
-      "88971b575970367948e06992c135bffbc5d27534c086fade60233767d6a5231c": {
-        "title": "锂赛道弱预期压倒强现实：业绩暴增、锂价走弱、股价腰斩 | 行业风向标",
-        "link": "https://www.tmtpost.com/8077625.html",
-        "published_date": "Thu, 23 Jul 2026 21:00:00 GMT",
-        "first_seen": "2026-07-23T23:57:50.217507"
-      },
-      "0cc67bf2ad37f5d859e29c84aa25ce2bbcf98a10136db74aba5398d375ac4361": {
-        "title": "圆桌访谈：AI 产业进入新阶段了吗？",
-        "link": "https://www.infoq.cn/video/7RkQ9IXvQpwoMCPj4YiQ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Jul 2026 20:00:00 GMT",
-        "first_seen": "2026-07-23T23:57:50.217508"
-      },
       "379da7b0787b1bbcdcf46f2ccd58d0b6f397680bf419d0192259dd312c15634f": {
         "title": "算力短缺，巨头疯抢“超节点”",
         "link": "https://www.tmtpost.com/8077782.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8112832.html",
         "published_date": "Sat, 22 Aug 2026 18:14:00 GMT",
         "first_seen": "2026-08-22T23:23:00.128235"
+      },
+      "71542f7d0176791d11df877279b1abcb721cb49a7d7a37c307cbcdac329db6e3": {
+        "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
+        "link": "https://www.tmtpost.com/8113119.html",
+        "published_date": "Sun, 23 Aug 2026 11:11:00 GMT",
+        "first_seen": "2026-08-23T05:26:35.370504"
+      },
+      "2c2f88c311b34d43f81c0074c933924c9ba62c465b7113eeb881b3419ea8ef42": {
+        "title": "阿里又到了换剑时刻",
+        "link": "https://www.tmtpost.com/8113147.html",
+        "published_date": "Sun, 23 Aug 2026 11:28:00 GMT",
+        "first_seen": "2026-08-23T05:26:35.370514"
+      },
+      "9c94cae203eaa5c9c6f5ca58e394ce6f39929f97fc5f7e5f9298fadb5e23e83f": {
+        "title": "427万辆召回，没有一款油车：第一性原理失守的车门把手",
+        "link": "https://www.tmtpost.com/8113238.html",
+        "published_date": "Sun, 23 Aug 2026 11:28:00 GMT",
+        "first_seen": "2026-08-23T05:26:35.370516"
+      },
+      "d06897468b420e95c8edf5a31fba1892f62ac996c608488041649c8dac16a27e": {
+        "title": "阿里吴泳铭：别怕，Capex三年回本",
+        "link": "https://www.tmtpost.com/8113081.html",
+        "published_date": "Sun, 23 Aug 2026 10:36:00 GMT",
+        "first_seen": "2026-08-23T05:26:35.370518"
+      },
+      "1c464452fe47a2767e70b39b3d678a30721887f9c364b516a381d81f3e0292a1": {
+        "title": "捷报接二连三，迎接个性化免疫疗法的大时代",
+        "link": "https://www.tmtpost.com/8113108.html",
+        "published_date": "Sun, 23 Aug 2026 11:11:00 GMT",
+        "first_seen": "2026-08-23T05:26:35.370520"
       }
     },
     "Finance": {
-      "a2005fb860b13b6544b01c7360e5633d3f9b9ea9176cf67be37facaef0887f71": {
-        "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-        "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-        "published_date": "Thu, 23 Jul 2026 22:03:00 GMT",
-        "first_seen": "2026-07-23T23:58:11.878329"
-      },
-      "3cf37bb71b16c0dd8be52dc807e0bcaeff48edbf948437e78fcaceafbf9f81cf": {
-        "title": "US justice department to streamline company merger reviews",
-        "link": "https://www.ft.com/content/a5c66044-8999-48a5-b9cc-51341f177930?syn-25a6b1a6=1",
-        "published_date": "Thu, 23 Jul 2026 17:56:00 GMT",
-        "first_seen": "2026-07-23T23:58:11.878336"
-      },
-      "ff0aa075d441da5293343f42f77f037f8abb63e3ec55d3c0ca1df64f20f5ba63": {
-        "title": "Tesla sees a $214 billion wipeout as investors pan Elon Musk’s plan to spend ‘as fast as we can’",
-        "link": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
-        "published_date": "Thu, 23 Jul 2026 21:14:00 GMT",
-        "first_seen": "2026-07-23T23:58:11.878338"
-      },
-      "c9d3af058e69a977c09be8f258e94552e9c2073e97f61b7bfe6f2ea011254550": {
-        "title": "US hits 60 countries with new duties as Trump rebuilds tariff wall",
-        "link": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1",
-        "published_date": "Thu, 23 Jul 2026 22:59:00 GMT",
-        "first_seen": "2026-07-23T23:58:11.878340"
-      },
-      "d04d1f2f00b72f6978876d645ba5868eabc6c4ffb5028a771954983a1f8d777f": {
-        "title": "Trump’s dubious nuclear deal with Saudi Arabia",
-        "link": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a",
-        "published_date": "Thu, 23 Jul 2026 17:56:00 GMT",
-        "first_seen": "2026-07-23T23:58:11.878347"
-      },
       "49455ee6fd078869d62061e415d5ceadc12fe79dac0adce0a65483ae15fde160": {
         "title": "Russia’s biggest online retailer becomes target in Ukraine drone war",
         "link": "https://www.ft.com/content/5c9ae967-8e85-470f-974b-43667cc6f1c1?syn-25a6b1a6=1",
@@ -4689,15 +4659,39 @@
         "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
         "published_date": "Sat, 22 Aug 2026 20:30:00 GMT",
         "first_seen": "2026-08-22T23:23:13.367296"
+      },
+      "06c89d017cc1a77b52ae1abdfe6c1acd21de69c5da8ab9c04c94a2bee1b6365b": {
+        "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+        "link": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+        "published_date": "Sun, 23 Aug 2026 04:30:00 GMT",
+        "first_seen": "2026-08-23T05:26:43.954003"
+      },
+      "fd818fe0c6b8560e795531638f79cd2db22d8b9ef1f2f474c0554be0d8b6e90d": {
+        "title": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
+        "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
+        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-23T05:26:43.954009"
+      },
+      "8c0c47b6c5b4225ce00cbc02d0865d2855909244d3e30b05b7d47766e0d07fc6": {
+        "title": "India’s reliance on Russian oil hits all-time high",
+        "link": "https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1",
+        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-23T05:26:43.954011"
+      },
+      "d348c2a7edb049352d35f3f7ffb08343afb7abab5e7e015bcc5c8fc368283384": {
+        "title": "Are America’s vast Gulf bases worth rebuilding?",
+        "link": "https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1",
+        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-23T05:26:43.954012"
+      },
+      "fef206804124440caf1ddadd99878364a9577ed8783862180c6db103b6d26454": {
+        "title": "Europe can do better than US-style air conditioning",
+        "link": "https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9",
+        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-23T05:26:43.954014"
       }
     },
     "Ai": {
-      "6e11e4b4407709b11297128a5955b913bacd4c4393cdd0997348987cf2052a14": {
-        "title": "智能体政策新闻相关背景和简要解读",
-        "link": "https://www.qbitai.com/2026/07/457787.html",
-        "published_date": "Thu, 23 Jul 2026 11:08:00 GMT",
-        "first_seen": "2026-07-23T23:57:30.574236"
-      },
       "854d536eaa95f04b72c572d01f330cd0c9266d784eb346ac1b486e1c50517e5e": {
         "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
         "link": "https://www.qbitai.com/2026/07/457792.html",
@@ -5969,13 +5963,43 @@
         "link": "https://www.qbitai.com/2026/08/476628.html",
         "published_date": "Fri, 21 Aug 2026 09:00:00 GMT",
         "first_seen": "2026-08-21T23:21:33.049940"
+      },
+      "f09da51be822d4e73de68a2b8ca927e6db9b3721e4502372dc1ebff4335a4a2e": {
+        "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+        "link": "https://www.qbitai.com/2026/08/477094.html",
+        "published_date": "Sat, 22 Aug 2026 13:56:00 GMT",
+        "first_seen": "2026-08-23T05:26:57.015941"
+      },
+      "37bafc381db21d35e39fb3061db8f06a6b1060c4009d4e88f82b32c583fe26c4": {
+        "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+        "link": "https://www.qbitai.com/2026/08/477090.html",
+        "published_date": "Sat, 22 Aug 2026 12:21:00 GMT",
+        "first_seen": "2026-08-23T05:26:57.015947"
+      },
+      "fc293c7ce1757c1661dd4b32051dcc6525fffd7a7448884680f7a8861b3149a6": {
+        "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "link": "https://www.qbitai.com/2026/08/477246.html",
+        "published_date": "Sat, 22 Aug 2026 14:19:00 GMT",
+        "first_seen": "2026-08-23T05:26:57.015950"
+      },
+      "9d71fc62cde38aa42c6dbc22d7b5ed7833d4127ddb4c80b3d310450940b0fd12": {
+        "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+        "link": "https://www.qbitai.com/2026/08/477253.html",
+        "published_date": "Sat, 22 Aug 2026 14:46:00 GMT",
+        "first_seen": "2026-08-23T05:26:57.015952"
+      },
+      "5e9f5e8de4c008696feffa9a9626a62abb11e3a40aedb31d2f94318d0b1fa45e": {
+        "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+        "link": "https://www.qbitai.com/2026/08/476965.html",
+        "published_date": "Sat, 22 Aug 2026 08:53:00 GMT",
+        "first_seen": "2026-08-23T05:26:57.015954"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-22T23:23:00.128238",
-    "Finance": "2026-08-22T23:23:13.367299",
-    "Ai": "2026-08-21T23:21:33.049941"
+    "Technology": "2026-08-23T05:26:35.370522",
+    "Finance": "2026-08-23T05:26:43.954016",
+    "Ai": "2026-08-23T05:26:57.015956"
   }
 }
