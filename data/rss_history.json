@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ef6bada566c0618f70720abb8c1855c0051be8e05de09ba73e22c8fc76ce4a8e": {
-        "title": "Agent手机的三条路线与一场权力游戏",
-        "link": "https://www.tmtpost.com/8078891.html",
-        "published_date": "Sat, 25 Jul 2026 10:13:00 GMT",
-        "first_seen": "2026-07-25T07:14:46.688621"
-      },
-      "86c8fa83451e13ba9956c9c749fd231f51a3435ab11f46132ee08c7e052e3ba0": {
-        "title": "黄仁勋第一次发推，就联合微软、Meta等企业给中国开源模型说好话",
-        "link": "https://www.tmtpost.com/8078942.html",
-        "published_date": "Sat, 25 Jul 2026 09:57:00 GMT",
-        "first_seen": "2026-07-25T07:14:46.688627"
-      },
-      "1b8b20a3628b51998386e2e2f07a198b46412566ed9dca30b04814f34d62de84": {
-        "title": "圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？",
-        "link": "https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Jul 2026 08:00:00 GMT",
-        "first_seen": "2026-07-25T07:14:46.688629"
-      },
-      "9d61b6ac12d47a3fe8783710a335100f88cc74ba9adf4f079ce063c6b0e009ef": {
-        "title": "Opus 5 反超 Fable 5，Anthropic 的定价牌局被打乱了？",
-        "link": "https://www.tmtpost.com/8078939.html",
-        "published_date": "Sat, 25 Jul 2026 12:15:00 GMT",
-        "first_seen": "2026-07-25T07:14:46.688631"
-      },
-      "c6e13f0aa66e3abc20d70bdafbb9f2bb4159e1e802c0d6c083150caebaa4245a": {
-        "title": "特斯拉重构资产负债表",
-        "link": "https://www.tmtpost.com/8078954.html",
-        "published_date": "Sat, 25 Jul 2026 10:48:00 GMT",
-        "first_seen": "2026-07-25T07:14:46.688632"
-      },
       "1d94ee7db149c41bc4fb4a384e48d8a514329c0182eab0c69f6e6ef59caab761": {
         "title": "Anthropic发布Opus 5，性能直逼Fable 5，价格却只有一半？！",
         "link": "https://www.tmtpost.com/8078944.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 24 Aug 2026 10:16:00 GMT",
         "first_seen": "2026-08-24T05:36:26.615890"
+      },
+      "a2efe04081b6ea5667e9eab9eb3e3c842e3e4dc484ef907731c2dbab7603dea7": {
+        "title": "DeepSeek Harness来了：AI开始制造AI了？",
+        "link": "https://www.tmtpost.com/8114523.html",
+        "published_date": "Mon, 24 Aug 2026 15:56:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.173975"
+      },
+      "d054317b92ef129d0697e4edc2e338209181b89ea36a309f505b8ee53bed3529": {
+        "title": "阿里800亿、小米425亿：科技产业正在从屏幕走向现实",
+        "link": "https://www.tmtpost.com/8114333.html",
+        "published_date": "Mon, 24 Aug 2026 14:25:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.173984"
+      },
+      "264914e9840298cb02ee5c9ecf28e07c991e8b4c76936d6a6be6fc7bcd5489f2": {
+        "title": "全球汽车供应链进入了“中国时间”？",
+        "link": "https://www.tmtpost.com/8114527.html",
+        "published_date": "Mon, 24 Aug 2026 15:56:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.173987"
+      },
+      "063c783550b8a777c0f6fc0596292de36fb35d32a4c300f6277a41d96a674d5f": {
+        "title": "DeepSeek 再度调价；英伟达AI服务器涨价超 15%；“AI红娘”承诺三年不结婚就退款，前 Kimi搜索负责人创业目标：拉高10%结婚率 | AI周报",
+        "link": "https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 24 Aug 2026 10:11:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.173988"
+      },
+      "717b6bab1514929705b145416060033afe0dacb723197bd0bd5a3eb52b0a6d46": {
+        "title": "21.6亿光伏合同“宁赔不签”，央企集体弃标背后是算不过来的经济账",
+        "link": "https://www.tmtpost.com/8113878.html",
+        "published_date": "Mon, 24 Aug 2026 10:03:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.173990"
       }
     },
     "Finance": {
-      "9ccbf50a9f19531b23bd6360d5756c13c83cc43c6ef2f19f035cedf4da638957": {
-        "title": "India and South Africa lead push to amass emergency fuel stockpiles",
-        "link": "https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-25T07:15:00.753862"
-      },
-      "6d25834967119bba448a63ac5170fa88b803ab41ce6e83caf9bc818664594337": {
-        "title": "India’s ‘Cockroach’ Gen Z has had enough",
-        "link": "https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37",
-        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-25T07:15:00.753867"
-      },
-      "57e6b378443318f2454cb5376642a8dbdaec34fee787207a8245c68567fee6dd": {
-        "title": "France and Spain evacuate 200,000 people as ‘unprecedented’ wildfires spread",
-        "link": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 06:04:00 GMT",
-        "first_seen": "2026-07-25T07:15:00.753869"
-      },
-      "10ad90b1826f4be886879b917cff84895f4d2477a92409caa673970e64e441f9": {
-        "title": "Why this philosopher turned down Anthropic",
-        "link": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
-        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-25T07:15:00.753871"
-      },
-      "73d1d8562f014091bf6bf1437ca7d928376251d4ab119fa8ff81e5bfb24189e7": {
-        "title": "Andy Burnham’s regional privilege",
-        "link": "https://www.ft.com/content/4c76fc58-836c-4abe-916e-bfc727f83fca?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-25T07:15:00.753872"
-      },
       "4ad6156d94d008eb0508ae8f9393b26236054c3d8651d231a4ef470bb08c0910": {
         "title": "Nato military HQ intern arrested on suspicion of spying",
         "link": "https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1",
@@ -4659,15 +4629,21 @@
         "link": "https://www.ft.com/content/fce79e4a-3979-4af9-b8e5-27aeb890e53b?syn-25a6b1a6=1",
         "published_date": "Mon, 24 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-24T05:36:26.668316"
+      },
+      "e4d087d52598f869597874c2c88f3cde50d047b418ac9c1782695ec34fb04f9d": {
+        "title": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
+        "link": "https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories",
+        "published_date": "Mon, 24 Aug 2026 08:41:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.224267"
+      },
+      "787f865a61f360b37b3d85b59e8b142fa1ad525a04e8f8f3f5dd588a10111de1": {
+        "title": "There are six stocks that hedge funds and mutual funds are both overweight — and SpaceX is one",
+        "link": "https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories",
+        "published_date": "Mon, 24 Aug 2026 08:10:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.224274"
       }
     },
     "Ai": {
-      "fa95cdd9e4ed72b4a3d44e324ed0bf298da0968b25affc949fb14123a8332250": {
-        "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-        "link": "https://www.qbitai.com/2026/07/460174.html",
-        "published_date": "Sat, 25 Jul 2026 03:21:00 GMT",
-        "first_seen": "2026-07-25T07:14:26.238162"
-      },
       "50b38778709895718b1d64dd9498aeb18ebde62cac64d984c5ee6a84d365791b": {
         "title": "100%开源！吴恩达做了个个人桌面Agent",
         "link": "https://www.qbitai.com/2026/07/460892.html",
@@ -5951,13 +5927,31 @@
         "link": "https://www.qbitai.com/2026/08/478421.html",
         "published_date": "Mon, 24 Aug 2026 05:04:00 GMT",
         "first_seen": "2026-08-24T05:36:26.805973"
+      },
+      "17b85d909b34885a3454197d38e57910c3cd86105a04a4778671217e3339ec35": {
+        "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+        "link": "https://www.qbitai.com/2026/08/478473.html",
+        "published_date": "Mon, 24 Aug 2026 08:07:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.364640"
+      },
+      "4ebc891912c09939114a6bc1748efbedfe3d6ececcf51d6a1cd968316bd9d7a4": {
+        "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+        "link": "https://www.qbitai.com/2026/08/478469.html",
+        "published_date": "Mon, 24 Aug 2026 07:04:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.364647"
+      },
+      "48125446caa735b2367843ad3fee074b1b6958aed101e010bb7da01270a339f8": {
+        "title": "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+        "link": "https://www.qbitai.com/2026/08/478447.html",
+        "published_date": "Mon, 24 Aug 2026 06:03:00 GMT",
+        "first_seen": "2026-08-24T08:43:28.364649"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-24T05:36:26.615892",
-    "Finance": "2026-08-24T05:36:26.668319",
-    "Ai": "2026-08-24T05:36:26.805976"
+    "Technology": "2026-08-24T08:43:28.173992",
+    "Finance": "2026-08-24T08:43:28.224278",
+    "Ai": "2026-08-24T08:43:28.364651"
   }
 }
