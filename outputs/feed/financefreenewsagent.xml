@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Aug 2026 08:43:00 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 08:43:28 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 23:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:21:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well</title>
-      <link>https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 08:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories</guid>
+      <title>Trump’s trade war with Canada could lead the U.S. back to quantitative easing</title>
+      <link>https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Trump’s trade war with Canada could lead the U.S. back to quantitative easing]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 19:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>There are six stocks that hedge funds and mutual funds are both overweight — and SpaceX is one</title>
-      <link>https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[There are six stocks that hedge funds and mutual funds are both overweight — and SpaceX is one]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 08:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories</guid>
+      <title>SEC subpoenas Wall Street banks over Situational Awareness</title>
+      <link>https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[SEC subpoenas Wall Street banks over Situational Awareness]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 22:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Scott Bessent threatens Iran’s economic partners with more sanctions</title>
+      <link>https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Scott Bessent threatens Iran’s economic partners with more sanctions]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 19:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Here’s how overvalued the stock market really is</title>
+      <link>https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Here’s how overvalued the stock market really is]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 20:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer</title>
+      <link>https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>

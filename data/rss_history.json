@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1d94ee7db149c41bc4fb4a384e48d8a514329c0182eab0c69f6e6ef59caab761": {
-        "title": "Anthropic发布Opus 5，性能直逼Fable 5，价格却只有一半？！",
-        "link": "https://www.tmtpost.com/8078944.html",
-        "published_date": "Sat, 25 Jul 2026 10:13:00 GMT",
-        "first_seen": "2026-07-25T09:52:53.988508"
-      },
-      "2d285cc29dcc1e2cc2ed9161b610c013a114587c501595ff25463a8e2af00fe4": {
-        "title": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon深圳",
-        "link": "https://www.infoq.cn/article/fovd670ZuVMSMI7Z0zO4?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-25T09:52:53.988516"
-      },
-      "ef5c5f5bd6a8b849049bed57efaa1dcf63aa86db2c6f0cc036cfb55aa8b1a0dd": {
-        "title": "GitHub Issues 大改造：用缓存和预取，让页面打开快了数倍",
-        "link": "https://www.infoq.cn/article/yDgq3fh4YxZM93u21Kr5?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 25 Jul 2026 09:00:00 GMT",
-        "first_seen": "2026-07-25T09:52:53.988519"
-      },
-      "1565d2454cfbb1d7385fcd53f247825c5d9a43ed8f5c0558a771159d7e572968": {
-        "title": "百川智能联创全员出走，王小川孤军奋战",
-        "link": "https://www.tmtpost.com/8078868.html",
-        "published_date": "Sat, 25 Jul 2026 09:52:00 GMT",
-        "first_seen": "2026-07-25T09:52:53.988521"
-      },
-      "61a92c048f1b1d9d01d1a0032edac99a0a91cd57f7f2265f0b42c2aeee44a5eb": {
-        "title": "越疆科技过会了，但股权争议还没完",
-        "link": "https://www.tmtpost.com/8078751.html",
-        "published_date": "Sat, 25 Jul 2026 09:44:00 GMT",
-        "first_seen": "2026-07-25T09:52:53.988523"
-      },
       "eacd14b93cf4217af92a8fb2aa41c3f221b2a79e6e1befe974f7c4bf37043606": {
         "title": "苹果压价20%、英伟达涨价、Meta烧120亿：AI产业链正陷入\"三明治陷阱\"",
         "link": "https://www.tmtpost.com/8078916.html",
@@ -2551,21 +2521,39 @@
         "link": "https://www.tmtpost.com/8113878.html",
         "published_date": "Mon, 24 Aug 2026 10:03:00 GMT",
         "first_seen": "2026-08-24T08:43:28.173990"
+      },
+      "734be7f9e5bf140494881e8788cd949b44d52d96e72f343c4e15f1a50e5ef963": {
+        "title": "130 亿美元，Hugging Face 要卖了",
+        "link": "http://www.geekpark.net/news/369289",
+        "published_date": "Mon, 24 Aug 2026 16:45:00 GMT",
+        "first_seen": "2026-08-24T23:20:56.708408"
+      },
+      "f3e716476f6623e7d392ee8fb8ced8309d6e0f0c008523ceafb1caf2f8d3e68a": {
+        "title": "「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」",
+        "link": "http://www.geekpark.net/news/369302",
+        "published_date": "Mon, 24 Aug 2026 23:34:00 GMT",
+        "first_seen": "2026-08-24T23:20:56.708419"
+      },
+      "b328c4ccb97f94d9f0f70c700beada4b53c2ed2e1a8d70147de4cc1ff9e586a6": {
+        "title": "具身江湖志（一）：学术派下山记",
+        "link": "https://www.tmtpost.com/8114148.html",
+        "published_date": "Mon, 24 Aug 2026 12:10:00 GMT",
+        "first_seen": "2026-08-24T23:20:56.708422"
+      },
+      "3e191127d405f46b5ba2dca7ec806ac9259ce039b58fda236af36839ab81352a": {
+        "title": "硅谷押注的下一个 Harness，是整个桌面操作系统",
+        "link": "http://www.geekpark.net/news/369298",
+        "published_date": "Mon, 24 Aug 2026 17:57:00 GMT",
+        "first_seen": "2026-08-24T23:20:56.708424"
+      },
+      "2c3f149c1b91aeb56a7349710fdda4ed4e4c9e9062b2659af5242afd09093e20": {
+        "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
+        "link": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 24 Aug 2026 10:44:00 GMT",
+        "first_seen": "2026-08-24T23:20:56.708426"
       }
     },
     "Finance": {
-      "4ad6156d94d008eb0508ae8f9393b26236054c3d8651d231a4ef470bb08c0910": {
-        "title": "Nato military HQ intern arrested on suspicion of spying",
-        "link": "https://www.ft.com/content/b55e3656-4733-4eb8-bb83-b7dbb4ea8888?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 09:22:00 GMT",
-        "first_seen": "2026-07-25T09:52:54.034672"
-      },
-      "2db8f38d2ab5dee89cef8895cd9bead4fbd184aecb1687d96352398485132868": {
-        "title": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal",
-        "link": "https://www.ft.com/content/780bc4bb-1916-4fe2-ad2b-22663c66f16e?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 08:44:00 GMT",
-        "first_seen": "2026-07-25T09:52:54.034679"
-      },
       "bca3c638945105899adabe2fb6b8ec68088e9e58298b602e49d1a7ccfd66eec1": {
         "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
         "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
@@ -4641,6 +4629,36 @@
         "link": "https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories",
         "published_date": "Mon, 24 Aug 2026 08:10:00 GMT",
         "first_seen": "2026-08-24T08:43:28.224274"
+      },
+      "3fa240766b2b16ca481195ab5ad702bb93647aec1e793100e74aff257e5cf2b1": {
+        "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
+        "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
+        "published_date": "Mon, 24 Aug 2026 19:03:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.004512"
+      },
+      "60cdf114bcc83bc2a3a81c4d6151425f492c17ec6e435ef3cddd0699173194ab": {
+        "title": "SEC subpoenas Wall Street banks over Situational Awareness",
+        "link": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 22:56:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.004519"
+      },
+      "4e811b67e327ca1206cfc726ae20fbbf7383257561fba13a35ff7025ef33159f": {
+        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
+        "link": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 19:12:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.004522"
+      },
+      "7886c4c7f41d86ffbbec95bdc062f1853c32db6c310ea49a5057f56a7299923b": {
+        "title": "Here’s how overvalued the stock market really is",
+        "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
+        "published_date": "Mon, 24 Aug 2026 20:54:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.004524"
+      },
+      "7fdc49c7408b7b3dfbc7b5db8075e79627ca83c71a736462e21a752fed51a910": {
+        "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
+        "link": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
+        "published_date": "Mon, 24 Aug 2026 21:55:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.004526"
       }
     },
     "Ai": {
@@ -5945,13 +5963,25 @@
         "link": "https://www.qbitai.com/2026/08/478447.html",
         "published_date": "Mon, 24 Aug 2026 06:03:00 GMT",
         "first_seen": "2026-08-24T08:43:28.364649"
+      },
+      "cc61031e86a82258fae122965056b8f0ac11b861f5bbc37b87d57501de9b337a": {
+        "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+        "link": "https://www.qbitai.com/2026/08/478670.html",
+        "published_date": "Mon, 24 Aug 2026 13:32:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.151934"
+      },
+      "bda33aa62b778db5179e61bbb48b8a745faf7196816ee09e3d1ec196b8a8de1e": {
+        "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+        "link": "https://www.qbitai.com/2026/08/478568.html",
+        "published_date": "Mon, 24 Aug 2026 13:21:00 GMT",
+        "first_seen": "2026-08-24T23:21:19.151944"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-24T08:43:28.173992",
-    "Finance": "2026-08-24T08:43:28.224278",
-    "Ai": "2026-08-24T08:43:28.364651"
+    "Technology": "2026-08-24T23:20:56.708428",
+    "Finance": "2026-08-24T23:21:19.004529",
+    "Ai": "2026-08-24T23:21:19.151947"
   }
 }
