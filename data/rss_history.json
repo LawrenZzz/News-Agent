@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "02fa77ae01660d476884593bdfb433dbf724822f6468da922f746249f96bdc45": {
-        "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
-        "link": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Jul 2026 19:30:00 GMT",
-        "first_seen": "2026-07-25T00:01:39.621048"
-      },
-      "5e80f7607b14fb50ed1cb64b630711c5a88fb3875d8fc7b1d403d99bbcf47c5e": {
-        "title": "How Vivo’s Forced India Joint Venture Is Rewriting Chinese Tech Globalization",
-        "link": "https://www.tmtpost.com/8078454.html",
-        "published_date": "Fri, 24 Jul 2026 16:14:00 GMT",
-        "first_seen": "2026-07-25T00:01:39.621055"
-      },
-      "ca127cd4733a47c1bb0f33515bd2cc85fe4d2df21126c9492bec5683dd054bea": {
-        "title": "具身智能争夺下一块拼图：一目科技估值破百亿，触觉传感器走向量产",
-        "link": "https://www.infoq.cn/article/luJs2PpHVhQb8s5F2WuA?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Jul 2026 13:41:00 GMT",
-        "first_seen": "2026-07-25T00:01:39.621056"
-      },
-      "7baa4683c76855a48789f8783b5542e5c09f1f95e51c7c6b803e0b7117c36f76": {
-        "title": "港交所最大IPO来了！市值暴涨500倍，光模块一哥被资本疯抢",
-        "link": "https://www.tmtpost.com/8078486.html",
-        "published_date": "Fri, 24 Jul 2026 19:13:00 GMT",
-        "first_seen": "2026-07-25T00:01:39.621057"
-      },
-      "19c75e5e03ec881c532d8bbb0638d786eb46e0efd753085488873d3ddd1d7f99": {
-        "title": "WAIC挤满“卖铲人”，但算力服务终究是少数人的游戏",
-        "link": "https://www.tmtpost.com/8078009.html",
-        "published_date": "Fri, 24 Jul 2026 16:55:00 GMT",
-        "first_seen": "2026-07-25T00:01:39.621058"
-      },
       "ef6bada566c0618f70720abb8c1855c0051be8e05de09ba73e22c8fc76ce4a8e": {
         "title": "Agent手机的三条路线与一场权力游戏",
         "link": "https://www.tmtpost.com/8078891.html",
@@ -2551,39 +2521,39 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536122&idx=1&sn=b7a284d06296707235d8dde07c6f6d4e",
         "published_date": "Sun, 23 Aug 2026 11:33:00 GMT",
         "first_seen": "2026-08-23T23:18:38.563024"
+      },
+      "ee3b7b8e23919ef55be15e8716254243623646cfd423682aff407a3be2f133a2": {
+        "title": "具身智能的攻坚战：陪伴机器人需要翻越哪些技术高墙？",
+        "link": "https://www.tmtpost.com/8113992.html",
+        "published_date": "Mon, 24 Aug 2026 10:39:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.615872"
+      },
+      "3f0276ac380264782c5259c1b1d6698cf56a8f61a99c8411ad23e26021effdc9": {
+        "title": "Alibaba Raises HK$80 Billion for AI After Reporting Faster Cloud Growth and Heavier Spending",
+        "link": "https://www.tmtpost.com/8114144.html",
+        "published_date": "Mon, 24 Aug 2026 11:57:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.615882"
+      },
+      "f6d3a075ff99de7f9e9e8005c23e81ed6297d25400dc8e6f6827993989e33657": {
+        "title": "传 Hugging Face 寻求出售，估值 130 亿美元；Altman：担心 AI 被少数强势主体掌控；成都 AG.AL 获电竞世俱杯冠军",
+        "link": "http://www.geekpark.net/news/369224",
+        "published_date": "Mon, 24 Aug 2026 08:40:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.615886"
+      },
+      "19b8d647215e208eb972afb751db129676837941758566ee7b89dff75319853f": {
+        "title": "具身江湖志（二）：谁拿走了最聪明的钱？",
+        "link": "https://www.tmtpost.com/8114154.html",
+        "published_date": "Mon, 24 Aug 2026 12:10:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.615888"
+      },
+      "13ef068cc72fe98074099528efafc3b32a66be325891ec0e9598a5ecbfc5be2e": {
+        "title": "完全相信AI代码的Uncle Bob，坦诚这条路还没走通",
+        "link": "https://www.infoq.cn/article/ogFMPSyD3LqR9RtbIRky?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 24 Aug 2026 10:16:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.615890"
       }
     },
     "Finance": {
-      "4e6882ad6bc252514b88c901a96484af2e6adc91d12f4848e9326d95ff842a4e": {
-        "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
-        "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Jul 2026 21:38:00 GMT",
-        "first_seen": "2026-07-25T00:01:58.140027"
-      },
-      "998a56f31b942918dccfd7dd7e00a0e1e23d5230c84807fd342b340c7cd23e81": {
-        "title": "Before you ask AI to invest your life savings, you need to understand its hidden biases",
-        "link": "https://www.marketwatch.com/story/can-ai-replace-your-financial-adviser-why-bots-still-cant-match-human-judgment-ddb5903a?mod=mw_rss_topstories",
-        "published_date": "Fri, 24 Jul 2026 21:30:00 GMT",
-        "first_seen": "2026-07-25T00:01:58.140034"
-      },
-      "45121ae9cf5bb79464f334ed13c977fd9cb107a2997ecd17d140fdef47f643fe": {
-        "title": "Nvidia and Palantir urge US not to ban ‘open’ AI models after China scare",
-        "link": "https://www.ft.com/content/3203fc9a-2321-44f8-8093-b7e16c8fc6d7?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 15:20:00 GMT",
-        "first_seen": "2026-07-25T00:01:58.140035"
-      },
-      "e4dc394ecfa5b3487804f5a31c3ec1074eb7214390e138336f932fdedd25c943": {
-        "title": "US tech groups cut 140,000 jobs despite AI spending boom",
-        "link": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 20:00:00 GMT",
-        "first_seen": "2026-07-25T00:01:58.140037"
-      },
-      "6b9b915b92c0755375aea3b6d38504b45000eb1e0ad85113a27ea866b8cdf6bf": {
-        "title": "Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit",
-        "link": "https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1",
-        "published_date": "Fri, 24 Jul 2026 21:26:00 GMT",
-        "first_seen": "2026-07-25T00:01:58.140039"
-      },
       "9ccbf50a9f19531b23bd6360d5756c13c83cc43c6ef2f19f035cedf4da638957": {
         "title": "India and South Africa lead push to amass emergency fuel stockpiles",
         "link": "https://www.ft.com/content/42847a3b-f4b6-4a16-88e0-f06fdfabbdc6?syn-25a6b1a6=1",
@@ -4659,27 +4629,39 @@
         "link": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
         "published_date": "Sun, 23 Aug 2026 21:30:00 GMT",
         "first_seen": "2026-08-23T23:18:52.521931"
+      },
+      "bf2cd6f629c95fe82911a4b54ad8d8ee65a080bf72b0fff35e34eb58cbf9976f": {
+        "title": "Does AI belong on your face?",
+        "link": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.668301"
+      },
+      "a8ccbc28969c356b1afd49f680832b1ee94a197e6939e0f757001aca4baabe28": {
+        "title": "A ‘democratised’ financial crisis is still a crisis",
+        "link": "https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.668310"
+      },
+      "9339f2fb747990306ec744061f41d40247156191c9e472008f2b5eb2739a5d9e": {
+        "title": "US widens AI-driven investment gap with Europe",
+        "link": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.668313"
+      },
+      "7f8286b4c06f4e1640194bf9209fcd27e2507acd41e213cf7e283f1c4ce35b35": {
+        "title": "Germany must ditch doubts over private capital, says investment tsar",
+        "link": "https://www.ft.com/content/7c88554e-8e08-4d9e-a696-daeb82817876?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.668315"
+      },
+      "9e06e9a1b7f8ac6f7bf2d6951a2eea1cc5282f69e2f7432998d191f67175c86f": {
+        "title": "Saudi Arabia holds talks over state-backed war insurance as costs jump",
+        "link": "https://www.ft.com/content/fce79e4a-3979-4af9-b8e5-27aeb890e53b?syn-25a6b1a6=1",
+        "published_date": "Mon, 24 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.668316"
       }
     },
     "Ai": {
-      "7a425d690e34092e39e21be869e6652c8cedfcee45725ce4bc41a8736a9728fc": {
-        "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-        "link": "https://www.qbitai.com/2026/07/460154.html",
-        "published_date": "Fri, 24 Jul 2026 14:42:00 GMT",
-        "first_seen": "2026-07-25T00:01:18.900151"
-      },
-      "60042906c1dd773b350a844b7de0ccb0727209da4212901a739a0d905766969d": {
-        "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-        "link": "https://www.qbitai.com/2026/07/460041.html",
-        "published_date": "Fri, 24 Jul 2026 14:19:00 GMT",
-        "first_seen": "2026-07-25T00:01:18.900160"
-      },
-      "2601cfbc7cb0710bbcb65aba480536c221b690b380cd75e87ce1fc5e01786c7d": {
-        "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-        "link": "https://www.qbitai.com/2026/07/460042.html",
-        "published_date": "Fri, 24 Jul 2026 11:10:00 GMT",
-        "first_seen": "2026-07-25T00:01:18.900162"
-      },
       "fa95cdd9e4ed72b4a3d44e324ed0bf298da0968b25affc949fb14123a8332250": {
         "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
         "link": "https://www.qbitai.com/2026/07/460174.html",
@@ -5957,13 +5939,25 @@
         "link": "https://www.qbitai.com/2026/08/478234.html",
         "published_date": "Sun, 23 Aug 2026 11:17:00 GMT",
         "first_seen": "2026-08-23T23:19:04.818041"
+      },
+      "8f525cf6ff70faafca8d3415746d8d822a9ef2719cc843cae55d19e3ee94056e": {
+        "title": "2026-08-24日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-24/",
+        "published_date": "Mon, 24 Aug 2026 10:15:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.805964"
+      },
+      "c46d690090503bd07701cebae84876251a31544f68e56122634956ce5c8ace0c": {
+        "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+        "link": "https://www.qbitai.com/2026/08/478421.html",
+        "published_date": "Mon, 24 Aug 2026 05:04:00 GMT",
+        "first_seen": "2026-08-24T05:36:26.805973"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-23T23:18:38.563026",
-    "Finance": "2026-08-23T23:18:52.521933",
-    "Ai": "2026-08-23T23:19:04.818043"
+    "Technology": "2026-08-24T05:36:26.615892",
+    "Finance": "2026-08-24T05:36:26.668319",
+    "Ai": "2026-08-24T05:36:26.805976"
   }
 }
