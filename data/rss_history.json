@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "70f8bb77c3b53bd5b2432f445a5020d3f14501eb3320259cd624391a7696a5b1": {
-        "title": "特斯拉正在变成一家AI公司",
-        "link": "https://www.tmtpost.com/8078858.html",
-        "published_date": "Sun, 26 Jul 2026 09:06:00 GMT",
-        "first_seen": "2026-07-26T07:35:35.426786"
-      },
-      "29a54d1c38b85e8e9db62c6cf38fed480f8c178d65a95a3c4e5a9505e211a29e": {
-        "title": "Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳",
-        "link": "https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 26 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-26T07:35:35.426793"
-      },
-      "5285c977ce1665d601ff3992b314e8148f04c1d6872182b33ce1d00b7be80fe8": {
-        "title": "光模块的\"科技股幻觉\"：当芯片厂商开始定义游戏规则",
-        "link": "https://www.tmtpost.com/8075155.html",
-        "published_date": "Sun, 26 Jul 2026 09:06:00 GMT",
-        "first_seen": "2026-07-26T07:35:35.426796"
-      },
-      "9aa577bd0d69b3e33c45a47a9194c3e20cd7d3172f788d7a59d1c6dbbdf343dc": {
-        "title": "AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026",
-        "link": "https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 26 Jul 2026 15:03:00 GMT",
-        "first_seen": "2026-07-26T07:35:35.426798"
-      },
-      "d93482bcf8cc141238d00b7e6f5ba2b6c3cd59d03f64b1fca2143d64f4a57de1": {
-        "title": "Opus 5冲上第一，还需要Fable 5吗？",
-        "link": "https://www.tmtpost.com/8079583.html",
-        "published_date": "Sun, 26 Jul 2026 09:31:00 GMT",
-        "first_seen": "2026-07-26T07:35:35.426799"
-      },
       "18f7a85ee09291b22babb0f24cc738f0427b738ed14f1c1e8dc1fb80839f1f1c": {
         "title": "【数智周报】  OpenAI证实模型测试出现失控，引发史无前例入侵；阿里千问发布 Qwen-Image-3.0；华为首次完整展示全系列计算模组产品；英特尔将在数据中心部门裁员",
         "link": "https://www.tmtpost.com/8079812.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8114742.html",
         "published_date": "Tue, 25 Aug 2026 12:06:00 GMT",
         "first_seen": "2026-08-25T05:29:34.421733"
+      },
+      "4acc982fb8f9e58048925399178e43e03460ca1dfc934125f36750a4fdedad5d": {
+        "title": "四位掌权者，四种命运：美国四大AI巨头全景",
+        "link": "https://www.tmtpost.com/8115955.html",
+        "published_date": "Tue, 25 Aug 2026 16:21:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.939192"
+      },
+      "dabd23b12e0714602b62ed267665f89f9172f6e7fdc5a4cde9aa90a955456c0f": {
+        "title": "算力风口之下：电子布淘金潮，泥沙俱现",
+        "link": "https://www.tmtpost.com/8115074.html",
+        "published_date": "Tue, 25 Aug 2026 13:39:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.939200"
+      },
+      "4f104732845f5ee4e4e2f29ebfc5690d2d33d835286fef4bc42e8edd124c00ad": {
+        "title": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "link": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Aug 2026 16:16:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.939203"
+      },
+      "96e19eb3c408fd8537b2bf8a6eccf258c4f545517f489c3dd298c760d017fe04": {
+        "title": "日赚3.7亿！长江存储递表，“双子星”即将A股会师",
+        "link": "https://www.tmtpost.com/8115394.html",
+        "published_date": "Tue, 25 Aug 2026 10:55:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.939205"
+      },
+      "153967bcd62aa2c829786ec678076fcb23d1bd4dc75223bccbdf772e70ad4b43": {
+        "title": "AI Moves Deeper Into Hospitals, but Who Pays Remains the Hard Question",
+        "link": "https://www.tmtpost.com/8116017.html",
+        "published_date": "Tue, 25 Aug 2026 16:09:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.939206"
       }
     },
     "Finance": {
-      "05ac4cedaa1459ef624d7f6c95461a83bf2726f0f7256ac4ad707f277a8ccfb1": {
-        "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
-        "link": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-26T07:35:45.873756"
-      },
-      "05af6e0f9363e620d9d2a87c57eb20210a15d73712d764e2c593a40b68dd7399": {
-        "title": "China pours funding into green energy deals as Iran war hits oil demand",
-        "link": "https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-26T07:35:45.873762"
-      },
-      "7fbd923d35c9a702ad326d05cab6736737b46f85ca2acfbc56392833283b2806": {
-        "title": "Defence giants provide record backing for military start-ups",
-        "link": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-26T07:35:45.873764"
-      },
-      "acaf0cf4b849d3acbb4dfc4d2bafeddd7a3c8d65b8f3940b1acd5edc55185759": {
-        "title": "Why workers are nostalgic for life before AI",
-        "link": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-26T07:35:45.873766"
-      },
-      "75e457640957e52bfabe03394b01a2c0875c394ffe5e574aeda6783eee4f16ef": {
-        "title": "Maga’s creepy baby obsession won’t solve the fertility crisis",
-        "link": "https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-26T07:35:45.873768"
-      },
       "e8618be428bb44ae85b9a874b8f04282553f9c05f8109e2d59e61cbaccb81cf8": {
         "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
         "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
@@ -4659,15 +4629,33 @@
         "link": "https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1",
         "published_date": "Tue, 25 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-25T05:29:46.614690"
+      },
+      "c392afba91b7b71db49a785dd0d6e671741b9e00864f0a0c774d5b900b4c888f": {
+        "title": "Bitcoin has beaten stocks and gold over six months. Now it’s crossed the $80,000 mark.",
+        "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+        "published_date": "Tue, 25 Aug 2026 08:00:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.990692"
+      },
+      "a846cc068290f8c9fec7ec9be9fcca790a988beebee8cfe1c02fde1b8e478709": {
+        "title": "Investors poured into Canadian ETFs right before trade talks broke down",
+        "link": "https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories",
+        "published_date": "Tue, 25 Aug 2026 07:57:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.990699"
+      },
+      "d5cea783737c756e87317e773b2b03fe76a6f3a477d6dc1ec1dead540265024a": {
+        "title": "OnlyFans owner received $700mn in dividends before his death this year",
+        "link": "https://www.ft.com/content/8472a7c3-64bb-4526-9aea-9c98c1af0e2a?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 06:00:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.990724"
+      },
+      "d21dbfda3c88b85c16b3ec74a272ffbc71ee8c7ebc57ac8408c7c2227aea1182": {
+        "title": "Nvidia employee charged with smuggling advanced chips into China",
+        "link": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 05:31:00 GMT",
+        "first_seen": "2026-08-25T08:38:28.990726"
       }
     },
     "Ai": {
-      "1aeeb588a0d24e30e6bef5acf90e4255714442d8a3ed160ce9e1463464c97d90": {
-        "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-        "link": "https://www.qbitai.com/2026/07/460962.html",
-        "published_date": "Sun, 26 Jul 2026 05:30:00 GMT",
-        "first_seen": "2026-07-26T07:35:18.689812"
-      },
       "ad8235724142d610fe1097f54e71abe949450e3943c73b444934a6d16e2a88ac": {
         "title": "AI最尴尬的短板，中国科学院出手了",
         "link": "https://www.qbitai.com/2026/07/461160.html",
@@ -5975,13 +5963,31 @@
         "link": "https://www.qbitai.com/2026/08/478675.html",
         "published_date": "Tue, 25 Aug 2026 00:35:00 GMT",
         "first_seen": "2026-08-25T05:29:46.747721"
+      },
+      "fddf60b4b4054cbf305096c88deeedc110dbec507ddbbe942a782720abd37379": {
+        "title": "开源国产8B模型，比肩闭源Image 2了！",
+        "link": "https://www.qbitai.com/2026/08/479192.html",
+        "published_date": "Tue, 25 Aug 2026 06:53:00 GMT",
+        "first_seen": "2026-08-25T08:38:29.131917"
+      },
+      "381313dcec213997114e941385b26181fe970c301fbef2e61ecb978ac5d31855": {
+        "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+        "link": "https://www.qbitai.com/2026/08/479132.html",
+        "published_date": "Tue, 25 Aug 2026 06:39:00 GMT",
+        "first_seen": "2026-08-25T08:38:29.131925"
+      },
+      "fdcc0e62033a73ebfa0612b7eac488093bfa93550a2ea5ca23da510be86c058a": {
+        "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+        "link": "https://www.qbitai.com/2026/08/479096.html",
+        "published_date": "Tue, 25 Aug 2026 05:48:00 GMT",
+        "first_seen": "2026-08-25T08:38:29.131927"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-25T05:29:34.421736",
-    "Finance": "2026-08-25T05:29:46.614692",
-    "Ai": "2026-08-25T05:29:46.747722"
+    "Technology": "2026-08-25T08:38:28.939208",
+    "Finance": "2026-08-25T08:38:28.990729",
+    "Ai": "2026-08-25T08:38:29.131929"
   }
 }
