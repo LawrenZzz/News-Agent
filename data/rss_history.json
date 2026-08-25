@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "18f7a85ee09291b22babb0f24cc738f0427b738ed14f1c1e8dc1fb80839f1f1c": {
-        "title": "【数智周报】  OpenAI证实模型测试出现失控，引发史无前例入侵；阿里千问发布 Qwen-Image-3.0；华为首次完整展示全系列计算模组产品；英特尔将在数据中心部门裁员",
-        "link": "https://www.tmtpost.com/8079812.html",
-        "published_date": "Sun, 26 Jul 2026 17:17:00 GMT",
-        "first_seen": "2026-07-26T09:57:39.244691"
-      },
-      "600b9b413eaa34591ef4df3306e3e3d3d544223adff80c93f87064d0057789d1": {
-        "title": "Codex也断了:OpenAI三线齐崩，Agent时代的宕机账单怎么算",
-        "link": "https://www.tmtpost.com/8079615.html",
-        "published_date": "Sun, 26 Jul 2026 15:35:00 GMT",
-        "first_seen": "2026-07-26T09:57:39.244700"
-      },
-      "bade09c1c02bf7a49a38f5b48276a8bcb72a6938535d641ae01ddc37fdd6f026": {
-        "title": "AI博主不能说的秘密：\"十分钟\"炫技背后，是你买不起的Token账单",
-        "link": "https://www.tmtpost.com/8079664.html",
-        "published_date": "Sun, 26 Jul 2026 15:34:00 GMT",
-        "first_seen": "2026-07-26T09:57:39.244703"
-      },
-      "c3ffe2f56e7ed60344186cc4dd1169c7e6f9c3b6f2bad6e17bce0f3963a9b7e1": {
-        "title": "AI坑惨手机圈：大盘崩了，高通们也得靠涨价续命",
-        "link": "https://www.tmtpost.com/8079723.html",
-        "published_date": "Sun, 26 Jul 2026 13:00:00 GMT",
-        "first_seen": "2026-07-26T09:57:39.244706"
-      },
-      "49dea8f373b0668a26e8dbf77a45ec5755f03cd8f9bc943346dfc5d731c1af4c": {
-        "title": "成都、合肥、青岛等40家国资密集投资氢能！一个40%企业面临消失的赛道，正在被重新定价",
-        "link": "https://www.tmtpost.com/8079702.html",
-        "published_date": "Sun, 26 Jul 2026 15:34:00 GMT",
-        "first_seen": "2026-07-26T09:57:39.244707"
-      },
       "17fd38c71f7ec2f385ee624cb329c0d2876dd3968803be0c76b4054ba9bc4b82": {
         "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
         "link": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article",
@@ -2551,6 +2521,36 @@
         "link": "https://www.tmtpost.com/8116017.html",
         "published_date": "Tue, 25 Aug 2026 16:09:00 GMT",
         "first_seen": "2026-08-25T08:38:28.939206"
+      },
+      "e212c6b61bb20744abdfce3a17b6c314d0f8c8d7e869f46f669a8c9090e69c44": {
+        "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+        "link": "http://www.geekpark.net/news/369344",
+        "published_date": "Tue, 25 Aug 2026 16:58:00 GMT",
+        "first_seen": "2026-08-25T23:23:31.908463"
+      },
+      "761b6f0b8f938577bb588f24d055db6bf6a4d144551853f7e07d462b0de62a24": {
+        "title": "OpenAI 的 2027：资本周期下的上市平衡术",
+        "link": "https://www.tmtpost.com/8115750.html",
+        "published_date": "Tue, 25 Aug 2026 19:27:00 GMT",
+        "first_seen": "2026-08-25T23:23:31.908473"
+      },
+      "d410dcca7ae8bcb7b9d2147ad3992915ea1328fce46c3e0d97b29b335e8ca7d1": {
+        "title": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+        "link": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Aug 2026 09:00:00 GMT",
+        "first_seen": "2026-08-25T23:23:31.908475"
+      },
+      "97af1f2f2865496c03b8ac261225a7e144ca7c3c140ab25fb56ddba34de2cf04": {
+        "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
+        "link": "http://www.geekpark.net/news/369356",
+        "published_date": "Tue, 25 Aug 2026 23:52:00 GMT",
+        "first_seen": "2026-08-25T23:23:31.908477"
+      },
+      "0cac7d917c025598eee560a918ee0eed1c7de9772cea1b77f81e826ed7675eb2": {
+        "title": "二手半导体设备成抢手货了",
+        "link": "https://www.tmtpost.com/8115046.html",
+        "published_date": "Tue, 25 Aug 2026 19:29:00 GMT",
+        "first_seen": "2026-08-25T23:23:31.908479"
       }
     },
     "Finance": {
@@ -4653,6 +4653,36 @@
         "link": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
         "published_date": "Tue, 25 Aug 2026 05:31:00 GMT",
         "first_seen": "2026-08-25T08:38:28.990726"
+      },
+      "12536671ac506d130794b45b974fb2be088c4ad4da615596f202cc13de930474": {
+        "title": "The drip-drip US debt crisis",
+        "link": "https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 15:20:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.885506"
+      },
+      "f617d627fad51c15211cdd145d509d2da21798a041ccdf94a5ddc6422c3d96a8": {
+        "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
+        "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 17:22:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.885511"
+      },
+      "4d5bd49c0d418c218bdf783a45dac512da4605ebb30d58bfc6c4305ed979d45f": {
+        "title": "US audit regulator scraps investor advocate role as Trump-era revamp accelerates",
+        "link": "https://www.ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 22:34:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.885512"
+      },
+      "b6b97d3cf9458e67e1eb690021ddbff76ed3fdc2fbee46a117f1c1e179204f37": {
+        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+        "published_date": "Tue, 25 Aug 2026 22:45:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.885513"
+      },
+      "eec8f76edfb4d596afdb38a7d8a53a3950f7e4a71e66e868ef7a2f2f9e285186": {
+        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+        "published_date": "Tue, 25 Aug 2026 23:01:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.885514"
       }
     },
     "Ai": {
@@ -5981,13 +6011,25 @@
         "link": "https://www.qbitai.com/2026/08/479096.html",
         "published_date": "Tue, 25 Aug 2026 05:48:00 GMT",
         "first_seen": "2026-08-25T08:38:29.131927"
+      },
+      "65608f1fcae72deab97f66025d11b96a09767cbb34532fa2cbe1620fc8c2e0ad": {
+        "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+        "link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+        "published_date": "Tue, 25 Aug 2026 19:10:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.971736"
+      },
+      "07438ba5f1e28028bef89d2613f63a577fc46da176f83244c16c29362342cae7": {
+        "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+        "link": "https://www.qbitai.com/2026/08/479314.html",
+        "published_date": "Tue, 25 Aug 2026 09:31:00 GMT",
+        "first_seen": "2026-08-25T23:24:15.971742"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-25T08:38:28.939208",
-    "Finance": "2026-08-25T08:38:28.990729",
-    "Ai": "2026-08-25T08:38:29.131929"
+    "Technology": "2026-08-25T23:23:31.908480",
+    "Finance": "2026-08-25T23:24:15.885516",
+    "Ai": "2026-08-25T23:24:15.971744"
   }
 }
