@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "eacd14b93cf4217af92a8fb2aa41c3f221b2a79e6e1befe974f7c4bf37043606": {
-        "title": "苹果压价20%、英伟达涨价、Meta烧120亿：AI产业链正陷入\"三明治陷阱\"",
-        "link": "https://www.tmtpost.com/8078916.html",
-        "published_date": "Sat, 25 Jul 2026 19:13:00 GMT",
-        "first_seen": "2026-07-25T23:58:45.531766"
-      },
-      "4939df035ba2a414e79c99c4fc1f92fc17210c75c469990f8920d6eacc93a8d6": {
-        "title": "AI下一步将迈向何方？一场正在发生的范式革命",
-        "link": "https://www.tmtpost.com/8078921.html",
-        "published_date": "Sat, 25 Jul 2026 19:33:00 GMT",
-        "first_seen": "2026-07-25T23:58:45.531774"
-      },
-      "4d7d95f283eee861468c3b7a1db186d875e939d7be6986b87923b1db3c28ccf7": {
-        "title": "赛马结束，大厂各寻Agent主心骨",
-        "link": "https://www.tmtpost.com/8078733.html",
-        "published_date": "Sat, 25 Jul 2026 19:11:00 GMT",
-        "first_seen": "2026-07-25T23:58:45.531776"
-      },
-      "33f86685c54f8f1d4aa05f74a8247a6e24a04ede6a0c14686fcba119b2fe88d7": {
-        "title": "荣耀换Logo，一场关于AI的“阳谋”",
-        "link": "https://www.tmtpost.com/8079208.html",
-        "published_date": "Sat, 25 Jul 2026 19:21:00 GMT",
-        "first_seen": "2026-07-25T23:58:45.531778"
-      },
-      "0706bf5e188df97d28adf014f6c16cc9c334d91a57a8552bd2314461616d28f9": {
-        "title": "被迫跨界汽车与机器人赛道，家电上游的躺赚时代结束了",
-        "link": "https://www.tmtpost.com/8079365.html",
-        "published_date": "Sat, 25 Jul 2026 19:11:00 GMT",
-        "first_seen": "2026-07-25T23:58:45.531780"
-      },
       "70f8bb77c3b53bd5b2432f445a5020d3f14501eb3320259cd624391a7696a5b1": {
         "title": "特斯拉正在变成一家AI公司",
         "link": "https://www.tmtpost.com/8078858.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 24 Aug 2026 10:44:00 GMT",
         "first_seen": "2026-08-24T23:20:56.708426"
+      },
+      "b0a487ddcf04afb7c880622e3e1556b87e6a82d2f86428d39f7145feafe19b9c": {
+        "title": "港股史上最大增发：阿里 800 亿港元押注 AI",
+        "link": "https://www.tmtpost.com/8115058.html",
+        "published_date": "Tue, 25 Aug 2026 11:30:00 GMT",
+        "first_seen": "2026-08-25T05:29:34.421719"
+      },
+      "0b170f9122eb55c32a174444583b49abb242c4326232d85f001b5ea2ea2229a9": {
+        "title": "AI算力通胀时代：英伟达服务器涨价超15%，成本传导冲击云厂商利润率",
+        "link": "https://www.tmtpost.com/8115543.html",
+        "published_date": "Tue, 25 Aug 2026 09:59:00 GMT",
+        "first_seen": "2026-08-25T05:29:34.421727"
+      },
+      "2522848b1dc8d99b7b2ff512236e97991496501424fcf95299b4be198f553438": {
+        "title": "募资 330 亿！全球存储第三，科创板史上最大 IPO来了",
+        "link": "https://www.tmtpost.com/8114872.html",
+        "published_date": "Tue, 25 Aug 2026 09:40:00 GMT",
+        "first_seen": "2026-08-25T05:29:34.421730"
+      },
+      "a1504be82c0facc0cfcfca69a63f6ee66ed930a560186c8a14d7f3ffaf2e94a4": {
+        "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
+        "link": "https://www.tmtpost.com/8115448.html",
+        "published_date": "Tue, 25 Aug 2026 07:24:00 GMT",
+        "first_seen": "2026-08-25T05:29:34.421731"
+      },
+      "8b365c74627029fcffb71108c758d97b5fcacf9d418fd9ac84751645641438e0": {
+        "title": "世界模型离通用还有多远？",
+        "link": "https://www.tmtpost.com/8114742.html",
+        "published_date": "Tue, 25 Aug 2026 12:06:00 GMT",
+        "first_seen": "2026-08-25T05:29:34.421733"
       }
     },
     "Finance": {
-      "bca3c638945105899adabe2fb6b8ec68088e9e58298b602e49d1a7ccfd66eec1": {
-        "title": "Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
-        "link": "https://www.marketwatch.com/story/south-korean-stocks-werent-a-big-deal-in-your-emerging-markets-fund-artificial-intelligence-changed-that-21308089?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Jul 2026 18:45:00 GMT",
-        "first_seen": "2026-07-25T23:58:57.092395"
-      },
-      "132cfbb02555da2c577f8fc54bd7a0af3f695313064b035c0e16109f30e08900": {
-        "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
-        "link": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-25T23:58:57.092404"
-      },
-      "4fe2c1a95bd07fec50667d3d796ba320821b134a7a62ed6ab14a35350e350419": {
-        "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-        "link": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Jul 2026 22:30:00 GMT",
-        "first_seen": "2026-07-25T23:58:57.092407"
-      },
-      "58f113693e47fb273e766c7eae717b5b75965430f01a47f690af700d6367412d": {
-        "title": "Top Democrat says Trump administration is worsening chip shortage",
-        "link": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
-        "published_date": "Sat, 25 Jul 2026 19:33:00 GMT",
-        "first_seen": "2026-07-25T23:58:57.092409"
-      },
-      "e95b9c7fd9712aaf42d906db317b8bfeef67157fb9e8bb5e13b208a82bf7138c": {
-        "title": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
-        "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
-        "published_date": "Sat, 25 Jul 2026 18:34:00 GMT",
-        "first_seen": "2026-07-25T23:58:57.092411"
-      },
       "05ac4cedaa1459ef624d7f6c95461a83bf2726f0f7256ac4ad707f277a8ccfb1": {
         "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
         "link": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1",
@@ -4659,39 +4629,39 @@
         "link": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
         "published_date": "Mon, 24 Aug 2026 21:55:00 GMT",
         "first_seen": "2026-08-24T23:21:19.004526"
+      },
+      "f9a565a6dc21efa359a10df18bd88e0e135cc80bc1c325fc86e4e0ba4a0dc9b0": {
+        "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
+        "link": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.614677"
+      },
+      "7df8b6958782c74b42a83a2a5fdca8dd942974c6aa9f381483fd6dfa992ee3ad": {
+        "title": "US grain farmers pummelled as Iran war triggers surge in costs",
+        "link": "https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.614684"
+      },
+      "2a2eb7e3481e4a5538e2e6c552a3d3f4537ed08db3b3eee8eeacfd51a6d1b34f": {
+        "title": "The little-known French company trying to unseat Palantir in Europe",
+        "link": "https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.614687"
+      },
+      "a41681af2ae423a5871f810a66fce7ce98deab389b25cdd9d2df6408d4238283": {
+        "title": "Iranians queue for petrol as US blockade bites",
+        "link": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776",
+        "published_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.614688"
+      },
+      "212878aae0cbb37f4dad6d91ecfd38e2a5ada501aa06abac9623c81fd64dd75a": {
+        "title": "The threats to ‘Swiss Made’",
+        "link": "https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1",
+        "published_date": "Tue, 25 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.614690"
       }
     },
     "Ai": {
-      "50b38778709895718b1d64dd9498aeb18ebde62cac64d984c5ee6a84d365791b": {
-        "title": "100%开源！吴恩达做了个个人桌面Agent",
-        "link": "https://www.qbitai.com/2026/07/460892.html",
-        "published_date": "Sat, 25 Jul 2026 12:35:00 GMT",
-        "first_seen": "2026-07-25T23:58:32.899961"
-      },
-      "37adb90732c364dc7b2de2a81d08023e6b0c8e6eb4c4ae8f4eb3fe0a438dc7df": {
-        "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
-        "link": "https://www.qbitai.com/2026/07/460542.html",
-        "published_date": "Sat, 25 Jul 2026 12:24:00 GMT",
-        "first_seen": "2026-07-25T23:58:32.899973"
-      },
-      "eea9426fb35566b071d4c50622bb5e963c2dad335eb319db60f5c43a6e7e70b2": {
-        "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-        "link": "https://www.qbitai.com/2026/07/460253.html",
-        "published_date": "Sat, 25 Jul 2026 12:11:00 GMT",
-        "first_seen": "2026-07-25T23:58:32.899975"
-      },
-      "8d6fb2a1b3d7bf944e17adecf3519437e0ea2111fe0002e886fe56e5ef37cd44": {
-        "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-        "link": "https://www.qbitai.com/2026/07/460234.html",
-        "published_date": "Sat, 25 Jul 2026 11:54:00 GMT",
-        "first_seen": "2026-07-25T23:58:32.899977"
-      },
-      "8bd221cb9e250697b38ad74bedb74bb47ebde00895f0d874dfc26f777ef8ef22": {
-        "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
-        "link": "https://www.qbitai.com/2026/07/460186.html",
-        "published_date": "Sat, 25 Jul 2026 11:07:00 GMT",
-        "first_seen": "2026-07-25T23:58:32.899978"
-      },
       "1aeeb588a0d24e30e6bef5acf90e4255714442d8a3ed160ce9e1463464c97d90": {
         "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
         "link": "https://www.qbitai.com/2026/07/460962.html",
@@ -5975,13 +5945,43 @@
         "link": "https://www.qbitai.com/2026/08/478568.html",
         "published_date": "Mon, 24 Aug 2026 13:21:00 GMT",
         "first_seen": "2026-08-24T23:21:19.151944"
+      },
+      "88ae4874893f96f879aa14ff6a84dd8090140a03016c8995149c8157f14bf570": {
+        "title": "2026-08-25日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-25/",
+        "published_date": "Tue, 25 Aug 2026 10:54:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.747708"
+      },
+      "9cbc77ab7b99ebfc8bd440074917a15909bc5994396d8b41bcad8b9d47661043": {
+        "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+        "link": "https://www.qbitai.com/2026/08/478791.html",
+        "published_date": "Tue, 25 Aug 2026 02:22:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.747716"
+      },
+      "f5d437e90ed520e98182e3ac8dcca2b30788e634581e1133d868c49d42edd6f9": {
+        "title": "VC开始靠AI预测未来了",
+        "link": "https://www.qbitai.com/2026/08/478774.html",
+        "published_date": "Tue, 25 Aug 2026 02:16:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.747718"
+      },
+      "0be2f82d54c17f0fb620f737bf3a75964adf423eb4171964ed22d080812728c8": {
+        "title": "WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线",
+        "link": "https://www.qbitai.com/2026/08/478690.html",
+        "published_date": "Tue, 25 Aug 2026 01:46:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.747719"
+      },
+      "97dd380503346c568088ee9271361748a1dcc9df9fdc7567dcf5bc0d36ed0590": {
+        "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+        "link": "https://www.qbitai.com/2026/08/478675.html",
+        "published_date": "Tue, 25 Aug 2026 00:35:00 GMT",
+        "first_seen": "2026-08-25T05:29:46.747721"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-24T23:20:56.708428",
-    "Finance": "2026-08-24T23:21:19.004529",
-    "Ai": "2026-08-24T23:21:19.151947"
+    "Technology": "2026-08-25T05:29:34.421736",
+    "Finance": "2026-08-25T05:29:46.614692",
+    "Ai": "2026-08-25T05:29:46.747722"
   }
 }
