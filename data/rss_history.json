@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "17fd38c71f7ec2f385ee624cb329c0d2876dd3968803be0c76b4054ba9bc4b82": {
-        "title": "先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026",
-        "link": "https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 26 Jul 2026 14:00:00 GMT",
-        "first_seen": "2026-07-26T23:59:17.284431"
-      },
-      "7367de804038b384ed871d3d8699146919d9cc2309f0c02916cabcaad6196589": {
-        "title": "从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026",
-        "link": "https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 26 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-26T23:59:17.284445"
-      },
-      "45dc32c11fd17bb9f65e5ce3fc0da58a6c2964b90605e07948204a8066f8a804": {
-        "title": "9500亿是纸面繁荣：SK海力士签的不是大单，是卖身契",
-        "link": "https://www.tmtpost.com/8079637.html",
-        "published_date": "Sun, 26 Jul 2026 15:35:00 GMT",
-        "first_seen": "2026-07-26T23:59:17.284449"
-      },
-      "e2d7ed65cc4fc57e40f0a15261fd229097fb5f48f818a02313916c8616af0b25": {
-        "title": "【钛晨报】A股重磅！今起实施，事关内幕交易；黄仁勋、马斯克同日发声，事关中国AI；科创板最大IPO，长鑫科技今日上市",
-        "link": "https://www.tmtpost.com/8079884.html",
-        "published_date": "Mon, 27 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-26T23:59:17.284450"
-      },
-      "bd85bec0e8708d15a7e117f10de520173e0a7b567e5eb4b4bb3bcac2059fe546": {
-        "title": "携程罚单的真正影响，不是酒店变便宜，是平台\"抽税权\"的终结",
-        "link": "https://www.tmtpost.com/8079724.html",
-        "published_date": "Sun, 26 Jul 2026 17:16:00 GMT",
-        "first_seen": "2026-07-26T23:59:17.284452"
-      },
       "962a8b4ac39487d69530b45dfc114ba48af6b6cf95d49e138721c0d54dfa3c5a": {
         "title": "Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网",
         "link": "https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8115046.html",
         "published_date": "Tue, 25 Aug 2026 19:29:00 GMT",
         "first_seen": "2026-08-25T23:23:31.908479"
+      },
+      "812f7945b97ac5c213feb432c6e90c95e9bf0025b62700c457e0f11704e4ea8e": {
+        "title": "国产量检测要开始用EUV了",
+        "link": "https://www.tmtpost.com/8116348.html",
+        "published_date": "Wed, 26 Aug 2026 09:19:00 GMT",
+        "first_seen": "2026-08-26T05:30:58.337762"
+      },
+      "b7e749d1f4e4c1c7cc83ec654dc6fd31943b35f0b7c14bbf6109cb1a5bc4967d": {
+        "title": "Alibaba and ByteDance Exit Gaming Assets as Capital Shifts Toward AI",
+        "link": "https://www.tmtpost.com/8116899.html",
+        "published_date": "Wed, 26 Aug 2026 09:53:00 GMT",
+        "first_seen": "2026-08-26T05:30:58.337772"
+      },
+      "2601ab2f4d5a1e2ebbdf07b6371caca4a81f4781a0d2c52fb041c3e69a36fbfc": {
+        "title": "技术革命：为 Agentic AI 时代做好准备 | 技术趋势",
+        "link": "https://www.infoq.cn/article/8ouuK09WuWA7Up35W9vb?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Aug 2026 10:20:00 GMT",
+        "first_seen": "2026-08-26T05:30:58.337775"
+      },
+      "942cdfa4bf46e17a8eac7b58c5261768998a964317542198a02b76f77a62d2a3": {
+        "title": "苹果突袭发布 M6 与 M5 Ultra 芯片与新款 Mac Mini；字节发布 AI 办公产品「豆包工作」；SpaceX 拟千亿美元建设第二座「星际基地」｜极客早知道",
+        "link": "http://www.geekpark.net/news/369355",
+        "published_date": "Wed, 26 Aug 2026 08:10:00 GMT",
+        "first_seen": "2026-08-26T05:30:58.337777"
+      },
+      "45a6d6734d0d2fc107c0fe3135ba697b4ff80a4dbd111d127875d4728a77bca0": {
+        "title": "330亿，长江存储背后有高人",
+        "link": "https://www.tmtpost.com/8116960.html",
+        "published_date": "Wed, 26 Aug 2026 13:05:00 GMT",
+        "first_seen": "2026-08-26T05:30:58.337779"
       }
     },
     "Finance": {
-      "e8618be428bb44ae85b9a874b8f04282553f9c05f8109e2d59e61cbaccb81cf8": {
-        "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
-        "link": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
-        "published_date": "Sun, 26 Jul 2026 23:45:00 GMT",
-        "first_seen": "2026-07-26T23:59:34.192235"
-      },
-      "ec60619c8106b90dc0f587e2ff5903b869bcd3639f2daabc5dc8a7d65e557733": {
-        "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
-        "link": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
-        "published_date": "Sun, 26 Jul 2026 14:00:00 GMT",
-        "first_seen": "2026-07-26T23:59:34.192242"
-      },
-      "4111955a166f8ca41ebf7808f9208ce0c159e4223effc7ea87fd63d19c3bb88a": {
-        "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
-        "link": "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
-        "published_date": "Sun, 26 Jul 2026 12:30:00 GMT",
-        "first_seen": "2026-07-26T23:59:34.192244"
-      },
-      "e12cf4444c5669b8158ca02b057349555d52220af427396360753f0934d9a999": {
-        "title": "Why wages and productivity look set to diverge further",
-        "link": "https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 11:00:00 GMT",
-        "first_seen": "2026-07-26T23:59:34.192246"
-      },
-      "63c8265a0ca251c53f216583a20a1e87725cc2a9039ba84a84e42543a84d4913": {
-        "title": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
-        "link": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
-        "published_date": "Sun, 26 Jul 2026 19:33:00 GMT",
-        "first_seen": "2026-07-26T23:59:34.192248"
-      },
       "371e85ff9eeeaa338bc1d3727663604575debdab5309e8caf408ade4000e2e22": {
         "title": "Greek shipping carve-out on Russia sanctions prompts EU rethink",
         "link": "https://www.ft.com/content/33c2e340-8964-4124-b0d7-21851a5d8dcb?syn-25a6b1a6=1",
@@ -4683,6 +4653,36 @@
         "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
         "published_date": "Tue, 25 Aug 2026 23:01:00 GMT",
         "first_seen": "2026-08-25T23:24:15.885514"
+      },
+      "333934a87c212669462ede4c822710b097c64e3f4a5d651b35ed6fa5a6a4ecd9": {
+        "title": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
+        "link": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.821643"
+      },
+      "213e09c3b9f6ce837d2e1cf4624855704c51d1c9a95a1dacabebad00a218ef24": {
+        "title": "Institutional investors back Blackstone and KKR funds for wealthy individuals",
+        "link": "https://www.ft.com/content/6b355049-3122-4167-8a8a-ce37da73463d?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.821650"
+      },
+      "7542d1ff6acfdd1b780111b1814325cd44e884aa77d2e9640ae0e3d0c9430b62": {
+        "title": "China challenges Korean champions in flash memory race",
+        "link": "https://www.ft.com/content/1b1c357f-6a1c-4ce3-bb47-980c3de4d3d2?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 03:31:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.821652"
+      },
+      "fdba0ef4308bd878f287bf432ce754d3da5f2f34b5b30f0117e25cfd279e8459": {
+        "title": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
+        "link": "https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.821654"
+      },
+      "a227a139d184a4971156aa68e7f41edaeb59760163cf3bb215a2137552072b1e": {
+        "title": "Four Russian bankers made millions from EU sanctions",
+        "link": "https://www.ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.821655"
       }
     },
     "Ai": {
@@ -6023,13 +6023,43 @@
         "link": "https://www.qbitai.com/2026/08/479314.html",
         "published_date": "Tue, 25 Aug 2026 09:31:00 GMT",
         "first_seen": "2026-08-25T23:24:15.971742"
+      },
+      "4f1adaa9abdf45ca72ba3e0654f318126158c947bdbfb422e55eb06fa5efe47d": {
+        "title": "2026-08-26日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-26/",
+        "published_date": "Wed, 26 Aug 2026 10:20:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.963708"
+      },
+      "2e3fe622fd885fb82d985691d5e3ee471de19aa56e8d88175591ac6232b7d0df": {
+        "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+        "link": "https://www.qbitai.com/2026/08/479631.html",
+        "published_date": "Wed, 26 Aug 2026 03:25:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.963718"
+      },
+      "d39b4571cb51ff70ae7be3a541b99ccbc121c8719bc9a169a9b61ae03c95fdaf": {
+        "title": "WRC乒乓球局爆火！这家中国具身创业公司，砸出了一套全栈新解法",
+        "link": "https://www.qbitai.com/2026/08/478860.html",
+        "published_date": "Wed, 26 Aug 2026 03:02:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.963720"
+      },
+      "2e54b3f0500cab98275766b6d8cda1c1c4577ae714cf7335bbcfbef3f4386394": {
+        "title": "深度实测「豆包工作」+飞书：目前最接近企业Agent终局的答案",
+        "link": "https://www.qbitai.com/2026/08/479348.html",
+        "published_date": "Wed, 26 Aug 2026 02:59:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.963722"
+      },
+      "e90e7b6ef0b6311280027427264c86187fe557644cd8f572b5f22e027cfe0ee6": {
+        "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
+        "link": "https://www.qbitai.com/2026/08/479320.html",
+        "published_date": "Wed, 26 Aug 2026 01:24:00 GMT",
+        "first_seen": "2026-08-26T05:31:23.963723"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-25T23:23:31.908480",
-    "Finance": "2026-08-25T23:24:15.885516",
-    "Ai": "2026-08-25T23:24:15.971744"
+    "Technology": "2026-08-26T05:30:58.337781",
+    "Finance": "2026-08-26T05:31:23.821657",
+    "Ai": "2026-08-26T05:31:23.963726"
   }
 }
