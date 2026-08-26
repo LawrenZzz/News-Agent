@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "962a8b4ac39487d69530b45dfc114ba48af6b6cf95d49e138721c0d54dfa3c5a": {
-        "title": "Cursor 用一群Agent重造SQLite：仅凭 835 页手册，无源码、无测试、不联网",
-        "link": "https://www.infoq.cn/article/5qw8Qe37kGVDq9Yy57XC?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Jul 2026 09:34:00 GMT",
-        "first_seen": "2026-07-27T08:28:53.016142"
-      },
-      "45c409f179bb96c062a6f3044f0db7974de5502207a82d091de0594849aeb811": {
-        "title": "全球首款2nm GPU 炸场！OpenAI、Meta、微软集体站台，AMD 要拆掉英伟达护城河？",
-        "link": "https://www.infoq.cn/article/SJj23gRv7ZXBHyaCi8Eq?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Jul 2026 09:57:00 GMT",
-        "first_seen": "2026-07-27T08:28:53.016149"
-      },
-      "241755aa1e6a672b9ed55db4cdfc0361abf95b2e6c04d00c78e39005ab8b5314": {
-        "title": "如何破解大模型的“金鱼记忆”困境",
-        "link": "https://www.tmtpost.com/8080178.html",
-        "published_date": "Mon, 27 Jul 2026 14:35:00 GMT",
-        "first_seen": "2026-07-27T08:28:53.016152"
-      },
-      "f1f4d5abb8c4173bf853402fd2ff3b6a97c73d30877c1b06f25c7553ae9e0d02": {
-        "title": "亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台",
-        "link": "https://www.infoq.cn/article/JDgONrm19ROF1qHzfOQO?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Jul 2026 09:24:00 GMT",
-        "first_seen": "2026-07-27T08:28:53.016154"
-      },
-      "b5885c6835327490873d030bf5f843bd1f54a89c9b1002eeeba876e28d62e259": {
-        "title": "昆仑万维押注世界模型的两大产业路径：内容创作实时、可交互，机器人先“预演”再行动",
-        "link": "https://www.infoq.cn/article/hj53pts5pYdMRuIujqph?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Jul 2026 11:43:00 GMT",
-        "first_seen": "2026-07-27T08:28:53.016156"
-      },
       "fe2470ca30accd06ea9afd06ea006e91e89c105afaf4002df150dc43a6efa220": {
         "title": "China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble",
         "link": "https://www.tmtpost.com/8081218.html",
@@ -2551,39 +2521,39 @@
         "link": "https://www.tmtpost.com/8116960.html",
         "published_date": "Wed, 26 Aug 2026 13:05:00 GMT",
         "first_seen": "2026-08-26T05:30:58.337779"
+      },
+      "71b70be319346fd9a24cd081a2ef862ea67418483afe723a3c04a960d8de49b0": {
+        "title": "535B 大模型“直播”训练三个月：代码、数据、Loss全公开，吴恩达公开力挺",
+        "link": "https://www.infoq.cn/article/y7KTOS9YbBz0OcoyiweQ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Aug 2026 14:51:00 GMT",
+        "first_seen": "2026-08-26T08:40:04.968444"
+      },
+      "6c33a23f382c91ede74ab672e17b76549697137753c050871eac0b6c86d13642": {
+        "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
+        "link": "https://www.infoq.cn/article/vS7tpsLPdevZhMKdtxei?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Aug 2026 16:26:00 GMT",
+        "first_seen": "2026-08-26T08:40:04.968458"
+      },
+      "790bcdf7597ded12574c74847e793bb41ba9a09d678cb7db063d153b92af7572": {
+        "title": "把城市变成机器人的“试验场”，长沙的具身智能实验",
+        "link": "https://www.tmtpost.com/8116730.html",
+        "published_date": "Wed, 26 Aug 2026 14:47:00 GMT",
+        "first_seen": "2026-08-26T08:40:04.968461"
+      },
+      "cf097f902681363556d4710f1c6e5dc2caef6bc86e833839c67823f422bf721f": {
+        "title": "WhatsApp 测试 AI 反诈：消息无需上传云端",
+        "link": "https://www.infoq.cn/article/wAVlMqVg7fqPjXAyFDjC?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Aug 2026 15:00:00 GMT",
+        "first_seen": "2026-08-26T08:40:04.968463"
+      },
+      "ccb72940fe73edbc626a4f4e69f9dcd874264b8408568be346bcc05255ec60cb": {
+        "title": "Netflix详述如何扩展其实时服务地图",
+        "link": "https://www.infoq.cn/article/T0CGyJc70O4ss6H2OCj9?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Aug 2026 11:11:00 GMT",
+        "first_seen": "2026-08-26T08:40:04.968465"
       }
     },
     "Finance": {
-      "371e85ff9eeeaa338bc1d3727663604575debdab5309e8caf408ade4000e2e22": {
-        "title": "Greek shipping carve-out on Russia sanctions prompts EU rethink",
-        "link": "https://www.ft.com/content/33c2e340-8964-4124-b0d7-21851a5d8dcb?syn-25a6b1a6=1",
-        "published_date": "Mon, 27 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-27T08:29:10.157082"
-      },
-      "b43c9e5c0887f05816224a8e2bce083471cd789c50b28add3f721819831bb0b0": {
-        "title": "Oil falls more than 7% as Iran and US pause strikes over Strait of Hormuz",
-        "link": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
-        "published_date": "Mon, 27 Jul 2026 07:18:00 GMT",
-        "first_seen": "2026-07-27T08:29:10.157089"
-      },
-      "1ffa6b08ea6e3fadac038936e76eb97757be3a65a0b099cf1a70860139cf96d2": {
-        "title": "China’s industrial profits grow at slowest pace this year",
-        "link": "https://www.ft.com/content/3af40915-23c2-4e80-8bec-85ecbf0801c0?syn-25a6b1a6=1",
-        "published_date": "Mon, 27 Jul 2026 04:28:00 GMT",
-        "first_seen": "2026-07-27T08:29:10.157092"
-      },
-      "12034486bc933759610edac0bbe08f8966752e3231df3dfe46726192676d5bf6": {
-        "title": "Beware holographic markets",
-        "link": "https://www.ft.com/content/e76f5ce3-3bd6-4793-87d9-071ecd75f0bb?syn-25a6b1a6=1",
-        "published_date": "Mon, 27 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-27T08:29:10.157094"
-      },
-      "fb3fd43dbf13aed78e45cd0be846a320c051c36d53af58c623ea86bb1fdae6c9": {
-        "title": "Shein slumps to loss ahead of planned Hong Kong listing",
-        "link": "https://www.ft.com/content/9ed6a6f4-c6a6-4027-9c54-19bffcd88913?syn-25a6b1a6=1",
-        "published_date": "Mon, 27 Jul 2026 05:26:00 GMT",
-        "first_seen": "2026-07-27T08:29:10.157095"
-      },
       "1af604a2a9f7d4919cdcb22ad34b96c85e13ccb50c7f461f7ace91a35aff8301": {
         "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
         "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
@@ -4683,39 +4653,21 @@
         "link": "https://www.ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1",
         "published_date": "Wed, 26 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-26T05:31:23.821655"
+      },
+      "7782bd046ec17f7b1d1d796f6861c9d6e5205d440f839c3fbf965215f70662ae": {
+        "title": "The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories",
+        "published_date": "Wed, 26 Aug 2026 08:36:00 GMT",
+        "first_seen": "2026-08-26T08:40:05.020236"
+      },
+      "957dd304f8314abf2637c95a2c6a0571e79bd934a7b33cf374ab1497ce3d6b36": {
+        "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
+        "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 07:01:00 GMT",
+        "first_seen": "2026-08-26T08:40:05.020245"
       }
     },
     "Ai": {
-      "ad8235724142d610fe1097f54e71abe949450e3943c73b444934a6d16e2a88ac": {
-        "title": "AI最尴尬的短板，中国科学院出手了",
-        "link": "https://www.qbitai.com/2026/07/461160.html",
-        "published_date": "Mon, 27 Jul 2026 05:00:00 GMT",
-        "first_seen": "2026-07-27T08:28:30.263103"
-      },
-      "ca0499e3e1a729590f67683eaefb844eef1a2fd580b4dfe18bd5e1b86e6387f0": {
-        "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
-        "link": "https://www.qbitai.com/2026/07/461226.html",
-        "published_date": "Mon, 27 Jul 2026 04:33:00 GMT",
-        "first_seen": "2026-07-27T08:28:30.263118"
-      },
-      "b7c0db12eae90a309132ccaf008bd58a266e05a3bcb1109e3bdee86bbb047deb": {
-        "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-        "link": "https://www.qbitai.com/2026/07/461220.html",
-        "published_date": "Mon, 27 Jul 2026 04:29:00 GMT",
-        "first_seen": "2026-07-27T08:28:30.263121"
-      },
-      "471e6102904369e0d3a255555e11940a00cc866c3baa7b893bd303c947d11149": {
-        "title": "企业出海，被中国信通院和腾讯重新定义了一次",
-        "link": "https://www.qbitai.com/2026/07/461153.html",
-        "published_date": "Mon, 27 Jul 2026 03:55:00 GMT",
-        "first_seen": "2026-07-27T08:28:30.263123"
-      },
-      "359384a147e6b62c7605e8d96f5545cb715a9fdb49ae5ab67b548dc69a1b5f89": {
-        "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-        "link": "https://www.qbitai.com/2026/07/461149.html",
-        "published_date": "Mon, 27 Jul 2026 01:57:00 GMT",
-        "first_seen": "2026-07-27T08:28:30.263125"
-      },
       "8d5f2ff5587e7719845af23b9808ddeb8510b43fc72856c0ddfc837caccfbc31": {
         "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
         "link": "https://www.qbitai.com/2026/07/461444.html",
@@ -6053,13 +6005,25 @@
         "link": "https://www.qbitai.com/2026/08/479320.html",
         "published_date": "Wed, 26 Aug 2026 01:24:00 GMT",
         "first_seen": "2026-08-26T05:31:23.963723"
+      },
+      "18707039520b35cdf2624f4368035e07203e2a97218486892a3e7beb0ff8d10c": {
+        "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+        "link": "https://www.qbitai.com/2026/08/479670.html",
+        "published_date": "Wed, 26 Aug 2026 05:56:00 GMT",
+        "first_seen": "2026-08-26T08:40:05.165163"
+      },
+      "0ada10cb84b77a1427ee07f9d1ba6ea71b66e6343c9cfea3836f618371975f2d": {
+        "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+        "link": "https://www.qbitai.com/2026/08/479634.html",
+        "published_date": "Wed, 26 Aug 2026 05:52:00 GMT",
+        "first_seen": "2026-08-26T08:40:05.165173"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-26T05:30:58.337781",
-    "Finance": "2026-08-26T05:31:23.821657",
-    "Ai": "2026-08-26T05:31:23.963726"
+    "Technology": "2026-08-26T08:40:04.968467",
+    "Finance": "2026-08-26T08:40:05.020248",
+    "Ai": "2026-08-26T08:40:05.165175"
   }
 }

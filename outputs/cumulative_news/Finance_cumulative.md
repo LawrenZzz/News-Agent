@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-26 05:30
+**最后更新时间**: 2026-08-26 08:39
+
+---
+
+## 🆕 最新更新 (2026-08-26 08:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist](https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 08:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI](https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 07:01
+
+#### [Lindsey Graham’s sister wins South Carolina primary with Trump backing](https://www.ft.com/content/5bd905f6-5460-4e76-890f-20746a4c16a8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 01:16
 
 ---
 
