@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 26 Aug 2026 08:39:00 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 08:40:05 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 04:12:00 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:12:57 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,19 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The S&amp;P 500 has three hurdles to clear before a move to 8,000, says this strategist</title>
-      <link>https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The S&amp;P 500 has three hurdles to clear before a move to 8,000, says this strategist]]&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 08:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories</guid>
+      <title>Nvidia projects 70% sales growth next year as it rebuts ‘circular financing’ criticism</title>
+      <link>https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Nvidia projects 70% sales growth next year as it rebuts ‘circular financing’ criticism]]&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 00:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI</title>
-      <link>https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1</link>
-      <description>&lt;![CDATA[Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI]]&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 07:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1</guid>
+      <title>Anthropic agrees $45bn AI data centre deal with UK start-up Nscale</title>
+      <link>https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[Anthropic agrees $45bn AI data centre deal with UK start-up Nscale]]&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 21:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye</title>
+      <link>https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye]]&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 03:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office</title>
+      <link>https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office]]&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 00:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What does PwC’s China setback mean for the Big Four?</title>
+      <link>https://www.ft.com/content/37b8967f-1e6b-4fa9-b261-6f7765cdc6a0?syn-25a6b1a6=1</link>
+      <description>&lt;![CDATA[What does PwC’s China setback mean for the Big Four?]]&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 01:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/37b8967f-1e6b-4fa9-b261-6f7765cdc6a0?syn-25a6b1a6=1</guid>
       <category>Finance</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fe2470ca30accd06ea9afd06ea006e91e89c105afaf4002df150dc43a6efa220": {
-        "title": "China’s Memory Counterattack: CXMT’s $450 Billion Silicon Gamble",
-        "link": "https://www.tmtpost.com/8081218.html",
-        "published_date": "Mon, 27 Jul 2026 19:12:00 GMT",
-        "first_seen": "2026-07-28T00:01:20.894315"
-      },
-      "e06c86d306cf43cc1033828f0f148c2649847ec4b8ba4694584b0e6517409df9": {
-        "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
-        "link": "https://www.infoq.cn/article/vhx0VYNXpieSIuq0YIR6?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Jul 2026 16:51:00 GMT",
-        "first_seen": "2026-07-28T00:01:20.894322"
-      },
-      "08e2e60ae5c340317cc51538c6ec371bc85ab80bd232e9fa6c43c8e88e2e7a15": {
-        "title": "维谛技术田军：电链与冷链将重构AI算力基础设施",
-        "link": "https://www.tmtpost.com/8080820.html",
-        "published_date": "Mon, 27 Jul 2026 18:19:00 GMT",
-        "first_seen": "2026-07-28T00:01:20.894324"
-      },
-      "3355c4b61946a992030a8ce365f7a6b38d6540868ded3ca8d8bac947c110f550": {
-        "title": "曝梁文锋不满内部会议泄露，DeepSeek或暂停融资；Karpathy入职Anthropic仅两月疑离职；日媒拆解宇树G1后认输：短期内赶不上中国｜AI周报",
-        "link": "https://www.infoq.cn/article/oSL5ff3IbpsJZcQzKxow?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 27 Jul 2026 11:46:00 GMT",
-        "first_seen": "2026-07-28T00:01:20.894326"
-      },
-      "62a75dce225bcc300b5998a8fc1504fc2b0cd06f1fb7eaec6089cd38d05e8c72": {
-        "title": "英灵殿科技完成近5000万美元融资，AI4S赛道又多了一个\"掀桌子\"的｜首发",
-        "link": "https://www.tmtpost.com/8080916.html",
-        "published_date": "Mon, 27 Jul 2026 22:06:00 GMT",
-        "first_seen": "2026-07-28T00:01:20.894328"
-      },
       "90736f30aed0c1422d78593a62b039f06256fd3353043209da51be7d84f9aad8": {
         "title": "英伟达重构工程软件栈：Agent、PhysicsNeMo 与 CUDA-X 合流",
         "link": "https://www.infoq.cn/article/zqDgQBsALhkhCkBoRg9l?utm_source=rss&utm_medium=article",
@@ -2551,39 +2521,39 @@
         "link": "https://www.infoq.cn/article/T0CGyJc70O4ss6H2OCj9?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 26 Aug 2026 11:11:00 GMT",
         "first_seen": "2026-08-26T08:40:04.968465"
+      },
+      "374115c717dc46eb9485f5e132488fef2364d43bba81407b07e6e84c3c5b2a80": {
+        "title": "OpenAI自研芯片将击穿英伟达CUDA护城河？",
+        "link": "https://www.tmtpost.com/8117324.html",
+        "published_date": "Thu, 27 Aug 2026 10:07:00 GMT",
+        "first_seen": "2026-08-27T04:12:44.168758"
+      },
+      "2c0346b5692ce8a691342ab8353e5d88f34bc4ace9b29c0c0c6292c9ddb26f72": {
+        "title": "英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级",
+        "link": "https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 26 Aug 2026 17:44:00 GMT",
+        "first_seen": "2026-08-27T04:12:44.168769"
+      },
+      "ffecf511981e1afb0d36b7a0ff3750ef9628c3e2823bea60262e48441d79fa0b": {
+        "title": "AI的账单，不只由科技公司买单",
+        "link": "https://www.tmtpost.com/8118214.html",
+        "published_date": "Thu, 27 Aug 2026 11:52:00 GMT",
+        "first_seen": "2026-08-27T04:12:44.168772"
+      },
+      "537dd9724ca7a77d3ea1f1f670d46f306fa9a1bb2cc3d64d4ec0b9751d8e5271": {
+        "title": "从数字化到AI：企业数智跃迁的路径、实践与挑战 | 2026 ITValue Summit前瞻：AI系统落地系列直播②",
+        "link": "https://www.tmtpost.com/8118639.html",
+        "published_date": "Thu, 27 Aug 2026 12:08:00 GMT",
+        "first_seen": "2026-08-27T04:12:44.168774"
+      },
+      "b73beecb18faa9e5336195a6843492c1364d7d48c886e03feccb65633ed96416": {
+        "title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
+        "link": "https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 27 Aug 2026 10:27:00 GMT",
+        "first_seen": "2026-08-27T04:12:44.168779"
       }
     },
     "Finance": {
-      "1af604a2a9f7d4919cdcb22ad34b96c85e13ccb50c7f461f7ace91a35aff8301": {
-        "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
-        "link": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Jul 2026 21:46:00 GMT",
-        "first_seen": "2026-07-28T00:01:50.482032"
-      },
-      "f1bbd0f23d9b96fa52867e2a47a4ea0f863066ec669d3dc7fe22e361802a2d10": {
-        "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-        "link": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Jul 2026 21:46:00 GMT",
-        "first_seen": "2026-07-28T00:01:50.482041"
-      },
-      "0936aaeddd0091a73721091eacb3bbff80109b736ac539e4d38dfc1c0e732c7b": {
-        "title": "Stop snacking. Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
-        "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Jul 2026 21:37:00 GMT",
-        "first_seen": "2026-07-28T00:01:50.482043"
-      },
-      "fe368a3fd316be15f543840311b49981e377e3f81d14854972650d37466757f4": {
-        "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-        "link": "https://www.marketwatch.com/story/more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-04275db2?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Jul 2026 21:35:00 GMT",
-        "first_seen": "2026-07-28T00:01:50.482045"
-      },
-      "5dd952a0de0feb39fb5eec99062f844d058c237e2ed3516637e2a34e360b41ed": {
-        "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back.",
-        "link": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
-        "published_date": "Mon, 27 Jul 2026 21:03:00 GMT",
-        "first_seen": "2026-07-28T00:01:50.482047"
-      },
       "cd977a2030bc2d573c98f5cb08513af9c784230b81dfa632b309cf79d4faccb8": {
         "title": "AI stock sell-off deepens as investors dump chipmakers",
         "link": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
@@ -4665,27 +4635,39 @@
         "link": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
         "published_date": "Wed, 26 Aug 2026 07:01:00 GMT",
         "first_seen": "2026-08-26T08:40:05.020245"
+      },
+      "1423e746900e4773810281162fde7de9e44b93a015020aeef6f3300d200d0614": {
+        "title": "Nvidia projects 70% sales growth next year as it rebuts ‘circular financing’ criticism",
+        "link": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
+        "published_date": "Thu, 27 Aug 2026 00:47:00 GMT",
+        "first_seen": "2026-08-27T04:12:57.914000"
+      },
+      "b758bddc0cb42d80b4aa9f56a5d45d704bf7cb7ffafab10e4b679a5e238922c6": {
+        "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
+        "link": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
+        "published_date": "Wed, 26 Aug 2026 21:48:00 GMT",
+        "first_seen": "2026-08-27T04:12:57.914008"
+      },
+      "fa25d0b44b4861b9632b3699479493a59f295c49146bf95ae080643a866f47fc": {
+        "title": "What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye",
+        "link": "https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories",
+        "published_date": "Thu, 27 Aug 2026 03:17:00 GMT",
+        "first_seen": "2026-08-27T04:12:57.914010"
+      },
+      "7cb92428bfe8f6e5a0fc21b57b993ff65d1fa8dbc4fc536237d462e0a92178f9": {
+        "title": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+        "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+        "published_date": "Thu, 27 Aug 2026 00:14:00 GMT",
+        "first_seen": "2026-08-27T04:12:57.914012"
+      },
+      "01580d288ad5a7e9051289ed6098744d62b9819b61173725a80e2cd06dbf350e": {
+        "title": "What does PwC’s China setback mean for the Big Four?",
+        "link": "https://www.ft.com/content/37b8967f-1e6b-4fa9-b261-6f7765cdc6a0?syn-25a6b1a6=1",
+        "published_date": "Thu, 27 Aug 2026 01:30:00 GMT",
+        "first_seen": "2026-08-27T04:12:57.914014"
       }
     },
     "Ai": {
-      "8d5f2ff5587e7719845af23b9808ddeb8510b43fc72856c0ddfc837caccfbc31": {
-        "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
-        "link": "https://www.qbitai.com/2026/07/461444.html",
-        "published_date": "Mon, 27 Jul 2026 09:55:00 GMT",
-        "first_seen": "2026-07-28T00:00:52.680385"
-      },
-      "12414ba65f84bf9d7b528df06aa445adcc72a4f8a622f322dd216a344a848419": {
-        "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
-        "link": "https://www.qbitai.com/2026/07/461398.html",
-        "published_date": "Mon, 27 Jul 2026 09:05:00 GMT",
-        "first_seen": "2026-07-28T00:00:52.680396"
-      },
-      "c002269cb039b416685dd47f443e8ba4ec24b34bfdce9f962b044f5da51bdf35": {
-        "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-        "link": "https://www.qbitai.com/2026/07/461392.html",
-        "published_date": "Mon, 27 Jul 2026 08:54:00 GMT",
-        "first_seen": "2026-07-28T00:00:52.680398"
-      },
       "3b5e7e3e4363bd37efe61619e361935c334a2368b114d313f7abbb95d7a6224f": {
         "title": "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
         "link": "https://www.qbitai.com/2026/07/461911.html",
@@ -6017,13 +5999,43 @@
         "link": "https://www.qbitai.com/2026/08/479634.html",
         "published_date": "Wed, 26 Aug 2026 05:52:00 GMT",
         "first_seen": "2026-08-26T08:40:05.165173"
+      },
+      "7fb9d6ea03693a75ecbdc9c8824410e6fc958a16dc7b6e583d4760282b959c3e": {
+        "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+        "link": "https://www.qbitai.com/2026/08/479834.html",
+        "published_date": "Wed, 26 Aug 2026 10:07:00 GMT",
+        "first_seen": "2026-08-27T04:13:10.683731"
+      },
+      "ce1cbba125fa626ee78fab3ef399d3fb6c402c5e22932e54460f8e7c692c29f1": {
+        "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+        "link": "https://www.qbitai.com/2026/08/480005.html",
+        "published_date": "Thu, 27 Aug 2026 02:46:00 GMT",
+        "first_seen": "2026-08-27T04:13:10.683739"
+      },
+      "51139b3934c2a9c4d581141cb2b5c34f98a758794c24b63db42d46fc47c4f1f1": {
+        "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+        "link": "https://www.qbitai.com/2026/08/479919.html",
+        "published_date": "Wed, 26 Aug 2026 16:48:00 GMT",
+        "first_seen": "2026-08-27T04:13:10.683741"
+      },
+      "ef434c2497deec1b54cd23714cccc36c9bef255e309ba748fda4b5417f1cb895": {
+        "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+        "link": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+        "published_date": "Wed, 26 Aug 2026 18:42:00 GMT",
+        "first_seen": "2026-08-27T04:13:10.683743"
+      },
+      "ab1deee17251d43146f858da846caf525fa1d26474f37e872ef8e34b0e72af41": {
+        "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+        "link": "https://www.qbitai.com/2026/08/479811.html",
+        "published_date": "Wed, 26 Aug 2026 10:17:00 GMT",
+        "first_seen": "2026-08-27T04:13:10.683745"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-26T08:40:04.968467",
-    "Finance": "2026-08-26T08:40:05.020248",
-    "Ai": "2026-08-26T08:40:05.165175"
+    "Technology": "2026-08-27T04:12:44.168782",
+    "Finance": "2026-08-27T04:12:57.914017",
+    "Ai": "2026-08-27T04:13:10.683747"
   }
 }
