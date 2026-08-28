@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "326720e1c97f165823ea196889d3026ffd16517ef7017f25010e83bd4cad6c35": {
-        "title": "月耗万亿Token：金山办公为什么不自己训练大模型",
-        "link": "https://www.tmtpost.com/8081855.html",
-        "published_date": "Tue, 28 Jul 2026 12:18:00 GMT",
-        "first_seen": "2026-07-28T23:57:53.889902"
-      },
-      "d45b50dfb467aa45c31dab4924aa542d5b3813006e96b29d9ea6bf3c6a6bd359": {
-        "title": "硅谷开始在大模型上“消费降级”了",
-        "link": "https://www.tmtpost.com/8082154.html",
-        "published_date": "Tue, 28 Jul 2026 18:52:00 GMT",
-        "first_seen": "2026-07-28T23:57:53.889912"
-      },
-      "7203d4e02e73cffd5bcb8b391411b9e5bcee94d92600f2221c0c0c7be6d46d4d": {
-        "title": "豪掷50亿美元！离开OpenAI后，他拿下黄仁勋投资",
-        "link": "https://www.tmtpost.com/8082304.html",
-        "published_date": "Tue, 28 Jul 2026 18:52:00 GMT",
-        "first_seen": "2026-07-28T23:57:53.889914"
-      },
-      "2cead15ff025d79a1eead9d8ff99ea7bf3aeb4e2dd8df0b4899f120250934c5c": {
-        "title": "傍上Anthropic，比特币矿厂咸鱼翻身了？",
-        "link": "https://www.tmtpost.com/8081830.html",
-        "published_date": "Tue, 28 Jul 2026 19:01:00 GMT",
-        "first_seen": "2026-07-28T23:57:53.889915"
-      },
-      "82d87bf0e3bc2421064c5551a20c264fab9db8f67de4fc26aaa1941e732e5435": {
-        "title": "基因治疗，与18岁少年之死",
-        "link": "https://www.tmtpost.com/8081670.html",
-        "published_date": "Tue, 28 Jul 2026 11:17:00 GMT",
-        "first_seen": "2026-07-28T23:57:53.889917"
-      },
       "066c1be6e7135e459728b3e4aaae8ae6a5f41edd6e28a22389f0fc49d0f430c6": {
         "title": "GPT“失控”被索赔1亿美元，微软反手扔王炸：新模型踩翻Mythos、价格砍半，还拉上“苦主”组了联盟",
         "link": "https://www.infoq.cn/article/HmUiGVoVoyMc0Y29cZXc?utm_source=rss&utm_medium=article",
@@ -2521,39 +2491,39 @@
         "link": "https://www.tmtpost.com/8118691.html",
         "published_date": "Thu, 27 Aug 2026 18:20:00 GMT",
         "first_seen": "2026-08-27T16:06:34.460643"
+      },
+      "53c9654dffccf8c3e8c87109e19e3c5fbb9310fdbf32b9cf3d0b5797c8913abe": {
+        "title": "英伟达129亿美元买下Hugging Face，开源社区终究逃不过委身巨头的宿命？",
+        "link": "https://www.tmtpost.com/8120096.html",
+        "published_date": "Fri, 28 Aug 2026 10:59:00 GMT",
+        "first_seen": "2026-08-28T06:31:43.357082"
+      },
+      "8ebded02b33cfef4e37fd8e85376ba83dfcd8cef2efccedc8a926c568d73cbd3": {
+        "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
+        "link": "http://www.geekpark.net/news/369508",
+        "published_date": "Fri, 28 Aug 2026 13:10:00 GMT",
+        "first_seen": "2026-08-28T06:31:43.357091"
+      },
+      "002e32304a4d1c4cbe5eac92aa886bcc8ac3ee738276b730d67a46438197757b": {
+        "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
+        "link": "https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Aug 2026 11:43:00 GMT",
+        "first_seen": "2026-08-28T06:31:43.357094"
+      },
+      "5f8b113d15fcebdfb49dbf261d162ea88044089362d95237f5cd36f066daf845": {
+        "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "link": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 28 Aug 2026 14:00:00 GMT",
+        "first_seen": "2026-08-28T06:31:43.357095"
+      },
+      "d65073bbac8c94c86e92ca7cdcce568fd608f9553068937efd108951839f78ef": {
+        "title": "HBM正在被重新定义",
+        "link": "https://www.tmtpost.com/8117979.html",
+        "published_date": "Thu, 27 Aug 2026 18:25:00 GMT",
+        "first_seen": "2026-08-28T06:31:43.357097"
       }
     },
     "Finance": {
-      "a2a1461a57ffb3a9f0108acfbbfb9580dda21a1b0f2576ad565faca030bbe99d": {
-        "title": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
-        "link": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
-        "published_date": "Tue, 28 Jul 2026 20:54:00 GMT",
-        "first_seen": "2026-07-28T23:58:12.349035"
-      },
-      "ff5837ca536981279e2360841fd2cfac7c50f712bbf984107e39ced75655aeed": {
-        "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
-        "link": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1",
-        "published_date": "Tue, 28 Jul 2026 23:18:00 GMT",
-        "first_seen": "2026-07-28T23:58:12.349041"
-      },
-      "586439c29a82177ffe9758c2048444e0424a7d7721e68cbd8ec91f3b54eaa6dd": {
-        "title": "World’s biggest EV battery maker pivots to AI, grids and ships",
-        "link": "https://www.ft.com/content/13351971-76dd-4284-a81e-3ffd8ec4e351?syn-25a6b1a6=1",
-        "published_date": "Tue, 28 Jul 2026 21:00:00 GMT",
-        "first_seen": "2026-07-28T23:58:12.349043"
-      },
-      "ce8e8594e2afa251c5f58e7140ecd137f309ef7fb1dfdcdaa2d8ef6b0422b614": {
-        "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-        "link": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-        "published_date": "Tue, 28 Jul 2026 22:06:00 GMT",
-        "first_seen": "2026-07-28T23:58:12.349045"
-      },
-      "626958e05515e9a9fc237ba1dd2edc2aba4710ad2e1344626d0c98f47a2a21ef": {
-        "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
-        "link": "https://www.marketwatch.com/story/leveraged-etfs-tied-to-sk-hynix-are-getting-hammered-as-chip-wreck-deepens-5303c33c?mod=mw_rss_topstories",
-        "published_date": "Tue, 28 Jul 2026 21:08:00 GMT",
-        "first_seen": "2026-07-28T23:58:12.349046"
-      },
       "c3d1fd2c4d8f53caa97bd51866e2d59b4f81d659cf61c3be4c15960832b946ef": {
         "title": "US poised to impose new Russia sanctions package",
         "link": "https://www.ft.com/content/612c3693-6b2e-483d-a0f4-ac649ab7d191?syn-25a6b1a6=1",
@@ -4605,6 +4575,36 @@
         "link": "https://www.marketwatch.com/story/how-foot-locker-went-from-a-sneakerhead-destination-to-a-store-struggling-to-get-rid-of-old-shoes-8dd1183a?mod=mw_rss_topstories",
         "published_date": "Thu, 27 Aug 2026 15:25:00 GMT",
         "first_seen": "2026-08-27T16:06:49.898081"
+      },
+      "8d4487a94ca3da2c38bf197f0ac357fee3a03162176d42f42dbbfb9dca7fd72b": {
+        "title": "US corporate profits surge to record as worker payouts wilt",
+        "link": "https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1",
+        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-28T06:32:00.058724"
+      },
+      "edf804a1129b92aa3b62c3e96b8eaf2cbcd66d7bf993fd9000451c830aa3e385": {
+        "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
+        "published_date": "Thu, 27 Aug 2026 22:12:00 GMT",
+        "first_seen": "2026-08-28T06:32:00.058730"
+      },
+      "49bfac303157b2447a13046a9b0931036c798211f652a891d4b53f20967b9015": {
+        "title": "Zero-interest convertible bonds set for record year",
+        "link": "https://www.ft.com/content/8e93c159-2c02-444a-9f22-dcda14bc451f?syn-25a6b1a6=1",
+        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-28T06:32:00.058733"
+      },
+      "5e25e31b39af3f6bfe382ab451821df26e5f5ff28fcc05b0a62deecdf85b3cb6": {
+        "title": "Is China’s ‘wise camel’ the winner from the US-Iran war?",
+        "link": "https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1",
+        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-28T06:32:00.058734"
+      },
+      "10bf3c9c1bde36b87ec8f9489f30a735a616e7111aab02f1b91a1a4b40174f41": {
+        "title": "Saudi Arabia shakes up flagship real estate project",
+        "link": "https://www.ft.com/content/5d7957b7-6ad8-48d3-a84e-87f3c6eac326?syn-25a6b1a6=1",
+        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-28T06:32:00.058735"
       }
     },
     "Ai": {
@@ -5951,13 +5951,43 @@
         "link": "https://www.qbitai.com/2026/08/480079.html",
         "published_date": "Thu, 27 Aug 2026 05:43:00 GMT",
         "first_seen": "2026-08-27T16:06:50.047845"
+      },
+      "8d71c5f44f225c8997a4dbbc9ab88ba87e064f2e231d801916e08ac6fdd15d86": {
+        "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+        "link": "https://www.qbitai.com/2026/08/480186.html",
+        "published_date": "Fri, 28 Aug 2026 01:40:00 GMT",
+        "first_seen": "2026-08-28T06:32:12.469038"
+      },
+      "8d529151f8e412bb2b923f5c389f8f8ed1798d9a4a506a53c56627e575c73af7": {
+        "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
+        "link": "https://www.qbitai.com/2026/08/480208.html",
+        "published_date": "Fri, 28 Aug 2026 03:45:00 GMT",
+        "first_seen": "2026-08-28T06:32:12.469045"
+      },
+      "8579e7dc5c1e79205ce352c2798ca2d7bcf47a6c7bce898e436ecea75737764b": {
+        "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+        "link": "https://www.qbitai.com/2026/08/480223.html",
+        "published_date": "Fri, 28 Aug 2026 04:06:00 GMT",
+        "first_seen": "2026-08-28T06:32:12.469046"
+      },
+      "de80fa2838337981b356202b6534fb0a7be3d78d3664fe3f86b907381a3c765d": {
+        "title": "Planetary prediction engine: Automating global models via Earth AI",
+        "link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+        "published_date": "Thu, 27 Aug 2026 17:37:00 GMT",
+        "first_seen": "2026-08-28T06:32:12.469048"
+      },
+      "b9ab68c622c45c13df8b0d9c1cc29d088d612ff7b316d2e7fddb42c17df20a22": {
+        "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+        "link": "https://www.qbitai.com/2026/08/480227.html",
+        "published_date": "Fri, 28 Aug 2026 04:09:00 GMT",
+        "first_seen": "2026-08-28T06:32:12.469049"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-27T16:06:34.460645",
-    "Finance": "2026-08-27T16:06:49.898084",
-    "Ai": "2026-08-27T16:06:50.047847"
+    "Technology": "2026-08-28T06:31:43.357099",
+    "Finance": "2026-08-28T06:32:00.058738",
+    "Ai": "2026-08-28T06:32:12.469050"
   }
 }

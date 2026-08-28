@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 27 Aug 2026 16:06:00 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2026 16:06:34 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 06:30:00 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:31:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>129 亿美元，英伟达拿下 Hugging Face</title>
-      <link>http://www.geekpark.net/news/369458</link>
-      <description>&lt;![CDATA[129 亿美元，英伟达拿下 Hugging Face]]&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 15:09:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369458</guid>
+      <title>英伟达129亿美元买下Hugging Face，开源社区终究逃不过委身巨头的宿命？</title>
+      <link>https://www.tmtpost.com/8120096.html</link>
+      <description>&lt;![CDATA[英伟达129亿美元买下Hugging Face，开源社区终究逃不过委身巨头的宿命？]]&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 10:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8120096.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道</title>
-      <link>http://www.geekpark.net/news/369414</link>
-      <description>&lt;![CDATA[Ox Alpha「牛来」 身份揭晓；黄仁勋：AI 已迈过商业化拐点；世界人形机器人运动会闭幕：天工 Ultra 百米跑出 8 秒 64｜极客早知道]]&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 08:27:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369414</guid>
+      <title>世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」</title>
+      <link>http://www.geekpark.net/news/369508</link>
+      <description>&lt;![CDATA[世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」]]&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 13:10:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369508</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型推理加速全链路：内存管理、编译优化、量化与并行策略</title>
-      <link>https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型推理加速全链路：内存管理、编译优化、量化与并行策略]]&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 17:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&amp;utm_medium=article</guid>
+      <title>1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后</title>
+      <link>https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后]]&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>9亿美元刷新机器人融资纪录，资本开始抢注“物理AI”门票</title>
-      <link>https://www.tmtpost.com/8118268.html</link>
-      <description>&lt;![CDATA[9亿美元刷新机器人融资纪录，资本开始抢注“物理AI”门票]]&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 17:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8118268.html</guid>
+      <title>Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎</title>
+      <link>https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎]]&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI办公之争：腾讯、阿里、字节在牌桌上亮出的第一张牌，是各自的组织架构</title>
-      <link>https://www.tmtpost.com/8118691.html</link>
-      <description>&lt;![CDATA[AI办公之争：腾讯、阿里、字节在牌桌上亮出的第一张牌，是各自的组织架构]]&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8118691.html</guid>
+      <title>HBM正在被重新定义</title>
+      <link>https://www.tmtpost.com/8117979.html</link>
+      <description>&lt;![CDATA[HBM正在被重新定义]]&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8117979.html</guid>
       <category>Technology</category>
     </item>
   </channel>
