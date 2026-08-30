@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5d0acb833a3164e58e22d629b814ab4661248864e7259e66b2818b72653fcb1e": {
-        "title": "OpenAI 硬件路线图曝光：第一台硬件没有屏幕，手机 2027 上半年量产",
-        "link": "http://www.geekpark.net/news/368198",
-        "published_date": "Fri, 31 Jul 2026 03:04:00 GMT",
-        "first_seen": "2026-07-31T07:50:39.657840"
-      },
-      "dd603a212e597933ac6d151911f570689be7f2c60c62e1052971324cdb48b71c": {
-        "title": "GitHub AI Agent 翻车：攻击者不用黑客技术，只写一句话就能窃取数据",
-        "link": "https://www.infoq.cn/article/u4rDqep8zVWUJsqVoQ23?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 31 Jul 2026 12:00:00 GMT",
-        "first_seen": "2026-07-31T07:50:39.657846"
-      },
-      "429f45f10d0f0cf052aac8ec716e7f6ae11b1805a4b8a4aaf299c1aaadcfa1a6": {
-        "title": "微软、Meta 同日交财报：小扎把现金流烧到只剩7.84亿美元，纳德拉靠 Azure 赚疯了",
-        "link": "https://www.infoq.cn/article/cWloUAofMHCLHpvscihh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 31 Jul 2026 10:53:00 GMT",
-        "first_seen": "2026-07-31T07:50:39.657848"
-      },
-      "4144ab355a77e0daa9b361e519aae9e46e0fbfdd4c66c9e078b8f83174a25444": {
-        "title": "UBTECH’s Humanlike Robot Bet Tests Whether Machines Can Become More Than Industrial Tools",
-        "link": "https://www.tmtpost.com/8086616.html",
-        "published_date": "Fri, 31 Jul 2026 13:22:00 GMT",
-        "first_seen": "2026-07-31T07:50:39.657850"
-      },
-      "b8b1774a6c5c9816edd0a9fbcffce087fd75e5e2957ebccfb45c1f1f19548aaa": {
-        "title": "豆包收编飞书，大厂猛攻AI办公",
-        "link": "https://www.tmtpost.com/8086400.html",
-        "published_date": "Fri, 31 Jul 2026 15:21:00 GMT",
-        "first_seen": "2026-07-31T07:50:39.657852"
-      },
       "c91b2a45232e6770fb6060562649365a1cb06d03ec8b07aa7697b6b836689a4c": {
         "title": "NVIDIA Vera Rubin 正式登场：从芯片卷到电网，只为压低每一个 Token 的成本",
         "link": "https://www.infoq.cn/article/3gb6NlxK6c0A9or5Zfbt?utm_source=rss&utm_medium=article",
@@ -2491,39 +2461,39 @@
         "link": "https://www.tmtpost.com/8121590.html",
         "published_date": "Sat, 29 Aug 2026 12:46:00 GMT",
         "first_seen": "2026-08-30T01:03:11.159706"
+      },
+      "35fbfc523589debe0d7bb49835350ff1c37b0fd96488b0b29946b0d13cce9e7e": {
+        "title": "对话艾博生物CEO英博：mRNA的第二战场，拆解人类首个肿瘤疫苗三期突破",
+        "link": "https://www.tmtpost.com/8121867.html",
+        "published_date": "Sun, 30 Aug 2026 11:09:00 GMT",
+        "first_seen": "2026-08-30T10:16:35.211690"
+      },
+      "93113efe1347bffbe9e18bc4248b25ff663094ce79a6af45e0446a6127d24f1e": {
+        "title": "【数智周报】OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制；黄仁勋：AI已抵达产业拐点，彻底告别概念阶段；腾讯高管回应“腾讯做AI慢了”质疑",
+        "link": "https://www.tmtpost.com/8121886.html",
+        "published_date": "Sun, 30 Aug 2026 09:39:00 GMT",
+        "first_seen": "2026-08-30T10:16:35.211699"
+      },
+      "7d924581ccb5d0bf7aa8f9cd135c48beff4dfd191932ac07fcc52b6252e71362": {
+        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
+        "link": "https://www.tmtpost.com/8121824.html",
+        "published_date": "Sun, 30 Aug 2026 09:34:00 GMT",
+        "first_seen": "2026-08-30T10:16:35.211701"
+      },
+      "4983661dbfdb39c4225893f193a60f007a763a056b6fb35dc781655f315166f9": {
+        "title": "营收超381 亿，二线电池企业欣旺达半年报如何拆解？动储业务高增背后有三笔账需要细看",
+        "link": "https://www.tmtpost.com/8121945.html",
+        "published_date": "Sun, 30 Aug 2026 11:09:00 GMT",
+        "first_seen": "2026-08-30T10:16:35.211703"
+      },
+      "989cb42c40f39836941799827606766fbe2d6e36555bbb774161f15889c09057": {
+        "title": "优必选，追上了宇树？",
+        "link": "https://www.tmtpost.com/8121802.html",
+        "published_date": "Sun, 30 Aug 2026 09:41:00 GMT",
+        "first_seen": "2026-08-30T10:16:35.211704"
       }
     },
     "Finance": {
-      "c5251f8bc8e887fba8f87f775a48d94feed20ae49d0b0e4d6e02be75f3196032": {
-        "title": "Corporate insiders are sending warning signals about the stock market",
-        "link": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
-        "published_date": "Fri, 31 Jul 2026 00:31:00 GMT",
-        "first_seen": "2026-07-31T07:50:54.621767"
-      },
-      "ca00e50dce3d3cc22f3f125a0f3f7b09a75bd90d3ff2b7bc5e23ef5a005372ea": {
-        "title": "Asian markets rebound as investors pile back into AI stocks",
-        "link": "https://www.ft.com/content/23eb1fd4-8301-4c0e-89b3-2647389e6226?syn-25a6b1a6=1",
-        "published_date": "Fri, 31 Jul 2026 07:10:00 GMT",
-        "first_seen": "2026-07-31T07:50:54.621773"
-      },
-      "d3e4d6537dcdac882be5cef670eb871a39294544ad1294416af437e12fe36591": {
-        "title": "We’ve moved from income world to wealth world",
-        "link": "https://www.ft.com/content/6a35508c-c0bd-4000-81b3-7c7383fb24fd?syn-25a6b1a6=1",
-        "published_date": "Fri, 31 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-31T07:50:54.621776"
-      },
-      "c55d0a39428f9ba8efc3fa940d7b908cd0be33b2d6385eb8d5ec1ba2a26b4076": {
-        "title": "China is smarter about subsidies than everybody else",
-        "link": "https://www.ft.com/content/871976c7-8c4f-405e-803e-d86cf22bcf0f?syn-25a6b1a6=1",
-        "published_date": "Fri, 31 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-31T07:50:54.621777"
-      },
-      "6b9b15dd1f462c6b776655b2271fd09e27592d41d324ecc13887368cdb02d990": {
-        "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing",
-        "link": "https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df?syn-25a6b1a6=1",
-        "published_date": "Fri, 31 Jul 2026 00:55:00 GMT",
-        "first_seen": "2026-07-31T07:50:54.621779"
-      },
       "040daec71694f6b3a127cd9bb4c4937c3de738806e4c64420da504029581637d": {
         "title": "Eurozone inflation rises to 2.9% in July",
         "link": "https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b?syn-25a6b1a6=1",
@@ -4545,27 +4515,39 @@
         "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
         "published_date": "Sat, 29 Aug 2026 13:00:00 GMT",
         "first_seen": "2026-08-30T01:03:24.649245"
+      },
+      "92f8c405afaba1ed9bd00349026d42747d4bb551e5fe378f2f4d60d0d7061220": {
+        "title": "What’s the fiscal hit from higher yields?",
+        "link": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
+        "published_date": "Sun, 30 Aug 2026 04:12:00 GMT",
+        "first_seen": "2026-08-30T10:16:45.047703"
+      },
+      "a3ebf4906f1ebb5178c121bd753edb0486a75bfcc984577ffa89eb7a5f871394": {
+        "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
+        "link": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
+        "published_date": "Sun, 30 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-30T10:16:45.047709"
+      },
+      "2d5b2029b50deb0f3d1e0d53bbc41d4f6a56d0725b1d77f4f129a54968c4463e": {
+        "title": "‘SmashCos’: Europe’s oil majors create new generation of independent companies",
+        "link": "https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1",
+        "published_date": "Sun, 30 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-30T10:16:45.047711"
+      },
+      "cc2f3186cddcda5135572dbc24eec8732ee5e8de442183ee96e2791746c2a476": {
+        "title": "EU to help tourism hotspots crack down on Airbnb-style holiday rentals",
+        "link": "https://www.ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1",
+        "published_date": "Sun, 30 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-30T10:16:45.047713"
+      },
+      "6bc466520ca90c43e9c5225505a5c72df077f41192f6190b20034471b7b2e52e": {
+        "title": "Iceland rejects reopening talks on EU entry",
+        "link": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1",
+        "published_date": "Sun, 30 Aug 2026 09:40:00 GMT",
+        "first_seen": "2026-08-30T10:16:45.047714"
       }
     },
     "Ai": {
-      "b86d66f151aaaa8ac83515a79aa0dd5661c4ca314e74f8a9793400dc57ce714b": {
-        "title": "2026-07-31日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-31/",
-        "published_date": "Fri, 31 Jul 2026 10:49:00 GMT",
-        "first_seen": "2026-07-31T07:50:17.390883"
-      },
-      "fc628a68d25e04ede15efcec3e0906e827080722e685fc471008e2dea52d2178": {
-        "title": "学习强国做了个AI社区，两周铺进68座城市",
-        "link": "https://www.qbitai.com/2026/07/463727.html",
-        "published_date": "Fri, 31 Jul 2026 06:47:00 GMT",
-        "first_seen": "2026-07-31T07:50:17.390892"
-      },
-      "00694f4aa8245cb272ab9ce1e8cc0ee28f8cb0ce0cb050ca16bd4650cfa92247": {
-        "title": "GPT-5.6今起大降价，最大幅度80%！",
-        "link": "https://www.qbitai.com/2026/07/463640.html",
-        "published_date": "Fri, 31 Jul 2026 03:01:00 GMT",
-        "first_seen": "2026-07-31T07:50:17.390894"
-      },
       "948a3c2c85f613d59fd8e16168adb6ac492ca768672195d0ae784999b6d35530": {
         "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
         "link": "https://www.qbitai.com/2026/07/464328.html",
@@ -5867,13 +5849,19 @@
         "link": "https://www.qbitai.com/2026/08/480787.html",
         "published_date": "Sat, 29 Aug 2026 11:35:00 GMT",
         "first_seen": "2026-08-30T01:03:56.565991"
+      },
+      "99aaf2d16f5fd191fc8017ba604f7e5589489c56242d375c6e6eb0fe78acbc63": {
+        "title": "2026-08-30日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-30/",
+        "published_date": "Sun, 30 Aug 2026 10:45:00 GMT",
+        "first_seen": "2026-08-30T10:16:45.167436"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-30T01:03:11.159709",
-    "Finance": "2026-08-30T01:03:24.649248",
-    "Ai": "2026-08-30T01:03:56.565992"
+    "Technology": "2026-08-30T10:16:35.211706",
+    "Finance": "2026-08-30T10:16:45.047716",
+    "Ai": "2026-08-30T10:16:45.167444"
   }
 }
