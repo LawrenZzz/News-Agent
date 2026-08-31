@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 31 Aug 2026 01:04:00 GMT</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 01:04:52 GMT</lastBuildDate>
+    <pubDate>Mon, 31 Aug 2026 11:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:21:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了</title>
-      <link>http://www.geekpark.net/news/369555</link>
-      <description>&lt;![CDATA[OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了]]&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 18:53:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369555</guid>
+      <title>英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了</title>
+      <link>https://www.tmtpost.com/8122952.html</link>
+      <description>&lt;![CDATA[英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8122952.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】个人住房贷款政策有大变化，个人房贷期限延至最长40年；OpenAI将终止向Cursor提供模型服务，马斯克回应；报告称AI公司每赚100美元近40美元流向云巨头</title>
-      <link>https://www.tmtpost.com/8122212.html</link>
-      <description>&lt;![CDATA[【钛晨报】个人住房贷款政策有大变化，个人房贷期限延至最长40年；OpenAI将终止向Cursor提供模型服务，马斯克回应；报告称AI公司每赚100美元近40美元流向云巨头]]&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8122212.html</guid>
+      <title>OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款</title>
+      <link>https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 14:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>天数智芯盈利了，但钱不是卖芯片赚的</title>
-      <link>https://www.tmtpost.com/8122018.html</link>
-      <description>&lt;![CDATA[天数智芯盈利了，但钱不是卖芯片赚的]]&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 18:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8122018.html</guid>
+      <title>Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成</title>
+      <link>https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>自动驾驶入法后，罚单还得车主交?</title>
-      <link>https://www.tmtpost.com/8122093.html</link>
-      <description>&lt;![CDATA[自动驾驶入法后，罚单还得车主交?]]&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 18:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8122093.html</guid>
+      <title>“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱</title>
+      <link>https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 15:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>人形机器人还撑不起极智嘉</title>
-      <link>https://www.tmtpost.com/8122055.html</link>
-      <description>&lt;![CDATA[人形机器人还撑不起极智嘉]]&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 18:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8122055.html</guid>
+      <title>InfoQ 2026 年云计算与 DevOps 趋势报告</title>
+      <link>https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[InfoQ 2026 年云计算与 DevOps 趋势报告]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 09:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

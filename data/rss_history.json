@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cfe761295834ebcad84540f64bed597eb0b98f793d79aeca035985b2dfe823b1": {
-        "title": "AI 重构公司，字节肢解飞书，豆包接驳抖音",
-        "link": "https://www.tmtpost.com/8087238.html",
-        "published_date": "Sat, 01 Aug 2026 10:08:00 GMT",
-        "first_seen": "2026-08-01T07:27:45.357722"
-      },
-      "a9275dfdc9e29768b025723e32c3b90f9f2773df7b1ec136704ba68cb00ae584": {
-        "title": "FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考",
-        "link": "https://www.tmtpost.com/8087586.html",
-        "published_date": "Sat, 01 Aug 2026 14:31:00 GMT",
-        "first_seen": "2026-08-01T07:27:45.357728"
-      },
-      "8d5cd0d16ffb4aaa5eaec4c89f0a9a8d6d6de8a30f94408245ae50a507530b14": {
-        "title": "谁在成为人形机器人的Tier 1？",
-        "link": "https://www.tmtpost.com/8087356.html",
-        "published_date": "Sat, 01 Aug 2026 10:18:00 GMT",
-        "first_seen": "2026-08-01T07:27:45.357730"
-      },
-      "0c5765e2862d0ae2b6aeb13805dcd472eb1a0fce6824d4169e2a2a7c6e92280f": {
-        "title": "92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了",
-        "link": "https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 01 Aug 2026 14:05:00 GMT",
-        "first_seen": "2026-08-01T07:27:45.357732"
-      },
-      "618346e4156537168022074e8ef7f251453b83c9a49d069575f3637d7a26c233": {
-        "title": "硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务",
-        "link": "https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 01 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-01T07:27:45.357734"
-      },
-      "d217d8e779811a6c3e7345985e30419deb02288536c6b108c91bae04845f81e8": {
-        "title": "数百万本书，被Claude“阅后即焚”",
-        "link": "https://www.tmtpost.com/8088012.html",
-        "published_date": "Sat, 01 Aug 2026 16:41:00 GMT",
-        "first_seen": "2026-08-01T09:55:34.394901"
-      },
-      "9b7ce981a45750d0289035576cff8feec9b40c772da8971faa2156d2c8a105e8": {
-        "title": "WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？",
-        "link": "https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 01 Aug 2026 17:20:00 GMT",
-        "first_seen": "2026-08-01T09:55:34.394909"
-      },
-      "bae5b94824386876263372de0638845776d30a1c0a377c6fde315e25056afc2d": {
-        "title": "“榨”出硅的极限：怎么让GPU不“闲着”？",
-        "link": "https://www.tmtpost.com/8088046.html",
-        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
-        "first_seen": "2026-08-01T09:55:34.394911"
-      },
-      "eeb5bb4ee0d4ba09a3206731f44b9f90f93882014c19bd6ce2b1ff2cc4e9ea9f": {
-        "title": "苹果的5万亿美元时刻：最强财报，最弱AI",
-        "link": "https://www.tmtpost.com/8087556.html",
-        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
-        "first_seen": "2026-08-01T09:55:34.394914"
-      },
-      "75a453681ea42b597c0143aee5e4123b93b94d02812eb84ec13e61bb685d1c67": {
-        "title": "车型越多，死得越快？全球车企正在抛弃车海战术",
-        "link": "https://www.tmtpost.com/8087383.html",
-        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
-        "first_seen": "2026-08-01T09:55:34.394915"
-      },
       "6c1fe37f188a58ce6a89714b358f0b9690e43c0353fda9606557c6f6e52f4767": {
         "title": "自研大模型的马斯克，把豆包装进了特斯拉",
         "link": "https://www.tmtpost.com/8087804.html",
@@ -2461,45 +2401,39 @@
         "link": "https://www.tmtpost.com/8122055.html",
         "published_date": "Sun, 30 Aug 2026 18:48:00 GMT",
         "first_seen": "2026-08-31T01:04:52.180205"
+      },
+      "9791b38d35ba034e1d849c818e87dd51e04744eab1148a53e670a19e4c3d483b": {
+        "title": "英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了",
+        "link": "https://www.tmtpost.com/8122952.html",
+        "published_date": "Mon, 31 Aug 2026 19:13:00 GMT",
+        "first_seen": "2026-08-31T11:21:23.601434"
+      },
+      "448c83b260104e61e764f4c3bcb75219e70274c6bb2974564f2359a59731b928": {
+        "title": "OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款",
+        "link": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 31 Aug 2026 14:16:00 GMT",
+        "first_seen": "2026-08-31T11:21:23.601442"
+      },
+      "91f4c19dc9177d9877874d3b67cc5c89c3c0aa9c88ffbfc3daa5792ab058dfb7": {
+        "title": "Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成",
+        "link": "https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 31 Aug 2026 14:56:00 GMT",
+        "first_seen": "2026-08-31T11:21:23.601444"
+      },
+      "05f59645af3a5f42ec32ec43870cafb32f14e9148864e3575dbd98c253971992": {
+        "title": "“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱",
+        "link": "https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 31 Aug 2026 15:19:00 GMT",
+        "first_seen": "2026-08-31T11:21:23.601446"
+      },
+      "2e73b4a80cdfc6ce911ed51ba06460940917689886ece10c172f54474d841e7c": {
+        "title": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "link": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 31 Aug 2026 09:53:00 GMT",
+        "first_seen": "2026-08-31T11:21:23.601447"
       }
     },
     "Finance": {
-      "71fcf4d2e72ba84723fb94cb3abd8a830ec09f56d1b002c4fadc01f9cd111dd2": {
-        "title": "AI’s ‘cookie banner’ moment: EU labels come for the bots",
-        "link": "https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-01T07:27:54.706239"
-      },
-      "f5b9110c12310405aed25148e9d09d33f1bfcf93b040665c9df191ed135c9768": {
-        "title": "Situational Awareness got the future right but misread the past",
-        "link": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-01T07:27:54.706245"
-      },
-      "d5ed2f77ed7cdb860693ed5b66437332472c8e1abef060c3df9a9d6453932479": {
-        "title": "The war dividend",
-        "link": "https://www.ft.com/content/523aa460-0f70-4afd-bd9a-5ab078624931?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-01T07:27:54.706247"
-      },
-      "b68b255158263be4f97e4d01d21c40bfee77ec955758c6930e1f2725610f50cb": {
-        "title": "Humbling times for markets",
-        "link": "https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-01T07:27:54.706249"
-      },
-      "96a1d5f2a8ef6ed4eb5d5e2659c5cdd84c74dfa5dc24202fa0aeec26665d8c12": {
-        "title": "Fifa abandons $20bn stake-sale plan after global backlash",
-        "link": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 01:57:00 GMT",
-        "first_seen": "2026-08-01T07:27:54.706250"
-      },
-      "1b7ca8ee1ceb618a69d1aeac71e8aec07c358cd1aa2cfa6284abccb035cdc789": {
-        "title": "Fifa abandons $20bn investment plan after global backlash",
-        "link": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 08:44:00 GMT",
-        "first_seen": "2026-08-01T09:55:34.443890"
-      },
       "40cd97753bd59c1e6d6a1ba8db8796fe4ec4eb1f84cb844a4eb37bb693bdfd89": {
         "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
         "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
@@ -4485,45 +4419,39 @@
         "link": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1",
         "published_date": "Sun, 30 Aug 2026 12:12:00 GMT",
         "first_seen": "2026-08-31T01:05:06.556234"
+      },
+      "1f71e67e1f0e0156621fe6a22542265e9c7ed97fea87293eb60d8d5b12224667": {
+        "title": "Will financial innovation dethrone the dollar?",
+        "link": "https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3",
+        "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-31T11:21:40.444142"
+      },
+      "c82777b8080e025b4b8354c6d9095e50fc4f33116dfa860d96fe5e2ed03ece12": {
+        "title": "Japan’s bonds and yen under pressure after Warsh’s Jackson Hole speech",
+        "link": "https://www.ft.com/content/1c4f488f-32bc-4b49-a0c8-c55d95f5422b?syn-25a6b1a6=1",
+        "published_date": "Mon, 31 Aug 2026 07:32:00 GMT",
+        "first_seen": "2026-08-31T11:21:40.444148"
+      },
+      "23d7f45aa43fa654f98b78e524365d8a4439f754515539228109b43700d93144": {
+        "title": "Banks and insurers brace for biggest German pension upheaval in 20 years",
+        "link": "https://www.ft.com/content/4090d0ca-8ec6-4d89-aacc-f0ca72aeb038?syn-25a6b1a6=1",
+        "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-31T11:21:40.444150"
+      },
+      "c255440c7b894c29423be79dfdf2704d32b5bedeb06354cca989472915f3e2fc": {
+        "title": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+        "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+        "published_date": "Mon, 31 Aug 2026 08:55:00 GMT",
+        "first_seen": "2026-08-31T11:21:40.444151"
+      },
+      "02d45b40ae060e56f0fcfac27011e136a7b2c21448ac137d926ed0b355fe7e52": {
+        "title": "LIV Golf prepares for imminent bankruptcy filing",
+        "link": "https://www.ft.com/content/5051e92f-371f-4a46-bdee-e8877b68caf8?syn-25a6b1a6=1",
+        "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-31T11:21:40.444152"
       }
     },
     "Ai": {
-      "67ef945790cf00bfc911a415582e731e8a0d5193dbd5604a256ef91473515a89": {
-        "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-        "link": "https://www.qbitai.com/2026/08/464532.html",
-        "published_date": "Sat, 01 Aug 2026 04:53:00 GMT",
-        "first_seen": "2026-08-01T07:27:27.800491"
-      },
-      "3ba122bb7591bd2aba35d4bb12d167ac0af2b06f6d72235349f67dd01a55c2af": {
-        "title": "Anthropic模型，也失控了。。。",
-        "link": "https://www.qbitai.com/2026/08/464412.html",
-        "published_date": "Sat, 01 Aug 2026 03:18:00 GMT",
-        "first_seen": "2026-08-01T07:27:27.800499"
-      },
-      "3e8503937fced5ecd6db4efd6942741dd06c94d091a62fbd21035fd01f9566a8": {
-        "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-        "link": "https://www.qbitai.com/2026/08/464693.html",
-        "published_date": "Sat, 01 Aug 2026 05:02:00 GMT",
-        "first_seen": "2026-08-01T07:27:27.800502"
-      },
-      "624798b6aa65f05552bd7b6e22ecad1c00cd4c1106754d9ef74ed455dbe3c293": {
-        "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-        "link": "https://www.qbitai.com/2026/08/464452.html",
-        "published_date": "Sat, 01 Aug 2026 03:38:00 GMT",
-        "first_seen": "2026-08-01T07:27:27.800504"
-      },
-      "b074fc3c92289f481aea48e224df28ea97291b71df53b6eea57e13283c5e3cbe": {
-        "title": "AI顶会现场，见到了一家美妆巨头",
-        "link": "https://www.qbitai.com/2026/08/464364.html",
-        "published_date": "Sat, 01 Aug 2026 02:52:00 GMT",
-        "first_seen": "2026-08-01T07:27:27.800506"
-      },
-      "dfcce21fa18b315d04887e5f54ac0d60e60bab4bce089bb817c34bc9d4d4f8fc": {
-        "title": "2026-08-01日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-01/",
-        "published_date": "Sat, 01 Aug 2026 10:52:00 GMT",
-        "first_seen": "2026-08-01T09:55:12.419257"
-      },
       "4f7067e967ca3d1702a1ebcb852ee8eb18785452bd81795cd97e66058e2c2921": {
         "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
         "link": "https://www.qbitai.com/2026/08/464781.html",
@@ -5777,13 +5705,43 @@
         "link": "https://hex2077.dev/docs/2026-08/2026-08-30/",
         "published_date": "Sun, 30 Aug 2026 10:45:00 GMT",
         "first_seen": "2026-08-30T10:16:45.167436"
+      },
+      "7d7ae4fdea3ac572c76bc389fc8d6bfce487956cef1a9b455c6378cb81654da3": {
+        "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+        "link": "https://www.qbitai.com/2026/08/481893.html",
+        "published_date": "Mon, 31 Aug 2026 04:47:00 GMT",
+        "first_seen": "2026-08-31T11:21:52.220591"
+      },
+      "dd52eff633eb1a669034ee14b9e6e7e4549c81e7518b56e6c0d7674f4d897466": {
+        "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+        "link": "https://www.qbitai.com/2026/08/481759.html",
+        "published_date": "Mon, 31 Aug 2026 03:24:00 GMT",
+        "first_seen": "2026-08-31T11:21:52.220597"
+      },
+      "632833d8f5491b3ac47848d2aab03801634d593534b2a260b028771311dd9c13": {
+        "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+        "link": "https://www.qbitai.com/2026/08/481919.html",
+        "published_date": "Mon, 31 Aug 2026 07:34:00 GMT",
+        "first_seen": "2026-08-31T11:21:52.220600"
+      },
+      "d3f5d6f41732c83d854b9a09c370745d67ee509c71b1aac68e00b3a198f941e4": {
+        "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+        "link": "https://www.qbitai.com/2026/08/481475.html",
+        "published_date": "Mon, 31 Aug 2026 03:01:00 GMT",
+        "first_seen": "2026-08-31T11:21:52.220601"
+      },
+      "6a55feec3d009e67198d9562309aa46ffb2116543e7260f955e65e885f50250d": {
+        "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+        "link": "https://www.qbitai.com/2026/08/481923.html",
+        "published_date": "Mon, 31 Aug 2026 07:53:00 GMT",
+        "first_seen": "2026-08-31T11:21:52.220602"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-31T01:04:52.180207",
-    "Finance": "2026-08-31T01:05:06.556236",
-    "Ai": "2026-08-30T10:16:45.167444"
+    "Technology": "2026-08-31T11:21:23.601450",
+    "Finance": "2026-08-31T11:21:40.444159",
+    "Ai": "2026-08-31T11:21:52.220603"
   }
 }
