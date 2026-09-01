@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ac424a0d47eb005cfdc05d633ce83d3ddbaab86bb5896fb0bf026b1d235a6184": {
-        "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
-        "link": "http://www.geekpark.net/news/368277",
-        "published_date": "Sun, 02 Aug 2026 09:13:00 GMT",
-        "first_seen": "2026-08-02T07:32:02.528836"
-      },
-      "a42db128de2f523f5bfa4510236974e7ea6bb294088255038ac1d121b26c2ba4": {
-        "title": "【数智周报】长鑫科技市值登顶A股；字节调整飞书、火山、豆包组织架构；Kimi K3开源上线即爆火",
-        "link": "https://www.tmtpost.com/8081682.html",
-        "published_date": "Sun, 02 Aug 2026 11:53:00 GMT",
-        "first_seen": "2026-08-02T07:32:02.528842"
-      },
-      "d8c29b82beaef15e80ff9981aa3c8f7969206d74b9aede0249c2f30d3aa60147": {
-        "title": "如果这不是公关：为什么请伯南克可能是Anthropic的最优解？",
-        "link": "https://www.tmtpost.com/8088340.html",
-        "published_date": "Sun, 02 Aug 2026 09:45:00 GMT",
-        "first_seen": "2026-08-02T07:32:02.528845"
-      },
-      "0e8e29af26150f8c9d79e30454ee6d49ff23762c09d0c989075f14b6d7e365e2": {
-        "title": "全球语音大模型，角逐方向盘后的麦克风",
-        "link": "https://www.tmtpost.com/8088265.html",
-        "published_date": "Sun, 02 Aug 2026 12:45:00 GMT",
-        "first_seen": "2026-08-02T07:32:02.528846"
-      },
-      "cf10dae859d6d4c1c28d4251cdff132e4c8ac9dc181bd5d5546c1f374b97a7ef": {
-        "title": "用了多年 React，Remix 终于“叛变”了：3.0 版本彻底重写",
-        "link": "https://www.infoq.cn/article/s8IA8KgdrizgCEsQAOXr?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 02 Aug 2026 09:11:00 GMT",
-        "first_seen": "2026-08-02T07:32:02.528848"
-      },
       "bd18448109502f22135cbd9b2fa212bb7192b18228cdead8264a55a7bfa39009": {
         "title": "基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳",
         "link": "https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK?utm_source=rss&utm_medium=article",
@@ -2431,39 +2401,39 @@
         "link": "https://www.tmtpost.com/8123403.html",
         "published_date": "Tue, 01 Sep 2026 09:26:00 GMT",
         "first_seen": "2026-09-01T01:36:48.177643"
+      },
+      "3ae8d358954bcfa44e845380bcfcbacbefe850fa0223639d933853199a09634a": {
+        "title": "通过操作 DRAM 控制器寄存器可突破 CPU 内存隔离机制",
+        "link": "https://www.infoq.cn/article/G5CDMcK3tU0h71LzUlyo?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 01 Sep 2026 15:00:00 GMT",
+        "first_seen": "2026-09-01T09:46:17.797023"
+      },
+      "383c9531a55b15c77f30303f17df1b1b5bb526ae52c5c2e34cd1ebe214dcff88": {
+        "title": "独家｜扩散语言模型杀进端侧：Agent跑快5倍，GPT的“下一代替代者”出现了？",
+        "link": "https://www.tmtpost.com/8124156.html",
+        "published_date": "Tue, 01 Sep 2026 12:34:00 GMT",
+        "first_seen": "2026-09-01T09:46:17.797033"
+      },
+      "4382d2d9b78ecb74fdb304558b7d334f375126850a9526394750b5b5d7d9d3e0": {
+        "title": "AWS 发布 Aws-Bench，用于评估云任务中的智能代理",
+        "link": "https://www.infoq.cn/article/rs9FOZsLBIJPwWbeYNHO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 01 Sep 2026 16:22:00 GMT",
+        "first_seen": "2026-09-01T09:46:17.797036"
+      },
+      "9f0c2c72c01f2b7e02ff2f93e39030f5e1f616475277cba7b59e7fe534d30382": {
+        "title": "从2999份作品出发：GOAI四大赛道的AI创新观察",
+        "link": "https://www.infoq.cn/article/fovhGGuNSwa7tG44WBFm?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 01 Sep 2026 12:54:00 GMT",
+        "first_seen": "2026-09-01T09:46:17.797038"
+      },
+      "03f75fb21056ec5e68dcca253043e65e3034962443954c0ef0dc2e63ced6fa62": {
+        "title": "百丽十二年数智化复盘：先把企业工程化，再让AI 读懂它丨2026 ITValue Summit 前瞻：AI系统落地系列直播③",
+        "link": "https://www.tmtpost.com/8123419.html",
+        "published_date": "Tue, 01 Sep 2026 15:14:00 GMT",
+        "first_seen": "2026-09-01T09:46:17.797039"
       }
     },
     "Finance": {
-      "11e1d36c374a8337375f25b3026de426aca649edf7af0fb5c54719e86c3d5a3f": {
-        "title": "Chinese VC firms rush to raise funds after 3-year drought",
-        "link": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 02:00:00 GMT",
-        "first_seen": "2026-08-02T07:32:15.004765"
-      },
-      "e1f80122c9e7f7a0f67446bfa450a0ae7c7cb81007cda172c9ef9c540cc9b8a6": {
-        "title": "German carmakers flood jobs market with managers after wielding axe",
-        "link": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-02T07:32:15.004772"
-      },
-      "6650ae42b4ee416d5cde6b61228ee5e80e30f86ee0d3107730514f382c1d037b": {
-        "title": "Trump cancels new strikes on Iran after Middle East allies’ request",
-        "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
-        "published_date": "Sun, 02 Aug 2026 06:46:00 GMT",
-        "first_seen": "2026-08-02T07:32:15.004774"
-      },
-      "6710d96e800967ec6ddbb35708c392411faf192019e595c3aac0280b27cef7d1": {
-        "title": "Iran sets the pace in war with Trump",
-        "link": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 05:37:00 GMT",
-        "first_seen": "2026-08-02T07:32:15.004776"
-      },
-      "8a4c94d0eb4b2e88d8c66e9926d0c1458b43ed88c50839efb22ef84e896b337a": {
-        "title": "Apple struggles to keep pace with AI ‘bug’ hunters",
-        "link": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-02T07:32:15.004777"
-      },
       "5c100eaf68c85b1053097afc671263e8cf89b6ec2bc52467278a4742e6ee8d3f": {
         "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
         "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
@@ -4449,15 +4419,39 @@
         "link": "https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7?syn-25a6b1a6=1",
         "published_date": "Mon, 31 Aug 2026 14:17:00 GMT",
         "first_seen": "2026-09-01T01:37:11.387705"
+      },
+      "d9272c12e83e812f9a2a4f21dcb02f31f33bdaf17fe34c20cb3c8be5552ff6da": {
+        "title": "Eurozone inflation rises to 3.3% in August",
+        "link": "https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876?syn-25a6b1a6=1",
+        "published_date": "Tue, 01 Sep 2026 09:01:00 GMT",
+        "first_seen": "2026-09-01T09:46:34.934085"
+      },
+      "19749b4ead4bdd30afb801ea01041674ea56f457076eebea08205f927ebcbade": {
+        "title": "Global bond sell-off deepens amid inflation fears",
+        "link": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+        "published_date": "Tue, 01 Sep 2026 09:04:00 GMT",
+        "first_seen": "2026-09-01T09:46:34.934092"
+      },
+      "06b9e4a96cf0664f6651e45d7c9251c44caa637c5b5f8d579d55d1784a110548": {
+        "title": "Wall Street banks push Big Law to cut fees because of AI",
+        "link": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
+        "published_date": "Tue, 01 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-01T09:46:34.934094"
+      },
+      "1eeeee7fd7fb6e98c92b1c61dc6229ca25ba70a507f3ed5f408a841c537df1b2": {
+        "title": "Are rising bond rates really so bad? Maybe not, say these exports",
+        "link": "https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories",
+        "published_date": "Tue, 01 Sep 2026 09:31:00 GMT",
+        "first_seen": "2026-09-01T09:46:34.934096"
+      },
+      "2e67069094a8c7feb5c271695256be1a1fb1c2932643abfac5bdc575c6dbadd4": {
+        "title": "Shein shares slide as much as 10% in Hong Kong debut",
+        "link": "https://www.ft.com/content/06e22622-3e92-46a5-842f-bfa269687aaa?syn-25a6b1a6=1",
+        "published_date": "Tue, 01 Sep 2026 09:05:00 GMT",
+        "first_seen": "2026-09-01T09:46:34.934097"
       }
     },
     "Ai": {
-      "6cfe04dd2dfbda14dcde8fc6c34bd57bfdf57561f07206b5917b9942c228de3d": {
-        "title": "2026-08-02日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-02/",
-        "published_date": "Sun, 02 Aug 2026 10:40:00 GMT",
-        "first_seen": "2026-08-02T07:31:45.358421"
-      },
       "8e46e98704b73c718ffac3ce510ce0840d36c5afc3205935a8b720aeb2e7c291": {
         "title": "Demo的高估值时代结束了，具身智能开始按生产力重新算账",
         "link": "https://www.qbitai.com/2026/08/465225.html",
@@ -5729,13 +5723,43 @@
         "link": "https://www.qbitai.com/2026/08/481928.html",
         "published_date": "Mon, 31 Aug 2026 13:20:00 GMT",
         "first_seen": "2026-09-01T01:37:11.525674"
+      },
+      "cddfa96a3999f53aac21569153ef345633661e0cc3a14a9b4659e8711a344454": {
+        "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+        "link": "https://www.qbitai.com/2026/09/482337.html",
+        "published_date": "Tue, 01 Sep 2026 05:12:00 GMT",
+        "first_seen": "2026-09-01T09:46:51.860062"
+      },
+      "90e90084eef0f417b0130aba2977606217dacd3aa675ce21adcdcf183aefbef4": {
+        "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+        "link": "https://www.qbitai.com/2026/09/482300.html",
+        "published_date": "Tue, 01 Sep 2026 04:12:00 GMT",
+        "first_seen": "2026-09-01T09:46:51.860070"
+      },
+      "204ad0d7fb1ecf16e712b1d299536090a39fc8889034010b99290fbfb7dead18": {
+        "title": "急急急用电！马斯克开造燃气轮机叶片",
+        "link": "https://www.qbitai.com/2026/09/482451.html",
+        "published_date": "Tue, 01 Sep 2026 08:24:00 GMT",
+        "first_seen": "2026-09-01T09:46:51.860072"
+      },
+      "0f3c4d8de90dee8583937c80b5e908ec698ba63301883adcdf49c730a874f818": {
+        "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+        "link": "https://www.qbitai.com/2026/09/482406.html",
+        "published_date": "Tue, 01 Sep 2026 08:15:00 GMT",
+        "first_seen": "2026-09-01T09:46:51.860074"
+      },
+      "d49aba45d5e0f75dadf8fdb9be827f2982c311a6881d4b912d3999c8162eb81e": {
+        "title": "GitHub最热架构图Agent，开发者故事看哭了",
+        "link": "https://www.qbitai.com/2026/09/482469.html",
+        "published_date": "Tue, 01 Sep 2026 08:26:00 GMT",
+        "first_seen": "2026-09-01T09:46:51.860076"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-01T01:36:48.177645",
-    "Finance": "2026-09-01T01:37:11.387708",
-    "Ai": "2026-09-01T01:37:11.525676"
+    "Technology": "2026-09-01T09:46:17.797041",
+    "Finance": "2026-09-01T09:46:34.934100",
+    "Ai": "2026-09-01T09:46:51.860078"
   }
 }
