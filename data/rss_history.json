@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6c1fe37f188a58ce6a89714b358f0b9690e43c0353fda9606557c6f6e52f4767": {
-        "title": "自研大模型的马斯克，把豆包装进了特斯拉",
-        "link": "https://www.tmtpost.com/8087804.html",
-        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
-        "first_seen": "2026-08-01T23:56:00.164384"
-      },
-      "3be7b0cd663d9280100af619a73bbc0a1ed6ab7bbb32d4b9ded153ba67867205": {
-        "title": "AI大厂，打起了“Token奶茶大战”",
-        "link": "https://www.tmtpost.com/8088011.html",
-        "published_date": "Sat, 01 Aug 2026 17:06:00 GMT",
-        "first_seen": "2026-08-01T23:56:00.164391"
-      },
-      "f86d075b9bb68077c1ff1bb919c4e4988debe1617a66d813c741b218ad763c7e": {
-        "title": "Qwen还是看到了开源的好",
-        "link": "https://www.tmtpost.com/8087652.html",
-        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
-        "first_seen": "2026-08-01T23:56:00.164393"
-      },
-      "3e3a7e453cd2a0da6fb5533a53d0ea04889fc3198a128b88013e7abcb7dff799": {
-        "title": "存储巨头赚翻了，下游扛不住了",
-        "link": "https://www.tmtpost.com/8087502.html",
-        "published_date": "Sat, 01 Aug 2026 16:19:00 GMT",
-        "first_seen": "2026-08-01T23:56:00.164395"
-      },
-      "1dcdb69e91ee622053ef6c512bb9261918008f488c3e119cf9d366d56b3eeee8": {
-        "title": "字节为什么一定要拆飞书？",
-        "link": "https://www.tmtpost.com/8088001.html",
-        "published_date": "Sat, 01 Aug 2026 16:41:00 GMT",
-        "first_seen": "2026-08-01T23:56:00.164396"
-      },
       "ac424a0d47eb005cfdc05d633ce83d3ddbaab86bb5896fb0bf026b1d235a6184": {
         "title": "马斯克和 Altman 达成共识：人类已迈入 AI 奇点时代；小米手机多款涨价 300 元起；苹果警告 AI 算力短缺或导致产品延期发布",
         "link": "http://www.geekpark.net/news/368277",
@@ -2431,39 +2401,39 @@
         "link": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 31 Aug 2026 09:53:00 GMT",
         "first_seen": "2026-08-31T11:21:23.601447"
+      },
+      "794ed8990f568d1f3cd69b18a1c35c92af63523ddc391d109cf3fb0f1f7e97fa": {
+        "title": "一周砸出140亿美元，黄仁勋的千亿AI版图",
+        "link": "https://www.tmtpost.com/8123117.html",
+        "published_date": "Tue, 01 Sep 2026 08:44:00 GMT",
+        "first_seen": "2026-09-01T01:36:48.177626"
+      },
+      "7d4defeefeb729d64ae1efcd3fcbc6e8c71603c17f6e3ab2ddb552f0f8122365": {
+        "title": "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了",
+        "link": "https://www.tmtpost.com/8123802.html",
+        "published_date": "Tue, 01 Sep 2026 08:40:00 GMT",
+        "first_seen": "2026-09-01T01:36:48.177636"
+      },
+      "06db5161de2c77398622d215d19d4a9ccd443f302d068097ae9988a5f916fec1": {
+        "title": "Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事",
+        "link": "https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 31 Aug 2026 14:20:00 GMT",
+        "first_seen": "2026-09-01T01:36:48.177639"
+      },
+      "eb5d23762cc5bfcf0f217a32aaab651423339430786e6791b209a8649de062ec": {
+        "title": "不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法",
+        "link": "https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 31 Aug 2026 15:03:00 GMT",
+        "first_seen": "2026-09-01T01:36:48.177641"
+      },
+      "b1938390aa6d8fb9fb782be44e86235f7bb3cab4d84602b08b6119cfdfb6ef6d": {
+        "title": "3D NAND闪存，藏了三张底牌",
+        "link": "https://www.tmtpost.com/8123403.html",
+        "published_date": "Tue, 01 Sep 2026 09:26:00 GMT",
+        "first_seen": "2026-09-01T01:36:48.177643"
       }
     },
     "Finance": {
-      "40cd97753bd59c1e6d6a1ba8db8796fe4ec4eb1f84cb844a4eb37bb693bdfd89": {
-        "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-        "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-        "published_date": "Sat, 01 Aug 2026 17:32:00 GMT",
-        "first_seen": "2026-08-01T23:56:10.822778"
-      },
-      "a6a73ed97465b843c39b62405efa09f496f61a8e3921163c02163c658423452c": {
-        "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-        "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-        "published_date": "Sat, 01 Aug 2026 17:15:00 GMT",
-        "first_seen": "2026-08-01T23:56:10.822784"
-      },
-      "4ff4098e7fa369ed2c4d64e55740919e5d2119b22efea542b0d3a661bdf6e717": {
-        "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
-        "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
-        "published_date": "Sat, 01 Aug 2026 16:41:00 GMT",
-        "first_seen": "2026-08-01T23:56:10.822786"
-      },
-      "0519c1bd57233de106484aef4bef9585f3fb8f4890ab073f15330d5931f519a1": {
-        "title": "Massive US tungsten discovery could run into Nasa roadblock",
-        "link": "https://www.ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97?syn-25a6b1a6=1",
-        "published_date": "Sat, 01 Aug 2026 12:00:00 GMT",
-        "first_seen": "2026-08-01T23:56:10.822788"
-      },
-      "7d869ca0d6e565f0a137a97215aa7da2a3fe7e41cb6b727153e11448151b6a94": {
-        "title": "Let’s elect candidates who will make the wealthy pay taxes",
-        "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
-        "published_date": "Sat, 01 Aug 2026 18:30:00 GMT",
-        "first_seen": "2026-08-01T23:56:10.822790"
-      },
       "11e1d36c374a8337375f25b3026de426aca649edf7af0fb5c54719e86c3d5a3f": {
         "title": "Chinese VC firms rush to raise funds after 3-year drought",
         "link": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
@@ -4449,27 +4419,39 @@
         "link": "https://www.ft.com/content/5051e92f-371f-4a46-bdee-e8877b68caf8?syn-25a6b1a6=1",
         "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
         "first_seen": "2026-08-31T11:21:40.444152"
+      },
+      "1ef172d5989870b9c1db88b9ce604c2ee59e6dd632cb52505373f094750497ea": {
+        "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
+        "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
+        "published_date": "Mon, 31 Aug 2026 21:33:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.387692"
+      },
+      "7e6e2f7a8f387c62e06781e627d37f8490619d9650ce0338f09cced4b683c4aa": {
+        "title": "Europeans shun Russian finance minister at US-hosted G20 meeting",
+        "link": "https://www.ft.com/content/16285abd-6bc2-4a38-942c-5206c79f4c4b?syn-25a6b1a6=1",
+        "published_date": "Mon, 31 Aug 2026 21:32:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.387699"
+      },
+      "e2bab4d24a9a2b4f727fd1463aba0da5070c59a4767be77bfd6ff7ef5c757621": {
+        "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
+        "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+        "published_date": "Mon, 31 Aug 2026 22:24:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.387702"
+      },
+      "da2f3500f200b091ef45a52d0fca20feff82e84a9897e6575d125746f7926dca": {
+        "title": "With Warsh running the Fed, should bond investors be worried?",
+        "link": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
+        "published_date": "Mon, 31 Aug 2026 20:55:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.387704"
+      },
+      "c9d7238f1ff4aff8e44d7b84313db6d8e932552eb1e4d21c3eb3d9f9d75aa56a": {
+        "title": "Whose fiscal problems would you prefer?",
+        "link": "https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7?syn-25a6b1a6=1",
+        "published_date": "Mon, 31 Aug 2026 14:17:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.387705"
       }
     },
     "Ai": {
-      "4f7067e967ca3d1702a1ebcb852ee8eb18785452bd81795cd97e66058e2c2921": {
-        "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-        "link": "https://www.qbitai.com/2026/08/464781.html",
-        "published_date": "Sat, 01 Aug 2026 10:45:00 GMT",
-        "first_seen": "2026-08-01T23:55:40.183530"
-      },
-      "40fc1e4c83cbdb4c307ffd7e3fdb5345a1f2d3b8c1f054910454d728478dbc58": {
-        "title": "获奖之后，王虹最想感谢的人",
-        "link": "https://www.qbitai.com/2026/08/464761.html",
-        "published_date": "Sat, 01 Aug 2026 10:38:00 GMT",
-        "first_seen": "2026-08-01T23:55:40.183541"
-      },
-      "7d0fbc46d45363debc2ae95da3e4b5a00dce0eb64b5e1a3bff284393b9dfc6c4": {
-        "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
-        "link": "https://www.qbitai.com/2026/08/464713.html",
-        "published_date": "Sat, 01 Aug 2026 10:33:00 GMT",
-        "first_seen": "2026-08-01T23:55:40.183544"
-      },
       "6cfe04dd2dfbda14dcde8fc6c34bd57bfdf57561f07206b5917b9942c228de3d": {
         "title": "2026-08-02日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-02/",
@@ -5735,13 +5717,25 @@
         "link": "https://www.qbitai.com/2026/08/481923.html",
         "published_date": "Mon, 31 Aug 2026 07:53:00 GMT",
         "first_seen": "2026-08-31T11:21:52.220602"
+      },
+      "f3db4c06d6de07f5782fd68b08f54989aa52c2948d2d560165c8262b39a06efa": {
+        "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+        "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+        "published_date": "Mon, 31 Aug 2026 17:19:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.525665"
+      },
+      "8790ea880c6a152970cde1017d111fcb5401f82ebf5a271c8dd7c1f3ed3ce79a": {
+        "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+        "link": "https://www.qbitai.com/2026/08/481928.html",
+        "published_date": "Mon, 31 Aug 2026 13:20:00 GMT",
+        "first_seen": "2026-09-01T01:37:11.525674"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-31T11:21:23.601450",
-    "Finance": "2026-08-31T11:21:40.444159",
-    "Ai": "2026-08-31T11:21:52.220603"
+    "Technology": "2026-09-01T01:36:48.177645",
+    "Finance": "2026-09-01T01:37:11.387708",
+    "Ai": "2026-09-01T01:37:11.525676"
   }
 }

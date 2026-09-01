@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 31 Aug 2026 11:20:00 GMT</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 11:21:23 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 01:36:00 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:36:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了</title>
-      <link>https://www.tmtpost.com/8122952.html</link>
-      <description>&lt;![CDATA[英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了]]&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8122952.html</guid>
+      <title>一周砸出140亿美元，黄仁勋的千亿AI版图</title>
+      <link>https://www.tmtpost.com/8123117.html</link>
+      <description>&lt;![CDATA[一周砸出140亿美元，黄仁勋的千亿AI版图]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 08:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8123117.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款</title>
-      <link>https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款]]&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 14:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了</title>
+      <link>https://www.tmtpost.com/8123802.html</link>
+      <description>&lt;![CDATA[OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8123802.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成</title>
-      <link>https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成]]&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事</title>
+      <link>https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱</title>
-      <link>https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱]]&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法</title>
+      <link>https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法]]&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 15:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>InfoQ 2026 年云计算与 DevOps 趋势报告</title>
-      <link>https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[InfoQ 2026 年云计算与 DevOps 趋势报告]]&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 09:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>3D NAND闪存，藏了三张底牌</title>
+      <link>https://www.tmtpost.com/8123403.html</link>
+      <description>&lt;![CDATA[3D NAND闪存，藏了三张底牌]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 09:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8123403.html</guid>
       <category>Technology</category>
     </item>
   </channel>
