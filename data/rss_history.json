@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bd18448109502f22135cbd9b2fa212bb7192b18228cdead8264a55a7bfa39009": {
-        "title": "基于 CyberData 的 Data Agent：构建企业数据智能中枢的工程范式｜AICon深圳",
-        "link": "https://www.infoq.cn/article/5KYVt93chdBrtDsvTEcK?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 02 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-02T09:54:51.956687"
-      },
-      "6093468f61c306e7410bbba2bc11362543c526b9cbd4cc0f21b1c47d6c101556": {
-        "title": "新势力7月洗牌：零跑独破10万，“蔚小理米”困在3万档",
-        "link": "https://www.tmtpost.com/8088337.html",
-        "published_date": "Sun, 02 Aug 2026 10:43:00 GMT",
-        "first_seen": "2026-08-02T09:54:51.956699"
-      },
-      "098c66fb7f9d9e1ff2f078b5a8462904678bc01fffc1b003c6f4c15ea6a8ea34": {
-        "title": "这 2 个 GitHub 上开源 AI 同事，在 GitHub 上火了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535704&idx=1&sn=623306f6ea42ed3afa182ecf9c5a3e3d",
-        "published_date": "Sun, 02 Aug 2026 10:13:00 GMT",
-        "first_seen": "2026-08-02T09:54:51.956702"
-      },
-      "249e02799ee0dbdbc2a864e3977cca642cf3bfe3b0c69aecc0084ece935683c6": {
-        "title": "Seedance2.5来了，字节能打败自己吗？",
-        "link": "https://www.tmtpost.com/8088164.html",
-        "published_date": "Sun, 02 Aug 2026 08:25:00 GMT",
-        "first_seen": "2026-08-02T09:54:51.956704"
-      },
-      "5e28a1f81d34a96cad61d12b7361a5d7b385215c45b1540898562dc94b1c149e": {
-        "title": "WorkBuddy给腾讯长脸了",
-        "link": "https://www.tmtpost.com/8088161.html",
-        "published_date": "Sun, 02 Aug 2026 08:22:00 GMT",
-        "first_seen": "2026-08-02T09:54:51.956706"
-      },
-      "8db26e98430b594c3f82ed6694c2b586a60416141d55926df5d12e239e3b9836": {
-        "title": "【钛晨报】事关货币政策、债券市场，央行明确下半年重点；亚马逊完成对OpenAI总计500亿美元全额投资；“欧佩克+”主要产油国宣布9月继续增产",
-        "link": "https://www.tmtpost.com/8088550.html",
-        "published_date": "Mon, 03 Aug 2026 07:20:00 GMT",
-        "first_seen": "2026-08-02T23:56:51.468833"
-      },
-      "775694016faae738021e2dafa60dc1a2135ea1837877456796c5be31bfda972c": {
-        "title": "Loop才火了六周，AI Coding为什么又开始谈Graph？",
-        "link": "https://www.tmtpost.com/8088190.html",
-        "published_date": "Sun, 02 Aug 2026 19:24:00 GMT",
-        "first_seen": "2026-08-02T23:56:51.468842"
-      },
-      "a734eb68d8eda342c2f25e852c0c263fca6faf0a773378dceeff404553af5fda": {
-        "title": "派早报：DeepSeek V4 Flash 正式版发布",
-        "link": "https://sspai.com/post/113014",
-        "published_date": "Mon, 03 Aug 2026 06:49:00 GMT",
-        "first_seen": "2026-08-02T23:56:51.468844"
-      },
-      "3a370c4dc8e8b996c74edd27111f8dcca4d378269c124f06cb99d71c48384810": {
-        "title": "商业航天运力的“罗生门”",
-        "link": "https://www.tmtpost.com/8088371.html",
-        "published_date": "Sun, 02 Aug 2026 19:24:00 GMT",
-        "first_seen": "2026-08-02T23:56:51.468846"
-      },
-      "0e2d7ec0262e0065924678b54944678a78d4d5da8bef7218b626c95967ef11e0": {
-        "title": "贝索斯用AI寻找下一块硅",
-        "link": "https://www.tmtpost.com/8088394.html",
-        "published_date": "Sun, 02 Aug 2026 19:24:00 GMT",
-        "first_seen": "2026-08-02T23:56:51.468848"
-      },
       "e1f2c9a4ba52b2df35ad86dbf1d407c72569b01a99f2d2aa9a85ccc64a33e523": {
         "title": "Anthropic 详解 Claude 的安全隔离架构：如何在 Web、开发和桌面环境中约束 Agent 行为",
         "link": "https://www.infoq.cn/article/0j39GYLo41A3VMv9BoOi?utm_source=rss&utm_medium=article",
@@ -2431,45 +2371,39 @@
         "link": "https://www.tmtpost.com/8123419.html",
         "published_date": "Tue, 01 Sep 2026 15:14:00 GMT",
         "first_seen": "2026-09-01T09:46:17.797039"
+      },
+      "ac76d85c57c2456ea682759bd273ecbfafeb11511f71db688a9552783e2968db": {
+        "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
+        "link": "https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 01 Sep 2026 19:54:00 GMT",
+        "first_seen": "2026-09-02T00:50:02.057615"
+      },
+      "9a3eece3dba6ba79a82867e50551a245ae8088f2184f3d4481951351463c91f0": {
+        "title": "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
+        "link": "https://www.tmtpost.com/8125054.html",
+        "published_date": "Wed, 02 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-02T00:50:02.057625"
+      },
+      "4bb3492cd5a593223f60f5cdfff4b096456499ec8179934f9e340d1f80c5077b": {
+        "title": "一个人，十五年，他想重写医疗AI的底层逻辑",
+        "link": "https://www.tmtpost.com/8125079.html",
+        "published_date": "Wed, 02 Sep 2026 07:41:00 GMT",
+        "first_seen": "2026-09-02T00:50:02.057627"
+      },
+      "12083d00ddf36989b4789f7a415d2afdaaa0a54203146e072445e389e363d581": {
+        "title": "谷歌 HEIR 项目旨在让同态加密推理成为可以一键实现的功能",
+        "link": "https://www.infoq.cn/article/S6ATgchCiYMHpPaTPzer?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 01 Sep 2026 19:34:00 GMT",
+        "first_seen": "2026-09-02T00:50:02.057629"
+      },
+      "ae5622bbbb07bfe3fe7a5cb460357b63bb6811c98dd7d244c1e67b7ddfcbeb39": {
+        "title": "从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline",
+        "link": "https://www.tmtpost.com/8124037.html",
+        "published_date": "Tue, 01 Sep 2026 22:07:00 GMT",
+        "first_seen": "2026-09-02T00:50:02.057630"
       }
     },
     "Finance": {
-      "5c100eaf68c85b1053097afc671263e8cf89b6ec2bc52467278a4742e6ee8d3f": {
-        "title": "Trump says he cancelled Iran strikes after Middle East allies’ request",
-        "link": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 08:45:00 GMT",
-        "first_seen": "2026-08-02T09:54:52.004603"
-      },
-      "9c20b7b469a906000c6a76445202e33bd12ae50c62ea6018b1a81124dd3f3c59": {
-        "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
-        "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 20:52:00 GMT",
-        "first_seen": "2026-08-02T23:57:07.510116"
-      },
-      "6a8d0cd979e43e19d1cee44c96b5998947aa779ac9710da78fb96c89fae7e78e": {
-        "title": "Monte dei Paschi explores Banco BPM takeover after ‘merger of equals’ talks collapse",
-        "link": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 17:32:00 GMT",
-        "first_seen": "2026-08-02T23:57:07.510122"
-      },
-      "9af6ee89120208c0480c4f26840a05c15b46509b8e96a09c528ae5e525945e4c": {
-        "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-        "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-        "published_date": "Sun, 02 Aug 2026 12:00:00 GMT",
-        "first_seen": "2026-08-02T23:57:07.510124"
-      },
-      "7e23d898c10c276a71b68ef73ed7bfc4e501e62889516237b05b1885ef1e0b5f": {
-        "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
-        "link": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 16:00:00 GMT",
-        "first_seen": "2026-08-02T23:57:07.510126"
-      },
-      "068df703433202c512c87cffead9ca037815ae723486fa2a714665e9649a013d": {
-        "title": "Morgan Stanley’s IPO after-party: a wealth management bonanza",
-        "link": "https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1",
-        "published_date": "Sun, 02 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-02T23:57:07.510128"
-      },
       "44d0c7b2406ed30f170ae7d03aad5cfaf3ddffa3684024c9832ba096ba8ccb36": {
         "title": "A digital iron curtain is threatening the global economy",
         "link": "https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23",
@@ -4449,6 +4383,36 @@
         "link": "https://www.ft.com/content/06e22622-3e92-46a5-842f-bfa269687aaa?syn-25a6b1a6=1",
         "published_date": "Tue, 01 Sep 2026 09:05:00 GMT",
         "first_seen": "2026-09-01T09:46:34.934097"
+      },
+      "16a8f030fcdca19ab5f7d0c0afc113d19f0b9690cfa8d5653d1dffefb15d6770": {
+        "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
+        "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+        "published_date": "Tue, 01 Sep 2026 20:36:00 GMT",
+        "first_seen": "2026-09-02T00:50:20.991542"
+      },
+      "62903c6422646d3738e764770b0e0eeb17dd1950f646f1dde33e7d519f475755": {
+        "title": "Dow drops below a key chart level, warning of more trouble ahead",
+        "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+        "published_date": "Tue, 01 Sep 2026 21:56:00 GMT",
+        "first_seen": "2026-09-02T00:50:20.991549"
+      },
+      "c00eeb4c92c2db67dbbb0bb70936c0d62c0dc8550bb70ecd594bc33947904cd3": {
+        "title": "China derails consensus on communiqué after US-hosted G20",
+        "link": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
+        "published_date": "Tue, 01 Sep 2026 23:57:00 GMT",
+        "first_seen": "2026-09-02T00:50:20.991551"
+      },
+      "edf2b092108864e178e90ba618b01fde8df6b99f0cae78885d6007b665290ad2": {
+        "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+        "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+        "published_date": "Wed, 02 Sep 2026 00:19:00 GMT",
+        "first_seen": "2026-09-02T00:50:20.991552"
+      },
+      "95a47a41f4c8195ea68d4bfa54dfd13b9b235dfc1c5a3ffc0688a618729e34bd": {
+        "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+        "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+        "published_date": "Wed, 02 Sep 2026 00:18:00 GMT",
+        "first_seen": "2026-09-02T00:50:20.991553"
       }
     },
     "Ai": {
@@ -5753,13 +5717,31 @@
         "link": "https://www.qbitai.com/2026/09/482469.html",
         "published_date": "Tue, 01 Sep 2026 08:26:00 GMT",
         "first_seen": "2026-09-01T09:46:51.860076"
+      },
+      "b639d8fe835df39d553d3a861ac64539ff40ed933c070afbd5fe3ec28fcec0a9": {
+        "title": "Mapping global methane emissions from space with deep learning",
+        "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+        "published_date": "Tue, 01 Sep 2026 18:40:00 GMT",
+        "first_seen": "2026-09-02T00:50:21.102867"
+      },
+      "449625aba1afed97f66c388d0f7e3cd441ab0719cac7932bf1022338b8b2724b": {
+        "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+        "link": "https://www.qbitai.com/2026/09/482512.html",
+        "published_date": "Tue, 01 Sep 2026 12:02:00 GMT",
+        "first_seen": "2026-09-02T00:50:21.102873"
+      },
+      "07bd084d2984be8e7dcdcaa21d0a7cb911d636a9a2ec704c56136c5758f90e65": {
+        "title": "2026-09-01日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-01/",
+        "published_date": "Tue, 01 Sep 2026 11:02:00 GMT",
+        "first_seen": "2026-09-02T00:50:21.102874"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-01T09:46:17.797041",
-    "Finance": "2026-09-01T09:46:34.934100",
-    "Ai": "2026-09-01T09:46:51.860078"
+    "Technology": "2026-09-02T00:50:02.057632",
+    "Finance": "2026-09-02T00:50:20.991556",
+    "Ai": "2026-09-02T00:50:21.102876"
   }
 }
