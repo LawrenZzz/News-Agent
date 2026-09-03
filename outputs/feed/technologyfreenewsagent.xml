@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 03 Sep 2026 00:57:00 GMT</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 00:57:57 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Sep 2026 09:26:00 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:27:06 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>存力接棒算力：AI智能体把存储推上主战场</title>
-      <link>https://www.tmtpost.com/8123421.html</link>
-      <description>&lt;![CDATA[存力接棒算力：AI智能体把存储推上主战场]]&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 08:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8123421.html</guid>
+      <title>李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界</title>
+      <link>https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界]]&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 16:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Fable 5.1发布：跑分翻倍是面子，思考块&quot;上锁&quot;才是里子</title>
-      <link>https://www.tmtpost.com/8125528.html</link>
-      <description>&lt;![CDATA[Claude Fable 5.1发布：跑分翻倍是面子，思考块&quot;上锁&quot;才是里子]]&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8125528.html</guid>
+      <title>AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」</title>
+      <link>http://www.geekpark.net/news/369767</link>
+      <description>&lt;![CDATA[AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」]]&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 12:52:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369767</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 AI 开始重写负载，数据库该如何重新设计？</title>
-      <link>https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 AI 开始重写负载，数据库该如何重新设计？]]&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施</title>
+      <link>https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施]]&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”</title>
-      <link>https://www.tmtpost.com/8126318.html</link>
-      <description>&lt;![CDATA[China's Humanoid Robots Industry Enters the Era of “Public Infrastructure”]]&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 21:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8126318.html</guid>
+      <title>AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度</title>
+      <link>https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度]]&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude越狱后，Anthropic停掉训练、150人紧急转岗</title>
-      <link>https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude越狱后，Anthropic停掉训练、150人紧急转岗]]&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 09:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cursor 推出 Origin：面向智能体的 GitHub 替代方案</title>
+      <link>https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cursor 推出 Origin：面向智能体的 GitHub 替代方案]]&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 09:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3306092c26806ec59614b21bfa86d8185780979b5fc634afce19c04eeb95b5d9": {
-        "title": "物理AI不是下一个风口，而是下一轮工业革命",
-        "link": "https://www.tmtpost.com/8090414.html",
-        "published_date": "Tue, 04 Aug 2026 14:41:00 GMT",
-        "first_seen": "2026-08-04T07:43:57.414880"
-      },
-      "1ab3abbf7a4ae434b6c8c8fe62343cbcf5f04a8be556068cfd56d44b89378d6d": {
-        "title": "自动驾驶下半场，决胜逻辑早已跳出“唯规模论”？",
-        "link": "https://www.tmtpost.com/8089028.html",
-        "published_date": "Tue, 04 Aug 2026 14:22:00 GMT",
-        "first_seen": "2026-08-04T07:43:57.414887"
-      },
-      "a799e8599281518daa8a48011234eec31dbc8326087cd73418c67260ed22ab75": {
-        "title": "投资人拆解脑机接口：不是所有“技术领先”都值得下注",
-        "link": "https://www.tmtpost.com/8090362.html",
-        "published_date": "Tue, 04 Aug 2026 13:52:00 GMT",
-        "first_seen": "2026-08-04T07:43:57.414889"
-      },
-      "f3c2b520feb4e0152f934c5262bf3c3df38154af0e6e49528c353e1584f11824": {
-        "title": "一个季度多签960亿：Meta把未来20年的机房都租了，谁来兜底？",
-        "link": "https://www.tmtpost.com/8089647.html",
-        "published_date": "Tue, 04 Aug 2026 14:16:00 GMT",
-        "first_seen": "2026-08-04T07:43:57.414891"
-      },
-      "b0b657436cf43f6101aee51046f624243203102d26c79f30a092ec952a14855c": {
-        "title": "嘉立创IPO：950万工程师生态背后，硬件创新基础设施的长期价值重估",
-        "link": "https://www.tmtpost.com/8090186.html",
-        "published_date": "Tue, 04 Aug 2026 11:27:00 GMT",
-        "first_seen": "2026-08-04T07:43:57.414893"
-      },
       "7eaf7c759def40504bae225fc240a579dd65f69181f1ff099e88d7c06e7debf5": {
         "title": "以 AI 为辅助的安全研究人员发现，攻击者可以利用经过特殊构造的视频获取用户电脑的访问权限",
         "link": "https://www.infoq.cn/article/Mar3v7yyH4PjYFKLUZUh?utm_source=rss&utm_medium=article",
@@ -2401,39 +2371,39 @@
         "link": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 02 Sep 2026 09:42:00 GMT",
         "first_seen": "2026-09-03T00:57:57.800753"
+      },
+      "2218843436d20387cdcfbc6a303ab8f581f9ae0355b9c66aceedc09a78baadda": {
+        "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "link": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 03 Sep 2026 16:49:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.809943"
+      },
+      "70b7dd31623d5b002de0896a894ad3809e2af964937bcbb21d444c93bd90384b": {
+        "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
+        "link": "http://www.geekpark.net/news/369767",
+        "published_date": "Thu, 03 Sep 2026 12:52:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.809955"
+      },
+      "843714781fc657c2bb2acb771386025489f0684ca1397efef0222239bd107523": {
+        "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
+        "link": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 03 Sep 2026 17:19:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.809958"
+      },
+      "8be627c4315679611263037a369d0a1beb89041daa1a1c47f0e8c62af3bac5c3": {
+        "title": "AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度",
+        "link": "https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 03 Sep 2026 16:20:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.809960"
+      },
+      "ccb38742f7b5d82a1e15b02c1975b8eb8fb40febe113708b0544c1c346c8a279": {
+        "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "link": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 03 Sep 2026 09:09:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.809962"
       }
     },
     "Finance": {
-      "ff62ef79286c0f90fe9fd1be93aa8c0cb0e465e476c99610bd7e4d8f97164541": {
-        "title": "Bessent’s yen intervention signals new era of US ‘currency activism’",
-        "link": "https://www.ft.com/content/1be83506-b897-4c26-97cc-445d7354ee6f?syn-25a6b1a6=1",
-        "published_date": "Tue, 04 Aug 2026 03:35:00 GMT",
-        "first_seen": "2026-08-04T07:44:09.610566"
-      },
-      "15ab02853c67bf0afe3b775819f7a84af7d943b708f2049a244445c16da9ae60": {
-        "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
-        "link": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
-        "published_date": "Tue, 04 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-04T07:44:09.610572"
-      },
-      "023a14ec1716be9febb2f3305f8b61ee0a95d283b731fe1092a877b5ebb4d149": {
-        "title": "BP to sell $4bn US biogas business as profits more than double",
-        "link": "https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1",
-        "published_date": "Tue, 04 Aug 2026 07:24:00 GMT",
-        "first_seen": "2026-08-04T07:44:09.610574"
-      },
-      "49acc766c812dece8f711bc87661faafbddba798ce05439ed31fadcf83e66421": {
-        "title": "HSBC resumes share buybacks as quarterly profit soars to $10.1bn",
-        "link": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
-        "published_date": "Tue, 04 Aug 2026 05:39:00 GMT",
-        "first_seen": "2026-08-04T07:44:09.610576"
-      },
-      "af502c90ea59af78f460eedbb096a774dafa1dce0d6ce706d9a251e0dc569162": {
-        "title": "Russia expands shadow LNG fleet to beat EU crackdown",
-        "link": "https://www.ft.com/content/cebc2dfc-1b9e-4119-b1e0-b9b514550d23?syn-25a6b1a6=1",
-        "published_date": "Tue, 04 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-04T07:44:09.610578"
-      },
       "318b32f3b0b65ee3e218c9e94e1477eb59095d6964a8016ddaf4af5ff29cce54": {
         "title": "AI displacement in the workplace is increasing – and affecting young people most",
         "link": "https://www.marketwatch.com/story/ai-displacement-in-the-workplace-is-increasing-and-affecting-young-people-most-22ab61cc?mod=mw_rss_topstories",
@@ -4413,15 +4383,39 @@
         "link": "https://www.ft.com/content/16034441-608c-42de-90ff-1a2b7607fc79?syn-25a6b1a6=1",
         "published_date": "Wed, 02 Sep 2026 23:05:00 GMT",
         "first_seen": "2026-09-03T00:58:19.165937"
+      },
+      "0e8a7b4668094c5587e5ed3a0bf60f0e82084ca19afba987bc93666c91fe295c": {
+        "title": "Why alarming bond yields might drop sooner than investors think",
+        "link": "https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories",
+        "published_date": "Thu, 03 Sep 2026 09:13:00 GMT",
+        "first_seen": "2026-09-03T09:27:21.233384"
+      },
+      "de4a7a25410247f52ae9351849c7d246039c32cb1196ca79cf72ea870a24291b": {
+        "title": "Yen jumps as traders bet on Japan interest rate rises",
+        "link": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
+        "published_date": "Thu, 03 Sep 2026 08:55:00 GMT",
+        "first_seen": "2026-09-03T09:27:21.233391"
+      },
+      "e1a1d03afd914b14352986d4f48fa945e3874a332d157ca55340f435e90324b3": {
+        "title": "The port that built Dubai: war exposes a dangerous dependence",
+        "link": "https://www.ft.com/content/daab8d53-7c4f-479b-be84-d073ba32897e?syn-25a6b1a6=1",
+        "published_date": "Thu, 03 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-03T09:27:21.233394"
+      },
+      "ff8e469d7676b6513041c5e789b63a56b82603378039f1d538ef08c342e32fd3": {
+        "title": "KPMG warned Guggenheim unit over deficiencies in internal controls",
+        "link": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
+        "published_date": "Thu, 03 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-03T09:27:21.233396"
+      },
+      "ba5ea07c9ce27123cdfd3254783b48dc87227c70b667260136d55377b7aeeff6": {
+        "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+        "published_date": "Thu, 03 Sep 2026 04:01:00 GMT",
+        "first_seen": "2026-09-03T09:27:21.233398"
       }
     },
     "Ai": {
-      "9cbb48de09ead0908a68e77204d3917873bffb0779cea8657dbd53fb62d48032": {
-        "title": "2026-08-04日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-04/",
-        "published_date": "Tue, 04 Aug 2026 10:47:00 GMT",
-        "first_seen": "2026-08-04T07:43:37.180321"
-      },
       "443724402449408361eb0d48f8a0c6564ff695115acf700f2efc78959a0a393f": {
         "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
         "link": "https://www.qbitai.com/2026/08/465792.html",
@@ -5705,13 +5699,37 @@
         "link": "https://www.qbitai.com/2026/09/483274.html",
         "published_date": "Wed, 02 Sep 2026 09:22:00 GMT",
         "first_seen": "2026-09-03T00:58:19.309640"
+      },
+      "eb8af96cd3e6e33e6c83ceb5419e163cce2a4bbd958b656872e96707dbb4c923": {
+        "title": "2026-09-03日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-03/",
+        "published_date": "Thu, 03 Sep 2026 12:10:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.931656"
+      },
+      "716a617ac500e36972ba6dff4f06a5faeef4c32fad01c4e6e28425e004b21e01": {
+        "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+        "link": "https://www.qbitai.com/2026/09/483565.html",
+        "published_date": "Thu, 03 Sep 2026 03:16:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.931665"
+      },
+      "3cd2edaeb78ab0ddd8a0a24ccd227b4cd82d53a42286001b54cfd885465ce050": {
+        "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+        "link": "https://www.qbitai.com/2026/09/483552.html",
+        "published_date": "Thu, 03 Sep 2026 01:31:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.931667"
+      },
+      "27040796c47cb5039a8bc279415c18ff7850b686eb5218bd046a1d76da8fd3a2": {
+        "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "link": "https://www.qbitai.com/2026/09/483462.html",
+        "published_date": "Thu, 03 Sep 2026 01:27:00 GMT",
+        "first_seen": "2026-09-03T09:27:06.931669"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-03T00:57:57.800755",
-    "Finance": "2026-09-03T00:58:19.165941",
-    "Ai": "2026-09-03T00:58:19.309649"
+    "Technology": "2026-09-03T09:27:06.809965",
+    "Finance": "2026-09-03T09:27:21.233400",
+    "Ai": "2026-09-03T09:27:06.931671"
   }
 }
