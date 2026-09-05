@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1006befd50cb82a7e256f7af649071b32897871b71a3eb4a539fbf0b18b9e30f": {
-        "title": "黄仁勋联合70家巨头的反垄断檄文：硅谷“大分裂”背后，一场关乎算力基本盘的生死博弈",
-        "link": "https://www.tmtpost.com/8092004.html",
-        "published_date": "Wed, 05 Aug 2026 16:36:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.164324"
-      },
-      "1db341efa28dee0df6cf6705e9fb4eca1ad93914808500105f1447a379da95c7": {
-        "title": "Anthropic百亿美元算力长协浮出水面",
-        "link": "https://www.tmtpost.com/8092430.html",
-        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.164331"
-      },
-      "bb5d4ba329428b2a80ff4e097a6a7c550e5a8a6731cc53442b4fe81789354364": {
-        "title": "打官司、挖人，苹果和OpenAI的硬件大战才刚开始",
-        "link": "https://www.tmtpost.com/8091859.html",
-        "published_date": "Wed, 05 Aug 2026 10:27:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.164333"
-      },
-      "7a992bd134fd772c6fd6e7eac4356b87ac56a64ef4f782cfea227df0682451cc": {
-        "title": "为什么供应链“计划-执行-反馈”闭环是人类迄今最难的AI问题",
-        "link": "https://www.tmtpost.com/8092454.html",
-        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.164335"
-      },
-      "3c08371cb524c7578ad61ca3cccc434c4d3d08b15df656cb0a09379f0d491ed9": {
-        "title": "特斯拉还在画饼，中国机器人已经霸榜全球前五",
-        "link": "https://www.tmtpost.com/8092448.html",
-        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.164337"
-      },
-      "129a414c216753645ffd6fee3d4ecf0b9bc593dea64a35d618bb5cd822fc9d73": {
-        "title": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
-        "link": "https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 05 Aug 2026 22:36:00 GMT",
-        "first_seen": "2026-08-05T23:59:08.045470"
-      },
-      "a4f9609591aa1ceeccfc6d9069b518cc66d8125cfadb2675a91e0d11d4223062": {
-        "title": "The Office Agent Race Shifts From Chatbots to Organizational Work",
-        "link": "https://www.tmtpost.com/8092632.html",
-        "published_date": "Wed, 05 Aug 2026 18:51:00 GMT",
-        "first_seen": "2026-08-05T23:59:08.045477"
-      },
-      "89d8af3539c398ab536bac858e98ae11720ea054c4b5e9439c99a42b641b6050": {
-        "title": "AI的钱，被谁赚走了？",
-        "link": "https://www.tmtpost.com/8091813.html",
-        "published_date": "Wed, 05 Aug 2026 17:23:00 GMT",
-        "first_seen": "2026-08-05T23:59:08.045479"
-      },
-      "17d1ac33c6be203d5c007ad89ca1151b34bf87e1887529d02a2e65ec9e2305fb": {
-        "title": "长鑫科技上市史，在巨头裂缝里照进光",
-        "link": "https://www.tmtpost.com/8092230.html",
-        "published_date": "Wed, 05 Aug 2026 18:21:00 GMT",
-        "first_seen": "2026-08-05T23:59:08.045481"
-      },
-      "a230cff7fed82842dd8906a4979332af8a5614acecccd3ba49259aaa5909be79": {
-        "title": "IPO冲刺中，智元机器人核心班底“华为化”：前谷歌科学家从合伙人名单消失",
-        "link": "https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 05 Aug 2026 17:00:00 GMT",
-        "first_seen": "2026-08-05T23:59:08.045482"
-      },
       "b4f6d2d9f4e6922076996bc00445dcb5f5549a89453d7e1a03c190d0a0e4042f": {
         "title": "刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业",
         "link": "https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&utm_medium=article",
@@ -2371,63 +2311,39 @@
         "link": "https://www.tmtpost.com/8127838.html",
         "published_date": "Fri, 04 Sep 2026 11:09:00 GMT",
         "first_seen": "2026-09-04T09:19:53.536723"
+      },
+      "b6d5127c5cef53e359480e979ef2374be68831ad3ecdeb9c48ac98360f15a65c": {
+        "title": "OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了",
+        "link": "https://www.tmtpost.com/8128382.html",
+        "published_date": "Fri, 04 Sep 2026 18:58:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.378822"
+      },
+      "31d5bf884bf1458235b0a7b735dfd10f21322fe9d2261022099987fc152b6dd6": {
+        "title": "L3爆发前夜",
+        "link": "https://www.tmtpost.com/8128869.html",
+        "published_date": "Fri, 04 Sep 2026 18:58:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.378833"
+      },
+      "b43a47b9b02c16533d9f6ebcb23c3fbd17ad183205009911d81890dbc061c27d": {
+        "title": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+        "link": "https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 04 Sep 2026 10:16:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.378835"
+      },
+      "14a9b945bd07afb83012e0d2f45fd6f591dca1b96492ab8185774f6fdd43bb9a": {
+        "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "link": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 04 Sep 2026 22:18:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.378837"
+      },
+      "e5050b2f140bba66d225809e4d5afde3ee014eaafbaecac87e32fb67bfe7151f": {
+        "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
+        "link": "https://www.tmtpost.com/8129165.html",
+        "published_date": "Fri, 04 Sep 2026 21:35:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.378839"
       }
     },
     "Finance": {
-      "96b1a7fd149e9ae218e635c056a0da7a79756463e91115fd88d6fb88a1d8c7c8": {
-        "title": "Where are they now? The ex-Trump lawyers in plum US government posts",
-        "link": "https://www.ft.com/content/71e1a474-4e57-4cbf-a35e-d612476f5aaa?syn-25a6b1a6=1",
-        "published_date": "Wed, 05 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.215831"
-      },
-      "491a9612576dd0c5f3cbc0b2ca6d4e38c705934b42dd37f7743fb40da5d39422": {
-        "title": "Elon Musk addresses memory-chip stock concerns with one simple observation",
-        "link": "https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
-        "published_date": "Wed, 05 Aug 2026 09:45:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.215839"
-      },
-      "31ea9b673e908a2a0227c4f852d1c92ce8209945563c8dcfa355cae7edbe6845": {
-        "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-        "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-        "published_date": "Wed, 05 Aug 2026 09:15:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.215841"
-      },
-      "47ae268e52827a9085a6417aabeb7cc99275c9591bdd2edb8dc088e815683513": {
-        "title": "This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home",
-        "link": "https://www.marketwatch.com/story/this-is-the-whopping-amount-joe-rogan-earns-from-the-podcast-he-airs-at-his-14-4-million-austin-home-0fccf407?mod=mw_rss_topstories",
-        "published_date": "Wed, 05 Aug 2026 09:02:00 GMT",
-        "first_seen": "2026-08-05T10:32:45.215843"
-      },
-      "aa56acdfbf5b1e5954d4311a5ed33be5720d297bd4063bf3e83c2ad9c6807166": {
-        "title": "Big US hedge funds targeted by wave of cyber attacks",
-        "link": "https://www.ft.com/content/1fcca000-d9ac-4b3b-9d31-2fef0d1f55f3?syn-25a6b1a6=1",
-        "published_date": "Wed, 05 Aug 2026 19:47:00 GMT",
-        "first_seen": "2026-08-05T23:59:28.505891"
-      },
-      "e0741c3ce4fe126e6c4d8cbac7fa243f51e9a8b8241502c8ec41a6bc49681389": {
-        "title": "Aggressive options trading helped drive the S&P 500’s latest rally. What that means for investors.",
-        "link": "https://www.marketwatch.com/story/aggressive-options-trading-helped-drive-the-s-p-500s-latest-rally-what-that-means-for-investors-623fe41c?mod=mw_rss_topstories",
-        "published_date": "Wed, 05 Aug 2026 20:51:00 GMT",
-        "first_seen": "2026-08-05T23:59:28.505898"
-      },
-      "28874563ab58ae1adcad35a21662c6ed8d72a51d410323a8e614a45972d1e416": {
-        "title": "Citadel’s flagship fund surges 6% after Situational Awareness swoop",
-        "link": "https://www.ft.com/content/ae7acfa8-32d6-496a-a1df-28206fa1661d?syn-25a6b1a6=1",
-        "published_date": "Wed, 05 Aug 2026 11:05:00 GMT",
-        "first_seen": "2026-08-05T23:59:28.505900"
-      },
-      "716e512183c4933a5053ee0fb9077de61b38c22db0ce971aac7370e68a2686f4": {
-        "title": "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
-        "link": "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
-        "published_date": "Wed, 05 Aug 2026 22:19:00 GMT",
-        "first_seen": "2026-08-05T23:59:28.505902"
-      },
-      "22eaca831f7c657a2fcb6ba4a2d1f8e7db305e7f090f94d5b678ab2fbcf3852f": {
-        "title": "Google DeepMind CEO Demis Hassabis steps aside in shake-up of AI lab",
-        "link": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
-        "published_date": "Wed, 05 Aug 2026 18:24:00 GMT",
-        "first_seen": "2026-08-05T23:59:28.505904"
-      },
       "47386df83e5f2f95b20da0bb9313a7640e3f86c3686666e6684df5a33c4bba03": {
         "title": "Biggest US law firms explore selling stakes to private equity",
         "link": "https://www.ft.com/content/475d573a-886d-4b75-b07c-f74c38b093f2?syn-25a6b1a6=1",
@@ -4353,33 +4269,39 @@
         "link": "https://www.ft.com/content/0c1d2ab0-3f3d-468e-92d5-218ddc23d885?syn-25a6b1a6=1",
         "published_date": "Fri, 04 Sep 2026 07:09:00 GMT",
         "first_seen": "2026-09-04T09:20:16.516844"
+      },
+      "65ad4a73bde2a6abddf2c43a0a002241d772e1456933d5569ae45f17946cc9c1": {
+        "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
+        "link": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+        "published_date": "Fri, 04 Sep 2026 19:46:00 GMT",
+        "first_seen": "2026-09-05T00:37:25.980766"
+      },
+      "0c5964a7ea02b27edca21576fbf7fd630c9ba9dbda6f0ea144b44e71caf7bbd0": {
+        "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+        "published_date": "Fri, 04 Sep 2026 21:46:00 GMT",
+        "first_seen": "2026-09-05T00:37:25.980776"
+      },
+      "01afcb8e87c55903ba7d20901b07a7698b67e356a72e70d16b0615cfa20f334a": {
+        "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
+        "published_date": "Fri, 04 Sep 2026 20:18:00 GMT",
+        "first_seen": "2026-09-05T00:37:25.980779"
+      },
+      "b78e7788ce302e525ad24e0b3cc17444eb66f84364db706e77dc3a1dd0a280b1": {
+        "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
+        "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+        "published_date": "Fri, 04 Sep 2026 20:12:00 GMT",
+        "first_seen": "2026-09-05T00:37:25.980781"
+      },
+      "63bab8075e182b4e361cb4a0cab56ead09884431e3671e41f05dc4cd1612390b": {
+        "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+        "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+        "published_date": "Fri, 04 Sep 2026 20:03:00 GMT",
+        "first_seen": "2026-09-05T00:37:25.980782"
       }
     },
     "Ai": {
-      "6e26894279c02173bafb71b26036dc503d3d92369bebe87eb5aa8d8c6aeb28bb": {
-        "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-        "link": "https://www.qbitai.com/2026/08/466998.html",
-        "published_date": "Wed, 05 Aug 2026 09:38:00 GMT",
-        "first_seen": "2026-08-05T10:32:22.900010"
-      },
-      "268e0bd34b81e2b1ec041acaa738c8043a757008453a273a0d0309a35387e0ed": {
-        "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-        "link": "https://www.qbitai.com/2026/08/467034.html",
-        "published_date": "Wed, 05 Aug 2026 14:09:00 GMT",
-        "first_seen": "2026-08-05T23:58:29.409865"
-      },
-      "1303d4b567d091765a102529906d11df22372a2cc73085d7de15c9e3dcd7b11a": {
-        "title": "等等，MiniMax H3不是刚发布吗？怎么就卷到几分钱的价格了……",
-        "link": "https://www.qbitai.com/2026/08/467036.html",
-        "published_date": "Wed, 05 Aug 2026 13:47:00 GMT",
-        "first_seen": "2026-08-05T23:58:29.409874"
-      },
-      "c59e647490c7bf870bfc2b606de982698455c2bc2fcb2d4ce03b29bb4aea7767": {
-        "title": "又一家AI基金暴雷了",
-        "link": "https://www.qbitai.com/2026/08/467001.html",
-        "published_date": "Wed, 05 Aug 2026 12:43:00 GMT",
-        "first_seen": "2026-08-05T23:58:29.409877"
-      },
       "63799d50adae146a375d19eddda9e726fbc0cf9a9ffd5553ab49a567dfd7bf72": {
         "title": "2026-08-06日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-06/",
@@ -5663,13 +5585,25 @@
         "link": "https://www.qbitai.com/2026/09/484159.html",
         "published_date": "Fri, 04 Sep 2026 05:53:00 GMT",
         "first_seen": "2026-09-04T09:20:06.515740"
+      },
+      "ba4fbf6810fbe715b5afa3480f095f436c7c5db6aca9368c1e16c6c0df632cd4": {
+        "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+        "link": "https://www.qbitai.com/2026/09/484547.html",
+        "published_date": "Fri, 04 Sep 2026 09:23:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.493280"
+      },
+      "7348fbd3dcb9fa9907240da41df4dcb39a3f38bc203babaebab9c5259c5f9a03": {
+        "title": "2026-09-04日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-04/",
+        "published_date": "Fri, 04 Sep 2026 10:49:00 GMT",
+        "first_seen": "2026-09-05T00:36:37.493289"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-04T09:19:53.536725",
-    "Finance": "2026-09-04T09:20:16.516845",
-    "Ai": "2026-09-04T09:20:06.515743"
+    "Technology": "2026-09-05T00:36:37.378841",
+    "Finance": "2026-09-05T00:37:25.980785",
+    "Ai": "2026-09-05T00:36:37.493291"
   }
 }

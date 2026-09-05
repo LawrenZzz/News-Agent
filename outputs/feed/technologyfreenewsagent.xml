@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 04 Sep 2026 09:19:00 GMT</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2026 09:19:53 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 00:36:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:36:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”</title>
-      <link>https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了</title>
+      <link>https://www.tmtpost.com/8128382.html</link>
+      <description>&lt;![CDATA[OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了]]&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8128382.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话 Sharpa 李一帆：通用机器人要么全能，要么无能</title>
-      <link>http://www.geekpark.net/news/369851</link>
-      <description>&lt;![CDATA[对话 Sharpa 李一帆：通用机器人要么全能，要么无能]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369851</guid>
+      <title>L3爆发前夜</title>
+      <link>https://www.tmtpost.com/8128869.html</link>
+      <description>&lt;![CDATA[L3爆发前夜]]&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8128869.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从算力竞赛到 Token 争夺战，AI 基建进入分层竞争时代</title>
-      <link>https://www.tmtpost.com/8128030.html</link>
-      <description>&lt;![CDATA[从算力竞赛到 Token 争夺战，AI 基建进入分层竞争时代]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 13:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8128030.html</guid>
+      <title>“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队</title>
+      <link>https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队]]&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 10:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>梅卡曼德上市，具身智能又跑出一家百亿公司</title>
-      <link>http://www.geekpark.net/news/369850</link>
-      <description>&lt;![CDATA[梅卡曼德上市，具身智能又跑出一家百亿公司]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 16:33:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369850</guid>
+      <title>鸿蒙 AI Coding 的研发新范式与工程实践</title>
+      <link>https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[鸿蒙 AI Coding 的研发新范式与工程实践]]&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 22:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ARR 3亿美元的Kimi，为什么还在追着投资人要钱？</title>
-      <link>https://www.tmtpost.com/8127838.html</link>
-      <description>&lt;![CDATA[ARR 3亿美元的Kimi，为什么还在追着投资人要钱？]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8127838.html</guid>
+      <title>Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion</title>
+      <link>https://www.tmtpost.com/8129165.html</link>
+      <description>&lt;![CDATA[Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion]]&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 21:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129165.html</guid>
       <category>Technology</category>
     </item>
   </channel>
