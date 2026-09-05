@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Sep 2026 00:36:00 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2026 00:36:37 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 08:48:00 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:48:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了</title>
-      <link>https://www.tmtpost.com/8128382.html</link>
-      <description>&lt;![CDATA[OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8128382.html</guid>
+      <title>GPT-6 Astra上线，AGI时代真到来了吗？</title>
+      <link>https://www.tmtpost.com/8128178.html</link>
+      <description>&lt;![CDATA[GPT-6 Astra上线，AGI时代真到来了吗？]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 09:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8128178.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>L3爆发前夜</title>
-      <link>https://www.tmtpost.com/8128869.html</link>
-      <description>&lt;![CDATA[L3爆发前夜]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 18:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8128869.html</guid>
+      <title>Meta 拓展自研芯片战略：从计算领域延伸至网络领域</title>
+      <link>https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 拓展自研芯片战略：从计算领域延伸至网络领域]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队</title>
-      <link>https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈</title>
+      <link>https://www.tmtpost.com/8129072.html</link>
+      <description>&lt;![CDATA[Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129072.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>鸿蒙 AI Coding 的研发新范式与工程实践</title>
-      <link>https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[鸿蒙 AI Coding 的研发新范式与工程实践]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 22:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article</guid>
+      <title>卡位Agent生态：腾讯WorkBuddy做了什么？</title>
+      <link>https://www.tmtpost.com/8129511.html</link>
+      <description>&lt;![CDATA[卡位Agent生态：腾讯WorkBuddy做了什么？]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 14:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129511.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion</title>
-      <link>https://www.tmtpost.com/8129165.html</link>
-      <description>&lt;![CDATA[Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion]]&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 21:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129165.html</guid>
+      <title>智驾公司的半年报，开始看得出谁能赚钱了</title>
+      <link>https://www.tmtpost.com/8128189.html</link>
+      <description>&lt;![CDATA[智驾公司的半年报，开始看得出谁能赚钱了]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8128189.html</guid>
       <category>Technology</category>
     </item>
   </channel>

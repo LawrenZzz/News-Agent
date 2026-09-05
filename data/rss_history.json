@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b4f6d2d9f4e6922076996bc00445dcb5f5549a89453d7e1a03c190d0a0e4042f": {
-        "title": "刚刚，哈萨比斯卸任谷歌 DeepMind CEO，27年老将Jeff Dean离职创业",
-        "link": "https://www.infoq.cn/article/VwMgA7ktV9fA4eGowJ1z?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Aug 2026 10:59:00 GMT",
-        "first_seen": "2026-08-06T07:37:28.614149"
-      },
-      "8dc27d8d142d747d057092584d5ddca5add180dabbc33d64fe74e99be0ac1813": {
-        "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
-        "link": "https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Aug 2026 14:39:00 GMT",
-        "first_seen": "2026-08-06T07:37:28.614157"
-      },
-      "6b61cd91aef97d2433b1830157a120e0f95c9acdb4d1d2d46af08ddbcdec5144": {
-        "title": "别再修代码了，去修系统：DevOps 之父说，Agent 时代的组织变革比技术更难",
-        "link": "https://www.infoq.cn/article/hLA2I6DD1v0ou0sE8KKB?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Aug 2026 14:34:00 GMT",
-        "first_seen": "2026-08-06T07:37:28.614159"
-      },
-      "b22be36dc1e894050c651442158933619c070963c51653b53082dea341c3cd54": {
-        "title": "卫蓝估值200亿、清陶279亿，中科院和清华谁才是固态电池真正的底牌",
-        "link": "https://www.tmtpost.com/8093334.html",
-        "published_date": "Thu, 06 Aug 2026 13:30:00 GMT",
-        "first_seen": "2026-08-06T07:37:28.614161"
-      },
-      "c652e54c961ef8421628e913cab2a665d8225be064964040263abaa466c20162": {
-        "title": "AI金属：AI基础设施建设浪潮下的金属原材料产业研究（中）",
-        "link": "https://www.tmtpost.com/8092055.html",
-        "published_date": "Thu, 06 Aug 2026 15:09:00 GMT",
-        "first_seen": "2026-08-06T07:37:28.614163"
-      },
       "c41318d5ad26c66ffc5dd201ff4787cfd7fe6f94fdd9f9df824261e9f5dc5661": {
         "title": "谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S",
         "link": "http://www.geekpark.net/news/368495",
@@ -2341,39 +2311,39 @@
         "link": "https://www.tmtpost.com/8129165.html",
         "published_date": "Fri, 04 Sep 2026 21:35:00 GMT",
         "first_seen": "2026-09-05T00:36:37.378839"
+      },
+      "cfa21721c28ae25817c4806c415ff151a2c3940cf8fb237667bbddb86d27a6fb": {
+        "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
+        "link": "https://www.tmtpost.com/8128178.html",
+        "published_date": "Sat, 05 Sep 2026 09:59:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.280941"
+      },
+      "c59d59a6b44726c22c73d9df036a4d606b8214d229860c10e0d967d9cbede63d": {
+        "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "link": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 05 Sep 2026 09:56:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.280954"
+      },
+      "58228fc1c897ac8c83f4f804cd2817d431edd045bcc6ab7166e7a4cb956af43f": {
+        "title": "Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈",
+        "link": "https://www.tmtpost.com/8129072.html",
+        "published_date": "Sat, 05 Sep 2026 09:58:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.280957"
+      },
+      "6c2ac6769236ef9becbd120d4ce21398786eea66e933c2614742bd3a404e103a": {
+        "title": "卡位Agent生态：腾讯WorkBuddy做了什么？",
+        "link": "https://www.tmtpost.com/8129511.html",
+        "published_date": "Sat, 05 Sep 2026 14:49:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.280959"
+      },
+      "5522f0ac5deabcc6405aa64c6a3e96e7bc58d298b1798bd52b70d89d7b46c92a": {
+        "title": "智驾公司的半年报，开始看得出谁能赚钱了",
+        "link": "https://www.tmtpost.com/8128189.html",
+        "published_date": "Sat, 05 Sep 2026 10:40:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.280961"
       }
     },
     "Finance": {
-      "47386df83e5f2f95b20da0bb9313a7640e3f86c3686666e6684df5a33c4bba03": {
-        "title": "Biggest US law firms explore selling stakes to private equity",
-        "link": "https://www.ft.com/content/475d573a-886d-4b75-b07c-f74c38b093f2?syn-25a6b1a6=1",
-        "published_date": "Thu, 06 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-06T07:37:39.938958"
-      },
-      "258c22ab1750bd6a11867baaf7cf7fc5a985cd846c20cac659fa283e7c8501b3": {
-        "title": "Ares scales back blockbuster private credit vehicle after valuation pushback",
-        "link": "https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1",
-        "published_date": "Thu, 06 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-06T07:37:39.938966"
-      },
-      "92ddbc32191d1b535d88a9aa6283f6364c9f99ec3827ccf706f5de9df284c2a1": {
-        "title": "Who needs consultants in the age of AI?",
-        "link": "https://www.ft.com/content/0d600619-6521-4de2-963e-c6f44f6e5468?syn-25a6b1a6=1",
-        "published_date": "Thu, 06 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-06T07:37:39.938968"
-      },
-      "15eaf2411082bfb23409c2a1d8bb7fa96114964913fd4ca21b3e54fc25fc5c46": {
-        "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
-        "link": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
-        "published_date": "Thu, 06 Aug 2026 06:09:00 GMT",
-        "first_seen": "2026-08-06T07:37:39.938970"
-      },
-      "6c07c89b572a412166714022fbb39a0636a334bacfb199d24b7e43d0021fcf83": {
-        "title": "‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’",
-        "link": "https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1",
-        "published_date": "Thu, 06 Aug 2026 00:07:00 GMT",
-        "first_seen": "2026-08-06T07:37:39.938971"
-      },
       "efcfafb9a81e90e5de1deca38bed3cd71c09f8026989d7f6806b1456e7de6e66": {
         "title": "Investors are misreading this major economy — and creating a rare opportunity in government bonds",
         "link": "https://www.marketwatch.com/story/why-the-country-with-great-political-turmoil-still-has-the-best-bonds-to-buy-a099b325?mod=mw_rss_topstories",
@@ -4299,33 +4269,39 @@
         "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
         "published_date": "Fri, 04 Sep 2026 20:03:00 GMT",
         "first_seen": "2026-09-05T00:37:25.980782"
+      },
+      "17f763355498480e27f11172e8e183c8860396fa30923a48bb1cb700334f3044": {
+        "title": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
+        "link": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
+        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-05T08:48:58.891129"
+      },
+      "625e82b554237ed7184496a737ea4072c35e4a12e77a755bfef9bef6fa99d1cf": {
+        "title": "AI boom reverses the trend of ever-cheaper electronics",
+        "link": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-05T08:48:58.891137"
+      },
+      "8d6277ece08f4e0e108bb7ca407bed552ae3f16687960b22592df8ba9c32f6b1": {
+        "title": "The gloves are starting to come off in markets",
+        "link": "https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
+        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-05T08:48:58.891139"
+      },
+      "458e424e539d3e259ac30902689a3a74b217562dfc962e342389fd3327291c17": {
+        "title": "How nationalists, theocrats and tech titans turned their backs on the future",
+        "link": "https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed",
+        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-05T08:48:58.891141"
+      },
+      "29f986bed739f43670c92e4051768b202780d0456bfb657401ac19c971b67340": {
+        "title": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies",
+        "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
+        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-05T08:48:58.891143"
       }
     },
     "Ai": {
-      "63799d50adae146a375d19eddda9e726fbc0cf9a9ffd5553ab49a567dfd7bf72": {
-        "title": "2026-08-06日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-06/",
-        "published_date": "Thu, 06 Aug 2026 10:52:00 GMT",
-        "first_seen": "2026-08-06T07:37:06.081920"
-      },
-      "d7cb6c7a3b328604a41187e84243210ff32d464e41ef298c637b42ec27fd514f": {
-        "title": "这人谁啊？哈萨比斯都让位了",
-        "link": "https://www.qbitai.com/2026/08/467274.html",
-        "published_date": "Thu, 06 Aug 2026 06:17:00 GMT",
-        "first_seen": "2026-08-06T07:37:06.081930"
-      },
-      "4ac3319398b1e37c925d3d6a9528e1bc12ff81ff7beaa771bf453ffea92c8d56": {
-        "title": "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”",
-        "link": "https://www.qbitai.com/2026/08/467270.html",
-        "published_date": "Thu, 06 Aug 2026 05:36:00 GMT",
-        "first_seen": "2026-08-06T07:37:06.081933"
-      },
-      "a2645cd318bb42ff5449616a6bcced33dd0f7d35547f225a15ab7fe4b248ba87": {
-        "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
-        "link": "https://www.qbitai.com/2026/08/467262.html",
-        "published_date": "Thu, 06 Aug 2026 05:29:00 GMT",
-        "first_seen": "2026-08-06T07:37:06.081935"
-      },
       "34b17d30c52eed6de02f6328063e37932b38fb470c00177f37a32e46dae1f076": {
         "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
         "link": "https://www.qbitai.com/2026/08/467447.html",
@@ -5597,13 +5573,37 @@
         "link": "https://hex2077.dev/docs/2026-09/2026-09-04/",
         "published_date": "Fri, 04 Sep 2026 10:49:00 GMT",
         "first_seen": "2026-09-05T00:36:37.493289"
+      },
+      "fc09dbe50cf989a497078cdb4929957055d1b857db1a57684886ae7d02fb2265": {
+        "title": "2026-09-05日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-05/",
+        "published_date": "Sat, 05 Sep 2026 10:26:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.398443"
+      },
+      "f64708c703146dd61b49b4d85b9d6cb1d9ab5041fdd9355a30aa616e3a5f124a": {
+        "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+        "link": "https://www.qbitai.com/2026/09/484649.html",
+        "published_date": "Sat, 05 Sep 2026 04:24:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.398452"
+      },
+      "aa84e61a1c86b9a97f51828160ed661a19bed5a2cbb36179380e3a717a6c5e0e": {
+        "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+        "link": "https://www.qbitai.com/2026/09/484611.html",
+        "published_date": "Sat, 05 Sep 2026 04:18:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.398454"
+      },
+      "4e2c90fe10f555fea4688162d17d4f98264fde90a6564ceba8e4dede4ea2fac1": {
+        "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+        "link": "https://www.qbitai.com/2026/09/484551.html",
+        "published_date": "Sat, 05 Sep 2026 01:17:00 GMT",
+        "first_seen": "2026-09-05T08:48:47.398456"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-05T00:36:37.378841",
-    "Finance": "2026-09-05T00:37:25.980785",
-    "Ai": "2026-09-05T00:36:37.493291"
+    "Technology": "2026-09-05T08:48:47.280964",
+    "Finance": "2026-09-05T08:48:58.891146",
+    "Ai": "2026-09-05T08:48:47.398458"
   }
 }
