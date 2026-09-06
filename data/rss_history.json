@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c41318d5ad26c66ffc5dd201ff4787cfd7fe6f94fdd9f9df824261e9f5dc5661": {
-        "title": "谷歌「地基元老」Jeff Dean 离职创业，新公司瞄准 AI4S",
-        "link": "http://www.geekpark.net/news/368495",
-        "published_date": "Thu, 06 Aug 2026 15:51:00 GMT",
-        "first_seen": "2026-08-06T10:37:03.756641"
-      },
-      "a72b7f87423cb539bdfb99c8ad78d63daa101103c56105a88667e92258afc516": {
-        "title": "NVIDIA Turns to Chinese Base-Station Makers to Push AI Computing to the Network Edge",
-        "link": "https://www.tmtpost.com/8094065.html",
-        "published_date": "Thu, 06 Aug 2026 17:03:00 GMT",
-        "first_seen": "2026-08-06T10:37:03.756648"
-      },
-      "b1dfc5d8bd130609fe36fbe0cf1843c1b31c193fc79e1a0776e36ef0bf0ed319": {
-        "title": "SpaceX上市后首份财报引发暴跌？理想中的万亿营收太空AI公司，正在靠地面AI云挣钱",
-        "link": "https://www.tmtpost.com/8093971.html",
-        "published_date": "Thu, 06 Aug 2026 18:01:00 GMT",
-        "first_seen": "2026-08-06T10:37:03.756651"
-      },
-      "1d6d25c4f19962efa41bdcaabebbb83c631271c7c7e0782bdb35e8d29e9e2a78": {
-        "title": "谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？",
-        "link": "https://www.tmtpost.com/8093802.html",
-        "published_date": "Thu, 06 Aug 2026 14:57:00 GMT",
-        "first_seen": "2026-08-06T10:37:03.756653"
-      },
-      "a46b98367c3dce3189a0203e9cb0f044beb55909719f26e6de9ea5b70d20b50c": {
-        "title": "AI原生组织：谁思考、谁执行、谁负责、谁进化",
-        "link": "https://www.tmtpost.com/8094183.html",
-        "published_date": "Thu, 06 Aug 2026 18:23:00 GMT",
-        "first_seen": "2026-08-06T10:37:03.756654"
-      },
       "2eeaec0e81433e8e5ee75d49e7fbb7ad777badb06878e4bfed9f9eb2194a0124": {
         "title": "谷歌AI大换血，背后究竟发生了什么？",
         "link": "https://www.tmtpost.com/8093622.html",
@@ -2341,39 +2311,39 @@
         "link": "https://www.tmtpost.com/8128189.html",
         "published_date": "Sat, 05 Sep 2026 10:40:00 GMT",
         "first_seen": "2026-09-05T08:48:47.280961"
+      },
+      "eca49cc4e497da2484a5aa181897e98f411fad75f07eeafad211681a83f4078a": {
+        "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
+        "link": "http://www.geekpark.net/news/369875",
+        "published_date": "Sun, 06 Sep 2026 08:06:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.055024"
+      },
+      "c2e59abfbbc7df63bf8e9041b5dc0eea6330252dec8bf594c914fcf5b7e773bf": {
+        "title": "AGI，真的来了？",
+        "link": "https://www.tmtpost.com/8129208.html",
+        "published_date": "Sat, 05 Sep 2026 09:58:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.055034"
+      },
+      "a6b71e1b39041f81a2defe090de43d79db380c841533051350f3aea8a2858d22": {
+        "title": "中国开源模型，正成为全球 AI 的“度量衡”",
+        "link": "https://www.tmtpost.com/8129473.html",
+        "published_date": "Sat, 05 Sep 2026 16:35:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.055037"
+      },
+      "7bf81f254294163076b648dae40fdbfa09674f508ea73549df3993cc77eaa756": {
+        "title": "具身智能的冰与火之歌：热在展台，冷在产线",
+        "link": "https://www.tmtpost.com/8129186.html",
+        "published_date": "Sat, 05 Sep 2026 19:18:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.055039"
+      },
+      "2dfcb8b8bdd0511c1540f615f797da91a66cd87e6c4069f58917275888a3bade": {
+        "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "link": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 05 Sep 2026 17:00:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.055041"
       }
     },
     "Finance": {
-      "efcfafb9a81e90e5de1deca38bed3cd71c09f8026989d7f6806b1456e7de6e66": {
-        "title": "Investors are misreading this major economy — and creating a rare opportunity in government bonds",
-        "link": "https://www.marketwatch.com/story/why-the-country-with-great-political-turmoil-still-has-the-best-bonds-to-buy-a099b325?mod=mw_rss_topstories",
-        "published_date": "Thu, 06 Aug 2026 09:40:00 GMT",
-        "first_seen": "2026-08-06T10:37:14.871544"
-      },
-      "1b9795e41edcc7405ba323ec66c4fc1ae5873205f08699b18150d26fd192fd7a": {
-        "title": "Flash crash briefly fells SK Hynix while SocGen strategist says Korean shakeout is nearly done",
-        "link": "https://www.marketwatch.com/story/flash-crash-briefly-fells-sk-hynix-while-socgen-strategist-says-korean-shakeout-is-nearly-done-8872681e?mod=mw_rss_topstories",
-        "published_date": "Thu, 06 Aug 2026 10:08:00 GMT",
-        "first_seen": "2026-08-06T10:37:14.871552"
-      },
-      "b0c3d6dfe697329de6dff76bf606545299279fb163cd0690afcd67a88b93c8a2": {
-        "title": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
-        "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
-        "published_date": "Thu, 06 Aug 2026 09:00:00 GMT",
-        "first_seen": "2026-08-06T10:37:14.871554"
-      },
-      "6d317beb4c00502e20c0629e0e0e9e91c9b96d686fbcf3f8b7cfc319a2a03148": {
-        "title": "Sandisk is falling after earnings. Here’s what Wall Street says.",
-        "link": "https://www.marketwatch.com/story/sandisk-is-falling-after-earnings-heres-what-wall-street-says-591537ec?mod=mw_rss_topstories",
-        "published_date": "Thu, 06 Aug 2026 09:56:00 GMT",
-        "first_seen": "2026-08-06T10:37:14.871556"
-      },
-      "dcd194922847378e1b7317d539c5438a4054dc75b8746f6afe85a946c5261944": {
-        "title": "‘He’s never been good with money’: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?",
-        "link": "https://www.marketwatch.com/story/hes-never-been-good-with-money-if-i-set-up-an-annuity-for-my-brother-65-would-it-jeopardize-his-supplemental-security-income-d2e9f5a0?mod=mw_rss_topstories",
-        "published_date": "Thu, 06 Aug 2026 09:15:00 GMT",
-        "first_seen": "2026-08-06T10:37:14.871558"
-      },
       "98c83076bddf83d3623982c12bc7817ef9dbc92348e633d2e5841f6e276f9e30": {
         "title": "US euro sale to prop up yen blindsided European Central Bank",
         "link": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1",
@@ -4299,21 +4269,39 @@
         "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
         "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-05T08:48:58.891143"
+      },
+      "f1368189b1c174033c961d218170bc6811781ab58f814be0d2e53adb448f474d": {
+        "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
+        "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
+        "published_date": "Sat, 05 Sep 2026 16:34:00 GMT",
+        "first_seen": "2026-09-06T00:34:55.188521"
+      },
+      "8a0893ff50d4489a6f3a5d95529f4bf264ce7b42b0ffb668f3d41399a8bc89a5": {
+        "title": "Treasury sell-off piles pressure on weakest US borrowers",
+        "link": "https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
+        "published_date": "Sat, 05 Sep 2026 11:00:00 GMT",
+        "first_seen": "2026-09-06T00:34:55.188528"
+      },
+      "14ffc75ba483a478a9692b3d76d88de5a53f542a9ba9930cdf85e828cb029472": {
+        "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
+        "link": "https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1",
+        "published_date": "Sat, 05 Sep 2026 21:35:00 GMT",
+        "first_seen": "2026-09-06T00:34:55.188530"
+      },
+      "16e50bfc912013856f3fd6fdefd3889f7dd47751b0fa2d7accf556c88ee4c9d1": {
+        "title": "7% mortgage rates are already here, some buyers and mortgage experts say",
+        "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+        "published_date": "Sat, 05 Sep 2026 18:09:00 GMT",
+        "first_seen": "2026-09-06T00:34:55.188532"
+      },
+      "8d36211070d97bda2600688107ad481e3bc8ea7c6e7c0e5ac5244407558e80e7": {
+        "title": "Why the jobs report will actually be good for bonds",
+        "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
+        "published_date": "Sat, 05 Sep 2026 18:26:00 GMT",
+        "first_seen": "2026-09-06T00:34:55.188535"
       }
     },
     "Ai": {
-      "34b17d30c52eed6de02f6328063e37932b38fb470c00177f37a32e46dae1f076": {
-        "title": "没有人靠段子永载GitHub，除非谷歌姐夫",
-        "link": "https://www.qbitai.com/2026/08/467447.html",
-        "published_date": "Thu, 06 Aug 2026 08:02:00 GMT",
-        "first_seen": "2026-08-06T10:36:34.138602"
-      },
-      "82b34a68c851b5b68c23034593b366eb013163811d47d751d26bcd9f3f3ac8c1": {
-        "title": "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一",
-        "link": "https://www.qbitai.com/2026/08/467444.html",
-        "published_date": "Thu, 06 Aug 2026 07:43:00 GMT",
-        "first_seen": "2026-08-06T10:36:34.138612"
-      },
       "f025b9a2a222d65fc3f9f2cccd3aef9486f4bf1f14cecde8b4918ec75be994fc": {
         "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
         "link": "https://www.qbitai.com/2026/08/467663.html",
@@ -5597,13 +5585,25 @@
         "link": "https://www.qbitai.com/2026/09/484551.html",
         "published_date": "Sat, 05 Sep 2026 01:17:00 GMT",
         "first_seen": "2026-09-05T08:48:47.398456"
+      },
+      "3b78ae0415e84e09f70829e911597bc19230eb4c7944ae685f403a71077a6918": {
+        "title": "GPT-6带火循环Transformer，阿里早已布局",
+        "link": "https://www.qbitai.com/2026/09/484726.html",
+        "published_date": "Sat, 05 Sep 2026 15:07:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.174306"
+      },
+      "57a3a3866f17def362a55417d813e373ea502d0a7a0cd463fddce3e69bc95c45": {
+        "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "link": "https://www.qbitai.com/2026/09/484683.html",
+        "published_date": "Sat, 05 Sep 2026 14:46:00 GMT",
+        "first_seen": "2026-09-06T00:34:41.174315"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-05T08:48:47.280964",
-    "Finance": "2026-09-05T08:48:58.891146",
-    "Ai": "2026-09-05T08:48:47.398458"
+    "Technology": "2026-09-06T00:34:41.055043",
+    "Finance": "2026-09-06T00:34:55.188537",
+    "Ai": "2026-09-06T00:34:41.174318"
   }
 }

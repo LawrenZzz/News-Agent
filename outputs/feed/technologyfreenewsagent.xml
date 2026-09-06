@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Sep 2026 08:48:00 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2026 08:48:47 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2026 00:34:00 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:34:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>GPT-6 Astra上线，AGI时代真到来了吗？</title>
-      <link>https://www.tmtpost.com/8128178.html</link>
-      <description>&lt;![CDATA[GPT-6 Astra上线，AGI时代真到来了吗？]]&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 09:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8128178.html</guid>
+      <title>传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站</title>
+      <link>http://www.geekpark.net/news/369875</link>
+      <description>&lt;![CDATA[传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站]]&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 08:06:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/369875</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta 拓展自研芯片战略：从计算领域延伸至网络领域</title>
-      <link>https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 拓展自研芯片战略：从计算领域延伸至网络领域]]&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈</title>
-      <link>https://www.tmtpost.com/8129072.html</link>
-      <description>&lt;![CDATA[Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈]]&gt;</description>
+      <title>AGI，真的来了？</title>
+      <link>https://www.tmtpost.com/8129208.html</link>
+      <description>&lt;![CDATA[AGI，真的来了？]]&gt;</description>
       <pubDate>Sat, 05 Sep 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129072.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129208.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>卡位Agent生态：腾讯WorkBuddy做了什么？</title>
-      <link>https://www.tmtpost.com/8129511.html</link>
-      <description>&lt;![CDATA[卡位Agent生态：腾讯WorkBuddy做了什么？]]&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129511.html</guid>
+      <title>中国开源模型，正成为全球 AI 的“度量衡”</title>
+      <link>https://www.tmtpost.com/8129473.html</link>
+      <description>&lt;![CDATA[中国开源模型，正成为全球 AI 的“度量衡”]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 16:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129473.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>智驾公司的半年报，开始看得出谁能赚钱了</title>
-      <link>https://www.tmtpost.com/8128189.html</link>
-      <description>&lt;![CDATA[智驾公司的半年报，开始看得出谁能赚钱了]]&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 10:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8128189.html</guid>
+      <title>具身智能的冰与火之歌：热在展台，冷在产线</title>
+      <link>https://www.tmtpost.com/8129186.html</link>
+      <description>&lt;![CDATA[具身智能的冰与火之歌：热在展台，冷在产线]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 19:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129186.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken</title>
+      <link>https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken]]&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
