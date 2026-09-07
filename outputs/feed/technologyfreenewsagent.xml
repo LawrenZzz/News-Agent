@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Sep 2026 00:41:00 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 00:41:26 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 09:56:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:57:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区</title>
-      <link>https://www.tmtpost.com/8130213.html</link>
-      <description>&lt;![CDATA[Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 20:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8130213.html</guid>
+      <title>GPT-6发布，硬件跌停、应用涨停：一次被过度解读的叙事切换？</title>
+      <link>https://www.tmtpost.com/8130901.html</link>
+      <description>&lt;![CDATA[GPT-6发布，硬件跌停、应用涨停：一次被过度解读的叙事切换？]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 16:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8130901.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>银行“抢着借钱”，字节贷款近2000亿搞AI？</title>
-      <link>https://www.tmtpost.com/8129806.html</link>
-      <description>&lt;![CDATA[银行“抢着借钱”，字节贷款近2000亿搞AI？]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129806.html</guid>
+      <title>Hugging Face太重要，绝不能落入英伟达手中？黄仁勋：我本想让它独立，但有其他竞购者</title>
+      <link>https://www.infoq.cn/article/5dtlrdsBbSIZfWUUF6JD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Hugging Face太重要，绝不能落入英伟达手中？黄仁勋：我本想让它独立，但有其他竞购者]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5dtlrdsBbSIZfWUUF6JD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>车企的焦虑，都在押注机器人</title>
-      <link>https://www.tmtpost.com/8129734.html</link>
-      <description>&lt;![CDATA[车企的焦虑，都在押注机器人]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129734.html</guid>
+      <title>机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争</title>
+      <link>https://www.tmtpost.com/8131169.html</link>
+      <description>&lt;![CDATA[机器人触觉的爆发前夜：五大技术路线、数据困局与模型之争]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 17:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8131169.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装</title>
-      <link>https://www.tmtpost.com/8128608.html</link>
-      <description>&lt;![CDATA[对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 09:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8128608.html</guid>
+      <title>DeepSeek千兆瓦雄心，遭遇电力现实</title>
+      <link>https://www.tmtpost.com/8131016.html</link>
+      <description>&lt;![CDATA[DeepSeek千兆瓦雄心，遭遇电力现实]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 17:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8131016.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国大模型简史02：一张突然值钱的船票</title>
-      <link>https://www.tmtpost.com/8129912.html</link>
-      <description>&lt;![CDATA[中国大模型简史02：一张突然值钱的船票]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129912.html</guid>
+      <title>TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统</title>
+      <link>https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
