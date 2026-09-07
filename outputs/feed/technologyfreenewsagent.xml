@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Sep 2026 09:09:00 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Sep 2026 09:10:04 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 00:41:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:41:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争</title>
-      <link>https://www.tmtpost.com/8129268.html</link>
-      <description>&lt;![CDATA[OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129268.html</guid>
+      <title>Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区</title>
+      <link>https://www.tmtpost.com/8130213.html</link>
+      <description>&lt;![CDATA[Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区]]&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 20:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8130213.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AGI来没来不好说，但GPT-6真把Token省下来了</title>
-      <link>https://www.tmtpost.com/8129798.html</link>
-      <description>&lt;![CDATA[AGI来没来不好说，但GPT-6真把Token省下来了]]&gt;</description>
+      <title>银行“抢着借钱”，字节贷款近2000亿搞AI？</title>
+      <link>https://www.tmtpost.com/8129806.html</link>
+      <description>&lt;![CDATA[银行“抢着借钱”，字节贷款近2000亿搞AI？]]&gt;</description>
       <pubDate>Sun, 06 Sep 2026 11:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129798.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129806.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI时代，最稀缺的不是知识，而是系统思维</title>
-      <link>https://www.tmtpost.com/8082672.html</link>
-      <description>&lt;![CDATA[AI时代，最稀缺的不是知识，而是系统思维]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8082672.html</guid>
+      <title>车企的焦虑，都在押注机器人</title>
+      <link>https://www.tmtpost.com/8129734.html</link>
+      <description>&lt;![CDATA[车企的焦虑，都在押注机器人]]&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129734.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标</title>
-      <link>https://www.tmtpost.com/8129971.html</link>
-      <description>&lt;![CDATA[2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129971.html</guid>
+      <title>对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装</title>
+      <link>https://www.tmtpost.com/8128608.html</link>
+      <description>&lt;![CDATA[对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装]]&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 09:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8128608.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI</title>
-      <link>https://www.tmtpost.com/8129811.html</link>
-      <description>&lt;![CDATA[计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8129811.html</guid>
+      <title>中国大模型简史02：一张突然值钱的船票</title>
+      <link>https://www.tmtpost.com/8129912.html</link>
+      <description>&lt;![CDATA[中国大模型简史02：一张突然值钱的船票]]&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8129912.html</guid>
       <category>Technology</category>
     </item>
   </channel>
