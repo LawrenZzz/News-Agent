@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Sep 2026 00:55:00 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 00:55:33 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 09:25:00 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:25:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机</title>
-      <link>http://www.geekpark.net/news/369965</link>
-      <description>&lt;![CDATA[传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 08:34:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369965</guid>
+      <title>OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来</title>
+      <link>https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上</title>
-      <link>https://www.tmtpost.com/8130806.html</link>
-      <description>&lt;![CDATA[AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8130806.html</guid>
+      <title>11 天、30 万美元：AI 攻破 358 年数学难题的最后一关</title>
+      <link>https://www.tmtpost.com/8132711.html</link>
+      <description>&lt;![CDATA[11 天、30 万美元：AI 攻破 358 年数学难题的最后一关]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8132711.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软将人工智能治理从政策层面转向运行时执行</title>
-      <link>https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软将人工智能治理从政策层面转向运行时执行]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>奥特曼、李飞飞、张一鸣齐押注，3D世界成AI竞赛新战场</title>
+      <link>https://www.tmtpost.com/8132577.html</link>
+      <description>&lt;![CDATA[奥特曼、李飞飞、张一鸣齐押注，3D世界成AI竞赛新战场]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8132577.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>通用机器人，正在从一种身体变成一种架构</title>
-      <link>https://www.tmtpost.com/8131405.html</link>
-      <description>&lt;![CDATA[通用机器人，正在从一种身体变成一种架构]]&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 08:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8131405.html</guid>
+      <title>OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互</title>
+      <link>https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 13:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>判断用不用你的软件，Agent 只需 500 个 Token</title>
-      <link>http://www.geekpark.net/news/369960</link>
-      <description>&lt;![CDATA[判断用不用你的软件，Agent 只需 500 个 Token]]&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/369960</guid>
+      <title>Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息</title>
+      <link>https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息]]&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
