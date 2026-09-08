@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b04f16db3961c35258658c9c70d8aea275d5fc150924bec0235483ca99a07a5b": {
-        "title": "【数智周报】张一鸣：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名；三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术；闪迪第四财季营收超预期增长372%，数据中心收入增近13倍，拟豪掷140亿回购",
-        "link": "https://www.tmtpost.com/8096279.html",
-        "published_date": "Sat, 08 Aug 2026 18:17:00 GMT",
-        "first_seen": "2026-08-08T23:25:51.351190"
-      },
-      "781d3c9c35d8921cef946fb08bd8e1d3d788743babedce70a4cc58cbdf2ec3ab": {
-        "title": "微软刚开源了 1 个神器：录一遍操作，自动学习内化成 Skill。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535843&idx=1&sn=9b1a388391a85d00b267f2f9084a5225",
-        "published_date": "Sat, 08 Aug 2026 14:36:00 GMT",
-        "first_seen": "2026-08-08T23:25:51.351199"
-      },
-      "429f6b69c43b90b1f0ec311bcba6f866f769435ced65308271bae3102640e84a": {
-        "title": "AI没被电饿死，先被电“气”死了",
-        "link": "https://www.tmtpost.com/8096048.html",
-        "published_date": "Sat, 08 Aug 2026 18:06:00 GMT",
-        "first_seen": "2026-08-08T23:25:51.351202"
-      },
-      "af38f6dde010717a954c0659c7904fa7efcfc276dc5808ce81ac1e1f2e175414": {
-        "title": "Link-X Demo Day 2026 ：AI 创业向下扎根、向外延伸、向内深入",
-        "link": "https://www.tmtpost.com/8096463.html",
-        "published_date": "Sat, 08 Aug 2026 22:24:00 GMT",
-        "first_seen": "2026-08-08T23:25:51.351204"
-      },
-      "7f5c5bffbe098dbd6ec40ac8dac96a68f76695fc77c8b022069247db2b9e9611": {
-        "title": "年薪千万不如估值百亿，AI大神“看不上”大厂",
-        "link": "https://www.tmtpost.com/8095177.html",
-        "published_date": "Sat, 08 Aug 2026 09:52:00 GMT",
-        "first_seen": "2026-08-08T23:25:51.351206"
-      },
       "026d6b058719c1594a74d01525b960977f66b0df2ed6a0a93167057d8769f525": {
         "title": "Jeff Dean离职谷歌首次亮相回答：AI的下一个十年是什么",
         "link": "https://www.tmtpost.com/8096544.html",
@@ -2281,39 +2251,39 @@
         "link": "https://www.infoq.cn/article/atCusTaSOmddUx1vvJba?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 07 Sep 2026 16:18:00 GMT",
         "first_seen": "2026-09-07T09:57:21.446318"
+      },
+      "ffed1af46b418ecf822def3a4016ff6671e3fcb04a7a005eab761741816bcd91": {
+        "title": "传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
+        "link": "http://www.geekpark.net/news/369965",
+        "published_date": "Tue, 08 Sep 2026 08:34:00 GMT",
+        "first_seen": "2026-09-08T00:55:33.050791"
+      },
+      "70ff7e255b034d28c4f6e85560d4efb862c46fa05dcffb2a369d79b5a2285e23": {
+        "title": "AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上",
+        "link": "https://www.tmtpost.com/8130806.html",
+        "published_date": "Mon, 07 Sep 2026 17:57:00 GMT",
+        "first_seen": "2026-09-08T00:55:33.050802"
+      },
+      "bbb6c175edf0c6a1e8179a203948ba2e13f02440e4e34e7cf6aa246f38bf7e67": {
+        "title": "微软将人工智能治理从政策层面转向运行时执行",
+        "link": "https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 07 Sep 2026 12:35:00 GMT",
+        "first_seen": "2026-09-08T00:55:33.050805"
+      },
+      "db0ce78253293ac43f6fad3c0e0c824b6ee6b09e551fbd385e5c637c03d621bb": {
+        "title": "通用机器人，正在从一种身体变成一种架构",
+        "link": "https://www.tmtpost.com/8131405.html",
+        "published_date": "Tue, 08 Sep 2026 08:09:00 GMT",
+        "first_seen": "2026-09-08T00:55:33.050807"
+      },
+      "bba6fe4796a730283257c1e0234cb3f2897a0a0d4835b15a8cc01f7e09d91a25": {
+        "title": "判断用不用你的软件，Agent 只需 500 个 Token",
+        "link": "http://www.geekpark.net/news/369960",
+        "published_date": "Mon, 07 Sep 2026 18:32:00 GMT",
+        "first_seen": "2026-09-08T00:55:33.050808"
       }
     },
     "Finance": {
-      "21635c15c60c6af0a10fe4c9b8aaedd3845876acda00f1eb958f90e4e4bb667d": {
-        "title": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",
-        "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
-        "published_date": "Sat, 08 Aug 2026 16:20:00 GMT",
-        "first_seen": "2026-08-08T23:26:03.090418"
-      },
-      "e0f3afe01807d6d45fbf989659ac0ba817d3b931783a9ff9379bee49d041bb36": {
-        "title": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
-        "link": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
-        "published_date": "Sat, 08 Aug 2026 11:00:00 GMT",
-        "first_seen": "2026-08-08T23:26:03.090425"
-      },
-      "a0ac88f4db9f170490e39f7b869781d6b4aed80c71e450b0731745e988b2dcbb": {
-        "title": "Greg Abel finally puts Buffett’s cash pile to work",
-        "link": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
-        "published_date": "Sat, 08 Aug 2026 15:36:00 GMT",
-        "first_seen": "2026-08-08T23:26:03.090427"
-      },
-      "6e9badcf9895aa6f4d93b1ca43c8f9444dc8227018ad209870420225741eb702": {
-        "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-        "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-        "published_date": "Sat, 08 Aug 2026 18:30:00 GMT",
-        "first_seen": "2026-08-08T23:26:03.090428"
-      },
-      "5b92b78328b146bf0a7acaddd6c89a5b345ca11be9f4dbbaee2ca290d1c98b06": {
-        "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
-        "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
-        "published_date": "Sat, 08 Aug 2026 19:00:00 GMT",
-        "first_seen": "2026-08-08T23:26:03.090430"
-      },
       "5b38dbe4dd9bd71899a17021f03e49572b2728a443c36d29918970bfa53fe362": {
         "title": "The bank behind China’s AI listings bonanza",
         "link": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
@@ -4239,6 +4209,36 @@
         "link": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
         "published_date": "Mon, 07 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-07T10:00:08.082455"
+      },
+      "f61afeda967060c45fce58382d14e5ac96cb0ad28fc3d84be8075d9a71c90377": {
+        "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
+        "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
+        "published_date": "Mon, 07 Sep 2026 11:36:00 GMT",
+        "first_seen": "2026-09-08T00:57:26.755534"
+      },
+      "aba984dbe695675014e04327bb8f4ad26afab648eebb399ab5635d77537f6a9f": {
+        "title": "‘Chimerica’ is now a chimera — and global stability is the victim",
+        "link": "https://www.ft.com/content/8c5c7c44-c9fd-4326-b09a-9f58e3f144b9",
+        "published_date": "Mon, 07 Sep 2026 13:00:00 GMT",
+        "first_seen": "2026-09-08T00:57:26.755540"
+      },
+      "ab80809aea88485f01e691802442fca93014f0c6e9991efe8bb586b5021602e1": {
+        "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+        "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+        "published_date": "Tue, 08 Sep 2026 00:23:00 GMT",
+        "first_seen": "2026-09-08T00:57:26.755542"
+      },
+      "c1b0f39f2d823a24f8d970ac9f32132c935923304af8a084f316cd99039e41ae": {
+        "title": "What next for Alternative for Germany after its victory in Saxony-Anhalt?",
+        "link": "https://www.ft.com/content/4275e189-997c-43f0-b702-d3447c9e81ec?syn-25a6b1a6=1",
+        "published_date": "Mon, 07 Sep 2026 15:35:00 GMT",
+        "first_seen": "2026-09-08T00:57:26.755543"
+      },
+      "f84d7692cea24de881f621e242790b2ca8ebc6906c6b91f4ecc8f8b1f4146266": {
+        "title": "UK set to announce trade ban on Israeli settlements in the West Bank",
+        "link": "https://www.ft.com/content/1f71d2d0-d2e2-46da-a96f-99d20936223e?syn-25a6b1a6=1",
+        "published_date": "Mon, 07 Sep 2026 22:19:00 GMT",
+        "first_seen": "2026-09-08T00:57:26.755545"
       }
     },
     "Ai": {
@@ -5482,8 +5482,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-07T09:57:21.446321",
-    "Finance": "2026-09-07T10:00:08.082457",
+    "Technology": "2026-09-08T00:55:33.050810",
+    "Finance": "2026-09-08T00:57:26.755548",
     "Ai": "2026-09-07T09:57:21.558361"
   }
 }
