@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Sep 2026 09:23:00 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 09:24:23 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 00:48:00 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:49:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元</title>
-      <link>https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市</title>
+      <link>https://www.tmtpost.com/8134558.html</link>
+      <description>&lt;![CDATA[【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8134558.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%</title>
-      <link>https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 12:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AGI 怎样才算真的来了？</title>
+      <link>https://www.tmtpost.com/8133380.html</link>
+      <description>&lt;![CDATA[AGI 怎样才算真的来了？]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 18:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8133380.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度</title>
-      <link>https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&amp;utm_medium=article</guid>
+      <title>当 Agent 开始写应用，数据库也得换一套打法</title>
+      <link>https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当 Agent 开始写应用，数据库也得换一套打法]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 18:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力之后，存储成为AI应用落地的“胜负手”</title>
-      <link>https://www.tmtpost.com/8133976.html</link>
-      <description>&lt;![CDATA[算力之后，存储成为AI应用落地的“胜负手”]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 14:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8133976.html</guid>
+      <title>影石与大疆苦战一年：从千亿市值，到利润归零</title>
+      <link>https://www.tmtpost.com/8133983.html</link>
+      <description>&lt;![CDATA[影石与大疆苦战一年：从千亿市值，到利润归零]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8133983.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”</title>
-      <link>https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 14:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek Tests Whether Its Cheaper Flash Model Can Displace Pro</title>
+      <link>https://www.tmtpost.com/8134068.html</link>
+      <description>&lt;![CDATA[DeepSeek Tests Whether Its Cheaper Flash Model Can Displace Pro]]&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8134068.html</guid>
       <category>Technology</category>
     </item>
   </channel>
