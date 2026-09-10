@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Sep 2026 00:48:00 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 00:49:18 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 09:23:00 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:23:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市</title>
-      <link>https://www.tmtpost.com/8134558.html</link>
-      <description>&lt;![CDATA[【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8134558.html</guid>
+      <title>推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写</title>
+      <link>https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 17:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AGI 怎样才算真的来了？</title>
-      <link>https://www.tmtpost.com/8133380.html</link>
-      <description>&lt;![CDATA[AGI 怎样才算真的来了？]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8133380.html</guid>
+      <title>扔掉遥控器，是具身智能的终极关卡</title>
+      <link>https://www.tmtpost.com/8134608.html</link>
+      <description>&lt;![CDATA[扔掉遥控器，是具身智能的终极关卡]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 11:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8134608.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 Agent 开始写应用，数据库也得换一套打法</title>
-      <link>https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 Agent 开始写应用，数据库也得换一套打法]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 18:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache</title>
+      <link>https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>影石与大疆苦战一年：从千亿市值，到利润归零</title>
-      <link>https://www.tmtpost.com/8133983.html</link>
-      <description>&lt;![CDATA[影石与大疆苦战一年：从千亿市值，到利润归零]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 18:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8133983.html</guid>
+      <title>14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲</title>
+      <link>https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 12:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek Tests Whether Its Cheaper Flash Model Can Displace Pro</title>
-      <link>https://www.tmtpost.com/8134068.html</link>
-      <description>&lt;![CDATA[DeepSeek Tests Whether Its Cheaper Flash Model Can Displace Pro]]&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 15:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8134068.html</guid>
+      <title>诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能</title>
+      <link>https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 11:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

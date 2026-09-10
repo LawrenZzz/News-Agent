@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1bf7ac18fa164332fff75fd308dee7b2acc683dd8e4113ddddd1529eff4e3922": {
-        "title": "5000亿美元算力融资：英伟达把GPU变成了华尔街可投资资产",
-        "link": "https://www.tmtpost.com/8098476.html",
-        "published_date": "Tue, 11 Aug 2026 09:04:00 GMT",
-        "first_seen": "2026-08-11T05:53:36.118339"
-      },
-      "dcdc3e56026d7afe128b9b057c9bf7f27229074eb6d269649be4ed736ef131ef": {
-        "title": "超导量子计算距离规模化、工程化落地还有多远？丨ToB产业观察",
-        "link": "https://www.tmtpost.com/8098852.html",
-        "published_date": "Tue, 11 Aug 2026 13:37:00 GMT",
-        "first_seen": "2026-08-11T05:53:36.118346"
-      },
-      "24962fcba2b20128732f71dea773792dc88df09220c1e7a6b83cd36f75b083b7": {
-        "title": "国产FPGA，机会来了",
-        "link": "https://www.tmtpost.com/8098056.html",
-        "published_date": "Tue, 11 Aug 2026 10:53:00 GMT",
-        "first_seen": "2026-08-11T05:53:36.118348"
-      },
-      "63bd879bec814a24c7be471d04bac5e9bf097a7a795008c91127fc425b540dc6": {
-        "title": "AI吃掉SaaS利润后：Zoho为什么自研服务器",
-        "link": "https://www.tmtpost.com/8098550.html",
-        "published_date": "Tue, 11 Aug 2026 09:54:00 GMT",
-        "first_seen": "2026-08-11T05:53:36.118350"
-      },
-      "3d30a8231f17f070fd5927924215ce55a46efed91bce0a1284adde9bc98047bf": {
-        "title": "企业 AI Native 研发流程升级与重塑｜AICon深圳",
-        "link": "https://www.infoq.cn/article/gmMSLtDO3XOy1UwCMdov?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 11 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-11T05:53:36.118351"
-      },
-      "84927d88028ae7bf1803a42cb682dab8b4ba523bd45942af71b29db117675c88": {
-        "title": "OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face",
-        "link": "https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 11 Aug 2026 16:36:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.900721"
-      },
-      "d3e5928626bf7ca3a538714cfebbaac2aee5f2a7a59511c6eb468559bd6dd3c5": {
-        "title": "Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?",
-        "link": "https://www.tmtpost.com/8099034.html",
-        "published_date": "Tue, 11 Aug 2026 15:01:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.900730"
-      },
-      "d2bfe8e52b4d6bebbf259452ae7a2ebcdcc94ad47ff516c304fd7dae48e639c1": {
-        "title": "10万亿参数大模型，注定要被关进笼子里",
-        "link": "https://www.tmtpost.com/8098885.html",
-        "published_date": "Tue, 11 Aug 2026 13:12:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.900733"
-      },
-      "58f7d4f3f52c51b4a2efffd3276bfbb214de62a50584f68f242d331f1e572b6e": {
-        "title": "让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践",
-        "link": "https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 11 Aug 2026 14:18:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.900734"
-      },
-      "3317886e3a2f92094f8d3313b55a0c76ad76d6588f0aebc798e4c4ddb7bcd3fd": {
-        "title": "开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流",
-        "link": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 11 Aug 2026 09:00:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.900737"
-      },
       "f6d8560dfabae41a80d8807067df311aaf345c71e1cec33efccc472702143d1d": {
         "title": "英伟达调动5000亿美元，算力金融化加速",
         "link": "https://www.tmtpost.com/8098887.html",
@@ -2221,63 +2161,39 @@
         "link": "https://www.tmtpost.com/8134068.html",
         "published_date": "Wed, 09 Sep 2026 15:56:00 GMT",
         "first_seen": "2026-09-10T00:49:18.583496"
+      },
+      "d38bb62fd2018261b4580f0bee88c73c914a52ebbf638db6bc28dd64f651bd6b": {
+        "title": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "link": "https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:15:00 GMT",
+        "first_seen": "2026-09-10T09:23:25.386135"
+      },
+      "adab3c34d39e532b3ae52365d60e30cdd45552eccd229f4877414f7b40e998b7": {
+        "title": "扔掉遥控器，是具身智能的终极关卡",
+        "link": "https://www.tmtpost.com/8134608.html",
+        "published_date": "Thu, 10 Sep 2026 11:13:00 GMT",
+        "first_seen": "2026-09-10T09:23:25.386150"
+      },
+      "e8c7d6ab4d3d5d6e2d27c83c2dac9fec70d583433809fd65c02dba061c96b58c": {
+        "title": "参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache",
+        "link": "https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 17:06:00 GMT",
+        "first_seen": "2026-09-10T09:23:25.386153"
+      },
+      "38ac6210cb366c176f8073cef880ba60b8fbbc313f0f157034212d890fa3323f": {
+        "title": "14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲",
+        "link": "https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 12:46:00 GMT",
+        "first_seen": "2026-09-10T09:23:25.386155"
+      },
+      "c29ac819cc4d8bdd3956db5cd4d37d79f75f7f05c8fd60788cc7eca8d3726817": {
+        "title": "诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+        "link": "https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 11:27:00 GMT",
+        "first_seen": "2026-09-10T09:23:25.386156"
       }
     },
     "Finance": {
-      "2ff265c26df71945a54acaacf6428de6d36e9615e6dbbcba4c4ca049cf4ea6b0": {
-        "title": "EU border checks double queues at major airports",
-        "link": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
-        "published_date": "Tue, 11 Aug 2026 04:01:00 GMT",
-        "first_seen": "2026-08-11T05:54:24.549348"
-      },
-      "0f72de48344e66927950f34ddd2156add3eddeec6d991c71047ede97f52a7b27": {
-        "title": "The AI threat to India’s IT jobs machine",
-        "link": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1",
-        "published_date": "Tue, 11 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-11T05:54:24.549356"
-      },
-      "9802ccd03b21a0dc1478055fc8407259d9b97b97547d2b71d309db2acf72fdaa": {
-        "title": "Maga ignores the many meanings of Mount Rushmore",
-        "link": "https://www.ft.com/content/d5abcd42-b3b4-4241-8fd1-1c53217ea81e",
-        "published_date": "Tue, 11 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-11T05:54:24.549359"
-      },
-      "de0c8f2b9c18b4e4805d6d5bd2daa489b14f5c5d011eb63408fa9d9e47910c52": {
-        "title": "Does Africa have too few people?",
-        "link": "https://www.ft.com/content/6069de36-4e15-4b5f-b9e1-dd85c2b29673?syn-25a6b1a6=1",
-        "published_date": "Tue, 11 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-11T05:54:24.549362"
-      },
-      "a075779ee054fc8049b6c92cc43342204a1cf3fe4f54cbb93b0d34dcb1e16cad": {
-        "title": "Spain’s migrant amnesty a ‘very bad idea’, says Swedish PM",
-        "link": "https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1",
-        "published_date": "Tue, 11 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-11T05:54:24.549365"
-      },
-      "c24debcc4b8558166551c2112d624e9b6be9dec7989fdcfbca9fbccc895cf411": {
-        "title": "Intel now says it is selling $20 billion of stock",
-        "link": "https://www.marketwatch.com/story/intel-now-says-it-is-selling-20-billion-of-stock-166e2dfe?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 08:42:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.951002"
-      },
-      "3c8d143880a24ca2a530eade3ea40ee8265055adf16a975c1ecc1ca0808cecae": {
-        "title": "Bears are in pain as the S&P 500 hits record highs. That may mean more upside for stocks.",
-        "link": "https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 08:40:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.951008"
-      },
-      "2bbe605fa878781092e91060723c5c647abb2c45af7423c63c0d1089aa274d64": {
-        "title": "The Bessent bond-market scorecard doesn’t look as strong as it once did",
-        "link": "https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 07:35:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.951010"
-      },
-      "cf9d5164391dde7e5d396bf451fbe9e866704e1e9cb9432405cdc3ad272c6f88": {
-        "title": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
-        "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 06:15:00 GMT",
-        "first_seen": "2026-08-11T08:50:12.951012"
-      },
       "c6e0723b3d05f2f488be5a49b3e0e66ed9026e0022662246c4e2c1b22a3134b0": {
         "title": "Panama Canal fees hit record high as El Niño and Iran war choke shipping",
         "link": "https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1",
@@ -4155,39 +4071,39 @@
         "link": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
         "published_date": "Wed, 09 Sep 2026 22:21:00 GMT",
         "first_seen": "2026-09-10T00:49:42.685347"
+      },
+      "c63f81a2a8c223e5c2f8035275ca9f71d16192b4c6f70579f72ca2d182f112b1": {
+        "title": "Japan must raise rates, central banker says",
+        "link": "https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 04:07:00 GMT",
+        "first_seen": "2026-09-10T09:23:56.348136"
+      },
+      "37086fb042c32211189759f74bc10c4f1dcffe8b82a05c37dc9cb1a0861c2350": {
+        "title": "US-China borrowing costs diverge to widest level ever",
+        "link": "https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 03:54:00 GMT",
+        "first_seen": "2026-09-10T09:23:56.348143"
+      },
+      "b69aff42b864f36ed3642bfea48fb9d0e0dc2c6cc946f90c2d66dab4a035e611": {
+        "title": "Must high bond yields crack stocks?",
+        "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 05:30:00 GMT",
+        "first_seen": "2026-09-10T09:23:56.348146"
+      },
+      "b57186e252783c31a8f822cfa0b4cda1151fabff037c875c8b8a9d620ff30752": {
+        "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
+        "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 08:47:00 GMT",
+        "first_seen": "2026-09-10T09:23:56.348147"
+      },
+      "4a420103ac6f27984ee2f00923be4b1fe41cda779d7526fb2c3b1ccd6c090d60": {
+        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
+        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 07:29:00 GMT",
+        "first_seen": "2026-09-10T09:23:56.348149"
       }
     },
     "Ai": {
-      "d953804985c554e32847110e305fad7c2f3106f8272868607cff9b7992da4609": {
-        "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-        "link": "https://www.qbitai.com/2026/08/470485.html",
-        "published_date": "Tue, 11 Aug 2026 05:12:00 GMT",
-        "first_seen": "2026-08-11T05:53:09.121546"
-      },
-      "023eabf28d810d402794b8e19d78a9b14a76cf678d672658f22f9b59d5058bd5": {
-        "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
-        "link": "https://www.qbitai.com/2026/08/469869.html",
-        "published_date": "Tue, 11 Aug 2026 03:11:00 GMT",
-        "first_seen": "2026-08-11T05:53:09.121554"
-      },
-      "ac73fd91c72904ccd67f011c4e14f3f3e67ef02a65774a7bdee6f92eafcfebf9": {
-        "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
-        "link": "https://www.qbitai.com/2026/08/470254.html",
-        "published_date": "Tue, 11 Aug 2026 04:31:00 GMT",
-        "first_seen": "2026-08-11T05:53:09.121557"
-      },
-      "49b7910848e9d337f465cf7d08df9ad989fe3936fd67e03f73c3355dc72dfef5": {
-        "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
-        "link": "https://www.qbitai.com/2026/08/470228.html",
-        "published_date": "Tue, 11 Aug 2026 03:51:00 GMT",
-        "first_seen": "2026-08-11T05:53:09.121559"
-      },
-      "6874068dd4b9c66570602a11f3790901278c7744f7f16931654b366520fdce3b": {
-        "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
-        "link": "https://www.qbitai.com/2026/08/469860.html",
-        "published_date": "Tue, 11 Aug 2026 00:46:00 GMT",
-        "first_seen": "2026-08-11T05:53:09.121560"
-      },
       "496675201364defc459094aa9f0d88343fb1ef6ca0ffcd26f2aa5e9edcafddf3": {
         "title": "2026-08-11日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-11/",
@@ -5375,13 +5291,43 @@
         "link": "https://www.qbitai.com/2026/09/486370.html",
         "published_date": "Wed, 09 Sep 2026 09:57:00 GMT",
         "first_seen": "2026-09-10T00:49:18.700715"
+      },
+      "38b9c1ae1bcd84aa615dce0526ddf9e419f29b53ca684aadcccdd64aacb8cd3d": {
+        "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "link": "https://www.qbitai.com/2026/09/486436.html",
+        "published_date": "Thu, 10 Sep 2026 01:39:00 GMT",
+        "first_seen": "2026-09-10T09:23:39.715579"
+      },
+      "e4f525f6e851d2d9926fc37217e9622e229c2495dc46170b067d0429fb4ceb74": {
+        "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+        "link": "https://www.qbitai.com/2026/09/486625.html",
+        "published_date": "Thu, 10 Sep 2026 04:55:00 GMT",
+        "first_seen": "2026-09-10T09:23:39.715587"
+      },
+      "8ae455b6f88810fab352801cc45882f77051efebd7214fdf165e1a3059b27333": {
+        "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+        "link": "https://www.qbitai.com/2026/09/486747.html",
+        "published_date": "Thu, 10 Sep 2026 07:57:00 GMT",
+        "first_seen": "2026-09-10T09:23:39.715589"
+      },
+      "cde40925d2e6df15f91af48fedeb70da88011422ad5d6ea597c494db650ea61f": {
+        "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+        "link": "https://www.qbitai.com/2026/09/486900.html",
+        "published_date": "Thu, 10 Sep 2026 08:17:00 GMT",
+        "first_seen": "2026-09-10T09:23:39.715590"
+      },
+      "3aa6b3552f9d5873dd60f8b8442b27e2d1aab5aebadfd846ffc47b8422612599": {
+        "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+        "link": "https://www.qbitai.com/2026/09/486716.html",
+        "published_date": "Thu, 10 Sep 2026 07:44:00 GMT",
+        "first_seen": "2026-09-10T09:23:39.715592"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-10T00:49:18.583498",
-    "Finance": "2026-09-10T00:49:42.685349",
-    "Ai": "2026-09-10T00:49:18.700717"
+    "Technology": "2026-09-10T09:23:25.386159",
+    "Finance": "2026-09-10T09:23:56.348151",
+    "Ai": "2026-09-10T09:23:39.715595"
   }
 }
