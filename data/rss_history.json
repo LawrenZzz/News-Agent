@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f6d8560dfabae41a80d8807067df311aaf345c71e1cec33efccc472702143d1d": {
-        "title": "英伟达调动5000亿美元，算力金融化加速",
-        "link": "https://www.tmtpost.com/8098887.html",
-        "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
-        "first_seen": "2026-08-11T23:35:47.136200"
-      },
-      "816ec80c7ac14ba5b492f18e15ab55dfbeb67005d372a2c035eb4bc3ef082a9c": {
-        "title": "华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？",
-        "link": "https://www.tmtpost.com/8099113.html",
-        "published_date": "Tue, 11 Aug 2026 18:19:00 GMT",
-        "first_seen": "2026-08-11T23:35:47.136207"
-      },
-      "d28882baff0ba2ae1756c99af8361d99bc08f9af7733a2f86d82d341b1f2dcf8": {
-        "title": "【钛晨报】上海：到2030年，产业规模力争达到4万亿元；报道称SK海力士重启中国NAND闪存生产基地2号工厂建设，将产能扩大约50%；英特尔公布普通股公开发行定价，规模扩大至200亿美元",
-        "link": "https://www.tmtpost.com/8099470.html",
-        "published_date": "Wed, 12 Aug 2026 07:20:00 GMT",
-        "first_seen": "2026-08-11T23:35:47.136210"
-      },
-      "f8ad8b762661c6415d5987967f09a0ee04294306ab8108cc1f977a0fae11bcf1": {
-        "title": "字节AI，不装了：收税12%、不蒸馏、赌5万亿",
-        "link": "https://www.tmtpost.com/8098796.html",
-        "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
-        "first_seen": "2026-08-11T23:35:47.136212"
-      },
-      "d68c60a8dbd5d4b89e400dc497113a36a3902ecc97bb8e0ba0b9dba775268abd": {
-        "title": "苹果的买方霸权，第一次在中国失效",
-        "link": "https://www.tmtpost.com/8098899.html",
-        "published_date": "Tue, 11 Aug 2026 18:38:00 GMT",
-        "first_seen": "2026-08-11T23:35:47.136214"
-      },
       "fbea71364dda3a93e133cad5dd305c50a30cd8f981cfd1744192814b255433e6": {
         "title": "小扎万字长文炮轰闭源：蒸馏无罪，Meta 正式重回开源模型路线",
         "link": "https://www.infoq.cn/article/9sy33cA91Fp8z5mlOvNu?utm_source=rss&utm_medium=article",
@@ -2191,39 +2161,39 @@
         "link": "https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 10 Sep 2026 11:27:00 GMT",
         "first_seen": "2026-09-10T09:23:25.386156"
+      },
+      "3513de24624842c034039602c3d9d01329e807f3a7f0c8aa2a92d2babbe3f18f": {
+        "title": "GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移",
+        "link": "https://www.tmtpost.com/8134523.html",
+        "published_date": "Thu, 10 Sep 2026 18:12:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.548643"
+      },
+      "beefc27d8820fd809515d8d10f39e5c127270a8c3ec4b429a4f255baf2160b36": {
+        "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
+        "link": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 11:22:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.548653"
+      },
+      "bdc97c7545a4c370efbf029a70b61637715c231406866752736a38edadf20a16": {
+        "title": "走出聊天框，Agent 开始进入现实世界",
+        "link": "http://www.geekpark.net/news/370064",
+        "published_date": "Thu, 10 Sep 2026 21:39:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.548656"
+      },
+      "34e00a7c96b1ce05baf00a36acb371b8ad2d02d8a6bcb7cc1c04d8274d25be47": {
+        "title": "Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”",
+        "link": "https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 10 Sep 2026 11:03:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.548658"
+      },
+      "e9134da2e7640944076f1473749bae32a599556fc9869516d6f69145e92a6185": {
+        "title": "无人车拐点：中国供应链降维打击",
+        "link": "https://www.tmtpost.com/8135479.html",
+        "published_date": "Thu, 10 Sep 2026 18:50:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.548659"
       }
     },
     "Finance": {
-      "c6e0723b3d05f2f488be5a49b3e0e66ed9026e0022662246c4e2c1b22a3134b0": {
-        "title": "Panama Canal fees hit record high as El Niño and Iran war choke shipping",
-        "link": "https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1",
-        "published_date": "Tue, 11 Aug 2026 21:07:00 GMT",
-        "first_seen": "2026-08-11T23:36:03.316299"
-      },
-      "1a3c5160c46a28120b4ef2502f8bc62a1ac5a3996dab1f3aaef834c50268c492": {
-        "title": "CoreWeave’s stock soars as earnings show major AI momentum",
-        "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 23:29:00 GMT",
-        "first_seen": "2026-08-11T23:36:03.316306"
-      },
-      "f0043a4c42bcc1ad70345b04275d16a161eb978c7fa24c856494b4278e4fb82c": {
-        "title": "Oracle’s stock has taken a hit as AI spending concerns resurface",
-        "link": "https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 20:32:00 GMT",
-        "first_seen": "2026-08-11T23:36:03.316309"
-      },
-      "3b0653a5b80e906752930cf18391569c23eddc9d34095afd39d1081d7043fb0f": {
-        "title": "Volatility tumbles as markets shrug off Middle East risks",
-        "link": "https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1",
-        "published_date": "Tue, 11 Aug 2026 12:20:00 GMT",
-        "first_seen": "2026-08-11T23:36:03.316311"
-      },
-      "6f4d59d5334a72babb15fcb97399673ab49a44c6492420e349bda0d80d7bef60": {
-        "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-        "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-        "published_date": "Tue, 11 Aug 2026 22:00:00 GMT",
-        "first_seen": "2026-08-11T23:36:03.316312"
-      },
       "5831953ef982602435087d836dbdd42874e22a1569b0afa3d1aa9a649528319d": {
         "title": "Europe’s carbon mechanism is a tariff by another name",
         "link": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
@@ -4101,39 +4071,39 @@
         "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
         "published_date": "Thu, 10 Sep 2026 07:29:00 GMT",
         "first_seen": "2026-09-10T09:23:56.348149"
+      },
+      "57d3d0bc067ab1c6922db19dde7e7421cc96e699a80561fc2194da8b0dcc7c7d": {
+        "title": "Global bond sell-off reignites as oil jumps to $109",
+        "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 22:05:00 GMT",
+        "first_seen": "2026-09-11T00:51:01.106180"
+      },
+      "a7296b1717baefb36e0bf37a7913366eab5e306242d5306478d4bb4ed9b9b2a5": {
+        "title": "Saudi Arabia cuts oil output to lowest this year on Houthi threats",
+        "link": "https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1",
+        "published_date": "Thu, 10 Sep 2026 12:06:00 GMT",
+        "first_seen": "2026-09-11T00:51:01.106186"
+      },
+      "8fdf82704fda4f4434aee7ef0bbd4e57b758de9c45a5776db350ae2c42f0dad2": {
+        "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+        "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+        "published_date": "Fri, 11 Sep 2026 00:19:00 GMT",
+        "first_seen": "2026-09-11T00:51:01.106189"
+      },
+      "a87631527d1c0b6aa4662f762f31fea8fe3d15f0ce61cdfa0bc42a04680dfcdf": {
+        "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
+        "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 20:39:00 GMT",
+        "first_seen": "2026-09-11T00:51:01.106191"
+      },
+      "0c8090b6f426aa1c66cfc4007eaf13ef943ae61a6daf323fc7560b2da1c41d9a": {
+        "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
+        "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
+        "published_date": "Thu, 10 Sep 2026 20:26:00 GMT",
+        "first_seen": "2026-09-11T00:51:01.106212"
       }
     },
     "Ai": {
-      "496675201364defc459094aa9f0d88343fb1ef6ca0ffcd26f2aa5e9edcafddf3": {
-        "title": "2026-08-11日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-11/",
-        "published_date": "Tue, 11 Aug 2026 20:29:00 GMT",
-        "first_seen": "2026-08-11T23:35:21.257107"
-      },
-      "778a083886688ec6adcb356af8e68f82f37b0a9acfe75daed06319af79dd3182": {
-        "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-        "link": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-        "published_date": "Tue, 11 Aug 2026 17:04:00 GMT",
-        "first_seen": "2026-08-11T23:35:21.257118"
-      },
-      "f5e7c67eed03926149dd25dddbdcf9aed40c51e4aa40efc302412197b0bfc0c9": {
-        "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
-        "link": "https://www.qbitai.com/2026/08/470674.html",
-        "published_date": "Tue, 11 Aug 2026 13:57:00 GMT",
-        "first_seen": "2026-08-11T23:35:21.257122"
-      },
-      "20ebef71c3b6bec451c9d2eee37546c7ee15625ddc3fea2490ad031771816c9a": {
-        "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-        "link": "https://www.qbitai.com/2026/08/470621.html",
-        "published_date": "Tue, 11 Aug 2026 11:36:00 GMT",
-        "first_seen": "2026-08-11T23:35:21.257124"
-      },
-      "8b50bfeccbda8f08765e812e373cff93c69bf0d4cbcdc0a5ffe81724280c2f17": {
-        "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
-        "link": "https://www.qbitai.com/2026/08/470576.html",
-        "published_date": "Tue, 11 Aug 2026 09:24:00 GMT",
-        "first_seen": "2026-08-11T23:35:21.257125"
-      },
       "732366ae615b2529221fc269aa3173925c5dad0e8985a74cf609a7f6fd38b23d": {
         "title": "2026-08-12日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-12/",
@@ -5321,13 +5291,25 @@
         "link": "https://www.qbitai.com/2026/09/486716.html",
         "published_date": "Thu, 10 Sep 2026 07:44:00 GMT",
         "first_seen": "2026-09-10T09:23:39.715592"
+      },
+      "42a16e11e92777def8cff0eebfc5f0ac044b920bd7beed89f2587d9f4c4552d0": {
+        "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+        "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+        "published_date": "Thu, 10 Sep 2026 22:50:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.665707"
+      },
+      "c517a810d46c3436afd4e1916b925ad04c118eaadbd94bb71ff3f3011d9dd72d": {
+        "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+        "link": "https://www.qbitai.com/2026/09/486934.html",
+        "published_date": "Thu, 10 Sep 2026 10:17:00 GMT",
+        "first_seen": "2026-09-11T00:50:33.665715"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-10T09:23:25.386159",
-    "Finance": "2026-09-10T09:23:56.348151",
-    "Ai": "2026-09-10T09:23:39.715595"
+    "Technology": "2026-09-11T00:50:33.548661",
+    "Finance": "2026-09-11T00:51:01.106214",
+    "Ai": "2026-09-11T00:50:33.665718"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 10 Sep 2026 09:23:00 GMT</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 09:23:25 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 00:50:00 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:50:33 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写</title>
-      <link>https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移</title>
+      <link>https://www.tmtpost.com/8134523.html</link>
+      <description>&lt;![CDATA[GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 18:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8134523.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扔掉遥控器，是具身智能的终极关卡</title>
-      <link>https://www.tmtpost.com/8134608.html</link>
-      <description>&lt;![CDATA[扔掉遥控器，是具身智能的终极关卡]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8134608.html</guid>
+      <title>OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战</title>
+      <link>https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache</title>
-      <link>https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>走出聊天框，Agent 开始进入现实世界</title>
+      <link>http://www.geekpark.net/news/370064</link>
+      <description>&lt;![CDATA[走出聊天框，Agent 开始进入现实世界]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 21:39:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370064</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲</title>
-      <link>https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”</title>
+      <link>https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能</title>
-      <link>https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能]]&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 11:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>无人车拐点：中国供应链降维打击</title>
+      <link>https://www.tmtpost.com/8135479.html</link>
+      <description>&lt;![CDATA[无人车拐点：中国供应链降维打击]]&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 18:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8135479.html</guid>
       <category>Technology</category>
     </item>
   </channel>
