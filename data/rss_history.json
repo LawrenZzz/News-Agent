@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3bdd02fb00eaa9ac7d3ed96114768fd91d61e16549d74e7d35c86c6a1d57f25d": {
-        "title": "5000亿美元涌向算力：英伟达想要给AI装上金融杠杆",
-        "link": "https://www.tmtpost.com/8102827.html",
-        "published_date": "Fri, 14 Aug 2026 09:57:00 GMT",
-        "first_seen": "2026-08-14T06:13:56.446609"
-      },
-      "0dc3c2fc961f1405355a4ac4b367e881e3874be9dc11ba3789ee6fcc81908d84": {
-        "title": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
-        "link": "https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 14 Aug 2026 10:35:00 GMT",
-        "first_seen": "2026-08-14T06:13:56.446618"
-      },
-      "1c6b34ed9750b906cd69a5822a24f120e16dad28faf1473bd0f22f305e5c8706": {
-        "title": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
-        "link": "http://www.geekpark.net/news/368789",
-        "published_date": "Fri, 14 Aug 2026 08:52:00 GMT",
-        "first_seen": "2026-08-14T06:13:56.446620"
-      },
-      "eff263b6f2fac17d402da63ea52d988162d8005e193da76f0ec67a0463018c66": {
-        "title": "摩尔线程：国产GPU最接近\"翻过雪山\"的时刻",
-        "link": "https://www.tmtpost.com/8102974.html",
-        "published_date": "Fri, 14 Aug 2026 10:14:00 GMT",
-        "first_seen": "2026-08-14T06:13:56.446622"
-      },
-      "df253438f79d415dddbd9713d526aaf001ed0b632d55897d6f40d0c4f5f6b027": {
-        "title": "AI 正在重塑故障处理流程，但棘手问题仍需人类解决",
-        "link": "https://www.infoq.cn/article/dxzigmlmI6BN4MWqYNI2?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 14 Aug 2026 13:54:00 GMT",
-        "first_seen": "2026-08-14T06:13:56.446624"
-      },
-      "9a2afaf9ae81008eaace3607a0e12a7e8588c77fec521a9f0bb10d511df08079": {
-        "title": "DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件",
-        "link": "https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 14 Aug 2026 14:38:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.239284"
-      },
-      "0322757ef24877125efda63bdd7cf4a3079fcb22f83de0b1f635acc32544e726": {
-        "title": "工业智能体“拼落地”，谁能真正上产线？",
-        "link": "https://www.tmtpost.com/8103269.html",
-        "published_date": "Fri, 14 Aug 2026 16:13:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.239294"
-      },
-      "b31bf1ea131d297cc5c39b779edd0f87ccbf93e151e47aee7f00170914200afb": {
-        "title": "谷歌AI人事动荡：全栈是护城河，也是纷争的起源",
-        "link": "https://www.tmtpost.com/8103323.html",
-        "published_date": "Fri, 14 Aug 2026 16:17:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.239297"
-      },
-      "3f9e5aa220cd4a1a216bb0ef0346c405dee63a7977fb08f95570867e55f14131": {
-        "title": "绕过搜索，微信Agent会复刻竞价排名吗？",
-        "link": "https://www.tmtpost.com/8103215.html",
-        "published_date": "Fri, 14 Aug 2026 16:11:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.239298"
-      },
-      "be6215ef06ecb84da8a3ef5d97f98f2627cd52306210f3a5991ad76b1f16f81f": {
-        "title": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
-        "link": "https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 14 Aug 2026 14:28:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.239300"
-      },
       "04ff49ef3e4233ed6201f737ff4529e1a942fb5182f8b2252b1535cc730f5ccf": {
         "title": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
         "link": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article",
@@ -2161,51 +2101,39 @@
         "link": "https://www.tmtpost.com/8137660.html",
         "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
         "first_seen": "2026-09-13T00:37:08.644557"
+      },
+      "bc9c99300761d50d524d33b032827d8d32b5f9d79a6f1f69ba57ed73a19be2b7": {
+        "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.087627"
+      },
+      "0ed4c251f551c603a7521ac83d22c4457fe55571e80855b0da9a5773703c4f87": {
+        "title": "科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同",
+        "link": "https://www.tmtpost.com/8138286.html",
+        "published_date": "Sun, 13 Sep 2026 15:34:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.087639"
+      },
+      "5e2dab5218d8048b882509b160aa62ec971656cd41338f4999238560688f394f": {
+        "title": "Dario自曝RSI已成真，奥特曼同日光速跟进",
+        "link": "https://www.tmtpost.com/8138094.html",
+        "published_date": "Sun, 13 Sep 2026 10:59:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.087642"
+      },
+      "9b5a0cedf4e4dad487378a0ca59560d64d432999f4171eae762112d1d0939713": {
+        "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
+        "link": "https://www.tmtpost.com/8138191.html",
+        "published_date": "Sun, 13 Sep 2026 13:15:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.087644"
+      },
+      "2b70c4594010abb7b02eb88381d859bc6a92f15413b3e4356bfcd90af993b33c": {
+        "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "link": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 13 Sep 2026 16:00:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.087646"
       }
     },
     "Finance": {
-      "227251bbbfb5c078160fba9d94ad99ea1ffde902fb200bcdb60ef95ef1ce6b1d": {
-        "title": "Investigation into Farage to resume after he wins Clacton by-election",
-        "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 05:35:00 GMT",
-        "first_seen": "2026-08-14T06:14:25.896024"
-      },
-      "10cc4fd496b38b7cb8f0de5baea47f1480ad5a929e16a62bc760ce3ac58fd624": {
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "link": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-14T06:14:25.896033"
-      },
-      "08852fe3751a8cf970b06bd5b0f9a1b17365760d694c8debd3ca3cccfa88845f": {
-        "title": "The exodus from Israel",
-        "link": "https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-14T06:14:25.896036"
-      },
-      "15039bd81f5b35600b458e737166687d4aaf6fedcb08d71e2ccb383e62ea53ac": {
-        "title": "The quest to find the world’s best honey",
-        "link": "https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-14T06:14:25.896038"
-      },
-      "903e90250d7bfaec6b549207383a446925774e7670f00da6b996f0df327eb9bc": {
-        "title": "Pakistan and the new great game of Risk",
-        "link": "https://www.ft.com/content/a9573d72-7bb2-462f-83d7-c0fe36f8c98d?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-14T06:14:25.896040"
-      },
-      "e76ca95ba3e2162737741676193d88d3207debd29b08ee96b4acb9b7067f7acf": {
-        "title": "‘American Pie’ star Seann William Scott lists stunning Malibu waterfront home for $17.5 million",
-        "link": "https://www.marketwatch.com/story/american-pie-star-seann-william-scott-lists-stunning-malibu-waterfront-home-for-17-5-million-dc7e97b1?mod=mw_rss_topstories",
-        "published_date": "Fri, 14 Aug 2026 09:00:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.285083"
-      },
-      "134262edf0ab390fd0ff6e2ff63402fe2cc811094b7a621c358a3f484fa54f98": {
-        "title": "Investigation into Farage resumes after he wins Clacton by-election",
-        "link": "https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 08:25:00 GMT",
-        "first_seen": "2026-08-14T09:10:18.285090"
-      },
       "9b077c1141b05adbd0257b3cdb46fa6c93139291fb0b61d504629e798bd21bb1": {
         "title": "Nvidia discloses $21bn stake in SpaceX",
         "link": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1",
@@ -4047,15 +3975,39 @@
         "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
         "published_date": "Sat, 12 Sep 2026 16:01:00 GMT",
         "first_seen": "2026-09-13T00:37:21.029665"
+      },
+      "73b5dcd4ede6e466583eab8444a1f2c245eb84034beab673a6e9a6b1e4c5f9a5": {
+        "title": "Boom-era PE funds will fall short on promises, executives warn",
+        "link": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-13T09:59:10.097653"
+      },
+      "7c4203e01584ba45e02d29a9c6faecf91ddedafc3a341ab103a40fd17eb99228": {
+        "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
+        "link": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 05:40:00 GMT",
+        "first_seen": "2026-09-13T09:59:10.097662"
+      },
+      "3583271079e3b3a14afa9e892a9453326d4f2fbd355e91ccc663bcb6d46eaeea": {
+        "title": "Musk’s secretive backer builds $40bn SpaceX stake",
+        "link": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-13T09:59:10.097664"
+      },
+      "82068cca3d2125a72c5ee7cccf448f445932cf25d97e952ad3e91f9828919802": {
+        "title": "As Europe’s memory fades, radicalism is returning",
+        "link": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58",
+        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-13T09:59:10.097666"
+      },
+      "901dade82e6de870a8dc7e9428fb69ca3c90bd8d900eedc020fe42872a62bd51": {
+        "title": "How Russia’s new drones are changing the air war",
+        "link": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-13T09:59:10.097667"
       }
     },
     "Ai": {
-      "3e729e0da55007160a299ba6f200e7b0e8632c60b6485c2ba56308e0bf6a1854": {
-        "title": "2026-08-14日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-14/",
-        "published_date": "Fri, 14 Aug 2026 10:52:00 GMT",
-        "first_seen": "2026-08-14T06:11:48.798489"
-      },
       "92abff47cab41d9cbacb536453a524e977393914b820a9396f08a8da97f169bf": {
         "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
         "link": "https://www.qbitai.com/2026/08/473153.html",
@@ -5225,13 +5177,43 @@
         "link": "https://www.qbitai.com/2026/09/487860.html",
         "published_date": "Sat, 12 Sep 2026 11:38:00 GMT",
         "first_seen": "2026-09-13T00:37:08.737040"
+      },
+      "a893cc82e9e43aaac169b7357a0dad973c96948b344f3e5f5626483653733cc7": {
+        "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+        "link": "https://www.qbitai.com/2026/09/488672.html",
+        "published_date": "Sun, 13 Sep 2026 07:38:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.210251"
+      },
+      "222328b29a3056d3ee408b11817c4365e907f4293582c0d1176d13c788ae1015": {
+        "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+        "link": "https://www.qbitai.com/2026/09/488519.html",
+        "published_date": "Sun, 13 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.210261"
+      },
+      "3c5522919f6a06a343363fb15fe8a24320de104c1b2de2f995b0dd44525ddfb0": {
+        "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+        "link": "https://www.qbitai.com/2026/09/488447.html",
+        "published_date": "Sun, 13 Sep 2026 06:40:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.210263"
+      },
+      "900cf357f995534faee22990e4856e66711a75a31402c2a56dc1575ae52912ab": {
+        "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+        "link": "https://www.qbitai.com/2026/09/488380.html",
+        "published_date": "Sun, 13 Sep 2026 03:13:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.210264"
+      },
+      "cb7a6825a9dc5d36841bd777393bac7f53381554ddcb88785f3d62bf1957d1f5": {
+        "title": "2026-09-13日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-13/",
+        "published_date": "Sun, 13 Sep 2026 02:13:00 GMT",
+        "first_seen": "2026-09-13T09:58:58.210266"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-13T00:37:08.644559",
-    "Finance": "2026-09-13T00:37:21.029667",
-    "Ai": "2026-09-13T00:37:08.737047"
+    "Technology": "2026-09-13T09:58:58.087648",
+    "Finance": "2026-09-13T09:59:10.097669",
+    "Ai": "2026-09-13T09:58:58.210268"
   }
 }
