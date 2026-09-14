@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "04ff49ef3e4233ed6201f737ff4529e1a942fb5182f8b2252b1535cc730f5ccf": {
-        "title": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
-        "link": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 15 Aug 2026 00:01:00 GMT",
-        "first_seen": "2026-08-14T23:20:34.148195"
-      },
-      "3cc7d758cd16676218f98a11d273293a0e9fba7dd5c40f113517f99750880299": {
-        "title": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
-        "link": "http://www.geekpark.net/news/368809",
-        "published_date": "Fri, 14 Aug 2026 12:17:00 GMT",
-        "first_seen": "2026-08-14T23:20:34.148207"
-      },
-      "2ce68acf5339657b0aaf25c69d581af0b134ff0e2bcc4033e6fdb8c61554062f": {
-        "title": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
-        "link": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 15 Aug 2026 00:19:00 GMT",
-        "first_seen": "2026-08-14T23:20:34.148210"
-      },
-      "8f0b99b7915d3cc5a19b5aec3c6ccb5ea73fa9a206bf81d15133f620509e9124": {
-        "title": "Robotruck重新升温，无人货运开始算经济账",
-        "link": "https://www.tmtpost.com/8100924.html",
-        "published_date": "Fri, 14 Aug 2026 18:55:00 GMT",
-        "first_seen": "2026-08-14T23:20:34.148212"
-      },
-      "a16a2e1bc8b461e266f81721f034c1f63964ea963dc64d5660badbb0d04d57f3": {
-        "title": "从“工具”到“同事”——AI 时代的产品进化",
-        "link": "https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 14 Aug 2026 14:37:00 GMT",
-        "first_seen": "2026-08-14T23:20:34.148214"
-      },
       "15930f65d57c9d546a5275ff0a14f5160d66dd7aa1ea5861096be2c12e4ec430": {
         "title": "算力已成硬通货：腾讯528亿抢的到底是什么",
         "link": "https://www.tmtpost.com/8104215.html",
@@ -2131,39 +2101,39 @@
         "link": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 13 Sep 2026 16:00:00 GMT",
         "first_seen": "2026-09-13T09:58:58.087646"
+      },
+      "5d59da8ccdfc07d2cf9fb618a66ffddb86ead480ffbabc8d6b862085d20b751d": {
+        "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
+        "link": "https://www.tmtpost.com/8138378.html",
+        "published_date": "Sun, 13 Sep 2026 20:20:00 GMT",
+        "first_seen": "2026-09-14T00:40:41.420571"
+      },
+      "780148131e9c0af76f9089fd0fb64fce6ef655b3a1cdedef2861d3e919949976": {
+        "title": "50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯",
+        "link": "https://www.tmtpost.com/8138516.html",
+        "published_date": "Sun, 13 Sep 2026 20:17:00 GMT",
+        "first_seen": "2026-09-14T00:40:41.420583"
+      },
+      "464c8f57fb8f992124f9a7db0e66362894a229786b9f8e2b39c15f7daa11c480": {
+        "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
+        "link": "https://www.tmtpost.com/8138491.html",
+        "published_date": "Mon, 14 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-14T00:40:41.420586"
+      },
+      "288098dcc02113e7041d951e40356835ccd4bce43c821b5a2b7480ff120bd0fa": {
+        "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+        "link": "https://www.tmtpost.com/8138350.html",
+        "published_date": "Sun, 13 Sep 2026 20:19:00 GMT",
+        "first_seen": "2026-09-14T00:40:41.420588"
+      },
+      "4d3cb6f6562948ddf1d21f26dba1c1181937b157b4b89e1022c7254005fd12fd": {
+        "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+        "link": "https://sspai.com/post/114539",
+        "published_date": "Mon, 14 Sep 2026 06:55:00 GMT",
+        "first_seen": "2026-09-14T00:40:41.420589"
       }
     },
     "Finance": {
-      "9b077c1141b05adbd0257b3cdb46fa6c93139291fb0b61d504629e798bd21bb1": {
-        "title": "Nvidia discloses $21bn stake in SpaceX",
-        "link": "https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 22:28:00 GMT",
-        "first_seen": "2026-08-14T23:20:53.500666"
-      },
-      "3f8591acf0f503317691e51565ae23da16fa96050bfb2dc9232d168cdf7f62d5": {
-        "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
-        "link": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 21:55:00 GMT",
-        "first_seen": "2026-08-14T23:20:53.500672"
-      },
-      "9cf8fd5eadd36060dfb498efc36c4745870f297204b3394e7801ea0eaab4fb84": {
-        "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-        "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
-        "published_date": "Fri, 14 Aug 2026 21:34:00 GMT",
-        "first_seen": "2026-08-14T23:20:53.500674"
-      },
-      "a9c772cda437e83207582d30235a0410d89a65fd330340d81b65ab50daa3d876": {
-        "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
-        "link": "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
-        "published_date": "Fri, 14 Aug 2026 18:47:00 GMT",
-        "first_seen": "2026-08-14T23:20:53.500676"
-      },
-      "b7d6152a25665de21f362541f643415e849811c405b899fd811733d5bed91885": {
-        "title": "Investors pile back into US stocks as bullishness returns to Wall Street",
-        "link": "https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1",
-        "published_date": "Fri, 14 Aug 2026 14:35:00 GMT",
-        "first_seen": "2026-08-14T23:20:53.500678"
-      },
       "23d099fb8206076ffa7b4325078c45443e4231bb8064e229077dfa805ec94751": {
         "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
         "link": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
@@ -4005,39 +3975,39 @@
         "link": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
         "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-13T09:59:10.097667"
+      },
+      "ab657fb232a3cb6bef50ae8621d351446b98bb8fc57a8e3cd9b999897996c2fb": {
+        "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+        "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+        "published_date": "Sun, 13 Sep 2026 19:00:00 GMT",
+        "first_seen": "2026-09-14T00:40:57.589322"
+      },
+      "a4b0d7ba430055872395a27d99214d3b0aaadb42bbddd2d4c852a92f5da784fa": {
+        "title": "Michael Dell’s family office nears deal to take $4.1bn insurance broker private",
+        "link": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 22:14:00 GMT",
+        "first_seen": "2026-09-14T00:40:57.589329"
+      },
+      "85a15e005f90d920a93ab4bca88ebe23048e29dd0d67f099561506826810b641": {
+        "title": "Gulf states postpone talks with Iran over Hormuz impasse",
+        "link": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 22:37:00 GMT",
+        "first_seen": "2026-09-14T00:40:57.589331"
+      },
+      "74bb82158fa4f30e95a7e278d8bf4fffe33d1e92fc0874d3ed5e9d9071f92e9d": {
+        "title": "Trump calls on Ukraine to stop striking Russian oil refineries",
+        "link": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 19:08:00 GMT",
+        "first_seen": "2026-09-14T00:40:57.589333"
+      },
+      "fcc0b07df12e9213aa4b6ad95fbc4560d4e080f1534d1afaa0faf1d486af39ee": {
+        "title": "Anthropic tells investors it will be profitable for second straight quarter",
+        "link": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+        "published_date": "Sun, 13 Sep 2026 22:29:00 GMT",
+        "first_seen": "2026-09-14T00:40:57.589335"
       }
     },
     "Ai": {
-      "92abff47cab41d9cbacb536453a524e977393914b820a9396f08a8da97f169bf": {
-        "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
-        "link": "https://www.qbitai.com/2026/08/473153.html",
-        "published_date": "Fri, 14 Aug 2026 14:51:00 GMT",
-        "first_seen": "2026-08-14T23:21:05.500226"
-      },
-      "20e250a606a7db49787d19634ffd9e07ca4bb6572cad84dca206ae64ad2ad179": {
-        "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-        "link": "https://www.qbitai.com/2026/08/473379.html",
-        "published_date": "Fri, 14 Aug 2026 15:41:00 GMT",
-        "first_seen": "2026-08-14T23:21:05.500233"
-      },
-      "3ad2021bd96cd4d0a80bbb65120f7f4c24a303a5d6338580b66f5e21003c2d05": {
-        "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-        "link": "https://www.qbitai.com/2026/08/473038.html",
-        "published_date": "Fri, 14 Aug 2026 08:47:00 GMT",
-        "first_seen": "2026-08-14T23:21:05.500235"
-      },
-      "4e2ad1a403a9bf36927e9e645ce1f05568605f5a2a92823b6058226e7a7f50de": {
-        "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-        "link": "https://www.qbitai.com/2026/08/472722.html",
-        "published_date": "Fri, 14 Aug 2026 07:29:00 GMT",
-        "first_seen": "2026-08-14T23:21:05.500237"
-      },
-      "5c95328bed306dde501c1119d88f904781dca28c0f51bf11bf554656dad41395": {
-        "title": "7亿年薪留不住！余家辉离职Meta创业",
-        "link": "https://www.qbitai.com/2026/08/473261.html",
-        "published_date": "Fri, 14 Aug 2026 14:59:00 GMT",
-        "first_seen": "2026-08-14T23:21:05.500238"
-      },
       "193f88a3900673ef783a1c97b9473861f40b2a1583d6dbf13b1d1844e1e50cab": {
         "title": "2026-08-15日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-15/",
@@ -5212,8 +5182,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-13T09:58:58.087648",
-    "Finance": "2026-09-13T09:59:10.097669",
+    "Technology": "2026-09-14T00:40:41.420592",
+    "Finance": "2026-09-14T00:40:57.589338",
     "Ai": "2026-09-13T09:58:58.210268"
   }
 }

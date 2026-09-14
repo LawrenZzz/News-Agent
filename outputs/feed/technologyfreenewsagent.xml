@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 13 Sep 2026 09:58:00 GMT</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2026 09:58:58 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 00:40:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:40:41 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海</title>
-      <link>https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一年后agent可能组建僵尸网络，四巨头齐呼刹车</title>
+      <link>https://www.tmtpost.com/8138378.html</link>
+      <description>&lt;![CDATA[一年后agent可能组建僵尸网络，四巨头齐呼刹车]]&gt;</description>
+      <pubDate>Sun, 13 Sep 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8138378.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同</title>
-      <link>https://www.tmtpost.com/8138286.html</link>
-      <description>&lt;![CDATA[科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8138286.html</guid>
+      <title>50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯</title>
+      <link>https://www.tmtpost.com/8138516.html</link>
+      <description>&lt;![CDATA[50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯]]&gt;</description>
+      <pubDate>Sun, 13 Sep 2026 20:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8138516.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Dario自曝RSI已成真，奥特曼同日光速跟进</title>
-      <link>https://www.tmtpost.com/8138094.html</link>
-      <description>&lt;![CDATA[Dario自曝RSI已成真，奥特曼同日光速跟进]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 10:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8138094.html</guid>
+      <title>【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途</title>
+      <link>https://www.tmtpost.com/8138491.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8138491.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了</title>
-      <link>https://www.tmtpost.com/8138191.html</link>
-      <description>&lt;![CDATA[独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 13:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8138191.html</guid>
+      <title>国产AI芯片大卖，上半年谁真正赚到了钱？</title>
+      <link>https://www.tmtpost.com/8138350.html</link>
+      <description>&lt;![CDATA[国产AI芯片大卖，上半年谁真正赚到了钱？]]&gt;</description>
+      <pubDate>Sun, 13 Sep 2026 20:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8138350.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌</title>
-      <link>https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌]]&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：美国 AI 高管呼吁放缓研发，特朗普反对</title>
+      <link>https://sspai.com/post/114539</link>
+      <description>&lt;![CDATA[派早报：美国 AI 高管呼吁放缓研发，特朗普反对]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114539</guid>
       <category>Technology</category>
     </item>
   </channel>
