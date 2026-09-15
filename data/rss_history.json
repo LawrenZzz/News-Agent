@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d37e027f5780ff50bc4294e343979870a923db61ecdf00f2c90e0f4372c8e6fd": {
-        "title": "420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？",
-        "link": "https://www.tmtpost.com/8104757.html",
-        "published_date": "Sun, 16 Aug 2026 08:48:00 GMT",
-        "first_seen": "2026-08-16T05:25:38.146790"
-      },
-      "bfafbe6a237c51e32f6c3ebd5816c8feed6079f39608685fb930556f4f7de625": {
-        "title": "史上最大 IPO 倒计时：五岁 Anthropic， 2 万亿美元凭什么？",
-        "link": "https://www.tmtpost.com/8104736.html",
-        "published_date": "Sun, 16 Aug 2026 08:35:00 GMT",
-        "first_seen": "2026-08-16T05:25:38.146799"
-      },
-      "96de9858a576f760bfc883f21fc1180ea2e7f1742ae59830e83cc899ce4a2ff2": {
-        "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 16 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-16T05:25:38.146802"
-      },
-      "11ffe0068bdf485fe372018a6e331bd9807602c05c5e81daea9df41213dfa0b9": {
-        "title": "中国科技板块的资金偏好正在改变：为什么是硬件先拿到钱",
-        "link": "https://www.tmtpost.com/8104860.html",
-        "published_date": "Sun, 16 Aug 2026 10:26:00 GMT",
-        "first_seen": "2026-08-16T05:25:38.146804"
-      },
-      "21fd4cd842a1578df3212059c8a311e6a00c728762f2cb2be1471e0e5616595a": {
-        "title": "阿里股价回升，阿里云AI对公司长期估值影响究竟有多大？",
-        "link": "https://www.tmtpost.com/8104764.html",
-        "published_date": "Sun, 16 Aug 2026 08:52:00 GMT",
-        "first_seen": "2026-08-16T05:25:38.146807"
-      },
-      "780f15be7f439b6e7b467ea0261dd00126487078df71bb7b5512241a07f7e418": {
-        "title": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
-        "link": "http://www.geekpark.net/news/368854",
-        "published_date": "Sun, 16 Aug 2026 09:15:00 GMT",
-        "first_seen": "2026-08-16T08:25:04.984368"
-      },
-      "7f745cae4a649d33b1c59f47161edce5028c10478586789043039b53ef917b0f": {
-        "title": "一份数据，多种用途：Spotify 用 RAP 打通分析与在线服务",
-        "link": "https://www.infoq.cn/article/iRjDa2ayZ9KLUtWylQZl?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 16 Aug 2026 10:00:00 GMT",
-        "first_seen": "2026-08-16T08:25:04.984376"
-      },
-      "5152013202a6e7e19dd0bc34dc58a508101d576999155ca4b5920a712290916b": {
-        "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
-        "link": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 16 Aug 2026 08:00:00 GMT",
-        "first_seen": "2026-08-16T08:25:04.984378"
-      },
-      "7f07d75706358024b29bbd2d4cb9bfb873d28a8751de8997d60611134e7bda0f": {
-        "title": "Edge AI Daily 早报（8月16日）",
-        "link": "https://www.tmtpost.com/8104869.html",
-        "published_date": "Sun, 16 Aug 2026 08:45:00 GMT",
-        "first_seen": "2026-08-16T08:25:04.984380"
-      },
-      "83883b0c1756b9477776e83fc211d4300e3aaa8c8ca6573ae55a722c60a1b4c8": {
-        "title": "美团不做线下药店，像是一场经精心计算的“缓兵之计”",
-        "link": "https://www.tmtpost.com/8104718.html",
-        "published_date": "Sun, 16 Aug 2026 08:26:00 GMT",
-        "first_seen": "2026-08-16T08:25:04.984382"
-      },
       "540f8563eb060f829968aec7bb65750db5874d8fa2fbff405f9e8950c559d268": {
         "title": "星链之后，马斯克为什么又盯上了太空算力？",
         "link": "https://www.tmtpost.com/8105159.html",
@@ -2101,39 +2041,39 @@
         "link": "https://www.tmtpost.com/8139656.html",
         "published_date": "Tue, 15 Sep 2026 08:43:00 GMT",
         "first_seen": "2026-09-15T01:11:09.216591"
+      },
+      "b8722765234e2164e1e8962a3dbfa22196bcc7883f2a1cf6e456273fb10e4071": {
+        "title": "AI没有杀死软件，但“套壳”AI首先被淘汰",
+        "link": "https://www.tmtpost.com/8130396.html",
+        "published_date": "Tue, 15 Sep 2026 17:11:00 GMT",
+        "first_seen": "2026-09-15T09:48:19.797548"
+      },
+      "0d514695df9dea7a6a26d784481161bbb6f82f93aacd07da62c6aa9351c27cf2": {
+        "title": "当一群AI占领了人类互联网的无人区",
+        "link": "https://www.tmtpost.com/8140432.html",
+        "published_date": "Tue, 15 Sep 2026 16:01:00 GMT",
+        "first_seen": "2026-09-15T09:48:19.797557"
+      },
+      "f25a2805135b5b7bcedb053347c2fae6cb2a9efe96b914a239cbf27360454480": {
+        "title": "三巨头罕见停战，人类距离AI失控还有多远",
+        "link": "https://www.tmtpost.com/8140330.html",
+        "published_date": "Tue, 15 Sep 2026 15:38:00 GMT",
+        "first_seen": "2026-09-15T09:48:19.797559"
+      },
+      "73bd8dde4f64e4fe7a68f0606d4e97d27d6f802a777b71893e048ed5253c00d4": {
+        "title": "OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust",
+        "link": "https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 15 Sep 2026 16:09:00 GMT",
+        "first_seen": "2026-09-15T09:48:19.797561"
+      },
+      "02f0c48c29825278a41169be69d24735986ff12fa4e4a78c367de7c7ce9aa1d2": {
+        "title": "Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台",
+        "link": "https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 15 Sep 2026 14:34:00 GMT",
+        "first_seen": "2026-09-15T09:48:19.797563"
       }
     },
     "Finance": {
-      "f5d6730e05ba523043fa001ad63dc5cdee400d952ba2e847b16dc1746a782039": {
-        "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
-        "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
-        "published_date": "Sun, 16 Aug 2026 01:52:00 GMT",
-        "first_seen": "2026-08-16T05:25:47.962331"
-      },
-      "0bce381a1837e222eebbfe9a4a042e088c9d4f7c756830f755990bc70aea2875": {
-        "title": "World’s largest carmakers seek to avert motor oil crisis",
-        "link": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
-        "published_date": "Sun, 16 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-16T05:25:47.962338"
-      },
-      "c0964ec0e221f7da0f00cf8d72995481ea1fdfc2c6a1e27df7be2cf25d1343e1": {
-        "title": "Most US voters say they are worse off under Trump — FT poll",
-        "link": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
-        "published_date": "Sun, 16 Aug 2026 04:01:00 GMT",
-        "first_seen": "2026-08-16T05:25:47.962340"
-      },
-      "2ac5bfe51fb60b76ee5d0a75d9381050817c3504b116204280e33b0618e2cf6b": {
-        "title": "European companies count the costs and gains of extreme heat",
-        "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
-        "published_date": "Sun, 16 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-16T05:25:47.962342"
-      },
-      "62db925016a98d63516b13c85b55236daeed076df3f6fb599b8434e7b55c22e1": {
-        "title": "BlackBerry: From phone dinosaur to tech champion",
-        "link": "https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed",
-        "published_date": "Sun, 16 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-16T05:25:47.962343"
-      },
       "add29478f3f48b2004b8e10feb53b47db2b5754ff7cff67de914de5e8c0ba255": {
         "title": "Canadian business braced for 50% US tariffs",
         "link": "https://www.ft.com/content/d14b21c8-6a63-4593-b455-480b18792ac8?syn-25a6b1a6=1",
@@ -3975,27 +3915,39 @@
         "link": "https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1",
         "published_date": "Tue, 15 Sep 2026 00:28:00 GMT",
         "first_seen": "2026-09-15T01:11:28.109228"
+      },
+      "1787d22b8fc9d5048d52ca94a6afd807f968e33f93863867532ac046d5722c83": {
+        "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+        "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
+        "published_date": "Tue, 15 Sep 2026 09:05:00 GMT",
+        "first_seen": "2026-09-15T09:54:17.516650"
+      },
+      "335697ce5cb45ce9cfbb04efe6ff6d0c43dc2cca83211f8d84a231bd07dcb11e": {
+        "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+        "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+        "published_date": "Tue, 15 Sep 2026 07:29:00 GMT",
+        "first_seen": "2026-09-15T09:54:17.516657"
+      },
+      "49664372dae9bccd2cb0cd3992244e2d3b25cb998dfd4401dc12f0d194200c28": {
+        "title": "Ten-year Treasury yield hits highest since global financial crisis",
+        "link": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+        "published_date": "Tue, 15 Sep 2026 07:12:00 GMT",
+        "first_seen": "2026-09-15T09:54:17.516659"
+      },
+      "08b5b52710123df104391f3428c46e694c3ecdac87483c22b0ef3d223d58181f": {
+        "title": "China’s economy shows signs of weakness as investment slumps",
+        "link": "https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1",
+        "published_date": "Tue, 15 Sep 2026 04:18:00 GMT",
+        "first_seen": "2026-09-15T09:54:17.516661"
+      },
+      "478cab975a7f47476e17df1b3fa854149adb0c635cc5f508d20fab92b5a0381e": {
+        "title": "How Poland lost $230mn trying to buy Venezuelan oil with crypto",
+        "link": "https://www.ft.com/content/6c387cda-61b0-4396-9353-0d7d99781f9b?syn-25a6b1a6=1",
+        "published_date": "Tue, 15 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-15T09:54:17.516662"
       }
     },
     "Ai": {
-      "2000789c16d304366f29019c031ea0de5804f8502cb47a198aba1bb2d3b9955b": {
-        "title": "2026-08-16日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-16/",
-        "published_date": "Sun, 16 Aug 2026 10:57:00 GMT",
-        "first_seen": "2026-08-16T05:25:48.104910"
-      },
-      "977bd1339071e316c5df447377f27100fdb20665750c347b46e44450dd7ffc3f": {
-        "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-        "link": "https://www.qbitai.com/2026/08/473972.html",
-        "published_date": "Sun, 16 Aug 2026 05:37:00 GMT",
-        "first_seen": "2026-08-16T08:25:05.170090"
-      },
-      "f15111a40bb7a78a1f6618a0b24059f647f204d84c3b24dc23e5db47345e1527": {
-        "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-        "link": "https://www.qbitai.com/2026/08/473947.html",
-        "published_date": "Sun, 16 Aug 2026 05:28:00 GMT",
-        "first_seen": "2026-08-16T08:25:05.170097"
-      },
       "1c345af940ea289c3475e7230b999bfd4f6224072ff39dfe08746a185cbb39c7": {
         "title": "杭州95后小伙，5亿买走硅谷城堡",
         "link": "https://www.qbitai.com/2026/08/474245.html",
@@ -5147,13 +5099,43 @@
         "link": "https://www.qbitai.com/2026/09/488933.html",
         "published_date": "Mon, 14 Sep 2026 08:08:00 GMT",
         "first_seen": "2026-09-14T10:19:35.214459"
+      },
+      "da47ce8885cdd13797b5614d3b7a052e0dba96ede83b57a44be0ed865bfe06b5": {
+        "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+        "link": "https://www.qbitai.com/2026/09/489227.html",
+        "published_date": "Tue, 15 Sep 2026 02:17:00 GMT",
+        "first_seen": "2026-09-15T09:50:14.156344"
+      },
+      "a7bb53df6819efb428160e590858b17aa7240c209fb870ad24d9ab095603fdd7": {
+        "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+        "link": "https://www.qbitai.com/2026/09/489337.html",
+        "published_date": "Tue, 15 Sep 2026 06:37:00 GMT",
+        "first_seen": "2026-09-15T09:50:14.156350"
+      },
+      "1fa51e2ce617619fdf4e9049d76928dc4c6fecd8e9eb912680130eac0384cdc8": {
+        "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+        "link": "https://www.qbitai.com/2026/09/489288.html",
+        "published_date": "Tue, 15 Sep 2026 05:39:00 GMT",
+        "first_seen": "2026-09-15T09:50:14.156352"
+      },
+      "e10188c1d90ebe73fd8953fe058b0762c1b3bc0ca0c821e884d6dda74ee4ac94": {
+        "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+        "link": "https://www.qbitai.com/2026/09/489277.html",
+        "published_date": "Tue, 15 Sep 2026 05:20:00 GMT",
+        "first_seen": "2026-09-15T09:50:14.156354"
+      },
+      "bdab2c6d16edd08915639c5f687ec27b0a56cc15eea48fac8936724babb46e18": {
+        "title": "Hacked by CoupDeGrace",
+        "link": "https://www.qbitai.com/2026/09/489371.html",
+        "published_date": "Tue, 15 Sep 2026 07:58:00 GMT",
+        "first_seen": "2026-09-15T09:50:14.156355"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-15T01:11:09.216593",
-    "Finance": "2026-09-15T01:11:28.109230",
-    "Ai": "2026-09-14T10:19:35.214461"
+    "Technology": "2026-09-15T09:48:19.797565",
+    "Finance": "2026-09-15T09:54:17.516665",
+    "Ai": "2026-09-15T09:50:14.156357"
   }
 }

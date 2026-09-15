@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Sep 2026 01:10:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 01:11:09 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 09:47:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:48:19 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来</title>
-      <link>https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 21:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI没有杀死软件，但“套壳”AI首先被淘汰</title>
+      <link>https://www.tmtpost.com/8130396.html</link>
+      <description>&lt;![CDATA[AI没有杀死软件，但“套壳”AI首先被淘汰]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8130396.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷AI大厂踩刹车，英伟达和白宫先慌了</title>
-      <link>https://www.tmtpost.com/8138997.html</link>
-      <description>&lt;![CDATA[硅谷AI大厂踩刹车，英伟达和白宫先慌了]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8138997.html</guid>
+      <title>当一群AI占领了人类互联网的无人区</title>
+      <link>https://www.tmtpost.com/8140432.html</link>
+      <description>&lt;![CDATA[当一群AI占领了人类互联网的无人区]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140432.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”</title>
-      <link>https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 21:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article</guid>
+      <title>三巨头罕见停战，人类距离AI失控还有多远</title>
+      <link>https://www.tmtpost.com/8140330.html</link>
+      <description>&lt;![CDATA[三巨头罕见停战，人类距离AI失控还有多远]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140330.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek“推倒重来”</title>
-      <link>https://www.tmtpost.com/8139302.html</link>
-      <description>&lt;![CDATA[DeepSeek“推倒重来”]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 19:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139302.html</guid>
+      <title>OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust</title>
+      <link>https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 16:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>脑机公司，拔苗助长</title>
-      <link>https://www.tmtpost.com/8139656.html</link>
-      <description>&lt;![CDATA[脑机公司，拔苗助长]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 08:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139656.html</guid>
+      <title>Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台</title>
+      <link>https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
