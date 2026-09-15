@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "a7d01274bc15247061b79ce04a1eacfd81ea65ab2b48def4c9f11a5f4caceb7b": {
-        "title": "GLM-5.3 来了，编程能力提升 50%，两周发现 2404 个漏洞。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536022&idx=1&sn=8d467e7c4ea2140b97e16b73f0f7a9ad",
-        "published_date": "Sat, 15 Aug 2026 16:54:00 GMT",
-        "first_seen": "2026-08-15T23:18:05.393845"
-      },
-      "46d0aaddd7fcd9f0e8b56d5eb2a6156a621b24fb2ccfdb7e1b624b5d6c11e100": {
-        "title": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
-        "link": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 15 Aug 2026 21:52:00 GMT",
-        "first_seen": "2026-08-15T23:18:05.393866"
-      },
-      "996ae32ccabc5ced4ef99fd3a31a2e042f00a848098675e3832c522cfa2b689b": {
-        "title": "营收飙升 14 倍，Anthropic 冲刺 2 万亿美元 IPO，但估值泡沫隐现",
-        "link": "https://www.tmtpost.com/8104597.html",
-        "published_date": "Sat, 15 Aug 2026 20:04:00 GMT",
-        "first_seen": "2026-08-15T23:18:05.393870"
-      },
-      "26c889249abffd3d5111b976f09e0ecfbe439b7a9d291265db4fd04d548146f1": {
-        "title": "兴锋作浪，大模型和机器人抢着“联姻”",
-        "link": "https://www.tmtpost.com/8104508.html",
-        "published_date": "Sat, 15 Aug 2026 20:04:00 GMT",
-        "first_seen": "2026-08-15T23:18:05.393872"
-      },
-      "2b95a0cd6d194e8d1c058979dbddf97a0cd8dbde7a47155d53b845ad35be01ec": {
-        "title": "美团不开药店，却想成为25万家药店的“总店”？",
-        "link": "https://www.tmtpost.com/8104282.html",
-        "published_date": "Sat, 15 Aug 2026 18:23:00 GMT",
-        "first_seen": "2026-08-15T23:18:05.393876"
-      },
       "d37e027f5780ff50bc4294e343979870a923db61ecdf00f2c90e0f4372c8e6fd": {
         "title": "420亿估值背后：Neuralink的“SpaceX时刻”还要等多久？",
         "link": "https://www.tmtpost.com/8104757.html",
@@ -2101,39 +2071,39 @@
         "link": "https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 14 Sep 2026 11:11:00 GMT",
         "first_seen": "2026-09-14T10:19:21.260100"
+      },
+      "09839955641a39b842f369bc618f2707af2006c07f88deff3b24b4db4a7a7904": {
+        "title": "发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来",
+        "link": "https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Sep 2026 21:54:00 GMT",
+        "first_seen": "2026-09-15T01:11:09.216573"
+      },
+      "3ca48968b355130fecc8090ad32ccf8140d90affb62dda3b99a282620ffc0efc": {
+        "title": "硅谷AI大厂踩刹车，英伟达和白宫先慌了",
+        "link": "https://www.tmtpost.com/8138997.html",
+        "published_date": "Mon, 14 Sep 2026 17:40:00 GMT",
+        "first_seen": "2026-09-15T01:11:09.216583"
+      },
+      "82235f19e72074d813db7de98db96c5ce23eeecee7313a0f47213f4b01dbf99d": {
+        "title": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
+        "link": "https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 14 Sep 2026 21:50:00 GMT",
+        "first_seen": "2026-09-15T01:11:09.216586"
+      },
+      "6b2b75f0341f19761377736fef506422a14586ac37d1a088400cb276aaf5fb33": {
+        "title": "DeepSeek“推倒重来”",
+        "link": "https://www.tmtpost.com/8139302.html",
+        "published_date": "Mon, 14 Sep 2026 19:13:00 GMT",
+        "first_seen": "2026-09-15T01:11:09.216589"
+      },
+      "ef537a5d90bdba9eafe9819c1e3ebc7b590d6d21be7bb7b52b9207061b5af2e5": {
+        "title": "脑机公司，拔苗助长",
+        "link": "https://www.tmtpost.com/8139656.html",
+        "published_date": "Tue, 15 Sep 2026 08:43:00 GMT",
+        "first_seen": "2026-09-15T01:11:09.216591"
       }
     },
     "Finance": {
-      "a9d65a7d2f597439e9bb76b4e3563417822ced68d59ca4a73dab9ff0d4cc424b": {
-        "title": "Think interest rates are high now? These charts offer a different perspective.",
-        "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-        "published_date": "Sat, 15 Aug 2026 19:01:00 GMT",
-        "first_seen": "2026-08-15T23:18:18.522979"
-      },
-      "a9e27bfdaa6e8748a224b1c48a32e918e0710673116b42115204a6c7b69c8d5b": {
-        "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-        "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-        "published_date": "Sat, 15 Aug 2026 18:05:00 GMT",
-        "first_seen": "2026-08-15T23:18:18.522986"
-      },
-      "7734ac16aa53f34904aee0a2c9d7139be3b71e45f06a6c8b7c1496e56e9fe95f": {
-        "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-        "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-        "published_date": "Sat, 15 Aug 2026 16:16:00 GMT",
-        "first_seen": "2026-08-15T23:18:18.522988"
-      },
-      "430df6803749c7ef4eb6050d0d3ef0ca771ccca4482323d887441917b0d1c9a0": {
-        "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-        "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-        "published_date": "Sat, 15 Aug 2026 20:00:00 GMT",
-        "first_seen": "2026-08-15T23:18:18.522990"
-      },
-      "68856329fc868e3a7912dd9165434a1a6f1bc87232cf7612b03280293f35547e": {
-        "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
-        "link": "https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories",
-        "published_date": "Sat, 15 Aug 2026 15:28:00 GMT",
-        "first_seen": "2026-08-15T23:18:18.522991"
-      },
       "f5d6730e05ba523043fa001ad63dc5cdee400d952ba2e847b16dc1746a782039": {
         "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
         "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
@@ -3975,6 +3945,36 @@
         "link": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
         "published_date": "Mon, 14 Sep 2026 05:15:00 GMT",
         "first_seen": "2026-09-14T10:19:55.586883"
+      },
+      "a16b7a895f579d057950cdae7c1bf11e0168e9e882dca10738c9a8e1717124c4": {
+        "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+        "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+        "published_date": "Mon, 14 Sep 2026 20:47:00 GMT",
+        "first_seen": "2026-09-15T01:11:28.109213"
+      },
+      "4e09a816f86978948ac529925b95876b66f1533b356425dd40dd52d3cd163de1": {
+        "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+        "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+        "published_date": "Mon, 14 Sep 2026 20:56:00 GMT",
+        "first_seen": "2026-09-15T01:11:28.109221"
+      },
+      "f40d32370ddd7ea51d27580d92df500d3034bf332a4c160cd7b37a2b38460996": {
+        "title": "Carney urges EU to cement trade deal as Ottawa seeks pivot from US",
+        "link": "https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1",
+        "published_date": "Mon, 14 Sep 2026 20:19:00 GMT",
+        "first_seen": "2026-09-15T01:11:28.109223"
+      },
+      "17392af28e2abcc7c7e037726ead500175f2a61cb0935de6faf13eecedcaec69": {
+        "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+        "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+        "published_date": "Mon, 14 Sep 2026 21:31:00 GMT",
+        "first_seen": "2026-09-15T01:11:28.109226"
+      },
+      "3dac130a7c214a64a2a39d09632335a633690f23d8e3c0677a8624cc61404dde": {
+        "title": "China tightens control of overseas travel in sweeping new law",
+        "link": "https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1",
+        "published_date": "Tue, 15 Sep 2026 00:28:00 GMT",
+        "first_seen": "2026-09-15T01:11:28.109228"
       }
     },
     "Ai": {
@@ -5152,8 +5152,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-14T10:19:21.260102",
-    "Finance": "2026-09-14T10:19:55.586885",
+    "Technology": "2026-09-15T01:11:09.216593",
+    "Finance": "2026-09-15T01:11:28.109230",
     "Ai": "2026-09-14T10:19:35.214461"
   }
 }

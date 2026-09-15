@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Sep 2026 10:18:00 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 10:19:21 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 01:10:00 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:11:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>京东建十万卡，字节“借”296亿，AI 算力进入「豪赌时刻」</title>
-      <link>https://www.tmtpost.com/8139073.html</link>
-      <description>&lt;![CDATA[京东建十万卡，字节“借”296亿，AI 算力进入「豪赌时刻」]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139073.html</guid>
+      <title>发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来</title>
+      <link>https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[发长文预警 AI 风险后，Dario 首次专访回应：AI 不能停，但必须慢下来]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 21:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/fsZQ39K4Cd79vaUkFz7F?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI按下竞速暂停键：大模型退烧，企业 AI进入结果验收时代</title>
-      <link>https://www.tmtpost.com/8139181.html</link>
-      <description>&lt;![CDATA[OpenAI按下竞速暂停键：大模型退烧，企业 AI进入结果验收时代]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 16:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139181.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>李飞飞的Atlas，为具身智能推开新世界大门</title>
-      <link>https://www.tmtpost.com/8139209.html</link>
-      <description>&lt;![CDATA[李飞飞的Atlas，为具身智能推开新世界大门]]&gt;</description>
+      <title>硅谷AI大厂踩刹车，英伟达和白宫先慌了</title>
+      <link>https://www.tmtpost.com/8138997.html</link>
+      <description>&lt;![CDATA[硅谷AI大厂踩刹车，英伟达和白宫先慌了]]&gt;</description>
       <pubDate>Mon, 14 Sep 2026 17:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139209.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8138997.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力缺的不是“卡”，而是Token丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/8139123.html</link>
-      <description>&lt;![CDATA[算力缺的不是“卡”，而是Token丨ToB产业观察]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 16:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8139123.html</guid>
+      <title>Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”</title>
+      <link>https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 21:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xD9oWbebhcjwgHz1oEfa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施</title>
-      <link>https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[欧洲核子研究组织（CERN）放弃RHEL，转而采用 Debian 作为其加速器控制基础设施]]&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KJRoBoUcE4L6bOPKOHco?utm_source=rss&amp;utm_medium=article</guid>
+      <title>DeepSeek“推倒重来”</title>
+      <link>https://www.tmtpost.com/8139302.html</link>
+      <description>&lt;![CDATA[DeepSeek“推倒重来”]]&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8139302.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>脑机公司，拔苗助长</title>
+      <link>https://www.tmtpost.com/8139656.html</link>
+      <description>&lt;![CDATA[脑机公司，拔苗助长]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8139656.html</guid>
       <category>Technology</category>
     </item>
   </channel>
