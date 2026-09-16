@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Sep 2026 09:47:00 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 09:48:19 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 01:03:00 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:03:48 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI没有杀死软件，但“套壳”AI首先被淘汰</title>
-      <link>https://www.tmtpost.com/8130396.html</link>
-      <description>&lt;![CDATA[AI没有杀死软件，但“套壳”AI首先被淘汰]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 17:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8130396.html</guid>
+      <title>OpenAI 考虑 1.2 万亿美元融资，拟将首次公开募股推迟至 2027 年</title>
+      <link>https://www.tmtpost.com/8141318.html</link>
+      <description>&lt;![CDATA[OpenAI 考虑 1.2 万亿美元融资，拟将首次公开募股推迟至 2027 年]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 08:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8141318.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当一群AI占领了人类互联网的无人区</title>
-      <link>https://www.tmtpost.com/8140432.html</link>
-      <description>&lt;![CDATA[当一群AI占领了人类互联网的无人区]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 16:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8140432.html</guid>
+      <title>黄仁勋当众接起总统的电话：AI减速之争进入第三个交易日</title>
+      <link>https://www.tmtpost.com/8140304.html</link>
+      <description>&lt;![CDATA[黄仁勋当众接起总统的电话：AI减速之争进入第三个交易日]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140304.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三巨头罕见停战，人类距离AI失控还有多远</title>
-      <link>https://www.tmtpost.com/8140330.html</link>
-      <description>&lt;![CDATA[三巨头罕见停战，人类距离AI失控还有多远]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 15:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8140330.html</guid>
+      <title>OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器</title>
+      <link>http://www.geekpark.net/news/370375</link>
+      <description>&lt;![CDATA[OpenAI、Anthropic、谷歌联手研究 AI 安全；微信员工辟谣 AI 助手小微「偷隐私」；美国已在太空部署武器]]&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 08:22:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370375</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust</title>
-      <link>https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI故意欠技术债，等Codex来还：仅2名工程师，把核心存储从Python重写成Rust]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 16:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QtIy65SxjN0Q4riY7tCo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Meta 打造“组织第二大脑”智能体的设计思路</title>
+      <link>https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 打造“组织第二大脑”智能体的设计思路]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 11:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台</title>
-      <link>https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Python 拥抱 RISC-V：CPython 正式纳入 Tier 3 平台]]&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ipaJ5VXPgUiMFmaAgAEG?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI 让智能硬件卖得更贵，但增长消失了</title>
+      <link>https://www.tmtpost.com/8140671.html</link>
+      <description>&lt;![CDATA[AI 让智能硬件卖得更贵，但增长消失了]]&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 17:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8140671.html</guid>
       <category>Technology</category>
     </item>
   </channel>
