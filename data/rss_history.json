@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9f912adc85676087bd7cb45a1facd04ebacb8b30234e8b9ca69acfda90878377": {
-        "title": "Alibaba Sells Its Gaming Unit to Trustar Capital as It Sharpens Focus on AI",
-        "link": "https://www.tmtpost.com/8105947.html",
-        "published_date": "Mon, 17 Aug 2026 17:07:00 GMT",
-        "first_seen": "2026-08-17T23:19:44.628382"
-      },
-      "84f71efae6dceaad77799370d87068e85638e9399fe8a615c67013a9f80103dc": {
-        "title": "AI时代的数据中心，正在被网络“卡脖子”丨ToB产业观察",
-        "link": "https://www.tmtpost.com/8105860.html",
-        "published_date": "Mon, 17 Aug 2026 17:42:00 GMT",
-        "first_seen": "2026-08-17T23:19:44.628390"
-      },
-      "14e8c4c4d24b3bff55dd0563ed9203d5910450557728a8b095ab151c54dfe729": {
-        "title": "智谱 VS Deepseek，两条分叉的自进化树",
-        "link": "https://www.tmtpost.com/8105866.html",
-        "published_date": "Mon, 17 Aug 2026 19:04:00 GMT",
-        "first_seen": "2026-08-17T23:19:44.628394"
-      },
-      "31ef17e7037f6031dfdf1d8987448d47379fe03b306d0ef79e16a69cfc35551f": {
-        "title": "AI医疗龙头宣称首次盈利，我们翻完财报：赚钱的并不是AI",
-        "link": "https://www.tmtpost.com/8103184.html",
-        "published_date": "Mon, 17 Aug 2026 16:49:00 GMT",
-        "first_seen": "2026-08-17T23:19:44.628395"
-      },
-      "5ac7d2daa4045c3f775b1a3ff066844dcebbee3607ad88723dd5b75777108ce1": {
-        "title": "Token未来更贵还是更便宜？定价权之争白热化",
-        "link": "https://www.tmtpost.com/8101913.html",
-        "published_date": "Mon, 17 Aug 2026 13:39:00 GMT",
-        "first_seen": "2026-08-17T23:19:44.628397"
-      },
       "487618655d31c8fec3511993f76c9d0d303531b4e9bd8eacc3134e2df48ffa3e": {
         "title": "OpenAI IPO前夕：400 亿营收、8520 亿估值，与一场高管离职潮",
         "link": "https://www.tmtpost.com/8106969.html",
@@ -2041,39 +2011,39 @@
         "link": "http://www.geekpark.net/news/370440",
         "published_date": "Wed, 16 Sep 2026 15:45:00 GMT",
         "first_seen": "2026-09-16T09:43:43.929331"
+      },
+      "3b4e3b8539cabdda2cb85eb8f3405318dd2d4f68367f57db8d6710713d20d1b9": {
+        "title": "大模型的进步，为什么越来越难衡量了？",
+        "link": "https://www.tmtpost.com/8142369.html",
+        "published_date": "Thu, 17 Sep 2026 08:28:00 GMT",
+        "first_seen": "2026-09-17T01:05:33.538886"
+      },
+      "e3a839f0e4e1d5a8580df65fca61fab1649b3a5e943dedcb9c658ccf5049bd6b": {
+        "title": "英伟达 1050 亿担保的真正底牌：赌地电壳，不赌 OpenAI",
+        "link": "https://www.tmtpost.com/8141805.html",
+        "published_date": "Wed, 16 Sep 2026 15:44:00 GMT",
+        "first_seen": "2026-09-17T01:05:33.538897"
+      },
+      "722002c3008c9afd29bd913f4f57321bc83ca85146df4a6fe6808bbf0c1c7acf": {
+        "title": "Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案",
+        "link": "https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Sep 2026 18:36:00 GMT",
+        "first_seen": "2026-09-17T01:05:33.538904"
+      },
+      "8a2198945b53acbaea9440ccf5ed117129ff98179d752fb775e4a724b1b3f673": {
+        "title": "从概率生成到稳定交付：AIGC专业内容生产的工程化挑战",
+        "link": "https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 16 Sep 2026 17:59:00 GMT",
+        "first_seen": "2026-09-17T01:05:33.538906"
+      },
+      "a274754280d977602e5f7d295bf3d3ca8aaec604dfe5f2e1456cb922d701f47b": {
+        "title": "AI Hardware Revival Stalls as Consumers Resist Paying for Features They Barely Use",
+        "link": "https://www.tmtpost.com/8141903.html",
+        "published_date": "Wed, 16 Sep 2026 15:52:00 GMT",
+        "first_seen": "2026-09-17T01:05:33.538907"
       }
     },
     "Finance": {
-      "8dff6969b6929e3bc8875b5f2049bef330efd8ec4d1d99a3642a04ab597ed0a6": {
-        "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
-        "link": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
-        "published_date": "Mon, 17 Aug 2026 21:15:00 GMT",
-        "first_seen": "2026-08-17T23:19:59.925742"
-      },
-      "a88e24ba962982325fdcddcb261f89bddee30439eaa710606979f637795a2ab0": {
-        "title": "US tech stock correction likely, warn ECB economists",
-        "link": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
-        "published_date": "Mon, 17 Aug 2026 14:40:00 GMT",
-        "first_seen": "2026-08-17T23:19:59.925748"
-      },
-      "8b2d9e5f1fd5d157fb28fd9692b25b9c838373a2204fa8774e6b71ed26781b7a": {
-        "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
-        "link": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
-        "published_date": "Mon, 17 Aug 2026 22:33:00 GMT",
-        "first_seen": "2026-08-17T23:19:59.925750"
-      },
-      "d6b8194c11f89963fc2ecc60e873a54dc092fffbe958521fec3f452e51c5dbc9": {
-        "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
-        "link": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
-        "published_date": "Mon, 17 Aug 2026 20:28:00 GMT",
-        "first_seen": "2026-08-17T23:19:59.925752"
-      },
-      "0973516fd28ff8aa9da62aa269aae3f1b23531d582ed756be65e47134b67661a": {
-        "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
-        "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
-        "published_date": "Mon, 17 Aug 2026 19:48:00 GMT",
-        "first_seen": "2026-08-17T23:19:59.925753"
-      },
       "72ecee3ef1ed2c37574fabba5a0adaa80c376d1011868a5f9ebbc7c2121bec69": {
         "title": "‘Not worth the squeeze’: global private equity makes zero deals in China",
         "link": "https://www.ft.com/content/55cb2786-c7ef-438e-8830-c3dc2c1452ce?syn-25a6b1a6=1",
@@ -3903,27 +3873,39 @@
         "link": "https://www.ft.com/content/c11fd1dd-8783-4894-9f53-109d7edf376f?syn-25a6b1a6=1",
         "published_date": "Wed, 16 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-16T09:44:27.365344"
+      },
+      "e01649b2f01ee139bd02ea14dfad8ed51850cc20f737dbcf8f4265ee12277173": {
+        "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+        "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+        "published_date": "Wed, 16 Sep 2026 21:40:00 GMT",
+        "first_seen": "2026-09-17T01:06:07.059848"
+      },
+      "013e1f4d5a8a60742e9d0fa6bf5cd38ca3abc62133e4f7c75ef75b37c341e39a": {
+        "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
+        "link": "https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1",
+        "published_date": "Wed, 16 Sep 2026 23:22:00 GMT",
+        "first_seen": "2026-09-17T01:06:07.059855"
+      },
+      "cb6c304ca12b56cd18f2be2018d61fb5bed2efc0b1e683bca1e57d893255ab5e": {
+        "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+        "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+        "published_date": "Wed, 16 Sep 2026 18:57:00 GMT",
+        "first_seen": "2026-09-17T01:06:07.059857"
+      },
+      "e64acb76bfaae29286e7e231e9b3f217786a5cdac51c17bbbd2a1b13bf2fb59e": {
+        "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+        "link": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+        "published_date": "Thu, 17 Sep 2026 00:30:00 GMT",
+        "first_seen": "2026-09-17T01:06:07.059859"
+      },
+      "76e3ee1ddba8c1c54467e71e4797b0b0c694626acbb2e51361f0a2b2b41a0aa4": {
+        "title": "AI bosses’ safety push sparks rift inside OpenAI and Anthropic",
+        "link": "https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3?syn-25a6b1a6=1",
+        "published_date": "Wed, 16 Sep 2026 12:00:00 GMT",
+        "first_seen": "2026-09-17T01:06:07.059860"
       }
     },
     "Ai": {
-      "b508210c33f2903fcc40eb37ba3025465149357ff211adc204f05616097a11c6": {
-        "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-        "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-        "published_date": "Mon, 17 Aug 2026 10:34:00 GMT",
-        "first_seen": "2026-08-17T23:20:00.070268"
-      },
-      "dab612b932521e837080c65df9845398c59de689760d84825cb4bcb216b6b2a5": {
-        "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
-        "link": "https://www.qbitai.com/2026/08/474537.html",
-        "published_date": "Mon, 17 Aug 2026 09:30:00 GMT",
-        "first_seen": "2026-08-17T23:20:00.070275"
-      },
-      "89b1fb3d9e29dd983e1f0eefa56de453e02312d01cf1f9d10785a0f90793d740": {
-        "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
-        "link": "https://www.qbitai.com/2026/08/474518.html",
-        "published_date": "Mon, 17 Aug 2026 09:04:00 GMT",
-        "first_seen": "2026-08-17T23:20:00.070277"
-      },
       "1c540abd5db612c9f9bd447f96b67664cfd95a1a1f07551a2f6d97c398c29374": {
         "title": "2026-08-18日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-18/",
@@ -5117,13 +5099,19 @@
         "link": "https://www.qbitai.com/2026/09/490400.html",
         "published_date": "Wed, 16 Sep 2026 06:32:00 GMT",
         "first_seen": "2026-09-16T09:44:11.857272"
+      },
+      "ec07e50583f7a92f7ce53c364fb6d905d44058b5c09e0596388a638ea19eb513": {
+        "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+        "link": "https://www.qbitai.com/2026/09/490839.html",
+        "published_date": "Wed, 16 Sep 2026 13:08:00 GMT",
+        "first_seen": "2026-09-17T01:05:33.678611"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-16T09:43:43.929333",
-    "Finance": "2026-09-16T09:44:27.365346",
-    "Ai": "2026-09-16T09:44:11.857275"
+    "Technology": "2026-09-17T01:05:33.538909",
+    "Finance": "2026-09-17T01:06:07.059862",
+    "Ai": "2026-09-17T01:05:33.678619"
   }
 }
