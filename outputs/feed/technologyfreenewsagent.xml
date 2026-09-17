@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Sep 2026 01:04:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 01:05:33 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 09:49:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:50:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>大模型的进步，为什么越来越难衡量了？</title>
-      <link>https://www.tmtpost.com/8142369.html</link>
-      <description>&lt;![CDATA[大模型的进步，为什么越来越难衡量了？]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 08:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8142369.html</guid>
+      <title>汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段</title>
+      <link>https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英伟达 1050 亿担保的真正底牌：赌地电壳，不赌 OpenAI</title>
-      <link>https://www.tmtpost.com/8141805.html</link>
-      <description>&lt;![CDATA[英伟达 1050 亿担保的真正底牌：赌地电壳，不赌 OpenAI]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8141805.html</guid>
+      <title>边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻</title>
+      <link>https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案</title>
-      <link>https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 的经济账，不能只算 Token——阿里用 Qoder Cloud Agents 给出答案]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8leHq71KkbQfo930ptvc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相</title>
+      <link>https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从概率生成到稳定交付：AIGC专业内容生产的工程化挑战</title>
-      <link>https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从概率生成到稳定交付：AIGC专业内容生产的工程化挑战]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 17:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/bj4Q9E2PBJfUWIRZkutu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作</title>
+      <link>https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Hardware Revival Stalls as Consumers Resist Paying for Features They Barely Use</title>
-      <link>https://www.tmtpost.com/8141903.html</link>
-      <description>&lt;![CDATA[AI Hardware Revival Stalls as Consumers Resist Paying for Features They Barely Use]]&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 15:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8141903.html</guid>
+      <title>Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源</title>
+      <link>https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
