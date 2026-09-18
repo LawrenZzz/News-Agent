@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6d457ceb02d2dad4c28df00b38cc8136d126f1b4673a7ef2ea71be7b134f8aa2": {
-        "title": "英伟达开始给电做担保了：1050亿美元押注8GW算力的电力账",
-        "link": "https://www.tmtpost.com/8107418.html",
-        "published_date": "Tue, 18 Aug 2026 17:21:00 GMT",
-        "first_seen": "2026-08-18T23:22:12.826897"
-      },
-      "81a419cd41c6dde830d78f98e6bdeca7707b316fdcffdab8f7449e6cec95dd34": {
-        "title": "新能源渗透率首破60%——“上半场”赢了，“下半场”更难",
-        "link": "https://www.tmtpost.com/8107232.html",
-        "published_date": "Tue, 18 Aug 2026 21:58:00 GMT",
-        "first_seen": "2026-08-18T23:22:12.826908"
-      },
-      "0923ec107864bf8e95cf143f66044db07e44d498077c3ae13891b4dba25a392a": {
-        "title": "AI收入连续两个季度过半，百度换了一张估值表",
-        "link": "https://www.tmtpost.com/8107731.html",
-        "published_date": "Tue, 18 Aug 2026 21:01:00 GMT",
-        "first_seen": "2026-08-18T23:22:12.826911"
-      },
-      "0f78722e108a264f82a7a423e7950c24bee42702a1c85efb216919349e011279": {
-        "title": "阿里退出游戏，出售灵犀互娱为哪般？",
-        "link": "https://www.tmtpost.com/8107193.html",
-        "published_date": "Tue, 18 Aug 2026 21:39:00 GMT",
-        "first_seen": "2026-08-18T23:22:12.826913"
-      },
-      "e2ad20ff0119a0af3fc6521446bc332b9f7c769d25b18edcf168294a7c4dd0bd": {
-        "title": "银行风控逻辑开始\"看Token不看砖头\"了",
-        "link": "https://www.tmtpost.com/8106372.html",
-        "published_date": "Tue, 18 Aug 2026 16:10:00 GMT",
-        "first_seen": "2026-08-18T23:22:12.826915"
-      },
       "f7f9b4a01d41a75777b7686d7dfc5b2a98a314332634a955e3810838120d54d5": {
         "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
         "link": "https://www.tmtpost.com/8107695.html",
@@ -2011,39 +1981,39 @@
         "link": "https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 17 Sep 2026 15:23:00 GMT",
         "first_seen": "2026-09-17T09:50:06.000350"
+      },
+      "41fa0ef8c42833c1a4d584d706f4ae5825aba1263c7c9f07a8a05d673779c943": {
+        "title": "Altman 对话 Benioff：开源模型会不会失控",
+        "link": "https://www.tmtpost.com/8143199.html",
+        "published_date": "Thu, 17 Sep 2026 16:21:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.767906"
+      },
+      "d7c5c436c1031d3753c4cf3d219e8c59e56ac9b9b7ffdc029dc33486daa86c47": {
+        "title": "世界模型入口战：字节向左，京东向右",
+        "link": "https://www.tmtpost.com/8143284.html",
+        "published_date": "Thu, 17 Sep 2026 15:54:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.767917"
+      },
+      "ced8afb55f6e7a7e92c36c0f7ac809030d8cdc3ebde34dcd6495061e5894297f": {
+        "title": "万亿市场背后，AI数据基础设施的竞赛已经开始",
+        "link": "https://www.tmtpost.com/8143760.html",
+        "published_date": "Thu, 17 Sep 2026 19:36:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.767920"
+      },
+      "4813f31f4c5a98dc9ce00ec8662937d7429b3eec269f574157da3de1c9fb5ca6": {
+        "title": "AI赢得了芯片，输不起一次停电",
+        "link": "https://www.tmtpost.com/8143474.html",
+        "published_date": "Thu, 17 Sep 2026 15:51:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.767922"
+      },
+      "4c317d75b69d2a60756ede034a1f2b908e206018ef427ed2bcbae0f192b14bd1": {
+        "title": "一位CIO的自我革命：AI三年，从内部重构到外部生长",
+        "link": "https://www.tmtpost.com/8141973.html",
+        "published_date": "Fri, 18 Sep 2026 08:00:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.767924"
       }
     },
     "Finance": {
-      "a3a452dd76ae33ebf325c2fa93cf8e24f062ae78c58e80b1bf0987896ff8eaab": {
-        "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
-        "link": "https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories",
-        "published_date": "Tue, 18 Aug 2026 22:31:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.312519"
-      },
-      "eb885ca0c554ffb6ec934266a19a3d90de8c55ccbacb56bc5fc27f10f01d6dd3": {
-        "title": "US chip stocks slide as government borrowing costs hit multiyear highs",
-        "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
-        "published_date": "Tue, 18 Aug 2026 20:36:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.312526"
-      },
-      "41f9d275931102d21885eb49e60807725619533e8fddc4250825cc19257ab0af": {
-        "title": "Soaring diesel prices rip across US economy",
-        "link": "https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1",
-        "published_date": "Tue, 18 Aug 2026 19:33:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.312529"
-      },
-      "3dc497f5078574af9febfbd8c8fa6f70c8f5988ac704cf21580eb6db694508fd": {
-        "title": "Canada faces deadline to stop US tariffs on $20bn of exports",
-        "link": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-        "published_date": "Tue, 18 Aug 2026 22:58:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.312531"
-      },
-      "d73346922c8f7cddb6b30e0326e005cf14d511a4808e95ef40fb55e27cfca5c7": {
-        "title": "After an Alzheimer’s diagnosis it’s not to late to get your finances in order",
-        "link": "https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories",
-        "published_date": "Tue, 18 Aug 2026 20:44:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.312533"
-      },
       "19f346908fa11269fa2d4dc8cc1187e7c8c893d890f2685a99f990006f652db8": {
         "title": "China eases limits on Nvidia H200 chips as AI race escalates",
         "link": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
@@ -3873,39 +3843,39 @@
         "link": "https://www.ft.com/content/be4a0acf-f4e8-41da-ba04-2ed6d44b7fc2?syn-25a6b1a6=1",
         "published_date": "Thu, 17 Sep 2026 05:30:00 GMT",
         "first_seen": "2026-09-17T09:50:37.863897"
+      },
+      "64165744064186df3e4a5fc3bb472137af8d141e91d106264da10a6f85d6a116": {
+        "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+        "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+        "published_date": "Thu, 17 Sep 2026 21:22:00 GMT",
+        "first_seen": "2026-09-18T01:01:47.551573"
+      },
+      "5e0df4538aa7f77263f4b0652dcc7414a7b4d09870229109c50fd5703e655984": {
+        "title": "Has AI broken the old VC model?",
+        "link": "https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1",
+        "published_date": "Thu, 17 Sep 2026 16:46:00 GMT",
+        "first_seen": "2026-09-18T01:01:47.551581"
+      },
+      "58815e768253aedae0444a04b4a595996d493139e3b3ae1bc1db5991cc4f3b4a": {
+        "title": "Wall Street warns trading boom is losing steam",
+        "link": "https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
+        "published_date": "Thu, 17 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-18T01:01:47.551583"
+      },
+      "87a5b20a9f566af37783c45adb984e3141c92fa6ca53134c1c80cee9b9c0f0b3": {
+        "title": "Turkish authorities rush to stem fallout from stock market scandal",
+        "link": "https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1",
+        "published_date": "Thu, 17 Sep 2026 11:59:00 GMT",
+        "first_seen": "2026-09-18T01:01:47.551585"
+      },
+      "362f5425c03a2acc91ea6cbeb1986bc256f78c860108c17df39e8010b3e342f2": {
+        "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
+        "link": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
+        "published_date": "Thu, 17 Sep 2026 22:22:00 GMT",
+        "first_seen": "2026-09-18T01:01:47.551587"
       }
     },
     "Ai": {
-      "a1cf87991908aa406fe97c8b4f9d910a80ef7d74aaf7ff771fc9d146b8fb943e": {
-        "title": "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-        "link": "https://www.qbitai.com/2026/08/474907.html",
-        "published_date": "Tue, 18 Aug 2026 11:07:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.456683"
-      },
-      "2d46b5dba1f321f3575c27ed8554a85b731f5f7b5ab9b5e9326ae6eae850a95c": {
-        "title": "比亚迪全程护航丝路万里行，深圳收官再启海外征程",
-        "link": "https://www.qbitai.com/2026/08/474868.html",
-        "published_date": "Tue, 18 Aug 2026 10:40:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.456692"
-      },
-      "6aa76e660bf1ece13f3c66b5d52947dd630d1d6b65fcc33ca2c3c64062407251": {
-        "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-        "link": "https://www.qbitai.com/2026/08/474857.html",
-        "published_date": "Tue, 18 Aug 2026 10:04:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.456695"
-      },
-      "8ac1da73fb57a3d983df174f950a3afffeb42757081b77326cd0cf098f9bc863": {
-        "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-        "link": "https://www.qbitai.com/2026/08/474838.html",
-        "published_date": "Tue, 18 Aug 2026 09:57:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.456696"
-      },
-      "f1edbadae9f9d216213f6705908811c037e1f1838b68fdbf10e957a04bbc50e5": {
-        "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-        "link": "https://www.qbitai.com/2026/08/474840.html",
-        "published_date": "Tue, 18 Aug 2026 09:38:00 GMT",
-        "first_seen": "2026-08-18T23:22:33.456698"
-      },
       "1036ebf668e0c3ca438a7989216382d53e53517c0db0f1223aa626aebd558bcf": {
         "title": "2026-08-19日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-19/",
@@ -5069,13 +5039,31 @@
         "link": "https://www.qbitai.com/2026/09/491147.html",
         "published_date": "Thu, 17 Sep 2026 03:39:00 GMT",
         "first_seen": "2026-09-17T09:50:23.078550"
+      },
+      "ef459a651c6d3455568b585b495aa4613f01ae0e18f6bc04be05e48f7ad65d77": {
+        "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+        "link": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+        "published_date": "Thu, 17 Sep 2026 20:45:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.903924"
+      },
+      "73a7c08aa87d0e4492df4c2e615f09271ef443c169aa3b21ba9ee9145051f1d8": {
+        "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+        "link": "https://www.qbitai.com/2026/09/491649.html",
+        "published_date": "Thu, 17 Sep 2026 12:03:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.903932"
+      },
+      "15478ae9380fd0e64ab0e502705d1d3a779474d6a86a52cf68caa4d99048022d": {
+        "title": "Claude Code团队讲究啊，这都往外说",
+        "link": "https://www.qbitai.com/2026/09/491596.html",
+        "published_date": "Thu, 17 Sep 2026 11:56:00 GMT",
+        "first_seen": "2026-09-18T01:01:27.903934"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-17T09:50:06.000352",
-    "Finance": "2026-09-17T09:50:37.863898",
-    "Ai": "2026-09-17T09:50:23.078553"
+    "Technology": "2026-09-18T01:01:27.767926",
+    "Finance": "2026-09-18T01:01:47.551588",
+    "Ai": "2026-09-18T01:01:27.903937"
   }
 }

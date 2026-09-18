@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 17 Sep 2026 09:49:00 GMT</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 09:50:05 GMT</lastBuildDate>
+    <pubDate>Fri, 18 Sep 2026 01:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:01:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段</title>
-      <link>https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[汪涛详解华为AI战略：算力为核心，昇腾960提前登场，PB级 KV Cache把基础设施推入新阶段]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bmducufWEHZZRxEYjM4l?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Altman 对话 Benioff：开源模型会不会失控</title>
+      <link>https://www.tmtpost.com/8143199.html</link>
+      <description>&lt;![CDATA[Altman 对话 Benioff：开源模型会不会失控]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 16:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8143199.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻</title>
-      <link>https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32?utm_source=rss&amp;utm_medium=article</guid>
+      <title>世界模型入口战：字节向左，京东向右</title>
+      <link>https://www.tmtpost.com/8143284.html</link>
+      <description>&lt;![CDATA[世界模型入口战：字节向左，京东向右]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8143284.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相</title>
-      <link>https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[vivo 把 Agent 做进操作系统：6000 多项原子技能开放调用，AgentOS 预览版亮相]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/hbZAEa6iQbq5rcUWbUi4?utm_source=rss&amp;utm_medium=article</guid>
+      <title>万亿市场背后，AI数据基础设施的竞赛已经开始</title>
+      <link>https://www.tmtpost.com/8143760.html</link>
+      <description>&lt;![CDATA[万亿市场背后，AI数据基础设施的竞赛已经开始]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8143760.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作</title>
-      <link>https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI赢得了芯片，输不起一次停电</title>
+      <link>https://www.tmtpost.com/8143474.html</link>
+      <description>&lt;![CDATA[AI赢得了芯片，输不起一次停电]]&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8143474.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源</title>
-      <link>https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>一位CIO的自我革命：AI三年，从内部重构到外部生长</title>
+      <link>https://www.tmtpost.com/8141973.html</link>
+      <description>&lt;![CDATA[一位CIO的自我革命：AI三年，从内部重构到外部生长]]&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8141973.html</guid>
       <category>Technology</category>
     </item>
   </channel>
