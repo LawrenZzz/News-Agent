@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 18 Sep 2026 01:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 01:01:27 GMT</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 00:57:00 GMT</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:57:26 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Altman 对话 Benioff：开源模型会不会失控</title>
-      <link>https://www.tmtpost.com/8143199.html</link>
-      <description>&lt;![CDATA[Altman 对话 Benioff：开源模型会不会失控]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 16:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8143199.html</guid>
+      <title>700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件</title>
+      <link>https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件]]&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>世界模型入口战：字节向左，京东向右</title>
-      <link>https://www.tmtpost.com/8143284.html</link>
-      <description>&lt;![CDATA[世界模型入口战：字节向左，京东向右]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8143284.html</guid>
+      <title>Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化</title>
+      <link>https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化]]&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>万亿市场背后，AI数据基础设施的竞赛已经开始</title>
-      <link>https://www.tmtpost.com/8143760.html</link>
-      <description>&lt;![CDATA[万亿市场背后，AI数据基础设施的竞赛已经开始]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 19:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8143760.html</guid>
+      <title>被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索</title>
+      <link>https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索]]&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 12:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI赢得了芯片，输不起一次停电</title>
-      <link>https://www.tmtpost.com/8143474.html</link>
-      <description>&lt;![CDATA[AI赢得了芯片，输不起一次停电]]&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8143474.html</guid>
+      <title>零样本干活！Figure 机器人走进 30 个陌生家庭，整理客厅、折毛巾、铺床</title>
+      <link>https://www.tmtpost.com/8144641.html</link>
+      <description>&lt;![CDATA[零样本干活！Figure 机器人走进 30 个陌生家庭，整理客厅、折毛巾、铺床]]&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8144641.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一位CIO的自我革命：AI三年，从内部重构到外部生长</title>
-      <link>https://www.tmtpost.com/8141973.html</link>
-      <description>&lt;![CDATA[一位CIO的自我革命：AI三年，从内部重构到外部生长]]&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8141973.html</guid>
+      <title>从谷歌到字节，每个大厂，终将拥有一家药厂</title>
+      <link>https://www.tmtpost.com/8144446.html</link>
+      <description>&lt;![CDATA[从谷歌到字节，每个大厂，终将拥有一家药厂]]&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 16:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8144446.html</guid>
       <category>Technology</category>
     </item>
   </channel>

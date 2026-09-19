@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f7f9b4a01d41a75777b7686d7dfc5b2a98a314332634a955e3810838120d54d5": {
-        "title": "对话前DeepMind曹原：AI for Science爆发，一个新时代到来了",
-        "link": "https://www.tmtpost.com/8107695.html",
-        "published_date": "Wed, 19 Aug 2026 11:41:00 GMT",
-        "first_seen": "2026-08-19T05:29:38.645936"
-      },
-      "bf76f0ebceb065fbcbe7a6aa72279d04749a0577043737b9b48f269ca48720fa": {
-        "title": "市值4449亿，人形机器人第一股来了！",
-        "link": "https://www.tmtpost.com/8108353.html",
-        "published_date": "Wed, 19 Aug 2026 11:11:00 GMT",
-        "first_seen": "2026-08-19T05:29:38.645945"
-      },
-      "54f5e191abdccb8549e750929a03a58c7fbebf5c706477fba2936d9202ab0dbf": {
-        "title": "当开源大模型开始谈分成",
-        "link": "https://www.tmtpost.com/8107377.html",
-        "published_date": "Wed, 19 Aug 2026 13:19:00 GMT",
-        "first_seen": "2026-08-19T05:29:38.645947"
-      },
-      "ab2c75af3391856b2e09c2421294ef138e5c7f8972920f1ecb8e8efc6a7dc375": {
-        "title": "AI能拆解动作，却拆不出那个\"咔哒一声\"：从泳池到企业软件，同一个真相",
-        "link": "https://www.tmtpost.com/8105748.html",
-        "published_date": "Wed, 19 Aug 2026 11:35:00 GMT",
-        "first_seen": "2026-08-19T05:29:38.645949"
-      },
-      "6a28baa8a42b342a6e214cee7bc992bfd5944ba68930fdcf1c8a5b89df823676": {
-        "title": "百度和小米，都到了换挡关口",
-        "link": "https://www.tmtpost.com/8108368.html",
-        "published_date": "Wed, 19 Aug 2026 10:52:00 GMT",
-        "first_seen": "2026-08-19T05:29:38.645951"
-      },
-      "072aee794b03c6796054e8ec931ca3de78fb12a0a6130add5e0b919a6f921e08": {
-        "title": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
-        "link": "http://www.geekpark.net/news/369051",
-        "published_date": "Wed, 19 Aug 2026 20:29:00 GMT",
-        "first_seen": "2026-08-19T23:21:03.833336"
-      },
-      "c773fa48df9cc372ca84b174a5b885a10942d43748044f74c06c6935f049642f": {
-        "title": "对话鹿明机器人创始人喻超：具身下半场，从造机器人转向造技能",
-        "link": "https://www.tmtpost.com/8109017.html",
-        "published_date": "Wed, 19 Aug 2026 18:36:00 GMT",
-        "first_seen": "2026-08-19T23:21:03.833348"
-      },
-      "f3b35362b0c5c8b819120283e00a57d72adfca72ec6563ddbf675728c17abf5c": {
-        "title": "告别“堆卡”：2026，中国算力开启“Token价值产出”大考",
-        "link": "https://www.tmtpost.com/8108840.html",
-        "published_date": "Wed, 19 Aug 2026 17:54:00 GMT",
-        "first_seen": "2026-08-19T23:21:03.833351"
-      },
-      "99e4540394e15c70426ce4b9d776835bebf9639eacc7868b1e004f33bcb80ef1": {
-        "title": "苹果牵手阿里、特斯拉绑定字节：全球AI下半场，中国坐庄了？",
-        "link": "https://www.tmtpost.com/8108375.html",
-        "published_date": "Wed, 19 Aug 2026 17:24:00 GMT",
-        "first_seen": "2026-08-19T23:21:03.833353"
-      },
-      "7cb9fabc952ee21e568e601da0b28ca21786e8fa1885fe8e3b86fdb95384911b": {
-        "title": "支付宝何以不再执念DAU",
-        "link": "https://www.tmtpost.com/8109230.html",
-        "published_date": "Wed, 19 Aug 2026 19:07:00 GMT",
-        "first_seen": "2026-08-19T23:21:03.833354"
-      },
       "f444514f86e2c211ad7e082f27ad6f202aaacd6d57cc19389a23ffa192e096d0": {
         "title": "从中文到小语种都能无痕修改，美图影像研究院（MT Lab）提出全新场景文本编辑方案 | ICML 2026",
         "link": "https://www.infoq.cn/article/PuaPuRIjd35ItQSVCOK1?utm_source=rss&utm_medium=article",
@@ -2011,69 +1951,39 @@
         "link": "https://www.tmtpost.com/8141973.html",
         "published_date": "Fri, 18 Sep 2026 08:00:00 GMT",
         "first_seen": "2026-09-18T01:01:27.767924"
+      },
+      "c6322328519e4ee643d869cd6cb0f7d8fd391462e8f7c3a35a05b4700eca3488": {
+        "title": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "link": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 18 Sep 2026 09:04:00 GMT",
+        "first_seen": "2026-09-19T00:57:26.974345"
+      },
+      "3c2002d02e7119452b1a5c6e00f2f6656eb1c59944e836ffb87da99a3c3ee163": {
+        "title": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "link": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 18 Sep 2026 17:00:00 GMT",
+        "first_seen": "2026-09-19T00:57:26.974353"
+      },
+      "36a73a14c168c2db701ba1b386f26778f1ba6459a0c3ece9d061ad0875f70e36": {
+        "title": "被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索",
+        "link": "https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 18 Sep 2026 12:35:00 GMT",
+        "first_seen": "2026-09-19T00:57:26.974356"
+      },
+      "8b512f8fb543e921fa31db4088775a611cf5e9b279ba292b094547e6cc9c4ffd": {
+        "title": "零样本干活！Figure 机器人走进 30 个陌生家庭，整理客厅、折毛巾、铺床",
+        "link": "https://www.tmtpost.com/8144641.html",
+        "published_date": "Fri, 18 Sep 2026 15:08:00 GMT",
+        "first_seen": "2026-09-19T00:57:26.974358"
+      },
+      "923633b9720e50f80c86544d3f59aa1bf1584a68c4d8aea7a1d7c0215bb9e7cc": {
+        "title": "从谷歌到字节，每个大厂，终将拥有一家药厂",
+        "link": "https://www.tmtpost.com/8144446.html",
+        "published_date": "Fri, 18 Sep 2026 16:05:00 GMT",
+        "first_seen": "2026-09-19T00:57:26.974360"
       }
     },
     "Finance": {
-      "19f346908fa11269fa2d4dc8cc1187e7c8c893d890f2685a99f990006f652db8": {
-        "title": "China eases limits on Nvidia H200 chips as AI race escalates",
-        "link": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
-        "published_date": "Wed, 19 Aug 2026 02:09:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.764015"
-      },
-      "a3fcf57ae083e36e4639c2bf6ece5f70b5781e6060a0aa18be82b4a700409c28": {
-        "title": "Global food security may be collateral in Ukraine war",
-        "link": "https://www.ft.com/content/a2e965ee-31be-40ad-ab13-75861b6df838",
-        "published_date": "Wed, 19 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.764022"
-      },
-      "5b8561276110b51d7873602e23a5fad659d2140747e0d463699f032ff6c0b155": {
-        "title": "Iran eyes military targets in Europe if Trump escalates war, insiders say",
-        "link": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1",
-        "published_date": "Wed, 19 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.764024"
-      },
-      "2cb6cbea9dbf201c816c5f456f341f9c822f48203e067dd1d7bc3abdb1ca0925": {
-        "title": "Venezuela abandons Nicolás Maduro to fate in US jail",
-        "link": "https://www.ft.com/content/51d68f38-df09-4f78-bb80-02a4b4684235",
-        "published_date": "Wed, 19 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.764025"
-      },
-      "b21b2ecea64721fbb0e1453cd1a462d620658f67fd288aebd7cb114f746a0b14": {
-        "title": "Trump says deal reached with Canada and pauses tariffs",
-        "link": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-        "published_date": "Wed, 19 Aug 2026 02:34:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.764027"
-      },
-      "631a591bd38690569f7b3a1cb1802aba6c56ca166477b76a74efc3dcd1e0dc1c": {
-        "title": "Fed officials express rising concern over persistently high inflation",
-        "link": "https://www.ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1",
-        "published_date": "Wed, 19 Aug 2026 18:31:00 GMT",
-        "first_seen": "2026-08-19T23:21:24.445778"
-      },
-      "658d3b0241cb75428bfd45c47382db20d59ab95aa5e582dae48540e807b4b748": {
-        "title": "US Treasury to boost long-term bond purchases in bid to steady market",
-        "link": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
-        "published_date": "Wed, 19 Aug 2026 18:02:00 GMT",
-        "first_seen": "2026-08-19T23:21:24.445784"
-      },
-      "b3e1528af317bba8b8e6166869f32ea89d304660cf77fdb7fd87b6d2732f78c4": {
-        "title": "Why the Treasury market’s newfound calm could break down in September",
-        "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
-        "published_date": "Wed, 19 Aug 2026 21:10:00 GMT",
-        "first_seen": "2026-08-19T23:21:24.445786"
-      },
-      "b50052d5243d7f6206aefeaa63dd28750e4d40d59957293e0561b5219919aecd": {
-        "title": "The national debt just hit $40 trillion. Here’s how it can hurt Americans.",
-        "link": "https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories",
-        "published_date": "Wed, 19 Aug 2026 20:36:00 GMT",
-        "first_seen": "2026-08-19T23:21:24.445788"
-      },
-      "2e94bbf2df0604476bc7bdcec82a0def159c295436d0a5bc59f543d27b8c31ac": {
-        "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
-        "link": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
-        "published_date": "Wed, 19 Aug 2026 21:44:00 GMT",
-        "first_seen": "2026-08-19T23:21:24.445790"
-      },
       "b5895eb6fc0b1fd62e1f9b41a0ec8420dce366c4c27b7d6248ab6e6eea663a11": {
         "title": "The slow sucking sound of AI",
         "link": "https://www.ft.com/content/6181c22c-731a-4044-9720-fc4e0d500403?syn-25a6b1a6=1",
@@ -3873,51 +3783,39 @@
         "link": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
         "published_date": "Thu, 17 Sep 2026 22:22:00 GMT",
         "first_seen": "2026-09-18T01:01:47.551587"
+      },
+      "f3f8ad6895e66a54569f2e19dbe503d5180276412dbb08e27f9408ca90ade2f7": {
+        "title": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO",
+        "link": "https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1",
+        "published_date": "Fri, 18 Sep 2026 03:04:00 GMT",
+        "first_seen": "2026-09-19T00:58:01.965243"
+      },
+      "d23dbbd9e95575a344d881ab7d6e744a1e8f4936e7ab0d605af0ab46796d4926": {
+        "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
+        "link": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
+        "published_date": "Fri, 18 Sep 2026 14:12:00 GMT",
+        "first_seen": "2026-09-19T00:58:01.965250"
+      },
+      "d2605b6917d89d15ecc9409e7c1cd4dede33a9c5426a317029e8fe59ff0decbe": {
+        "title": "OpenAI expects to burn $280bn by 2030",
+        "link": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
+        "published_date": "Fri, 18 Sep 2026 22:33:00 GMT",
+        "first_seen": "2026-09-19T00:58:01.965253"
+      },
+      "cf709558017cccee73091a681c24c37434e69f1e4d6493c52e9914927dfaaf1d": {
+        "title": "Ex-Apollo executive admits to improperly using company documents",
+        "link": "https://www.ft.com/content/c57e73d1-547d-4f69-addb-6516845fbe6d?syn-25a6b1a6=1",
+        "published_date": "Fri, 18 Sep 2026 19:18:00 GMT",
+        "first_seen": "2026-09-19T00:58:01.965255"
+      },
+      "6425587d2ed74e2d3c9562115d3315d87f2a3798b0af851f40303126b6ad3751": {
+        "title": "Oracle’s $18bn data centre debt under strain amid local pushback",
+        "link": "https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127?syn-25a6b1a6=1",
+        "published_date": "Fri, 18 Sep 2026 20:48:00 GMT",
+        "first_seen": "2026-09-19T00:58:01.965257"
       }
     },
     "Ai": {
-      "1036ebf668e0c3ca438a7989216382d53e53517c0db0f1223aa626aebd558bcf": {
-        "title": "2026-08-19日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-19/",
-        "published_date": "Wed, 19 Aug 2026 10:54:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.904472"
-      },
-      "77616645bb4e04c8ce0a7e06df469fe632f2089c677843b471bb8558803a8c18": {
-        "title": "郭富城换车，30万级顶配华为全家桶",
-        "link": "https://www.qbitai.com/2026/08/475009.html",
-        "published_date": "Wed, 19 Aug 2026 00:59:00 GMT",
-        "first_seen": "2026-08-19T05:29:50.904480"
-      },
-      "266c1740b76385006b3000e9a0c163832c2dd6d1f59d25da2998cbcc33baeb5e": {
-        "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-        "link": "https://www.qbitai.com/2026/08/475477.html",
-        "published_date": "Wed, 19 Aug 2026 07:42:00 GMT",
-        "first_seen": "2026-08-19T23:21:52.874824"
-      },
-      "c9570e6698f71b9fb8e9267a0842cdf9d76f1fecfae61d5568f78f763a67dabe": {
-        "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
-        "link": "https://www.qbitai.com/2026/08/475332.html",
-        "published_date": "Wed, 19 Aug 2026 06:29:00 GMT",
-        "first_seen": "2026-08-19T23:21:52.874831"
-      },
-      "2f100f7e04bb016894b180db10be7a6b31168639a50b7665128b52b6db8fdc3c": {
-        "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-        "link": "https://www.qbitai.com/2026/08/475931.html",
-        "published_date": "Wed, 19 Aug 2026 10:54:00 GMT",
-        "first_seen": "2026-08-19T23:21:52.874833"
-      },
-      "9f576012d0270217b43cb42b6958a975132cfdb0928547b1339f1e24737b7ea9": {
-        "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
-        "link": "https://www.qbitai.com/2026/08/475476.html",
-        "published_date": "Wed, 19 Aug 2026 07:22:00 GMT",
-        "first_seen": "2026-08-19T23:21:52.874834"
-      },
-      "c4a3bc5b9974f6267595ab8b90096b8a6934ba2d72500c0bbe717cac7eb705ec": {
-        "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-        "link": "https://www.qbitai.com/2026/08/475907.html",
-        "published_date": "Wed, 19 Aug 2026 10:12:00 GMT",
-        "first_seen": "2026-08-19T23:21:52.874836"
-      },
       "8a0f90f3af2ffc34be99b0077d66df476b65b4bbde831098e69dd73421ed770a": {
         "title": "2026-08-20日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-20/",
@@ -5057,13 +4955,43 @@
         "link": "https://www.qbitai.com/2026/09/491596.html",
         "published_date": "Thu, 17 Sep 2026 11:56:00 GMT",
         "first_seen": "2026-09-18T01:01:27.903934"
+      },
+      "75abc5ef94e562b9fafe5e44c45f4d0a1d2946d134a83fb9389a6b3a6c3fa98f": {
+        "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+        "link": "https://www.qbitai.com/2026/09/491875.html",
+        "published_date": "Fri, 18 Sep 2026 06:11:00 GMT",
+        "first_seen": "2026-09-19T00:57:43.969973"
+      },
+      "f3f2980d4e77e264409a68571b2f422838d2d6ff126a083d21f1d8186c20d03d": {
+        "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+        "link": "https://www.qbitai.com/2026/09/492238.html",
+        "published_date": "Fri, 18 Sep 2026 13:16:00 GMT",
+        "first_seen": "2026-09-19T00:57:43.969979"
+      },
+      "cd6b4f0a403ff70fa5fbd67210f734d7d1e8282dc1a740181969fffc2699976f": {
+        "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+        "link": "https://www.qbitai.com/2026/09/492426.html",
+        "published_date": "Fri, 18 Sep 2026 15:58:00 GMT",
+        "first_seen": "2026-09-19T00:57:43.969982"
+      },
+      "cbf5acd8bbf1314f0804ba884ee205508e93487080b08c1fd62239110f9ec191": {
+        "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+        "link": "https://www.qbitai.com/2026/09/492175.html",
+        "published_date": "Fri, 18 Sep 2026 12:22:00 GMT",
+        "first_seen": "2026-09-19T00:57:43.969983"
+      },
+      "5cb010d9a27ef3f291e32412bee055a3f2d6cf082c734ff70133584ad570927f": {
+        "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+        "link": "https://www.qbitai.com/2026/09/492421.html",
+        "published_date": "Fri, 18 Sep 2026 15:50:00 GMT",
+        "first_seen": "2026-09-19T00:57:43.969985"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-18T01:01:27.767926",
-    "Finance": "2026-09-18T01:01:47.551588",
-    "Ai": "2026-09-18T01:01:27.903937"
+    "Technology": "2026-09-19T00:57:26.974362",
+    "Finance": "2026-09-19T00:58:01.965258",
+    "Ai": "2026-09-19T00:57:43.969988"
   }
 }
