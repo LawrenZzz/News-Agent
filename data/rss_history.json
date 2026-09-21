@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f06d15e344ddadbc916c3e0ab1245f3da2f6f33c112f0590493810a3300463ad": {
-        "title": "Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？",
-        "link": "https://www.tmtpost.com/8111837.html",
-        "published_date": "Fri, 21 Aug 2026 18:12:00 GMT",
-        "first_seen": "2026-08-21T23:21:15.029941"
-      },
-      "e477b388ac9efa127c1d64d39bd5ee859fdfa1ffde6c85ff7ad04ffcc5a695c3": {
-        "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
-        "link": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 21 Aug 2026 17:00:00 GMT",
-        "first_seen": "2026-08-21T23:21:15.029951"
-      },
-      "14246b235136241941bf647b070ef63c1740371df44410794f01822836eb85b9": {
-        "title": "宇树4449亿封神：人形机器人的时代，正式开盘",
-        "link": "https://www.tmtpost.com/8110854.html",
-        "published_date": "Fri, 21 Aug 2026 10:10:00 GMT",
-        "first_seen": "2026-08-21T23:21:15.029954"
-      },
-      "67b4d563a40742e77d91bef7f04f7166d4f3177547feda1ea739434e5630485f": {
-        "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
-        "link": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 21 Aug 2026 14:25:00 GMT",
-        "first_seen": "2026-08-21T23:21:15.029956"
-      },
-      "d34c264f9029456cc0d7e2cf66ea94d1e3bf1d07d7ce4ac3afab484ae067eab8": {
-        "title": "具身机器人的万亿狂欢，在等待工厂的一张复购单",
-        "link": "https://www.tmtpost.com/8111584.html",
-        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
-        "first_seen": "2026-08-21T23:21:15.029958"
-      },
       "00aa6292496c67e8900179016b8618fe20bb66da1b2ae89f62d87ee408b8a134": {
         "title": "微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车",
         "link": "http://www.geekpark.net/news/369206",
@@ -1921,39 +1891,39 @@
         "link": "https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 20 Sep 2026 15:46:00 GMT",
         "first_seen": "2026-09-20T09:37:43.514384"
+      },
+      "a888190cac645212d2d2a3c4dc0272b568f4a87ff6b75193a53ea8eaab0a47d0": {
+        "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
+        "link": "https://sspai.com/post/114788",
+        "published_date": "Mon, 21 Sep 2026 06:26:00 GMT",
+        "first_seen": "2026-09-21T00:49:30.965725"
+      },
+      "353a6073d202f030cda8fe25b15efebbdf7b5b0ed98e911fdc901a86b4c6b0f8": {
+        "title": "蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途｜钛媒体研究",
+        "link": "https://www.tmtpost.com/8146274.html",
+        "published_date": "Mon, 21 Sep 2026 08:00:00 GMT",
+        "first_seen": "2026-09-21T00:49:30.965736"
+      },
+      "63126398a3fea4b2fd0cc8a916eb96a53cefa057a6a851e2b38184dfc0dbfc4b": {
+        "title": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "link": "https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 20 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-21T00:49:30.965739"
+      },
+      "78462b811b599a7260b65a4df8febc1ed26f8227236abbf2b8f67d4c16ee4e4e": {
+        "title": "120万美元的“数字领土”：全球科技巨头疯抢“.ai”域名",
+        "link": "https://www.tmtpost.com/8146342.html",
+        "published_date": "Mon, 21 Sep 2026 08:35:00 GMT",
+        "first_seen": "2026-09-21T00:49:30.965741"
+      },
+      "60e6bb0a4811269be93754d8e86a647e4793f7948806e3e30725bf269e6ae278": {
+        "title": "Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩",
+        "link": "https://www.tmtpost.com/8145908.html",
+        "published_date": "Sun, 20 Sep 2026 18:25:00 GMT",
+        "first_seen": "2026-09-21T00:49:30.965743"
       }
     },
     "Finance": {
-      "f784bb1bef464876490b151cbc0c5820a522e811c9be49ef98678bb39b63d2f1": {
-        "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
-        "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
-        "published_date": "Fri, 21 Aug 2026 20:11:00 GMT",
-        "first_seen": "2026-08-21T23:21:32.920537"
-      },
-      "7066f0f08d38eb9ab6cc2882055d9676b780216bf3d2e7c227ee50fb2e4dbce4": {
-        "title": "The bond scare and the balance of power",
-        "link": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
-        "published_date": "Fri, 21 Aug 2026 14:10:00 GMT",
-        "first_seen": "2026-08-21T23:21:32.920543"
-      },
-      "a1192f25838550ea36c0d0940c6e877dfad0927d6f00e8dcfb8b74e4e17be250": {
-        "title": "Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar",
-        "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
-        "published_date": "Fri, 21 Aug 2026 21:46:00 GMT",
-        "first_seen": "2026-08-21T23:21:32.920546"
-      },
-      "10bf2ced1c2c78960566d2b7830330e29ebd1274573b19ae6f7f691012fedcee": {
-        "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
-        "link": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
-        "published_date": "Fri, 21 Aug 2026 18:29:00 GMT",
-        "first_seen": "2026-08-21T23:21:32.920548"
-      },
-      "4cfede5c9e275858237f7107716e43236af597c9dcc1e9eb31dac7a8c959ea5d": {
-        "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
-        "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-        "published_date": "Fri, 21 Aug 2026 22:27:00 GMT",
-        "first_seen": "2026-08-21T23:21:32.920549"
-      },
       "48d40bcd0df314e77683d3251d3d0995b0d7c79d4fb94d2752044cd3429c162f": {
         "title": "Canada vows to match US tariffs as trade talks collapse",
         "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
@@ -3735,39 +3705,39 @@
         "link": "https://www.ft.com/content/0ecc81ad-2119-4763-90fb-ba5d399d913d",
         "published_date": "Sun, 20 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-20T09:37:52.689386"
+      },
+      "504474d1b599580f11b2a7597f32b60ea74e04c7a73237729809c01165b3dd98": {
+        "title": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
+        "link": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
+        "published_date": "Sun, 20 Sep 2026 15:00:00 GMT",
+        "first_seen": "2026-09-21T00:49:45.763389"
+      },
+      "d6ad7d3c6ad7f49cf90907cfa540dc9d3964e2dbbe10b9210c574d9a52fdf39f": {
+        "title": "Record diesel prices are exposing pain points in the stock market and economy",
+        "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+        "published_date": "Sun, 20 Sep 2026 13:00:00 GMT",
+        "first_seen": "2026-09-21T00:49:45.763395"
+      },
+      "3e8c13e3ce3ce10f6aa644624d9fd3794893ab45be8342c2a108247ae451a543": {
+        "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
+        "link": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
+        "published_date": "Sun, 20 Sep 2026 12:31:00 GMT",
+        "first_seen": "2026-09-21T00:49:45.763397"
+      },
+      "911ef84c17d7d7fe44999c0f75c720017dac8c461766332508f32ace45b7c379": {
+        "title": "Trump’s regulatory rollback puts $400mn in US audit fees at risk",
+        "link": "https://www.ft.com/content/b455ab48-76ef-4fd4-9137-1f666344ab45?syn-25a6b1a6=1",
+        "published_date": "Sun, 20 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-21T00:49:45.763399"
+      },
+      "da1da764be76801cc22d11d4e6402184e540a5f7060db35d762d8bd4b4af242f": {
+        "title": "Lula, Costa, Ruto and Carney: Multilateralism is not idealism, it is a necessity",
+        "link": "https://www.ft.com/content/d9e6c07e-7d84-4e41-a9a2-0d0ac2319dd2",
+        "published_date": "Sun, 20 Sep 2026 17:00:00 GMT",
+        "first_seen": "2026-09-21T00:49:45.763401"
       }
     },
     "Ai": {
-      "44dbc6e138f6896e9de9a8113bd65d70ae427d2e935abcc06f89339a6d4135e1": {
-        "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-        "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-        "published_date": "Fri, 21 Aug 2026 17:02:00 GMT",
-        "first_seen": "2026-08-21T23:21:33.049928"
-      },
-      "a580917d164c8aed670f3ae155b6d3c94bba6f697276a1850cadf5a2c829ce0a": {
-        "title": "How mobility gives language models a deeper understanding of place",
-        "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-        "published_date": "Fri, 21 Aug 2026 10:54:00 GMT",
-        "first_seen": "2026-08-21T23:21:33.049935"
-      },
-      "5309160ae25803ef587d26c1d1a2c61ea9fbe96bf32bc68a7308c152f40cddd3": {
-        "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-        "link": "https://www.qbitai.com/2026/08/476778.html",
-        "published_date": "Fri, 21 Aug 2026 11:47:00 GMT",
-        "first_seen": "2026-08-21T23:21:33.049937"
-      },
-      "47eb67ce63e9e01778548ecd34dad821fc1ee05d88f39981b29f1b682ff2823a": {
-        "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-        "link": "https://www.qbitai.com/2026/08/476733.html",
-        "published_date": "Fri, 21 Aug 2026 09:44:00 GMT",
-        "first_seen": "2026-08-21T23:21:33.049939"
-      },
-      "21176a46ffbd3e4c4d894c3d310c4a3441d50c69f3206827859b2b59a61fe06f": {
-        "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-        "link": "https://www.qbitai.com/2026/08/476628.html",
-        "published_date": "Fri, 21 Aug 2026 09:00:00 GMT",
-        "first_seen": "2026-08-21T23:21:33.049940"
-      },
       "f09da51be822d4e73de68a2b8ca927e6db9b3721e4502372dc1ebff4335a4a2e": {
         "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
         "link": "https://www.qbitai.com/2026/08/477094.html",
@@ -4907,13 +4877,31 @@
         "link": "https://hex2077.dev/docs/2026-09/2026-09-20/",
         "published_date": "Sun, 20 Sep 2026 03:04:00 GMT",
         "first_seen": "2026-09-20T09:37:43.664371"
+      },
+      "452bbe4b95c47cb0eda1934f9b0141920d3fd1decae910454652793adf62c779": {
+        "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+        "link": "https://www.qbitai.com/2026/09/492973.html",
+        "published_date": "Sun, 20 Sep 2026 14:30:00 GMT",
+        "first_seen": "2026-09-21T00:49:31.117718"
+      },
+      "84fcbd7c5c7ca3bdb6a641be61ffd34f3cccbf733701c9facc725b09ad022ae9": {
+        "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+        "link": "https://www.qbitai.com/2026/09/493068.html",
+        "published_date": "Sun, 20 Sep 2026 14:23:00 GMT",
+        "first_seen": "2026-09-21T00:49:31.117725"
+      },
+      "019d92bcd9e8c8f6c8873f94b877294f1a0436d75686ddc549229f5ac51977a2": {
+        "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+        "link": "https://www.qbitai.com/2026/09/492946.html",
+        "published_date": "Sun, 20 Sep 2026 12:22:00 GMT",
+        "first_seen": "2026-09-21T00:49:31.117727"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-20T09:37:43.514386",
-    "Finance": "2026-09-20T09:37:52.689388",
-    "Ai": "2026-09-20T09:37:43.664373"
+    "Technology": "2026-09-21T00:49:30.965745",
+    "Finance": "2026-09-21T00:49:45.763402",
+    "Ai": "2026-09-21T00:49:31.117730"
   }
 }

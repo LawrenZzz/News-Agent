@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 20 Sep 2026 09:37:00 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 09:37:43 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 00:48:00 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:49:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”</title>
-      <link>https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 09:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃</title>
+      <link>https://sspai.com/post/114788</link>
+      <description>&lt;![CDATA[派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/114788</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话徐直军：被低估的灵衢，重新理解AI算力</title>
-      <link>https://www.tmtpost.com/8146244.html</link>
-      <description>&lt;![CDATA[对话徐直军：被低估的灵衢，重新理解AI算力]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8146244.html</guid>
+      <title>蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途｜钛媒体研究</title>
+      <link>https://www.tmtpost.com/8146274.html</link>
+      <description>&lt;![CDATA[蜂助手76亿算力大单追踪：巨额预付款缺口与中间商的重资产险途｜钛媒体研究]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8146274.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话阿里云王朝阳：中国不缺电，AI卡在电与算力的协同</title>
-      <link>https://www.tmtpost.com/8146043.html</link>
-      <description>&lt;![CDATA[对话阿里云王朝阳：中国不缺电，AI卡在电与算力的协同]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 11:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8146043.html</guid>
+      <title>AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海</title>
+      <link>https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China’s Tech Giants Race to Own the AI Office Agent as Work Itself Becomes the Battlefield</title>
-      <link>https://www.tmtpost.com/8146181.html</link>
-      <description>&lt;![CDATA[China’s Tech Giants Race to Own the AI Office Agent as Work Itself Becomes the Battlefield]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 13:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8146181.html</guid>
+      <title>120万美元的“数字领土”：全球科技巨头疯抢“.ai”域名</title>
+      <link>https://www.tmtpost.com/8146342.html</link>
+      <description>&lt;![CDATA[120万美元的“数字领土”：全球科技巨头疯抢“.ai”域名]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 08:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8146342.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>微软开源 TauGrid，简化 Kubernetes AI 工作负载管理</title>
-      <link>https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[微软开源 TauGrid，简化 Kubernetes AI 工作负载管理]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 15:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩</title>
+      <link>https://www.tmtpost.com/8145908.html</link>
+      <description>&lt;![CDATA[Opus 5.2 与 Gemini 4 Pro 未经官宣已上线，前沿模型的发布流程正在被压缩]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 18:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8145908.html</guid>
       <category>Technology</category>
     </item>
   </channel>
