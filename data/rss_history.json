@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "00aa6292496c67e8900179016b8618fe20bb66da1b2ae89f62d87ee408b8a134": {
-        "title": "微信灰测「按住转文字」功能被吐槽；DeepSeek 上线多模态功能；应急机械拉手难操作，多家车企召回 427 万辆车",
-        "link": "http://www.geekpark.net/news/369206",
-        "published_date": "Sat, 22 Aug 2026 08:23:00 GMT",
-        "first_seen": "2026-08-22T05:24:36.409311"
-      },
-      "b5841ccfaeb9d00cccf90facce2d91b77b92ce052672d8352e68fac6771a64b7": {
-        "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
-        "link": "https://www.tmtpost.com/8112064.html",
-        "published_date": "Sat, 22 Aug 2026 10:11:00 GMT",
-        "first_seen": "2026-08-22T05:24:36.409320"
-      },
-      "44475cb9265dcadf0f3b0297194ea4f9a01e563ff8341507ab6ab17195843b15": {
-        "title": "国产存储开始补齐最后一块缺口",
-        "link": "https://www.tmtpost.com/8112231.html",
-        "published_date": "Sat, 22 Aug 2026 09:42:00 GMT",
-        "first_seen": "2026-08-22T05:24:36.409323"
-      },
-      "5dd315fa467945e87f2aad79723a93d656647fb6de57ee887a598c696d627c3a": {
-        "title": "阿里接力赛：淘天见顶，外卖降权，算力狂飙，AI赌未来",
-        "link": "https://www.tmtpost.com/8112056.html",
-        "published_date": "Sat, 22 Aug 2026 10:04:00 GMT",
-        "first_seen": "2026-08-22T05:24:36.409325"
-      },
-      "d251532f593f58086b65b04255446915a9c402a2d74a6b513142baecb2bffe92": {
-        "title": "npm 终于动手了：默认封杀 postinstall 脚本",
-        "link": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 22 Aug 2026 11:05:00 GMT",
-        "first_seen": "2026-08-22T05:24:36.409327"
-      },
-      "59b20ea5efed4be08d9d3a3993ae3be878dfd1e994049ee819b29485ebfe122b": {
-        "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-        "link": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 22 Aug 2026 15:15:00 GMT",
-        "first_seen": "2026-08-22T08:27:32.338177"
-      },
-      "c8da0dd7bcb964c8025ba476e8dd49f26779ea6c5f32bd3f806bedc71c001d7f": {
-        "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
-        "link": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 22 Aug 2026 09:05:00 GMT",
-        "first_seen": "2026-08-22T08:27:32.338186"
-      },
-      "542d4bcde01dd871fdc99fbc5e371ea93f52f0ab4552f800e5531359feedab7e": {
-        "title": "WRC2026深度观察：机器人行业，正在去表演化、去差异化",
-        "link": "https://www.tmtpost.com/8112444.html",
-        "published_date": "Sat, 22 Aug 2026 10:11:00 GMT",
-        "first_seen": "2026-08-22T08:27:32.338189"
-      },
-      "b9868f7d3b6cdd54b767bc950f6493b494ea3079a5b050fdf33ab6ec38dbfc3f": {
-        "title": "与AI同游，从2026 ChinaJoy看AI游戏新趋势",
-        "link": "https://www.tmtpost.com/8112375.html",
-        "published_date": "Sat, 22 Aug 2026 10:04:00 GMT",
-        "first_seen": "2026-08-22T08:27:32.338191"
-      },
-      "4d0e50c3970d86b9ac5657753c4ccb36dd71cdd32c3fd2bc1d15b2c675a6b65d": {
-        "title": "AI算力紧缺时代，大学生买不起电脑了",
-        "link": "https://www.tmtpost.com/8112433.html",
-        "published_date": "Sat, 22 Aug 2026 10:10:00 GMT",
-        "first_seen": "2026-08-22T08:27:32.338193"
-      },
       "64f90d99745f525851ee8f1f6db7b9c2158e4b27e4fcab69a670732026e332bd": {
         "title": "3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？",
         "link": "https://www.tmtpost.com/8112363.html",
@@ -1921,39 +1861,39 @@
         "link": "https://www.tmtpost.com/8145908.html",
         "published_date": "Sun, 20 Sep 2026 18:25:00 GMT",
         "first_seen": "2026-09-21T00:49:30.965743"
+      },
+      "44c6b2330ca4c48dfbeea3057c78bebd73334c2264f3e780d181c263f76da666": {
+        "title": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "link": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 17:07:00 GMT",
+        "first_seen": "2026-09-21T10:24:05.592668"
+      },
+      "1d59296b82ed103f327db427f2581b5d638c5cf161aa2bc4d85e3dbb27a58e3b": {
+        "title": "黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+        "link": "https://www.infoq.cn/article/xlQFjzl2mGPSYJq1RDod?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 15:45:00 GMT",
+        "first_seen": "2026-09-21T10:24:05.592679"
+      },
+      "f21fc98356060e5c7c62cdd27bfcd28449d2b297ad3a060985a058d1a3dd1830": {
+        "title": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "link": "https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:21:00 GMT",
+        "first_seen": "2026-09-21T10:24:05.592681"
+      },
+      "59da8be799d03b84f5da00e938749aeed447daeac47cca24c6762aa857c1c8ae": {
+        "title": "70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”",
+        "link": "https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:15:00 GMT",
+        "first_seen": "2026-09-21T10:24:05.592683"
+      },
+      "0e7cdd31fe384b7c542dec0c9e71584a88d448cbac010914372e1789380fe320": {
+        "title": "【钛晨报】分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产",
+        "link": "https://www.tmtpost.com/8146468.html",
+        "published_date": "Mon, 21 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-21T10:24:05.592685"
       }
     },
     "Finance": {
-      "48d40bcd0df314e77683d3251d3d0995b0d7c79d4fb94d2752044cd3429c162f": {
-        "title": "Canada vows to match US tariffs as trade talks collapse",
-        "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
-        "published_date": "Sat, 22 Aug 2026 04:51:00 GMT",
-        "first_seen": "2026-08-22T05:24:46.418954"
-      },
-      "cc8a31c809c76403cc588b2cb12f6728f8e7ff9152df924a416605c8f8dbfc60": {
-        "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel",
-        "link": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
-        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-22T05:24:46.418961"
-      },
-      "c98ee51d951eb6ff4cc145b66ba9bacfbb150796ddf2f2e2df2ccd0ca6d22d42": {
-        "title": "Bossing the bond market around never works",
-        "link": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
-        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-22T05:24:46.418964"
-      },
-      "63a18121c73236a4953c10c2ba4315572bdbbc5ad102fff8dfd1e6aeb8d67e36": {
-        "title": "EU slips further behind US in race for critical minerals",
-        "link": "https://www.ft.com/content/c6220205-ee40-4b71-95c0-d53399a17cd1?syn-25a6b1a6=1",
-        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-22T05:24:46.418966"
-      },
-      "595d5849b5111ec25ba40b396882fba327b2ad5ab88d33ddaea83b184c3f0138": {
-        "title": "Qatar cuts state spending at home and abroad as war shrinks economy",
-        "link": "https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1",
-        "published_date": "Sat, 22 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-22T05:24:46.418968"
-      },
       "c9125e60b8bc2ee8980d77b744e552202c8d37df86849ae5659880992158c8a1": {
         "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
         "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
@@ -3735,6 +3675,36 @@
         "link": "https://www.ft.com/content/d9e6c07e-7d84-4e41-a9a2-0d0ac2319dd2",
         "published_date": "Sun, 20 Sep 2026 17:00:00 GMT",
         "first_seen": "2026-09-21T00:49:45.763401"
+      },
+      "f6122b936983cde86830f679386aadfa4baa91715e8ae1b7716b65d10dbba335": {
+        "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
+        "link": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:24:33.668034"
+      },
+      "b7402ddccaef063928da4b3d5ed4e1f862b56e05788139203267b1693b601f59": {
+        "title": "Lex in depth: the challenging maths of Anthropic’s IPO",
+        "link": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:24:33.668041"
+      },
+      "13c83ab361c463346640bb68ff4143a2b3f2b4a574e6f15a3684418c4ddb02a7": {
+        "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
+        "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 10:13:00 GMT",
+        "first_seen": "2026-09-21T10:24:33.668043"
+      },
+      "f0bc8f2d0b195c91311734812bd0aef1c2ce43eeb05e9f825d23fa217e11bc73": {
+        "title": "Why the world’s hottest stock market is a national liability",
+        "link": "https://www.ft.com/content/6f0ceb7d-597d-4c83-ac8b-0fe7c8bd74f9?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:24:33.668044"
+      },
+      "b4eb285c26dcdbb870ecf928158af1145138475496ba9ce76af0c78734051846": {
+        "title": "Western companies lag China in sodium battery race",
+        "link": "https://www.ft.com/content/0e4814df-e102-4874-97d6-f2b0ffaeda6a?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-21T10:24:33.668046"
       }
     },
     "Ai": {
@@ -4895,13 +4865,43 @@
         "link": "https://www.qbitai.com/2026/09/492946.html",
         "published_date": "Sun, 20 Sep 2026 12:22:00 GMT",
         "first_seen": "2026-09-21T00:49:31.117727"
+      },
+      "b21d76d880571337019d0d5aa35446ed1b85d0bf601b0fdc1c5630883e693c99": {
+        "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+        "link": "https://www.qbitai.com/2026/09/493218.html",
+        "published_date": "Mon, 21 Sep 2026 06:22:00 GMT",
+        "first_seen": "2026-09-21T10:24:18.320603"
+      },
+      "b93826262bc5e58cbf39bfe21b6b30afa0d95a7aa6ebfa844c459611c0745ebe": {
+        "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+        "link": "https://www.qbitai.com/2026/09/493114.html",
+        "published_date": "Mon, 21 Sep 2026 02:28:00 GMT",
+        "first_seen": "2026-09-21T10:24:18.320609"
+      },
+      "a7ccbd50e711df984cdf8ea3d24305d5984103badb7d5dba7b6ee241aa71cb5e": {
+        "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+        "link": "https://www.qbitai.com/2026/09/493231.html",
+        "published_date": "Mon, 21 Sep 2026 07:31:00 GMT",
+        "first_seen": "2026-09-21T10:24:18.320611"
+      },
+      "d0b9ed18e65d7bd45029cadb717bdcd6ec06efc988029ba31f0afaf5d7a50440": {
+        "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+        "link": "https://www.qbitai.com/2026/09/493109.html",
+        "published_date": "Mon, 21 Sep 2026 02:17:00 GMT",
+        "first_seen": "2026-09-21T10:24:18.320613"
+      },
+      "d148ae2d65eb58515777488cc34da5c732cdfa349f6ae59a17a43280b4c5831c": {
+        "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+        "link": "https://www.qbitai.com/2026/09/493091.html",
+        "published_date": "Mon, 21 Sep 2026 01:48:00 GMT",
+        "first_seen": "2026-09-21T10:24:18.320615"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-21T00:49:30.965745",
-    "Finance": "2026-09-21T00:49:45.763402",
-    "Ai": "2026-09-21T00:49:31.117730"
+    "Technology": "2026-09-21T10:24:05.592687",
+    "Finance": "2026-09-21T10:24:33.668048",
+    "Ai": "2026-09-21T10:24:18.320617"
   }
 }
