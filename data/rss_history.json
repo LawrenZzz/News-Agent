@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "64f90d99745f525851ee8f1f6db7b9c2158e4b27e4fcab69a670732026e332bd": {
-        "title": "3万亿美元隐形债务浮出水面：“AI基建潮”会引发下一场次贷危机吗？",
-        "link": "https://www.tmtpost.com/8112363.html",
-        "published_date": "Sat, 22 Aug 2026 18:26:00 GMT",
-        "first_seen": "2026-08-22T23:23:00.128220"
-      },
-      "4ad4b0f1b1cebf2c8b6346254f9c8052b8a306e3452bc6ddaeb753e9e4af55a6": {
-        "title": "【数智周报】阿里再调业务架构：电商合并、云芯片整合、千问分拆为独立子公司；宇树科技登陆科创板；传Anthropic年化营收突破650亿美元……",
-        "link": "https://www.tmtpost.com/8112858.html",
-        "published_date": "Sat, 22 Aug 2026 16:22:00 GMT",
-        "first_seen": "2026-08-22T23:23:00.128228"
-      },
-      "6a6ca520efa3a18eea2d6e94b5205f89f5556e55c68f72f8d84d5d1fd6578067": {
-        "title": "王坚的“遗产”，为阿里留出后路",
-        "link": "https://www.tmtpost.com/8112848.html",
-        "published_date": "Sat, 22 Aug 2026 18:27:00 GMT",
-        "first_seen": "2026-08-22T23:23:00.128231"
-      },
-      "9f9e518f6eab95e577425dddafc156bd6ba5b7a717f6a308a2280cddcdadf379": {
-        "title": "探展2026WRC：具身智能正开启一场PMF长跑",
-        "link": "https://www.tmtpost.com/8112679.html",
-        "published_date": "Sat, 22 Aug 2026 17:58:00 GMT",
-        "first_seen": "2026-08-22T23:23:00.128234"
-      },
-      "7b3b779ec6fa98dc28b79c915dddd879872ba2df59c99bdb31cfdf0e01ca7e70": {
-        "title": "更强的GLM-5.3，为什么没有刷屏？",
-        "link": "https://www.tmtpost.com/8112832.html",
-        "published_date": "Sat, 22 Aug 2026 18:14:00 GMT",
-        "first_seen": "2026-08-22T23:23:00.128235"
-      },
       "71542f7d0176791d11df877279b1abcb721cb49a7d7a37c307cbcdac329db6e3": {
         "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
         "link": "https://www.tmtpost.com/8113119.html",
@@ -1891,39 +1861,39 @@
         "link": "https://www.tmtpost.com/8146468.html",
         "published_date": "Mon, 21 Sep 2026 07:20:00 GMT",
         "first_seen": "2026-09-21T10:24:05.592685"
+      },
+      "ebcac3531a9129b9626c69e1e2ba00dc5d7e1eaab61e9a98be44ed6cce9da282": {
+        "title": "Gemini\"越狱\"入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里",
+        "link": "https://www.tmtpost.com/8147131.html",
+        "published_date": "Mon, 21 Sep 2026 18:02:00 GMT",
+        "first_seen": "2026-09-22T01:27:10.949165"
+      },
+      "1b8ccf9a1a28412ff32d1d7adf42718755abd00ee74074b963c69be37fa3a8b6": {
+        "title": "Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化",
+        "link": "http://www.geekpark.net/news/370607",
+        "published_date": "Mon, 21 Sep 2026 11:57:00 GMT",
+        "first_seen": "2026-09-22T01:27:10.949175"
+      },
+      "fa7cedee8258c9819b143d5eb26690fa88cbec65b54c602ae390baadae01df71": {
+        "title": "OpenAI自曝6起事故：AI安全的第一份\"审计报告\"由谁签字？",
+        "link": "https://www.tmtpost.com/8147676.html",
+        "published_date": "Mon, 21 Sep 2026 18:11:00 GMT",
+        "first_seen": "2026-09-22T01:27:10.949177"
+      },
+      "5e4858cd7d7a20c828f1839fdb04bd1664f0cad1d59c3862eb26559c41fec75e": {
+        "title": "把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年",
+        "link": "http://www.geekpark.net/news/370759",
+        "published_date": "Mon, 21 Sep 2026 19:00:00 GMT",
+        "first_seen": "2026-09-22T01:27:10.949179"
+      },
+      "d634f9a459369a7fbf9cf912c121d9248c41ea95ce3746b2ac62ebf184b22668": {
+        "title": "70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作",
+        "link": "https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 21 Sep 2026 18:23:00 GMT",
+        "first_seen": "2026-09-22T01:27:10.949181"
       }
     },
     "Finance": {
-      "c9125e60b8bc2ee8980d77b744e552202c8d37df86849ae5659880992158c8a1": {
-        "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-        "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-        "published_date": "Sat, 22 Aug 2026 20:31:00 GMT",
-        "first_seen": "2026-08-22T23:23:13.367285"
-      },
-      "185c13259b676158934fd8d1747556390cb27788ab2edbf6437daef208c4fe6b": {
-        "title": "Mark Carney says Canada is now ‘at war’ with US over trade",
-        "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-        "published_date": "Sat, 22 Aug 2026 17:22:00 GMT",
-        "first_seen": "2026-08-22T23:23:13.367291"
-      },
-      "f99f7c033e4b672ded78e4f329b12d41209fc32e4f437e7de2e1124fb4e5e3a1": {
-        "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-        "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-        "published_date": "Sat, 22 Aug 2026 13:00:00 GMT",
-        "first_seen": "2026-08-22T23:23:13.367293"
-      },
-      "345acc57f50b538ba9c6af87cc33059100e6d34103004717f5bfdf1dadd7df64": {
-        "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-        "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-        "published_date": "Sat, 22 Aug 2026 20:15:00 GMT",
-        "first_seen": "2026-08-22T23:23:13.367295"
-      },
-      "d574053864ea7e7160cc98ae9019d44776c0ae3486b2dde027b19867a10f4542": {
-        "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-        "link": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "published_date": "Sat, 22 Aug 2026 20:30:00 GMT",
-        "first_seen": "2026-08-22T23:23:13.367296"
-      },
       "06c89d017cc1a77b52ae1abdfe6c1acd21de69c5da8ab9c04c94a2bee1b6365b": {
         "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
         "link": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
@@ -3705,6 +3675,36 @@
         "link": "https://www.ft.com/content/0e4814df-e102-4874-97d6-f2b0ffaeda6a?syn-25a6b1a6=1",
         "published_date": "Mon, 21 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-21T10:24:33.668046"
+      },
+      "52711c54d0e63d544e0e17d438ff384c9f83b3491fb0e4b16f6e89d0e9ba4c17": {
+        "title": "OpenAI joins call for US-led global AI standards",
+        "link": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 17:24:00 GMT",
+        "first_seen": "2026-09-22T01:27:30.886881"
+      },
+      "05dd87be293f91149a7180cddc5a2bebcb84c171376aaeecb4cadd4e83eadd26": {
+        "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+        "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 20:00:00 GMT",
+        "first_seen": "2026-09-22T01:27:30.886888"
+      },
+      "cf4676fa7fffe37ab802e6f0207f58441113c93593d6fc20ae9c99fdda2e24ad": {
+        "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+        "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 21:17:00 GMT",
+        "first_seen": "2026-09-22T01:27:30.886891"
+      },
+      "8c42a012ca4e08ae579eae2d2cae3a925057547930da62be2bceb3dafdaf64c0": {
+        "title": "SoftBank’s $50bn data centre group slows IPO",
+        "link": "https://www.ft.com/content/4a80f076-d1bb-4492-a854-0833d981d5f4?syn-25a6b1a6=1",
+        "published_date": "Mon, 21 Sep 2026 23:51:00 GMT",
+        "first_seen": "2026-09-22T01:27:30.886892"
+      },
+      "3ff0cc570cab9c9c0857cd6f53c64a18fac9a31af1c7afe34fed0387ac58f735": {
+        "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
+        "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
+        "published_date": "Mon, 21 Sep 2026 20:22:00 GMT",
+        "first_seen": "2026-09-22T01:27:30.886895"
       }
     },
     "Ai": {
@@ -4900,8 +4900,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-21T10:24:05.592687",
-    "Finance": "2026-09-21T10:24:33.668048",
+    "Technology": "2026-09-22T01:27:10.949183",
+    "Finance": "2026-09-22T01:27:30.886897",
     "Ai": "2026-09-21T10:24:18.320617"
   }
 }

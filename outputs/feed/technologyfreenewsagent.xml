@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 21 Sep 2026 10:23:00 GMT</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 10:24:05 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 01:26:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:27:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%</title>
-      <link>https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 17:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Gemini&quot;越狱&quot;入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里</title>
+      <link>https://www.tmtpost.com/8147131.html</link>
+      <description>&lt;![CDATA[Gemini&quot;越狱&quot;入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 18:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8147131.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责</title>
-      <link>https://www.infoq.cn/article/xlQFjzl2mGPSYJq1RDod?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 15:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/xlQFjzl2mGPSYJq1RDod?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化</title>
+      <link>http://www.geekpark.net/news/370607</link>
+      <description>&lt;![CDATA[Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370607</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么</title>
-      <link>https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI自曝6起事故：AI安全的第一份&quot;审计报告&quot;由谁签字？</title>
+      <link>https://www.tmtpost.com/8147676.html</link>
+      <description>&lt;![CDATA[OpenAI自曝6起事故：AI安全的第一份&quot;审计报告&quot;由谁签字？]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8147676.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”</title>
-      <link>https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之新智基座：Agent正在从“会聊”走向“会干活”]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/G58AHJw8gT8CQuiq5sap?utm_source=rss&amp;utm_medium=article</guid>
+      <title>把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年</title>
+      <link>http://www.geekpark.net/news/370759</link>
+      <description>&lt;![CDATA[把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370759</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产</title>
-      <link>https://www.tmtpost.com/8146468.html</link>
-      <description>&lt;![CDATA[【钛晨报】分类推进高校改革，中办、国办最新部署；启元机器人发布个人机器人，19999元起售；长鑫科技第五代技术平台正式量产]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8146468.html</guid>
+      <title>70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作</title>
+      <link>https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作]]&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 18:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
