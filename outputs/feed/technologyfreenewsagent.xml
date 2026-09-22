@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Sep 2026 01:26:00 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 01:27:10 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Sep 2026 09:38:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:39:09 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gemini&quot;越狱&quot;入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里</title>
-      <link>https://www.tmtpost.com/8147131.html</link>
-      <description>&lt;![CDATA[Gemini&quot;越狱&quot;入侵三家企业：谷歌压了两个月，四巨头栽在同一家35人公司手里]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8147131.html</guid>
+      <title>阿里吴泳铭：千问将训练5-10万亿参数规模的新模型</title>
+      <link>https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里吴泳铭：千问将训练5-10万亿参数规模的新模型]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 10:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化</title>
-      <link>http://www.geekpark.net/news/370607</link>
-      <description>&lt;![CDATA[Figure AI 宣称找到了机器人版 scaling law，同行却说它其实根本不会泛化]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 11:57:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370607</guid>
+      <title>AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？</title>
+      <link>https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 14:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI自曝6起事故：AI安全的第一份&quot;审计报告&quot;由谁签字？</title>
-      <link>https://www.tmtpost.com/8147676.html</link>
-      <description>&lt;![CDATA[OpenAI自曝6起事故：AI安全的第一份&quot;审计报告&quot;由谁签字？]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8147676.html</guid>
+      <title>Meta 开源 Astryx：面向 Agent 的 React 设计系统</title>
+      <link>https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Meta 开源 Astryx：面向 Agent 的 React 设计系统]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年</title>
-      <link>http://www.geekpark.net/news/370759</link>
-      <description>&lt;![CDATA[把未来做成基础设施｜亚马逊 CTO Dr.Werner Vogels 与云计算 20 年]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/370759</guid>
+      <title>Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流</title>
+      <link>https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作</title>
-      <link>https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[70强项目观察之具身未来：机器人走进现实世界，关键不只是完成动作]]&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 18:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&amp;utm_medium=article</guid>
+      <title>NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上</title>
+      <link>https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 10:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>

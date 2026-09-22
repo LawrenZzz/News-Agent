@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "71542f7d0176791d11df877279b1abcb721cb49a7d7a37c307cbcdac329db6e3": {
-        "title": "世界模型站上风口，机器人距离“真正干活”还有多远？",
-        "link": "https://www.tmtpost.com/8113119.html",
-        "published_date": "Sun, 23 Aug 2026 11:11:00 GMT",
-        "first_seen": "2026-08-23T05:26:35.370504"
-      },
-      "2c2f88c311b34d43f81c0074c933924c9ba62c465b7113eeb881b3419ea8ef42": {
-        "title": "阿里又到了换剑时刻",
-        "link": "https://www.tmtpost.com/8113147.html",
-        "published_date": "Sun, 23 Aug 2026 11:28:00 GMT",
-        "first_seen": "2026-08-23T05:26:35.370514"
-      },
-      "9c94cae203eaa5c9c6f5ca58e394ce6f39929f97fc5f7e5f9298fadb5e23e83f": {
-        "title": "427万辆召回，没有一款油车：第一性原理失守的车门把手",
-        "link": "https://www.tmtpost.com/8113238.html",
-        "published_date": "Sun, 23 Aug 2026 11:28:00 GMT",
-        "first_seen": "2026-08-23T05:26:35.370516"
-      },
-      "d06897468b420e95c8edf5a31fba1892f62ac996c608488041649c8dac16a27e": {
-        "title": "阿里吴泳铭：别怕，Capex三年回本",
-        "link": "https://www.tmtpost.com/8113081.html",
-        "published_date": "Sun, 23 Aug 2026 10:36:00 GMT",
-        "first_seen": "2026-08-23T05:26:35.370518"
-      },
-      "1c464452fe47a2767e70b39b3d678a30721887f9c364b516a381d81f3e0292a1": {
-        "title": "捷报接二连三，迎接个性化免疫疗法的大时代",
-        "link": "https://www.tmtpost.com/8113108.html",
-        "published_date": "Sun, 23 Aug 2026 11:11:00 GMT",
-        "first_seen": "2026-08-23T05:26:35.370520"
-      },
-      "267a1e31ffd0fe9e24a50ffc3592ecbdd7a1db515618c97f69e0fbd1181cab40": {
-        "title": "伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？",
-        "link": "https://www.tmtpost.com/8113322.html",
-        "published_date": "Sun, 23 Aug 2026 16:13:00 GMT",
-        "first_seen": "2026-08-23T08:28:26.377221"
-      },
-      "c8f730792ee0c2207a1a37056990e978a5b91aadbb1c0b706468289e0bd9a1af": {
-        "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
-        "link": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 23 Aug 2026 14:09:00 GMT",
-        "first_seen": "2026-08-23T08:28:26.377232"
-      },
-      "0056cffa2f92f13025e07cab5a349009235d2c9b5e9aa85357f88bafb678b4d0": {
-        "title": "DeepSeek 周末用量统一低价收费；特斯拉 9 月 3 日首秀 Cybercab；神秘 Ox Alpha 模型爆火网络",
-        "link": "http://www.geekpark.net/news/369215",
-        "published_date": "Sun, 23 Aug 2026 08:20:00 GMT",
-        "first_seen": "2026-08-23T08:28:26.377235"
-      },
-      "5118bf067d8ba66d2be19f2386b753e2022fa6dbc5113553e9712ffd6ca2c403": {
-        "title": "阿里七年来最大的资本运作",
-        "link": "https://www.tmtpost.com/8113306.html",
-        "published_date": "Sun, 23 Aug 2026 16:03:00 GMT",
-        "first_seen": "2026-08-23T08:28:26.377238"
-      },
-      "972e5cd655c1da86f78bc0f521a9eb992c37982f5d677c033c0273ac3a4cd975": {
-        "title": "26岁离开10亿私募，一个交易天才与他的AI Trading创业｜独家对话",
-        "link": "https://www.tmtpost.com/8111128.html",
-        "published_date": "Sun, 23 Aug 2026 10:42:00 GMT",
-        "first_seen": "2026-08-23T08:28:26.377241"
-      },
       "f12585e748adea52acc199293bcaf6fe5faceb3dba7328f00d460bc6a3470fe0": {
         "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
         "link": "http://www.geekpark.net/news/369223",
@@ -1891,39 +1831,39 @@
         "link": "https://www.infoq.cn/article/EU5m831fwoFA6RdhcOlo?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 21 Sep 2026 18:23:00 GMT",
         "first_seen": "2026-09-22T01:27:10.949181"
+      },
+      "ee84f19c9fe769895e2ded2ce16818b332140aaa3953a14c9b5becd94e4b33fa": {
+        "title": "阿里吴泳铭：千问将训练5-10万亿参数规模的新模型",
+        "link": "https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 10:48:00 GMT",
+        "first_seen": "2026-09-22T09:39:09.896463"
+      },
+      "b58cd75b2e1717cea5b4bcda79531363a4d8e2be71d20ff5716f1f4306ead205": {
+        "title": "AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？",
+        "link": "https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 14:17:00 GMT",
+        "first_seen": "2026-09-22T09:39:09.896472"
+      },
+      "bcab97552e42ee541ecce6532ce502b83c398c387d599bc217a4a63d1e5929f6": {
+        "title": "Meta 开源 Astryx：面向 Agent 的 React 设计系统",
+        "link": "https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 15:12:00 GMT",
+        "first_seen": "2026-09-22T09:39:09.896475"
+      },
+      "3c8d902171cb11703c08d4adaa1a501b651ee43b8cb7effec6c16fc2358b882e": {
+        "title": "Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流",
+        "link": "https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 13:00:00 GMT",
+        "first_seen": "2026-09-22T09:39:09.896477"
+      },
+      "66573b60ad15b73dd5d4a0f205544ce6bee680d276c55bde3db08a9d2209a718": {
+        "title": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "link": "https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 10:44:00 GMT",
+        "first_seen": "2026-09-22T09:39:09.896479"
       }
     },
     "Finance": {
-      "06c89d017cc1a77b52ae1abdfe6c1acd21de69c5da8ab9c04c94a2bee1b6365b": {
-        "title": "US buyers snap up Europe’s asset managers at fastest rate in decades",
-        "link": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
-        "published_date": "Sun, 23 Aug 2026 04:30:00 GMT",
-        "first_seen": "2026-08-23T05:26:43.954003"
-      },
-      "fd818fe0c6b8560e795531638f79cd2db22d8b9ef1f2f474c0554be0d8b6e90d": {
-        "title": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
-        "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
-        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-23T05:26:43.954009"
-      },
-      "8c0c47b6c5b4225ce00cbc02d0865d2855909244d3e30b05b7d47766e0d07fc6": {
-        "title": "India’s reliance on Russian oil hits all-time high",
-        "link": "https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1",
-        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-23T05:26:43.954011"
-      },
-      "d348c2a7edb049352d35f3f7ffb08343afb7abab5e7e015bcc5c8fc368283384": {
-        "title": "Are America’s vast Gulf bases worth rebuilding?",
-        "link": "https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1",
-        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-23T05:26:43.954012"
-      },
-      "fef206804124440caf1ddadd99878364a9577ed8783862180c6db103b6d26454": {
-        "title": "Europe can do better than US-style air conditioning",
-        "link": "https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9",
-        "published_date": "Sun, 23 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-23T05:26:43.954014"
-      },
       "a73f888e05d3e75f5459b8b5a73ee6ce1e7f2eade482dd5ee200bbec127a82ce": {
         "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
         "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
@@ -3705,45 +3645,39 @@
         "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
         "published_date": "Mon, 21 Sep 2026 20:22:00 GMT",
         "first_seen": "2026-09-22T01:27:30.886895"
+      },
+      "9d77c1b59d44a1811582d77b18cdae87ccc6a00f8a74574165c0f5a311439a2b": {
+        "title": "How the cost of Japan’s money shapes the world",
+        "link": "https://www.ft.com/content/f11485ba-39fb-422c-b0ff-5e71e1fe4f44?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-22T09:39:41.126584"
+      },
+      "3f5e8ce7a7a2785f7fbb80079d1e5647bd8299970929ba9d5ffb63069a5f9028": {
+        "title": "Germany’s economic recovery is under way if politics doesn’t spoil it",
+        "link": "https://www.ft.com/content/b891fa54-b901-45fe-a78d-1161424c0da9?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-22T09:39:41.126590"
+      },
+      "d62f19fe312a76f14f3e16f1312a360a6a06fcdc25d7e2d14a7f2c9a4e7f6445": {
+        "title": "Merz’s woes cast doubt over EU’s €2tn budget deal",
+        "link": "https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-22T09:39:41.126593"
+      },
+      "3502bf9d696ae349235a3f9a865495d9fb6e297b27773bd526484a22e4b86196": {
+        "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
+        "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+        "published_date": "Tue, 22 Sep 2026 09:23:00 GMT",
+        "first_seen": "2026-09-22T09:39:41.126594"
+      },
+      "5e8820de911a636a0178c70aff9e9489bd425b10a494ce4f088932f71d210266": {
+        "title": "What Xi wants from his summit with Trump",
+        "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-22T09:39:41.126596"
       }
     },
     "Ai": {
-      "f09da51be822d4e73de68a2b8ca927e6db9b3721e4502372dc1ebff4335a4a2e": {
-        "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-        "link": "https://www.qbitai.com/2026/08/477094.html",
-        "published_date": "Sat, 22 Aug 2026 13:56:00 GMT",
-        "first_seen": "2026-08-23T05:26:57.015941"
-      },
-      "37bafc381db21d35e39fb3061db8f06a6b1060c4009d4e88f82b32c583fe26c4": {
-        "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-        "link": "https://www.qbitai.com/2026/08/477090.html",
-        "published_date": "Sat, 22 Aug 2026 12:21:00 GMT",
-        "first_seen": "2026-08-23T05:26:57.015947"
-      },
-      "fc293c7ce1757c1661dd4b32051dcc6525fffd7a7448884680f7a8861b3149a6": {
-        "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-        "link": "https://www.qbitai.com/2026/08/477246.html",
-        "published_date": "Sat, 22 Aug 2026 14:19:00 GMT",
-        "first_seen": "2026-08-23T05:26:57.015950"
-      },
-      "9d71fc62cde38aa42c6dbc22d7b5ed7833d4127ddb4c80b3d310450940b0fd12": {
-        "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-        "link": "https://www.qbitai.com/2026/08/477253.html",
-        "published_date": "Sat, 22 Aug 2026 14:46:00 GMT",
-        "first_seen": "2026-08-23T05:26:57.015952"
-      },
-      "5e9f5e8de4c008696feffa9a9626a62abb11e3a40aedb31d2f94318d0b1fa45e": {
-        "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-        "link": "https://www.qbitai.com/2026/08/476965.html",
-        "published_date": "Sat, 22 Aug 2026 08:53:00 GMT",
-        "first_seen": "2026-08-23T05:26:57.015954"
-      },
-      "e009bc6fe8dbc3f3698b2cb91e2de981f4c2d58569a74284cd007565085cbb63": {
-        "title": "2026-08-23日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-23/",
-        "published_date": "Sun, 23 Aug 2026 10:34:00 GMT",
-        "first_seen": "2026-08-23T08:28:26.559227"
-      },
       "d3c0de3827d5379030e12a5d2cf47113132f0573ab2d52212b3f9087398a0392": {
         "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
         "link": "https://www.qbitai.com/2026/08/478164.html",
@@ -4895,13 +4829,43 @@
         "link": "https://www.qbitai.com/2026/09/493091.html",
         "published_date": "Mon, 21 Sep 2026 01:48:00 GMT",
         "first_seen": "2026-09-21T10:24:18.320615"
+      },
+      "55ac03e09c872102e91ed48b73c7d79a51999ccb25f95525df9f355a5fa54b10": {
+        "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
+        "link": "https://www.qbitai.com/2026/09/493629.html",
+        "published_date": "Tue, 22 Sep 2026 03:48:00 GMT",
+        "first_seen": "2026-09-22T09:39:27.217418"
+      },
+      "61af8fe99ee7d46d68d70808067b0350d1f122356c68621ffd788f9e403fe67b": {
+        "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+        "link": "https://www.qbitai.com/2026/09/493363.html",
+        "published_date": "Tue, 22 Sep 2026 02:22:00 GMT",
+        "first_seen": "2026-09-22T09:39:27.217425"
+      },
+      "b7502631a0744fdc1c97a1615024c8d9265737c6f323daa6e8ff26d10583305d": {
+        "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+        "link": "https://www.qbitai.com/2026/09/493625.html",
+        "published_date": "Tue, 22 Sep 2026 03:42:00 GMT",
+        "first_seen": "2026-09-22T09:39:27.217427"
+      },
+      "5b99f9018ae17b879f60d8d5768a2375e4a35f2d1bc4d99e0691c8e1f30d6cb4": {
+        "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
+        "link": "https://www.qbitai.com/2026/09/493502.html",
+        "published_date": "Tue, 22 Sep 2026 02:59:00 GMT",
+        "first_seen": "2026-09-22T09:39:27.217428"
+      },
+      "aea783a7073affb053054bdf580cc21fba8f45fcbc172a39e1e3ada3b6705982": {
+        "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+        "link": "https://www.qbitai.com/2026/09/493819.html",
+        "published_date": "Tue, 22 Sep 2026 08:35:00 GMT",
+        "first_seen": "2026-09-22T09:39:27.217430"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-22T01:27:10.949183",
-    "Finance": "2026-09-22T01:27:30.886897",
-    "Ai": "2026-09-21T10:24:18.320617"
+    "Technology": "2026-09-22T09:39:09.896481",
+    "Finance": "2026-09-22T09:39:41.126598",
+    "Ai": "2026-09-22T09:39:27.217433"
   }
 }
