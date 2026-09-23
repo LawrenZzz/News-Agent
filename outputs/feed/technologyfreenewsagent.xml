@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Sep 2026 09:38:00 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 09:39:09 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 01:13:00 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:14:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>阿里吴泳铭：千问将训练5-10万亿参数规模的新模型</title>
-      <link>https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[阿里吴泳铭：千问将训练5-10万亿参数规模的新模型]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/L9QQKUgo3DEjschVRKD9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/370829</link>
+      <description>&lt;![CDATA[OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道]]&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 08:39:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/370829</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？</title>
-      <link>https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI Coding 贡献率超 90%，需求交付却只快了 10%：菜鸟如何用 Agent 托管端到端交付？]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/XPo33yALUEeIsBhQ4zGI?utm_source=rss&amp;utm_medium=article</guid>
+      <title>不受控的 Agent ，凭什么上生产系统？</title>
+      <link>https://www.infoq.cn/article/3TjH8fZziNB50Qzz9tJx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不受控的 Agent ，凭什么上生产系统？]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/3TjH8fZziNB50Qzz9tJx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta 开源 Astryx：面向 Agent 的 React 设计系统</title>
-      <link>https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 开源 Astryx：面向 Agent 的 React 设计系统]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/He6bUhlNIuPEa99GGRYC?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从卖芯片到做平台，地平线押注“Arm+Android”模式</title>
+      <link>https://www.tmtpost.com/8148860.html</link>
+      <description>&lt;![CDATA[从卖芯片到做平台，地平线押注“Arm+Android”模式]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 22:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8148860.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流</title>
-      <link>https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI导购“百团大战”开打：电商十年逻辑正在被改写</title>
+      <link>https://www.tmtpost.com/8143622.html</link>
+      <description>&lt;![CDATA[AI导购“百团大战”开打：电商十年逻辑正在被改写]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 17:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8143622.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上</title>
-      <link>https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上]]&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&amp;utm_medium=article</guid>
+      <title>造一万台机器人，要补多少汽车工业的课？</title>
+      <link>https://www.tmtpost.com/8148599.html</link>
+      <description>&lt;![CDATA[造一万台机器人，要补多少汽车工业的课？]]&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8148599.html</guid>
       <category>Technology</category>
     </item>
   </channel>

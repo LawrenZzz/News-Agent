@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f12585e748adea52acc199293bcaf6fe5faceb3dba7328f00d460bc6a3470fe0": {
-        "title": "Gen1.5 模型带来重要进展：物理 AI 正在接近 GPT3 时刻",
-        "link": "http://www.geekpark.net/news/369223",
-        "published_date": "Sun, 23 Aug 2026 22:35:00 GMT",
-        "first_seen": "2026-08-23T23:18:38.563007"
-      },
-      "9702590162d9b28c0024d804d8d4fb542fde21b3f112dfdace64ad653b6c6ec4": {
-        "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
-        "link": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 23 Aug 2026 17:00:00 GMT",
-        "first_seen": "2026-08-23T23:18:38.563017"
-      },
-      "2a03716b6005e0de526275257b9e6bc27f8f7c6ef221b4c2029a72c9e9dd9853": {
-        "title": "豆包将推WorkBuddy类产品，飞书十年积累正在组件化",
-        "link": "https://www.tmtpost.com/8113359.html",
-        "published_date": "Sun, 23 Aug 2026 20:31:00 GMT",
-        "first_seen": "2026-08-23T23:18:38.563020"
-      },
-      "20864101f6e616c8666fd51ad8d20c04fce66e6e54fc389ce0752716f0347418": {
-        "title": "世界机器人大会观察，银河星脑的愿景：让所有机器人共享「大脑」",
-        "link": "http://www.geekpark.net/news/369221",
-        "published_date": "Sun, 23 Aug 2026 22:33:00 GMT",
-        "first_seen": "2026-08-23T23:18:38.563022"
-      },
-      "e213fe285fd90abd581aa781e8c1f3c3c95dd17605a9d9fc33ea679736e2689c": {
-        "title": "一周没逛 GitHub 不要紧，这 TOP 10 的热门开源项目整理好了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536122&idx=1&sn=b7a284d06296707235d8dde07c6f6d4e",
-        "published_date": "Sun, 23 Aug 2026 11:33:00 GMT",
-        "first_seen": "2026-08-23T23:18:38.563024"
-      },
       "ee3b7b8e23919ef55be15e8716254243623646cfd423682aff407a3be2f133a2": {
         "title": "具身智能的攻坚战：陪伴机器人需要翻越哪些技术高墙？",
         "link": "https://www.tmtpost.com/8113992.html",
@@ -1861,39 +1831,39 @@
         "link": "https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 22 Sep 2026 10:44:00 GMT",
         "first_seen": "2026-09-22T09:39:09.896479"
+      },
+      "c964e71e5cdb5362143fe7caf17a0314962a65f781295b7e634c2e999797d92f": {
+        "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布 AI 手机全栈解决方案 | 极客早知道",
+        "link": "http://www.geekpark.net/news/370829",
+        "published_date": "Wed, 23 Sep 2026 08:39:00 GMT",
+        "first_seen": "2026-09-23T01:14:15.291721"
+      },
+      "e7604346023e8f1e895a582d649be66bfeac3c4650ecfdb142b7ed113bda1e4c": {
+        "title": "不受控的 Agent ，凭什么上生产系统？",
+        "link": "https://www.infoq.cn/article/3TjH8fZziNB50Qzz9tJx?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 22 Sep 2026 18:58:00 GMT",
+        "first_seen": "2026-09-23T01:14:15.291731"
+      },
+      "9a64bbddf57b599c96befff159a909a2169a62a32c3f8aa07b93408489814d61": {
+        "title": "从卖芯片到做平台，地平线押注“Arm+Android”模式",
+        "link": "https://www.tmtpost.com/8148860.html",
+        "published_date": "Tue, 22 Sep 2026 22:13:00 GMT",
+        "first_seen": "2026-09-23T01:14:15.291733"
+      },
+      "8e3b336e37441c3a73d931e7416aa3a7cef76e6a44366483778f52e2eed28ad2": {
+        "title": "AI导购“百团大战”开打：电商十年逻辑正在被改写",
+        "link": "https://www.tmtpost.com/8143622.html",
+        "published_date": "Tue, 22 Sep 2026 17:04:00 GMT",
+        "first_seen": "2026-09-23T01:14:15.291735"
+      },
+      "4dae673970cccb01723a87e1225138ef22b89b8a16c830c67e105b3f8e886af8": {
+        "title": "造一万台机器人，要补多少汽车工业的课？",
+        "link": "https://www.tmtpost.com/8148599.html",
+        "published_date": "Tue, 22 Sep 2026 15:47:00 GMT",
+        "first_seen": "2026-09-23T01:14:15.291737"
       }
     },
     "Finance": {
-      "a73f888e05d3e75f5459b8b5a73ee6ce1e7f2eade482dd5ee200bbec127a82ce": {
-        "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-        "link": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-        "published_date": "Sun, 23 Aug 2026 12:00:00 GMT",
-        "first_seen": "2026-08-23T23:18:52.521918"
-      },
-      "a6887414ad424cab238901fe7a912410ccfd07c15832c496c95880c5010d1609": {
-        "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-        "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-        "published_date": "Sun, 23 Aug 2026 13:00:00 GMT",
-        "first_seen": "2026-08-23T23:18:52.521925"
-      },
-      "e47b577207d508a7e5cd57a246ebf9e2dc5c403c14ae7e158397fd6f0f05357d": {
-        "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment",
-        "link": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1",
-        "published_date": "Sun, 23 Aug 2026 08:33:00 GMT",
-        "first_seen": "2026-08-23T23:18:52.521928"
-      },
-      "f01e2eef079ef0348f67b6d0c892b7c056e42742e08bb7b1c154ed7fadc17eb7": {
-        "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
-        "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-        "published_date": "Sun, 23 Aug 2026 23:03:00 GMT",
-        "first_seen": "2026-08-23T23:18:52.521929"
-      },
-      "cd3a7d5c0c93f52f43dd4c1ad5e7a7fda1a133438c4184770af22ac89429e05a": {
-        "title": "An economic D-Day is coming for Iran",
-        "link": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
-        "published_date": "Sun, 23 Aug 2026 21:30:00 GMT",
-        "first_seen": "2026-08-23T23:18:52.521931"
-      },
       "bf2cd6f629c95fe82911a4b54ad8d8ee65a080bf72b0fff35e34eb58cbf9976f": {
         "title": "Does AI belong on your face?",
         "link": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
@@ -3675,39 +3645,39 @@
         "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
         "published_date": "Tue, 22 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-22T09:39:41.126596"
+      },
+      "5a6e1479b93e74370c224bb91c17d64305f52aaff00bdbd83bdbe0899e88e156": {
+        "title": "US and Iran hold first talks since June as Trump threatens ‘annihilation’",
+        "link": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 21:26:00 GMT",
+        "first_seen": "2026-09-23T01:14:46.703075"
+      },
+      "5b69d385713f76187a1e2602363a40dbc19e533035c271688f705b2c45cc0444": {
+        "title": "Anthropic and OpenAI release cheaper models as price war intensifies",
+        "link": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 20:31:00 GMT",
+        "first_seen": "2026-09-23T01:14:46.703082"
+      },
+      "a9c4d87321e63b3a2665d43c56dad8ef8f2bb421c33a4d3e562421fddae217df": {
+        "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
+        "link": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
+        "published_date": "Tue, 22 Sep 2026 19:59:00 GMT",
+        "first_seen": "2026-09-23T01:14:46.703084"
+      },
+      "7cbd5601041f1a0108b98dabdd8d613f3a148c10f48b05ed2b98cfab5e304ddc": {
+        "title": "Nasdaq 100 rises to new high as ‘AI Fomo’ returns",
+        "link": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+        "published_date": "Tue, 22 Sep 2026 20:28:00 GMT",
+        "first_seen": "2026-09-23T01:14:46.703086"
+      },
+      "05f4a234af83cfd35fb3a86d9ced3ee8c6fcbaeb94e6f886918561e38a434be4": {
+        "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+        "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+        "published_date": "Tue, 22 Sep 2026 19:48:00 GMT",
+        "first_seen": "2026-09-23T01:14:46.703088"
       }
     },
     "Ai": {
-      "d3c0de3827d5379030e12a5d2cf47113132f0573ab2d52212b3f9087398a0392": {
-        "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-        "link": "https://www.qbitai.com/2026/08/478164.html",
-        "published_date": "Sun, 23 Aug 2026 09:51:00 GMT",
-        "first_seen": "2026-08-23T23:19:04.818029"
-      },
-      "4397c5fbcd3a33dd8b49042d5fd7e7904fecbf7a595b0886caa950c4351aaa80": {
-        "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-        "link": "https://www.qbitai.com/2026/08/478191.html",
-        "published_date": "Sun, 23 Aug 2026 09:56:00 GMT",
-        "first_seen": "2026-08-23T23:19:04.818036"
-      },
-      "124a720b37743bbfd4a9d4e7d309a4fd59c8bc6dbbd20b1d180c1acfe08569a6": {
-        "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
-        "link": "https://www.qbitai.com/2026/08/478020.html",
-        "published_date": "Sun, 23 Aug 2026 09:29:00 GMT",
-        "first_seen": "2026-08-23T23:19:04.818038"
-      },
-      "a8fe11da3a67e3f065a654d760d99d4ec848f757dba9c29cb87a40a22bebfbc6": {
-        "title": "具身创业里的香港教授们",
-        "link": "https://www.qbitai.com/2026/08/478289.html",
-        "published_date": "Sun, 23 Aug 2026 11:20:00 GMT",
-        "first_seen": "2026-08-23T23:19:04.818040"
-      },
-      "90a39c26f3d7deeaa9ae72c7ac2d9f63171afca2b2921f83072e54ae8cfc4125": {
-        "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-        "link": "https://www.qbitai.com/2026/08/478234.html",
-        "published_date": "Sun, 23 Aug 2026 11:17:00 GMT",
-        "first_seen": "2026-08-23T23:19:04.818041"
-      },
       "8f525cf6ff70faafca8d3415746d8d822a9ef2719cc843cae55d19e3ee94056e": {
         "title": "2026-08-24日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-24/",
@@ -4859,13 +4829,43 @@
         "link": "https://www.qbitai.com/2026/09/493819.html",
         "published_date": "Tue, 22 Sep 2026 08:35:00 GMT",
         "first_seen": "2026-09-22T09:39:27.217430"
+      },
+      "c6b95cf1671e12901950e6849a5f1d9f6c45c4d9199c4b92d4e4117d37b3dccc": {
+        "title": "Agent时代，CPU的价值该重估了",
+        "link": "https://www.qbitai.com/2026/09/494430.html",
+        "published_date": "Tue, 22 Sep 2026 15:46:00 GMT",
+        "first_seen": "2026-09-23T01:15:01.560139"
+      },
+      "9fcc76b3071222141f6c6bb59c91520187f676dfdc0c8eb89a9efd6c0a075d2c": {
+        "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+        "link": "https://www.qbitai.com/2026/09/493653.html",
+        "published_date": "Tue, 22 Sep 2026 11:58:00 GMT",
+        "first_seen": "2026-09-23T01:15:01.560146"
+      },
+      "33ae66f16aaaa6c50999150c7edbfa89dcccc8ed64cc586be5642f093da2b4ae": {
+        "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+        "link": "https://www.qbitai.com/2026/09/494120.html",
+        "published_date": "Tue, 22 Sep 2026 10:06:00 GMT",
+        "first_seen": "2026-09-23T01:15:01.560148"
+      },
+      "7538910571207a54e312a0e5431a35e4b378e09b6e0c049975ca7f6ce6077c73": {
+        "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+        "link": "https://www.qbitai.com/2026/09/494429.html",
+        "published_date": "Tue, 22 Sep 2026 15:59:00 GMT",
+        "first_seen": "2026-09-23T01:15:01.560150"
+      },
+      "0fa476dd6585770d11837bc2f57b89b5e812ab47564aca9d7cd15f802cb29123": {
+        "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+        "link": "https://www.qbitai.com/2026/09/494420.html",
+        "published_date": "Tue, 22 Sep 2026 14:28:00 GMT",
+        "first_seen": "2026-09-23T01:15:01.560152"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-22T09:39:09.896481",
-    "Finance": "2026-09-22T09:39:41.126598",
-    "Ai": "2026-09-22T09:39:27.217433"
+    "Technology": "2026-09-23T01:14:15.291739",
+    "Finance": "2026-09-23T01:14:46.703090",
+    "Ai": "2026-09-23T01:15:01.560154"
   }
 }
