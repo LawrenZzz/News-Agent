@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "734be7f9e5bf140494881e8788cd949b44d52d96e72f343c4e15f1a50e5ef963": {
-        "title": "130 亿美元，Hugging Face 要卖了",
-        "link": "http://www.geekpark.net/news/369289",
-        "published_date": "Mon, 24 Aug 2026 16:45:00 GMT",
-        "first_seen": "2026-08-24T23:20:56.708408"
-      },
-      "f3e716476f6623e7d392ee8fb8ced8309d6e0f0c008523ceafb1caf2f8d3e68a": {
-        "title": "「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」",
-        "link": "http://www.geekpark.net/news/369302",
-        "published_date": "Mon, 24 Aug 2026 23:34:00 GMT",
-        "first_seen": "2026-08-24T23:20:56.708419"
-      },
-      "b328c4ccb97f94d9f0f70c700beada4b53c2ed2e1a8d70147de4cc1ff9e586a6": {
-        "title": "具身江湖志（一）：学术派下山记",
-        "link": "https://www.tmtpost.com/8114148.html",
-        "published_date": "Mon, 24 Aug 2026 12:10:00 GMT",
-        "first_seen": "2026-08-24T23:20:56.708422"
-      },
-      "3e191127d405f46b5ba2dca7ec806ac9259ce039b58fda236af36839ab81352a": {
-        "title": "硅谷押注的下一个 Harness，是整个桌面操作系统",
-        "link": "http://www.geekpark.net/news/369298",
-        "published_date": "Mon, 24 Aug 2026 17:57:00 GMT",
-        "first_seen": "2026-08-24T23:20:56.708424"
-      },
-      "2c3f149c1b91aeb56a7349710fdda4ed4e4c9e9062b2659af5242afd09093e20": {
-        "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
-        "link": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 24 Aug 2026 10:44:00 GMT",
-        "first_seen": "2026-08-24T23:20:56.708426"
-      },
       "b0a487ddcf04afb7c880622e3e1556b87e6a82d2f86428d39f7145feafe19b9c": {
         "title": "港股史上最大增发：阿里 800 亿港元押注 AI",
         "link": "https://www.tmtpost.com/8115058.html",
@@ -1831,39 +1801,39 @@
         "link": "https://www.tmtpost.com/8150637.html",
         "published_date": "Wed, 23 Sep 2026 17:05:00 GMT",
         "first_seen": "2026-09-23T09:44:53.002523"
+      },
+      "f0e94400cf8dea140453c333ea9da2da63e98f413d9113bbf1f18563d1292be8": {
+        "title": "未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点",
+        "link": "https://www.tmtpost.com/8149015.html",
+        "published_date": "Thu, 24 Sep 2026 08:14:00 GMT",
+        "first_seen": "2026-09-24T01:05:02.194098"
+      },
+      "3ddd871a6d40571c78d59076e45cd4baefa9f965a76c2181561e1c29ff63f8b0": {
+        "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
+        "link": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 23 Sep 2026 22:41:00 GMT",
+        "first_seen": "2026-09-24T01:05:02.194108"
+      },
+      "648137f750f9c57055a6b41e5725cef7de87de88c191745776422c9b7b34daec": {
+        "title": "具身智能的转机和出清，哪个先来？",
+        "link": "https://www.tmtpost.com/8149233.html",
+        "published_date": "Wed, 23 Sep 2026 18:35:00 GMT",
+        "first_seen": "2026-09-24T01:05:02.194111"
+      },
+      "900138f9d8af7cf55024fe927c2551029c7a52387014092552de7353363266d8": {
+        "title": "4096 张卡如何成为“一台计算机”？读懂华为的超节点布局",
+        "link": "https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 23 Sep 2026 21:57:00 GMT",
+        "first_seen": "2026-09-24T01:05:02.194113"
+      },
+      "75ee59b76df2c47004aad8258406300695dabfd59c57c4e319457529abef92a9": {
+        "title": "AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin",
+        "link": "https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 23 Sep 2026 17:00:00 GMT",
+        "first_seen": "2026-09-24T01:05:02.194114"
       }
     },
     "Finance": {
-      "3fa240766b2b16ca481195ab5ad702bb93647aec1e793100e74aff257e5cf2b1": {
-        "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
-        "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
-        "published_date": "Mon, 24 Aug 2026 19:03:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.004512"
-      },
-      "60cdf114bcc83bc2a3a81c4d6151425f492c17ec6e435ef3cddd0699173194ab": {
-        "title": "SEC subpoenas Wall Street banks over Situational Awareness",
-        "link": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
-        "published_date": "Mon, 24 Aug 2026 22:56:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.004519"
-      },
-      "4e811b67e327ca1206cfc726ae20fbbf7383257561fba13a35ff7025ef33159f": {
-        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
-        "link": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
-        "published_date": "Mon, 24 Aug 2026 19:12:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.004522"
-      },
-      "7886c4c7f41d86ffbbec95bdc062f1853c32db6c310ea49a5057f56a7299923b": {
-        "title": "Here’s how overvalued the stock market really is",
-        "link": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
-        "published_date": "Mon, 24 Aug 2026 20:54:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.004524"
-      },
-      "7fdc49c7408b7b3dfbc7b5db8075e79627ca83c71a736462e21a752fed51a910": {
-        "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
-        "link": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
-        "published_date": "Mon, 24 Aug 2026 21:55:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.004526"
-      },
       "f9a565a6dc21efa359a10df18bd88e0e135cc80bc1c325fc86e4e0ba4a0dc9b0": {
         "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
         "link": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
@@ -3633,21 +3603,39 @@
         "link": "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1",
         "published_date": "Wed, 23 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-23T09:45:08.037351"
+      },
+      "748cc35c60aaa80e47ae1500372797384b8b14bff55ff248aca40bdc2928854f": {
+        "title": "US Treasury yields soar most since ‘liberation day’ tariffs shook markets",
+        "link": "https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1",
+        "published_date": "Wed, 23 Sep 2026 20:32:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.346831"
+      },
+      "7d33a9f273614c68e75aab4cec2754b86a0613fec61dc49df094b6cef3c26ecb": {
+        "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+        "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+        "published_date": "Wed, 23 Sep 2026 20:45:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.346837"
+      },
+      "934213e9b578eb8bd0771e12b989dcbc1e7d3b63ba2ac5ab806c0d2092722722": {
+        "title": "Rosneft billions fed Kremlin-backed money laundering network",
+        "link": "https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1",
+        "published_date": "Wed, 23 Sep 2026 20:00:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.346840"
+      },
+      "a18f26978369113c12d62e3b4ecb7a01faccd0d53d46ed98ec56b9409380f841": {
+        "title": "US oil industry pushes back against proposed diesel export ban",
+        "link": "https://www.ft.com/content/c902e192-8bbb-4f32-813c-ee255d3aebd0?syn-25a6b1a6=1",
+        "published_date": "Wed, 23 Sep 2026 23:44:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.346841"
+      },
+      "85c262658ffe32c140f5f838743ffcc301365862e0bb19dda2b1772d12b92b5d": {
+        "title": "OpenAI ‘agent’ hacked an Australian health service website",
+        "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+        "published_date": "Wed, 23 Sep 2026 23:04:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.346843"
       }
     },
     "Ai": {
-      "cc61031e86a82258fae122965056b8f0ac11b861f5bbc37b87d57501de9b337a": {
-        "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-        "link": "https://www.qbitai.com/2026/08/478670.html",
-        "published_date": "Mon, 24 Aug 2026 13:32:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.151934"
-      },
-      "bda33aa62b778db5179e61bbb48b8a745faf7196816ee09e3d1ec196b8a8de1e": {
-        "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-        "link": "https://www.qbitai.com/2026/08/478568.html",
-        "published_date": "Mon, 24 Aug 2026 13:21:00 GMT",
-        "first_seen": "2026-08-24T23:21:19.151944"
-      },
       "88ae4874893f96f879aa14ff6a84dd8090140a03016c8995149c8157f14bf570": {
         "title": "2026-08-25日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-25/",
@@ -4817,13 +4805,37 @@
         "link": "https://www.qbitai.com/2026/09/496304.html",
         "published_date": "Wed, 23 Sep 2026 05:16:00 GMT",
         "first_seen": "2026-09-23T09:45:21.630654"
+      },
+      "afab0e3f2082ac8341e96cb1ab2b4573be75be45bef1489759c9c248ea54b1ee": {
+        "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+        "link": "https://www.qbitai.com/2026/09/496609.html",
+        "published_date": "Wed, 23 Sep 2026 10:35:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.488641"
+      },
+      "d9e7d2be6728f59c48a85f974c7bb5f3ba30d70c2e83019e627cbbe64d93c456": {
+        "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+        "link": "https://www.qbitai.com/2026/09/496578.html",
+        "published_date": "Wed, 23 Sep 2026 09:56:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.488649"
+      },
+      "34e3fabc4721155da3b472aae5da6659913f3cc80063d9b4f833c6a765c120ae": {
+        "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+        "link": "https://www.qbitai.com/2026/09/496493.html",
+        "published_date": "Wed, 23 Sep 2026 09:50:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.488651"
+      },
+      "4d2836e0c76a4e1ab2a81632dba0c3e730de3efa37ba60f151ab869d6c59eaaf": {
+        "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+        "link": "https://www.qbitai.com/2026/09/496494.html",
+        "published_date": "Wed, 23 Sep 2026 09:46:00 GMT",
+        "first_seen": "2026-09-24T01:05:19.488653"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-23T09:44:53.002525",
-    "Finance": "2026-09-23T09:45:08.037353",
-    "Ai": "2026-09-23T09:45:21.630656"
+    "Technology": "2026-09-24T01:05:02.194117",
+    "Finance": "2026-09-24T01:05:19.346846",
+    "Ai": "2026-09-24T01:05:19.488655"
   }
 }
