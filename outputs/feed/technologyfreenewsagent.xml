@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 24 Sep 2026 01:04:00 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 01:05:02 GMT</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 09:43:00 GMT</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:43:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点</title>
-      <link>https://www.tmtpost.com/8149015.html</link>
-      <description>&lt;![CDATA[未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点]]&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 08:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8149015.html</guid>
+      <title>29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型</title>
+      <link>https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[29 小时攻破浏览器，GPT-6 Astra 成为 OpenAI 首个“严重级”模型]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/b5oxzJyafr0lkZexoo8E?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%</title>
-      <link>https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 22:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article</guid>
+      <title>数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？</title>
+      <link>https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>具身智能的转机和出清，哪个先来？</title>
-      <link>https://www.tmtpost.com/8149233.html</link>
-      <description>&lt;![CDATA[具身智能的转机和出清，哪个先来？]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 18:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8149233.html</guid>
+      <title>代码不再稀缺之后，软件工程还剩下什么？</title>
+      <link>https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[代码不再稀缺之后，软件工程还剩下什么？]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/P6mBiPWbwZIIpWpUVcOa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>4096 张卡如何成为“一台计算机”？读懂华为的超节点布局</title>
-      <link>https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[4096 张卡如何成为“一台计算机”？读懂华为的超节点布局]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 21:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>GPU负责算，CPU负责干活：英特尔开始重新出牌</title>
+      <link>https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[GPU负责算，CPU负责干活：英特尔开始重新出牌]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin</title>
-      <link>https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin]]&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题</title>
+      <link>https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题]]&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
