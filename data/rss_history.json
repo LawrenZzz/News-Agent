@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e212c6b61bb20744abdfce3a17b6c314d0f8c8d7e869f46f669a8c9090e69c44": {
-        "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-        "link": "http://www.geekpark.net/news/369344",
-        "published_date": "Tue, 25 Aug 2026 16:58:00 GMT",
-        "first_seen": "2026-08-25T23:23:31.908463"
-      },
-      "761b6f0b8f938577bb588f24d055db6bf6a4d144551853f7e07d462b0de62a24": {
-        "title": "OpenAI 的 2027：资本周期下的上市平衡术",
-        "link": "https://www.tmtpost.com/8115750.html",
-        "published_date": "Tue, 25 Aug 2026 19:27:00 GMT",
-        "first_seen": "2026-08-25T23:23:31.908473"
-      },
-      "d410dcca7ae8bcb7b9d2147ad3992915ea1328fce46c3e0d97b29b335e8ca7d1": {
-        "title": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
-        "link": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 25 Aug 2026 09:00:00 GMT",
-        "first_seen": "2026-08-25T23:23:31.908475"
-      },
-      "97af1f2f2865496c03b8ac261225a7e144ca7c3c140ab25fb56ddba34de2cf04": {
-        "title": "从被找到、被用好到被修好，HarmonyOS 7 给出开发者一套新解法",
-        "link": "http://www.geekpark.net/news/369356",
-        "published_date": "Tue, 25 Aug 2026 23:52:00 GMT",
-        "first_seen": "2026-08-25T23:23:31.908477"
-      },
-      "0cac7d917c025598eee560a918ee0eed1c7de9772cea1b77f81e826ed7675eb2": {
-        "title": "二手半导体设备成抢手货了",
-        "link": "https://www.tmtpost.com/8115046.html",
-        "published_date": "Tue, 25 Aug 2026 19:29:00 GMT",
-        "first_seen": "2026-08-25T23:23:31.908479"
-      },
       "812f7945b97ac5c213feb432c6e90c95e9bf0025b62700c457e0f11704e4ea8e": {
         "title": "国产量检测要开始用EUV了",
         "link": "https://www.tmtpost.com/8116348.html",
@@ -1801,39 +1771,39 @@
         "link": "https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 24 Sep 2026 11:00:00 GMT",
         "first_seen": "2026-09-24T09:43:40.447943"
+      },
+      "1675a2ac2566fd5718ce2cf888bf8fc9f265f5a4f8b6571b6eb8a667d0142e4f": {
+        "title": "阿里、字节、DeepSeek豪赌10万亿参数模型：一场停不下来的烧钱游戏",
+        "link": "https://www.tmtpost.com/8151500.html",
+        "published_date": "Thu, 24 Sep 2026 18:16:00 GMT",
+        "first_seen": "2026-09-25T01:13:21.401089"
+      },
+      "bd689e41eadd64453c264e2a25e565eb82745cb113a21ae80aa4f3186740e258": {
+        "title": "具身智能的行业信用正在被机器人公司透支",
+        "link": "https://www.tmtpost.com/8152223.html",
+        "published_date": "Thu, 24 Sep 2026 22:19:00 GMT",
+        "first_seen": "2026-09-25T01:13:21.401098"
+      },
+      "9c77987aacca0497c8f96c3d85e110dec7212d70b5ec7f77ab007957c1879a22": {
+        "title": "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价",
+        "link": "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 24 Sep 2026 13:44:00 GMT",
+        "first_seen": "2026-09-25T01:13:21.401101"
+      },
+      "ff892a12b375766db1881b1477e6fb1ce7a55bb274b4fa8598063bffa4a69692": {
+        "title": "显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法",
+        "link": "https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 24 Sep 2026 13:40:00 GMT",
+        "first_seen": "2026-09-25T01:13:21.401102"
+      },
+      "8a632e73a289980f7f01336211f0fac6cbaafffa9955325adae8306aaf3b0615": {
+        "title": "从数人头到数智能体：一场正在发生的企业生产力换血",
+        "link": "http://www.geekpark.net/news/371011",
+        "published_date": "Thu, 24 Sep 2026 16:13:00 GMT",
+        "first_seen": "2026-09-25T01:13:21.401104"
       }
     },
     "Finance": {
-      "12536671ac506d130794b45b974fb2be088c4ad4da615596f202cc13de930474": {
-        "title": "The drip-drip US debt crisis",
-        "link": "https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1",
-        "published_date": "Tue, 25 Aug 2026 15:20:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.885506"
-      },
-      "f617d627fad51c15211cdd145d509d2da21798a041ccdf94a5ddc6422c3d96a8": {
-        "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
-        "link": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
-        "published_date": "Tue, 25 Aug 2026 17:22:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.885511"
-      },
-      "4d5bd49c0d418c218bdf783a45dac512da4605ebb30d58bfc6c4305ed979d45f": {
-        "title": "US audit regulator scraps investor advocate role as Trump-era revamp accelerates",
-        "link": "https://www.ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1",
-        "published_date": "Tue, 25 Aug 2026 22:34:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.885512"
-      },
-      "b6b97d3cf9458e67e1eb690021ddbff76ed3fdc2fbee46a117f1c1e179204f37": {
-        "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-        "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-        "published_date": "Tue, 25 Aug 2026 22:45:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.885513"
-      },
-      "eec8f76edfb4d596afdb38a7d8a53a3950f7e4a71e66e868ef7a2f2f9e285186": {
-        "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-        "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-        "published_date": "Tue, 25 Aug 2026 23:01:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.885514"
-      },
       "333934a87c212669462ede4c822710b097c64e3f4a5d651b35ed6fa5a6a4ecd9": {
         "title": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
         "link": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
@@ -3579,21 +3549,39 @@
         "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
         "published_date": "Thu, 24 Sep 2026 09:15:00 GMT",
         "first_seen": "2026-09-24T09:44:06.091939"
+      },
+      "f5fc5d994633cd7902d6e57f2cf50b5f3516478940dca8370297e97a97ae441b": {
+        "title": "US long-term borrowing costs touch highest level since 2004",
+        "link": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+        "published_date": "Thu, 24 Sep 2026 20:32:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.600398"
+      },
+      "edc48f5da19f2f7626267d7a8c3c44e48ff1cd72e2c085ffd110c614a122bff8": {
+        "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
+        "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
+        "published_date": "Thu, 24 Sep 2026 21:23:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.600403"
+      },
+      "4fa7ef16c477c0ca43945c06c6e3b9bfa0bbc8a4235bc797aac9b0efc3462428": {
+        "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+        "link": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+        "published_date": "Fri, 25 Sep 2026 01:01:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.600405"
+      },
+      "5c09925dfc67437b4d1100c4df79b2d0dc8aab0ca5ba242f9ea0822dc0afb7cd": {
+        "title": "The AI agent revolution has moved a big step closer",
+        "link": "https://www.ft.com/content/e60b40b6-dae5-4ccf-83cc-978269cbcaa5?syn-25a6b1a6=1",
+        "published_date": "Thu, 24 Sep 2026 17:33:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.600406"
+      },
+      "bbde84c8d2930f11c04f6fe673919c7ca165b9089e88f990c73063d98d818a91": {
+        "title": "Here’s how to position your portfolio for the next AI wave, according to Morgan Stanley",
+        "link": "https://www.marketwatch.com/story/heres-how-to-position-your-portfolio-for-the-next-ai-wave-according-to-morgan-stanley-ac8f8a4a?mod=mw_rss_topstories",
+        "published_date": "Thu, 24 Sep 2026 20:50:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.600407"
       }
     },
     "Ai": {
-      "65608f1fcae72deab97f66025d11b96a09767cbb34532fa2cbe1620fc8c2e0ad": {
-        "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-        "link": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-        "published_date": "Tue, 25 Aug 2026 19:10:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.971736"
-      },
-      "07438ba5f1e28028bef89d2613f63a577fc46da176f83244c16c29362342cae7": {
-        "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-        "link": "https://www.qbitai.com/2026/08/479314.html",
-        "published_date": "Tue, 25 Aug 2026 09:31:00 GMT",
-        "first_seen": "2026-08-25T23:24:15.971742"
-      },
       "4f1adaa9abdf45ca72ba3e0654f318126158c947bdbfb422e55eb06fa5efe47d": {
         "title": "2026-08-26日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-26/",
@@ -4757,13 +4745,37 @@
         "link": "https://www.qbitai.com/2026/09/496647.html",
         "published_date": "Thu, 24 Sep 2026 02:23:00 GMT",
         "first_seen": "2026-09-24T09:43:56.579786"
+      },
+      "45fd29bf82b288d9a2debeea329a004c431e5670a1a981493791a45f429c21c9": {
+        "title": "Automating coherent long-form video generation",
+        "link": "https://research.google/blog/coherent-long-form-video-generation/",
+        "published_date": "Thu, 24 Sep 2026 19:40:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.708980"
+      },
+      "dd2ef8a3c0f678d14573dbc00e3f3b2816856b6505ea94a3ca7b02502578f3d7": {
+        "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+        "link": "https://www.qbitai.com/2026/09/496961.html",
+        "published_date": "Thu, 24 Sep 2026 14:20:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.708987"
+      },
+      "3ee71fe0df21bc5bb451c9fc9c424276b984c266a03e2bb4ece1c730c9afd578": {
+        "title": "PCIe显卡被低估了！内核补齐+通信重构，DeepSeek推理吞吐翻近7倍",
+        "link": "https://www.qbitai.com/2026/09/496925.html",
+        "published_date": "Thu, 24 Sep 2026 14:17:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.708988"
+      },
+      "749a1b35be9034db1275070e52c0e09ffc791bb77e36466a800b762de139c69f": {
+        "title": "时隔十年，AI大牛署名新论文",
+        "link": "https://www.qbitai.com/2026/09/496834.html",
+        "published_date": "Thu, 24 Sep 2026 12:58:00 GMT",
+        "first_seen": "2026-09-25T01:13:38.708990"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-24T09:43:40.447946",
-    "Finance": "2026-09-24T09:44:06.091941",
-    "Ai": "2026-09-24T09:43:56.579788"
+    "Technology": "2026-09-25T01:13:21.401106",
+    "Finance": "2026-09-25T01:13:38.600410",
+    "Ai": "2026-09-25T01:13:38.708991"
   }
 }
