@@ -1771,6 +1771,36 @@
         "link": "https://www.tmtpost.com/8152653.html",
         "published_date": "Fri, 25 Sep 2026 17:13:00 GMT",
         "first_seen": "2026-09-25T10:03:46.206405"
+      },
+      "6f3a369a76b0627097d2ecbad4ddb2b4309c3adf6c2fef3ab608fc70ecb0f432": {
+        "title": "Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元",
+        "link": "http://www.geekpark.net/news/371038",
+        "published_date": "Sat, 26 Sep 2026 08:45:00 GMT",
+        "first_seen": "2026-09-26T01:10:27.765939"
+      },
+      "fc5cbe828b5d30708f8810cfeb1b5aa8198dc9a3e12128b354eae7c97d671a31": {
+        "title": "大厂的AI战火，攻入硬件",
+        "link": "https://www.tmtpost.com/8152015.html",
+        "published_date": "Fri, 25 Sep 2026 10:33:00 GMT",
+        "first_seen": "2026-09-26T01:10:27.765947"
+      },
+      "5a5aae39a82ded481f323c07fcb325b937b2fb1d9f248766ce7601046c9127ef": {
+        "title": "华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？",
+        "link": "https://www.tmtpost.com/8152798.html",
+        "published_date": "Sat, 26 Sep 2026 08:19:00 GMT",
+        "first_seen": "2026-09-26T01:10:27.765950"
+      },
+      "3d8e2016695b84d9ff43435233739332b4afe8358dbd1d9eef8c450b8a0365b4": {
+        "title": "prompt工程师，一个新兴职业的崛起与消失",
+        "link": "https://www.tmtpost.com/8152516.html",
+        "published_date": "Fri, 25 Sep 2026 10:45:00 GMT",
+        "first_seen": "2026-09-26T01:10:27.765952"
+      },
+      "4e482cc41999955a8cc3ac2bd7193fc565355eb56105f3ca61b56c48f9f2ce23": {
+        "title": "灵巧手不是等AGI才用：一份被误读的物理AI落地地图",
+        "link": "https://www.tmtpost.com/8152613.html",
+        "published_date": "Fri, 25 Sep 2026 21:02:00 GMT",
+        "first_seen": "2026-09-26T01:10:27.765953"
       }
     },
     "Finance": {
@@ -3537,6 +3567,36 @@
         "link": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
         "published_date": "Fri, 25 Sep 2026 09:11:00 GMT",
         "first_seen": "2026-09-25T10:04:54.430911"
+      },
+      "4f4633317122c8562695855719505d72e72dc240df02e2bf4af023bb839f9e82": {
+        "title": "US bond sell-off pushes long-term yields to highest since 2004",
+        "link": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+        "published_date": "Fri, 25 Sep 2026 20:24:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.641527"
+      },
+      "10cddbc9aa85a2a3ea1970bfe6be5bb9e8643d6ac0023c7057f499d495c928d6": {
+        "title": "Bond ructions point to new danger zone in markets",
+        "link": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
+        "published_date": "Fri, 25 Sep 2026 17:00:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.641535"
+      },
+      "b4904c3796bedc6368adf66bb6740fdb9c61f0a32287607293236a91071a9e4c": {
+        "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+        "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+        "published_date": "Fri, 25 Sep 2026 21:57:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.641537"
+      },
+      "e01e37afb3d19d8845f1cd225532b0877779545532aca7691915a56792cb8fd5": {
+        "title": "OpenAI says governments among ‘dozens’ of organisations hacked by its agents",
+        "link": "https://www.ft.com/content/651024b1-d1ce-40c1-acae-a92c3505d3f1?syn-25a6b1a6=1",
+        "published_date": "Fri, 25 Sep 2026 22:18:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.641538"
+      },
+      "98085f9917a5e14dc03ed00d2502953315900c6bef908d90068ebe1b1ec8ade1": {
+        "title": "Walmart chief rules out personalised pricing as AI transforms retail",
+        "link": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1",
+        "published_date": "Fri, 25 Sep 2026 21:16:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.641540"
       }
     },
     "Ai": {
@@ -4715,13 +4775,25 @@
         "link": "https://hex2077.dev/docs/2026-09/2026-09-25/",
         "published_date": "Fri, 25 Sep 2026 04:02:00 GMT",
         "first_seen": "2026-09-25T10:04:54.569824"
+      },
+      "9177c513eecc868399ec822c4c2aa5d5d3fe7e5e9124f847012240723366705e": {
+        "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+        "link": "https://www.qbitai.com/2026/09/497278.html",
+        "published_date": "Fri, 25 Sep 2026 13:24:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.781919"
+      },
+      "e89b77ac3b3fddc783ad5a1ce0ae981d97f813de064d0105f48722212874aab0": {
+        "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+        "link": "https://www.qbitai.com/2026/09/497177.html",
+        "published_date": "Fri, 25 Sep 2026 13:15:00 GMT",
+        "first_seen": "2026-09-26T01:10:47.781926"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-25T10:03:46.206407",
-    "Finance": "2026-09-25T10:04:54.430914",
-    "Ai": "2026-09-25T10:04:54.569826"
+    "Technology": "2026-09-26T01:10:27.765955",
+    "Finance": "2026-09-26T01:10:47.641543",
+    "Ai": "2026-09-26T01:10:47.781929"
   }
 }

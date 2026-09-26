@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 25 Sep 2026 10:00:00 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 10:03:46 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 01:10:00 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:10:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则</title>
-      <link>https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 14:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元</title>
+      <link>http://www.geekpark.net/news/371038</link>
+      <description>&lt;![CDATA[Deepseek 桌面版悄悄上线；Muse 大火，扎克伯格跃升全球第四大富豪；OpenAI 被曝筹备推出 ProMax 订阅层级，月费或达 500-600 美元]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/371038</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>CT无创筛查食管癌，达摩院AI站上临床前夜</title>
-      <link>https://www.tmtpost.com/8152326.html</link>
-      <description>&lt;![CDATA[CT无创筛查食管癌，达摩院AI站上临床前夜]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152326.html</guid>
+      <title>大厂的AI战火，攻入硬件</title>
+      <link>https://www.tmtpost.com/8152015.html</link>
+      <description>&lt;![CDATA[大厂的AI战火，攻入硬件]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 10:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152015.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了</title>
-      <link>https://www.tmtpost.com/8152605.html</link>
-      <description>&lt;![CDATA[华能国际一口气新设三家分公司，煤电的“止血带”和新能源的“手术刀”同时上了]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 17:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152605.html</guid>
+      <title>华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？</title>
+      <link>https://www.tmtpost.com/8152798.html</link>
+      <description>&lt;![CDATA[华为腾讯阿里都盯上的生意：不造机器人，却想控制所有机器人？]]&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 08:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152798.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿莫迪偷师姚顺雨，奥特曼偷师梁文锋</title>
-      <link>https://www.tmtpost.com/8152677.html</link>
-      <description>&lt;![CDATA[阿莫迪偷师姚顺雨，奥特曼偷师梁文锋]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 17:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152677.html</guid>
+      <title>prompt工程师，一个新兴职业的崛起与消失</title>
+      <link>https://www.tmtpost.com/8152516.html</link>
+      <description>&lt;![CDATA[prompt工程师，一个新兴职业的崛起与消失]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152516.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>起底AI网恋：4700个AI围猎2.5万人，10元造完美情人</title>
-      <link>https://www.tmtpost.com/8152653.html</link>
-      <description>&lt;![CDATA[起底AI网恋：4700个AI围猎2.5万人，10元造完美情人]]&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 17:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8152653.html</guid>
+      <title>灵巧手不是等AGI才用：一份被误读的物理AI落地地图</title>
+      <link>https://www.tmtpost.com/8152613.html</link>
+      <description>&lt;![CDATA[灵巧手不是等AGI才用：一份被误读的物理AI落地地图]]&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8152613.html</guid>
       <category>Technology</category>
     </item>
   </channel>
