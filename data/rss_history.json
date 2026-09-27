@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "53c9654dffccf8c3e8c87109e19e3c5fbb9310fdbf32b9cf3d0b5797c8913abe": {
-        "title": "英伟达129亿美元买下Hugging Face，开源社区终究逃不过委身巨头的宿命？",
-        "link": "https://www.tmtpost.com/8120096.html",
-        "published_date": "Fri, 28 Aug 2026 10:59:00 GMT",
-        "first_seen": "2026-08-28T06:31:43.357082"
-      },
-      "8ebded02b33cfef4e37fd8e85376ba83dfcd8cef2efccedc8a926c568d73cbd3": {
-        "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
-        "link": "http://www.geekpark.net/news/369508",
-        "published_date": "Fri, 28 Aug 2026 13:10:00 GMT",
-        "first_seen": "2026-08-28T06:31:43.357091"
-      },
-      "002e32304a4d1c4cbe5eac92aa886bcc8ac3ee738276b730d67a46438197757b": {
-        "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
-        "link": "https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 28 Aug 2026 11:43:00 GMT",
-        "first_seen": "2026-08-28T06:31:43.357094"
-      },
-      "5f8b113d15fcebdfb49dbf261d162ea88044089362d95237f5cd36f066daf845": {
-        "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
-        "link": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 28 Aug 2026 14:00:00 GMT",
-        "first_seen": "2026-08-28T06:31:43.357095"
-      },
-      "d65073bbac8c94c86e92ca7cdcce568fd608f9553068937efd108951839f78ef": {
-        "title": "HBM正在被重新定义",
-        "link": "https://www.tmtpost.com/8117979.html",
-        "published_date": "Thu, 27 Aug 2026 18:25:00 GMT",
-        "first_seen": "2026-08-28T06:31:43.357097"
-      },
       "7f0602236c5cfb6efa862598331ba562e3dcd8205915f9616363b9d49fe3cf2d": {
         "title": "Hugging Face 130亿美元探价：不缺钱的“卖身”悬疑与分发层中立悖论",
         "link": "https://www.tmtpost.com/8120237.html",
@@ -1801,39 +1771,39 @@
         "link": "https://sspai.com/post/114958",
         "published_date": "Sat, 26 Sep 2026 14:00:00 GMT",
         "first_seen": "2026-09-27T01:06:33.341743"
+      },
+      "ec9641d94d88837cadd4f1d26645e8240db540e9e0e92ca978274e3887039e61": {
+        "title": "不用专门训练自动驾驶，GPT-6 Astra已经能开真车了？",
+        "link": "https://www.tmtpost.com/8153325.html",
+        "published_date": "Sun, 27 Sep 2026 13:47:00 GMT",
+        "first_seen": "2026-09-27T10:22:50.682319"
+      },
+      "a22d00a76b195280ca67fb8621754d4ab095d978d5da54cfb1566f87dfafb49c": {
+        "title": "苹果或重返服务器，互联市场开始“群雄逐鹿”",
+        "link": "https://www.tmtpost.com/8153405.html",
+        "published_date": "Sun, 27 Sep 2026 17:48:00 GMT",
+        "first_seen": "2026-09-27T10:22:50.682331"
+      },
+      "b0848ecbd61c01e34787303a62d88b8bfd0b8855f689cf5d2c6fdab22dbf9444": {
+        "title": "星舰第14飞，为什么准备绕地球六圈？",
+        "link": "https://www.tmtpost.com/8153306.html",
+        "published_date": "Sun, 27 Sep 2026 09:57:00 GMT",
+        "first_seen": "2026-09-27T10:22:50.682335"
+      },
+      "bbf8d649f1cfab10f4e8f7b8114f4c78e350ca124b8b60c325e245deef6074ff": {
+        "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+        "link": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 27 Sep 2026 10:00:00 GMT",
+        "first_seen": "2026-09-27T10:22:50.682336"
+      },
+      "90de735e1113839ada5f2cda860deb5c57e528148c4fd4d511fd8a88d14bf2c1": {
+        "title": "豆包上车之后，AI原生汽车真的来了吗？",
+        "link": "https://www.tmtpost.com/8153291.html",
+        "published_date": "Sun, 27 Sep 2026 13:45:00 GMT",
+        "first_seen": "2026-09-27T10:22:50.682338"
       }
     },
     "Finance": {
-      "8d4487a94ca3da2c38bf197f0ac357fee3a03162176d42f42dbbfb9dca7fd72b": {
-        "title": "US corporate profits surge to record as worker payouts wilt",
-        "link": "https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1",
-        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-28T06:32:00.058724"
-      },
-      "edf804a1129b92aa3b62c3e96b8eaf2cbcd66d7bf993fd9000451c830aa3e385": {
-        "title": "The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories",
-        "published_date": "Thu, 27 Aug 2026 22:12:00 GMT",
-        "first_seen": "2026-08-28T06:32:00.058730"
-      },
-      "49bfac303157b2447a13046a9b0931036c798211f652a891d4b53f20967b9015": {
-        "title": "Zero-interest convertible bonds set for record year",
-        "link": "https://www.ft.com/content/8e93c159-2c02-444a-9f22-dcda14bc451f?syn-25a6b1a6=1",
-        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-28T06:32:00.058733"
-      },
-      "5e25e31b39af3f6bfe382ab451821df26e5f5ff28fcc05b0a62deecdf85b3cb6": {
-        "title": "Is China’s ‘wise camel’ the winner from the US-Iran war?",
-        "link": "https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1",
-        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-28T06:32:00.058734"
-      },
-      "10bf3c9c1bde36b87ec8f9489f30a735a616e7111aab02f1b91a1a4b40174f41": {
-        "title": "Saudi Arabia shakes up flagship real estate project",
-        "link": "https://www.ft.com/content/5d7957b7-6ad8-48d3-a84e-87f3c6eac326?syn-25a6b1a6=1",
-        "published_date": "Fri, 28 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-28T06:32:00.058735"
-      },
       "936632e8beca9ebec335dd1d54c5ecdb1450d5b0a16ee1299f1485894960f0f2": {
         "title": "Hawkish Warsh hints Fed will raise rates if inflation does not fall soon",
         "link": "https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1",
@@ -3597,39 +3567,39 @@
         "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
         "published_date": "Sat, 26 Sep 2026 17:15:00 GMT",
         "first_seen": "2026-09-27T01:06:49.466354"
+      },
+      "84d46ba7b8534bcebfd8cf47a4914b304b615e1849a18ac382ae9dfd4a668809": {
+        "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
+        "link": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+        "published_date": "Sun, 27 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.779733"
+      },
+      "7e1a7f17cbe429925214c967094d43ce0ffaace8f7245fcc065e191ab939e26a": {
+        "title": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land",
+        "link": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
+        "published_date": "Sun, 27 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.779740"
+      },
+      "fa2418a8b01137b2b9859472533310e0736056f8f15dcdb917ca10d025bd5514": {
+        "title": "Armani to kick off stake sale talks with LVMH and L’Oréal",
+        "link": "https://www.ft.com/content/8dd0d877-5254-48d5-ae33-c181bf9d3c64?syn-25a6b1a6=1",
+        "published_date": "Sun, 27 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.779742"
+      },
+      "bb255432d97af4cc0e2582b2f4834894379e3bc790fac6d12003339c17b7af84": {
+        "title": "US housing crunch puts private equity in midterm campaign crosshairs",
+        "link": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1",
+        "published_date": "Sun, 27 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.779744"
+      },
+      "47f1418a519186f34000da8022c634a1c81c9bd6297cebbfe289c14df5cfcab5": {
+        "title": "Swiss voters to decide fate of centuries-old neutrality policy",
+        "link": "https://www.ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63?syn-25a6b1a6=1",
+        "published_date": "Sun, 27 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.779745"
       }
     },
     "Ai": {
-      "8d71c5f44f225c8997a4dbbc9ab88ba87e064f2e231d801916e08ac6fdd15d86": {
-        "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
-        "link": "https://www.qbitai.com/2026/08/480186.html",
-        "published_date": "Fri, 28 Aug 2026 01:40:00 GMT",
-        "first_seen": "2026-08-28T06:32:12.469038"
-      },
-      "8d529151f8e412bb2b923f5c389f8f8ed1798d9a4a506a53c56627e575c73af7": {
-        "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
-        "link": "https://www.qbitai.com/2026/08/480208.html",
-        "published_date": "Fri, 28 Aug 2026 03:45:00 GMT",
-        "first_seen": "2026-08-28T06:32:12.469045"
-      },
-      "8579e7dc5c1e79205ce352c2798ca2d7bcf47a6c7bce898e436ecea75737764b": {
-        "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
-        "link": "https://www.qbitai.com/2026/08/480223.html",
-        "published_date": "Fri, 28 Aug 2026 04:06:00 GMT",
-        "first_seen": "2026-08-28T06:32:12.469046"
-      },
-      "de80fa2838337981b356202b6534fb0a7be3d78d3664fe3f86b907381a3c765d": {
-        "title": "Planetary prediction engine: Automating global models via Earth AI",
-        "link": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-        "published_date": "Thu, 27 Aug 2026 17:37:00 GMT",
-        "first_seen": "2026-08-28T06:32:12.469048"
-      },
-      "b9ab68c622c45c13df8b0d9c1cc29d088d612ff7b316d2e7fddb42c17df20a22": {
-        "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
-        "link": "https://www.qbitai.com/2026/08/480227.html",
-        "published_date": "Fri, 28 Aug 2026 04:09:00 GMT",
-        "first_seen": "2026-08-28T06:32:12.469049"
-      },
       "28eb175890a3e1e7df00a890b0b1268a762b36a3706c450e42f5658f1586dfea": {
         "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
         "link": "https://www.qbitai.com/2026/08/480700.html",
@@ -4775,13 +4745,25 @@
         "link": "https://www.qbitai.com/2026/09/498478.html",
         "published_date": "Sat, 26 Sep 2026 11:49:00 GMT",
         "first_seen": "2026-09-27T01:06:49.609939"
+      },
+      "7b7355bb13b3ab2c64189b6d008a6e669378827304a440797dc1391f01d6ce91": {
+        "title": "啥题啊能干崩OpenAI最强模型训练…",
+        "link": "https://www.qbitai.com/2026/09/498546.html",
+        "published_date": "Sun, 27 Sep 2026 09:44:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.922250"
+      },
+      "e46eb6a691df92245b582e5d01214a036a7f02f35901080c6ea23837e727ed89": {
+        "title": "2026-09-27日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-27/",
+        "published_date": "Sun, 27 Sep 2026 02:59:00 GMT",
+        "first_seen": "2026-09-27T10:23:01.922259"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-27T01:06:33.341745",
-    "Finance": "2026-09-27T01:06:49.466357",
-    "Ai": "2026-09-27T01:06:49.609947"
+    "Technology": "2026-09-27T10:22:50.682340",
+    "Finance": "2026-09-27T10:23:01.779748",
+    "Ai": "2026-09-27T10:23:01.922261"
   }
 }
