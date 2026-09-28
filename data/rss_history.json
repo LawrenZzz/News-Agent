@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f5bfab579f81edb021c032593c0ba4a3f940874c14f15f67ae87c9391d55a2fc": {
-        "title": "Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃",
-        "link": "http://www.geekpark.net/news/369549",
-        "published_date": "Sat, 29 Aug 2026 08:32:00 GMT",
-        "first_seen": "2026-08-29T04:04:46.571342"
-      },
-      "b223d9c1251e262bdf0aa4366e19a58cba2242d8669a658fdb79abf82008b683": {
-        "title": "长江存储IPO，向左是长鑫存储，向右是宇树科技",
-        "link": "https://www.tmtpost.com/8120972.html",
-        "published_date": "Sat, 29 Aug 2026 10:31:00 GMT",
-        "first_seen": "2026-08-29T04:04:46.571348"
-      },
-      "c6a7a94969377c3ad80f55911a4d00876235d573ff981318095c9ba74b0ce3bb": {
-        "title": "20亿美元押注中性原子：Pasqal借壳纳斯达克首日大涨",
-        "link": "https://www.tmtpost.com/8121564.html",
-        "published_date": "Sat, 29 Aug 2026 10:37:00 GMT",
-        "first_seen": "2026-08-29T04:04:46.571350"
-      },
-      "257c8ab269df7c240fb2cf9646d7166c9b5692d62975a10eef2d054fbdfc1e06": {
-        "title": "从“AI时代已开始”到“最动荡的转型期”：盖茨这三年看见了什么",
-        "link": "https://www.tmtpost.com/8121501.html",
-        "published_date": "Sat, 29 Aug 2026 09:59:00 GMT",
-        "first_seen": "2026-08-29T04:04:46.571351"
-      },
-      "9e2e6ea7543e6b43be30d3ab3e97c800d1e9ef6301a7d98960c386c056333137": {
-        "title": "豪掷400亿元！孙正义惨亏割肉后，又“接盘”机器人了",
-        "link": "https://www.tmtpost.com/8120970.html",
-        "published_date": "Sat, 29 Aug 2026 10:31:00 GMT",
-        "first_seen": "2026-08-29T04:04:46.571352"
-      },
       "0b1be6dab545a83e4034f775342566deb3d3c5f0e0df87e997df0657b549ad70": {
         "title": "Agent 时代，为什么有人开始重新造 Google？",
         "link": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
@@ -1801,39 +1771,39 @@
         "link": "https://www.tmtpost.com/8153342.html",
         "published_date": "Sun, 27 Sep 2026 17:48:00 GMT",
         "first_seen": "2026-09-28T01:24:17.040638"
+      },
+      "4bbdb4675bbe2553242d3e6ac8c5d28ec13107b5848121d54b59a09d7a104a09": {
+        "title": "AI 手机只是起点，高通要为智能体铺一条全栈技术路线",
+        "link": "http://www.geekpark.net/news/371113",
+        "published_date": "Mon, 28 Sep 2026 17:15:00 GMT",
+        "first_seen": "2026-09-28T11:27:00.819907"
+      },
+      "c584809dbaafae7e45c0895bec8403402df81fd9318ef80338d90f0b100032fb": {
+        "title": "从端侧推理到物理AI，芯片行业正面临新考题",
+        "link": "https://www.tmtpost.com/8153747.html",
+        "published_date": "Mon, 28 Sep 2026 10:54:00 GMT",
+        "first_seen": "2026-09-28T11:27:00.819919"
+      },
+      "0ebb0ceb0c82020e16ef88327654adef69364725196008eb994844ea3d2c84f3": {
+        "title": "千万小时缺口下的突围：谁在为中国具身智能“喂”数据？",
+        "link": "https://www.tmtpost.com/8153852.html",
+        "published_date": "Mon, 28 Sep 2026 13:50:00 GMT",
+        "first_seen": "2026-09-28T11:27:00.819921"
+      },
+      "e2689ac7ef8b977c9cfff981c8386f9233bb991ea1f4cfebae20b56716265df1": {
+        "title": "Imagination 发布 E 系列 GPU IP 新进展：一套架构支持图形、计算与AI",
+        "link": "https://www.infoq.cn/article/5Xfeqshw0hwfUD95JpWE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 28 Sep 2026 18:23:00 GMT",
+        "first_seen": "2026-09-28T11:27:00.819923"
+      },
+      "9cab637594c084a3c713184bd61bc9bf453bc8ba7147c854bfe1969215674f99": {
+        "title": "AI 硬件创业第一步，先做 AI 还是先做硬件？",
+        "link": "http://www.geekpark.net/news/371125",
+        "published_date": "Mon, 28 Sep 2026 18:06:00 GMT",
+        "first_seen": "2026-09-28T11:27:00.819924"
       }
     },
     "Finance": {
-      "89fa4c67f7a0b49b16c71e63f1b0ef92e87fb4e4f15f3b50dabbf2a91ceb64b2": {
-        "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
-        "link": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
-        "published_date": "Fri, 28 Aug 2026 20:10:00 GMT",
-        "first_seen": "2026-08-29T04:04:58.727677"
-      },
-      "839e0fc2aefcf5ac7eb46883733f72d2663ed41bb64c68779733aea7826ba11e": {
-        "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
-        "link": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
-        "published_date": "Sat, 29 Aug 2026 00:36:00 GMT",
-        "first_seen": "2026-08-29T04:04:58.727683"
-      },
-      "bf85e89c563a136362d0526f0f3cff3a2df8f09570e442328409e12571f69ea8": {
-        "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
-        "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
-        "published_date": "Fri, 28 Aug 2026 20:58:00 GMT",
-        "first_seen": "2026-08-29T04:04:58.727684"
-      },
-      "176b1618d122918be4e2940f0ca9113d6bb060ea9e3f61569108418a32682f93": {
-        "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
-        "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
-        "published_date": "Fri, 28 Aug 2026 21:34:00 GMT",
-        "first_seen": "2026-08-29T04:04:58.727685"
-      },
-      "388860147aec7fa000f65f44c0ea58737f807b2fab291384c61a5ce19088d924": {
-        "title": "AI wants to help you pick a Medicare plan. Should you let it?",
-        "link": "https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories",
-        "published_date": "Fri, 28 Aug 2026 20:05:00 GMT",
-        "first_seen": "2026-08-29T04:04:58.727686"
-      },
       "3a8c56087cbb5d2749283e887828df57eeab5d96cca8222801842c27fd739ce0": {
         "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.",
         "link": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
@@ -3597,15 +3567,39 @@
         "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
         "published_date": "Sun, 27 Sep 2026 22:00:00 GMT",
         "first_seen": "2026-09-28T01:24:29.666690"
+      },
+      "c3ae3abb84a01813040430b75aa1dee21b09adde97641a10c4d86244150de312": {
+        "title": "How Muse and other AI agents  could spark a bank run, according to an economist",
+        "link": "https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 10:47:00 GMT",
+        "first_seen": "2026-09-28T11:27:16.695098"
+      },
+      "71f5e21e87b72ead2169e88363f2fe9720aae08ac8b7f23727d1424b3f10956b": {
+        "title": "AI hyperscalers are transforming debt",
+        "link": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-28T11:27:16.695105"
+      },
+      "abd22df1a861ed20eecd22371e9f2579ba8e0a4d82767959af6b8c34935cd733": {
+        "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+        "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 09:32:00 GMT",
+        "first_seen": "2026-09-28T11:27:16.695107"
+      },
+      "f6039e4463fc26ac698bf18694c050f13f3c1345156fa3d1ae329c7d2bc4af9b": {
+        "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+        "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+        "published_date": "Mon, 28 Sep 2026 11:21:00 GMT",
+        "first_seen": "2026-09-28T11:27:16.695109"
+      },
+      "075c76ffdbe1f8d9fc528815dfa9b489c8af486644e2cb286153573031132ba6": {
+        "title": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
+        "link": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 04:04:00 GMT",
+        "first_seen": "2026-09-28T11:27:16.695111"
       }
     },
     "Ai": {
-      "5db34bc9613e0d9c6c2b39f42e70f5bbcc39f723358fe52b53072d832af4abff": {
-        "title": "2026-08-29日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-29/",
-        "published_date": "Sat, 29 Aug 2026 10:27:00 GMT",
-        "first_seen": "2026-08-29T04:04:58.813478"
-      },
       "b51aae28627c0f1af03bd3c861bd894259fbc794d0428ac3e7d27d9669c037c1": {
         "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
         "link": "https://www.qbitai.com/2026/08/481223.html",
@@ -4745,13 +4739,19 @@
         "link": "https://www.qbitai.com/2026/09/498584.html",
         "published_date": "Sun, 27 Sep 2026 13:40:00 GMT",
         "first_seen": "2026-09-28T01:24:29.808232"
+      },
+      "9128619ef912fa612b5aa56172d455d76dbeb5f5263ed32f54d6953605879926": {
+        "title": "2026-09-28日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-28/",
+        "published_date": "Mon, 28 Sep 2026 02:28:00 GMT",
+        "first_seen": "2026-09-28T11:27:16.821740"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-28T01:24:17.040640",
-    "Finance": "2026-09-28T01:24:29.666693",
-    "Ai": "2026-09-28T01:24:29.808234"
+    "Technology": "2026-09-28T11:27:00.819926",
+    "Finance": "2026-09-28T11:27:16.695113",
+    "Ai": "2026-09-28T11:27:16.821748"
   }
 }
