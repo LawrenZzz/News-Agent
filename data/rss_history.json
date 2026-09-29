@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0b1be6dab545a83e4034f775342566deb3d3c5f0e0df87e997df0657b549ad70": {
-        "title": "Agent 时代，为什么有人开始重新造 Google？",
-        "link": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 29 Aug 2026 12:00:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.614119"
-      },
-      "965b58ffd801b311cc4ad4ee65895f85f1d011e02641d309a32a0594327e2143": {
-        "title": "人形机器人，进入淘汰赛",
-        "link": "https://www.tmtpost.com/8121235.html",
-        "published_date": "Sat, 29 Aug 2026 12:19:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.614147"
-      },
-      "6b329bd8208abc8c32725b4a2dfea27d96b95a08ea59e5e40516aaa8d79628be": {
-        "title": "宇树市值大跌后，能否继续扛起具身智能大旗",
-        "link": "https://www.tmtpost.com/8121600.html",
-        "published_date": "Sat, 29 Aug 2026 12:46:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.614150"
-      },
-      "ec72942d5b4f3a32d8096d8db87056423014bfb3994c1eb46f47790c7a5080a9": {
-        "title": "腾讯重金投入 AI 之后，混元 Hy4 preview 交出了什么答卷",
-        "link": "http://www.geekpark.net/news/369550",
-        "published_date": "Sat, 29 Aug 2026 13:58:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.614152"
-      },
-      "67445b0135e4079e38678212c36cc69c84112425920ba213d54be5015323fd9e": {
-        "title": "273号文最大的溢出效应：AI随访成「刚需」",
-        "link": "https://www.tmtpost.com/8121563.html",
-        "published_date": "Sat, 29 Aug 2026 12:46:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.614154"
-      },
-      "0b43e296a3e6611cc79814ff1be983364ebb6729be9b4cb8e74b7f6bed3ac078": {
-        "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
-        "link": "http://www.geekpark.net/news/369551",
-        "published_date": "Sun, 30 Aug 2026 08:28:00 GMT",
-        "first_seen": "2026-08-30T01:03:11.159690"
-      },
-      "b38c41e4a190712ea1fb24c3c8063316029effa891f86a41e03aa41fbfe4c490": {
-        "title": "腾讯猛踩油门，混元追赶的127天",
-        "link": "https://www.tmtpost.com/8121424.html",
-        "published_date": "Sat, 29 Aug 2026 12:46:00 GMT",
-        "first_seen": "2026-08-30T01:03:11.159700"
-      },
-      "1367450bae57ca32b10848b37bbf045bef4771f65d5e1ef5a651a2d559fb3483": {
-        "title": "MiniMax 的中报魔术：亏损在收窄，烧钱在加速",
-        "link": "https://www.tmtpost.com/8121654.html",
-        "published_date": "Sat, 29 Aug 2026 15:50:00 GMT",
-        "first_seen": "2026-08-30T01:03:11.159703"
-      },
-      "ba7927777e348e32e831312100bbb2722fee16686bb9df8bafab310ed253d215": {
-        "title": "收入暴涨20倍，壁仞科技杀疯了",
-        "link": "https://www.tmtpost.com/8121667.html",
-        "published_date": "Sat, 29 Aug 2026 15:50:00 GMT",
-        "first_seen": "2026-08-30T01:03:11.159705"
-      },
-      "cc8d9bfc04c7e59258f46e0ed9dfd6fe67f310d41363ce3b0378b76963138e5d": {
-        "title": "垂类App正在集体“消失”",
-        "link": "https://www.tmtpost.com/8121590.html",
-        "published_date": "Sat, 29 Aug 2026 12:46:00 GMT",
-        "first_seen": "2026-08-30T01:03:11.159706"
-      },
       "35fbfc523589debe0d7bb49835350ff1c37b0fd96488b0b29946b0d13cce9e7e": {
         "title": "对话艾博生物CEO英博：mRNA的第二战场，拆解人类首个肿瘤疫苗三期突破",
         "link": "https://www.tmtpost.com/8121867.html",
@@ -1801,69 +1741,39 @@
         "link": "http://www.geekpark.net/news/371125",
         "published_date": "Mon, 28 Sep 2026 18:06:00 GMT",
         "first_seen": "2026-09-28T11:27:00.819924"
+      },
+      "26e6cd8934c29c8bb3ed83effa9b4f1a0e7ec297dc51afe22952d51159900af1": {
+        "title": "AMD 官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI",
+        "link": "https://www.tmtpost.com/8154886.html",
+        "published_date": "Tue, 29 Sep 2026 10:23:00 GMT",
+        "first_seen": "2026-09-29T02:31:13.032460"
+      },
+      "f4f642aa696daa365ad78b85710251583c1f637ce2b31cc2c638e4370ee84c8c": {
+        "title": "新型电池“十五五”规划落地，全固态电池2027年装车倒计时，硫化锂价格仍是最后一公里",
+        "link": "https://www.tmtpost.com/8154671.html",
+        "published_date": "Tue, 29 Sep 2026 09:47:00 GMT",
+        "first_seen": "2026-09-29T02:31:13.032474"
+      },
+      "d9c50141c54782ce33fc88537e98a94aa6d7534cfb6468864f5dd5f4f556aefb": {
+        "title": "Finisar全球供应链负责人归国创业，在深圳造光芯片",
+        "link": "https://www.tmtpost.com/8154127.html",
+        "published_date": "Tue, 29 Sep 2026 10:25:00 GMT",
+        "first_seen": "2026-09-29T02:31:13.032476"
+      },
+      "a418fcea42cb61e677cf95f298e6786eac849c6ffd3aa11522efb715bb44ec37": {
+        "title": "制药技术新革命，AI 如何助力微生态药物研发？ | Rebuild 2022",
+        "link": "http://www.geekpark.net/news/371409",
+        "published_date": "Tue, 29 Sep 2026 09:33:00 GMT",
+        "first_seen": "2026-09-29T02:31:13.032478"
+      },
+      "9c1fac3919aa71bd0a5b90ac96bb1ea4936339b6f10ee616cda5e02a0678afe3": {
+        "title": "一个AI应用爆火，会带动多少硬件生意？",
+        "link": "https://www.tmtpost.com/8153647.html",
+        "published_date": "Mon, 28 Sep 2026 16:27:00 GMT",
+        "first_seen": "2026-09-29T02:31:13.032480"
       }
     },
     "Finance": {
-      "3a8c56087cbb5d2749283e887828df57eeab5d96cca8222801842c27fd739ce0": {
-        "title": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.",
-        "link": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Aug 2026 11:00:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.666201"
-      },
-      "6a439d8613757454a8ae92759ef0a01fd83ad766c6733221b4d93bfb1bca8700": {
-        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Aug 2026 11:00:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.666211"
-      },
-      "669f014e5ef79ee96fb40e885395f84de95a9ae9fe9d86c0683b1c3621400052": {
-        "title": "Swiss wealth managers urge delay to ownership register after Liechtenstein hack",
-        "link": "https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1",
-        "published_date": "Sat, 29 Aug 2026 11:00:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.666213"
-      },
-      "2902049d3af9e4125b4a02817296a4474bc1864c086b07ac6376309a79f26fe0": {
-        "title": "Dozens killed in Russian strike on ammunition depot near Kyiv",
-        "link": "https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84",
-        "published_date": "Sat, 29 Aug 2026 09:54:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.666214"
-      },
-      "13d0cf59f2d6d9c93dda0e17dfc003ad86ab91cfb2d672b76e0b2a7240b147d7": {
-        "title": "US campaign to isolate Iran closes in on Dubai",
-        "link": "https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1",
-        "published_date": "Sat, 29 Aug 2026 08:55:00 GMT",
-        "first_seen": "2026-08-29T11:30:07.666216"
-      },
-      "bfa4aaefdbc5d8b5568816c66ed4b49e2c743caca314d7f81656747fe7c5aad0": {
-        "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
-        "link": "https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1",
-        "published_date": "Sat, 29 Aug 2026 16:28:00 GMT",
-        "first_seen": "2026-08-30T01:03:24.649232"
-      },
-      "1e4843c47aee2e86d78ca6719f334a1d3c2dcc947fc49045454afd48e3cc8e85": {
-        "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
-        "link": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1",
-        "published_date": "Sat, 29 Aug 2026 12:57:00 GMT",
-        "first_seen": "2026-08-30T01:03:24.649239"
-      },
-      "8ca2d947a6d9c43ebd6c565bc73c8d7ff4e890d3d494ef07b7509fd7841e2eca": {
-        "title": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.",
-        "link": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Aug 2026 12:00:00 GMT",
-        "first_seen": "2026-08-30T01:03:24.649241"
-      },
-      "cfc07f16907e991c22d94164e6173c7de2d17906cfcc351069c128dcf2abf615": {
-        "title": "Oil deal with US is denounced by both sides of Venezuelan politics",
-        "link": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1",
-        "published_date": "Sat, 29 Aug 2026 22:38:00 GMT",
-        "first_seen": "2026-08-30T01:03:24.649243"
-      },
-      "86cb1ccfa1cf03fca6ba418020073a453a6730f9d68ea009aeee0eda3077a4ce": {
-        "title": "Why would someone lock up money by rolling it into a 401(k)?",
-        "link": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
-        "published_date": "Sat, 29 Aug 2026 13:00:00 GMT",
-        "first_seen": "2026-08-30T01:03:24.649245"
-      },
       "92f8c405afaba1ed9bd00349026d42747d4bb551e5fe378f2f4d60d0d7061220": {
         "title": "What’s the fiscal hit from higher yields?",
         "link": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
@@ -3597,39 +3507,39 @@
         "link": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
         "published_date": "Mon, 28 Sep 2026 04:04:00 GMT",
         "first_seen": "2026-09-28T11:27:16.695111"
+      },
+      "aa1a81962d14832ddc0bf19cd030104b20bb6ef02235e962d99434f19b4dc1fe": {
+        "title": "AMD to buy Fei-Fei Li’s AI start-up for $8bn",
+        "link": "https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 21:53:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.546607"
+      },
+      "aa2e8f45a3155b8552814b4bb0c410dccf641179a46fe4aab170b8260e6dd7d3": {
+        "title": "OpenAI axes next model citing safety issues",
+        "link": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 00:48:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.546613"
+      },
+      "05def237727176ca3a06563e851f7e5d41dc5dbdce6f5cca75f43026ca8edee1": {
+        "title": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
+        "link": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 01:06:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.546616"
+      },
+      "1b091ed060ac7edac2f1883592fb01f4c5d0eaf05c0bb5286006b52f7412825f": {
+        "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+        "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 01:31:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.546617"
+      },
+      "42bf74d8cb24a117f0b25dab410c65b36daae758ae7465be3389bf7752175535": {
+        "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade",
+        "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+        "published_date": "Mon, 28 Sep 2026 21:38:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.546619"
       }
     },
     "Ai": {
-      "b51aae28627c0f1af03bd3c861bd894259fbc794d0428ac3e7d27d9669c037c1": {
-        "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-        "link": "https://www.qbitai.com/2026/08/481223.html",
-        "published_date": "Sat, 29 Aug 2026 12:50:00 GMT",
-        "first_seen": "2026-08-30T01:03:56.565978"
-      },
-      "eb0fa00af4bd1c0aaa9f58f24fea858238bf515ae007106d8ea058dee02ab3d1": {
-        "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-        "link": "https://www.qbitai.com/2026/08/481372.html",
-        "published_date": "Sat, 29 Aug 2026 13:11:00 GMT",
-        "first_seen": "2026-08-30T01:03:56.565984"
-      },
-      "e0f1116c23808429d4e7f809fa04f16ea51005936a293bb9f3d79e574057f9cc": {
-        "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
-        "link": "https://www.qbitai.com/2026/08/481075.html",
-        "published_date": "Sat, 29 Aug 2026 12:26:00 GMT",
-        "first_seen": "2026-08-30T01:03:56.565987"
-      },
-      "6af9f585cbf25fe47ba89b1e60b0d693d85192cca05cfa1ed3929d2ceaf3a20c": {
-        "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-        "link": "https://www.qbitai.com/2026/08/480940.html",
-        "published_date": "Sat, 29 Aug 2026 12:11:00 GMT",
-        "first_seen": "2026-08-30T01:03:56.565989"
-      },
-      "58c17a15ff3eb32f40854e1e1540bf8bcc0a1bd7e58cbab7c060687c9e5f8726": {
-        "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-        "link": "https://www.qbitai.com/2026/08/480787.html",
-        "published_date": "Sat, 29 Aug 2026 11:35:00 GMT",
-        "first_seen": "2026-08-30T01:03:56.565991"
-      },
       "99aaf2d16f5fd191fc8017ba604f7e5589489c56242d375c6e6eb0fe78acbc63": {
         "title": "2026-08-30日刊",
         "link": "https://hex2077.dev/docs/2026-08/2026-08-30/",
@@ -4745,13 +4655,25 @@
         "link": "https://hex2077.dev/docs/2026-09/2026-09-28/",
         "published_date": "Mon, 28 Sep 2026 02:28:00 GMT",
         "first_seen": "2026-09-28T11:27:16.821740"
+      },
+      "d92d68c49ed6b576ca930cd3ccc87cd754c2b63830092f583e439a989caf1d48": {
+        "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+        "link": "https://www.qbitai.com/2026/09/499098.html",
+        "published_date": "Tue, 29 Sep 2026 00:49:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.687540"
+      },
+      "bb4257ae5e5b2f3c5f700ef79cd92a93eef2ec0e0b1c04f0bf97d420106e9d8b": {
+        "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+        "link": "https://www.qbitai.com/2026/09/498877.html",
+        "published_date": "Mon, 28 Sep 2026 12:43:00 GMT",
+        "first_seen": "2026-09-29T02:31:33.687548"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-28T11:27:00.819926",
-    "Finance": "2026-09-28T11:27:16.695113",
-    "Ai": "2026-09-28T11:27:16.821748"
+    "Technology": "2026-09-29T02:31:13.032483",
+    "Finance": "2026-09-29T02:31:33.546622",
+    "Ai": "2026-09-29T02:31:33.687551"
   }
 }
