@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "35fbfc523589debe0d7bb49835350ff1c37b0fd96488b0b29946b0d13cce9e7e": {
-        "title": "对话艾博生物CEO英博：mRNA的第二战场，拆解人类首个肿瘤疫苗三期突破",
-        "link": "https://www.tmtpost.com/8121867.html",
-        "published_date": "Sun, 30 Aug 2026 11:09:00 GMT",
-        "first_seen": "2026-08-30T10:16:35.211690"
-      },
-      "93113efe1347bffbe9e18bc4248b25ff663094ce79a6af45e0446a6127d24f1e": {
-        "title": "【数智周报】OpenAI奥尔特曼：担心AI或被少数人控制，甚至摆脱人类控制；黄仁勋：AI已抵达产业拐点，彻底告别概念阶段；腾讯高管回应“腾讯做AI慢了”质疑",
-        "link": "https://www.tmtpost.com/8121886.html",
-        "published_date": "Sun, 30 Aug 2026 09:39:00 GMT",
-        "first_seen": "2026-08-30T10:16:35.211699"
-      },
-      "7d924581ccb5d0bf7aa8f9cd135c48beff4dfd191932ac07fcc52b6252e71362": {
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-        "link": "https://www.tmtpost.com/8121824.html",
-        "published_date": "Sun, 30 Aug 2026 09:34:00 GMT",
-        "first_seen": "2026-08-30T10:16:35.211701"
-      },
-      "4983661dbfdb39c4225893f193a60f007a763a056b6fb35dc781655f315166f9": {
-        "title": "营收超381 亿，二线电池企业欣旺达半年报如何拆解？动储业务高增背后有三笔账需要细看",
-        "link": "https://www.tmtpost.com/8121945.html",
-        "published_date": "Sun, 30 Aug 2026 11:09:00 GMT",
-        "first_seen": "2026-08-30T10:16:35.211703"
-      },
-      "989cb42c40f39836941799827606766fbe2d6e36555bbb774161f15889c09057": {
-        "title": "优必选，追上了宇树？",
-        "link": "https://www.tmtpost.com/8121802.html",
-        "published_date": "Sun, 30 Aug 2026 09:41:00 GMT",
-        "first_seen": "2026-08-30T10:16:35.211704"
-      },
       "700f5f9282a2098b997f0517277643df23f0b943e43b07a2cccbe779d6c3d4cc": {
         "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
         "link": "http://www.geekpark.net/news/369555",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8153647.html",
         "published_date": "Mon, 28 Sep 2026 16:27:00 GMT",
         "first_seen": "2026-09-29T02:31:13.032480"
+      },
+      "ee5a028300b1afa62a349a8d314a5e17713f4ce080379c6c4b8e219acf73b0d4": {
+        "title": "亚马逊云科技无法恢复仅存储在受损的中东可用区的数据",
+        "link": "https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 18:41:00 GMT",
+        "first_seen": "2026-09-29T11:04:28.189975"
+      },
+      "256d922f96210adbbdd48e998b752334a8031a84931b6f8119de0dacb6991938": {
+        "title": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 18:00:00 GMT",
+        "first_seen": "2026-09-29T11:04:28.189985"
+      },
+      "84f50707fd7d75287c6ce2549912d7d4d3ae5c742043a9aaa1492c24b7b4ed09": {
+        "title": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "link": "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 15:49:00 GMT",
+        "first_seen": "2026-09-29T11:04:28.189988"
+      },
+      "bfc257c3cd781c17fe0bf66571c7c34fb67edef1a2b32307534a16ac22225fd1": {
+        "title": "设计安全、可扩展的人脸验证系统",
+        "link": "https://www.infoq.cn/article/wLJHYzKDUdt5wSyZ06Fp?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 14:34:00 GMT",
+        "first_seen": "2026-09-29T11:04:28.189989"
+      },
+      "f42e08262affb32d3360037a3eaf0b40554cad814978d1985a8c3e44d5e22e05": {
+        "title": "释放隐藏的商业价值：行业领袖如何将庞杂数据转化为即时行动 ｜ 技术趋势",
+        "link": "https://www.infoq.cn/article/imwpHlbHtUjoHmzjah8Q?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 14:00:00 GMT",
+        "first_seen": "2026-09-29T11:04:28.189990"
       }
     },
     "Finance": {
-      "92f8c405afaba1ed9bd00349026d42747d4bb551e5fe378f2f4d60d0d7061220": {
-        "title": "What’s the fiscal hit from higher yields?",
-        "link": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
-        "published_date": "Sun, 30 Aug 2026 04:12:00 GMT",
-        "first_seen": "2026-08-30T10:16:45.047703"
-      },
-      "a3ebf4906f1ebb5178c121bd753edb0486a75bfcc984577ffa89eb7a5f871394": {
-        "title": "Rising bond yields add tens of billions to G7 countries’ debt costs",
-        "link": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-30T10:16:45.047709"
-      },
-      "2d5b2029b50deb0f3d1e0d53bbc41d4f6a56d0725b1d77f4f129a54968c4463e": {
-        "title": "‘SmashCos’: Europe’s oil majors create new generation of independent companies",
-        "link": "https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-30T10:16:45.047711"
-      },
-      "cc2f3186cddcda5135572dbc24eec8732ee5e8de442183ee96e2791746c2a476": {
-        "title": "EU to help tourism hotspots crack down on Airbnb-style holiday rentals",
-        "link": "https://www.ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-30T10:16:45.047713"
-      },
-      "6bc466520ca90c43e9c5225505a5c72df077f41192f6190b20034471b7b2e52e": {
-        "title": "Iceland rejects reopening talks on EU entry",
-        "link": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 09:40:00 GMT",
-        "first_seen": "2026-08-30T10:16:45.047714"
-      },
       "c8b2ce06d10177af9fde0ba3815b825749712f133df05c01d0d8011d9e220288": {
         "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
@@ -3537,15 +3507,39 @@
         "link": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
         "published_date": "Mon, 28 Sep 2026 21:38:00 GMT",
         "first_seen": "2026-09-29T02:31:33.546619"
+      },
+      "f24fbe9cd5832aa1e1cc501d7725fc2990802452de9a277fe9bdb79ed896fa9f": {
+        "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
+        "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 10:46:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.597453"
+      },
+      "9a560215cfefcdb5021d344c5e0eddc172b5481ed1fdfdb11030c4af2620c9fd": {
+        "title": "Novo Nordisk strikes second licensing deal since frosty capital-markets day",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 09:45:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.597462"
+      },
+      "aa9a41e4df6a1b223ab86a191df53a09f01cc89035441de0e12db91b7457f10d": {
+        "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+        "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 09:26:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.597464"
+      },
+      "f53920b3ed167520d32a4ab85ac6e6bcd7dc15ba4fdd7ce8d1adf62f8b3cd240": {
+        "title": "Celebrity couple Jenny McCarthy and Donnie Wahlberg are selling $2.8 million Illinois home",
+        "link": "https://www.marketwatch.com/story/celebrity-couple-jenny-mccarthy-and-donnie-wahlberg-are-selling-2-8-million-illinois-home-b48f4191?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 09:00:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.597465"
+      },
+      "a19374dbf8cb9ba762909560676f05a7f94be706e0e69499a3465c868f8615ef": {
+        "title": "Kris Jenner delists $13.5 million home that was featured in ‘Keeping Up With the Kardashians’",
+        "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 08:58:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.597466"
       }
     },
     "Ai": {
-      "99aaf2d16f5fd191fc8017ba604f7e5589489c56242d375c6e6eb0fe78acbc63": {
-        "title": "2026-08-30日刊",
-        "link": "https://hex2077.dev/docs/2026-08/2026-08-30/",
-        "published_date": "Sun, 30 Aug 2026 10:45:00 GMT",
-        "first_seen": "2026-08-30T10:16:45.167436"
-      },
       "7d7ae4fdea3ac572c76bc389fc8d6bfce487956cef1a9b455c6378cb81654da3": {
         "title": "「GPT-6」灰测demo刷屏！周四发布在即",
         "link": "https://www.qbitai.com/2026/08/481893.html",
@@ -4667,13 +4661,43 @@
         "link": "https://www.qbitai.com/2026/09/498877.html",
         "published_date": "Mon, 28 Sep 2026 12:43:00 GMT",
         "first_seen": "2026-09-29T02:31:33.687548"
+      },
+      "a05a9dd3fa0387527eee2c28c54f9c2baafe06f54956fcc0aa6191f9f969f102": {
+        "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+        "link": "https://www.qbitai.com/2026/09/499239.html",
+        "published_date": "Tue, 29 Sep 2026 10:56:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.703756"
+      },
+      "0b0c4359d8356a75a21adfbdc0bf75103d39c40dee33449bc0a41b3cfd8d4596": {
+        "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+        "link": "https://www.qbitai.com/2026/09/499188.html",
+        "published_date": "Tue, 29 Sep 2026 07:59:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.703763"
+      },
+      "d560ef17f492d6e74a5e44e213f8fb2981b93521a1e88e0553d4033ca622b68e": {
+        "title": "OpenAI因新模型太强叫停发布",
+        "link": "https://www.qbitai.com/2026/09/499140.html",
+        "published_date": "Tue, 29 Sep 2026 07:49:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.703765"
+      },
+      "75b9b0e0cb930337ee34a35d6695f7cc7f4b52f13294f0a6e67e0a03db0bc6fd": {
+        "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+        "link": "https://www.qbitai.com/2026/09/499135.html",
+        "published_date": "Tue, 29 Sep 2026 07:10:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.703766"
+      },
+      "d3133f2efab6f2c79027359e9f39566c16e0325dccc5eec56b90d4016126c9fe": {
+        "title": "2026-09-29日刊",
+        "link": "https://hex2077.dev/docs/2026-09/2026-09-29/",
+        "published_date": "Tue, 29 Sep 2026 08:20:00 GMT",
+        "first_seen": "2026-09-29T11:04:39.703767"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-29T02:31:13.032483",
-    "Finance": "2026-09-29T02:31:33.546622",
-    "Ai": "2026-09-29T02:31:33.687551"
+    "Technology": "2026-09-29T11:04:28.189993",
+    "Finance": "2026-09-29T11:04:39.597468",
+    "Ai": "2026-09-29T11:04:39.703769"
   }
 }
