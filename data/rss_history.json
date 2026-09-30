@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "700f5f9282a2098b997f0517277643df23f0b943e43b07a2cccbe779d6c3d4cc": {
-        "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
-        "link": "http://www.geekpark.net/news/369555",
-        "published_date": "Sun, 30 Aug 2026 18:53:00 GMT",
-        "first_seen": "2026-08-31T01:04:52.180187"
-      },
-      "3c6eecfce73fa6cbc4d1968d742d2db168b845980e0f00e336772e3b7dfceba0": {
-        "title": "【钛晨报】个人住房贷款政策有大变化，个人房贷期限延至最长40年；OpenAI将终止向Cursor提供模型服务，马斯克回应；报告称AI公司每赚100美元近40美元流向云巨头",
-        "link": "https://www.tmtpost.com/8122212.html",
-        "published_date": "Mon, 31 Aug 2026 07:20:00 GMT",
-        "first_seen": "2026-08-31T01:04:52.180199"
-      },
-      "a174e8128548cd548cce62fbd780eb228bc5cfc9ede814d2ecbed4f3809868e5": {
-        "title": "天数智芯盈利了，但钱不是卖芯片赚的",
-        "link": "https://www.tmtpost.com/8122018.html",
-        "published_date": "Sun, 30 Aug 2026 18:45:00 GMT",
-        "first_seen": "2026-08-31T01:04:52.180201"
-      },
-      "810cc2a25b8316e89e38680359283b098bd5f92041fea527ac5a7f0a993e8360": {
-        "title": "自动驾驶入法后，罚单还得车主交?",
-        "link": "https://www.tmtpost.com/8122093.html",
-        "published_date": "Sun, 30 Aug 2026 18:45:00 GMT",
-        "first_seen": "2026-08-31T01:04:52.180204"
-      },
-      "ed770c5fc20d91a69b6cdb767919beb8c5252dd9e67b7256c1d3b65865df4831": {
-        "title": "人形机器人还撑不起极智嘉",
-        "link": "https://www.tmtpost.com/8122055.html",
-        "published_date": "Sun, 30 Aug 2026 18:48:00 GMT",
-        "first_seen": "2026-08-31T01:04:52.180205"
-      },
       "9791b38d35ba034e1d849c818e87dd51e04744eab1148a53e670a19e4c3d483b": {
         "title": "英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了",
         "link": "https://www.tmtpost.com/8122952.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/imwpHlbHtUjoHmzjah8Q?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 29 Sep 2026 14:00:00 GMT",
         "first_seen": "2026-09-29T11:04:28.189990"
+      },
+      "46a10773cc9491796480ae8ca63a450f07f0d5d530d611449eb23dd956ab655f": {
+        "title": "82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报",
+        "link": "https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 13:00:00 GMT",
+        "first_seen": "2026-09-30T01:50:46.333882"
+      },
+      "4c0d90c5b6470726571cec8fc465b9e34efb6e426cd50b7207bf26e0a02079b6": {
+        "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+        "link": "http://www.geekpark.net/news/372005",
+        "published_date": "Wed, 30 Sep 2026 08:25:00 GMT",
+        "first_seen": "2026-09-30T01:50:46.333892"
+      },
+      "69211ea39901eba51b899692d10958b468071cea7e167e5cda42fd090dd89dae": {
+        "title": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "link": "https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 29 Sep 2026 18:07:00 GMT",
+        "first_seen": "2026-09-30T01:50:46.333894"
+      },
+      "a490572dc2b63dbdeb11d875368be54b73d0cdd51d30642502864c34a1c5c750": {
+        "title": "Anthropic 招股书里，最耐人寻味的 7 个细节",
+        "link": "http://www.geekpark.net/news/371994",
+        "published_date": "Tue, 29 Sep 2026 17:12:00 GMT",
+        "first_seen": "2026-09-30T01:50:46.333897"
+      },
+      "97f919d96457e552d03a40b3c7d80e272951c85e8e16eecc0546173804509cc8": {
+        "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+        "link": "http://www.geekpark.net/news/372003",
+        "published_date": "Wed, 30 Sep 2026 02:59:00 GMT",
+        "first_seen": "2026-09-30T01:50:46.333898"
       }
     },
     "Finance": {
-      "c8b2ce06d10177af9fde0ba3815b825749712f133df05c01d0d8011d9e220288": {
-        "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
-        "published_date": "Mon, 31 Aug 2026 01:01:00 GMT",
-        "first_seen": "2026-08-31T01:05:06.556223"
-      },
-      "0fa3fb0803f6ae5faa02724978a0bcecccc728a66edb8bbfdda1e3460641cec5": {
-        "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
-        "link": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 19:00:00 GMT",
-        "first_seen": "2026-08-31T01:05:06.556230"
-      },
-      "fd17dbd4214619738fcd6ee2a4cb4f35e5ad1aadcc345bc30e7afa5ffd133e5b": {
-        "title": "US and Iran exchange fire for the first time in more than a month",
-        "link": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 23:47:00 GMT",
-        "first_seen": "2026-08-31T01:05:06.556232"
-      },
-      "e46c1f42c63e91359b014974d66aca82d73e3ad16dadae5f296e869b33c35f5a": {
-        "title": "These charts show how leverage-happy investors are transforming the stock market",
-        "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-        "published_date": "Sun, 30 Aug 2026 13:00:00 GMT",
-        "first_seen": "2026-08-31T01:05:06.556233"
-      },
-      "d45fa1fc8f00cda5cfa65db2111dc209371fcfb8c27e739ad2b9b7113eed26f7": {
-        "title": "Controversial Venezuelan executive courts investors after Trump oil deal",
-        "link": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 12:12:00 GMT",
-        "first_seen": "2026-08-31T01:05:06.556234"
-      },
       "1f71e67e1f0e0156621fe6a22542265e9c7ed97fea87293eb60d8d5b12224667": {
         "title": "Will financial innovation dethrone the dollar?",
         "link": "https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3",
@@ -3537,6 +3507,36 @@
         "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
         "published_date": "Tue, 29 Sep 2026 08:58:00 GMT",
         "first_seen": "2026-09-29T11:04:39.597466"
+      },
+      "70d42c51e7a6da14442910696c1ded48a117ebdf7133480bd3adb0e68813bc8c": {
+        "title": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
+        "link": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 21:56:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.820805"
+      },
+      "4374d174ba8388638c7620767339c50bf7272be0b3331d8d6281cf5b60446460": {
+        "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
+        "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:56:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.820815"
+      },
+      "04e8eba8b17ab5810d9e59e6fbac0756beca06638527f50f09f4effed4418154": {
+        "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
+        "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:53:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.820819"
+      },
+      "f033d1d2fe246e2b37ef31beab6a23352b7e7690453b2cfc9f198ed04ddaf145": {
+        "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+        "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:52:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.820821"
+      },
+      "09cdacc5eaf9deb093c0146a5a70ff1d08ca5e807cb2b489947819ad9e718132": {
+        "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
+        "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:33:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.820822"
       }
     },
     "Ai": {
@@ -4691,13 +4691,25 @@
         "link": "https://hex2077.dev/docs/2026-09/2026-09-29/",
         "published_date": "Tue, 29 Sep 2026 08:20:00 GMT",
         "first_seen": "2026-09-29T11:04:39.703767"
+      },
+      "700d34189eaa31fbc1f0acf237b31c03b4e9ec74524e06a47701261bd36954b4": {
+        "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "link": "https://www.qbitai.com/2026/09/499246.html",
+        "published_date": "Tue, 29 Sep 2026 23:01:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.956252"
+      },
+      "96302b9878db64db0ac59636ac743804ece7e8334528e18454723fb7b548add4": {
+        "title": "How Diffusion Controller unifies and simplifies AI image generation",
+        "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+        "published_date": "Tue, 29 Sep 2026 18:38:00 GMT",
+        "first_seen": "2026-09-30T01:51:34.956261"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-29T11:04:28.189993",
-    "Finance": "2026-09-29T11:04:39.597468",
-    "Ai": "2026-09-29T11:04:39.703769"
+    "Technology": "2026-09-30T01:50:46.333901",
+    "Finance": "2026-09-30T01:51:34.820825",
+    "Ai": "2026-09-30T01:51:34.956264"
   }
 }
