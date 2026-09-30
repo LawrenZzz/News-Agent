@@ -1771,6 +1771,36 @@
         "link": "http://www.geekpark.net/news/372003",
         "published_date": "Wed, 30 Sep 2026 02:59:00 GMT",
         "first_seen": "2026-09-30T01:50:46.333898"
+      },
+      "deb74140a2d6ee5128931ef738ae7af6bf5ab0785a0dda06ebc414911b7e3411": {
+        "title": "OpenAI刹车，Meta狂飙，AI竞赛的“胜负手”变了",
+        "link": "https://www.tmtpost.com/8156309.html",
+        "published_date": "Wed, 30 Sep 2026 15:41:00 GMT",
+        "first_seen": "2026-09-30T10:53:54.922480"
+      },
+      "1047896a08a9ff1cb7bb1805694d2dd3b5b652f0f6cf8538bba43cd2b8fa6402": {
+        "title": "AI 进展观察 | 个人 Agent 与企业 Agent：定位分化、全球格局与演进路径",
+        "link": "https://www.tmtpost.com/8157089.html",
+        "published_date": "Wed, 30 Sep 2026 15:19:00 GMT",
+        "first_seen": "2026-09-30T10:53:54.922491"
+      },
+      "3e7b5628f649b10921138e5b6ca05c276e1b713341a6349d9cd987e134c3de25": {
+        "title": "砸200亿搞换电后，蔚来为何与吉利“联姻”？",
+        "link": "https://www.tmtpost.com/8156496.html",
+        "published_date": "Wed, 30 Sep 2026 18:43:00 GMT",
+        "first_seen": "2026-09-30T10:53:54.922495"
+      },
+      "1333bc856d08342f7561003ce66ed57a9ea44305e1ae989ba6cdc22cf1fa5185": {
+        "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
+        "link": "https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 30 Sep 2026 17:37:00 GMT",
+        "first_seen": "2026-09-30T10:53:54.922496"
+      },
+      "8bb58765f30e298a5c4198c1c97f372af9807bea7d4299d2211ef0c7b53709c2": {
+        "title": "一间项目室里长出的Qoder：阿里如何用一支AI Native团队，押注Agent时代的入口",
+        "link": "https://www.tmtpost.com/8156900.html",
+        "published_date": "Wed, 30 Sep 2026 16:12:00 GMT",
+        "first_seen": "2026-09-30T10:53:54.922498"
       }
     },
     "Finance": {
@@ -3537,6 +3567,36 @@
         "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
         "published_date": "Tue, 29 Sep 2026 21:33:00 GMT",
         "first_seen": "2026-09-30T01:51:34.820822"
+      },
+      "8cab40fe8045e739f3708c6b9dca1d18c602557143a372db7b1b8bb50f52850a": {
+        "title": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+        "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+        "published_date": "Wed, 30 Sep 2026 09:32:00 GMT",
+        "first_seen": "2026-09-30T10:54:11.495671"
+      },
+      "95880a2781a61fd93ccd123754e0006a57695127c400a762885a88e239b25216": {
+        "title": "Vanguard warns France is ‘degrading credit’ as borrowing costs surge",
+        "link": "https://www.ft.com/content/7820a84f-338e-4b91-a9b6-241a9bf81539?syn-25a6b1a6=1",
+        "published_date": "Wed, 30 Sep 2026 08:42:00 GMT",
+        "first_seen": "2026-09-30T10:54:11.495681"
+      },
+      "9698827116401c8d80451ec0566f9b1602ad48ebcf9b8f444c159a04d058b97a": {
+        "title": "Is the world really drowning in debt?",
+        "link": "https://www.ft.com/content/a1202ae1-0324-4383-a082-4cc522a8fdbc?syn-25a6b1a6=1",
+        "published_date": "Wed, 30 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-30T10:54:11.495683"
+      },
+      "f67a353c5ea2feb1fbec6f3957cb6a26b7e1e52d050d6dab69aaa9573d4de499": {
+        "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+        "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+        "published_date": "Wed, 30 Sep 2026 10:15:00 GMT",
+        "first_seen": "2026-09-30T10:54:11.495685"
+      },
+      "a91b5239856f6641d841048ba6ef1406dc2624eea06f2f8e88b6cc334f3a740a": {
+        "title": "White House holds crunch talks on diesel export ban as midterms near",
+        "link": "https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1",
+        "published_date": "Wed, 30 Sep 2026 04:00:00 GMT",
+        "first_seen": "2026-09-30T10:54:11.495686"
       }
     },
     "Ai": {
@@ -4703,13 +4763,43 @@
         "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
         "published_date": "Tue, 29 Sep 2026 18:38:00 GMT",
         "first_seen": "2026-09-30T01:51:34.956261"
+      },
+      "9ca2cc3bd81fdfaaaba4025871732aef068d8aa53b4b105cc6be5c1ba4b59417": {
+        "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+        "link": "https://www.qbitai.com/2026/09/499263.html",
+        "published_date": "Wed, 30 Sep 2026 02:53:00 GMT",
+        "first_seen": "2026-09-30T10:54:22.975060"
+      },
+      "aec6bd89fb906e0077731dc47543c0d86f904e7dfe521f89ac9a4be4aca4bd2d": {
+        "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+        "link": "https://www.qbitai.com/2026/09/499493.html",
+        "published_date": "Wed, 30 Sep 2026 07:54:00 GMT",
+        "first_seen": "2026-09-30T10:54:22.975068"
+      },
+      "669e54d994d50054301a87344df36bb82369cdf7e00ac59a4a21bb2b7e785c91": {
+        "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+        "link": "https://www.qbitai.com/2026/09/499308.html",
+        "published_date": "Wed, 30 Sep 2026 05:18:00 GMT",
+        "first_seen": "2026-09-30T10:54:22.975070"
+      },
+      "258eb8ed790d3e808b6541865332aa06fea70b5fae5d6b62980f37f6f93a9a7c": {
+        "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+        "link": "https://www.qbitai.com/2026/09/499592.html",
+        "published_date": "Wed, 30 Sep 2026 07:58:00 GMT",
+        "first_seen": "2026-09-30T10:54:22.975072"
+      },
+      "5a86869b9f17d2a3e654a74d064293090ede2db1a20afe7e7188a48d527cb3ca": {
+        "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+        "link": "https://www.qbitai.com/2026/09/499280.html",
+        "published_date": "Wed, 30 Sep 2026 04:42:00 GMT",
+        "first_seen": "2026-09-30T10:54:22.975074"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-30T01:50:46.333901",
-    "Finance": "2026-09-30T01:51:34.820825",
-    "Ai": "2026-09-30T01:51:34.956264"
+    "Technology": "2026-09-30T10:53:54.922500",
+    "Finance": "2026-09-30T10:54:11.495689",
+    "Ai": "2026-09-30T10:54:22.975075"
   }
 }
