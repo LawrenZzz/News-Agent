@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9791b38d35ba034e1d849c818e87dd51e04744eab1148a53e670a19e4c3d483b": {
-        "title": "英伟达129亿买下Hugging Face：拒绝5亿投资后，开源AI童话结束了",
-        "link": "https://www.tmtpost.com/8122952.html",
-        "published_date": "Mon, 31 Aug 2026 19:13:00 GMT",
-        "first_seen": "2026-08-31T11:21:23.601434"
-      },
-      "448c83b260104e61e764f4c3bcb75219e70274c6bb2974564f2359a59731b928": {
-        "title": "OpenAI 将全面断供 Cursor：SpaceX 收购后触发控制权条款",
-        "link": "https://www.infoq.cn/article/YiHrlKLX6I6IP92BgV7K?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 31 Aug 2026 14:16:00 GMT",
-        "first_seen": "2026-08-31T11:21:23.601442"
-      },
-      "91f4c19dc9177d9877874d3b67cc5c89c3c0aa9c88ffbfc3daa5792ab058dfb7": {
-        "title": "Meta用一整年证明Agent无法取代员工：事故增四成，工程师救火多七成",
-        "link": "https://www.infoq.cn/article/OCUqGd8wceo7UK23B7NO?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 31 Aug 2026 14:56:00 GMT",
-        "first_seen": "2026-08-31T11:21:23.601444"
-      },
-      "05f59645af3a5f42ec32ec43870cafb32f14e9148864e3575dbd98c253971992": {
-        "title": "“你以为买的是 DeepSeek Flash，到手可能是 1.5 bit 缩水版”：Pi 核心贡献者谈 AI Token 黑箱",
-        "link": "https://www.infoq.cn/article/rsiiPG7xwQakgyulC88D?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 31 Aug 2026 15:19:00 GMT",
-        "first_seen": "2026-08-31T11:21:23.601446"
-      },
-      "2e73b4a80cdfc6ce911ed51ba06460940917689886ece10c172f54474d841e7c": {
-        "title": "InfoQ 2026 年云计算与 DevOps 趋势报告",
-        "link": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 31 Aug 2026 09:53:00 GMT",
-        "first_seen": "2026-08-31T11:21:23.601447"
-      },
-      "794ed8990f568d1f3cd69b18a1c35c92af63523ddc391d109cf3fb0f1f7e97fa": {
-        "title": "一周砸出140亿美元，黄仁勋的千亿AI版图",
-        "link": "https://www.tmtpost.com/8123117.html",
-        "published_date": "Tue, 01 Sep 2026 08:44:00 GMT",
-        "first_seen": "2026-09-01T01:36:48.177626"
-      },
-      "7d4defeefeb729d64ae1efcd3fcbc6e8c71603c17f6e3ab2ddb552f0f8122365": {
-        "title": "OpenAI 被曝按吨囤 Mac mini，几万台全拿去训 AI 了",
-        "link": "https://www.tmtpost.com/8123802.html",
-        "published_date": "Tue, 01 Sep 2026 08:40:00 GMT",
-        "first_seen": "2026-09-01T01:36:48.177636"
-      },
-      "06db5161de2c77398622d215d19d4a9ccd443f302d068097ae9988a5f916fec1": {
-        "title": "Cisco 给 9 万员工配上个人 Agent：记住你的一切，还能替你跨系统办事",
-        "link": "https://www.infoq.cn/article/HQXDr69U4tUQUDzEiidW?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 31 Aug 2026 14:20:00 GMT",
-        "first_seen": "2026-09-01T01:36:48.177639"
-      },
-      "eb5d23762cc5bfcf0f217a32aaab651423339430786e6791b209a8649de062ec": {
-        "title": "不抢最贵GPU，专捡“没人要”的算力：前英伟达工程师搞出一套“拾荒者”打法",
-        "link": "https://www.infoq.cn/article/6gFLptyMHRQhrILOlQ9Q?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 31 Aug 2026 15:03:00 GMT",
-        "first_seen": "2026-09-01T01:36:48.177641"
-      },
-      "b1938390aa6d8fb9fb782be44e86235f7bb3cab4d84602b08b6119cfdfb6ef6d": {
-        "title": "3D NAND闪存，藏了三张底牌",
-        "link": "https://www.tmtpost.com/8123403.html",
-        "published_date": "Tue, 01 Sep 2026 09:26:00 GMT",
-        "first_seen": "2026-09-01T01:36:48.177643"
-      },
       "3ae8d358954bcfa44e845380bcfcbacbefe850fa0223639d933853199a09634a": {
         "title": "通过操作 DRAM 控制器寄存器可突破 CPU 内存隔离机制",
         "link": "https://www.infoq.cn/article/G5CDMcK3tU0h71LzUlyo?utm_source=rss&utm_medium=article",
@@ -1801,69 +1741,39 @@
         "link": "https://www.tmtpost.com/8156900.html",
         "published_date": "Wed, 30 Sep 2026 16:12:00 GMT",
         "first_seen": "2026-09-30T10:53:54.922498"
+      },
+      "751286ed7299770073bc008e32d481122c5c51669599c679db7d8da89e78fd31": {
+        "title": "谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%",
+        "link": "http://www.geekpark.net/news/372064",
+        "published_date": "Thu, 01 Oct 2026 08:28:00 GMT",
+        "first_seen": "2026-10-01T01:48:43.259852"
+      },
+      "92eac5b496911c85c1c22866c4cf61d37397e3ef182b2eb54cf590ad41f88ac8": {
+        "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
+        "link": "https://www.tmtpost.com/8157335.html",
+        "published_date": "Thu, 01 Oct 2026 08:38:00 GMT",
+        "first_seen": "2026-10-01T01:48:43.259861"
+      },
+      "e59d857837c0c104a2831f7c1bb3d217d34147a24028c838730f99abb0f3e320": {
+        "title": "8200个项目在排队，AI基建卡在了最后一道关口",
+        "link": "https://www.tmtpost.com/8157619.html",
+        "published_date": "Thu, 01 Oct 2026 08:43:00 GMT",
+        "first_seen": "2026-10-01T01:48:43.259863"
+      },
+      "d638f47b5547ffb8a36609a061019871d3c5641ec965cf6a5d0f23a722690489": {
+        "title": "李飞飞上岸，具身创业者慌了",
+        "link": "https://www.tmtpost.com/8156492.html",
+        "published_date": "Wed, 30 Sep 2026 15:41:00 GMT",
+        "first_seen": "2026-10-01T01:48:43.259865"
+      },
+      "b663bf108c44175dc629ed3e39529d762ef162e745fea3a202d48a2310f8eabb": {
+        "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+        "link": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 30 Sep 2026 20:40:00 GMT",
+        "first_seen": "2026-10-01T01:48:43.259867"
       }
     },
     "Finance": {
-      "1f71e67e1f0e0156621fe6a22542265e9c7ed97fea87293eb60d8d5b12224667": {
-        "title": "Will financial innovation dethrone the dollar?",
-        "link": "https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3",
-        "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-31T11:21:40.444142"
-      },
-      "c82777b8080e025b4b8354c6d9095e50fc4f33116dfa860d96fe5e2ed03ece12": {
-        "title": "Japan’s bonds and yen under pressure after Warsh’s Jackson Hole speech",
-        "link": "https://www.ft.com/content/1c4f488f-32bc-4b49-a0c8-c55d95f5422b?syn-25a6b1a6=1",
-        "published_date": "Mon, 31 Aug 2026 07:32:00 GMT",
-        "first_seen": "2026-08-31T11:21:40.444148"
-      },
-      "23d7f45aa43fa654f98b78e524365d8a4439f754515539228109b43700d93144": {
-        "title": "Banks and insurers brace for biggest German pension upheaval in 20 years",
-        "link": "https://www.ft.com/content/4090d0ca-8ec6-4d89-aacc-f0ca72aeb038?syn-25a6b1a6=1",
-        "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-31T11:21:40.444150"
-      },
-      "c255440c7b894c29423be79dfdf2704d32b5bedeb06354cca989472915f3e2fc": {
-        "title": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
-        "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
-        "published_date": "Mon, 31 Aug 2026 08:55:00 GMT",
-        "first_seen": "2026-08-31T11:21:40.444151"
-      },
-      "02d45b40ae060e56f0fcfac27011e136a7b2c21448ac137d926ed0b355fe7e52": {
-        "title": "LIV Golf prepares for imminent bankruptcy filing",
-        "link": "https://www.ft.com/content/5051e92f-371f-4a46-bdee-e8877b68caf8?syn-25a6b1a6=1",
-        "published_date": "Mon, 31 Aug 2026 04:00:00 GMT",
-        "first_seen": "2026-08-31T11:21:40.444152"
-      },
-      "1ef172d5989870b9c1db88b9ce604c2ee59e6dd632cb52505373f094750497ea": {
-        "title": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
-        "link": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
-        "published_date": "Mon, 31 Aug 2026 21:33:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.387692"
-      },
-      "7e6e2f7a8f387c62e06781e627d37f8490619d9650ce0338f09cced4b683c4aa": {
-        "title": "Europeans shun Russian finance minister at US-hosted G20 meeting",
-        "link": "https://www.ft.com/content/16285abd-6bc2-4a38-942c-5206c79f4c4b?syn-25a6b1a6=1",
-        "published_date": "Mon, 31 Aug 2026 21:32:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.387699"
-      },
-      "e2bab4d24a9a2b4f727fd1463aba0da5070c59a4767be77bfd6ff7ef5c757621": {
-        "title": "Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees",
-        "link": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
-        "published_date": "Mon, 31 Aug 2026 22:24:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.387702"
-      },
-      "da2f3500f200b091ef45a52d0fca20feff82e84a9897e6575d125746f7926dca": {
-        "title": "With Warsh running the Fed, should bond investors be worried?",
-        "link": "https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories",
-        "published_date": "Mon, 31 Aug 2026 20:55:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.387704"
-      },
-      "c9d7238f1ff4aff8e44d7b84313db6d8e932552eb1e4d21c3eb3d9f9d75aa56a": {
-        "title": "Whose fiscal problems would you prefer?",
-        "link": "https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7?syn-25a6b1a6=1",
-        "published_date": "Mon, 31 Aug 2026 14:17:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.387705"
-      },
       "d9272c12e83e812f9a2a4f21dcb02f31f33bdaf17fe34c20cb3c8be5552ff6da": {
         "title": "Eurozone inflation rises to 3.3% in August",
         "link": "https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876?syn-25a6b1a6=1",
@@ -3597,51 +3507,39 @@
         "link": "https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6=1",
         "published_date": "Wed, 30 Sep 2026 04:00:00 GMT",
         "first_seen": "2026-09-30T10:54:11.495686"
+      },
+      "93a3d121bba6eb64b7629b6b3d203ed6aeb0558178aefc33830a4ae1380943ee": {
+        "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+        "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+        "published_date": "Wed, 30 Sep 2026 20:32:00 GMT",
+        "first_seen": "2026-10-01T01:49:02.958300"
+      },
+      "6d2f71652aca4ba8e7db6eecba04e2bfa5f1e5f85ff336e533bd6f714cc9d2c9": {
+        "title": "US government debt rout triggers ‘vicious loop’ of selling",
+        "link": "https://www.ft.com/content/39de7709-7b5b-42f6-ad90-df50f1308ea2?syn-25a6b1a6=1",
+        "published_date": "Wed, 30 Sep 2026 21:32:00 GMT",
+        "first_seen": "2026-10-01T01:49:02.958307"
+      },
+      "faf286630b84a7c761c6ebeb1b3196cf52fa63831b46c17fb75099336321d009": {
+        "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
+        "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+        "published_date": "Wed, 30 Sep 2026 19:42:00 GMT",
+        "first_seen": "2026-10-01T01:49:02.958309"
+      },
+      "1939077f92dc153dd3117a64fedc6859cd8855d1573871ac63e3201a29468d2d": {
+        "title": "How the ‘AI put’ has become the only thing that matters for stocks",
+        "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+        "published_date": "Wed, 30 Sep 2026 20:59:00 GMT",
+        "first_seen": "2026-10-01T01:49:02.958311"
+      },
+      "0f8057092b7f64c37ad2339233c03cd8fdc4df0b469908d858fb26746d7ea46d": {
+        "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
+        "link": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1",
+        "published_date": "Wed, 30 Sep 2026 21:39:00 GMT",
+        "first_seen": "2026-10-01T01:49:02.958313"
       }
     },
     "Ai": {
-      "7d7ae4fdea3ac572c76bc389fc8d6bfce487956cef1a9b455c6378cb81654da3": {
-        "title": "「GPT-6」灰测demo刷屏！周四发布在即",
-        "link": "https://www.qbitai.com/2026/08/481893.html",
-        "published_date": "Mon, 31 Aug 2026 04:47:00 GMT",
-        "first_seen": "2026-08-31T11:21:52.220591"
-      },
-      "dd52eff633eb1a669034ee14b9e6e7e4549c81e7518b56e6c0d7674f4d897466": {
-        "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
-        "link": "https://www.qbitai.com/2026/08/481759.html",
-        "published_date": "Mon, 31 Aug 2026 03:24:00 GMT",
-        "first_seen": "2026-08-31T11:21:52.220597"
-      },
-      "632833d8f5491b3ac47848d2aab03801634d593534b2a260b028771311dd9c13": {
-        "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
-        "link": "https://www.qbitai.com/2026/08/481919.html",
-        "published_date": "Mon, 31 Aug 2026 07:34:00 GMT",
-        "first_seen": "2026-08-31T11:21:52.220600"
-      },
-      "d3f5d6f41732c83d854b9a09c370745d67ee509c71b1aac68e00b3a198f941e4": {
-        "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
-        "link": "https://www.qbitai.com/2026/08/481475.html",
-        "published_date": "Mon, 31 Aug 2026 03:01:00 GMT",
-        "first_seen": "2026-08-31T11:21:52.220601"
-      },
-      "6a55feec3d009e67198d9562309aa46ffb2116543e7260f955e65e885f50250d": {
-        "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-        "link": "https://www.qbitai.com/2026/08/481923.html",
-        "published_date": "Mon, 31 Aug 2026 07:53:00 GMT",
-        "first_seen": "2026-08-31T11:21:52.220602"
-      },
-      "f3db4c06d6de07f5782fd68b08f54989aa52c2948d2d560165c8262b39a06efa": {
-        "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-        "link": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-        "published_date": "Mon, 31 Aug 2026 17:19:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.525665"
-      },
-      "8790ea880c6a152970cde1017d111fcb5401f82ebf5a271c8dd7c1f3ed3ce79a": {
-        "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-        "link": "https://www.qbitai.com/2026/08/481928.html",
-        "published_date": "Mon, 31 Aug 2026 13:20:00 GMT",
-        "first_seen": "2026-09-01T01:37:11.525674"
-      },
       "cddfa96a3999f53aac21569153ef345633661e0cc3a14a9b4659e8711a344454": {
         "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
         "link": "https://www.qbitai.com/2026/09/482337.html",
@@ -4793,13 +4691,25 @@
         "link": "https://www.qbitai.com/2026/09/499280.html",
         "published_date": "Wed, 30 Sep 2026 04:42:00 GMT",
         "first_seen": "2026-09-30T10:54:22.975074"
+      },
+      "8b62262fd2b47305c0803c2b48ecd7983392a49a5a049fa4ef5ec7fd12016aa6": {
+        "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "link": "https://www.qbitai.com/2026/09/499654.html",
+        "published_date": "Wed, 30 Sep 2026 14:03:00 GMT",
+        "first_seen": "2026-10-01T01:49:03.093879"
+      },
+      "1cd34ef965a51479e7d73f531b10f3c96b6184cce132408e856dcd5d36226c04": {
+        "title": "直播回顾：工业AI的下一个机会在哪？",
+        "link": "https://www.qbitai.com/2026/09/499605.html",
+        "published_date": "Wed, 30 Sep 2026 12:11:00 GMT",
+        "first_seen": "2026-10-01T01:49:03.093888"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-30T10:53:54.922500",
-    "Finance": "2026-09-30T10:54:11.495689",
-    "Ai": "2026-09-30T10:54:22.975075"
+    "Technology": "2026-10-01T01:48:43.259869",
+    "Finance": "2026-10-01T01:49:02.958315",
+    "Ai": "2026-10-01T01:49:03.093890"
   }
 }

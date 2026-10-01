@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Sep 2026 10:53:00 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 10:53:54 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 01:48:00 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:48:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI刹车，Meta狂飙，AI竞赛的“胜负手”变了</title>
-      <link>https://www.tmtpost.com/8156309.html</link>
-      <description>&lt;![CDATA[OpenAI刹车，Meta狂飙，AI竞赛的“胜负手”变了]]&gt;</description>
+      <title>谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%</title>
+      <link>http://www.geekpark.net/news/372064</link>
+      <description>&lt;![CDATA[谷歌 Gemini 4 Argon 曝光；中国生成 AI 用户超 7 亿；美光 2026 财年净利暴涨 895%]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:28:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372064</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI、Meta、Manus同时下注，智能体 2.0 来了</title>
+      <link>https://www.tmtpost.com/8157335.html</link>
+      <description>&lt;![CDATA[OpenAI、Meta、Manus同时下注，智能体 2.0 来了]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157335.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>8200个项目在排队，AI基建卡在了最后一道关口</title>
+      <link>https://www.tmtpost.com/8157619.html</link>
+      <description>&lt;![CDATA[8200个项目在排队，AI基建卡在了最后一道关口]]&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8157619.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>李飞飞上岸，具身创业者慌了</title>
+      <link>https://www.tmtpost.com/8156492.html</link>
+      <description>&lt;![CDATA[李飞飞上岸，具身创业者慌了]]&gt;</description>
       <pubDate>Wed, 30 Sep 2026 15:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156309.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156492.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI 进展观察 | 个人 Agent 与企业 Agent：定位分化、全球格局与演进路径</title>
-      <link>https://www.tmtpost.com/8157089.html</link>
-      <description>&lt;![CDATA[AI 进展观察 | 个人 Agent 与企业 Agent：定位分化、全球格局与演进路径]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8157089.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>砸200亿搞换电后，蔚来为何与吉利“联姻”？</title>
-      <link>https://www.tmtpost.com/8156496.html</link>
-      <description>&lt;![CDATA[砸200亿搞换电后，蔚来为何与吉利“联姻”？]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 18:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156496.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本</title>
-      <link>https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bduvBdbgwxj6DMbNeKCC?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>一间项目室里长出的Qoder：阿里如何用一支AI Native团队，押注Agent时代的入口</title>
-      <link>https://www.tmtpost.com/8156900.html</link>
-      <description>&lt;![CDATA[一间项目室里长出的Qoder：阿里如何用一支AI Native团队，押注Agent时代的入口]]&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 16:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156900.html</guid>
+      <title>谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX</title>
+      <link>https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 20:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
