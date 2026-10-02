@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ac76d85c57c2456ea682759bd273ecbfafeb11511f71db688a9552783e2968db": {
-        "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-        "link": "https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 19:54:00 GMT",
-        "first_seen": "2026-09-02T00:50:02.057615"
-      },
-      "9a3eece3dba6ba79a82867e50551a245ae8088f2184f3d4481951351463c91f0": {
-        "title": "【钛晨报】引导汽车企业规范境外竞争行为，三部门发文；Anthropic同英伟达支持的Lambda签署350亿美元云计算协议；电影暑期档收官，票房超124亿元",
-        "link": "https://www.tmtpost.com/8125054.html",
-        "published_date": "Wed, 02 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-02T00:50:02.057625"
-      },
-      "4bb3492cd5a593223f60f5cdfff4b096456499ec8179934f9e340d1f80c5077b": {
-        "title": "一个人，十五年，他想重写医疗AI的底层逻辑",
-        "link": "https://www.tmtpost.com/8125079.html",
-        "published_date": "Wed, 02 Sep 2026 07:41:00 GMT",
-        "first_seen": "2026-09-02T00:50:02.057627"
-      },
-      "12083d00ddf36989b4789f7a415d2afdaaa0a54203146e072445e389e363d581": {
-        "title": "谷歌 HEIR 项目旨在让同态加密推理成为可以一键实现的功能",
-        "link": "https://www.infoq.cn/article/S6ATgchCiYMHpPaTPzer?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 01 Sep 2026 19:34:00 GMT",
-        "first_seen": "2026-09-02T00:50:02.057629"
-      },
-      "ae5622bbbb07bfe3fe7a5cb460357b63bb6811c98dd7d244c1e67b7ddfcbeb39": {
-        "title": "从 Token 到扭矩，AI 落地东盟的四道「硬」关｜SEA Frontline",
-        "link": "https://www.tmtpost.com/8124037.html",
-        "published_date": "Tue, 01 Sep 2026 22:07:00 GMT",
-        "first_seen": "2026-09-02T00:50:02.057630"
-      },
       "d2de937bf1521d06047daa556363711b2594c8667d746b5d12a402142b83f0f5": {
         "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
         "link": "http://www.geekpark.net/news/369724",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8157557.html",
         "published_date": "Thu, 01 Oct 2026 09:09:00 GMT",
         "first_seen": "2026-10-01T11:23:27.334057"
+      },
+      "097ab80caae9f4e66b17aee1f3d0668d2b6730567e51c0edf8a08ffefd2376ba": {
+        "title": "谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思",
+        "link": "https://www.tmtpost.com/8157785.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-02T01:59:25.143053"
+      },
+      "cee831d38a6e88e8dad5ea1c9118a18f280f34e5920095d7d79ef0c674fd484b": {
+        "title": "腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？",
+        "link": "https://www.tmtpost.com/8157828.html",
+        "published_date": "Thu, 01 Oct 2026 16:16:00 GMT",
+        "first_seen": "2026-10-02T01:59:25.143066"
+      },
+      "556b16c657d770adc0753a418a185002034b842ecdb93f7e217674d1669a8a5a": {
+        "title": "苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》",
+        "link": "http://www.geekpark.net/news/372069",
+        "published_date": "Fri, 02 Oct 2026 08:28:00 GMT",
+        "first_seen": "2026-10-02T01:59:25.143069"
+      },
+      "b020ddb37d25438d07730b2d1284a19c03de3b7e058b9599b21afed0301bd0b2": {
+        "title": "江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节",
+        "link": "https://www.tmtpost.com/8157844.html",
+        "published_date": "Thu, 01 Oct 2026 16:05:00 GMT",
+        "first_seen": "2026-10-02T01:59:25.143070"
+      },
+      "a1c01ff60c4a64fd14e6478e5072af9072a0006c46e6f0e9bfccedfe840fa16b": {
+        "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+        "link": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Oct 2026 14:00:00 GMT",
+        "first_seen": "2026-10-02T01:59:25.143071"
       }
     },
     "Finance": {
-      "16a8f030fcdca19ab5f7d0c0afc113d19f0b9690cfa8d5653d1dffefb15d6770": {
-        "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
-        "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
-        "published_date": "Tue, 01 Sep 2026 20:36:00 GMT",
-        "first_seen": "2026-09-02T00:50:20.991542"
-      },
-      "62903c6422646d3738e764770b0e0eeb17dd1950f646f1dde33e7d519f475755": {
-        "title": "Dow drops below a key chart level, warning of more trouble ahead",
-        "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
-        "published_date": "Tue, 01 Sep 2026 21:56:00 GMT",
-        "first_seen": "2026-09-02T00:50:20.991549"
-      },
-      "c00eeb4c92c2db67dbbb0bb70936c0d62c0dc8550bb70ecd594bc33947904cd3": {
-        "title": "China derails consensus on communiqué after US-hosted G20",
-        "link": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
-        "published_date": "Tue, 01 Sep 2026 23:57:00 GMT",
-        "first_seen": "2026-09-02T00:50:20.991551"
-      },
-      "edf2b092108864e178e90ba618b01fde8df6b99f0cae78885d6007b665290ad2": {
-        "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-        "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-        "published_date": "Wed, 02 Sep 2026 00:19:00 GMT",
-        "first_seen": "2026-09-02T00:50:20.991552"
-      },
-      "95a47a41f4c8195ea68d4bfa54dfd13b9b235dfc1c5a3ffc0688a618729e34bd": {
-        "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-        "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-        "published_date": "Wed, 02 Sep 2026 00:18:00 GMT",
-        "first_seen": "2026-09-02T00:50:20.991553"
-      },
       "f8047c62a64ed4d4be9d018b96e40268000e9eb92db8dfd4eeae37602d880d66": {
         "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top",
         "link": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
@@ -3537,27 +3507,39 @@
         "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
         "published_date": "Thu, 01 Oct 2026 10:53:00 GMT",
         "first_seen": "2026-10-01T11:23:45.797579"
+      },
+      "584a2e361b6b82d680ef90f87064ce5d1f497e9f2ca0f6389a823c28e1d56d3e": {
+        "title": "Top Fed official signals central bank will keep rates on hold in October",
+        "link": "https://www.ft.com/content/e3a53272-385d-40a8-ac77-408f4c136f6f?syn-25a6b1a6=1",
+        "published_date": "Thu, 01 Oct 2026 20:49:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.503298"
+      },
+      "8eb7441690bbd35ee553224c71a8f58fb9c17ad48824d8987deff052ec15ce43": {
+        "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
+        "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
+        "published_date": "Thu, 01 Oct 2026 20:28:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.503304"
+      },
+      "f56ecefdcf74e7833ce4f4b64b71b77abf132f926d30a7c98ea42f62b971c19f": {
+        "title": "US mortgage rates jump the most in four years in blow to housing market",
+        "link": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1",
+        "published_date": "Thu, 01 Oct 2026 19:41:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.503306"
+      },
+      "2f53866b098fd712c174b148ac2cfc9125ee7c2f9eeae10269bc257fe254a777": {
+        "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+        "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 00:14:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.503307"
+      },
+      "150458addbfcf0f0186ecc8e1fd644aef7b921c81a8aac7c18e3f091f4fa4eb0": {
+        "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+        "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
+        "published_date": "Thu, 01 Oct 2026 20:58:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.503308"
       }
     },
     "Ai": {
-      "b639d8fe835df39d553d3a861ac64539ff40ed933c070afbd5fe3ec28fcec0a9": {
-        "title": "Mapping global methane emissions from space with deep learning",
-        "link": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-        "published_date": "Tue, 01 Sep 2026 18:40:00 GMT",
-        "first_seen": "2026-09-02T00:50:21.102867"
-      },
-      "449625aba1afed97f66c388d0f7e3cd441ab0719cac7932bf1022338b8b2724b": {
-        "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-        "link": "https://www.qbitai.com/2026/09/482512.html",
-        "published_date": "Tue, 01 Sep 2026 12:02:00 GMT",
-        "first_seen": "2026-09-02T00:50:21.102873"
-      },
-      "07bd084d2984be8e7dcdcaa21d0a7cb911d636a9a2ec704c56136c5758f90e65": {
-        "title": "2026-09-01日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-01/",
-        "published_date": "Tue, 01 Sep 2026 11:02:00 GMT",
-        "first_seen": "2026-09-02T00:50:21.102874"
-      },
       "c56fcebf6b557f46ba53fe57e0ecda458968834b8636be6884e5c4c4c1185b4c": {
         "title": "2026-09-02日刊",
         "link": "https://hex2077.dev/docs/2026-09/2026-09-02/",
@@ -4673,13 +4655,25 @@
         "link": "https://www.qbitai.com/2026/09/499605.html",
         "published_date": "Wed, 30 Sep 2026 12:11:00 GMT",
         "first_seen": "2026-10-01T01:49:03.093888"
+      },
+      "9b0d58e3dfc64cfc1a1330483a9d388a135c44c655240c51ead0738aca951882": {
+        "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+        "link": "https://www.qbitai.com/2026/10/499812.html",
+        "published_date": "Thu, 01 Oct 2026 15:06:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.595888"
+      },
+      "331cad9c0dcd30a94f1e648b3a11cc7583b31e4226e03ad88e2e99fe0f183757": {
+        "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+        "link": "https://www.qbitai.com/2026/10/499663.html",
+        "published_date": "Thu, 01 Oct 2026 15:02:00 GMT",
+        "first_seen": "2026-10-02T01:59:39.595895"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-01T11:23:27.334060",
-    "Finance": "2026-10-01T11:23:45.797582",
-    "Ai": "2026-10-01T01:49:03.093890"
+    "Technology": "2026-10-02T01:59:25.143073",
+    "Finance": "2026-10-02T01:59:39.503309",
+    "Ai": "2026-10-02T01:59:39.595896"
   }
 }
