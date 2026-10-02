@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Oct 2026 01:59:00 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 01:59:24 GMT</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 10:52:00 GMT</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:52:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思</title>
-      <link>https://www.tmtpost.com/8157785.html</link>
-      <description>&lt;![CDATA[谷歌推出了个“做题家”：Gemini 4 Argon屠榜，但干活差点意思]]&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8157785.html</guid>
+      <title>OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿</title>
+      <link>https://www.tmtpost.com/8158249.html</link>
+      <description>&lt;![CDATA[OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 10:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158249.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？</title>
-      <link>https://www.tmtpost.com/8157828.html</link>
-      <description>&lt;![CDATA[腾讯经销、字节驻场、Kimi借船：FDE成了大模型的新成本？]]&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 16:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8157828.html</guid>
+      <title>Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出</title>
+      <link>https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》</title>
-      <link>http://www.geekpark.net/news/372069</link>
-      <description>&lt;![CDATA[苹果首款触屏 Macbook 或 10 月发布；AI 能力成本三年下降数千倍创纪录；美人形机器人跳入熔炉，致敬《终结者 2》]]&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 08:28:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372069</guid>
+      <title>deepseek为什么要在此时拥抱华为？</title>
+      <link>https://www.tmtpost.com/8158082.html</link>
+      <description>&lt;![CDATA[deepseek为什么要在此时拥抱华为？]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 09:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158082.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节</title>
-      <link>https://www.tmtpost.com/8157844.html</link>
-      <description>&lt;![CDATA[江苏电力印发“人工智能+”三年行动方案，百亿订单砸向电力机器人，但真正“金矿”在三个不造机器人的环节]]&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 16:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8157844.html</guid>
+      <title>Graphify：整合代码库上下文，优化基于代理的软件工程</title>
+      <link>https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Graphify：整合代码库上下文，优化基于代理的软件工程]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算</title>
-      <link>https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算]]&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI杀不死咨询公司</title>
+      <link>https://www.tmtpost.com/8158278.html</link>
+      <description>&lt;![CDATA[AI杀不死咨询公司]]&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 16:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158278.html</guid>
       <category>Technology</category>
     </item>
   </channel>

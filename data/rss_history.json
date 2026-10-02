@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d2de937bf1521d06047daa556363711b2594c8667d746b5d12a402142b83f0f5": {
-        "title": "对话黄青虬：成立半年估值 70 亿，阿里腾讯联投，交出了能「长程执行」的第一个自研模型",
-        "link": "http://www.geekpark.net/news/369724",
-        "published_date": "Wed, 02 Sep 2026 14:59:00 GMT",
-        "first_seen": "2026-09-02T09:18:25.264606"
-      },
-      "003b6cd280849a41ad2eab276a97cdc9ec7e34ff357f2596853543f43d027f23": {
-        "title": "对话范承工：模型同质化时代，记忆才是AI真正的护城河",
-        "link": "https://www.tmtpost.com/8123503.html",
-        "published_date": "Wed, 02 Sep 2026 12:00:00 GMT",
-        "first_seen": "2026-09-02T09:18:25.264615"
-      },
-      "df2640b0a64a2f5ef6d77bbfbed5922ba63c488161556b5ef91ec6aa0e3a14f5": {
-        "title": "Fable 5.1 正式发布：性能翻倍、Agent成本下降45%，Anthropic 把顶级模型送进真实世界",
-        "link": "https://www.infoq.cn/article/K8OwgoWM1gHNi2i4yLkU?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 02 Sep 2026 12:00:00 GMT",
-        "first_seen": "2026-09-02T09:18:25.264618"
-      },
-      "fa8cff56ed2262f594d1510790358d9024864a1f3888f6b7668c2882e87459c1": {
-        "title": "英伟达涨价背后，ASIC要被认真对待了",
-        "link": "https://www.tmtpost.com/8124934.html",
-        "published_date": "Wed, 02 Sep 2026 15:47:00 GMT",
-        "first_seen": "2026-09-02T09:18:25.264620"
-      },
-      "083df5dcfa93fab6dffe1770129f1e653d7159c68674ab7eff94e79f2c4f0326": {
-        "title": "微软、谷歌、亚马逊三大云巨头，现在要给Kimi交模型税了！",
-        "link": "https://www.tmtpost.com/8125170.html",
-        "published_date": "Wed, 02 Sep 2026 16:42:00 GMT",
-        "first_seen": "2026-09-02T09:18:25.264621"
-      },
       "bb1692116b5c31516bea54c65ba0fff7a7fbf45bcc778b5c45b5712a35e356e5": {
         "title": "存力接棒算力：AI智能体把存储推上主战场",
         "link": "https://www.tmtpost.com/8123421.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 01 Oct 2026 14:00:00 GMT",
         "first_seen": "2026-10-02T01:59:25.143071"
+      },
+      "ebea2f47d461207028285e02fdf20c1c427468e66f4f4491444ceb5c5b25129c": {
+        "title": "OpenAI 新文章把超级智能拉回执行层，十亿个爱因斯坦也要有人去采矿",
+        "link": "https://www.tmtpost.com/8158249.html",
+        "published_date": "Fri, 02 Oct 2026 10:32:00 GMT",
+        "first_seen": "2026-10-02T10:52:47.811063"
+      },
+      "3c53c34e4c104a543dbe5b613966408b1e181de9b2ccbbe7a0f6f60ebcdc74f9": {
+        "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "link": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 02 Oct 2026 13:00:00 GMT",
+        "first_seen": "2026-10-02T10:52:47.811073"
+      },
+      "6d3da49e638034cf0789130c685553116915d9dd01e1f86d96f5306439502d89": {
+        "title": "deepseek为什么要在此时拥抱华为？",
+        "link": "https://www.tmtpost.com/8158082.html",
+        "published_date": "Fri, 02 Oct 2026 09:56:00 GMT",
+        "first_seen": "2026-10-02T10:52:47.811076"
+      },
+      "8fc8ec9df5228dbcf9ffbe2125ffa4ace10d75677c7b7f608e21019c6f200b9b": {
+        "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "link": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 02 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-02T10:52:47.811078"
+      },
+      "b4980e3c3416bae84a54918f0eb7972fe8b8e16bc4393dc48cdd10248eff115a": {
+        "title": "AI杀不死咨询公司",
+        "link": "https://www.tmtpost.com/8158278.html",
+        "published_date": "Fri, 02 Oct 2026 16:50:00 GMT",
+        "first_seen": "2026-10-02T10:52:47.811080"
       }
     },
     "Finance": {
-      "f8047c62a64ed4d4be9d018b96e40268000e9eb92db8dfd4eeae37602d880d66": {
-        "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top",
-        "link": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
-        "published_date": "Wed, 02 Sep 2026 06:36:00 GMT",
-        "first_seen": "2026-09-02T09:18:37.362514"
-      },
-      "648d691cd662686236f73bc8e93f9f5616c78f4570ac52293c090b9b49972f60": {
-        "title": "The wheels are coming off the US world order",
-        "link": "https://www.ft.com/content/c51dec0b-977e-463e-9590-daff0d91a8a6?syn-25a6b1a6=1",
-        "published_date": "Wed, 02 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-02T09:18:37.362521"
-      },
-      "0155c12905174fc9a6c80242174ea3d53685aedf4da5e8913e9966069f808034": {
-        "title": "Dell shares rise as demand jumps for AI servers — here’s what Wall Street analysts are saying happens next",
-        "link": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories",
-        "published_date": "Wed, 02 Sep 2026 09:03:00 GMT",
-        "first_seen": "2026-09-02T09:18:37.362524"
-      },
-      "cae606f4eaca60c41f1272f5abb8d174f6ef5c68affaf25b8e12ec46840e64db": {
-        "title": "European gas prices hit three-year high",
-        "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
-        "published_date": "Wed, 02 Sep 2026 08:36:00 GMT",
-        "first_seen": "2026-09-02T09:18:37.362526"
-      },
-      "fce7f052dfc98624352f37e1b5444ccb3536b3acf23ec1de60e8d2a36dbb09bf": {
-        "title": "We’re in our 60s. My wife and I have $345,000 in annual pensions and $1 million in 403(b)s. Is it too late for Roth conversions?",
-        "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-        "published_date": "Wed, 02 Sep 2026 09:15:00 GMT",
-        "first_seen": "2026-09-02T09:18:37.362528"
-      },
       "21fe86fc0eac3ff6f6508d2cc04cdaff23d793cb7b49d7514ab1ee735d2bbd67": {
         "title": "Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’",
         "link": "https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1",
@@ -3537,15 +3507,39 @@
         "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
         "published_date": "Thu, 01 Oct 2026 20:58:00 GMT",
         "first_seen": "2026-10-02T01:59:39.503308"
+      },
+      "3bb98f413eb2d7adf836013757ada48e43d918963ed140d3973da4c771eef355": {
+        "title": "Quant hedge funds reap big gains from global bond sell-off",
+        "link": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
+        "published_date": "Fri, 02 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.246420"
+      },
+      "3919cc4af7b80d8116ae7bb44735f8503e11d3677bd0663c01c3000dabba73f6": {
+        "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
+        "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 10:25:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.246426"
+      },
+      "050dc11c57c52e247e193dca1dab37dca06dc88b4e156e8eff9cbc9fbaacc692": {
+        "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
+        "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+        "published_date": "Fri, 02 Oct 2026 10:48:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.246428"
+      },
+      "e2f8420fdec3a884173317e3310c58f0597ce62fc4e012edf10a10c2f2f6f014": {
+        "title": "Amazon seeks to offload $8bn of Nvidia chips to investors",
+        "link": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1",
+        "published_date": "Fri, 02 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.246430"
+      },
+      "0b918c98efbe91442f256a339505e0a71b46c9b6454783ff5e4694896ad0c1c1": {
+        "title": "Diesel falls sharply as EU considers releasing 50mn barrels under pressure from Trump",
+        "link": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
+        "published_date": "Fri, 02 Oct 2026 10:13:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.246431"
       }
     },
     "Ai": {
-      "c56fcebf6b557f46ba53fe57e0ecda458968834b8636be6884e5c4c4c1185b4c": {
-        "title": "2026-09-02日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-02/",
-        "published_date": "Wed, 02 Sep 2026 14:03:00 GMT",
-        "first_seen": "2026-09-02T09:18:37.500950"
-      },
       "2a3e060cde8e689d51819c471b419e0b6478c7ab1d3cc90fbb17429e346f24b5": {
         "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
         "link": "https://www.qbitai.com/2026/09/483274.html",
@@ -4667,13 +4661,31 @@
         "link": "https://www.qbitai.com/2026/10/499663.html",
         "published_date": "Thu, 01 Oct 2026 15:02:00 GMT",
         "first_seen": "2026-10-02T01:59:39.595895"
+      },
+      "d8eb25f66949637a082bb8e9e4f2851a09a28fd1ec5461c091c49a7bc4124553": {
+        "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "link": "https://www.qbitai.com/2026/10/500098.html",
+        "published_date": "Fri, 02 Oct 2026 07:34:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.388183"
+      },
+      "8177023cd8ba620ec6f77ea3d68ee678846b2c06c1c7f010b4fa22785d391dc5": {
+        "title": "丘成桐新论文致谢了GPT和Claude",
+        "link": "https://www.qbitai.com/2026/10/499991.html",
+        "published_date": "Fri, 02 Oct 2026 07:27:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.388191"
+      },
+      "c2b1eebb48b4d0b4324cc670cf212c0b02573b85fd1177871c5b458402c10827": {
+        "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+        "link": "https://www.qbitai.com/2026/10/499958.html",
+        "published_date": "Fri, 02 Oct 2026 06:46:00 GMT",
+        "first_seen": "2026-10-02T10:53:06.388194"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-02T01:59:25.143073",
-    "Finance": "2026-10-02T01:59:39.503309",
-    "Ai": "2026-10-02T01:59:39.595896"
+    "Technology": "2026-10-02T10:52:47.811082",
+    "Finance": "2026-10-02T10:53:06.246434",
+    "Ai": "2026-10-02T10:53:06.388195"
   }
 }
