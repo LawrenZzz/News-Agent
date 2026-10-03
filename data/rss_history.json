@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "2218843436d20387cdcfbc6a303ab8f581f9ae0355b9c66aceedc09a78baadda": {
-        "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
-        "link": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 03 Sep 2026 16:49:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.809943"
-      },
-      "70b7dd31623d5b002de0896a894ad3809e2af964937bcbb21d444c93bd90384b": {
-        "title": "AI 下一场竞争：谁能成为 Agent 的「上下文操作系统」",
-        "link": "http://www.geekpark.net/news/369767",
-        "published_date": "Thu, 03 Sep 2026 12:52:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.809955"
-      },
-      "843714781fc657c2bb2acb771386025489f0684ca1397efef0222239bd107523": {
-        "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
-        "link": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 03 Sep 2026 17:19:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.809958"
-      },
-      "8be627c4315679611263037a369d0a1beb89041daa1a1c47f0e8c62af3bac5c3": {
-        "title": "AI窗口期只剩3-4年，98%的企业却高估了自身的技术成熟度",
-        "link": "https://www.infoq.cn/article/Gz4w1NVNIJjs8fZOaQZD?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 03 Sep 2026 16:20:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.809960"
-      },
-      "ccb38742f7b5d82a1e15b02c1975b8eb8fb40febe113708b0544c1c346c8a279": {
-        "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
-        "link": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 03 Sep 2026 09:09:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.809962"
-      },
       "bc85f961e610c4077f62f3b61262afbc3bc5975f0915072c48a5df630b665cc9": {
         "title": "GPT-6 曝光， OpenAI 总裁说：AGI 来了",
         "link": "http://www.geekpark.net/news/369800",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8148614.html",
         "published_date": "Fri, 02 Oct 2026 17:38:00 GMT",
         "first_seen": "2026-10-03T01:43:21.587796"
+      },
+      "3a7f95e175b6846434dade834fe07fe2d9cba10a88e64c36f54256c0b0344377": {
+        "title": "AI正在造AI",
+        "link": "https://www.tmtpost.com/8158706.html",
+        "published_date": "Sat, 03 Oct 2026 17:33:00 GMT",
+        "first_seen": "2026-10-03T10:12:31.275640"
+      },
+      "7775ecfce1747973ddc301d47befdaed2da7998339258c071f7413537a5116ca": {
+        "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+        "link": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 03 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-03T10:12:31.275650"
+      },
+      "c719d2d525d6794b35ebc091d4e18d948773fe3ca6ce31dc30790941a83c451c": {
+        "title": "苏姿丰抬头，李飞飞低头",
+        "link": "https://www.tmtpost.com/8158564.html",
+        "published_date": "Sat, 03 Oct 2026 09:42:00 GMT",
+        "first_seen": "2026-10-03T10:12:31.275652"
+      },
+      "ce3f7abb0e2b6e5cb7a0c9fbab26b0f4a010394558f9ea21d405d3f0797896ce": {
+        "title": "大模型一体机，开始缩水了",
+        "link": "https://www.tmtpost.com/8158443.html",
+        "published_date": "Sat, 03 Oct 2026 09:38:00 GMT",
+        "first_seen": "2026-10-03T10:12:31.275653"
+      },
+      "2180f15e08c0043f1bfe0984f82b5cd5893cb8ab3068afa58fc905675090f258": {
+        "title": "国庆出游用AI，第一批人已经被坑惨了",
+        "link": "https://www.tmtpost.com/8158647.html",
+        "published_date": "Sat, 03 Oct 2026 15:19:00 GMT",
+        "first_seen": "2026-10-03T10:12:31.275655"
       }
     },
     "Finance": {
-      "0e8a7b4668094c5587e5ed3a0bf60f0e82084ca19afba987bc93666c91fe295c": {
-        "title": "Why alarming bond yields might drop sooner than investors think",
-        "link": "https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories",
-        "published_date": "Thu, 03 Sep 2026 09:13:00 GMT",
-        "first_seen": "2026-09-03T09:27:21.233384"
-      },
-      "de4a7a25410247f52ae9351849c7d246039c32cb1196ca79cf72ea870a24291b": {
-        "title": "Yen jumps as traders bet on Japan interest rate rises",
-        "link": "https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1",
-        "published_date": "Thu, 03 Sep 2026 08:55:00 GMT",
-        "first_seen": "2026-09-03T09:27:21.233391"
-      },
-      "e1a1d03afd914b14352986d4f48fa945e3874a332d157ca55340f435e90324b3": {
-        "title": "The port that built Dubai: war exposes a dangerous dependence",
-        "link": "https://www.ft.com/content/daab8d53-7c4f-479b-be84-d073ba32897e?syn-25a6b1a6=1",
-        "published_date": "Thu, 03 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-03T09:27:21.233394"
-      },
-      "ff8e469d7676b6513041c5e789b63a56b82603378039f1d538ef08c342e32fd3": {
-        "title": "KPMG warned Guggenheim unit over deficiencies in internal controls",
-        "link": "https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1",
-        "published_date": "Thu, 03 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-03T09:27:21.233396"
-      },
-      "ba5ea07c9ce27123cdfd3254783b48dc87227c70b667260136d55377b7aeeff6": {
-        "title": "There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-        "published_date": "Thu, 03 Sep 2026 04:01:00 GMT",
-        "first_seen": "2026-09-03T09:27:21.233398"
-      },
       "02fb24e1c251113ad5740efa3a240c86b818111bc7f04cbe57dd52c1cc97790a": {
         "title": "Volkswagen to slash up to 50,000 jobs in historic restructuring",
         "link": "https://www.ft.com/content/77641f53-8dcb-4adf-9295-9ce44b8d49d6?syn-25a6b1a6=1",
@@ -3537,33 +3507,39 @@
         "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
         "published_date": "Fri, 02 Oct 2026 20:26:00 GMT",
         "first_seen": "2026-10-03T01:43:37.965621"
+      },
+      "be0c38d56a92ad7506df1f833549e8afb73d3b2d3cb12ddcac9c4dde773fdac2": {
+        "title": "China launches anti-dumping probe into European chemical exports",
+        "link": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
+        "published_date": "Sat, 03 Oct 2026 09:26:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.362749"
+      },
+      "50f769f046511e66b7abf836210192b60d608a87c8326c85e173304940a40106": {
+        "title": "China, America and the new Great Game",
+        "link": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
+        "published_date": "Sat, 03 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.362756"
+      },
+      "92b5f8400964cf247fba0709e66f09f96c937faca1d47ee72241e48545e72051": {
+        "title": "The right and wrong lessons to learn from Spain’s housing crisis",
+        "link": "https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1",
+        "published_date": "Sat, 03 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.362758"
+      },
+      "b99210f1543a8244f3067d41680d6559527c7d2545868054353707c6985407dd": {
+        "title": "Zelenskyy asked Trump to block Russia and China’s Starlink rival",
+        "link": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1",
+        "published_date": "Sat, 03 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.362760"
+      },
+      "8335d3a475c1ff49f901f90ae5c6339cfa9ee527be2a693d824b689b6eac1ea9": {
+        "title": "SkyNet satellite battle tests UK pledge to ‘buy British’",
+        "link": "https://www.ft.com/content/cc8ac63c-9b03-4efc-b9e5-b90f513ba565?syn-25a6b1a6=1",
+        "published_date": "Sat, 03 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.362761"
       }
     },
     "Ai": {
-      "eb8af96cd3e6e33e6c83ceb5419e163cce2a4bbd958b656872e96707dbb4c923": {
-        "title": "2026-09-03日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-03/",
-        "published_date": "Thu, 03 Sep 2026 12:10:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.931656"
-      },
-      "716a617ac500e36972ba6dff4f06a5faeef4c32fad01c4e6e28425e004b21e01": {
-        "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
-        "link": "https://www.qbitai.com/2026/09/483565.html",
-        "published_date": "Thu, 03 Sep 2026 03:16:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.931665"
-      },
-      "3cd2edaeb78ab0ddd8a0a24ccd227b4cd82d53a42286001b54cfd885465ce050": {
-        "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
-        "link": "https://www.qbitai.com/2026/09/483552.html",
-        "published_date": "Thu, 03 Sep 2026 01:31:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.931667"
-      },
-      "27040796c47cb5039a8bc279415c18ff7850b686eb5218bd046a1d76da8fd3a2": {
-        "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
-        "link": "https://www.qbitai.com/2026/09/483462.html",
-        "published_date": "Thu, 03 Sep 2026 01:27:00 GMT",
-        "first_seen": "2026-09-03T09:27:06.931669"
-      },
       "6137dc980bdfc736689b87917016d4331df4be03818d978d34b9002ee3d744f2": {
         "title": "Transfer learning for genomic prediction in underrepresented populations",
         "link": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
@@ -4679,13 +4655,31 @@
         "link": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
         "published_date": "Fri, 02 Oct 2026 14:57:00 GMT",
         "first_seen": "2026-10-03T01:43:38.107480"
+      },
+      "2888d3df9fd4b8484a0cc5e3bb870ea76fdcf0b12e9e8061fd3492b8dabee698": {
+        "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+        "link": "https://www.qbitai.com/2026/10/501381.html",
+        "published_date": "Sat, 03 Oct 2026 07:54:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.472573"
+      },
+      "67f706f3ff2c06d7cce0c104fb833b0dc4ce61194b48cafa4d582d5ff66c3470": {
+        "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "link": "https://www.qbitai.com/2026/10/501368.html",
+        "published_date": "Sat, 03 Oct 2026 04:41:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.472580"
+      },
+      "4469a25972625985a55dd140f3eb1d5f385e894d3b96d5738952a513987b87ea": {
+        "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+        "link": "https://www.qbitai.com/2026/10/500148.html",
+        "published_date": "Sat, 03 Oct 2026 02:38:00 GMT",
+        "first_seen": "2026-10-03T10:12:41.472582"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-03T01:43:21.587798",
-    "Finance": "2026-10-03T01:43:37.965624",
-    "Ai": "2026-10-03T01:43:38.107488"
+    "Technology": "2026-10-03T10:12:31.275657",
+    "Finance": "2026-10-03T10:12:41.362763",
+    "Ai": "2026-10-03T10:12:41.472584"
   }
 }
