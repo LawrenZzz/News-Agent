@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b6d5127c5cef53e359480e979ef2374be68831ad3ecdeb9c48ac98360f15a65c": {
-        "title": "OpenAI官宣”AGI时代”：GPT-6 Astra的思维第一次”不可读”，监控者看不懂的模型来了",
-        "link": "https://www.tmtpost.com/8128382.html",
-        "published_date": "Fri, 04 Sep 2026 18:58:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.378822"
-      },
-      "31d5bf884bf1458235b0a7b735dfd10f21322fe9d2261022099987fc152b6dd6": {
-        "title": "L3爆发前夜",
-        "link": "https://www.tmtpost.com/8128869.html",
-        "published_date": "Fri, 04 Sep 2026 18:58:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.378833"
-      },
-      "b43a47b9b02c16533d9f6ebcb23c3fbd17ad183205009911d81890dbc061c27d": {
-        "title": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
-        "link": "https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 04 Sep 2026 10:16:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.378835"
-      },
-      "14a9b945bd07afb83012e0d2f45fd6f591dca1b96492ab8185774f6fdd43bb9a": {
-        "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-        "link": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 04 Sep 2026 22:18:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.378837"
-      },
-      "e5050b2f140bba66d225809e4d5afde3ee014eaafbaecac87e32fb67bfe7151f": {
-        "title": "Chinese Professor Takes Underwater Robotics From Lab to Market With a Bet on Quiet Propulsion",
-        "link": "https://www.tmtpost.com/8129165.html",
-        "published_date": "Fri, 04 Sep 2026 21:35:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.378839"
-      },
       "cfa21721c28ae25817c4806c415ff151a2c3940cf8fb237667bbddb86d27a6fb": {
         "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
         "link": "https://www.tmtpost.com/8128178.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 04 Oct 2026 18:39:00 GMT",
         "first_seen": "2026-10-04T10:55:40.532812"
+      },
+      "4aabb6f887ad084a03e7f94a982250090d071263f50626c36a4a42503f6e541b": {
+        "title": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
+        "link": "https://www.tmtpost.com/8158686.html",
+        "published_date": "Mon, 05 Oct 2026 08:56:00 GMT",
+        "first_seen": "2026-10-05T01:34:11.928829"
+      },
+      "61b30fbf9034262fd5a8b162167691d045a6f15feef9c0f9933b021a003b400d": {
+        "title": "Anthropic被曝秘密游说梵蒂冈，AI为什么要与宗教搭上关系？",
+        "link": "https://www.tmtpost.com/8158986.html",
+        "published_date": "Sun, 04 Oct 2026 21:49:00 GMT",
+        "first_seen": "2026-10-05T01:34:11.928841"
+      },
+      "5ead1b6a39e8d821d4b223b8c90eca45364872bf84b225bb47d7f9e36ea0d69c": {
+        "title": "9秒删库，700个AI失控，豪掷513亿买不来安全？",
+        "link": "https://www.tmtpost.com/8153885.html",
+        "published_date": "Mon, 05 Oct 2026 08:50:00 GMT",
+        "first_seen": "2026-10-05T01:34:11.928844"
+      },
+      "bf7bd3941e8436cf7475fc293f144caccca130269695c194f77f1602d81f6915": {
+        "title": "RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev",
+        "link": "https://www.tmtpost.com/8158976.html",
+        "published_date": "Sun, 04 Oct 2026 16:32:00 GMT",
+        "first_seen": "2026-10-05T01:34:11.928846"
+      },
+      "5df0175f1c5263a2a936d743626e41daefbca0f0671dddc531739372d481f8f1": {
+        "title": "Claude Code 的「乐高」模式，让程序员彻底玩「上头」了",
+        "link": "http://www.geekpark.net/news/372074",
+        "published_date": "Sun, 04 Oct 2026 13:16:00 GMT",
+        "first_seen": "2026-10-05T01:34:11.928848"
       }
     },
     "Finance": {
-      "65ad4a73bde2a6abddf2c43a0a002241d772e1456933d5569ae45f17946cc9c1": {
-        "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
-        "link": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
-        "published_date": "Fri, 04 Sep 2026 19:46:00 GMT",
-        "first_seen": "2026-09-05T00:37:25.980766"
-      },
-      "0c5964a7ea02b27edca21576fbf7fd630c9ba9dbda6f0ea144b44e71caf7bbd0": {
-        "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
-        "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
-        "published_date": "Fri, 04 Sep 2026 21:46:00 GMT",
-        "first_seen": "2026-09-05T00:37:25.980776"
-      },
-      "01afcb8e87c55903ba7d20901b07a7698b67e356a72e70d16b0615cfa20f334a": {
-        "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
-        "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
-        "published_date": "Fri, 04 Sep 2026 20:18:00 GMT",
-        "first_seen": "2026-09-05T00:37:25.980779"
-      },
-      "b78e7788ce302e525ad24e0b3cc17444eb66f84364db706e77dc3a1dd0a280b1": {
-        "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors.",
-        "link": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
-        "published_date": "Fri, 04 Sep 2026 20:12:00 GMT",
-        "first_seen": "2026-09-05T00:37:25.980781"
-      },
-      "63bab8075e182b4e361cb4a0cab56ead09884431e3671e41f05dc4cd1612390b": {
-        "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
-        "link": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
-        "published_date": "Fri, 04 Sep 2026 20:03:00 GMT",
-        "first_seen": "2026-09-05T00:37:25.980782"
-      },
       "17f763355498480e27f11172e8e183c8860396fa30923a48bb1cb700334f3044": {
         "title": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
         "link": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
@@ -3537,21 +3507,39 @@
         "link": "https://www.ft.com/content/471ee22e-af95-4ada-a272-a6a876bc5234?syn-25a6b1a6=1",
         "published_date": "Sun, 04 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-04T10:55:59.018136"
+      },
+      "69a337130be2a3bff21927578d44eee0c35e3399a896093a74d5b7903ba2c8c2": {
+        "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+        "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+        "published_date": "Sun, 04 Oct 2026 12:00:00 GMT",
+        "first_seen": "2026-10-05T01:34:24.128955"
+      },
+      "fd1d956828edecc08f06e57f21a55ff32e759c4beb2220cb85f0c68b5489f680": {
+        "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
+        "link": "https://www.ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 21:00:00 GMT",
+        "first_seen": "2026-10-05T01:34:24.128962"
+      },
+      "27abfe81a18dfdca49a290f1021132f1367d5d09aeaebbdf4277cfbb60577631": {
+        "title": "Corporate America has never been this upbeat about future profits",
+        "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+        "published_date": "Sun, 04 Oct 2026 14:00:00 GMT",
+        "first_seen": "2026-10-05T01:34:24.128965"
+      },
+      "85b2dfc507fe196a621559999131ceecb4ffc91e7d7de3f6b72383232b1a59ff": {
+        "title": "Dealmaking slowdown threatens early end to M&A boom",
+        "link": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 20:00:00 GMT",
+        "first_seen": "2026-10-05T01:34:24.128966"
+      },
+      "0d1c1af13e17d9b692a9368117c98de09b734fec99270abc13f96c0768e9ab3d": {
+        "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
+        "link": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
+        "published_date": "Sun, 04 Oct 2026 21:51:00 GMT",
+        "first_seen": "2026-10-05T01:34:24.128968"
       }
     },
     "Ai": {
-      "ba4fbf6810fbe715b5afa3480f095f436c7c5db6aca9368c1e16c6c0df632cd4": {
-        "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-        "link": "https://www.qbitai.com/2026/09/484547.html",
-        "published_date": "Fri, 04 Sep 2026 09:23:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.493280"
-      },
-      "7348fbd3dcb9fa9907240da41df4dcb39a3f38bc203babaebab9c5259c5f9a03": {
-        "title": "2026-09-04日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-04/",
-        "published_date": "Fri, 04 Sep 2026 10:49:00 GMT",
-        "first_seen": "2026-09-05T00:36:37.493289"
-      },
       "fc09dbe50cf989a497078cdb4929957055d1b857db1a57684886ae7d02fb2265": {
         "title": "2026-09-05日刊",
         "link": "https://hex2077.dev/docs/2026-09/2026-09-05/",
@@ -4636,8 +4624,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-04T10:55:40.532815",
-    "Finance": "2026-10-04T10:55:59.018139",
+    "Technology": "2026-10-05T01:34:11.928851",
+    "Finance": "2026-10-05T01:34:24.128971",
     "Ai": "2026-10-04T10:55:59.173309"
   }
 }

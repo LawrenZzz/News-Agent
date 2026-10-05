@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 04 Oct 2026 10:55:00 GMT</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 10:55:40 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 01:33:00 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:34:11 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……</title>
-      <link>https://www.tmtpost.com/8158700.html</link>
-      <description>&lt;![CDATA[【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公司；Anthropic上市文件披露对亚马逊、谷歌依赖加深，2025年营收近46亿美元……]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 11:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158700.html</guid>
+      <title>算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废</title>
+      <link>https://www.tmtpost.com/8158686.html</link>
+      <description>&lt;![CDATA[算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 08:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158686.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当AI开始制造AI</title>
-      <link>https://www.tmtpost.com/8158979.html</link>
-      <description>&lt;![CDATA[当AI开始制造AI]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 16:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158979.html</guid>
+      <title>Anthropic被曝秘密游说梵蒂冈，AI为什么要与宗教搭上关系？</title>
+      <link>https://www.tmtpost.com/8158986.html</link>
+      <description>&lt;![CDATA[Anthropic被曝秘密游说梵蒂冈，AI为什么要与宗教搭上关系？]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 21:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158986.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>无人机已经是优等生，机器人为什么还要载人</title>
-      <link>https://www.tmtpost.com/8158866.html</link>
-      <description>&lt;![CDATA[无人机已经是优等生，机器人为什么还要载人]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 11:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8158866.html</guid>
+      <title>9秒删库，700个AI失控，豪掷513亿买不来安全？</title>
+      <link>https://www.tmtpost.com/8153885.html</link>
+      <description>&lt;![CDATA[9秒删库，700个AI失控，豪掷513亿买不来安全？]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 08:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8153885.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」</title>
-      <link>http://www.geekpark.net/news/372075</link>
-      <description>&lt;![CDATA[点头、抢话、会脸红，一半人分辨不出这是位「AI 小姐姐」]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372075</guid>
+      <title>RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev</title>
+      <link>https://www.tmtpost.com/8158976.html</link>
+      <description>&lt;![CDATA[RSI再创奇迹！StartLux推出开源决策模型StartLux-Decision，38项基准中31项高于Jev]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8158976.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin</title>
-      <link>https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin]]&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 18:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude Code 的「乐高」模式，让程序员彻底玩「上头」了</title>
+      <link>http://www.geekpark.net/news/372074</link>
+      <description>&lt;![CDATA[Claude Code 的「乐高」模式，让程序员彻底玩「上头」了]]&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372074</guid>
       <category>Technology</category>
     </item>
   </channel>
