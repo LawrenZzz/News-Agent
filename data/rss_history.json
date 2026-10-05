@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "cfa21721c28ae25817c4806c415ff151a2c3940cf8fb237667bbddb86d27a6fb": {
-        "title": "GPT-6 Astra上线，AGI时代真到来了吗？",
-        "link": "https://www.tmtpost.com/8128178.html",
-        "published_date": "Sat, 05 Sep 2026 09:59:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.280941"
-      },
-      "c59d59a6b44726c22c73d9df036a4d606b8214d229860c10e0d967d9cbede63d": {
-        "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
-        "link": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 05 Sep 2026 09:56:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.280954"
-      },
-      "58228fc1c897ac8c83f4f804cd2817d431edd045bcc6ab7166e7a4cb956af43f": {
-        "title": "Mac遭OpenAI扫货，但苹果与英伟达并非零和博弈",
-        "link": "https://www.tmtpost.com/8129072.html",
-        "published_date": "Sat, 05 Sep 2026 09:58:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.280957"
-      },
-      "6c2ac6769236ef9becbd120d4ce21398786eea66e933c2614742bd3a404e103a": {
-        "title": "卡位Agent生态：腾讯WorkBuddy做了什么？",
-        "link": "https://www.tmtpost.com/8129511.html",
-        "published_date": "Sat, 05 Sep 2026 14:49:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.280959"
-      },
-      "5522f0ac5deabcc6405aa64c6a3e96e7bc58d298b1798bd52b70d89d7b46c92a": {
-        "title": "智驾公司的半年报，开始看得出谁能赚钱了",
-        "link": "https://www.tmtpost.com/8128189.html",
-        "published_date": "Sat, 05 Sep 2026 10:40:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.280961"
-      },
       "eca49cc4e497da2484a5aa181897e98f411fad75f07eeafad211681a83f4078a": {
         "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
         "link": "http://www.geekpark.net/news/369875",
@@ -1771,39 +1741,39 @@
         "link": "http://www.geekpark.net/news/372074",
         "published_date": "Sun, 04 Oct 2026 13:16:00 GMT",
         "first_seen": "2026-10-05T01:34:11.928848"
+      },
+      "259082c6cf4042a603f5c529c7ae8359a27ee3cd573c6c3a80ddec8273c57d9e": {
+        "title": "纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资",
+        "link": "https://www.tmtpost.com/8159517.html",
+        "published_date": "Mon, 05 Oct 2026 17:36:00 GMT",
+        "first_seen": "2026-10-05T12:03:53.171764"
+      },
+      "09bea6c59ce06fd1c2177cc3e7248d57fd62c26cedf71a2686f658d1bed3f86e": {
+        "title": "AI耳机蓄势，芯片厂商待发",
+        "link": "https://www.tmtpost.com/8159480.html",
+        "published_date": "Mon, 05 Oct 2026 15:32:00 GMT",
+        "first_seen": "2026-10-05T12:03:53.171775"
+      },
+      "fb0ea1f390eecd8f07249290a13136f506c1da5e0df356abc9cb5eef634c36f7": {
+        "title": "这个国庆，第一批机器人员工已经上岗",
+        "link": "https://www.tmtpost.com/8159586.html",
+        "published_date": "Mon, 05 Oct 2026 18:08:00 GMT",
+        "first_seen": "2026-10-05T12:03:53.171778"
+      },
+      "6d9d5460017d33b59c8301f6e45c9d47722568014b693bbf4d6d46f2c4d6b770": {
+        "title": "快手的视频Agent，会不会来晚了？",
+        "link": "https://www.tmtpost.com/8159522.html",
+        "published_date": "Mon, 05 Oct 2026 17:36:00 GMT",
+        "first_seen": "2026-10-05T12:03:53.171780"
+      },
+      "165a77d0a8ba3bd41390b93b77a19c773a49c6eff504ff9e84f9235d09a440c9": {
+        "title": "AI面试官，放过打工人吧",
+        "link": "https://www.tmtpost.com/8159479.html",
+        "published_date": "Mon, 05 Oct 2026 15:53:00 GMT",
+        "first_seen": "2026-10-05T12:03:53.171782"
       }
     },
     "Finance": {
-      "17f763355498480e27f11172e8e183c8860396fa30923a48bb1cb700334f3044": {
-        "title": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
-        "link": "https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1",
-        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-05T08:48:58.891129"
-      },
-      "625e82b554237ed7184496a737ea4072c35e4a12e77a755bfef9bef6fa99d1cf": {
-        "title": "AI boom reverses the trend of ever-cheaper electronics",
-        "link": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
-        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-05T08:48:58.891137"
-      },
-      "8d6277ece08f4e0e108bb7ca407bed552ae3f16687960b22592df8ba9c32f6b1": {
-        "title": "The gloves are starting to come off in markets",
-        "link": "https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
-        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-05T08:48:58.891139"
-      },
-      "458e424e539d3e259ac30902689a3a74b217562dfc962e342389fd3327291c17": {
-        "title": "How nationalists, theocrats and tech titans turned their backs on the future",
-        "link": "https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed",
-        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-05T08:48:58.891141"
-      },
-      "29f986bed739f43670c92e4051768b202780d0456bfb657401ac19c971b67340": {
-        "title": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies",
-        "link": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
-        "published_date": "Sat, 05 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-05T08:48:58.891143"
-      },
       "f1368189b1c174033c961d218170bc6811781ab58f814be0d2e53adb448f474d": {
         "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
         "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
@@ -3537,33 +3507,39 @@
         "link": "https://www.ft.com/content/2084f349-0829-4130-a5e6-b98929a6e633?syn-25a6b1a6=1",
         "published_date": "Sun, 04 Oct 2026 21:51:00 GMT",
         "first_seen": "2026-10-05T01:34:24.128968"
+      },
+      "1bc6957aa205cf42b02138a35fc583eecc384a3ba21ea357471dc35847f80e29": {
+        "title": "Bond turbulence means it’s time for the ECB to put QT on hold",
+        "link": "https://www.ft.com/content/e0dfef01-4933-4ab9-8927-d08115f4822c",
+        "published_date": "Mon, 05 Oct 2026 10:22:00 GMT",
+        "first_seen": "2026-10-05T12:04:23.946081"
+      },
+      "be7a74380fce9d4dffe463ff502982235d5dfbe5fb6345bcaeeea161eb31c04d": {
+        "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+        "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 11:19:00 GMT",
+        "first_seen": "2026-10-05T12:04:23.946088"
+      },
+      "0ac01d221b6f792a128f2c47672ada3f900f9ced285a9c6a77121839d358d0c3": {
+        "title": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’",
+        "link": "https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 08:21:00 GMT",
+        "first_seen": "2026-10-05T12:04:23.946091"
+      },
+      "5b6354dfeba5fa018b98c565fab2db14113e369c9c3f5ca740b2e7da3690e17a": {
+        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+        "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 11:40:00 GMT",
+        "first_seen": "2026-10-05T12:04:23.946093"
+      },
+      "68d82a84a8fbfe09daf989c18759efa570be1b10fce90671955aca4a6ad5bd35": {
+        "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
+        "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 11:27:00 GMT",
+        "first_seen": "2026-10-05T12:04:23.946094"
       }
     },
     "Ai": {
-      "fc09dbe50cf989a497078cdb4929957055d1b857db1a57684886ae7d02fb2265": {
-        "title": "2026-09-05日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-05/",
-        "published_date": "Sat, 05 Sep 2026 10:26:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.398443"
-      },
-      "f64708c703146dd61b49b4d85b9d6cb1d9ab5041fdd9355a30aa616e3a5f124a": {
-        "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-        "link": "https://www.qbitai.com/2026/09/484649.html",
-        "published_date": "Sat, 05 Sep 2026 04:24:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.398452"
-      },
-      "aa84e61a1c86b9a97f51828160ed661a19bed5a2cbb36179380e3a717a6c5e0e": {
-        "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
-        "link": "https://www.qbitai.com/2026/09/484611.html",
-        "published_date": "Sat, 05 Sep 2026 04:18:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.398454"
-      },
-      "4e2c90fe10f555fea4688162d17d4f98264fde90a6564ceba8e4dede4ea2fac1": {
-        "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
-        "link": "https://www.qbitai.com/2026/09/484551.html",
-        "published_date": "Sat, 05 Sep 2026 01:17:00 GMT",
-        "first_seen": "2026-09-05T08:48:47.398456"
-      },
       "3b78ae0415e84e09f70829e911597bc19230eb4c7944ae685f403a71077a6918": {
         "title": "GPT-6带火循环Transformer，阿里早已布局",
         "link": "https://www.qbitai.com/2026/09/484726.html",
@@ -4619,13 +4595,31 @@
         "link": "https://www.qbitai.com/2026/10/501506.html",
         "published_date": "Sun, 04 Oct 2026 06:05:00 GMT",
         "first_seen": "2026-10-04T10:55:59.173306"
+      },
+      "13d8de8cd1643ab8227c2b4b7efd208ed27d08ad1a7f631f53a11bb0c321f71a": {
+        "title": "刚刚，Hinton发了首篇RSI论文",
+        "link": "https://www.qbitai.com/2026/10/501705.html",
+        "published_date": "Mon, 05 Oct 2026 04:42:00 GMT",
+        "first_seen": "2026-10-05T12:04:24.086019"
+      },
+      "d5a83460c83f9f949ee5b5b366bb3c65b21b362376d95c3b39daa92940a9c74e": {
+        "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "link": "https://www.qbitai.com/2026/10/501700.html",
+        "published_date": "Mon, 05 Oct 2026 02:50:00 GMT",
+        "first_seen": "2026-10-05T12:04:24.086027"
+      },
+      "fbcb80ccc0d8f55f1304a7c4d9a38317ba500cd05e61abe546bde4d0ece881c9": {
+        "title": "2026-10-05日刊",
+        "link": "https://hex2077.dev/docs/2026-10/2026-10-05/",
+        "published_date": "Mon, 05 Oct 2026 03:22:00 GMT",
+        "first_seen": "2026-10-05T12:04:24.086029"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-05T01:34:11.928851",
-    "Finance": "2026-10-05T01:34:24.128971",
-    "Ai": "2026-10-04T10:55:59.173309"
+    "Technology": "2026-10-05T12:03:53.171784",
+    "Finance": "2026-10-05T12:04:23.946096",
+    "Ai": "2026-10-05T12:04:24.086031"
   }
 }
