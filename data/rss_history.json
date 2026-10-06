@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "eca49cc4e497da2484a5aa181897e98f411fad75f07eeafad211681a83f4078a": {
-        "title": "传 iPhone 18 Pro 仅涨价 100 美元；Kimi、MiniMax 将在天猫开店；OpenAI 回应 Agent 攻击德国网站",
-        "link": "http://www.geekpark.net/news/369875",
-        "published_date": "Sun, 06 Sep 2026 08:06:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.055024"
-      },
-      "c2e59abfbbc7df63bf8e9041b5dc0eea6330252dec8bf594c914fcf5b7e773bf": {
-        "title": "AGI，真的来了？",
-        "link": "https://www.tmtpost.com/8129208.html",
-        "published_date": "Sat, 05 Sep 2026 09:58:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.055034"
-      },
-      "a6b71e1b39041f81a2defe090de43d79db380c841533051350f3aea8a2858d22": {
-        "title": "中国开源模型，正成为全球 AI 的“度量衡”",
-        "link": "https://www.tmtpost.com/8129473.html",
-        "published_date": "Sat, 05 Sep 2026 16:35:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.055037"
-      },
-      "7bf81f254294163076b648dae40fdbfa09674f508ea73549df3993cc77eaa756": {
-        "title": "具身智能的冰与火之歌：热在展台，冷在产线",
-        "link": "https://www.tmtpost.com/8129186.html",
-        "published_date": "Sat, 05 Sep 2026 19:18:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.055039"
-      },
-      "2dfcb8b8bdd0511c1540f615f797da91a66cd87e6c4069f58917275888a3bade": {
-        "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
-        "link": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 05 Sep 2026 17:00:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.055041"
-      },
       "0907d267c56c879be4fd0255677fb1ba68e5f910dd71114fe8422eb0f01dbad6": {
         "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
         "link": "https://www.tmtpost.com/8129268.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8159479.html",
         "published_date": "Mon, 05 Oct 2026 15:53:00 GMT",
         "first_seen": "2026-10-05T12:03:53.171782"
+      },
+      "58f1334cc21edc5918dcc9bff13500c208afa952aed4ec003bc4494f2b824e4c": {
+        "title": "OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」",
+        "link": "http://www.geekpark.net/news/372086",
+        "published_date": "Tue, 06 Oct 2026 09:16:00 GMT",
+        "first_seen": "2026-10-06T02:41:51.201302"
+      },
+      "a053eaaca10d782b14314d80736614f9c6ed62ccd195bf1b8cccfb4b2cb4c15a": {
+        "title": "7300亿美元押注之后，市场开始追问AI的回报",
+        "link": "https://www.tmtpost.com/8159557.html",
+        "published_date": "Tue, 06 Oct 2026 09:31:00 GMT",
+        "first_seen": "2026-10-06T02:41:51.201311"
+      },
+      "428722e1f2f93544ecfd090e4b7b0e39b0ffbc56a4dde4c334c2ddb9f540dbb2": {
+        "title": "硅谷AI，正在开源",
+        "link": "https://www.tmtpost.com/8159477.html",
+        "published_date": "Mon, 05 Oct 2026 15:32:00 GMT",
+        "first_seen": "2026-10-06T02:41:51.201313"
+      },
+      "b580eef5f0e5d155fd95bb4c782be698cddc6ca7500c1bf29c3bf4d2414a5532": {
+        "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "link": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-06T02:41:51.201315"
+      },
+      "468e69bc85ef705c388a7f32a151e97f36c3946754c216d43fe450196b50558e": {
+        "title": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "link": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 05 Oct 2026 14:00:00 GMT",
+        "first_seen": "2026-10-06T02:41:51.201317"
       }
     },
     "Finance": {
-      "f1368189b1c174033c961d218170bc6811781ab58f814be0d2e53adb448f474d": {
-        "title": "Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.",
-        "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
-        "published_date": "Sat, 05 Sep 2026 16:34:00 GMT",
-        "first_seen": "2026-09-06T00:34:55.188521"
-      },
-      "8a0893ff50d4489a6f3a5d95529f4bf264ce7b42b0ffb668f3d41399a8bc89a5": {
-        "title": "Treasury sell-off piles pressure on weakest US borrowers",
-        "link": "https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
-        "published_date": "Sat, 05 Sep 2026 11:00:00 GMT",
-        "first_seen": "2026-09-06T00:34:55.188528"
-      },
-      "14ffc75ba483a478a9692b3d76d88de5a53f542a9ba9930cdf85e828cb029472": {
-        "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
-        "link": "https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1",
-        "published_date": "Sat, 05 Sep 2026 21:35:00 GMT",
-        "first_seen": "2026-09-06T00:34:55.188530"
-      },
-      "16e50bfc912013856f3fd6fdefd3889f7dd47751b0fa2d7accf556c88ee4c9d1": {
-        "title": "7% mortgage rates are already here, some buyers and mortgage experts say",
-        "link": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
-        "published_date": "Sat, 05 Sep 2026 18:09:00 GMT",
-        "first_seen": "2026-09-06T00:34:55.188532"
-      },
-      "8d36211070d97bda2600688107ad481e3bc8ea7c6e7c0e5ac5244407558e80e7": {
-        "title": "Why the jobs report will actually be good for bonds",
-        "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
-        "published_date": "Sat, 05 Sep 2026 18:26:00 GMT",
-        "first_seen": "2026-09-06T00:34:55.188535"
-      },
       "7f229079a0c6b46b69b7b19bd9ada7f2c9069e504847fddc7d8015d56374bc1f": {
         "title": "UBS demands new junior bankers show AI proficiency",
         "link": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
@@ -3537,21 +3507,39 @@
         "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
         "published_date": "Mon, 05 Oct 2026 11:27:00 GMT",
         "first_seen": "2026-10-05T12:04:23.946094"
+      },
+      "5b5eb14c7ad1e868b9fdc5e013c1e6ba7fe4216b93a8ecdd12843998dba403f6": {
+        "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+        "link": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 20:58:00 GMT",
+        "first_seen": "2026-10-06T02:42:06.354861"
+      },
+      "a3ad9828fffca22249204950d8a13c2f6f79160740f38b2ceb65d334c5f480bb": {
+        "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
+        "link": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
+        "published_date": "Mon, 05 Oct 2026 16:56:00 GMT",
+        "first_seen": "2026-10-06T02:42:06.354868"
+      },
+      "071d82afcd7a6d191ae13ac348000eedc9dadc9cef19ccaa589f2ab0c7fceab4": {
+        "title": "Hong Kong quizzes HSBC over Singapore AI hub decision",
+        "link": "https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 01:32:00 GMT",
+        "first_seen": "2026-10-06T02:42:06.354870"
+      },
+      "7987654eb7f0c53f49a8b90839758479b9eade91d5b0e49b436ec9f4450ae8ad": {
+        "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
+        "link": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 21:12:00 GMT",
+        "first_seen": "2026-10-06T02:42:06.354871"
+      },
+      "2d9b35bd27a083dabe01c7c7d7b67d64e286dd2ebe93f5d971c1d7e3c1f96f20": {
+        "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+        "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+        "published_date": "Mon, 05 Oct 2026 20:14:00 GMT",
+        "first_seen": "2026-10-06T02:42:06.354873"
       }
     },
     "Ai": {
-      "3b78ae0415e84e09f70829e911597bc19230eb4c7944ae685f403a71077a6918": {
-        "title": "GPT-6带火循环Transformer，阿里早已布局",
-        "link": "https://www.qbitai.com/2026/09/484726.html",
-        "published_date": "Sat, 05 Sep 2026 15:07:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.174306"
-      },
-      "57a3a3866f17def362a55417d813e373ea502d0a7a0cd463fddce3e69bc95c45": {
-        "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-        "link": "https://www.qbitai.com/2026/09/484683.html",
-        "published_date": "Sat, 05 Sep 2026 14:46:00 GMT",
-        "first_seen": "2026-09-06T00:34:41.174315"
-      },
       "12817bd9eee292905ff31ebc7bf00691e25780e2fe19ff29757f541c8e76f440": {
         "title": "2026-09-06日刊",
         "link": "https://hex2077.dev/docs/2026-09/2026-09-06/",
@@ -4613,13 +4601,19 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-05/",
         "published_date": "Mon, 05 Oct 2026 03:22:00 GMT",
         "first_seen": "2026-10-05T12:04:24.086029"
+      },
+      "95ff89cb6ed2b9254d2e7ac59e28aeaefd8a797f1295642a483a01f83d7405bb": {
+        "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+        "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+        "published_date": "Mon, 05 Oct 2026 21:08:00 GMT",
+        "first_seen": "2026-10-06T02:42:06.490947"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-05T12:03:53.171784",
-    "Finance": "2026-10-05T12:04:23.946096",
-    "Ai": "2026-10-05T12:04:24.086031"
+    "Technology": "2026-10-06T02:41:51.201319",
+    "Finance": "2026-10-06T02:42:06.354876",
+    "Ai": "2026-10-06T02:42:06.490956"
   }
 }

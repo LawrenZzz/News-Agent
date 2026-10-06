@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Oct 2026 12:03:00 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 12:03:53 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 02:41:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:41:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资</title>
-      <link>https://www.tmtpost.com/8159517.html</link>
-      <description>&lt;![CDATA[纳指历史新高，恒生科技却创了一年新低，A股硬科技企业正在排队去港交所募资]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159517.html</guid>
+      <title>OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」</title>
+      <link>http://www.geekpark.net/news/372086</link>
+      <description>&lt;![CDATA[OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 09:16:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372086</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI耳机蓄势，芯片厂商待发</title>
-      <link>https://www.tmtpost.com/8159480.html</link>
-      <description>&lt;![CDATA[AI耳机蓄势，芯片厂商待发]]&gt;</description>
+      <title>7300亿美元押注之后，市场开始追问AI的回报</title>
+      <link>https://www.tmtpost.com/8159557.html</link>
+      <description>&lt;![CDATA[7300亿美元押注之后，市场开始追问AI的回报]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 09:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159557.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>硅谷AI，正在开源</title>
+      <link>https://www.tmtpost.com/8159477.html</link>
+      <description>&lt;![CDATA[硅谷AI，正在开源]]&gt;</description>
       <pubDate>Mon, 05 Oct 2026 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159480.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159477.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>这个国庆，第一批机器人员工已经上岗</title>
-      <link>https://www.tmtpost.com/8159586.html</link>
-      <description>&lt;![CDATA[这个国庆，第一批机器人员工已经上岗]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159586.html</guid>
+      <title>AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海</title>
+      <link>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>快手的视频Agent，会不会来晚了？</title>
-      <link>https://www.tmtpost.com/8159522.html</link>
-      <description>&lt;![CDATA[快手的视频Agent，会不会来晚了？]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 17:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159522.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI面试官，放过打工人吧</title>
-      <link>https://www.tmtpost.com/8159479.html</link>
-      <description>&lt;![CDATA[AI面试官，放过打工人吧]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 15:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159479.html</guid>
+      <title>C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云</title>
+      <link>https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云]]&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
