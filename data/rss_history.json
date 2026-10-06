@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "0907d267c56c879be4fd0255677fb1ba68e5f910dd71114fe8422eb0f01dbad6": {
-        "title": "OpenAI 称年底实现 AGI：藏起思考的模型，和它背后的资本之争",
-        "link": "https://www.tmtpost.com/8129268.html",
-        "published_date": "Sun, 06 Sep 2026 11:57:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.831545"
-      },
-      "7c1f1e0bca4a4a852a9f71896b9cc73d865197738e350bf4172bbee77f42243d": {
-        "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
-        "link": "https://www.tmtpost.com/8129798.html",
-        "published_date": "Sun, 06 Sep 2026 11:22:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.831555"
-      },
-      "ac44c0702ca1d4adb81980578f7ef6b32108324dd148c518a3790d80afcdffa5": {
-        "title": "AI时代，最稀缺的不是知识，而是系统思维",
-        "link": "https://www.tmtpost.com/8082672.html",
-        "published_date": "Sun, 06 Sep 2026 10:41:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.831557"
-      },
-      "69b236aa9e015b94526377fa70630f20c688cd34458215d99ca53eebac987907": {
-        "title": "2026动力电池新叙事：电驱万物，AI赋能，固态仍需耐心丨行业风向标",
-        "link": "https://www.tmtpost.com/8129971.html",
-        "published_date": "Sun, 06 Sep 2026 12:40:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.831559"
-      },
-      "48711f4caf6a62a743bdb10f6ec3b2305c0357a0cee50fb77167e5fe94b3fd36": {
-        "title": "计划-执行-反馈的闭环：我如何在千亿级制造企业打造物理AI",
-        "link": "https://www.tmtpost.com/8129811.html",
-        "published_date": "Sun, 06 Sep 2026 16:35:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.831560"
-      },
       "72c36d44f832f3364b27d50bb52550e65d5315dc11142e21564455a8a74e22e8": {
         "title": "Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区",
         "link": "https://www.tmtpost.com/8130213.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 05 Oct 2026 14:00:00 GMT",
         "first_seen": "2026-10-06T02:41:51.201317"
+      },
+      "3c2744bc835954ae53d62975202bd6bff4170961ca6f3e4d9785ef09be23c28f": {
+        "title": "卖铲人不灵了：AI资本开支的4%回报比，正在重定价整个算力链",
+        "link": "https://www.tmtpost.com/8159557.html",
+        "published_date": "Tue, 06 Oct 2026 09:31:00 GMT",
+        "first_seen": "2026-10-06T11:45:15.434771"
+      },
+      "66ad25733c50cb16c3c32a8ad8222cefcd6a0d0fc3d68d0b0d8109e4ce2705eb": {
+        "title": "世界模型赛道：谁在收编，谁在突围？",
+        "link": "https://www.tmtpost.com/8159876.html",
+        "published_date": "Tue, 06 Oct 2026 12:31:00 GMT",
+        "first_seen": "2026-10-06T11:45:15.434783"
+      },
+      "93ef52c85100dc4d9e8e0172fbcfef1ba650b066f6e11f8b099e887bb8936cb7": {
+        "title": "全球AI消费调查：仅有1%超级玩家在养活AI圈",
+        "link": "https://www.tmtpost.com/8159928.html",
+        "published_date": "Tue, 06 Oct 2026 18:44:00 GMT",
+        "first_seen": "2026-10-06T11:45:15.434787"
+      },
+      "a342fcaed2da5fdf4fe762b921b682bb0b8ac89ba160277cee0486bd0195f089": {
+        "title": "论AI从沙盒中逃逸的必然性",
+        "link": "https://www.tmtpost.com/8159807.html",
+        "published_date": "Tue, 06 Oct 2026 18:44:00 GMT",
+        "first_seen": "2026-10-06T11:45:15.434789"
+      },
+      "52e5c208b52ac63417217951c3e2e587584de396dc5f66d295c8d14dc5d50b83": {
+        "title": "AI 越来越强，公司为什么还是做不快？",
+        "link": "https://www.tmtpost.com/8159894.html",
+        "published_date": "Tue, 06 Oct 2026 12:31:00 GMT",
+        "first_seen": "2026-10-06T11:45:15.434791"
       }
     },
     "Finance": {
-      "7f229079a0c6b46b69b7b19bd9ada7f2c9069e504847fddc7d8015d56374bc1f": {
-        "title": "UBS demands new junior bankers show AI proficiency",
-        "link": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-06T09:10:12.703723"
-      },
-      "1a09ef98b0db5f28e72511b0a5a70a39be7405730ebcadad403e3ee5b06e793a": {
-        "title": "Russian gold floods through Hong Kong in wake of western sanctions",
-        "link": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-06T09:10:12.703730"
-      },
-      "0d7324f4c712fd9fa032b183b59482771a8566239aa49d126f5431a61abb08ba": {
-        "title": "Insurers pile on risk as payouts fall to lowest level in 20 years",
-        "link": "https://www.ft.com/content/a0e69cf2-c3d4-412b-b78b-a6171b7ed020?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-06T09:10:12.703731"
-      },
-      "2ce27bc05fb47536ec4c48ada1caec5a6213584a5ae64f5de9350953ebd15247": {
-        "title": "LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades",
-        "link": "https://www.ft.com/content/02f36de6-b6ce-4a17-a474-bd5fa000f1a1?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-06T09:10:12.703732"
-      },
-      "b9334c02360e047aa50a5d6d37e91aa6e598a53b2af0588bf370d73e70824374": {
-        "title": "The risky mission to de-mine the Strait of Hormuz",
-        "link": "https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-06T09:10:12.703733"
-      },
       "d571a0a3e8c7f37a3311b48d46bd28b67063d4d9a08e134d85a8eb000060d1d7": {
         "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
         "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
@@ -3537,21 +3507,39 @@
         "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
         "published_date": "Mon, 05 Oct 2026 20:14:00 GMT",
         "first_seen": "2026-10-06T02:42:06.354873"
+      },
+      "d85ac98d525949e49e387c3eba0fdcff2389dc25f28deb3de0897a7194abe6c3": {
+        "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+        "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 11:21:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.244432"
+      },
+      "53adb8de544197b07c42bc1d3a53b6d65cbcaf1b1e2a24893a1391b87fc5b038": {
+        "title": "Should I put my nest egg in a 30-year Treasury bond?",
+        "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.244442"
+      },
+      "88bd81f48f06a5c819c55e2c6b72626a54d65a0ff43d3073e630e1e1e9284ba2": {
+        "title": "Elon Musk’s wealth surpasses $1 trillion — making it higher than these countries’ GDPs",
+        "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 09:56:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.244444"
+      },
+      "c97a48bfc7cdc1739e50d9f0639b298730655fc8ca4d4df28f2eb37e856a735a": {
+        "title": "Michael Burry says he’s sold out of his top holding — for now",
+        "link": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 09:42:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.244446"
+      },
+      "904cc7e196f8da7213570c217a1503c66841d6be4ebd5e3a9e6ac982d448f1ff": {
+        "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
+        "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 09:06:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.244448"
       }
     },
     "Ai": {
-      "12817bd9eee292905ff31ebc7bf00691e25780e2fe19ff29757f541c8e76f440": {
-        "title": "2026-09-06日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-06/",
-        "published_date": "Sun, 06 Sep 2026 10:41:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.912837"
-      },
-      "f95d72366aed5fa774b8f61701b408d9240b06eb295350e00cbf289ec7151b03": {
-        "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-        "link": "https://www.qbitai.com/2026/09/484890.html",
-        "published_date": "Sun, 06 Sep 2026 04:40:00 GMT",
-        "first_seen": "2026-09-06T09:10:04.912846"
-      },
       "66aaef734f1f58a3ce5698af2955f094a2e5c27e79b24166c7e58c3e0b5cf22a": {
         "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
         "link": "https://www.qbitai.com/2026/09/484897.html",
@@ -4607,13 +4595,31 @@
         "link": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
         "published_date": "Mon, 05 Oct 2026 21:08:00 GMT",
         "first_seen": "2026-10-06T02:42:06.490947"
+      },
+      "fdf7c4a77789c79dd6a1728d60fddb738c46001d2a83e02d427a2f964fd1fa14": {
+        "title": "刚刚，诺贝尔物理奖一人独揽！",
+        "link": "https://www.qbitai.com/2026/10/501746.html",
+        "published_date": "Tue, 06 Oct 2026 10:44:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.387781"
+      },
+      "bf399988d7cd4aa6c14dd2318ac5e96ac797999c144d1bda4b00e374c9e2a859": {
+        "title": "不er，咋陶哲轩也成AI减速派了？？",
+        "link": "https://www.qbitai.com/2026/10/501736.html",
+        "published_date": "Tue, 06 Oct 2026 07:59:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.387790"
+      },
+      "c36db62fa89dfe259300b124d4765d463fc1b0468d25dddbe6d8a686c0930d70": {
+        "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "link": "https://www.qbitai.com/2026/10/501726.html",
+        "published_date": "Tue, 06 Oct 2026 06:45:00 GMT",
+        "first_seen": "2026-10-06T11:45:30.387792"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-06T02:41:51.201319",
-    "Finance": "2026-10-06T02:42:06.354876",
-    "Ai": "2026-10-06T02:42:06.490956"
+    "Technology": "2026-10-06T11:45:15.434793",
+    "Finance": "2026-10-06T11:45:30.244451",
+    "Ai": "2026-10-06T11:45:30.387794"
   }
 }

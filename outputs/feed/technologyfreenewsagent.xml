@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Oct 2026 02:41:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 02:41:51 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 11:44:00 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:45:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」</title>
-      <link>http://www.geekpark.net/news/372086</link>
-      <description>&lt;![CDATA[OpenAI 宣布「28 天计划」，持续改进 Codex、Work；TikTok 上线一系列 AI 电商功能；蓝色起源公布月球「动力塔计划」]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:16:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372086</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>7300亿美元押注之后，市场开始追问AI的回报</title>
+      <title>卖铲人不灵了：AI资本开支的4%回报比，正在重定价整个算力链</title>
       <link>https://www.tmtpost.com/8159557.html</link>
-      <description>&lt;![CDATA[7300亿美元押注之后，市场开始追问AI的回报]]&gt;</description>
+      <description>&lt;![CDATA[卖铲人不灵了：AI资本开支的4%回报比，正在重定价整个算力链]]&gt;</description>
       <pubDate>Tue, 06 Oct 2026 09:31:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.tmtpost.com/8159557.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>硅谷AI，正在开源</title>
-      <link>https://www.tmtpost.com/8159477.html</link>
-      <description>&lt;![CDATA[硅谷AI，正在开源]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 15:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8159477.html</guid>
+      <title>世界模型赛道：谁在收编，谁在突围？</title>
+      <link>https://www.tmtpost.com/8159876.html</link>
+      <description>&lt;![CDATA[世界模型赛道：谁在收编，谁在突围？]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159876.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海</title>
-      <link>https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海]]&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>全球AI消费调查：仅有1%超级玩家在养活AI圈</title>
+      <link>https://www.tmtpost.com/8159928.html</link>
+      <description>&lt;![CDATA[全球AI消费调查：仅有1%超级玩家在养活AI圈]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159928.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云</title>
-      <link>https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云]]&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>论AI从沙盒中逃逸的必然性</title>
+      <link>https://www.tmtpost.com/8159807.html</link>
+      <description>&lt;![CDATA[论AI从沙盒中逃逸的必然性]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 18:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159807.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI 越来越强，公司为什么还是做不快？</title>
+      <link>https://www.tmtpost.com/8159894.html</link>
+      <description>&lt;![CDATA[AI 越来越强，公司为什么还是做不快？]]&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 12:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8159894.html</guid>
       <category>Technology</category>
     </item>
   </channel>
