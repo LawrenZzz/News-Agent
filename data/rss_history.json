@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "72c36d44f832f3364b27d50bb52550e65d5315dc11142e21564455a8a74e22e8": {
-        "title": "Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区",
-        "link": "https://www.tmtpost.com/8130213.html",
-        "published_date": "Sun, 06 Sep 2026 20:46:00 GMT",
-        "first_seen": "2026-09-07T00:41:26.539379"
-      },
-      "616092ebef12b9011508eb59f1909596135eb0ce4dd67683ed3412933d8f230f": {
-        "title": "银行“抢着借钱”，字节贷款近2000亿搞AI？",
-        "link": "https://www.tmtpost.com/8129806.html",
-        "published_date": "Sun, 06 Sep 2026 11:22:00 GMT",
-        "first_seen": "2026-09-07T00:41:26.539388"
-      },
-      "42359e53aa1829b2b86ce68a05f0eef130c78cf7302d5f168d05cf92c92d2a03": {
-        "title": "车企的焦虑，都在押注机器人",
-        "link": "https://www.tmtpost.com/8129734.html",
-        "published_date": "Sun, 06 Sep 2026 10:33:00 GMT",
-        "first_seen": "2026-09-07T00:41:26.539391"
-      },
-      "aca6d294abb0ca6c8ce7aabfb97a587750ace3c595c8ca5b6fc4d2631241b2f0": {
-        "title": "对话刘郴：解决物理AI的“真实感”难题，凌迪科技的仿真野心不止于服装",
-        "link": "https://www.tmtpost.com/8128608.html",
-        "published_date": "Sun, 06 Sep 2026 09:11:00 GMT",
-        "first_seen": "2026-09-07T00:41:26.539393"
-      },
-      "b8d24879bba4f2eb34e51e81b3e8dd15bf12688dcfd7cc34c022c2ac7460a923": {
-        "title": "中国大模型简史02：一张突然值钱的船票",
-        "link": "https://www.tmtpost.com/8129912.html",
-        "published_date": "Sun, 06 Sep 2026 10:03:00 GMT",
-        "first_seen": "2026-09-07T00:41:26.539395"
-      },
       "30b9090fd3549a7632021c4454fd6eea16f3fa7f8c946c5d6684b0c6f62bd5b8": {
         "title": "GPT-6发布，硬件跌停、应用涨停：一次被过度解读的叙事切换？",
         "link": "https://www.tmtpost.com/8130901.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8159894.html",
         "published_date": "Tue, 06 Oct 2026 12:31:00 GMT",
         "first_seen": "2026-10-06T11:45:15.434791"
+      },
+      "304596eba88aa444aa4e1490301ff35e94f8f4593d5b6c16c70c03ce9b3e6b8a": {
+        "title": "全球市值最大股表现落后，若英伟达启动上涨，科技股与大盘或将跟随",
+        "link": "https://www.tmtpost.com/8160143.html",
+        "published_date": "Wed, 07 Oct 2026 09:31:00 GMT",
+        "first_seen": "2026-10-07T02:03:17.069449"
+      },
+      "c464e5e23462c51a1a08a6a4a9eb696481de93827b7d3501d6399cd0184c6e25": {
+        "title": "火箭发动机的“技术鄙视链”",
+        "link": "https://www.tmtpost.com/8159826.html",
+        "published_date": "Tue, 06 Oct 2026 12:32:00 GMT",
+        "first_seen": "2026-10-07T02:03:17.069459"
+      },
+      "c3b35faca12de0faef402a338abd1eb3cc3e6d3c1dd489b398ecd1abce2870a0": {
+        "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
+        "link": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Oct 2026 15:00:00 GMT",
+        "first_seen": "2026-10-07T02:03:17.069461"
+      },
+      "a89a7b0fa85c57606f8a0e4bbb5b538a5355844ba0d49bd426d5783ff9563ec0": {
+        "title": "三只可能从现代战争中受益的国防类股票",
+        "link": "https://www.tmtpost.com/8160134.html",
+        "published_date": "Wed, 07 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-07T02:03:17.069463"
+      },
+      "8a407849600bfbeba2e033c23577b9d0f4b02fa47a21bfdf292636cde9a2ae38": {
+        "title": "默沙东重注背后：G12D凭什么成为下一个爆款靶点？",
+        "link": "https://www.tmtpost.com/8160057.html",
+        "published_date": "Wed, 07 Oct 2026 08:56:00 GMT",
+        "first_seen": "2026-10-07T02:03:17.069465"
       }
     },
     "Finance": {
-      "d571a0a3e8c7f37a3311b48d46bd28b67063d4d9a08e134d85a8eb000060d1d7": {
-        "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-        "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-        "published_date": "Sun, 06 Sep 2026 13:00:00 GMT",
-        "first_seen": "2026-09-07T00:41:39.587017"
-      },
-      "29d5af106cb9f60a974be18863239e6d8d15d9d8c12f5f3f83d6e05af55fe524": {
-        "title": "Far-right AfD surges to first place in German state elections",
-        "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 22:06:00 GMT",
-        "first_seen": "2026-09-07T00:41:39.587023"
-      },
-      "9133eac63013090e03c20a3bed4a7477a8d4e6e9cdc7ac3a610c6ce1ce1dac39": {
-        "title": "Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow",
-        "link": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 17:46:00 GMT",
-        "first_seen": "2026-09-07T00:41:39.587025"
-      },
-      "f0d02a0e916dcf922c1ca07baa69e53f9a3f6e100c2a96aca3652973e5421b78": {
-        "title": "Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials",
-        "link": "https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 20:00:00 GMT",
-        "first_seen": "2026-09-07T00:41:39.587026"
-      },
-      "79d07628b729ee317aadd2809dbd71fbd452568821f1d3300de223a2091ca071": {
-        "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
-        "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 23:05:00 GMT",
-        "first_seen": "2026-09-07T00:41:39.587028"
-      },
       "e3e7f6682b323bca13b1d9156bc5d9f6009db89440aca33abef6907e21551278": {
         "title": "China pumps $54bn into banks and insurers",
         "link": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
@@ -3537,15 +3507,39 @@
         "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
         "published_date": "Tue, 06 Oct 2026 09:06:00 GMT",
         "first_seen": "2026-10-06T11:45:30.244448"
+      },
+      "c03758d030721f6265c7586289d8b9c9b1d29b704c7a4b60ae2fc056b66c9dda": {
+        "title": "Trump says he will speak with Putin about pneumonic plague",
+        "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 23:18:00 GMT",
+        "first_seen": "2026-10-07T02:03:35.492152"
+      },
+      "e858b237ed3e612811641643a1697dfc5fa575d15d0b17d949bbecf3dcca4452": {
+        "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
+        "link": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 22:28:00 GMT",
+        "first_seen": "2026-10-07T02:03:35.492161"
+      },
+      "51a229ca4bfd2501bacc8baf6bd6cf6dbffbb3ec8d753ab8ee07beab47647156": {
+        "title": "Jim Clyburn urges Black voters not to be ‘fooled’ by Trump",
+        "link": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:29:00 GMT",
+        "first_seen": "2026-10-07T02:03:35.492164"
+      },
+      "52ffc9db04587d91b484f5ca975ab6479e54a457422890d1fd2caebbfb47b563": {
+        "title": "Trump says he is considering suspending federal petrol tax",
+        "link": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:09:00 GMT",
+        "first_seen": "2026-10-07T02:03:35.492166"
+      },
+      "7206d981e5f56eda978152c7ad5427d051f16af00ca7a2d6db01f8241839d199": {
+        "title": "‘Most dangerous product in crypto’ vexes Singapore",
+        "link": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:00:00 GMT",
+        "first_seen": "2026-10-07T02:03:35.492167"
       }
     },
     "Ai": {
-      "66aaef734f1f58a3ce5698af2955f094a2e5c27e79b24166c7e58c3e0b5cf22a": {
-        "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-        "link": "https://www.qbitai.com/2026/09/484897.html",
-        "published_date": "Sun, 06 Sep 2026 11:44:00 GMT",
-        "first_seen": "2026-09-07T00:41:26.658371"
-      },
       "7a0fbe146f56f726958ed9d67dd981a88a42ba789595028708e098a9599127e6": {
         "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
         "link": "https://www.qbitai.com/2026/09/485064.html",
@@ -4613,13 +4607,19 @@
         "link": "https://www.qbitai.com/2026/10/501726.html",
         "published_date": "Tue, 06 Oct 2026 06:45:00 GMT",
         "first_seen": "2026-10-06T11:45:30.387792"
+      },
+      "7d82b501b737e0d3a4643a197fbb93fbf969b410fb9a5ce27c71ca4f5409bfc1": {
+        "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+        "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+        "published_date": "Tue, 06 Oct 2026 15:05:00 GMT",
+        "first_seen": "2026-10-07T02:03:35.636397"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-06T11:45:15.434793",
-    "Finance": "2026-10-06T11:45:30.244451",
-    "Ai": "2026-10-06T11:45:30.387794"
+    "Technology": "2026-10-07T02:03:17.069467",
+    "Finance": "2026-10-07T02:03:35.492171",
+    "Ai": "2026-10-07T02:03:35.636406"
   }
 }
