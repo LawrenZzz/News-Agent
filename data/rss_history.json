@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5e553d5d0a584d18383fc485fbda56ca47970b2cd8a45f674e882aa3eeda7c76": {
-        "title": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
-        "link": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 08 Sep 2026 13:55:00 GMT",
-        "first_seen": "2026-09-08T09:25:59.692660"
-      },
-      "fc12984c544a1a041b583c09fb2eff82abfbb1cd7bb31521b70e3ef914d78b3b": {
-        "title": "11 天、30 万美元：AI 攻破 358 年数学难题的最后一关",
-        "link": "https://www.tmtpost.com/8132711.html",
-        "published_date": "Tue, 08 Sep 2026 15:56:00 GMT",
-        "first_seen": "2026-09-08T09:25:59.692668"
-      },
-      "54c1e70f7756996bb8a74dbc91f1d8a1d5e3619fea0310e00af5a41657a4054f": {
-        "title": "奥特曼、李飞飞、张一鸣齐押注，3D世界成AI竞赛新战场",
-        "link": "https://www.tmtpost.com/8132577.html",
-        "published_date": "Tue, 08 Sep 2026 15:23:00 GMT",
-        "first_seen": "2026-09-08T09:25:59.692671"
-      },
-      "2332f23cbef25e9af7626bce08c24ed80c60109a86d8a660085882bde36010cf": {
-        "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
-        "link": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 08 Sep 2026 13:32:00 GMT",
-        "first_seen": "2026-09-08T09:25:59.692673"
-      },
-      "d0e43d7565ed5e5f3529e3c3b51031fd5f15da29825e058340abbbdb33395b37": {
-        "title": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
-        "link": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 08 Sep 2026 17:06:00 GMT",
-        "first_seen": "2026-09-08T09:25:59.692675"
-      },
       "b26acff2cdafdf87ad1559e6502ed951ecbef533fdcd320484986841ee66d734": {
         "title": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
         "link": "https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat?utm_source=rss&utm_medium=article",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8160336.html",
         "published_date": "Wed, 07 Oct 2026 20:24:00 GMT",
         "first_seen": "2026-10-08T02:28:08.782259"
+      },
+      "1cbfcb2912fe452d7325d1f286d811057a4284c2d3ac88ff7be99d6a5a94c33f": {
+        "title": "2万亿美元估值靠什么撑？Anthropic 核心技术负责人：蒸馏会毁掉前沿研发，中美 AI 竞赛不会单边暂停",
+        "link": "https://www.infoq.cn/article/dS754RhjExrwFP6tWD9d?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 14:10:00 GMT",
+        "first_seen": "2026-10-08T11:47:29.081560"
+      },
+      "55335f4a1967b963438e8c2a724f64d6b5c873f8353df2628d14c21250ea53ff": {
+        "title": "OpenAI刚把多Agent做成产品，o1奠基人却说：1万个Agent解出世界级难题，多Agent贡献不到10%",
+        "link": "https://www.infoq.cn/article/3MSU3CcJuh0XjHDyjhXj?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 14:11:00 GMT",
+        "first_seen": "2026-10-08T11:47:29.081568"
+      },
+      "34477914d85b20148b607ade5918277be346ffba69a79831a51a87e323c4df5a": {
+        "title": "数据中心装不下AI的全部野心了",
+        "link": "https://www.tmtpost.com/8161196.html",
+        "published_date": "Thu, 08 Oct 2026 19:13:00 GMT",
+        "first_seen": "2026-10-08T11:47:29.081571"
+      },
+      "28e22a65409e46743f11ef2d128659fad3e7c4d7eb1b56f384bcd1be01af2cb1": {
+        "title": "谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+        "link": "https://www.tmtpost.com/8160841.html",
+        "published_date": "Thu, 08 Oct 2026 11:24:00 GMT",
+        "first_seen": "2026-10-08T11:47:29.081573"
+      },
+      "8852208d882d035197af354870e93e48dc70e072f7fad4cf2fbc1aff17236614": {
+        "title": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "link": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 11:43:00 GMT",
+        "first_seen": "2026-10-08T11:47:29.081575"
       }
     },
     "Finance": {
-      "5c7246d888ee962b66bc7c30132164bccbb90d604e6e1f4945fa3767c1015a0f": {
-        "title": "‘Apollo premium’ drives up debt costs for group’s portfolio companies",
-        "link": "https://www.ft.com/content/0facf3c4-147e-4696-9849-d68a4b744bd6?syn-25a6b1a6=1",
-        "published_date": "Tue, 08 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-08T09:26:36.066395"
-      },
-      "94879c4019357193bb17433b299b4edf068d30451df92d2c1b05c31ce98f2954": {
-        "title": "Goldman Sachs flips on oil-price forecasts and says $120 Brent could be next.",
-        "link": "https://www.marketwatch.com/story/goldman-sachs-reverses-engines-on-oil-price-forecasts-and-raises-the-specter-of-120-per-barrel-crude-d8da110c?mod=mw_rss_topstories",
-        "published_date": "Tue, 08 Sep 2026 09:02:00 GMT",
-        "first_seen": "2026-09-08T09:26:36.066402"
-      },
-      "2cc27e91cedbfb4edcdce81feebbbbb74cde4eab1c3eac8b287f13c26236c830": {
-        "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
-        "link": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
-        "published_date": "Tue, 08 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-08T09:26:36.066404"
-      },
-      "ab89b49f339e13aa62cf6c8747878112b6ac323c7b1bbf97f464333b480808b9": {
-        "title": "U.S. stocks usually stumble after Fed hikes, but these markets tend to climb, says Citi",
-        "link": "https://www.marketwatch.com/story/u-s-stocks-usually-stumble-after-fed-hikes-but-these-markets-tend-to-climb-says-citi-f031ca37?mod=mw_rss_topstories",
-        "published_date": "Tue, 08 Sep 2026 09:12:00 GMT",
-        "first_seen": "2026-09-08T09:26:36.066406"
-      },
-      "3509b27237fae753736fa38c1142e82adc10aa0e35472487b1eb7f45367ede9f": {
-        "title": "Why the Dow is being dragged down by a Swiss company’s bad news",
-        "link": "https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories",
-        "published_date": "Tue, 08 Sep 2026 08:15:00 GMT",
-        "first_seen": "2026-09-08T09:26:36.066408"
-      },
       "949cc949f88634e9142b3dc7004cdc671ea5c67142c1d6086ce3bcbefe38bbc9": {
         "title": "Oil nears $100 as US launches new strikes on Iranian tankers",
         "link": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
@@ -3537,39 +3507,39 @@
         "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
         "published_date": "Wed, 07 Oct 2026 16:56:00 GMT",
         "first_seen": "2026-10-08T02:28:44.775555"
+      },
+      "c22c0b3df907b251c251e3fe68c952e48937faabf1020518a6b2a3627ba9cb8c": {
+        "title": "A strategist who called the Asian financial crisis sees parallels with the AI boom",
+        "link": "https://www.marketwatch.com/story/a-strategist-who-called-the-asian-financial-crisis-sees-parallels-with-the-ai-boom-b45522ad?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Oct 2026 11:32:00 GMT",
+        "first_seen": "2026-10-08T11:47:48.903332"
+      },
+      "9d2b6d59a5ec1e5e6b140173bfe095a32a43e68d3be59d8d02c8d8f3e37e0ace": {
+        "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+        "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Oct 2026 09:32:00 GMT",
+        "first_seen": "2026-10-08T11:47:48.903339"
+      },
+      "e6ab6ccfeffa68c0ebf3bb7602ba24434193c846138bdf805bb519da55e14096": {
+        "title": "How a trillion-dollar hedge fund borrowing spree became Wall Street’s cash cow",
+        "link": "https://www.ft.com/content/d313d0ce-d552-463e-9e84-6fa8c3efeeec?syn-25a6b1a6=1",
+        "published_date": "Thu, 08 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-08T11:47:48.903341"
+      },
+      "5cc1854d900134891875d29586990d101c1b6d18acce5c5522d50f1259584d26": {
+        "title": "Tesla’s big AI gamble puts its EV business under a microscope",
+        "link": "https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Oct 2026 11:33:00 GMT",
+        "first_seen": "2026-10-08T11:47:48.903343"
+      },
+      "51c0dba71def0024b35341c2c5fe29831f4e314f783a17b8d7174167dc116005": {
+        "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+        "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+        "published_date": "Thu, 08 Oct 2026 11:31:00 GMT",
+        "first_seen": "2026-10-08T11:47:48.903344"
       }
     },
     "Ai": {
-      "0d31d2e46a224b3fc82065a4936d7bc2261bb1e0020c8fa3b2dd78057db69190": {
-        "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-        "link": "https://www.qbitai.com/2026/09/485784.html",
-        "published_date": "Tue, 08 Sep 2026 03:22:00 GMT",
-        "first_seen": "2026-09-08T09:26:17.509567"
-      },
-      "e56e149d59d6fd90707bf88d89d0f6de8734207d43dcba8f37a4a47cfc419c4d": {
-        "title": "王云鹤创业后交出首个模型",
-        "link": "https://www.qbitai.com/2026/09/485555.html",
-        "published_date": "Tue, 08 Sep 2026 02:14:00 GMT",
-        "first_seen": "2026-09-08T09:26:17.509575"
-      },
-      "b6da1faf67f7c09e33f9ec8795a34bb4368e5670d5d2404e79bc9eae7c2b5a8d": {
-        "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
-        "link": "https://www.qbitai.com/2026/09/485630.html",
-        "published_date": "Tue, 08 Sep 2026 02:42:00 GMT",
-        "first_seen": "2026-09-08T09:26:17.509579"
-      },
-      "e2f5aa037048429374613c4358c90f357dbc099a4984aaef210d8caef21a4811": {
-        "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
-        "link": "https://www.qbitai.com/2026/09/485794.html",
-        "published_date": "Tue, 08 Sep 2026 05:05:00 GMT",
-        "first_seen": "2026-09-08T09:26:17.509582"
-      },
-      "68eb3479abcfe10d2347521a3277a6b5170c9589c61fb551972b8713bf26d74f": {
-        "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-        "link": "https://www.qbitai.com/2026/09/485854.html",
-        "published_date": "Tue, 08 Sep 2026 06:05:00 GMT",
-        "first_seen": "2026-09-08T09:26:17.509584"
-      },
       "3bb398eba9d8b65c2f6605b136884a5dc1ad2f8dc0cb5e4aeb567de278be99d9": {
         "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
         "link": "https://www.qbitai.com/2026/09/486288.html",
@@ -4631,13 +4601,43 @@
         "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
         "published_date": "Wed, 07 Oct 2026 20:19:00 GMT",
         "first_seen": "2026-10-08T02:28:44.919024"
+      },
+      "83373d5a43166a4ca442e00affb1ec31b9d187bda5ac7cda42ffbd28fb29bff9": {
+        "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+        "link": "https://www.qbitai.com/2026/10/501995.html",
+        "published_date": "Thu, 08 Oct 2026 09:28:00 GMT",
+        "first_seen": "2026-10-08T11:48:16.663777"
+      },
+      "249cf11d3d4fe7f3c1cce8bc4d8e05fb0c171f256db8b56d22538cbf37c49b27": {
+        "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+        "link": "https://www.qbitai.com/2026/10/502020.html",
+        "published_date": "Thu, 08 Oct 2026 10:23:00 GMT",
+        "first_seen": "2026-10-08T11:48:16.663784"
+      },
+      "0453cd7f0e0e09a71ceba3012e9f45e742011ba37bf97c2cbe1ce70640667a74": {
+        "title": "吉利智充技术正式发布，重塑全球补能新标杆",
+        "link": "https://www.qbitai.com/2026/10/501956.html",
+        "published_date": "Thu, 08 Oct 2026 09:10:00 GMT",
+        "first_seen": "2026-10-08T11:48:16.663786"
+      },
+      "f774d0de6f7725e15f5c6545dd4ec1399e50e2c1ba10bc7fed94f1ce467ee0ac": {
+        "title": "浪子回头！Manus重启北京办公室大举招聘",
+        "link": "https://www.qbitai.com/2026/10/502009.html",
+        "published_date": "Thu, 08 Oct 2026 09:30:00 GMT",
+        "first_seen": "2026-10-08T11:48:16.663787"
+      },
+      "29efe6319aaa701e9d4b026b9a1763adff09717697586891acd26660114c2a4d": {
+        "title": "打不过就投降，保时捷裁员9000人，回归燃油车主线",
+        "link": "https://www.qbitai.com/2026/10/501930.html",
+        "published_date": "Thu, 08 Oct 2026 07:10:00 GMT",
+        "first_seen": "2026-10-08T11:48:16.663789"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-08T02:28:08.782262",
-    "Finance": "2026-10-08T02:28:44.775558",
-    "Ai": "2026-10-08T02:28:44.919026"
+    "Technology": "2026-10-08T11:47:29.081577",
+    "Finance": "2026-10-08T11:47:48.903347",
+    "Ai": "2026-10-08T11:48:16.663790"
   }
 }
