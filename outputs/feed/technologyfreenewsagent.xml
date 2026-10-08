@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Oct 2026 11:31:00 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 11:31:47 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 02:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:28:08 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude</title>
-      <link>http://www.geekpark.net/news/372089</link>
-      <description>&lt;![CDATA[派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude]]&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372089</guid>
+      <title>两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造</title>
+      <link>https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造]]&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？</title>
-      <link>https://www.tmtpost.com/8160182.html</link>
-      <description>&lt;![CDATA[Claude、GPT“跨界”做视频，Seedance们的护城河还牢吗？]]&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 12:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8160182.html</guid>
+      <title>从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海</title>
+      <link>https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海]]&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>好产品也会丢单，Palantir 旧访谈翻红：企业级 AI 订单，拼的不只是模型</title>
-      <link>https://www.tmtpost.com/8160164.html</link>
-      <description>&lt;![CDATA[好产品也会丢单，Palantir 旧访谈翻红：企业级 AI 订单，拼的不只是模型]]&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8160164.html</guid>
+      <title>代码交给AI，心流却回来了：Codex负责人不再怀念手写时代</title>
+      <link>https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[代码交给AI，心流却回来了：Codex负责人不再怀念手写时代]]&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 09:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>半年净利暴增96%，重回中国台湾首富宝座，郭台铭靠AI赚翻了</title>
-      <link>https://www.tmtpost.com/8148632.html</link>
-      <description>&lt;![CDATA[半年净利暴增96%，重回中国台湾首富宝座，郭台铭靠AI赚翻了]]&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 12:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8148632.html</guid>
+      <title>为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整</title>
+      <link>https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>可灵上市，快手如何自洽</title>
-      <link>https://www.tmtpost.com/8160242.html</link>
-      <description>&lt;![CDATA[可灵上市，快手如何自洽]]&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 17:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8160242.html</guid>
+      <title>腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？</title>
+      <link>https://www.tmtpost.com/8160336.html</link>
+      <description>&lt;![CDATA[腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？]]&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 20:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8160336.html</guid>
       <category>Technology</category>
     </item>
   </channel>

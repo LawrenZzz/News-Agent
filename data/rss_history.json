@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ffed1af46b418ecf822def3a4016ff6671e3fcb04a7a005eab761741816bcd91": {
-        "title": "传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机",
-        "link": "http://www.geekpark.net/news/369965",
-        "published_date": "Tue, 08 Sep 2026 08:34:00 GMT",
-        "first_seen": "2026-09-08T00:55:33.050791"
-      },
-      "70ff7e255b034d28c4f6e85560d4efb862c46fa05dcffb2a369d79b5a2285e23": {
-        "title": "AIGC标识一周年：当李飞飞把真假边界抹平，只有信用分层追得上",
-        "link": "https://www.tmtpost.com/8130806.html",
-        "published_date": "Mon, 07 Sep 2026 17:57:00 GMT",
-        "first_seen": "2026-09-08T00:55:33.050802"
-      },
-      "bbb6c175edf0c6a1e8179a203948ba2e13f02440e4e34e7cf6aa246f38bf7e67": {
-        "title": "微软将人工智能治理从政策层面转向运行时执行",
-        "link": "https://www.infoq.cn/article/STpCLL13xCQsoYrfWSLb?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 07 Sep 2026 12:35:00 GMT",
-        "first_seen": "2026-09-08T00:55:33.050805"
-      },
-      "db0ce78253293ac43f6fad3c0e0c824b6ee6b09e551fbd385e5c637c03d621bb": {
-        "title": "通用机器人，正在从一种身体变成一种架构",
-        "link": "https://www.tmtpost.com/8131405.html",
-        "published_date": "Tue, 08 Sep 2026 08:09:00 GMT",
-        "first_seen": "2026-09-08T00:55:33.050807"
-      },
-      "bba6fe4796a730283257c1e0234cb3f2897a0a0d4835b15a8cc01f7e09d91a25": {
-        "title": "判断用不用你的软件，Agent 只需 500 个 Token",
-        "link": "http://www.geekpark.net/news/369960",
-        "published_date": "Mon, 07 Sep 2026 18:32:00 GMT",
-        "first_seen": "2026-09-08T00:55:33.050808"
-      },
       "5e553d5d0a584d18383fc485fbda56ca47970b2cd8a45f674e882aa3eeda7c76": {
         "title": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
         "link": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9?utm_source=rss&utm_medium=article",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8160242.html",
         "published_date": "Wed, 07 Oct 2026 17:42:00 GMT",
         "first_seen": "2026-10-07T11:31:47.607412"
+      },
+      "cb6b8ffee3e78765859ebe19c0c0011676a7fbbc29a898f37d831388b178a0f8": {
+        "title": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+        "link": "https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-08T02:28:08.782243"
+      },
+      "514a8a98f557c4d079b028503a3346d291a09b13373b92952d0a23fad2e0f6c5": {
+        "title": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "link": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-08T02:28:08.782252"
+      },
+      "f275b0b1a207429f018e41cd5e2f770e270537ad0a81d3b16688b739dc5a332b": {
+        "title": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "link": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 08 Oct 2026 09:35:00 GMT",
+        "first_seen": "2026-10-08T02:28:08.782255"
+      },
+      "52cad48255e84845d73ad52200a6a7629b555a94714312876e26adb85924f2a0": {
+        "title": "为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整",
+        "link": "https://www.infoq.cn/article/CFbVqLXwQvbbhiTMy83e?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Oct 2026 16:00:00 GMT",
+        "first_seen": "2026-10-08T02:28:08.782257"
+      },
+      "b17fae353d829f7b3020d3d7c4038227aa1bae2b822f088fe183ffefd5dc8df4": {
+        "title": "腾讯四次出手短剧皆未果，微信“绿泡泡”这次能成吗？",
+        "link": "https://www.tmtpost.com/8160336.html",
+        "published_date": "Wed, 07 Oct 2026 20:24:00 GMT",
+        "first_seen": "2026-10-08T02:28:08.782259"
       }
     },
     "Finance": {
-      "f61afeda967060c45fce58382d14e5ac96cb0ad28fc3d84be8075d9a71c90377": {
-        "title": "Why the launch of OpenAI’s latest Astra model reignited the memory-chip trade",
-        "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-        "published_date": "Mon, 07 Sep 2026 11:36:00 GMT",
-        "first_seen": "2026-09-08T00:57:26.755534"
-      },
-      "aba984dbe695675014e04327bb8f4ad26afab648eebb399ab5635d77537f6a9f": {
-        "title": "‘Chimerica’ is now a chimera — and global stability is the victim",
-        "link": "https://www.ft.com/content/8c5c7c44-c9fd-4326-b09a-9f58e3f144b9",
-        "published_date": "Mon, 07 Sep 2026 13:00:00 GMT",
-        "first_seen": "2026-09-08T00:57:26.755540"
-      },
-      "ab80809aea88485f01e691802442fca93014f0c6e9991efe8bb586b5021602e1": {
-        "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-        "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-        "published_date": "Tue, 08 Sep 2026 00:23:00 GMT",
-        "first_seen": "2026-09-08T00:57:26.755542"
-      },
-      "c1b0f39f2d823a24f8d970ac9f32132c935923304af8a084f316cd99039e41ae": {
-        "title": "What next for Alternative for Germany after its victory in Saxony-Anhalt?",
-        "link": "https://www.ft.com/content/4275e189-997c-43f0-b702-d3447c9e81ec?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 15:35:00 GMT",
-        "first_seen": "2026-09-08T00:57:26.755543"
-      },
-      "f84d7692cea24de881f621e242790b2ca8ebc6906c6b91f4ecc8f8b1f4146266": {
-        "title": "UK set to announce trade ban on Israeli settlements in the West Bank",
-        "link": "https://www.ft.com/content/1f71d2d0-d2e2-46da-a96f-99d20936223e?syn-25a6b1a6=1",
-        "published_date": "Mon, 07 Sep 2026 22:19:00 GMT",
-        "first_seen": "2026-09-08T00:57:26.755545"
-      },
       "5c7246d888ee962b66bc7c30132164bccbb90d604e6e1f4945fa3767c1015a0f": {
         "title": "‘Apollo premium’ drives up debt costs for group’s portfolio companies",
         "link": "https://www.ft.com/content/0facf3c4-147e-4696-9849-d68a4b744bd6?syn-25a6b1a6=1",
@@ -3537,6 +3507,36 @@
         "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
         "published_date": "Wed, 07 Oct 2026 02:27:00 GMT",
         "first_seen": "2026-10-07T11:32:01.909315"
+      },
+      "73e3446974dfcefa1ff4b64313924b5c0820ee0bb87ea8e887878ebb53bfc684": {
+        "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+        "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 19:35:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.775542"
+      },
+      "6c16dd4ff830a0dea58691720468298b47c83c0a454da7dbeb32127bea2391f4": {
+        "title": "US government bonds steady after strong 10-year Treasury auction",
+        "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 19:58:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.775549"
+      },
+      "15449c3544f9e856634b6e2b0d9cae71e8f9374d3b94262f5db9e8ed2ce18a6c": {
+        "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+        "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Oct 2026 22:32:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.775551"
+      },
+      "6dd67b923464a5ca2f60d2212171c281a352637e9f05cbb6f1c2394352b5f9a6": {
+        "title": "Samsung profit surges ninefold to $80bn on AI chip demand",
+        "link": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
+        "published_date": "Thu, 08 Oct 2026 01:50:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.775553"
+      },
+      "f1c476647922b081e0ba32e2cf6cb38bd138c165c0cacb2314951fddcce0561f": {
+        "title": "China slaps down EU request for voluntary curbs on hybrid car exports",
+        "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+        "published_date": "Wed, 07 Oct 2026 16:56:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.775555"
       }
     },
     "Ai": {
@@ -4601,13 +4601,43 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-07/",
         "published_date": "Wed, 07 Oct 2026 04:29:00 GMT",
         "first_seen": "2026-10-07T11:32:02.050303"
+      },
+      "9b8e9aa62ed0aa76af335be678502d04e85953474e9232b9f5e51ac9620317ac": {
+        "title": "GPT-6今起免费用！拒答变少，话变多了",
+        "link": "https://www.qbitai.com/2026/10/501834.html",
+        "published_date": "Thu, 08 Oct 2026 01:07:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.919010"
+      },
+      "4a0bb46cf7393959ecba07e0b4a89f26e80390ec9b77de218ee5a03d6d849b00": {
+        "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "link": "https://www.qbitai.com/2026/10/501832.html",
+        "published_date": "Thu, 08 Oct 2026 01:04:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.919019"
+      },
+      "9526d7a137bf7f7d57896adcb3270068e78616c03eb8a16304fc95230df6c117": {
+        "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+        "link": "https://www.qbitai.com/2026/10/501825.html",
+        "published_date": "Wed, 07 Oct 2026 14:10:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.919021"
+      },
+      "8cf7762c38eeda673d0cf11311a453cd2ed79fad33b6588334b7dca933eaaf2c": {
+        "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+        "link": "https://www.qbitai.com/2026/10/501803.html",
+        "published_date": "Wed, 07 Oct 2026 11:34:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.919023"
+      },
+      "1c6d87250d51bb5e71dd772b648471a2f2b770344c75f3bf02a0592ed53868f9": {
+        "title": "Does better work always mean better workers?",
+        "link": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+        "published_date": "Wed, 07 Oct 2026 20:19:00 GMT",
+        "first_seen": "2026-10-08T02:28:44.919024"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-07T11:31:47.607415",
-    "Finance": "2026-10-07T11:32:01.909318",
-    "Ai": "2026-10-07T11:32:02.050305"
+    "Technology": "2026-10-08T02:28:08.782262",
+    "Finance": "2026-10-08T02:28:44.775558",
+    "Ai": "2026-10-08T02:28:44.919026"
   }
 }
