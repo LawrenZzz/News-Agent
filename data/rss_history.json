@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b68641d473be4ef4fa9f644a07056094071b8c84d90bf3cd72918130ff2569ac": {
-        "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
-        "link": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 09 Sep 2026 16:30:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.046120"
-      },
-      "0a14539d9a8d4e2607ae3c901eb8f15daa26d7b2214db711959ad8f3aeab181f": {
-        "title": "招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
-        "link": "https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 09 Sep 2026 12:07:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.046128"
-      },
-      "f3c359a0073ee599b3b0343ede613edf025d976d511f29565f5da4c3798400ff": {
-        "title": "pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度",
-        "link": "https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 09 Sep 2026 15:23:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.046131"
-      },
-      "243154f46b98438f4136ae1b13e925c4aa93dad2a8708185f3920af4623cb102": {
-        "title": "算力之后，存储成为AI应用落地的“胜负手”",
-        "link": "https://www.tmtpost.com/8133976.html",
-        "published_date": "Wed, 09 Sep 2026 14:42:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.046132"
-      },
-      "dc9e8f2cc458d7760d95658fbb24c0380f09bbc6a74fa267dc079242278eda64": {
-        "title": "70%的项目注定被砍：Anthropic养了一支20人的“失败团队”，项目超过4人就“毕业”",
-        "link": "https://www.infoq.cn/article/ctAqA0IOsgsu2gRCHd9z?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 09 Sep 2026 14:27:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.046134"
-      },
       "7f082d71a39f29df784ccf0b542351549a93742e140106c8e985a34bec10b186": {
         "title": "【钛晨报】北京印发重磅发展规划，事关人工智能、芯片、商业航天等；知情人士证实DeepSeek备战科创板IPO，中信已入场尽调；燧原科技将于9月11日上市",
         "link": "https://www.tmtpost.com/8134558.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/LVsjSV4pIlh3Liz0KZZE?utm_source=rss&utm_medium=article",
         "published_date": "Thu, 08 Oct 2026 17:12:00 GMT",
         "first_seen": "2026-10-09T02:45:10.971232"
+      },
+      "f21d62af2d1155428efd443f6d62bd21c2fd4b89a8ec7c31eb80c8f2eebae8f6": {
+        "title": "特斯拉供应商们，正在悄悄“造人”",
+        "link": "https://www.tmtpost.com/8162947.html",
+        "published_date": "Fri, 09 Oct 2026 18:18:00 GMT",
+        "first_seen": "2026-10-09T11:40:44.864914"
+      },
+      "c529c3db9f5ceb85b1c258af4e34edccaefff6d9ae323133ae14382b92320738": {
+        "title": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
+        "link": "https://www.tmtpost.com/8162833.html",
+        "published_date": "Fri, 09 Oct 2026 18:18:00 GMT",
+        "first_seen": "2026-10-09T11:40:44.864924"
+      },
+      "d7063eac08cd5797efc1fd9d37c9e88003852fe3c766b3aa0fa256c783c161f6": {
+        "title": "AI平均3小时完成一个数学证明，科研进入大通胀时代？",
+        "link": "https://www.tmtpost.com/8162938.html",
+        "published_date": "Fri, 09 Oct 2026 18:18:00 GMT",
+        "first_seen": "2026-10-09T11:40:44.864926"
+      },
+      "2b934bda7c6497373d10ece092e64922bdae8a7746e62d77f9e09784eaeb735b": {
+        "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
+        "link": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 09 Oct 2026 17:15:00 GMT",
+        "first_seen": "2026-10-09T11:40:44.864929"
+      },
+      "fa2e97aeed3580b27212600194ad928e14970304e880cf88409dfd4c2b5fd2cc": {
+        "title": "攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」",
+        "link": "http://www.geekpark.net/news/372148",
+        "published_date": "Fri, 09 Oct 2026 12:28:00 GMT",
+        "first_seen": "2026-10-09T11:40:44.864930"
       }
     },
     "Finance": {
-      "10644e7d25164d414d07a00e46c91ca72ff9164788c775a84b4040d1ecec9535": {
-        "title": "Brent crude reaches $100 as war in Iran intensifies",
-        "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Sep 2026 08:27:00 GMT",
-        "first_seen": "2026-09-09T09:24:50.618316"
-      },
-      "235a17aab178af76904c704f7f5aa2c6ca30b54732b4397bae3e99dd2c04d38a": {
-        "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
-        "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Sep 2026 07:42:00 GMT",
-        "first_seen": "2026-09-09T09:24:50.618323"
-      },
-      "fbcd461a9b4ed97d04881796966202db78e91432c29b77f02c65410233374497": {
-        "title": "Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.",
-        "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-        "published_date": "Wed, 09 Sep 2026 08:31:00 GMT",
-        "first_seen": "2026-09-09T09:24:50.618326"
-      },
-      "c7d58afb255682b09a24045ef4586e3e4201be5d8538e86ac6ba5c8c27afa6f2": {
-        "title": "Iran turns to crypto to get around sanctions",
-        "link": "https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-09T09:24:50.618327"
-      },
-      "858fa754f47ce5937c6e8d7c7b574abefcc6627ce0894d2e21d1bf1fc1f3d173": {
-        "title": "EU resists Mario Draghi’s competitiveness cures",
-        "link": "https://www.ft.com/content/4dde2b92-eadb-41e3-9fad-c9bf0636010a?syn-25a6b1a6=1",
-        "published_date": "Wed, 09 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-09T09:24:50.618329"
-      },
       "2b4a9676ea3d726b1e13913c2d37a16dce64a1bede9ef2c145f1da63fb57ca77": {
         "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
         "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
@@ -3537,39 +3507,39 @@
         "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
         "published_date": "Thu, 08 Oct 2026 22:08:00 GMT",
         "first_seen": "2026-10-09T02:45:26.059802"
+      },
+      "f2eeba5319bdce144bfd02254d3192c7992e89d2ddd94fc99ec7c1905d41a28b": {
+        "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+        "link": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-09T11:40:59.137828"
+      },
+      "09a3b79d7998725ce786950f89a6961e24b59a29b54b44205788997bf08fd3e7": {
+        "title": "Why bank stocks are falling despite surging interest rates",
+        "link": "https://www.ft.com/content/83993bb2-35dd-4ae1-a4b2-8b6c3762a84b?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-09T11:40:59.137835"
+      },
+      "3b28b45e571854ea7efb3cc5374d199b2a2e098471a0bfba27c6983bef260966": {
+        "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+        "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 04:30:00 GMT",
+        "first_seen": "2026-10-09T11:40:59.137837"
+      },
+      "5627c6a5eabeec7069702759586d508aa9aa874a312a5dc148f1228b6ff281aa": {
+        "title": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
+        "link": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Oct 2026 08:49:00 GMT",
+        "first_seen": "2026-10-09T11:40:59.137839"
+      },
+      "fc16303c5d7aa9ad04da22b9e5ee92ea77e1a0f8d74ac2abb41a6c585a850f03": {
+        "title": "Five ways to tell if market trouble lies ahead",
+        "link": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
+        "published_date": "Fri, 09 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-09T11:40:59.137841"
       }
     },
     "Ai": {
-      "3bb398eba9d8b65c2f6605b136884a5dc1ad2f8dc0cb5e4aeb567de278be99d9": {
-        "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-        "link": "https://www.qbitai.com/2026/09/486288.html",
-        "published_date": "Wed, 09 Sep 2026 05:02:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.165127"
-      },
-      "5f82b7293e4961afa47ee1df2f62055552a47fe6ab7477256ee8d5946c0c5e2b": {
-        "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-        "link": "https://www.qbitai.com/2026/09/486280.html",
-        "published_date": "Wed, 09 Sep 2026 04:52:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.165134"
-      },
-      "5e7997ed3edb91beedc2148cd026d265d2da06db7d94e5ccb1e86271f81a6329": {
-        "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
-        "link": "https://www.qbitai.com/2026/09/486052.html",
-        "published_date": "Wed, 09 Sep 2026 03:39:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.165136"
-      },
-      "c8c21d7c5fb85a86c32b1628d8b5dac534b3ec117d7bcd76a536c20c95e3d5f4": {
-        "title": "宜宾，一场机器人“招聘会”的产业雄心",
-        "link": "https://www.qbitai.com/2026/09/486038.html",
-        "published_date": "Wed, 09 Sep 2026 02:15:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.165138"
-      },
-      "da803a32d6e73d95b87394a193eb8c56b589b9d68c8c97a790c6355dd9a3e5bb": {
-        "title": "2026-09-09日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-09/",
-        "published_date": "Wed, 09 Sep 2026 03:03:00 GMT",
-        "first_seen": "2026-09-09T09:24:23.165139"
-      },
       "50b92774fd1531a2518d4e4ee0a7647dc65c81bbd3a15f8a08e25eff5e3cebd9": {
         "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
         "link": "https://www.qbitai.com/2026/09/486450.html",
@@ -4661,13 +4631,43 @@
         "link": "https://www.qbitai.com/2026/10/502035.html",
         "published_date": "Thu, 08 Oct 2026 12:43:00 GMT",
         "first_seen": "2026-10-09T02:45:26.202902"
+      },
+      "0856b11cd5d83b7ab4b869e8e6255c28575ef6b43b79a10b3d3df39ff41d7c3f": {
+        "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+        "link": "https://www.qbitai.com/2026/10/502125.html",
+        "published_date": "Fri, 09 Oct 2026 03:52:00 GMT",
+        "first_seen": "2026-10-09T11:41:14.564965"
+      },
+      "5f50845f1b88b14636f70534a67197055b13ae7213233126f47a8a709dcc264b": {
+        "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+        "link": "https://www.qbitai.com/2026/10/502422.html",
+        "published_date": "Fri, 09 Oct 2026 08:53:00 GMT",
+        "first_seen": "2026-10-09T11:41:14.564972"
+      },
+      "995363a4ecb3df26ec2613983d1cf56cc78da433f6689aa32f7160f75b0ec13f": {
+        "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+        "link": "https://www.qbitai.com/2026/10/502411.html",
+        "published_date": "Fri, 09 Oct 2026 08:47:00 GMT",
+        "first_seen": "2026-10-09T11:41:14.564974"
+      },
+      "321c8bac88d6ba9e4ba3b63d0f9a50c4a2c44e3a3d963b468c9356ccb844142d": {
+        "title": "字节找到了DeepSeek时强时弱的原因",
+        "link": "https://www.qbitai.com/2026/10/502364.html",
+        "published_date": "Fri, 09 Oct 2026 07:11:00 GMT",
+        "first_seen": "2026-10-09T11:41:14.564976"
+      },
+      "c2dcaa197e71680bda43de1f346ddbe11cda2c4426860d5d297fb81498879420": {
+        "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+        "link": "https://www.qbitai.com/2026/10/502359.html",
+        "published_date": "Fri, 09 Oct 2026 06:28:00 GMT",
+        "first_seen": "2026-10-09T11:41:14.564977"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-09T02:45:10.971234",
-    "Finance": "2026-10-09T02:45:26.059805",
-    "Ai": "2026-10-09T02:45:26.202904"
+    "Technology": "2026-10-09T11:40:44.864933",
+    "Finance": "2026-10-09T11:40:59.137843",
+    "Ai": "2026-10-09T11:41:14.564979"
   }
 }
