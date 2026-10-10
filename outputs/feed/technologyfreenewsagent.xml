@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 Oct 2026 11:40:00 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 11:40:44 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 02:04:00 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:04:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>特斯拉供应商们，正在悄悄“造人”</title>
-      <link>https://www.tmtpost.com/8162947.html</link>
-      <description>&lt;![CDATA[特斯拉供应商们，正在悄悄“造人”]]&gt;</description>
+      <title>硅谷大模型不装了：Claude卷价格，GPT学豆包</title>
+      <link>https://www.tmtpost.com/8163462.html</link>
+      <description>&lt;![CDATA[硅谷大模型不装了：Claude卷价格，GPT学豆包]]&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 09:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163462.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不聊天的AI，上线不到一个月，完成75亿美元估值融资</title>
+      <link>https://www.tmtpost.com/8163464.html</link>
+      <description>&lt;![CDATA[不聊天的AI，上线不到一个月，完成75亿美元估值融资]]&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 08:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163464.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>最大半导体IPO来了，英特尔“弃子”，逆袭成万亿新贵</title>
+      <link>https://www.tmtpost.com/8162942.html</link>
+      <description>&lt;![CDATA[最大半导体IPO来了，英特尔“弃子”，逆袭成万亿新贵]]&gt;</description>
       <pubDate>Fri, 09 Oct 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8162947.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8162942.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧</title>
-      <link>https://www.tmtpost.com/8162833.html</link>
-      <description>&lt;![CDATA[AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧]]&gt;</description>
+      <title>高通向华为付钱那天，两种中国芯的分岔口</title>
+      <link>https://www.tmtpost.com/8161607.html</link>
+      <description>&lt;![CDATA[高通向华为付钱那天，两种中国芯的分岔口]]&gt;</description>
       <pubDate>Fri, 09 Oct 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8162833.html</guid>
+      <guid isPermaLink="true">https://www.tmtpost.com/8161607.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI平均3小时完成一个数学证明，科研进入大通胀时代？</title>
-      <link>https://www.tmtpost.com/8162938.html</link>
-      <description>&lt;![CDATA[AI平均3小时完成一个数学证明，科研进入大通胀时代？]]&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 18:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8162938.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude</title>
-      <link>https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude]]&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」</title>
-      <link>http://www.geekpark.net/news/372148</link>
-      <description>&lt;![CDATA[攻克超声穿颅读脑，拿下 4 亿元新融资，他们要做脑科学的「英伟达」]]&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 12:28:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372148</guid>
+      <title>Muse发布一个月，Personal Agent让新 BAT 集体上头</title>
+      <link>https://www.tmtpost.com/8163156.html</link>
+      <description>&lt;![CDATA[Muse发布一个月，Personal Agent让新 BAT 集体上头]]&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 09:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163156.html</guid>
       <category>Technology</category>
     </item>
   </channel>
