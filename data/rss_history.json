@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d38bb62fd2018261b4580f0bee88c73c914a52ebbf638db6bc28dd64f651bd6b": {
-        "title": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
-        "link": "https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 10 Sep 2026 17:15:00 GMT",
-        "first_seen": "2026-09-10T09:23:25.386135"
-      },
-      "adab3c34d39e532b3ae52365d60e30cdd45552eccd229f4877414f7b40e998b7": {
-        "title": "扔掉遥控器，是具身智能的终极关卡",
-        "link": "https://www.tmtpost.com/8134608.html",
-        "published_date": "Thu, 10 Sep 2026 11:13:00 GMT",
-        "first_seen": "2026-09-10T09:23:25.386150"
-      },
-      "e8c7d6ab4d3d5d6e2d27c83c2dac9fec70d583433809fd65c02dba061c96b58c": {
-        "title": "参数几乎翻倍，推理反而更省：DeepSeek V4.1-Flash 重构 KV Cache",
-        "link": "https://www.infoq.cn/article/sbaJrAa8VTIRKIPCpKlo?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 10 Sep 2026 17:06:00 GMT",
-        "first_seen": "2026-09-10T09:23:25.386153"
-      },
-      "38ac6210cb366c176f8073cef880ba60b8fbbc313f0f157034212d890fa3323f": {
-        "title": "14岁清华天才、普林斯顿最年轻终身教授王梦迪：AI 尚未发现新的基础科学｜附完整演讲",
-        "link": "https://www.infoq.cn/article/d0NzJlH20aPXVmsZHdjW?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 10 Sep 2026 12:46:00 GMT",
-        "first_seen": "2026-09-10T09:23:25.386155"
-      },
-      "c29ac819cc4d8bdd3956db5cd4d37d79f75f7f05c8fd60788cc7eca8d3726817": {
-        "title": "诺奖得主阿吉翁：AI时代，比以往任何时候都更需要重视手工劳动和软技能",
-        "link": "https://www.infoq.cn/article/bvqQk8MoIlx291HfB7pQ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 10 Sep 2026 11:27:00 GMT",
-        "first_seen": "2026-09-10T09:23:25.386156"
-      },
       "3513de24624842c034039602c3d9d01329e807f3a7f0c8aa2a92d2babbe3f18f": {
         "title": "GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移",
         "link": "https://www.tmtpost.com/8134523.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8163156.html",
         "published_date": "Sat, 10 Oct 2026 09:08:00 GMT",
         "first_seen": "2026-10-10T02:04:45.910296"
+      },
+      "9a72505747eb129b9989961aa9effd42f95284fba5c0be40c8507dcc82b9dcd8": {
+        "title": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "link": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Oct 2026 17:24:00 GMT",
+        "first_seen": "2026-10-10T10:58:22.523698"
+      },
+      "daaa681cc1bb7aa9d73b75aac516ba4e122d42cf9d88f605bf081ebd5398680d": {
+        "title": "Jev 开发商估值已达 75 亿美元；苹果投资 AI 音频初创；传 OpenAI、Anthropic 高管私下推演 AI 灾难场景",
+        "link": "http://www.geekpark.net/news/372184",
+        "published_date": "Sat, 10 Oct 2026 09:27:00 GMT",
+        "first_seen": "2026-10-10T10:58:22.523707"
+      },
+      "ee4e9da27ad129746f1e5086e9d3ded307cfb06bb1f920cb2e192151b94280b0": {
+        "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元",
+        "link": "https://www.tmtpost.com/8163752.html",
+        "published_date": "Sat, 10 Oct 2026 17:57:00 GMT",
+        "first_seen": "2026-10-10T10:58:22.523709"
+      },
+      "ce7dd4312a3d07aebd990f1749dc0eec8814526525f4b8ef4f4a109406ebcffe": {
+        "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "link": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Oct 2026 10:00:00 GMT",
+        "first_seen": "2026-10-10T10:58:22.523711"
+      },
+      "aaf13fc8973b30c1b150ed6eda320f150838e4b2503f16dcb88fc64c626c39c7": {
+        "title": "模型开放之后，AI能力为什么仍难以复用？",
+        "link": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Oct 2026 17:10:00 GMT",
+        "first_seen": "2026-10-10T10:58:22.523712"
       }
     },
     "Finance": {
-      "c63f81a2a8c223e5c2f8035275ca9f71d16192b4c6f70579f72ca2d182f112b1": {
-        "title": "Japan must raise rates, central banker says",
-        "link": "https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1",
-        "published_date": "Thu, 10 Sep 2026 04:07:00 GMT",
-        "first_seen": "2026-09-10T09:23:56.348136"
-      },
-      "37086fb042c32211189759f74bc10c4f1dcffe8b82a05c37dc9cb1a0861c2350": {
-        "title": "US-China borrowing costs diverge to widest level ever",
-        "link": "https://www.ft.com/content/258d6f1d-07a5-4c78-9c21-9867d8817077?syn-25a6b1a6=1",
-        "published_date": "Thu, 10 Sep 2026 03:54:00 GMT",
-        "first_seen": "2026-09-10T09:23:56.348143"
-      },
-      "b69aff42b864f36ed3642bfea48fb9d0e0dc2c6cc946f90c2d66dab4a035e611": {
-        "title": "Must high bond yields crack stocks?",
-        "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
-        "published_date": "Thu, 10 Sep 2026 05:30:00 GMT",
-        "first_seen": "2026-09-10T09:23:56.348146"
-      },
-      "b57186e252783c31a8f822cfa0b4cda1151fabff037c875c8b8a9d620ff30752": {
-        "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
-        "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
-        "published_date": "Thu, 10 Sep 2026 08:47:00 GMT",
-        "first_seen": "2026-09-10T09:23:56.348147"
-      },
-      "4a420103ac6f27984ee2f00923be4b1fe41cda779d7526fb2c3b1ccd6c090d60": {
-        "title": "With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term",
-        "link": "https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories",
-        "published_date": "Thu, 10 Sep 2026 07:29:00 GMT",
-        "first_seen": "2026-09-10T09:23:56.348149"
-      },
       "57d3d0bc067ab1c6922db19dde7e7421cc96e699a80561fc2194da8b0dcc7c7d": {
         "title": "Global bond sell-off reignites as oil jumps to $109",
         "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
@@ -3537,39 +3507,39 @@
         "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
         "published_date": "Fri, 09 Oct 2026 21:30:00 GMT",
         "first_seen": "2026-10-10T02:05:08.844491"
+      },
+      "0f2dc254db07737ef94947b6214afb7f31b2b97306223889200a322002b83757": {
+        "title": "The world of one trade — AI",
+        "link": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 06:36:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.758810"
+      },
+      "af423579fe69ffa8492544bbe814ac9e8bc515416156ca081d9f31f28819d365": {
+        "title": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
+        "link": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.758817"
+      },
+      "f3d194cea819893bb557f605d91e24edd91ba4948ea5a05cc613fc005b7d1d34": {
+        "title": "Saudi flagship summits under pressure after deadly airport attacks",
+        "link": "https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 06:36:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.758818"
+      },
+      "70e096a5336da5f224615da448e0b4bf03b5a6848bf3c67ee47ad164b45d0e71": {
+        "title": "The danger of pessimism fatigue",
+        "link": "https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.758820"
+      },
+      "a29fb1cb91fe15cc1d91424a8cd23446e2b49dc77fb9c57bc6f0524f24ff1220": {
+        "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+        "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Oct 2026 10:30:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.758821"
       }
     },
     "Ai": {
-      "38b9c1ae1bcd84aa615dce0526ddf9e419f29b53ca684aadcccdd64aacb8cd3d": {
-        "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-        "link": "https://www.qbitai.com/2026/09/486436.html",
-        "published_date": "Thu, 10 Sep 2026 01:39:00 GMT",
-        "first_seen": "2026-09-10T09:23:39.715579"
-      },
-      "e4f525f6e851d2d9926fc37217e9622e229c2495dc46170b067d0429fb4ceb74": {
-        "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-        "link": "https://www.qbitai.com/2026/09/486625.html",
-        "published_date": "Thu, 10 Sep 2026 04:55:00 GMT",
-        "first_seen": "2026-09-10T09:23:39.715587"
-      },
-      "8ae455b6f88810fab352801cc45882f77051efebd7214fdf165e1a3059b27333": {
-        "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-        "link": "https://www.qbitai.com/2026/09/486747.html",
-        "published_date": "Thu, 10 Sep 2026 07:57:00 GMT",
-        "first_seen": "2026-09-10T09:23:39.715589"
-      },
-      "cde40925d2e6df15f91af48fedeb70da88011422ad5d6ea597c494db650ea61f": {
-        "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-        "link": "https://www.qbitai.com/2026/09/486900.html",
-        "published_date": "Thu, 10 Sep 2026 08:17:00 GMT",
-        "first_seen": "2026-09-10T09:23:39.715590"
-      },
-      "3aa6b3552f9d5873dd60f8b8442b27e2d1aab5aebadfd846ffc47b8422612599": {
-        "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-        "link": "https://www.qbitai.com/2026/09/486716.html",
-        "published_date": "Thu, 10 Sep 2026 07:44:00 GMT",
-        "first_seen": "2026-09-10T09:23:39.715592"
-      },
       "42a16e11e92777def8cff0eebfc5f0ac044b920bd7beed89f2587d9f4c4552d0": {
         "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
         "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
@@ -4643,13 +4613,25 @@
         "link": "https://www.qbitai.com/2026/10/502359.html",
         "published_date": "Fri, 09 Oct 2026 06:28:00 GMT",
         "first_seen": "2026-10-09T11:41:14.564977"
+      },
+      "e34cb256ca94d5cae091b217a4b2966b8d626b0d2f3e47716304ada7728d4d06": {
+        "title": "特斯拉FSD，在欧洲被打回原形",
+        "link": "https://www.qbitai.com/2026/10/502467.html",
+        "published_date": "Sat, 10 Oct 2026 06:59:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.867735"
+      },
+      "5d84369344dd9ed4cda3dc8f09806d66d0772a24d5f4d96b0c0d4f059f7a0df1": {
+        "title": "2026-10-10日刊",
+        "link": "https://hex2077.dev/docs/2026-10/2026-10-10/",
+        "published_date": "Sat, 10 Oct 2026 02:19:00 GMT",
+        "first_seen": "2026-10-10T10:58:32.867740"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-10T02:04:45.910298",
-    "Finance": "2026-10-10T02:05:08.844493",
-    "Ai": "2026-10-09T11:41:14.564979"
+    "Technology": "2026-10-10T10:58:22.523715",
+    "Finance": "2026-10-10T10:58:32.758823",
+    "Ai": "2026-10-10T10:58:32.867742"
   }
 }
