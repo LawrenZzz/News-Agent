@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Oct 2026 01:33:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 01:33:50 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 11:11:00 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:11:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>390亿美元，全球具身智能顶流Figure的三重泡沫</title>
-      <link>https://www.tmtpost.com/8163913.html</link>
-      <description>&lt;![CDATA[390亿美元，全球具身智能顶流Figure的三重泡沫]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 08:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8163913.html</guid>
+      <title>利用 AI 代码智能体优化软件架构的五种方法</title>
+      <link>https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[利用 AI 代码智能体优化软件架构的五种方法]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>x86、Arm、RISC-V在工业边缘正面相遇</title>
-      <link>https://www.tmtpost.com/8163923.html</link>
-      <description>&lt;![CDATA[x86、Arm、RISC-V在工业边缘正面相遇]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 08:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8163923.html</guid>
+      <title>3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本</title>
+      <link>https://www.tmtpost.com/8163821.html</link>
+      <description>&lt;![CDATA[3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 12:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163821.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>算力基建的战争，才刚刚在液冷赛道上演</title>
-      <link>https://www.tmtpost.com/8163921.html</link>
-      <description>&lt;![CDATA[算力基建的战争，才刚刚在液冷赛道上演]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 08:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8163921.html</guid>
+      <title>中国AI，开始为算力算账</title>
+      <link>https://www.tmtpost.com/8164264.html</link>
+      <description>&lt;![CDATA[中国AI，开始为算力算账]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 12:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8164264.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI落地遭遇账单焦虑，大厂开始对Token成本“下手”</title>
-      <link>https://www.tmtpost.com/8163627.html</link>
-      <description>&lt;![CDATA[AI落地遭遇账单焦虑，大厂开始对Token成本“下手”]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8163627.html</guid>
+      <title>Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦</title>
+      <link>https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？</title>
-      <link>https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？]]&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&amp;utm_medium=article</guid>
+      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
+      <link>http://www.geekpark.net/news/372216</link>
+      <description>&lt;![CDATA[马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 08:53:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372216</guid>
       <category>Technology</category>
     </item>
   </channel>
