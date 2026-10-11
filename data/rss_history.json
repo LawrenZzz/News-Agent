@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "3513de24624842c034039602c3d9d01329e807f3a7f0c8aa2a92d2babbe3f18f": {
-        "title": "GPT-6 Astra × V2Fun：当大模型开始“调度”3D生成，AI建模的范式正在转移",
-        "link": "https://www.tmtpost.com/8134523.html",
-        "published_date": "Thu, 10 Sep 2026 18:12:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.548643"
-      },
-      "beefc27d8820fd809515d8d10f39e5c127270a8c3ec4b429a4f255baf2160b36": {
-        "title": "OpenAI抄袭、威胁数学家？“AI攻克千禧难题”秀，终成 OpenAI 和 Anthropic 的大战",
-        "link": "https://www.infoq.cn/article/Yv5sAmejcLyOYSSRdwI2?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 10 Sep 2026 11:22:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.548653"
-      },
-      "bdc97c7545a4c370efbf029a70b61637715c231406866752736a38edadf20a16": {
-        "title": "走出聊天框，Agent 开始进入现实世界",
-        "link": "http://www.geekpark.net/news/370064",
-        "published_date": "Thu, 10 Sep 2026 21:39:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.548656"
-      },
-      "34e00a7c96b1ce05baf00a36acb371b8ad2d02d8a6bcb7cc1c04d8274d25be47": {
-        "title": "Meta Muse突袭：人手一台AI虚拟机，全天候干活！扎克伯格想让 AI 自己“挣回饭钱”",
-        "link": "https://www.infoq.cn/article/NSFJ4JFUjL6KaYUDV5Wv?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 10 Sep 2026 11:03:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.548658"
-      },
-      "e9134da2e7640944076f1473749bae32a599556fc9869516d6f69145e92a6185": {
-        "title": "无人车拐点：中国供应链降维打击",
-        "link": "https://www.tmtpost.com/8135479.html",
-        "published_date": "Thu, 10 Sep 2026 18:50:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.548659"
-      },
       "520ab1f950c2f90d46056c973f949e50d2b523f415375d3d02dda8f85d9440f3": {
         "title": "88小时vs90年，当AI暴力给出答案，人类研究是否还有意义？",
         "link": "https://www.tmtpost.com/8136959.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 10 Oct 2026 17:10:00 GMT",
         "first_seen": "2026-10-10T10:58:22.523712"
+      },
+      "b129caa9bcfa2219be11dc04c8945fefe64bab919d22d9ae4f03ad773d11609b": {
+        "title": "390亿美元，全球具身智能顶流Figure的三重泡沫",
+        "link": "https://www.tmtpost.com/8163913.html",
+        "published_date": "Sun, 11 Oct 2026 08:59:00 GMT",
+        "first_seen": "2026-10-11T01:33:50.883005"
+      },
+      "f5a947c4ed5892f92a51f954b428c71fc1397ee23072f656320cae628cc8efd0": {
+        "title": "x86、Arm、RISC-V在工业边缘正面相遇",
+        "link": "https://www.tmtpost.com/8163923.html",
+        "published_date": "Sun, 11 Oct 2026 08:37:00 GMT",
+        "first_seen": "2026-10-11T01:33:50.883019"
+      },
+      "129f603b004fd996c333fa0a1a82b15cd1d05de4c049d8ca0c88e222a8635b85": {
+        "title": "算力基建的战争，才刚刚在液冷赛道上演",
+        "link": "https://www.tmtpost.com/8163921.html",
+        "published_date": "Sun, 11 Oct 2026 08:25:00 GMT",
+        "first_seen": "2026-10-11T01:33:50.883021"
+      },
+      "cf3aa0728ea4390773a8d41b0c2d1fd449c65031db4d0d1c23f95dac2613c0fa": {
+        "title": "AI落地遭遇账单焦虑，大厂开始对Token成本“下手”",
+        "link": "https://www.tmtpost.com/8163627.html",
+        "published_date": "Sat, 10 Oct 2026 17:57:00 GMT",
+        "first_seen": "2026-10-11T01:33:50.883023"
+      },
+      "3688eeda7f06b93109b47dd3c17b660088640532e5d54c6cd69c474a2aa8c9f6": {
+        "title": "OpenAI 只用 15 天，就杀死了估值 100 亿美元的 Jev？",
+        "link": "https://www.infoq.cn/article/qmoRIQ1TceKfKwGlXN0S?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 10 Oct 2026 15:11:00 GMT",
+        "first_seen": "2026-10-11T01:33:50.883025"
       }
     },
     "Finance": {
-      "57d3d0bc067ab1c6922db19dde7e7421cc96e699a80561fc2194da8b0dcc7c7d": {
-        "title": "Global bond sell-off reignites as oil jumps to $109",
-        "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
-        "published_date": "Thu, 10 Sep 2026 22:05:00 GMT",
-        "first_seen": "2026-09-11T00:51:01.106180"
-      },
-      "a7296b1717baefb36e0bf37a7913366eab5e306242d5306478d4bb4ed9b9b2a5": {
-        "title": "Saudi Arabia cuts oil output to lowest this year on Houthi threats",
-        "link": "https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1",
-        "published_date": "Thu, 10 Sep 2026 12:06:00 GMT",
-        "first_seen": "2026-09-11T00:51:01.106186"
-      },
-      "8fdf82704fda4f4434aee7ef0bbd4e57b758de9c45a5776db350ae2c42f0dad2": {
-        "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
-        "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-        "published_date": "Fri, 11 Sep 2026 00:19:00 GMT",
-        "first_seen": "2026-09-11T00:51:01.106189"
-      },
-      "a87631527d1c0b6aa4662f762f31fea8fe3d15f0ce61cdfa0bc42a04680dfcdf": {
-        "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
-        "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-        "published_date": "Thu, 10 Sep 2026 20:39:00 GMT",
-        "first_seen": "2026-09-11T00:51:01.106191"
-      },
-      "0c8090b6f426aa1c66cfc4007eaf13ef943ae61a6daf323fc7560b2da1c41d9a": {
-        "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
-        "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
-        "published_date": "Thu, 10 Sep 2026 20:26:00 GMT",
-        "first_seen": "2026-09-11T00:51:01.106212"
-      },
       "9f5bcd922623ca79ccf409d1a56e58182b11663eca2db9f1a45821a3e6330ee2": {
         "title": "Bond markets stabilise after global sell-off",
         "link": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
@@ -3537,21 +3507,39 @@
         "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
         "published_date": "Sat, 10 Oct 2026 10:30:00 GMT",
         "first_seen": "2026-10-10T10:58:32.758821"
+      },
+      "53bf52a6b9f2285fbcffc715d8066e07825fb594d1e566964b9914881b45d2a5": {
+        "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+        "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 18:14:00 GMT",
+        "first_seen": "2026-10-11T01:34:02.447461"
+      },
+      "513a67a6d91b1f752920533f5d1f3878cc3d914b5ba6f2dacf64d5a5ead2ce55": {
+        "title": "India’s central bank tries to shore up rupee as it nears record lows",
+        "link": "https://www.ft.com/content/b373cf00-9a94-4dc7-bdda-bc7006da1148?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 11:57:00 GMT",
+        "first_seen": "2026-10-11T01:34:02.447468"
+      },
+      "a77a37f16c44c9276a686bea034b97f80caa5b56cee44869cd297979e9c47e1d": {
+        "title": "AI borrowing slows as investors grow wary of debt binge",
+        "link": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
+        "published_date": "Sat, 10 Oct 2026 11:00:00 GMT",
+        "first_seen": "2026-10-11T01:34:02.447470"
+      },
+      "00ce1bd383258be9baddb38c29ae7200e4e2e9502972a00da241e3168fed50b2": {
+        "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+        "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Oct 2026 19:44:00 GMT",
+        "first_seen": "2026-10-11T01:34:02.447471"
+      },
+      "0215ef46319179e21d9f9f96ded8ab3a84601190563faaead2cf1fe6dc851f92": {
+        "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+        "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+        "published_date": "Sat, 10 Oct 2026 19:44:00 GMT",
+        "first_seen": "2026-10-11T01:34:02.447473"
       }
     },
     "Ai": {
-      "42a16e11e92777def8cff0eebfc5f0ac044b920bd7beed89f2587d9f4c4552d0": {
-        "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-        "link": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-        "published_date": "Thu, 10 Sep 2026 22:50:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.665707"
-      },
-      "c517a810d46c3436afd4e1916b925ad04c118eaadbd94bb71ff3f3011d9dd72d": {
-        "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-        "link": "https://www.qbitai.com/2026/09/486934.html",
-        "published_date": "Thu, 10 Sep 2026 10:17:00 GMT",
-        "first_seen": "2026-09-11T00:50:33.665715"
-      },
       "dd8ccfdf7d42ee3c5c2fa4e72e5d59393371e31b25796cc0643e37de8c14e816": {
         "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
         "link": "https://www.qbitai.com/2026/09/487092.html",
@@ -4630,8 +4618,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-10T10:58:22.523715",
-    "Finance": "2026-10-10T10:58:32.758823",
+    "Technology": "2026-10-11T01:33:50.883027",
+    "Finance": "2026-10-11T01:34:02.447475",
     "Ai": "2026-10-10T10:58:32.867742"
   }
 }
