@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "23d99a7a14d7969c52f3a59252dab77df7b7de89908873ebfa84f48c73bb964e": {
-        "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
-        "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:19:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.084488"
-      },
-      "1497b54a506b636bcb3b2dfd1cdd3bdc801eccc4d149665384f5686765a6eaf5": {
-        "title": "参议院调查OpenAI：1200个智能体私建\"留言板\"，5月就露馅，为何没人踩刹车",
-        "link": "https://www.tmtpost.com/8137561.html",
-        "published_date": "Sat, 12 Sep 2026 12:41:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.084494"
-      },
-      "5e7cc853c8ced131897a2af30942589c04a60a2a72aa30c9221650e23e0a5a9d": {
-        "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-        "link": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:13:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.084496"
-      },
-      "50b15327d5d147edc25db77bc0125fe309330c4908a6ab3c18af8aa1b647bea0": {
-        "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
-        "link": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.084497"
-      },
-      "576e6f011c3c8827dfe3c6770ebc7ed9c9f44a03fb1b6b1709f60a743babb685": {
-        "title": "OpenAI把Codex“拆开卖了”",
-        "link": "https://www.tmtpost.com/8137691.html",
-        "published_date": "Sat, 12 Sep 2026 10:42:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.084498"
-      },
       "e3d8cb53172fdf03beff8b1aee04a865b377dc0ae4f86c5877fced9d4ac19769": {
         "title": "25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界",
         "link": "https://www.tmtpost.com/8137883.html",
@@ -1771,33 +1741,39 @@
         "link": "https://www.tmtpost.com/8164296.html",
         "published_date": "Sun, 11 Oct 2026 13:08:00 GMT",
         "first_seen": "2026-10-12T02:03:49.592110"
+      },
+      "242090ae7f8267262fbba36c3da2262dd98547ab8c89580c605ed73d19b84afb": {
+        "title": "卸任7年，69岁\"京东方之父\"又敲一次钟，这次填的是中国芯片最后一块短板",
+        "link": "https://www.tmtpost.com/8164678.html",
+        "published_date": "Mon, 12 Oct 2026 16:13:00 GMT",
+        "first_seen": "2026-10-12T12:43:50.562828"
+      },
+      "5c3488000504ed6b0a2b3f9986b00312d1d0a7aeba63bdf3a40ea44131304205": {
+        "title": "反对Agent，反对RSI，杨立昆新模型反对当下一切AI叙事",
+        "link": "https://www.tmtpost.com/8165030.html",
+        "published_date": "Mon, 12 Oct 2026 16:13:00 GMT",
+        "first_seen": "2026-10-12T12:43:50.562836"
+      },
+      "cad0ca1c6c687bd8ea2fecc78292424906d70d41ab206c5c056d1d7d75622098": {
+        "title": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "link": "https://www.infoq.cn/article/Qk7CzmLpDCvfYpAiU6Tf?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 16:00:00 GMT",
+        "first_seen": "2026-10-12T12:43:50.562838"
+      },
+      "554acaf2ee4777d9c5fefd6bfb68f1206fcbbdf02491f2198ec67d070ffaa430": {
+        "title": "人形机器人出货暴增4倍，钱被谁赚走了？",
+        "link": "https://www.tmtpost.com/8164863.html",
+        "published_date": "Mon, 12 Oct 2026 16:46:00 GMT",
+        "first_seen": "2026-10-12T12:43:50.562840"
+      },
+      "33276114a204c07a81e6f023549df06e510c1ee284e0eaca196ceebd8f028bb7": {
+        "title": "王鹏伟：当下的世界模型都只学到了片面的世界",
+        "link": "https://www.tmtpost.com/8041489.html",
+        "published_date": "Mon, 12 Oct 2026 17:34:00 GMT",
+        "first_seen": "2026-10-12T12:43:50.562842"
       }
     },
     "Finance": {
-      "2c679dc0bf2de0f0edd137f0b65c20cbf0480640d8f3e60a95f9edf3a22ad010": {
-        "title": "US limits air defence time slots for tankers sailing through Hormuz",
-        "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.189885"
-      },
-      "199bbf1a07b126ea64a6fef2290e19778278efa0ed2d583119865f7568c7feb0": {
-        "title": "We are setting up a generation to fail at school",
-        "link": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.189891"
-      },
-      "5df7cd0bfd078d19f24284a35da446bc76591409cceca9449c24d563a4555987": {
-        "title": "EU races to Le Pen-proof its agenda",
-        "link": "https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.189892"
-      },
-      "b5dac6363123aa97651f8cadb5541afe515943669c171bd44e060d0134bec3f8": {
-        "title": "Booming Brics payments systems seek more cross-border links",
-        "link": "https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.189893"
-      },
       "4ba9f9fcc459beb97206ae4cc9bba88365e55a522a6046bd6bb32cd40a1fa928": {
         "title": "India’s central bank tells Tata Sons to take conglomerate public",
         "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
@@ -3537,27 +3513,39 @@
         "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
         "published_date": "Sun, 11 Oct 2026 21:17:00 GMT",
         "first_seen": "2026-10-12T02:04:10.446614"
+      },
+      "b7cd97da200f36f347ec75f308b5e1f0d70678472132956c416fead4b885a9c7": {
+        "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
+        "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 11:00:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.308401"
+      },
+      "b2b6c5b9ac74426749f3a0ceb9e0d2d5cc7d05fe0812378df6b1f613dc44289e": {
+        "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
+        "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 09:14:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.308407"
+      },
+      "859643ae510ebd1a1c6f392e1f91ba20fca53c7235e31e39cf270dd8107f244b": {
+        "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
+        "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 09:23:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.308409"
+      },
+      "714401c397d0131d3c441ffa5dc1aeb60e0dd5e0664dc59f1d5174f38d58bd11": {
+        "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
+        "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
+        "published_date": "Mon, 12 Oct 2026 11:30:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.308411"
+      },
+      "a095a686403380ac553fdee1958637a5e7c846e5f638c82976ac99d8306da080": {
+        "title": "The huge lurking leverage of AI hyperscalers",
+        "link": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
+        "published_date": "Mon, 12 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.308412"
       }
     },
     "Ai": {
-      "9f25b0ae9a5373a454be4113a38cc0c029e6e905b9d37b9a6f63554a9d06f877": {
-        "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-        "link": "https://www.qbitai.com/2026/09/487688.html",
-        "published_date": "Sat, 12 Sep 2026 05:58:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.145612"
-      },
-      "1ea25ecfc1374648d067c1d2919efc70376d44d8b4c9d43f89d92d416975d6e6": {
-        "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-        "link": "https://www.qbitai.com/2026/09/487653.html",
-        "published_date": "Sat, 12 Sep 2026 04:53:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.145618"
-      },
-      "62566121b1fd1e97edcd63639a7e1dea6d395e028085ea76cdea9a4ac58ff8d8": {
-        "title": "2026-09-12日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-12/",
-        "published_date": "Sat, 12 Sep 2026 03:26:00 GMT",
-        "first_seen": "2026-09-12T09:01:49.145619"
-      },
       "83d060be51e8741c43343b749adb74893efe05cc21fd78aaafa1bcd3561a8ae9": {
         "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
         "link": "https://www.qbitai.com/2026/09/487860.html",
@@ -4595,13 +4583,31 @@
         "link": "https://www.qbitai.com/2026/10/502544.html",
         "published_date": "Sun, 11 Oct 2026 03:27:00 GMT",
         "first_seen": "2026-10-11T11:12:21.490360"
+      },
+      "173f5a4ce479ed3306f580cd5c0dfa4607558ced1f5dff2d9159447fda5469a0": {
+        "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+        "link": "https://www.qbitai.com/2026/10/502654.html",
+        "published_date": "Mon, 12 Oct 2026 05:48:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.448314"
+      },
+      "9b1151c8b9e572f5fa9c16677eeda94a8158be58a5d2096694905a26f094c4c0": {
+        "title": "智谱新模型，490 tokens/s！",
+        "link": "https://www.qbitai.com/2026/10/502649.html",
+        "published_date": "Mon, 12 Oct 2026 02:37:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.448322"
+      },
+      "1f515926273d5a4a1c6def36474d2bc95530d7e3668e73b5e27e6779146414db": {
+        "title": "2026-10-12日刊",
+        "link": "https://hex2077.dev/docs/2026-10/2026-10-12/",
+        "published_date": "Mon, 12 Oct 2026 02:33:00 GMT",
+        "first_seen": "2026-10-12T12:44:09.448324"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-12T02:03:49.592112",
-    "Finance": "2026-10-12T02:04:10.446616",
-    "Ai": "2026-10-11T11:12:21.490361"
+    "Technology": "2026-10-12T12:43:50.562844",
+    "Finance": "2026-10-12T12:44:09.308414",
+    "Ai": "2026-10-12T12:44:09.448326"
   }
 }
