@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c6aed8c83c83638e056799a6324e91e69997e38e958d49537595f2cef1eedb8d": {
-        "title": "蚂蚁灵波不“嫁接”：具身大脑的原生路线与冷启动",
-        "link": "https://www.tmtpost.com/8137542.html",
-        "published_date": "Sat, 12 Sep 2026 08:40:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.401245"
-      },
-      "13d2b85fddbdba183a36dde47fa3e8a5a165a1a1b214c54f9797d35b5b425ef3": {
-        "title": "法国投资者以300亿美元估值入股月之暗面：Kimi IPO前获欧洲资本押注",
-        "link": "https://www.tmtpost.com/8136831.html",
-        "published_date": "Fri, 11 Sep 2026 20:33:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.401253"
-      },
-      "53de506e281dd2e3c15fe4845c00a5f6a4dd804c35a7df46652f66921c6afb93": {
-        "title": "京东启动物理 AI 加速计划：两年内采集超 1000万小时真实场景视频数据",
-        "link": "https://www.tmtpost.com/8135323.html",
-        "published_date": "Fri, 11 Sep 2026 21:15:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.401255"
-      },
-      "5e8c98d9b84812142bbd48380578457289178488ea9377e4a6dda9cbbe8b81ba": {
-        "title": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
-        "link": "https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 11 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.401257"
-      },
-      "9e1a1da30e945f3db8150f738d28793bbb627616a028b035111625c55e77fabf": {
-        "title": "AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同",
-        "link": "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 11 Sep 2026 12:30:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.401259"
-      },
       "23d99a7a14d7969c52f3a59252dab77df7b7de89908873ebfa84f48c73bb964e": {
         "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
         "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
@@ -1771,39 +1741,39 @@
         "link": "http://www.geekpark.net/news/372216",
         "published_date": "Sun, 11 Oct 2026 08:53:00 GMT",
         "first_seen": "2026-10-11T11:11:59.295692"
+      },
+      "8c82d03fb7911f1ad8c40879baaafa764b76be93fe2e59425c7827cd0fb28571": {
+        "title": "请来Claude老祖，谷歌能借Agent翻身吗？",
+        "link": "https://www.tmtpost.com/8164268.html",
+        "published_date": "Sun, 11 Oct 2026 12:50:00 GMT",
+        "first_seen": "2026-10-12T02:03:49.592092"
+      },
+      "4c92ab2ddfef81cbf2255baa58e100b6c1f4f438e7ef073c4d4fde3114b67a05": {
+        "title": "本末科技，还没吃上具身智能这碗饭",
+        "link": "https://www.tmtpost.com/8164407.html",
+        "published_date": "Sun, 11 Oct 2026 21:08:00 GMT",
+        "first_seen": "2026-10-12T02:03:49.592104"
+      },
+      "409500b07e8dbbc461af73bb8d97037f3e525e871ddbba6a88a34fb135ac6f4c": {
+        "title": "边跌边配售，“吞金兽”壁仞科技准备再搞40亿",
+        "link": "https://www.tmtpost.com/8163998.html",
+        "published_date": "Sun, 11 Oct 2026 21:00:00 GMT",
+        "first_seen": "2026-10-12T02:03:49.592107"
+      },
+      "439417094ee903617241ac5285658eb921bd655b50216623f021dbfaba8fa515": {
+        "title": "Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限",
+        "link": "https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 09:05:00 GMT",
+        "first_seen": "2026-10-12T02:03:49.592108"
+      },
+      "8b08bbaf17843ec59c9649f271c4b85473f2e76b97fcaa9b0516828fc7d231a6": {
+        "title": "AI创造的新工作，可能根本轮不到你",
+        "link": "https://www.tmtpost.com/8164296.html",
+        "published_date": "Sun, 11 Oct 2026 13:08:00 GMT",
+        "first_seen": "2026-10-12T02:03:49.592110"
       }
     },
     "Finance": {
-      "cdf34d672fc0363fb485617262d46f8c451077e1b5dd96672020975b92940861": {
-        "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
-        "link": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
-        "published_date": "Fri, 11 Sep 2026 20:21:00 GMT",
-        "first_seen": "2026-09-12T00:54:21.360828"
-      },
-      "1c052f3afeb86e1339132ec4bda7dc4ca65f56b4063bc3b82ccfa1ba9d7fdefc": {
-        "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-        "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-        "published_date": "Fri, 11 Sep 2026 23:54:00 GMT",
-        "first_seen": "2026-09-12T00:54:21.360834"
-      },
-      "797b16d3e183725a019d427c083791c1a96a8f7bbef96637449091a93d0a2246": {
-        "title": "JPMorgan cut off Situational Awareness lending after AI losses",
-        "link": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
-        "published_date": "Fri, 11 Sep 2026 20:51:00 GMT",
-        "first_seen": "2026-09-12T00:54:21.360837"
-      },
-      "2627c9e399633f6ac76262bc076b27c9d5328106c8e23754f260de105a05e88c": {
-        "title": "Houthis seize Red Sea islands in lightning offensive",
-        "link": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
-        "published_date": "Fri, 11 Sep 2026 20:56:00 GMT",
-        "first_seen": "2026-09-12T00:54:21.360839"
-      },
-      "091f18f49c0c335496f0bddefc5711f7acc27f74899a528f922dff0682798e1f": {
-        "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
-        "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-        "published_date": "Fri, 11 Sep 2026 20:45:00 GMT",
-        "first_seen": "2026-09-12T00:54:21.360841"
-      },
       "2c679dc0bf2de0f0edd137f0b65c20cbf0480640d8f3e60a95f9edf3a22ad010": {
         "title": "US limits air defence time slots for tankers sailing through Hormuz",
         "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
@@ -3537,27 +3507,39 @@
         "link": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
         "published_date": "Sun, 11 Oct 2026 07:03:00 GMT",
         "first_seen": "2026-10-11T11:12:10.176518"
+      },
+      "b1a0705f9584d4a247e508873125e15c129cb91360789a10f914368a2361101f": {
+        "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+        "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+        "published_date": "Sun, 11 Oct 2026 14:00:00 GMT",
+        "first_seen": "2026-10-12T02:04:10.446599"
+      },
+      "d4cc32cf95714434033a426bb10821405f27d47f889adbdf6d528fe4b452a1fa": {
+        "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+        "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+        "published_date": "Sun, 11 Oct 2026 12:00:00 GMT",
+        "first_seen": "2026-10-12T02:04:10.446608"
+      },
+      "ea6652b86e2b2b4a918907742741cd0a95af5e97879748be62cf9cbe6a0dce41": {
+        "title": "The bull market is turning 4 years old — but yields could crash the party",
+        "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+        "published_date": "Sun, 11 Oct 2026 13:00:00 GMT",
+        "first_seen": "2026-10-12T02:04:10.446610"
+      },
+      "2228fc78c7684ceb9a040a0d9f5cbae4d2eaa1de895fea3fcdaf7c5faf14259c": {
+        "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
+        "link": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
+        "published_date": "Sun, 11 Oct 2026 20:00:00 GMT",
+        "first_seen": "2026-10-12T02:04:10.446612"
+      },
+      "a81052c32c8c612c878dd4634f75bb85b01a6a2291492366a0d71b3f6f2f279d": {
+        "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+        "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+        "published_date": "Sun, 11 Oct 2026 21:17:00 GMT",
+        "first_seen": "2026-10-12T02:04:10.446614"
       }
     },
     "Ai": {
-      "79b6e283c7b7c3d7d07df5e2607b9ef47cd9dcb9ab784939ee7cf68aa7279663": {
-        "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-        "link": "https://www.qbitai.com/2026/09/487631.html",
-        "published_date": "Fri, 11 Sep 2026 18:02:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.538061"
-      },
-      "988622f2c9ecb711e83c587cbf5d5ee84f7f8706f26f0ea0cafe1fde90506dba": {
-        "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-        "link": "https://www.qbitai.com/2026/09/487573.html",
-        "published_date": "Fri, 11 Sep 2026 14:05:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.538068"
-      },
-      "60442635710976b1e8835cefe4ed43204dabadac58b31e183e9bda72a5ad8f23": {
-        "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-        "link": "https://www.qbitai.com/2026/09/487415.html",
-        "published_date": "Fri, 11 Sep 2026 13:59:00 GMT",
-        "first_seen": "2026-09-12T00:53:55.538070"
-      },
       "9f25b0ae9a5373a454be4113a38cc0c029e6e905b9d37b9a6f63554a9d06f877": {
         "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
         "link": "https://www.qbitai.com/2026/09/487688.html",
@@ -4618,8 +4600,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-11T11:11:59.295694",
-    "Finance": "2026-10-11T11:12:10.176521",
+    "Technology": "2026-10-12T02:03:49.592112",
+    "Finance": "2026-10-12T02:04:10.446616",
     "Ai": "2026-10-11T11:12:21.490361"
   }
 }

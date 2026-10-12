@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Oct 2026 11:11:00 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 11:11:59 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Oct 2026 02:03:00 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:03:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>利用 AI 代码智能体优化软件架构的五种方法</title>
-      <link>https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[利用 AI 代码智能体优化软件架构的五种方法]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 10:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&amp;utm_medium=article</guid>
+      <title>请来Claude老祖，谷歌能借Agent翻身吗？</title>
+      <link>https://www.tmtpost.com/8164268.html</link>
+      <description>&lt;![CDATA[请来Claude老祖，谷歌能借Agent翻身吗？]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 12:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8164268.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本</title>
-      <link>https://www.tmtpost.com/8163821.html</link>
-      <description>&lt;![CDATA[3D 芯片堆得上去，未必堆得划算：量产卡在良率与成本]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 12:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8163821.html</guid>
+      <title>本末科技，还没吃上具身智能这碗饭</title>
+      <link>https://www.tmtpost.com/8164407.html</link>
+      <description>&lt;![CDATA[本末科技，还没吃上具身智能这碗饭]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 21:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8164407.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>中国AI，开始为算力算账</title>
-      <link>https://www.tmtpost.com/8164264.html</link>
-      <description>&lt;![CDATA[中国AI，开始为算力算账]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 12:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8164264.html</guid>
+      <title>边跌边配售，“吞金兽”壁仞科技准备再搞40亿</title>
+      <link>https://www.tmtpost.com/8163998.html</link>
+      <description>&lt;![CDATA[边跌边配售，“吞金兽”壁仞科技准备再搞40亿]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8163998.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦</title>
-      <link>https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Uber 在 Kubernetes 平台上将扩容意图与执行操作解耦]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2SNgaiHoK808v22dl5SJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限</title>
+      <link>https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Artifactory 漏洞正被积极利用，可以绕过身份验证并获取管理员权限]]&gt;</description>
+      <pubDate>Mon, 12 Oct 2026 09:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CSNMcSceutWCGQhZcL7D?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手</title>
-      <link>http://www.geekpark.net/news/372216</link>
-      <description>&lt;![CDATA[马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手]]&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 08:53:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/372216</guid>
+      <title>AI创造的新工作，可能根本轮不到你</title>
+      <link>https://www.tmtpost.com/8164296.html</link>
+      <description>&lt;![CDATA[AI创造的新工作，可能根本轮不到你]]&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 13:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8164296.html</guid>
       <category>Technology</category>
     </item>
   </channel>
