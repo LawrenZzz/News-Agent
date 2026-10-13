@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e3d8cb53172fdf03beff8b1aee04a865b377dc0ae4f86c5877fced9d4ac19769": {
-        "title": "25 位菲尔兹奖得主联名愤怒，OpenAI 退出赞助：AI 正在激怒整个数学界",
-        "link": "https://www.tmtpost.com/8137883.html",
-        "published_date": "Sat, 12 Sep 2026 18:53:00 GMT",
-        "first_seen": "2026-09-13T00:37:08.644543"
-      },
-      "f95b19124168e97d0ab1bad0a74b5b33ff7c7e091421e70d7cf855e0c1212893": {
-        "title": "OpenAI、Anthropic 再次发出「AI 末日」警告；小米澎程今日全国交付；Deepseek 灰度测试 AI 语音对话",
-        "link": "http://www.geekpark.net/news/370228",
-        "published_date": "Sun, 13 Sep 2026 08:22:00 GMT",
-        "first_seen": "2026-09-13T00:37:08.644552"
-      },
-      "c5140062176ec4ed086821a25c68116a9bb5b0eafc3f239d1db5ac810b7f0def": {
-        "title": "智谱和MiniMax，进入“低价增长”时代",
-        "link": "https://www.tmtpost.com/8137263.html",
-        "published_date": "Sat, 12 Sep 2026 10:42:00 GMT",
-        "first_seen": "2026-09-13T00:37:08.644554"
-      },
-      "1655a4be2308910a6b87fd2d5c6d61160ccd46f7d7b010da8aaf7cf1a0a16e94": {
-        "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
-        "link": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 12 Sep 2026 16:06:00 GMT",
-        "first_seen": "2026-09-13T00:37:08.644556"
-      },
-      "2db4985580a3e9c209a6157eb70f194eb52b6dc4decb2f869f1c2d8f30df9683": {
-        "title": "2万字对话陈大年：冲在投资和产业的第一线，想让每个人都有自己的AI",
-        "link": "https://www.tmtpost.com/8137660.html",
-        "published_date": "Sat, 12 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-13T00:37:08.644557"
-      },
       "bc9c99300761d50d524d33b032827d8d32b5f9d79a6f1f69ba57ed73a19be2b7": {
         "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
         "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8041489.html",
         "published_date": "Mon, 12 Oct 2026 17:34:00 GMT",
         "first_seen": "2026-10-12T12:43:50.562842"
+      },
+      "b009a4456544432114cb19404998a99e3fc56b806b03e62e92377be365528ecf": {
+        "title": "TikTok CEO 周受资的新判断：AI 将在三年内改写科学，字节的筹码是什么",
+        "link": "https://www.tmtpost.com/8166003.html",
+        "published_date": "Tue, 13 Oct 2026 09:47:00 GMT",
+        "first_seen": "2026-10-13T03:22:15.910674"
+      },
+      "2bf557ed71c80a59b370004367b50b07b19ba10aa613e740697553bb9559fa0e": {
+        "title": "王兴兴最新预判：具身智能的转折点，一到两年内就会来",
+        "link": "https://www.tmtpost.com/8166189.html",
+        "published_date": "Tue, 13 Oct 2026 10:22:00 GMT",
+        "first_seen": "2026-10-13T03:22:15.910683"
+      },
+      "e57fe1029c00bee3d3b51c121b80f92869df2e17d6aefac4f9a31b3846c58a9c": {
+        "title": "China’s AI Boom Moves From Model Prices to Power Bills and Depreciation",
+        "link": "https://www.tmtpost.com/8165235.html",
+        "published_date": "Mon, 12 Oct 2026 16:09:00 GMT",
+        "first_seen": "2026-10-13T03:22:15.910686"
+      },
+      "618c068ca1254aa80ed2ba17f88c9a3ac56871de9005bbd9451d148e05413a36": {
+        "title": "“大模型时代的谷歌，可能永远不会出现”",
+        "link": "https://www.tmtpost.com/8166394.html",
+        "published_date": "Tue, 13 Oct 2026 10:42:00 GMT",
+        "first_seen": "2026-10-13T03:22:15.910688"
+      },
+      "5cdc2b078027f3fd49b2da44e2fb2cc396162471db23b25c9b7e678370a1f13b": {
+        "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+        "link": "https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 12 Oct 2026 17:19:00 GMT",
+        "first_seen": "2026-10-13T03:22:15.910689"
       }
     },
     "Finance": {
-      "4ba9f9fcc459beb97206ae4cc9bba88365e55a522a6046bd6bb32cd40a1fa928": {
-        "title": "India’s central bank tells Tata Sons to take conglomerate public",
-        "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 16:20:00 GMT",
-        "first_seen": "2026-09-13T00:37:21.029656"
-      },
-      "701a3b2f4555d5526434fdf3b55672109aada9c72d96eef66943884b7f6a1232": {
-        "title": "Larry Ellison cancels $7.5bn Oracle share sale",
-        "link": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 17:18:00 GMT",
-        "first_seen": "2026-09-13T00:37:21.029662"
-      },
-      "e574470440050cc4119df09fe11e6c34bc96473a23079f85e952f6bd02b8595b": {
-        "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-        "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-        "published_date": "Sat, 12 Sep 2026 21:50:00 GMT",
-        "first_seen": "2026-09-13T00:37:21.029663"
-      },
-      "91ef0b15def99c2befcc941ac83efe1408082b3612a3698b41caa194715c85e5": {
-        "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
-        "link": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
-        "published_date": "Sat, 12 Sep 2026 18:14:00 GMT",
-        "first_seen": "2026-09-13T00:37:21.029664"
-      },
-      "441ca4c2741c2703f7ebee37761e8d7dbcf1e4bbb9e1246741710c19fd0031e5": {
-        "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-        "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-        "published_date": "Sat, 12 Sep 2026 16:01:00 GMT",
-        "first_seen": "2026-09-13T00:37:21.029665"
-      },
       "73b5dcd4ede6e466583eab8444a1f2c245eb84034beab673a6e9a6b1e4c5f9a5": {
         "title": "Boom-era PE funds will fall short on promises, executives warn",
         "link": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
@@ -3543,15 +3513,39 @@
         "link": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
         "published_date": "Mon, 12 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-12T12:44:09.308412"
+      },
+      "332a7e61df4e1e63a31aefae2ad348157d728dc27afd0d30009348b44fda9e40": {
+        "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+        "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 02:00:00 GMT",
+        "first_seen": "2026-10-13T03:22:32.922932"
+      },
+      "eb8098f55aba2ab23913082c9f30b486ac15942fa8dbe1eb856aca6818485e69": {
+        "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+        "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Oct 2026 02:00:00 GMT",
+        "first_seen": "2026-10-13T03:22:32.922939"
+      },
+      "23700741533cd5b35a3997180bafe41a223df79aa9e82076f0836966fdfb5096": {
+        "title": "Chip stocks slide as fears mount over scale of AI investment",
+        "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 02:58:00 GMT",
+        "first_seen": "2026-10-13T03:22:32.922942"
+      },
+      "7430d286d163ab120ddb2798b04ac5a7caa344ccb8169b640dd04d32303172ee": {
+        "title": "The diesel crisis is testing the limits of globalisation",
+        "link": "https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307",
+        "published_date": "Mon, 12 Oct 2026 17:14:00 GMT",
+        "first_seen": "2026-10-13T03:22:32.922944"
+      },
+      "969c7e09415478f89793b848b5223a33b22c638337956855802370142a61f70e": {
+        "title": "China resorts to Nvidia gaming chips in search for AI firepower",
+        "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 00:15:00 GMT",
+        "first_seen": "2026-10-13T03:22:32.922945"
       }
     },
     "Ai": {
-      "83d060be51e8741c43343b749adb74893efe05cc21fd78aaafa1bcd3561a8ae9": {
-        "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-        "link": "https://www.qbitai.com/2026/09/487860.html",
-        "published_date": "Sat, 12 Sep 2026 11:38:00 GMT",
-        "first_seen": "2026-09-13T00:37:08.737040"
-      },
       "a893cc82e9e43aaac169b7357a0dad973c96948b344f3e5f5626483653733cc7": {
         "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
         "link": "https://www.qbitai.com/2026/09/488672.html",
@@ -4601,13 +4595,19 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-12/",
         "published_date": "Mon, 12 Oct 2026 02:33:00 GMT",
         "first_seen": "2026-10-12T12:44:09.448324"
+      },
+      "8bebb348a1a034c679fb8724474cba1e05ba3d70eeaa4852435bf013b3cc957c": {
+        "title": "2026-10-13日刊",
+        "link": "https://hex2077.dev/docs/2026-10/2026-10-13/",
+        "published_date": "Tue, 13 Oct 2026 02:37:00 GMT",
+        "first_seen": "2026-10-13T03:22:33.065175"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-12T12:43:50.562844",
-    "Finance": "2026-10-12T12:44:09.308414",
-    "Ai": "2026-10-12T12:44:09.448326"
+    "Technology": "2026-10-13T03:22:15.910693",
+    "Finance": "2026-10-13T03:22:32.922948",
+    "Ai": "2026-10-13T03:22:33.065182"
   }
 }
