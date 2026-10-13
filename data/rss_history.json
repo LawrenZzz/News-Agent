@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "bc9c99300761d50d524d33b032827d8d32b5f9d79a6f1f69ba57ed73a19be2b7": {
-        "title": "Read, Don't Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
-        "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Sep 2026 10:00:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.087627"
-      },
-      "0ed4c251f551c603a7521ac83d22c4457fe55571e80855b0da9a5773703c4f87": {
-        "title": "科技巨头呼吁AI减速，马斯克、奥特曼等罕见赞同",
-        "link": "https://www.tmtpost.com/8138286.html",
-        "published_date": "Sun, 13 Sep 2026 15:34:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.087639"
-      },
-      "5e2dab5218d8048b882509b160aa62ec971656cd41338f4999238560688f394f": {
-        "title": "Dario自曝RSI已成真，奥特曼同日光速跟进",
-        "link": "https://www.tmtpost.com/8138094.html",
-        "published_date": "Sun, 13 Sep 2026 10:59:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.087642"
-      },
-      "9b5a0cedf4e4dad487378a0ca59560d64d432999f4171eae762112d1d0939713": {
-        "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
-        "link": "https://www.tmtpost.com/8138191.html",
-        "published_date": "Sun, 13 Sep 2026 13:15:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.087644"
-      },
-      "2b70c4594010abb7b02eb88381d859bc6a92f15413b3e4356bfcd90af993b33c": {
-        "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
-        "link": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 13 Sep 2026 16:00:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.087646"
-      },
       "5d59da8ccdfc07d2cf9fb618a66ffddb86ead480ffbabc8d6b862085d20b751d": {
         "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
         "link": "https://www.tmtpost.com/8138378.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.infoq.cn/article/DpieQJ598YdxQC8Ymjso?utm_source=rss&utm_medium=article",
         "published_date": "Mon, 12 Oct 2026 17:19:00 GMT",
         "first_seen": "2026-10-13T03:22:15.910689"
+      },
+      "4bc9e32a20042a361f57de667b505d64662c47e1fec2b130cdebdbfa2b04ce1d": {
+        "title": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "link": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 11:45:00 GMT",
+        "first_seen": "2026-10-13T12:28:47.297910"
+      },
+      "4589287c2ac5d6ae49cca2d3d06b6ff2e3e64cac9fb44daf76ab08969b8b8a8f": {
+        "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "link": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 18:32:00 GMT",
+        "first_seen": "2026-10-13T12:28:47.297918"
+      },
+      "4a24732e6052e72a0c377f16a027bf818bcd776d6c166c296b3b75cbee479986": {
+        "title": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "link": "https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 17:25:00 GMT",
+        "first_seen": "2026-10-13T12:28:47.297921"
+      },
+      "00165c45784c0c063b53acd62a925223ad7a9323ba05440c7118ea32a144dcf4": {
+        "title": "高通终于认真做 Linux 了：Snapdragon X2 支持提前进入上游",
+        "link": "https://www.infoq.cn/article/OjlADL5itjO3PcVHsuMB?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 13:25:00 GMT",
+        "first_seen": "2026-10-13T12:28:47.297922"
+      },
+      "9b4b5524fefeea04f9089be70338cf8243cdee39407f3a2650a56cc90f79f8d9": {
+        "title": "钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望",
+        "link": "https://www.tmtpost.com/8166022.html",
+        "published_date": "Tue, 13 Oct 2026 09:58:00 GMT",
+        "first_seen": "2026-10-13T12:28:47.297924"
       }
     },
     "Finance": {
-      "73b5dcd4ede6e466583eab8444a1f2c245eb84034beab673a6e9a6b1e4c5f9a5": {
-        "title": "Boom-era PE funds will fall short on promises, executives warn",
-        "link": "https://www.ft.com/content/183569b4-8102-4b38-8a20-a3597a442f26?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T09:59:10.097653"
-      },
-      "7c4203e01584ba45e02d29a9c6faecf91ddedafc3a341ab103a40fd17eb99228": {
-        "title": "PwC shakes up Indian operations as AI threat looms over consulting sector",
-        "link": "https://www.ft.com/content/bf1f8def-98ce-4976-acc3-cd80f0956ab0?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 05:40:00 GMT",
-        "first_seen": "2026-09-13T09:59:10.097662"
-      },
-      "3583271079e3b3a14afa9e892a9453326d4f2fbd355e91ccc663bcb6d46eaeea": {
-        "title": "Musk’s secretive backer builds $40bn SpaceX stake",
-        "link": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T09:59:10.097664"
-      },
-      "82068cca3d2125a72c5ee7cccf448f445932cf25d97e952ad3e91f9828919802": {
-        "title": "As Europe’s memory fades, radicalism is returning",
-        "link": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T09:59:10.097666"
-      },
-      "901dade82e6de870a8dc7e9428fb69ca3c90bd8d900eedc020fe42872a62bd51": {
-        "title": "How Russia’s new drones are changing the air war",
-        "link": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 04:00:00 GMT",
-        "first_seen": "2026-09-13T09:59:10.097667"
-      },
       "ab657fb232a3cb6bef50ae8621d351446b98bb8fc57a8e3cd9b999897996c2fb": {
         "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
         "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
@@ -3543,39 +3513,39 @@
         "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
         "published_date": "Tue, 13 Oct 2026 00:15:00 GMT",
         "first_seen": "2026-10-13T03:22:32.922945"
+      },
+      "4a200a4b9af81f6a06d658563220a047ac8e3e3a4c4c346716d64615b9b6894b": {
+        "title": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
+        "link": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Oct 2026 12:04:00 GMT",
+        "first_seen": "2026-10-13T12:29:01.154101"
+      },
+      "d6b172dd4055e08b93064c796eb99a9559baefa6910cc9081e8b900070ecb433": {
+        "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+        "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Oct 2026 11:30:00 GMT",
+        "first_seen": "2026-10-13T12:29:01.154108"
+      },
+      "c2e2b142fbda8b9d20baf51b06feac2dbb7d1273e63d975e15b6ff7237672ac3": {
+        "title": "Investors brave US Treasury rout to lock in highest yields in decades",
+        "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-13T12:29:01.154110"
+      },
+      "a3b715ee79a750f0f85e743c7566591f75e4d90183b8ce3e6b8cca3a68732789": {
+        "title": "Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes",
+        "link": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
+        "published_date": "Tue, 13 Oct 2026 09:42:00 GMT",
+        "first_seen": "2026-10-13T12:29:01.154112"
+      },
+      "a623084da7fa44122b6c8aea7d10b08f0d3f0101fb3a954e6e2477bc47f5f4f4": {
+        "title": "The elections that could remake Europe",
+        "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "first_seen": "2026-10-13T12:29:01.154113"
       }
     },
     "Ai": {
-      "a893cc82e9e43aaac169b7357a0dad973c96948b344f3e5f5626483653733cc7": {
-        "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-        "link": "https://www.qbitai.com/2026/09/488672.html",
-        "published_date": "Sun, 13 Sep 2026 07:38:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.210251"
-      },
-      "222328b29a3056d3ee408b11817c4365e907f4293582c0d1176d13c788ae1015": {
-        "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-        "link": "https://www.qbitai.com/2026/09/488519.html",
-        "published_date": "Sun, 13 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.210261"
-      },
-      "3c5522919f6a06a343363fb15fe8a24320de104c1b2de2f995b0dd44525ddfb0": {
-        "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-        "link": "https://www.qbitai.com/2026/09/488447.html",
-        "published_date": "Sun, 13 Sep 2026 06:40:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.210263"
-      },
-      "900cf357f995534faee22990e4856e66711a75a31402c2a56dc1575ae52912ab": {
-        "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-        "link": "https://www.qbitai.com/2026/09/488380.html",
-        "published_date": "Sun, 13 Sep 2026 03:13:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.210264"
-      },
-      "cb7a6825a9dc5d36841bd777393bac7f53381554ddcb88785f3d62bf1957d1f5": {
-        "title": "2026-09-13日刊",
-        "link": "https://hex2077.dev/docs/2026-09/2026-09-13/",
-        "published_date": "Sun, 13 Sep 2026 02:13:00 GMT",
-        "first_seen": "2026-09-13T09:58:58.210266"
-      },
       "0e4e64501446bb9fe3806ccfc1f67c75c92ff49259d4b1945c1093aacbe68f54": {
         "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
         "link": "https://www.qbitai.com/2026/09/489023.html",
@@ -4601,13 +4571,43 @@
         "link": "https://hex2077.dev/docs/2026-10/2026-10-13/",
         "published_date": "Tue, 13 Oct 2026 02:37:00 GMT",
         "first_seen": "2026-10-13T03:22:33.065175"
+      },
+      "e0b06f85715cd3d94cdf34af477b0f6538fdd34c5700c67f7b0ac6f0880d2d53": {
+        "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+        "link": "https://www.qbitai.com/2026/10/502920.html",
+        "published_date": "Tue, 13 Oct 2026 06:19:00 GMT",
+        "first_seen": "2026-10-13T12:29:13.349876"
+      },
+      "350ff74bbdf6158a65ac224653248e3381885db8617a716119714fcb1b020ae5": {
+        "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+        "link": "https://www.qbitai.com/2026/10/503093.html",
+        "published_date": "Tue, 13 Oct 2026 09:33:00 GMT",
+        "first_seen": "2026-10-13T12:29:13.349882"
+      },
+      "9d420464dfec4a72f3fad7b06168439d8a9d6ee6419aba948fd088882b6246c6": {
+        "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+        "link": "https://www.qbitai.com/2026/10/502767.html",
+        "published_date": "Tue, 13 Oct 2026 04:01:00 GMT",
+        "first_seen": "2026-10-13T12:29:13.349884"
+      },
+      "f1113f724ff8b52be4dc26125417b2bd953760170cf71056aeb045f2363f1cfe": {
+        "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+        "link": "https://www.qbitai.com/2026/10/502954.html",
+        "published_date": "Tue, 13 Oct 2026 07:19:00 GMT",
+        "first_seen": "2026-10-13T12:29:13.349886"
+      },
+      "3615839c22c18402c58348c14a67f2bdcacc227d6cb05da2f6397c8a4c592f75": {
+        "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+        "link": "https://www.qbitai.com/2026/10/502784.html",
+        "published_date": "Tue, 13 Oct 2026 04:07:00 GMT",
+        "first_seen": "2026-10-13T12:29:13.349887"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-13T03:22:15.910693",
-    "Finance": "2026-10-13T03:22:32.922948",
-    "Ai": "2026-10-13T03:22:33.065182"
+    "Technology": "2026-10-13T12:28:47.297926",
+    "Finance": "2026-10-13T12:29:01.154116",
+    "Ai": "2026-10-13T12:29:13.349889"
   }
 }
