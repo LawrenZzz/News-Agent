@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 14 Oct 2026 01:35:00 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 01:36:03 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 09:54:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:55:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热</title>
-      <link>https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 21:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&amp;utm_medium=article</guid>
+      <title>信仰加速，估值刹车：具身智能最后一道题，王兴兴凭什么交给 GPT-7</title>
+      <link>https://www.tmtpost.com/8168230.html</link>
+      <description>&lt;![CDATA[信仰加速，估值刹车：具身智能最后一道题，王兴兴凭什么交给 GPT-7]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8168230.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构</title>
-      <link>https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统</title>
+      <link>https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999</title>
-      <link>https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 22:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中日韩一起锚定2030！固态电池，大决战来了</title>
+      <link>https://www.tmtpost.com/8168027.html</link>
+      <description>&lt;![CDATA[中日韩一起锚定2030！固态电池，大决战来了]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 17:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8168027.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产</title>
-      <link>https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产]]&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&amp;utm_medium=article</guid>
+      <title>800MHz三年三易其主：马斯克买到的不是频谱，是美国电信业下一张桌子的座位</title>
+      <link>https://www.tmtpost.com/8168210.html</link>
+      <description>&lt;![CDATA[800MHz三年三易其主：马斯克买到的不是频谱，是美国电信业下一张桌子的座位]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 17:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8168210.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>所有App都在塞AI，但用户已经烦了</title>
-      <link>https://www.tmtpost.com/8167377.html</link>
-      <description>&lt;![CDATA[所有App都在塞AI，但用户已经烦了]]&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 09:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8167377.html</guid>
+      <title>拿下4亿融资，这家深圳公司攻克超声穿颅读脑</title>
+      <link>https://www.tmtpost.com/8162673.html</link>
+      <description>&lt;![CDATA[拿下4亿融资，这家深圳公司攻克超声穿颅读脑]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 17:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8162673.html</guid>
       <category>Technology</category>
     </item>
   </channel>
