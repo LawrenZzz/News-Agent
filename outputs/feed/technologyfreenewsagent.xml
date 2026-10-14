@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Oct 2026 12:28:00 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 12:28:47 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 01:35:00 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:36:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里</title>
-      <link>https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热</title>
+      <link>https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 21:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕</title>
-      <link>https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 18:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构</title>
+      <link>https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程</title>
-      <link>https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999</title>
+      <link>https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999]]&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 22:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高通终于认真做 Linux 了：Snapdragon X2 支持提前进入上游</title>
-      <link>https://www.infoq.cn/article/OjlADL5itjO3PcVHsuMB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[高通终于认真做 Linux 了：Snapdragon X2 支持提前进入上游]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/OjlADL5itjO3PcVHsuMB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产</title>
+      <link>https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望</title>
-      <link>https://www.tmtpost.com/8166022.html</link>
-      <description>&lt;![CDATA[钠电的商业化拐点真来了，宁德时代签下70GWh钠电订单，欧洲集成商不再观望]]&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 09:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8166022.html</guid>
+      <title>所有App都在塞AI，但用户已经烦了</title>
+      <link>https://www.tmtpost.com/8167377.html</link>
+      <description>&lt;![CDATA[所有App都在塞AI，但用户已经烦了]]&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 09:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8167377.html</guid>
       <category>Technology</category>
     </item>
   </channel>

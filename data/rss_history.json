@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5d59da8ccdfc07d2cf9fb618a66ffddb86ead480ffbabc8d6b862085d20b751d": {
-        "title": "一年后agent可能组建僵尸网络，四巨头齐呼刹车",
-        "link": "https://www.tmtpost.com/8138378.html",
-        "published_date": "Sun, 13 Sep 2026 20:20:00 GMT",
-        "first_seen": "2026-09-14T00:40:41.420571"
-      },
-      "780148131e9c0af76f9089fd0fb64fce6ef655b3a1cdedef2861d3e919949976": {
-        "title": "50亿美元融资背后，智谱在赌一个怎样的未来？丨钛快讯",
-        "link": "https://www.tmtpost.com/8138516.html",
-        "published_date": "Sun, 13 Sep 2026 20:17:00 GMT",
-        "first_seen": "2026-09-14T00:40:41.420583"
-      },
-      "464c8f57fb8f992124f9a7db0e66362894a229786b9f8e2b39c15f7daa11c480": {
-        "title": "【钛晨报】事关智能网联新能源汽车产业发展，九部门最新部署；奥尔特曼：OpenAI不会在2026年上市；智谱完成50亿美元融资用于扩大算力供给等用途",
-        "link": "https://www.tmtpost.com/8138491.html",
-        "published_date": "Mon, 14 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-14T00:40:41.420586"
-      },
-      "288098dcc02113e7041d951e40356835ccd4bce43c821b5a2b7480ff120bd0fa": {
-        "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-        "link": "https://www.tmtpost.com/8138350.html",
-        "published_date": "Sun, 13 Sep 2026 20:19:00 GMT",
-        "first_seen": "2026-09-14T00:40:41.420588"
-      },
-      "4d3cb6f6562948ddf1d21f26dba1c1181937b157b4b89e1022c7254005fd12fd": {
-        "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
-        "link": "https://sspai.com/post/114539",
-        "published_date": "Mon, 14 Sep 2026 06:55:00 GMT",
-        "first_seen": "2026-09-14T00:40:41.420589"
-      },
       "12b20ea9fb844329795e276f1bddbfea07050b86779638140a1b5b5616e4d921": {
         "title": "京东建十万卡，字节“借”296亿，AI 算力进入「豪赌时刻」",
         "link": "https://www.tmtpost.com/8139073.html",
@@ -1771,39 +1741,39 @@
         "link": "https://www.tmtpost.com/8166022.html",
         "published_date": "Tue, 13 Oct 2026 09:58:00 GMT",
         "first_seen": "2026-10-13T12:28:47.297924"
+      },
+      "1b6bdc069ad0c5fc631d08c6bbd44b582b3f3911efe067351d8c353872ca19cd": {
+        "title": "30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热",
+        "link": "https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 21:34:00 GMT",
+        "first_seen": "2026-10-14T01:36:03.698068"
+      },
+      "525015917997b97b16f845e349e1e434531f11cb4b74e40dc03023e696d46378": {
+        "title": "Claude 开始自己写程序管理 Agent 了：Anthropic 披露动态工作流架构",
+        "link": "https://www.infoq.cn/article/8La5gsJVOOF5BvFiLAUF?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 17:41:00 GMT",
+        "first_seen": "2026-10-14T01:36:03.698077"
+      },
+      "f5e034501ddc9392e11c185bed5b41c1c8a3fb45573eb6ba13ae1a7229511129": {
+        "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "link": "https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Oct 2026 22:26:00 GMT",
+        "first_seen": "2026-10-14T01:36:03.698078"
+      },
+      "a648c5617190f9f1544e7971cb0f4ecb415682a2b5d40fdef6eb7a86b2318f88": {
+        "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+        "link": "https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Oct 2026 09:21:00 GMT",
+        "first_seen": "2026-10-14T01:36:03.698080"
+      },
+      "adad91a56882ce7d152f6cf192330d7a60504167135a462f09a4194af6c60cc5": {
+        "title": "所有App都在塞AI，但用户已经烦了",
+        "link": "https://www.tmtpost.com/8167377.html",
+        "published_date": "Wed, 14 Oct 2026 09:02:00 GMT",
+        "first_seen": "2026-10-14T01:36:03.698082"
       }
     },
     "Finance": {
-      "ab657fb232a3cb6bef50ae8621d351446b98bb8fc57a8e3cd9b999897996c2fb": {
-        "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-        "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-        "published_date": "Sun, 13 Sep 2026 19:00:00 GMT",
-        "first_seen": "2026-09-14T00:40:57.589322"
-      },
-      "a4b0d7ba430055872395a27d99214d3b0aaadb42bbddd2d4c852a92f5da784fa": {
-        "title": "Michael Dell’s family office nears deal to take $4.1bn insurance broker private",
-        "link": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 22:14:00 GMT",
-        "first_seen": "2026-09-14T00:40:57.589329"
-      },
-      "85a15e005f90d920a93ab4bca88ebe23048e29dd0d67f099561506826810b641": {
-        "title": "Gulf states postpone talks with Iran over Hormuz impasse",
-        "link": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 22:37:00 GMT",
-        "first_seen": "2026-09-14T00:40:57.589331"
-      },
-      "74bb82158fa4f30e95a7e278d8bf4fffe33d1e92fc0874d3ed5e9d9071f92e9d": {
-        "title": "Trump calls on Ukraine to stop striking Russian oil refineries",
-        "link": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 19:08:00 GMT",
-        "first_seen": "2026-09-14T00:40:57.589333"
-      },
-      "fcc0b07df12e9213aa4b6ad95fbc4560d4e080f1534d1afaa0faf1d486af39ee": {
-        "title": "Anthropic tells investors it will be profitable for second straight quarter",
-        "link": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
-        "published_date": "Sun, 13 Sep 2026 22:29:00 GMT",
-        "first_seen": "2026-09-14T00:40:57.589335"
-      },
       "3fbed52be22a760c29a5013edef68d4d80345315a9e51c959d8f5a94850c7f85": {
         "title": "European capitals barter over Christine Lagarde’s successor at ECB",
         "link": "https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1",
@@ -3543,6 +3513,36 @@
         "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
         "published_date": "Tue, 13 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-13T12:29:01.154113"
+      },
+      "814c51d8552f7987f6928e1d0fdb0b480d5fde6258d6c34a5ef98b3348444ab7": {
+        "title": "Bank of America fined $1.2bn over money laundering failures",
+        "link": "https://www.ft.com/content/c08dd4a1-74a4-49f2-90f7-0857c6e87868?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 20:00:00 GMT",
+        "first_seen": "2026-10-14T01:36:20.161213"
+      },
+      "2c2837a589cd9dab324c1327aea592d6362b0f0b86a8d500639434c047d4e179": {
+        "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
+        "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 22:00:00 GMT",
+        "first_seen": "2026-10-14T01:36:20.161218"
+      },
+      "56ce811213b5cf3165d3b6b9dfc6cb6f0fd723cba318905ef8edabd6695c06df": {
+        "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+        "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Oct 2026 21:02:00 GMT",
+        "first_seen": "2026-10-14T01:36:20.161220"
+      },
+      "f98230d3bc28d9d589d49484a54829aa1b0565ed1ac46c3a10b522bb7ef6095d": {
+        "title": "Micron’s stock extends declines as China competition heats up",
+        "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+        "published_date": "Tue, 13 Oct 2026 20:25:00 GMT",
+        "first_seen": "2026-10-14T01:36:20.161220"
+      },
+      "06a9c24b90ff4d7aec93ac9beaecb81c6aa4e33bab7d1732405ac821972a1b8b": {
+        "title": "How not to revive Europe’s auto industry",
+        "link": "https://www.ft.com/content/52a1bbdd-2171-4fcb-9efe-99ed4283def5?syn-25a6b1a6=1",
+        "published_date": "Tue, 13 Oct 2026 15:03:00 GMT",
+        "first_seen": "2026-10-14T01:36:20.161221"
       }
     },
     "Ai": {
@@ -4606,8 +4606,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-13T12:28:47.297926",
-    "Finance": "2026-10-13T12:29:01.154116",
+    "Technology": "2026-10-14T01:36:03.698084",
+    "Finance": "2026-10-14T01:36:20.161223",
     "Ai": "2026-10-13T12:29:13.349889"
   }
 }
